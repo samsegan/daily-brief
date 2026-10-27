@@ -2,6 +2,9 @@
 // All text is inserted with textContent: brief content is model-written and
 // feed-derived, so it is never parsed as HTML.
 
+import { mountRain } from "./rain.js";
+import { mountSettings } from "./settings.js";
+
 const DATA_ROOT = "data";
 const DATE_PARAM = "date";
 const NEWS_SECTIONS = ["us", "world", "nyc"];
@@ -150,7 +153,7 @@ function sourcesBlock(story) {
 
 function storyCard(story) {
   const refsById = new Map(story.refs.map((ref) => [ref.id, ref]));
-  return el("article", { class: "story", id: `story-${story.id}` },
+  return el("article", { class: "story module", id: `story-${story.id}` },
     el("div", { class: "story-meta" },
       story.region ? el("span", { class: "tag" }, story.region) : null,
       spectrum(story.lean_counts)),
@@ -224,7 +227,7 @@ function marketsSection(markets, businessStories) {
         el("li", {}, el("strong", {}, `${mover.name}: `), mover.why))),
     ] : null,
     el("h3", { class: "subhead" }, "Learn one thing"),
-    el("div", { class: "concept" }, el("h4", {}, markets.concept.term), el("p", {}, markets.concept.explanation)),
+    el("div", { class: "concept module" }, el("h4", {}, markets.concept.term), el("p", {}, markets.concept.explanation)),
     markets.watch.length ? [
       el("h3", { class: "subhead" }, "Coming up"),
       el("ul", { class: "watch" }, markets.watch.map((item) => el("li", {}, item))),
@@ -260,7 +263,7 @@ function trendingSection(brief) {
 // --- page -----------------------------------------------------------------------
 
 function section(id, title, ...content) {
-  return el("section", { class: "section", id }, el("h2", { class: "section-title" }, title), content);
+  return el("section", { class: "section", id }, el("h2", { class: "section-title" }, el("span", { class: "plate" }, title)), content);
 }
 
 function renderNav() {
@@ -304,7 +307,7 @@ function renderBrief(brief) {
   const newsSection = (id) => section(id, sections.get(id).title,
     storyList(sections.get(id).stories, "Nothing major today."));
   document.getElementById("app").replaceChildren(
-    el("div", { class: "overview" }, el("p", {}, brief.overview)),
+    el("div", { class: "overview" }, el("p", {}, el("span", { class: "prompt", "aria-hidden": "true" }, ">"), brief.overview)),
     newsSection(NEWS_SECTIONS[0]),
     newsSection(NEWS_SECTIONS[1]),
     section(BUSINESS_SECTION, "Markets", marketsSection(brief.markets, sections.get(BUSINESS_SECTION).stories)),
@@ -315,6 +318,8 @@ function renderBrief(brief) {
 
 async function main() {
   renderNav();
+  mountSettings();
+  mountRain();
   const app = document.getElementById("app");
   try {
     const index = await fetchJson(`${DATA_ROOT}/index.json`);

@@ -46,6 +46,15 @@ scripts/pull-ingest.sh                            # or fetch the Actions-made bu
 python3 -m http.server -d docs 8000               # preview the site
 ```
 
+## Skins
+
+The gear menu switches between **Matrix** (default: green phosphor steel with
+code rain), **Cold Steel** (the plug-ins' own blue-black skin) and **Paper**,
+and turns grit (textures, scanlines, rain) on or off. The choice is saved in
+the browser. `docs/skin.js` applies it before paint; `docs/steel.css` holds
+both steel palettes. Steel textures are the plug-ins' Cold Steel images; the
+Matrix ones are drawn by `node tools/textures/render.mjs`.
+
 ## Editing sources
 
 `config/sources.toml` lists each outlet with a rough lean and whether it's
