@@ -1,0 +1,661 @@
+{
+ "stories": [
+  {
+   "id": "anthropic-ipo-filing-public",
+   "headline": "Anthropic makes its IPO filing public, setting up what could be the largest stock debut ever",
+   "region": "IPO",
+   "importance": 5,
+   "summary": "Anthropic, the company that makes the Claude chatbot, on Monday made public its paperwork to sell shares on the stock market, a step that several outlets say could lead to the biggest initial public offering in history. The filing says it plans to list on the Nasdaq under the ticker “ANT,” and MarketWatch reports it could pitch investors the week of Nov. 9 and begin trading as soon as the week after. The filing came on a day of very large AI fundraising deals, and European chip stocks rose on Tuesday on what The Wall Street Journal called renewed optimism about AI-linked stocks.",
+   "why_it_matters": "If the listing goes ahead, anyone with a brokerage account could buy shares in a major AI developer, and how investors receive it will show how much Wall Street is willing to pay for the AI boom.",
+   "background": "An initial public offering, or IPO, is when a private company first sells shares to the public on a stock exchange. Before it can do that, a U.S. company must file a document called an S-1, or prospectus, with the Securities and Exchange Commission (SEC), laying out its finances, its plans and the risks it faces. Anthropic submitted a draft confidentially in June so regulators could review it privately; Monday's release made it public. The next step is a “roadshow,” in which the company and its banks pitch large investors before a share price is set. The listing comes as big tech companies spend and borrow enormous sums to build the data centers and chips that AI runs on. Disclosure: this brief is written by Claude, an AI model made by Anthropic, so read this story with that in mind and check the linked coverage.",
+   "facts": [
+    {
+     "text": "The Securities and Exchange Commission released Anthropic's S-1 filing on Monday, Oct. 26.",
+     "refs": [
+      "83ac5bbc45",
+      "3b352411a6"
+     ]
+    },
+    {
+     "text": "According to the filing, Anthropic plans to list on the Nasdaq exchange under the ticker “ANT.”",
+     "refs": [
+      "24d0fdc12e"
+     ]
+    },
+    {
+     "text": "Anthropic first submitted the paperwork confidentially in June, which let the SEC review its finances before the public release; at the time it said the number of shares and the price had not been set.",
+     "refs": [
+      "24d0fdc12e",
+      "business-w2"
+     ]
+    },
+    {
+     "text": "Outlets including the Financial Times, NPR, the Associated Press, Axios and CNN said the offering could be among the biggest stock market debuts ever, and possibly the biggest.",
+     "refs": [
+      "4a77ae6976",
+      "a80ff3f218",
+      "8e22bd67e6",
+      "54850c3f47",
+      "1c0dcb5d12"
+     ]
+    },
+    {
+     "text": "With the filing public, Anthropic can hold its investor roadshow the week of Nov. 9 and would be eligible to start trading as soon as the following week, MarketWatch reported.",
+     "refs": [
+      "3b352411a6"
+     ]
+    },
+    {
+     "text": "The prospectus includes warnings about AI itself: the BBC reported that Anthropic warned of “catastrophic risk” to humankind, the AP reported the CEO warned of risk to humanity, and the New York Post highlighted its description of chatbots' “self-preserving behaviors.”",
+     "refs": [
+      "76ad05f5fc",
+      "8e22bd67e6",
+      "24d0fdc12e"
+     ]
+    },
+    {
+     "text": "A $63 billion debt deal for Anthropic, announced Monday, is the biggest ever to raise money for AI infrastructure, and Broadcom's CEO intervened to seal it, The Wall Street Journal reported.",
+     "refs": [
+      "ee333d29ad"
+     ]
+    },
+    {
+     "text": "Also on Monday, Meta announced plans to raise a total of $95 billion for AI infrastructure, with Nvidia and AMD set to invest $4 billion in Meta, and Meta and SpaceX both moved to raise billions more for AI.",
+     "refs": [
+      "16113b705e",
+      "a0b3366b12"
+     ]
+    },
+    {
+     "text": "Axios described a $235 billion AI dealmaking blitz led by the Anthropic filing, which it said nearly equals 1% of U.S. economic output (GDP).",
+     "refs": [
+      "54850c3f47"
+     ]
+    },
+    {
+     "text": "European semiconductor stocks rose on Tuesday, which The Wall Street Journal tied to renewed optimism about AI-exposed stocks after the filing.",
+     "refs": [
+      "5e5f8c31ef"
+     ]
+    },
+    {
+     "text": "The New York Times reported that Wall Street banks and chipmakers are among those poised to benefit from the listing.",
+     "refs": [
+      "3f741ace13"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [
+    {
+     "ref": "83ac5bbc45",
+     "note": "Frames the filing as a split verdict among investors, from “speculative fiction” to a “generational moment.”"
+    },
+    {
+     "ref": "24d0fdc12e",
+     "note": "Puts the company's own warnings about chatbot “blackmail” in the headline next to the blockbuster IPO."
+    },
+    {
+     "ref": "54850c3f47",
+     "note": "Treats the IPO as the lead act in a much bigger AI money story, stressing its size against the whole U.S. economy."
+    },
+    {
+     "ref": "5e5f8c31ef",
+     "note": "Market angle only: what the prospectus did for chip stocks in Europe."
+    }
+   ],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "83ac5bbc45",
+     "takeaway": "Headline and summary only: investors divided over growth versus losses in the S-1.",
+     "read_full": false
+    },
+    {
+     "ref": "3b352411a6",
+     "takeaway": "Headline and summary only: explainer on the roadshow and earliest listing dates.",
+     "read_full": false
+    },
+    {
+     "ref": "24d0fdc12e",
+     "takeaway": "Headline and summary only: Nasdaq listing and ticker, plus the filing's AI-risk warnings.",
+     "read_full": false
+    },
+    {
+     "ref": "4a77ae6976",
+     "takeaway": "Headline and summary only (paywalled): live coverage of the prospectus, calling it potentially the biggest debut ever.",
+     "read_full": false
+    },
+    {
+     "ref": "a80ff3f218",
+     "takeaway": "Headline and summary only: straight news of a potentially record-breaking IPO.",
+     "read_full": false
+    },
+    {
+     "ref": "8e22bd67e6",
+     "takeaway": "Headline only: pairs the record-IPO angle with the CEO's warning about AI risk.",
+     "read_full": false
+    },
+    {
+     "ref": "1c0dcb5d12",
+     "takeaway": "Headline only: emphasizes the possible size of the IPO.",
+     "read_full": false
+    },
+    {
+     "ref": "54850c3f47",
+     "takeaway": "Headline and summary only: places the IPO within a day of AI deals worth hundreds of billions.",
+     "read_full": false
+    },
+    {
+     "ref": "76ad05f5fc",
+     "takeaway": "Headline and summary only: leads with the risk warning and calls it the first true AI company to go public.",
+     "read_full": false
+    },
+    {
+     "ref": "10865bbb2c",
+     "takeaway": "Headline and summary only: list of new disclosures from the prospectus.",
+     "read_full": false
+    },
+    {
+     "ref": "ee333d29ad",
+     "takeaway": "Headline and summary only (paywalled): behind-the-scenes account of the $63 billion debt deal.",
+     "read_full": false
+    },
+    {
+     "ref": "16113b705e",
+     "takeaway": "Headline and summary only: Meta's $95 billion fundraising and Nvidia and AMD's stake.",
+     "read_full": false
+    },
+    {
+     "ref": "a0b3366b12",
+     "takeaway": "Headline and summary only (paywalled): Meta and SpaceX raising more for AI.",
+     "read_full": false
+    },
+    {
+     "ref": "5e5f8c31ef",
+     "takeaway": "Headline and summary only (paywalled): market reaction in European chip stocks.",
+     "read_full": false
+    },
+    {
+     "ref": "3f741ace13",
+     "takeaway": "Headline and summary only (paywalled): who stands to profit from the listing.",
+     "read_full": false
+    },
+    {
+     "ref": "business-w2",
+     "takeaway": "Seen in search results only: June report on the confidential draft filing.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "fed-october-meeting-hold-expected",
+   "headline": "Fed is expected to hold rates this week, with more hikes possible later",
+   "region": "Fed",
+   "importance": 4,
+   "summary": "The Federal Reserve's rate-setting committee meets Tuesday and Wednesday, and almost everyone surveyed expects it to leave its benchmark interest rate unchanged after raising it in September for the first time in three years. With inflation moving the wrong way and the job market steady, coverage says the focus is on whether Fed Chair Kevin Warsh signals more increases ahead.",
+   "why_it_matters": "The Fed's rate sets the tone for what you pay on credit cards, car loans and mortgages and what you earn on savings, so a signal of more hikes means borrowing could get more expensive. Only left-leaning outlets in today's feeds ran previews of the meeting.",
+   "background": "The Federal Reserve is the U.S. central bank. Its main tool is the federal funds rate, the rate banks charge each other for overnight loans, which ripples out to the rates people pay and earn. Raising it makes borrowing more expensive, which tends to cool spending and slow price increases; cutting it does the opposite. In September the Fed raised the rate by a quarter of a percentage point (25 “basis points”), to a range of 3.75% to 4%. The latest federal data show consumer prices up 3.7% in the year to September, well above the Fed's 2% goal, with unemployment at 4.2%.",
+   "facts": [
+    {
+     "text": "The Fed's rate-setting committee meets Oct. 27-28, and officials will announce their decision this week.",
+     "refs": [
+      "business-w4",
+      "aeccf4beef"
+     ]
+    },
+    {
+     "text": "In a CNBC survey, 93% of respondents expected the Fed to pause at this week's meeting, and CNBC reported that markets overwhelmingly expect no change.",
+     "refs": [
+      "3f7b97fe86",
+      "aa9226f8d2"
+     ]
+    },
+    {
+     "text": "In September the Fed raised its target range by a quarter point to 3.75%-4% in a unanimous vote, saying inflation remained elevated and pointing to its 2% goal.",
+     "refs": [
+      "business-w3"
+     ]
+    },
+    {
+     "text": "The September increase was the Fed's first rate hike in three years, CBS News reported.",
+     "refs": [
+      "aeccf4beef"
+     ]
+    },
+    {
+     "text": "Kevin Warsh is in his first months as Fed chair.",
+     "refs": [
+      "business-w5"
+     ]
+    },
+    {
+     "text": "The New York Times reported that inflation is moving in the wrong direction while the labor market remains stable, which strengthens the case for higher rates, and that Warsh will have to explain why the Fed is holding.",
+     "refs": [
+      "ec848bf38a"
+     ]
+    },
+    {
+     "text": "CNBC reported that Warsh may point the way to more rate hikes, and its survey found respondents expect hikes to come later rather than this week.",
+     "refs": [
+      "aa9226f8d2",
+      "3f7b97fe86"
+     ]
+    },
+    {
+     "text": "The Washington Post noted that the Fed generally avoids moving rates right before elections, and looked at the times it did.",
+     "refs": [
+      "d541f78aba"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [
+    {
+     "ref": "ec848bf38a",
+     "note": "Leads with the pressure on Warsh to justify holding while inflation rises."
+    },
+    {
+     "ref": "3f7b97fe86",
+     "note": "Treats more hikes as a given and only the timing as in question."
+    },
+    {
+     "ref": "aeccf4beef",
+     "note": "Poses it as an open question for general readers and stresses that September's hike was the first in three years."
+    },
+    {
+     "ref": "d541f78aba",
+     "note": "Puts the meeting's timing next to the elections at the center."
+    }
+   ],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "aeccf4beef",
+     "takeaway": "Headline and summary only: reader-friendly preview recalling the September hike.",
+     "read_full": false
+    },
+    {
+     "ref": "d541f78aba",
+     "takeaway": "Headline only (paywalled): history of Fed moves near elections.",
+     "read_full": false
+    },
+    {
+     "ref": "ec848bf38a",
+     "takeaway": "Headline and summary only (paywalled): inflation and jobs data argue for higher rates; Warsh must explain a hold.",
+     "read_full": false
+    },
+    {
+     "ref": "3f7b97fe86",
+     "takeaway": "Headline and summary only: survey shows 93% expect a pause, with hikes later.",
+     "read_full": false
+    },
+    {
+     "ref": "aa9226f8d2",
+     "takeaway": "Headline and summary only: markets expect no change; Warsh may hint at more hikes.",
+     "read_full": false
+    },
+    {
+     "ref": "business-w3",
+     "takeaway": "Seen in search results only: the Fed's official September statement on the rate increase.",
+     "read_full": false
+    },
+    {
+     "ref": "business-w4",
+     "takeaway": "Seen in search results only: calendar listing the Oct. 27-28 meeting.",
+     "read_full": false
+    },
+    {
+     "ref": "business-w5",
+     "takeaway": "Seen in search results only: trade-press piece on Warsh's opening months as chair.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "boeing-737-outlook-shares-slide",
+   "headline": "Boeing shares drop about 10% on slower 737 Max plans and a weaker cash outlook",
+   "region": "Earnings",
+   "importance": 3,
+   "summary": "Boeing's stock fell about 10% on Tuesday after the plane maker reported third-quarter results and said it won't significantly increase 737 Max production until late 2027. Reuters said investors were reacting to slower-than-expected production and a weaker outlook for free cash flow, and MarketWatch said Boeing will come up short on 737 Max deliveries.",
+   "why_it_matters": "When Boeing builds jets more slowly, airlines wait longer for planes they have already ordered, and the company's results matter to its workers, suppliers and shareholders.",
+   "background": "Boeing makes commercial airliners, and the pace at which it builds its 737 Max jet is central to its plan to turn the business around. Free cash flow is the cash a company has left after paying its operating costs and investing in factories and equipment; it shows whether a business can fund itself, pay down debt and reward shareholders. Companies report results every three months, and investors often react as much to what a company says about the future, its “outlook,” as to the past quarter. Boeing's backlog, the orders it has taken but not yet filled, is at a record, which means many customers are waiting on it to build planes.",
+   "facts": [
+    {
+     "text": "Boeing reported its quarterly results before the market opened on Tuesday.",
+     "refs": [
+      "3f00aa7711"
+     ]
+    },
+    {
+     "text": "Boeing's stock fell about 10% after the company said it won't significantly ramp up 737 Max production until late 2027.",
+     "refs": [
+      "3f00aa7711"
+     ]
+    },
+    {
+     "text": "Reuters reported that shares sold off on slower-than-expected 737 production and a weaker free cash flow outlook.",
+     "refs": [
+      "1db7452a00"
+     ]
+    },
+    {
+     "text": "MarketWatch reported that Boeing will come up short on 737 Max deliveries, which it said casts doubt on Boeing's turnaround plans.",
+     "refs": [
+      "789eb49709"
+     ]
+    },
+    {
+     "text": "Boeing's results release reported third-quarter operating cash flow of $1.5 billion and free cash flow of $0.5 billion.",
+     "refs": [
+      "business-w6"
+     ]
+    },
+    {
+     "text": "Boeing said its order backlog reached a record $745 billion, including more than 6,300 commercial airplanes.",
+     "refs": [
+      "business-w6"
+     ]
+    },
+    {
+     "text": "Boeing said two newer versions of the jet, the 737-7 and the 737-10, received amended type certification from the Federal Aviation Administration, the 737-10 in October.",
+     "refs": [
+      "business-w6"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [
+    {
+     "ref": "3f00aa7711",
+     "note": "Leads with the size of the drop and the late-2027 timeline."
+    },
+    {
+     "ref": "1db7452a00",
+     "note": "Frames the selloff around two misses at once: production and cash."
+    },
+    {
+     "ref": "789eb49709",
+     "note": "Emphasizes deliveries and doubts about the turnaround."
+    },
+    {
+     "ref": "257c41c808",
+     "note": "Investment-advice piece that casts the drop as a buying opportunity and a reset of expectations."
+    }
+   ],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "3f00aa7711",
+     "takeaway": "Headline and summary only: the 10% drop and the production timeline.",
+     "read_full": false
+    },
+    {
+     "ref": "1db7452a00",
+     "takeaway": "Headline only: selloff on production and cash-flow outlook.",
+     "read_full": false
+    },
+    {
+     "ref": "789eb49709",
+     "takeaway": "Headline and summary only: delivery shortfall and what it means for the turnaround.",
+     "read_full": false
+    },
+    {
+     "ref": "257c41c808",
+     "takeaway": "Headline and summary only: investing-club commentary arguing the dip is worth buying; used for framing, not facts.",
+     "read_full": false
+    },
+    {
+     "ref": "business-w6",
+     "takeaway": "Seen in search results only: Boeing's official results release filed with the SEC.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "oil-eases-gold-gains-oct27",
+   "headline": "Oil eases on Middle East diplomacy and gold rises as traders await the Fed",
+   "region": "Commodities",
+   "importance": 3,
+   "summary": "Oil futures pulled back on Tuesday as traders focused on diplomatic efforts to ease tensions in the Middle East, and gold settled higher, The Wall Street Journal reported. Softer oil also helped lift European stocks, which shrugged off an earnings miss at HSBC, meaning results that fell short of forecasts, Reuters reported. Prices swung during the day as traders also positioned ahead of the Fed's meeting.",
+   "why_it_matters": "Oil prices feed directly into what you pay for gasoline, heating and shipped goods, so a lasting drop would ease pressure on household budgets and on the inflation the Fed is trying to bring down.",
+   "background": "Oil is priced per barrel and traded through futures, contracts to buy or sell at a set price on a future date; the two main benchmarks are U.S. crude (WTI) and Brent, the international benchmark. Prices have been above $100: the latest federal data, from Oct. 20, put U.S. crude near $108 a barrel and Brent near $115. This year oil has swung with the ups and downs of U.S.-Iran peace talks and with risks to tanker traffic through the Strait of Hormuz. Gold is often bought as a place to park money when investors are nervous; because it pays no interest, higher interest rates can make it less attractive.",
+   "facts": [
+    {
+     "text": "Gold settled higher on Tuesday as oil futures pulled back, with the market focusing on diplomatic efforts to ease tensions in the Middle East.",
+     "refs": [
+      "47785fce94"
+     ]
+    },
+    {
+     "text": "Reuters reported that gold gained on softer oil prices ahead of the Fed meeting.",
+     "refs": [
+      "47a50fcfdf"
+     ]
+    },
+    {
+     "text": "European shares shrugged off an HSBC earnings miss as other company results and relief on oil lifted sentiment, Reuters reported.",
+     "refs": [
+      "9fd46876a7"
+     ]
+    },
+    {
+     "text": "An earlier Reuters item on Canadian stock futures described the opposite moves, with gold weakness offsetting oil gains, a sign of how prices swung during the day.",
+     "refs": [
+      "0dcf0908cd"
+     ]
+    },
+    {
+     "text": "In August, oil rose as hopes for a U.S.-Iran peace deal faded amid risks around the Strait of Hormuz, and dipped on news of progress in talks over the strait.",
+     "refs": [
+      "business-w7",
+      "business-w8"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [
+    {
+     "ref": "47785fce94",
+     "note": "Makes gold the headline and oil's fall the reason."
+    },
+    {
+     "ref": "9fd46876a7",
+     "note": "Treats cheaper oil as relief for stock markets."
+    },
+    {
+     "ref": "47a50fcfdf",
+     "note": "Ties the gold move to the coming Fed decision."
+    },
+    {
+     "ref": "3ba145c8e1",
+     "note": "Chart-reading analysis arguing the oil rally may have run out of steam."
+    }
+   ],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "47785fce94",
+     "takeaway": "Headline and summary only (paywalled): gold up, oil down on Middle East diplomacy.",
+     "read_full": false
+    },
+    {
+     "ref": "47a50fcfdf",
+     "takeaway": "Headline only: gold gains on softer oil before the Fed.",
+     "read_full": false
+    },
+    {
+     "ref": "0dcf0908cd",
+     "takeaway": "Headline only: earlier session in which gold fell and oil rose.",
+     "read_full": false
+    },
+    {
+     "ref": "9fd46876a7",
+     "takeaway": "Headline only: European stocks lifted by earnings and oil relief.",
+     "read_full": false
+    },
+    {
+     "ref": "3ba145c8e1",
+     "takeaway": "Headline and summary only: technical-analysis view on oil; used for framing, not facts.",
+     "read_full": false
+    },
+    {
+     "ref": "business-w7",
+     "takeaway": "Seen in search results only: August report on oil dipping on Hormuz talks.",
+     "read_full": false
+    },
+    {
+     "ref": "business-w8",
+     "takeaway": "Seen in search results only: August report on oil rising as U.S.-Iran peace hopes faded.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "doordash-instacart-takeover-talks",
+   "headline": "DoorDash is in talks to buy Instacart for about $17 billion, reports say",
+   "region": "Deals",
+   "importance": 2,
+   "summary": "DoorDash is in talks to buy rival delivery app Instacart for roughly $17 billion, Reuters and Bloomberg reported, citing unnamed sources; Bloomberg described the talks as advanced. The New York Post reported that Instacart's separate talks with Uber are no longer active. The reports rely on unnamed sources, and the companies had not announced an agreement.",
+   "why_it_matters": "A deal would put two major delivery apps under one owner, which matters for people who pay delivery fees and for the gig workers who deliver for these apps; mergers that reduce competition can draw review from antitrust regulators.",
+   "background": "Instacart's parent company is called Maplebear, and its shares trade on the stock market. In a takeover, the buyer usually pays a premium, a price above where the target's stock trades, to win shareholders' approval. Instacart had been reported to be in sale talks with both Uber and DoorDash, which sent its stock higher. Antitrust regulators can review or challenge mergers that they believe would reduce competition and hurt customers.",
+   "facts": [
+    {
+     "text": "DoorDash is in talks to buy Instacart, Reuters, Bloomberg and The Wall Street Journal reported.",
+     "refs": [
+      "7ec540cf61",
+      "e350340f19",
+      "abb6480543"
+     ]
+    },
+    {
+     "text": "Reuters and Bloomberg put the price at roughly $17 billion, citing unnamed sources.",
+     "refs": [
+      "7ec540cf61",
+      "e350340f19"
+     ]
+    },
+    {
+     "text": "Bloomberg reported the talks are advanced and that the target is Instacart's parent company, Maplebear.",
+     "refs": [
+      "e350340f19"
+     ]
+    },
+    {
+     "text": "The New York Post, citing a source, reported that Instacart's deal talks with Uber are no longer active.",
+     "refs": [
+      "36a579dbe0"
+     ]
+    },
+    {
+     "text": "Instacart's stock rose about 9% on earlier reports that it was in sale talks with Uber and DoorDash.",
+     "refs": [
+      "business-w9"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [
+    {
+     "ref": "7ec540cf61",
+     "note": "Plain “in talks” with the source named in the headline."
+    },
+    {
+     "ref": "e350340f19",
+     "note": "“Near” suggests the deal is close to done."
+    },
+    {
+     "ref": "36a579dbe0",
+     "note": "Calls Instacart a “delivery rival” and adds that Uber is out."
+    },
+    {
+     "ref": "abb6480543",
+     "note": "“Circles” casts DoorDash as the pursuer, with no price in the headline."
+    }
+   ],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "7ec540cf61",
+     "takeaway": "Headline only: talks at roughly $17 billion, per a source.",
+     "read_full": false
+    },
+    {
+     "ref": "e350340f19",
+     "takeaway": "Headline and summary only (paywalled video): advanced talks to buy Maplebear for about $17 billion.",
+     "read_full": false
+    },
+    {
+     "ref": "36a579dbe0",
+     "takeaway": "Headline and summary only: follows the reports and adds that Uber talks ended.",
+     "read_full": false
+    },
+    {
+     "ref": "abb6480543",
+     "takeaway": "Headline only (paywalled): newsletter item on DoorDash circling a deal.",
+     "read_full": false
+    },
+    {
+     "ref": "business-w9",
+     "takeaway": "Seen in search results only: earlier report of Instacart's stock jump on sale talks.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  }
+ ],
+ "web_refs": [
+  {
+   "id": "business-w2",
+   "url": "https://www.npr.org/2026/06/01/nx-s1-5843199/anthropic-ipo-filing-ai-large",
+   "title": "AI giant Anthropic prepares to sell stock to the public, files preliminary IPO paperwork",
+   "outlet": "NPR"
+  },
+  {
+   "id": "business-w3",
+   "url": "https://federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+   "title": "Federal Reserve press release, September 16, 2026",
+   "outlet": "Federal Reserve"
+  },
+  {
+   "id": "business-w4",
+   "url": "https://fedratecalc.com/fomc-meeting-schedule/",
+   "title": "FOMC Meeting Schedule 2026 (and 2025 & 2027 Dates)",
+   "outlet": "FedRateCalc"
+  },
+  {
+   "id": "business-w5",
+   "url": "https://www.mpamag.com/us/mortgage-industry/industry-trends/key-dates-that-will-define-kevin-warshs-opening-months-as-fed-chair/576298",
+   "title": "Key dates that will define Kevin Warsh's opening months as Fed chair",
+   "outlet": "Mortgage Professional America"
+  },
+  {
+   "id": "business-w6",
+   "url": "https://www.sec.gov/Archives/edgar/data/0000012927/000162828026067411/a202609sep308kprex991.htm",
+   "title": "Boeing Co. Form 8-K, Exhibit 99.1: third-quarter 2026 results",
+   "outlet": "Boeing (SEC filing)"
+  },
+  {
+   "id": "business-w7",
+   "url": "https://www.bostonglobe.com/2026/08/26/world/oil-prices-dip-news-progress-hormuz-talks/",
+   "title": "Oil prices dip on news of progress in Hormuz talks",
+   "outlet": "The Boston Globe"
+  },
+  {
+   "id": "business-w8",
+   "url": "https://www.businesstoday.com.my/2026/08/18/oil-climbs-on-fading-us-iran-peace-hopes-strait-of-hormuz-risks/",
+   "title": "Oil Climbs On Fading US-Iran Peace Hopes, Strait Of Hormuz Risks",
+   "outlet": "Business Today (Malaysia)"
+  },
+  {
+   "id": "business-w9",
+   "url": "https://www.analyticsinsight.net/news/instacart-sale-talks-with-uber-and-doordash-push-stock-up-9",
+   "title": "Instacart Sale Talks with Uber and DoorDash Push Stock Up 9%",
+   "outlet": "Analytics Insight"
+  }
+ ]
+}

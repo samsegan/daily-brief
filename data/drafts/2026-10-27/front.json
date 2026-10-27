@@ -1,0 +1,66 @@
+{
+ "overview": "The Justice Department moved to prosecute former FBI Director James Comey a third time, a week before midterm elections in which the final NPR/PBS News/Marist poll shows Democrats ahead by 8 points. Abroad, Lula won a fourth term in Brazil as his defeated rival Flávio Bolsonaro reportedly left for the US, and Israelis turned out in record numbers in an election seen as a verdict on Netanyahu. On Wall Street, Anthropic made its IPO filing public ahead of what could be the biggest stock debut ever, and the Fed is expected to hold rates on Wednesday. In New York, Gov. Hochul is making her pause on new data centers the centerpiece of her race's final week.",
+ "markets": {
+  "summary": "U.S. stocks rose on Monday, with the S&P 500 up 0.7% and the tech-heavy Nasdaq up 0.8%, and Japan's Nikkei gained 1.7% on Tuesday. Much of the market news was about artificial intelligence: Anthropic made its IPO filing public, and European chip stocks rose on renewed optimism about AI-linked companies. On Tuesday oil prices eased on diplomatic efforts in the Middle East and gold rose, while Boeing fell about 10% after slowing its 737 Max plans. Everyone is waiting for Wednesday, when the Federal Reserve is widely expected to hold interest rates steady after raising them in September. The oil, gas and currency numbers below come from the Fed's data service and run several days behind.",
+  "movers": [
+   {
+    "symbol": "SP500",
+    "why": "Up 0.7% on Monday, a day dominated by AI deal news, including Anthropic's public IPO filing and Meta's plan to raise $95 billion for AI infrastructure."
+   },
+   {
+    "symbol": "CPIAUCSL",
+    "why": "Consumer prices were up 3.7% over the year to September, up from 3.4% in August and well above the Fed's 2% goal. Inflation running above target is why the Fed raised rates in September, and this reading moving further the wrong way is why markets are watching for signs of more hikes."
+   },
+   {
+    "symbol": "DCOILBRENTEU",
+    "why": "Brent crude, the global oil benchmark, was about $115 a barrel as of Oct. 20 (this series runs a week behind). On Tuesday oil futures eased as traders focused on diplomatic efforts to calm tensions in the Middle East."
+   }
+  ],
+  "concept": {
+   "term": "The federal funds rate",
+   "explanation": "It's the interest rate banks charge each other for overnight loans, and it's the main lever the Federal Reserve pulls to steer the economy. The Fed sets a target range, now 3.75% to 4%, at meetings held eight times a year; this week's ends Wednesday. Raising it makes borrowing more expensive across the economy, which slows spending and, over time, cools inflation; cutting it does the opposite. You feel it fastest in credit card and savings account rates, which move within weeks. Mortgage rates follow longer-term Treasury yields instead, so they react to what investors expect the Fed to do over the next several years."
+  },
+  "watch": [
+   "Wed Oct 28, 2 p.m. ET: Federal Reserve interest-rate decision, with a press conference at 2:30",
+   "Wed Oct 28 to Thu Oct 29: Alphabet, Microsoft, Meta, Apple and Amazon are listed to report earnings, per earnings calendars",
+   "Tue Nov 3: Election Day, including New York's statewide and congressional races"
+  ]
+ },
+ "trending": [
+  {
+   "title": "Brazil's presidential election",
+   "context": "Lula's runoff win over Flávio Bolsonaro (see World) put the 2026 Brazilian election, Lula and Jair Bolsonaro among Wikipedia's most-read pages yesterday, and Bluesky is trending on Flávio Bolsonaro's passports and on Trump's comments about the vote.",
+   "signal": "wikipedia"
+  },
+  {
+   "title": "Serbia's parliamentary election",
+   "context": "Wikipedia's In the News says the Student List won a majority of seats, defeating Aleksandar Vučić and his Serbian Progressive Party; the Student List page itself drew about 186,000 views.",
+   "signal": "wikipedia_news"
+  },
+  {
+   "title": "Church shooting in Jordan",
+   "context": "Wikipedia's In the News reports a mass shooting at a church in Karak, Jordan, that left nine people dead.",
+   "signal": "wikipedia_news"
+  },
+  {
+   "title": "PHP security holes",
+   "context": "Two serious vulnerabilities in PHP, the programming language behind a large share of websites, are disrupting many online services, per Wikipedia's In the News.",
+   "signal": "wikipedia_news"
+  },
+  {
+   "title": "2026 Ballon d'Or",
+   "context": "Soccer's best-player award, given each fall; its page drew about 450,000 Wikipedia views yesterday.",
+   "signal": "wikipedia"
+  },
+  {
+   "title": "Japan's Phobos sample mission",
+   "context": "Japan launched the Martian Moons eXploration spacecraft from Tanegashima Space Center; it aims to bring back samples from Mars's moon Phobos.",
+   "signal": "wikipedia_news"
+  },
+  {
+   "title": "OpenAI's GPT-6.1 Terra",
+   "context": "Trending on Bluesky with several hundred posts about the new model's release.",
+   "signal": "bluesky"
+  }
+ ]
+}

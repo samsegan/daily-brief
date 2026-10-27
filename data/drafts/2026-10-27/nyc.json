@@ -1,0 +1,358 @@
+{
+  "stories": [
+    {
+      "id": "hochul-blakeman-final-week",
+      "headline": "Hochul runs on her data center pause in the governor's race's final week",
+      "region": "Elections",
+      "importance": 5,
+      "summary": "A week before Election Day, Gov. Kathy Hochul is making the statewide pause on new data centers a centerpiece of her re-election campaign, Gothamist reports, after once resisting the idea. Her Republican opponent, Bruce Blakeman, says she failed to prepare for the industry. Separately, Hochul said her job would be \"a lot easier\" if Israeli Prime Minister Benjamin Netanyahu loses Israel's election, which is being held today.",
+      "why_it_matters": "New Yorkers choose a governor on Nov. 3, and early voting is open through Sunday. Both candidates pitch their data center stance as a way to hold down utility bills, and Blakeman has said he would rescind the pause, so the result decides whether it stays.",
+      "background": "Democratic Gov. Kathy Hochul is seeking re-election against Republican Bruce Blakeman. In July she used an executive order to freeze new large data centers statewide for up to a year, the first such statewide pause in the country, after the Legislature passed its own moratorium bill that her office said needed more work. Hochul said the pause gives state agencies time to write rules so data centers pay their share of utility costs and protect the environment. Blakeman opposes a statewide moratorium and says local governments should be able to strike their own deals with tech companies. Siena's public polls have shown Hochul ahead by about 10 points since the summer.",
+      "facts": [
+        {
+          "text": "Gothamist reports that Hochul once resisted a pause on data centers but that the moratorium is now central to her campaign.",
+          "refs": ["16b807277d"]
+        },
+        {
+          "text": "Blakeman says Hochul failed to prepare for the data center industry.",
+          "refs": ["16b807277d"]
+        },
+        {
+          "text": "In July, Hochul moved by executive order to impose the country's first statewide moratorium on data centers, lasting up to a year.",
+          "refs": ["nyc-w1"]
+        },
+        {
+          "text": "Blakeman has criticized the moratorium, said local governments should be able to make data center deals, and said he would rescind the pause.",
+          "refs": ["nyc-w2", "nyc-w3"]
+        },
+        {
+          "text": "A Hochul campaign ad in September presented the moratorium as saving New Yorkers money on utility bills and attacked Blakeman for supporting new data centers.",
+          "refs": ["nyc-w4"]
+        },
+        {
+          "text": "A September Siena poll of likely voters had Hochul ahead of Blakeman by nine points, 50% to 41%, little changed from August.",
+          "refs": ["nyc-w5", "nyc-w6"]
+        },
+        {
+          "text": "Hochul said her job would be \"a lot easier\" if Netanyahu loses his election, blaming his policies for antisemitism locally, the New York Post and The Times of Israel reported.",
+          "refs": ["bf67ff86fe", "cbaf0f6c77"]
+        },
+        {
+          "text": "Israelis are voting today on whether to oust Netanyahu after three years of war.",
+          "refs": ["817d6b6591"]
+        },
+        {
+          "text": "Early voting in New York runs from Oct. 24 through Nov. 1, and Election Day is Tuesday, Nov. 3.",
+          "refs": ["nyc-w7"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "16b807277d",
+          "note": "Frames the data center pause as a turnaround for Hochul that now anchors her campaign, and gives Blakeman's criticism."
+        },
+        {
+          "ref": "bf67ff86fe",
+          "note": "Leads with Hochul's Netanyahu remark and her tying his policies to antisemitism in New York, not with state issues."
+        },
+        {
+          "ref": "cbaf0f6c77",
+          "note": "Carries the same quote for readers following Israel's election day, identifying her only as New York's governor."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "16b807277d",
+          "takeaway": "Headline and summary only: how the data center moratorium became a campaign issue, with Blakeman's criticism.",
+          "read_full": false
+        },
+        {
+          "ref": "bf67ff86fe",
+          "takeaway": "Headline and summary only: focuses on Hochul's Netanyahu comment and her link to local antisemitism.",
+          "read_full": false
+        },
+        {
+          "ref": "cbaf0f6c77",
+          "takeaway": "Headline only: the Netanyahu quote, aimed at an Israeli audience on election day.",
+          "read_full": false
+        },
+        {
+          "ref": "817d6b6591",
+          "takeaway": "Headline only: Israel's election as a vote on whether to oust Netanyahu after three years of war.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "james-komatireddy-ag-race",
+      "headline": "GOP challenger Komatireddy runs as a crime fighter against Letitia James",
+      "region": "Elections",
+      "importance": 4,
+      "summary": "Republican Saritha Komatireddy is running for state attorney general on a law-and-order message against Democratic incumbent Letitia James, and the New York Times reports her long-shot bid has gained momentum and Republican donor support. She has criticized James's comments on the Cornell case, which also came up at a NY1 debate this month. Voters decide on Nov. 3.",
+      "why_it_matters": "The attorney general is New York's top lawyer, and the race decides whether James keeps the office or a Trump-endorsed former federal prosecutor replaces her. Today's only ingested coverage is from the New York Times (lean left), and it is paywalled.",
+      "background": "Letitia James, a Democrat, is seeking another term as attorney general and has long been in a legal feud with President Trump. Her Republican challenger, Saritha Komatireddy, is a former federal prosecutor running on a law-and-order platform, and Trump has endorsed her. Komatireddy has criticized James's public comments about the so-called Cornell 7 case, and James was pressed in a NY1 debate on whether she can be impartial in it. A September Siena poll had James ahead by 13 points.",
+      "facts": [
+        {
+          "text": "The New York Times reports that Komatireddy's long-shot candidacy has gained momentum and support from Republican donors, and that she is running as a crime fighter.",
+          "refs": ["3a3420d4ed"]
+        },
+        {
+          "text": "Komatireddy has criticized James's comments on the Cornell case.",
+          "refs": ["3a3420d4ed"]
+        },
+        {
+          "text": "Komatireddy is a former federal prosecutor running a law-and-order campaign.",
+          "refs": ["nyc-w8", "nyc-w13"]
+        },
+        {
+          "text": "Trump has endorsed Komatireddy against James, with whom he has been in a long-running feud over mortgage fraud allegations.",
+          "refs": ["nyc-w11"]
+        },
+        {
+          "text": "In a NY1 debate this month, James was pressed on how she could be impartial in the Cornell 7 case given her public statements about it.",
+          "refs": ["nyc-w9", "nyc-w10"]
+        },
+        {
+          "text": "A September Siena poll had James leading Komatireddy by 13 points.",
+          "refs": ["nyc-w12"]
+        }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "3a3420d4ed",
+          "takeaway": "Headline and summary only (paywalled): profiles Komatireddy as an underdog whose crime-focused run is gaining donor support.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "a-train-lefferts-suspension",
+      "headline": "No A trains between Rockaway Blvd and Lefferts Blvd for nine days starting Nov. 7",
+      "region": "Transit",
+      "importance": 3,
+      "summary": "The MTA will suspend A train service between Rockaway Blvd and Ozone Park-Lefferts Blvd in Queens for nine straight days starting Nov. 7 while it replaces aging signals on the Liberty Avenue Line. Lefferts-bound trains will run to Howard Beach-JFK Airport instead, and free shuttle buses will cover the gap. The work is part of a larger signal upgrade on the A and C lines announced last week.",
+      "why_it_matters": "Riders on the Lefferts Blvd branch will need shuttle buses or other routes from Nov. 7 to Nov. 16. The broader project aims to replace old signals on the A and C lines in Brooklyn and Queens with a modern train-control system. Only amNY (center) covered the outage in today's ingest.",
+      "background": "The Liberty Avenue Line carries the A train's Lefferts Blvd branch through southern Queens. The MTA is replacing signals there and on the Fulton Street line in Brooklyn with communications-based train control. Gov. Kathy Hochul announced the start of the work on Oct. 22, calling it the largest subway signal replacement project in MTA history. The project is paid for with congestion pricing revenue.",
+      "facts": [
+        {
+          "text": "A trains will not run between Rockaway Blvd and Ozone Park-Lefferts Blvd for nine consecutive days starting Nov. 7 as the MTA replaces aging signals on the Liberty Avenue Line.",
+          "refs": ["76ab5c6cc6", "nyc-w19"]
+        },
+        {
+          "text": "The MTA says the suspension runs from 12:30 a.m. Saturday, Nov. 7, to 5 a.m. Monday, Nov. 16.",
+          "refs": ["nyc-w19"]
+        },
+        {
+          "text": "Trains that normally go to Ozone Park-Lefferts Blvd will be rerouted to Howard Beach-JFK Airport, and free shuttle buses will stop at 104 St and 111 St.",
+          "refs": ["nyc-w19"]
+        },
+        {
+          "text": "The MTA says crews will replace switches and track near 104 St during the outage.",
+          "refs": ["nyc-w19"]
+        },
+        {
+          "text": "Hochul announced on Oct. 22 the start of what her office called the largest subway signal replacement project in MTA history, bringing communications-based train control to the A and C lines in Brooklyn and Queens.",
+          "refs": ["nyc-w20", "nyc-w21"]
+        },
+        {
+          "text": "The signal work is among subway projects funded by congestion pricing revenue.",
+          "refs": ["nyc-w22"]
+        }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "76ab5c6cc6",
+          "takeaway": "Headline and summary only: a service alert with the dates, stations and reason for the outage.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "gwb-shooting-romero-court",
+      "headline": "Con Ed workers turn out as retired detective charged in GWB killing returns to court",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "Victor Romero, 62, the retired NYPD detective accused of fatally shooting Con Edison worker Koran Irvine on the George Washington Bridge earlier this month, appeared in Manhattan Criminal Court on Tuesday as Irvine's co-workers looked on. He was freed after bail was set at $1 million and has pleaded not guilty to a manslaughter charge. Prosecutors are taking the case to a grand jury.",
+      "why_it_matters": "The case involves a former police officer charged in a road-rage killing of a city utility worker, and the victim's family has questioned why the charge is manslaughter rather than murder. A grand jury will decide what charges go forward.",
+      "background": "Koran Irvine, a Con Edison worker, was shot and killed while driving across the George Washington Bridge in what has been described as a road-rage shooting. Victor Romero, a retired NYPD detective, was arrested and arraigned last week on a manslaughter charge, with bail set at $1 million. Prosecutors said in court that the two men's cars nearly collided on the approach to the bridge before Romero fired the shot that killed Irvine. Irvine's family has publicly questioned the manslaughter charge.",
+      "facts": [
+        {
+          "text": "Romero, 62, appeared in Manhattan Criminal Court on Tuesday, with a possible grand jury indictment pending.",
+          "refs": ["fe359f7ff5", "895427c523"]
+        },
+        {
+          "text": "Con Edison workers attended the hearing, and amNY and the Daily News described them reacting with pain and anger and confronting Romero.",
+          "refs": ["fe359f7ff5", "62424496ec"]
+        },
+        {
+          "text": "Romero was freed on $1 million bail, the New York Post reported.",
+          "refs": ["895427c523", "nyc-w23"]
+        },
+        {
+          "text": "Romero pleaded not guilty to a manslaughter charge.",
+          "refs": ["nyc-w24"]
+        },
+        {
+          "text": "Prosecutors said at his arraignment that Romero's and Irvine's cars nearly collided at the approach to the bridge before Romero fired a shot that killed Irvine.",
+          "refs": ["nyc-w23"]
+        },
+        {
+          "text": "Irvine's family has questioned the manslaughter charge against Romero.",
+          "refs": ["nyc-w25", "nyc-w26"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "fe359f7ff5",
+          "note": "Leads with Con Ed workers' grief and anger, keeping the victim's colleagues at the center."
+        },
+        {
+          "ref": "62424496ec",
+          "note": "Emphasizes a confrontation between the workers and Romero, and names him as a retired NYPD cop."
+        },
+        {
+          "ref": "895427c523",
+          "note": "Leads with the first photos of Romero and his release on $1 million bail."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "fe359f7ff5",
+          "takeaway": "Headline and summary only: courtroom scene told through Con Ed workers, noting the possible indictment.",
+          "read_full": false
+        },
+        {
+          "ref": "62424496ec",
+          "takeaway": "Headline only: frames the hearing as workers confronting Romero.",
+          "read_full": false
+        },
+        {
+          "ref": "895427c523",
+          "takeaway": "Headline and summary only: focuses on Romero's appearance and his release on bail.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "banks-law-department-mamdani",
+      "headline": "City's top lawyer says expanded Law Department is defending Mamdani's agenda in court",
+      "region": "City Hall",
+      "importance": 2,
+      "summary": "Corporation Counsel Steven Banks said Tuesday that an expansion of the city's Law Department has been key to defending Mayor Zohran Mamdani's signature policies against lawsuits, amNY reports. He spoke at a talk at New York Law School.",
+      "why_it_matters": "Lawsuits can decide whether a mayor's big programs take effect, and the Law Department is the office that defends them. Only amNY (center) covered the talk in today's ingest.",
+      "background": "The corporation counsel runs the city's Law Department, which defends the city in lawsuits and sues on its behalf. Mamdani named Steven Banks, a former Paul Weiss pro bono chief and de Blasio administration official, to the post before taking office. When he was named, Mamdani said the department had been short-staffed and pledged to hire more lawyers. At his City Council confirmation hearing, Banks said he would be a lawyer for the whole city, not just the mayor.",
+      "facts": [
+        {
+          "text": "Banks said at a New York Law School talk on Tuesday that an expansion of the city Law Department has played a key role in defending Mamdani's signature policies in court.",
+          "refs": ["178fa9694b"]
+        },
+        {
+          "text": "Mamdani, while mayor-elect, picked Banks, a former Paul Weiss pro bono chief who served in the de Blasio administration, as the city's top lawyer.",
+          "refs": ["nyc-w14", "nyc-w15", "nyc-w16"]
+        },
+        {
+          "text": "When he named Banks, Mamdani said the Law Department had been short-staffed and committed to hiring 200 more lawyers.",
+          "refs": ["nyc-w16"]
+        },
+        {
+          "text": "At his confirmation hearing in February, Council members questioned Banks, who said he would be a lawyer for the city rather than for Mamdani.",
+          "refs": ["nyc-w17", "nyc-w18"]
+        }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "178fa9694b",
+          "takeaway": "Headline and summary only: Banks's account of how a bigger Law Department is defending the mayor's policies.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "foil-portal-delay",
+      "headline": "City is slow to put agencies' records requests online, advocates say",
+      "region": "City Hall",
+      "importance": 2,
+      "summary": "The city has been slow to carry out a law requiring every agency to upload public records requests and data to an online portal, THE CITY reports, and good-government advocates say the delay holds back transparency. The City Council passed the bill last November.",
+      "why_it_matters": "The portal would let any New Yorker see what records people have requested from city agencies and what was released. Only THE CITY (center) covered this in today's ingest.",
+      "background": "New Yorkers can request records from city agencies under the state Freedom of Information Law, known as FOIL. Last November the City Council passed a bill, Intro 1235, sponsored by Council Member Gale Brewer, requiring city agencies to publicly report their FOIL requests through an online portal. Good-government groups testified to the Council in March and June about how the city is carrying out the law.",
+      "facts": [
+        {
+          "text": "THE CITY reports the city is moving slowly on a requirement that all agencies upload records requests and data to an online public portal, which good-government advocates say delays transparency.",
+          "refs": ["1cfc18bbea"]
+        },
+        {
+          "text": "The City Council passed the bill last November.",
+          "refs": ["1cfc18bbea"]
+        },
+        {
+          "text": "Intro 1235 of 2025, sponsored by Council Member Gale Brewer, requires city agencies to publicly report their FOIL logs.",
+          "refs": ["nyc-w29"]
+        },
+        {
+          "text": "Good-government groups gave joint testimony to the City Council on implementing the city's FOIL law in March and again in June 2026.",
+          "refs": ["nyc-w27", "nyc-w28"]
+        }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "1cfc18bbea",
+          "takeaway": "Headline and summary only: THE CITY's own reporting on the delayed rollout, with advocates' criticism.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "nyc-w1", "url": "https://www.local10.com/business/2026/07/14/new-york-to-impose-the-countrys-first-statewide-moratorium-on-data-centers/", "title": "New York to impose the country's first statewide moratorium on data centers", "outlet": "Local 10" },
+    { "id": "nyc-w2", "url": "https://ny1.com/nyc/all-boroughs/politics/2026/07/15/hochul-blakeman-data-center-moratorium", "title": "Hochul, Blakeman and the data center moratorium", "outlet": "NY1" },
+    { "id": "nyc-w3", "url": "https://www.thedailynewsonline.com/eedition/page-a6/page_2a4be660-adf9-5a7c-a537-013769ff7e1d.html", "title": "Blakeman says data centers are the future, criticizes Hochul moratorium", "outlet": "The Daily News (Batavia)" },
+    { "id": "nyc-w4", "url": "https://www.cityandstateny.com/politics/2026/09/hochul-runs-halting-data-centers-new-ad/416150/", "title": "Hochul runs on halting data centers in new ad", "outlet": "City & State" },
+    { "id": "nyc-w5", "url": "https://www.cityandstateny.com/politics/2026/09/hochul-leads-blakeman-just-9-points-new-siena-poll/416151/", "title": "Hochul leads Blakeman by just 9 points in new Siena poll", "outlet": "City & State" },
+    { "id": "nyc-w6", "url": "https://ny1.com/nyc/all-boroughs/politics/2026/09/22/siena-poll--hochul-s-lead-over-blakeman-sees-little-change-among-likely-voters", "title": "Siena poll: Hochul's lead over Blakeman sees little change among likely voters", "outlet": "NY1" },
+    { "id": "nyc-w7", "url": "https://ag.ny.gov/index%2ephp/election-key-dates", "title": "2026 election key dates and resources", "outlet": "New York Attorney General" },
+    { "id": "nyc-w8", "url": "https://www.cityandstateny.com/personality/2026/08/komatireddys-law-and-order-ag-campaign/415186/", "title": "Komatireddy's law-and-order AG campaign", "outlet": "City & State" },
+    { "id": "nyc-w9", "url": "https://ny1.com/nyc/all-boroughs/politics/2026/10/09/attorney-general-candidates-trade-blows-in-fiery-ny1-debate-letitia-james-saritha-komatireddy", "title": "Attorney general candidates trade blows in fiery NY1 debate", "outlet": "NY1" },
+    { "id": "nyc-w10", "url": "https://mediaite.com/media/news/letitia-james-pushed-hard-in-debate-on-how-she-can-be-impartial-on-cornell-7-case-given-her-public-statements", "title": "Letitia James Pushed Hard In Debate On How She Can Be Impartial On Cornell 7 Case Given Her Public Statements", "outlet": "Mediaite" },
+    { "id": "nyc-w11", "url": "https://www.foxnews.com/politics/trump-backs-republican-challenger-oust-letitia-james-amid-ongoing-mortgage-fraud-feud", "title": "New York has 'suffered' under Letitia James, New York attorney general candidate says", "outlet": "Fox News" },
+    { "id": "nyc-w12", "url": "https://telanganatoday.com/saritha-komatireddy-narrows-letitia-jamess-lead-to-13-points-in-new-york-poll", "title": "Saritha Komatireddy narrows Letitia James's lead to 13 points in New York poll", "outlet": "Telangana Today" },
+    { "id": "nyc-w13", "url": "https://ny1.com/nyc/all-boroughs/news/2026/08/05/republican-saritha-komatireddy-lays-out-record-in-challenge-to-ag-letitia-james", "title": "Republican Saritha Komatireddy lays out record in challenge to AG Letitia James", "outlet": "NY1" },
+    { "id": "nyc-w14", "url": "https://www.yahoo.com/news/articles/mayor-elect-mamdani-taps-blasio-184300790.html", "title": "Mayor-elect Mamdani taps de Blasio alum Steve Banks as top NYC lawyer, Elmhurst Hospital exec as health deputy", "outlet": "Yahoo News" },
+    { "id": "nyc-w15", "url": "https://news.bloomberglaw.com/esg/mamdani-taps-ex-paul-weiss-pro-bono-chief-as-top-nyc-law-leader", "title": "Mamdani taps ex-Paul Weiss pro bono chief as top NYC law leader", "outlet": "Bloomberg Law" },
+    { "id": "nyc-w16", "url": "https://www.amny.com/law/mamdani-nominates-steven-banks-law-dept-head", "title": "Mamdani nominates Steven Banks to head the Law Department", "outlet": "amNY" },
+    { "id": "nyc-w17", "url": "https://queenseagle.com/all/2026/2/5/council-questions-mayors-corp-counsel-nominee", "title": "Council questions mayor's corp counsel nominee", "outlet": "Queens Eagle" },
+    { "id": "nyc-w18", "url": "https://www.amny.com/law/law-department-banks-lawyer-city-not-mamdani", "title": "Banks says the Law Department is the city's lawyer, not Mamdani's", "outlet": "amNY" },
+    { "id": "nyc-w19", "url": "https://www.mta.info/article/service-changes-a-line-november-2026", "title": "Service changes: A line, November 2026", "outlet": "MTA" },
+    { "id": "nyc-w20", "url": "https://www.governor.ny.gov/news/governor-hochul-announces-start-largest-subway-signal-replacement-project-mta-history", "title": "Governor Hochul announces start of largest subway signal replacement project in MTA history", "outlet": "Office of the Governor" },
+    { "id": "nyc-w21", "url": "https://www.masstransitmag.com/rail/maintenance/news/55413998/metropolitan-transportation-authority-ny-mta-mta-to-modernize-a-and-c-service-in-brooklyn-and-queens-with-cbtc-technology", "title": "MTA to modernize A and C service in Brooklyn, Queens with CBTC technology", "outlet": "Mass Transit" },
+    { "id": "nyc-w22", "url": "https://railpace.com/?p=8264", "title": "New York Governor Hochul Announces Major Congestion Pricing-Funded Subway Improvement Projects Moving Forward", "outlet": "Railpace" },
+    { "id": "nyc-w23", "url": "https://ny1.com/nyc/all-boroughs/public-safety/2026/10/22/retired-nypd-detective-arraigned-following-fatal-george-washington-bridge-shooting", "title": "Retired NYPD detective arraigned following fatal George Washington Bridge shooting", "outlet": "NY1" },
+    { "id": "nyc-w24", "url": "https://www.goodmorningamerica.com/news/story/retired-nyc-police-detective-pleads-not-guilty-manslaughter-charge-137476876", "title": "Retired NYC police detective pleads not guilty to manslaughter charge", "outlet": "Good Morning America" },
+    { "id": "nyc-w25", "url": "https://www.nbcnewyork.com/news/koran-irvines-family-seeks-justice-after-deadly-gwb-shooting/6562398/?noamp=mobile", "title": "Koran Irvine's family seeks justice after deadly GWB shooting", "outlet": "NBC New York" },
+    { "id": "nyc-w26", "url": "https://news.meaww.com/family-of-con-ed-worker-killed-in-gwb-shooting-questions-manslaughter-charge-against-ex-cop", "title": "Family of Con Ed worker killed in GWB shooting questions manslaughter charge against ex-cop", "outlet": "MEAWW" },
+    { "id": "nyc-w27", "url": "https://citizensunion.org/wp-content/uploads/2026/03/Joint-Testimony-to-City-Council-on-NYC-FOIL-Law-Implementation-March-13-2026.pdf", "title": "Joint Testimony to City Council on NYC FOIL Law Implementation, March 13, 2026", "outlet": "Citizens Union" },
+    { "id": "nyc-w28", "url": "https://www.beta.nyc/wp-content/uploads/Joint-Testimony-to-City-Council-on-NYC-FOIL-Law-Implementation-June-10-2026.pdf", "title": "Joint Testimony to City Council on NYC FOIL Law Implementation, June 10, 2026", "outlet": "BetaNYC" },
+    { "id": "nyc-w29", "url": "https://reinventalbany.org/wp-content/uploads/2025/06/Group-Memo-of-Support-for-Intro-1235-of-2025-Brewer-–-Requires-NYC-agencies-to-publicly-report-FOIL-logs-June-2025.pdf", "title": "Group Memo of Support for Intro 1235 of 2025 (Brewer): Requires NYC agencies to publicly report FOIL logs", "outlet": "Reinvent Albany" }
+  ]
+}

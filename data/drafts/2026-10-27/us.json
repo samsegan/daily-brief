@@ -1,0 +1,332 @@
+{
+  "stories": [
+    {
+      "id": "comey-third-prosecution",
+      "headline": "Justice Department moves to prosecute James Comey a third time",
+      "region": "Justice Dept.",
+      "importance": 5,
+      "summary": "The Justice Department is trying for a third time to bring criminal charges against former FBI Director James Comey, this time alleging that he leaked classified national-defense information about a decade ago. Comey denies wrongdoing, and his lawyers say the case is legally invalid and was brought too late. Separately, a federal judge ruled that the department unlawfully fired his daughter, former federal prosecutor Maurene Comey.",
+      "why_it_matters": "Courts will now weigh whether a decade-old leak allegation can still be prosecuted, a test of how far the Justice Department can go in pursuing a longtime target of the president. Coverage came mostly from left-leaning and center outlets; only one right-leaning outlet in the ingest covered it.",
+      "background": "James Comey is a former FBI director and a longtime target of President Trump. The department's first case against him, brought in Virginia over his testimony to Congress, was dismissed by a judge, and he was later indicted in a separate case in North Carolina. In April, Bloomberg Government reported that prosecutors were also pursuing charges over alleged leaks of classified information. His lawyers say the newest case concerns a purported 2016 leak to The New York Times that was investigated years ago without charges.",
+      "facts": [
+        { "text": "The Justice Department is seeking to prosecute Comey for a third time, alleging that he leaked classified national-defense information about 10 years ago.", "refs": ["ce4492484f", "692893e33c", "565e4a8ef4", "92c6c2fc55", "1ab5871f34"] },
+        { "text": "According to unsealed court documents, prosecutors claim Comey directed the leak while he was leading the FBI.", "refs": ["af1b115f50"] },
+        { "text": "Comey's lawyers say the case centers on a purported leak of national security information to The New York Times in October 2016, an issue they say was already investigated and did not lead to charges.", "refs": ["7b349492b8", "1ab5871f34"] },
+        { "text": "Comey denies wrongdoing, and his lawyers argue the case is legally invalid and falls outside the time limit for bringing charges.", "refs": ["692893e33c", "565e4a8ef4", "af1b115f50"] },
+        { "text": "CBS News reported that the department took steps to bring the charge earlier this month; NBC News reported that Comey has not been indicted in the latest case.", "refs": ["92c6c2fc55", "a72410f36b"] },
+        { "text": "The New York Times reported that the department has stepped up moves against Comey and others as the midterms near, and that in some cases court paperwork shows signs of urgency, such as typos and the signatures of senior political leadership.", "refs": ["741b6b7f57"] },
+        { "text": "In April, Bloomberg Government reported that the department was pursuing additional charges against Comey over alleged leaks of classified information, after he had been indicted in North Carolina.", "refs": ["us-w1"] },
+        { "text": "Separately, a federal judge ruled that the department unlawfully fired Maurene Comey, James Comey's daughter, from her job as a federal prosecutor in Manhattan and ordered her reinstated.", "refs": ["1d608892e2", "c9375a8dda", "7b0754e487", "8f3901af00", "cfb10a259b"] },
+        { "text": "Maurene Comey was fired in July 2025 and had handled the prosecutions of Jeffrey Epstein and Sean Combs.", "refs": ["7b0754e487", "cfb10a259b"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "ce4492484f", "note": "States the charge as done (“Charges James Comey Again”) and stresses that this is a repeat attempt." },
+        { "ref": "692893e33c", "note": "Says the administration is “attempting” to prosecute, and its summary moves quickly to the defense's argument that the effort is invalid and too late." },
+        { "ref": "a72410f36b", "note": "The headline says Comey was charged, while the subhead stresses that he has not been indicted and calls him a longtime Trump target." },
+        { "ref": "9074fa0fc9", "note": "Centers a former prosecutor's view that the department would have to “rewrite the law books,” casting doubt on the case's legal footing." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ce4492484f", "takeaway": "Headline and summary only (paywalled): a straight account of the third attempted prosecution over a 10-year-old alleged leak.", "read_full": false },
+        { "ref": "692893e33c", "takeaway": "Headline and summary only: pairs the administration's leak allegation with the defense's time-limit objection.", "read_full": false },
+        { "ref": "7b349492b8", "takeaway": "Headline and summary only (paywalled): focuses on the defense's account that the alleged 2016 leak to The Times was already investigated.", "read_full": false },
+        { "ref": "565e4a8ef4", "takeaway": "Headline and summary only: brief international summary noting Comey's denial and his lawyers' arguments.", "read_full": false },
+        { "ref": "92c6c2fc55", "takeaway": "Headline and summary only: says the department took steps earlier this month and calls Comey a Trump foe.", "read_full": false },
+        { "ref": "af1b115f50", "takeaway": "Headline and summary only (video): cites unsealed court documents saying Comey directed the leak as director.", "read_full": false },
+        { "ref": "1ab5871f34", "takeaway": "Headline and summary only: notes the defense's account that the case involves a 2016 disclosure to The New York Times.", "read_full": false },
+        { "ref": "a72410f36b", "takeaway": "Headline and summary only: early report noting that no indictment has been returned in the new case.", "read_full": false },
+        { "ref": "741b6b7f57", "takeaway": "Headline and summary only (paywalled): analysis of how the department's recent filings show signs of haste before the midterms.", "read_full": false },
+        { "ref": "9074fa0fc9", "takeaway": "Headline only: a former federal prosecutor's skeptical take on the legal basis for a third case.", "read_full": false },
+        { "ref": "1d608892e2", "takeaway": "Headline and summary only: reports the order to reinstate Maurene Comey and her high-profile prosecutions.", "read_full": false },
+        { "ref": "c9375a8dda", "takeaway": "Headline and summary only (paywalled): reports the finding that her firing was unlawful and her claim of improper targeting.", "read_full": false },
+        { "ref": "7b0754e487", "takeaway": "Headline and summary only: gives the July 2025 firing date and her lawsuit against the department.", "read_full": false },
+        { "ref": "8f3901af00", "takeaway": "Headline only: wire report that the judge found the firing illegal.", "read_full": false },
+        { "ref": "cfb10a259b", "takeaway": "Headline and summary only (paywalled): notes she handled the Epstein and Combs prosecutions.", "read_full": false },
+        { "ref": "us-w1", "takeaway": "Search result only: April report that prosecutors were pursuing a separate classified-leak case against Comey.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "doj-noncitizen-ballots",
+      "headline": "Justice Dept. asks Washington to hold 400 voters' ballots as court lets California count 20,000",
+      "region": "Elections",
+      "importance": 5,
+      "summary": "The Justice Department asked Washington state to set aside ballots from more than 400 people it alleges are registered to vote without U.S. citizenship, a week before the midterm elections. A federal appeals court separately declined the administration's request to stop California from counting the ballots of about 20,000 voters the department has challenged on the same grounds. President Trump also offered a $1 million reward for voter fraud tips that lead to convictions.",
+      "why_it_matters": "With Election Day a week away, the moves bear on whether some voters' ballots are counted and on how far federal officials can reach into vote counting that states run. Most of the coverage came from left-leaning outlets.",
+      "background": "States, not the federal government, handle counting ballots and certifying results. The Trump administration has pressed claims that noncitizens are voting: in July the Justice Department warned Washington election officials that they could face criminal liability for keeping noncitizens on voter rolls, and this month it sued California and Los Angeles County to stop the counting of ballots from more than 20,000 people that federal agencies flagged as likely noncitizens. Officials in both states have pushed back: Washington's secretary of state accused the department of trying to intimidate election officials, and California's said it had not supplied evidence for its figure. Prosecuted cases of illegal voting by noncitizens remain rare, according to statistics cited by NewsNation.",
+      "facts": [
+        { "text": "The Justice Department on Monday asked Washington state to set aside any ballots received from more than 400 people it alleges are registered to vote without U.S. citizenship.", "refs": ["7aef1a5926", "3d98872ef4", "9f6dded3e2", "e41e8c17ec", "a1989ca3a9"] },
+        { "text": "Federal prosecutors said they sent a letter to Washington's secretary of state listing the 400 people.", "refs": ["9f6dded3e2"] },
+        { "text": "The department said it had identified 1,500 votes cast by those more than 400 people in prior elections.", "refs": ["859e8729db"] },
+        { "text": "A federal appeals court declined the administration's request to block California from counting the ballots of 20,000 registered voters the department claims are noncitizens, so those ballots can be counted for now.", "refs": ["421903a479", "3cf6f42ee6", "ed92cf17ee"] },
+        { "text": "California Gov. Gavin Newsom accused Trump of an “assault on democracy.”", "refs": ["3cf6f42ee6"] },
+        { "text": "The department sued California and Los Angeles County this month to stop officials from counting ballots from more than 20,000 people that federal agencies flagged as “likely noncitizens” until their citizenship can be verified.", "refs": ["us-w2"] },
+        { "text": "NBC News and The Guardian described the Washington request as the latest in a series of administration moves into ballot counting handled by states, including states with competitive midterm races.", "refs": ["3d98872ef4", "7aef1a5926"] },
+        { "text": "In July, the department warned Washington election officials that they could be held criminally liable if they knowingly kept noncitizens on voter rolls; Washington's secretary of state called that letter part of “a troubling pattern of efforts to intimidate election officials.”", "refs": ["us-w3", "us-w4"] },
+        { "text": "Trump offered a $1 million reward for voter fraud tips that lead to convictions; it was unclear where the money would come from.", "refs": ["584330b7cd", "294e1f8025", "56668bcfca", "7789bce7cc", "9698c552b1"] },
+        { "text": "Prosecuted cases of illegal voting or fraud by immigrants who do not have the right to vote remain rare, statistics show, NewsNation reported.", "refs": ["f059e182ce"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether about 20,000 California voters are noncitizens",
+          "positions": [
+            { "claim": "The Justice Department says about 20,000 registered voters in California are noncitizens, based on federal agencies flagging them as likely noncitizens.", "refs": ["3cf6f42ee6", "us-w2"] },
+            { "claim": "California's secretary of state says federal officials have not supplied evidence for the 20,000 figure and that the state's elections comply with federal law.", "refs": ["us-w2"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "e41e8c17ec", "note": "“Block 400 ballots of suspected noncitizens” puts the focus on the people flagged and presents the request as an enforcement step." },
+        { "ref": "3d98872ef4", "note": "Attributes the noncitizen claim to the department (“it says may be”) and frames the move as federal involvement in counting that states handle." },
+        { "ref": "3cf6f42ee6", "note": "Leads with the court's rejection of the department's bid in California and Newsom's “assault on democracy” charge." },
+        { "ref": "56668bcfca", "note": "“Dangles” casts the $1 million offer as a campaign inducement and calls Trump's voter-fraud warnings unfounded." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "7aef1a5926", "takeaway": "Headline and summary only: ties the Washington request to states with competitive races that could decide Congress.", "read_full": false },
+        { "ref": "3d98872ef4", "takeaway": "Headline and summary only: attributes the noncitizen claim and stresses that counting is run by state officials.", "read_full": false },
+        { "ref": "9f6dded3e2", "takeaway": "Headline and summary only: reports the prosecutors' letter to Washington's secretary of state.", "read_full": false },
+        { "ref": "e41e8c17ec", "takeaway": "Headline only: the request to block ballots of suspected noncitizens.", "read_full": false },
+        { "ref": "a1989ca3a9", "takeaway": "Headline only (paywalled): the request to hold more than 400 people's ballots.", "read_full": false },
+        { "ref": "859e8729db", "takeaway": "Headline and summary only: carries the department's figure of 1,500 prior votes.", "read_full": false },
+        { "ref": "421903a479", "takeaway": "Headline only: wire report that the appeals court declined to block California's count.", "read_full": false },
+        { "ref": "3cf6f42ee6", "takeaway": "Headline and summary only: leads with the court ruling and Newsom's response.", "read_full": false },
+        { "ref": "ed92cf17ee", "takeaway": "Headline only (paywalled): stresses the ballots can be counted for now.", "read_full": false },
+        { "ref": "584330b7cd", "takeaway": "Headline only: wire report of the $1 million offer for tips leading to convictions.", "read_full": false },
+        { "ref": "294e1f8025", "takeaway": "Headline and summary only: notes it is unclear where the reward money would come from.", "read_full": false },
+        { "ref": "56668bcfca", "takeaway": "Headline and summary only (paywalled): links the reward to Trump's campaign-trail incentives and calls his fraud warnings unfounded.", "read_full": false },
+        { "ref": "7789bce7cc", "takeaway": "Headline only: presents the offer in Trump's own terms.", "read_full": false },
+        { "ref": "9698c552b1", "takeaway": "Headline only: brief report of the $1 million offer.", "read_full": false },
+        { "ref": "f059e182ce", "takeaway": "Headline and summary only: adds that prosecuted noncitizen voting cases are rare.", "read_full": false },
+        { "ref": "us-w2", "takeaway": "Search result only: AP report on the department's Oct. 15 lawsuit against California and the state's response.", "read_full": false },
+        { "ref": "us-w3", "takeaway": "Search result only: July report on the department's warning to Washington election officials.", "read_full": false },
+        { "ref": "us-w4", "takeaway": "Search result only: Washington's secretary of state's reply accusing the department of intimidation.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "midterms-final-week",
+      "headline": "A week out, Trump campaigns in Mississippi and Texas as poll shows Democrats ahead",
+      "region": "Elections",
+      "importance": 4,
+      "summary": "With one week until the midterm elections, President Trump campaigned Monday in Mississippi and Tuesday in Texas, where Republicans face competitive Senate races. The final NPR/PBS News/Marist poll before Election Day found Democrats with an 8-point lead among likely voters in the fight for Congress, though NPR flagged lagging enthusiasm among key groups.",
+      "why_it_matters": "The elections could shift control of Congress, which writes federal budgets and tax law and oversees the administration. Tens of millions of people have already voted.",
+      "background": "Midterm elections fall halfway through a president's term and can shift power in Washington and in statehouses. In deep-red Mississippi, Democrat Scott Colom is challenging Republican Sen. Cindy Hyde-Smith, and in Texas, Republican Attorney General Ken Paxton faces Democrat James Talarico in a competitive Senate race. Both contests have drawn late spending and visits from national figures. Polls have shown Republicans likely to do poorly, and Trump and the top Republicans in Congress have attacked such polls as fake.",
+      "facts": [
+        { "text": "Trump campaigned Monday in Mississippi for Republican Sen. Cindy Hyde-Smith, part of a closing rally blitz that the AP said highlights Republicans' challenges.", "refs": ["31aab4622c", "1353b17278", "us-w5"] },
+        { "text": "Democrats are making a play for the Mississippi seat, where Scott Colom is the Democratic challenger; the race has drawn millions in last-minute spending and high-profile visits, including a rally by Kamala Harris.", "refs": ["99f43d2a3b", "e9ae4d1ffd", "09c7737f91", "us-w6"] },
+        { "text": "At the Mississippi rally, Trump responded at length to former President Barack Obama's criticism of his White House renovations, saying Obama “wouldn't understand.”", "refs": ["0362b25f6c", "d941410456", "c287256e13"] },
+        { "text": "On Tuesday Trump was scheduled to rally in Corpus Christi and Lubbock, Texas, for Paxton, the Republican Senate nominee, who faces Democrat James Talarico.", "refs": ["04ccf810a8", "efeeec0b14", "be1042ae4e"] },
+        { "text": "Speaking to reporters before the trip, Trump said he would respect the midterm results “if they're honest.”", "refs": ["cf9b094194"] },
+        { "text": "The chief justice of the Texas Supreme Court endorsed Talarico.", "refs": ["cf9b094194"] },
+        { "text": "The New York Times reported that Paxton has taken about 350 trips outside Texas since he was sworn in as attorney general, which has drawn campaign scrutiny.", "refs": ["23ecc10730"] },
+        { "text": "Trump and Secretary of State Marco Rubio planned to greet a newly arrived tanker carrying Venezuelan crude in Texas, which Bloomberg called a bid to showcase supply a week before the elections; Trump said Venezuela sent him 1 million barrels of oil as a “gift.”", "refs": ["e5f553f737", "ded185d9e3", "d1deb30312", "3a2a3295a5"] },
+        { "text": "The final NPR/PBS News/Marist poll before Election Day found Democrats with an 8-point lead among likely voters in the fight for control of Congress.", "refs": ["2e6c493daa", "6ed77faf6a"] },
+        { "text": "NPR said lagging enthusiasm among key groups is one sign that Democratic gains may not come easily.", "refs": ["6ed77faf6a"] },
+        { "text": "In the same poll, 40% of people said their family finances had gotten worse.", "refs": ["36a4066b8a"] },
+        { "text": "Johnson and Thune, the top two Republicans in Congress, have joined Trump in calling polls “fake” as national surveys indicate the GOP is likely to do poorly.", "refs": ["facf0104e9"] },
+        { "text": "Tens of millions of voters have already cast ballots.", "refs": ["22e6bd6171"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "1353b17278", "note": "“GOP Fears Senate Seat at Risk” presents the Mississippi stop as defense of a seat in danger." },
+        { "ref": "be1042ae4e", "note": "“Midterm campaign blitz” presents Trump on offense, with no mention of Republican trouble." },
+        { "ref": "ab1e85adb5", "note": "A right-leaning outlet says early voting offers Republicans “little comfort,” pointing to an especially wide partisan gap." },
+        { "ref": "2e6c493daa", "note": "Frames the final poll around Trump, tying the midterm outcome to the president." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "31aab4622c", "takeaway": "Headline only: wire report on the Mississippi rally and Republicans' challenges.", "read_full": false },
+        { "ref": "1353b17278", "takeaway": "Headline only: frames the visit around Republican worry about the seat.", "read_full": false },
+        { "ref": "99f43d2a3b", "takeaway": "Headline only: the Democratic push to flip the Mississippi seat.", "read_full": false },
+        { "ref": "e9ae4d1ffd", "takeaway": "Headline and summary only: looks at Black voter turnout and late spending in the race.", "read_full": false },
+        { "ref": "09c7737f91", "takeaway": "Headline and summary only (paywalled): says the red-state race suddenly seems competitive.", "read_full": false },
+        { "ref": "0362b25f6c", "takeaway": "Headline and summary only: Trump's reply to Obama at the Mississippi rally.", "read_full": false },
+        { "ref": "d941410456", "takeaway": "Headline and summary only (paywalled): Trump responded at length to Obama's jab.", "read_full": false },
+        { "ref": "c287256e13", "takeaway": "Headline only: Trump's reaction to Obama's criticism of the renovations.", "read_full": false },
+        { "ref": "04ccf810a8", "takeaway": "Headline and summary only: live stream of the Texas rallies for Paxton against Talarico.", "read_full": false },
+        { "ref": "efeeec0b14", "takeaway": "Headline and summary only: Trump's final pitch to Texas voters a week out.", "read_full": false },
+        { "ref": "be1042ae4e", "takeaway": "Headline and summary only: rally schedule for Paxton and Gov. Greg Abbott.", "read_full": false },
+        { "ref": "cf9b094194", "takeaway": "Headline and summary only (live blog): Trump's remarks on respecting results and the chief justice's endorsement.", "read_full": false },
+        { "ref": "23ecc10730", "takeaway": "Headline and summary only (paywalled): scrutiny of Paxton's state-funded travel.", "read_full": false },
+        { "ref": "e5f553f737", "takeaway": "Headline only: wire report on the planned tanker visit.", "read_full": false },
+        { "ref": "ded185d9e3", "takeaway": "Headline only: calls the cargo the first oil from a Venezuela deal.", "read_full": false },
+        { "ref": "d1deb30312", "takeaway": "Headline and summary only (paywalled): links the tanker visit to the coming elections.", "read_full": false },
+        { "ref": "3a2a3295a5", "takeaway": "Headline and summary only: Trump's description of the oil as a gift.", "read_full": false },
+        { "ref": "2e6c493daa", "takeaway": "Headline and summary only: the poll sponsor's own write-up of the 8-point lead.", "read_full": false },
+        { "ref": "6ed77faf6a", "takeaway": "Headline and summary only: the poll sponsor's warning signs on enthusiasm.", "read_full": false },
+        { "ref": "36a4066b8a", "takeaway": "Headline and summary only: the poll's finding on personal finances.", "read_full": false },
+        { "ref": "facf0104e9", "takeaway": "Headline and summary only: Republican leaders echoing Trump's attacks on polling.", "read_full": false },
+        { "ref": "ab1e85adb5", "takeaway": "Headline and summary only: right-leaning look at a wide early-voting gap favoring Democrats.", "read_full": false },
+        { "ref": "22e6bd6171", "takeaway": "Headline and summary only: explainer on poll closing times and early ballots cast.", "read_full": false },
+        { "ref": "us-w5", "takeaway": "Search result only: local report that Trump would rally for Hyde-Smith on Monday.", "read_full": false },
+        { "ref": "us-w6", "takeaway": "Search result only: report on Kamala Harris's rally for Scott Colom.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "scotus-deportation-closures",
+      "headline": "Supreme Court leaves Texas-Justice Dept. deal limiting pauses in deportation cases in place",
+      "region": "Courts",
+      "importance": 4,
+      "summary": "The Supreme Court on Tuesday declined to intervene against an agreement between the Trump administration and Texas that cuts off a way for immigration judges to pause some deportation cases. Opponents called the deal collusive and had asked the justices to restore a Biden-era rule that gave judges that discretion.",
+      "why_it_matters": "Immigrants with pending cases, such as crime victims or witnesses seeking other relief, lose a route to having deportation proceedings put on hold. Only left-leaning and center outlets in the ingest covered the ruling.",
+      "background": "A 2024 rule let immigration judges suspend some deportation cases, for example while a crime victim or witness sought other relief. In June, Texas sued to overturn it, the Justice Department agreed that the rule should be set aside, and U.S. District Judge Reed O'Connor entered a consent judgment vacating it. Baltimore, New Haven, Columbus and the group Centro Legal de la Raza tried to step in to defend the rule, but O'Connor ruled they lacked standing and the 5th Circuit declined to block the judgment, sending them to the Supreme Court.",
+      "facts": [
+        { "text": "The Supreme Court on Tuesday left in force a settlement between the Trump administration and Texas that cuts off an avenue for pausing some deportations.", "refs": ["dc507af9c2", "91c096ed64", "f01ca02920", "071f0dcd07"] },
+        { "text": "Immigrant advocates called the agreement “collusion” and had asked the justices to reinstate a Biden-era policy that gave immigration judges discretion.", "refs": ["071f0dcd07", "dc507af9c2"] },
+        { "text": "The outcome means the administration can block immigration judges from closing or shelving deportation cases.", "refs": ["f76ca0906e", "f01ca02920"] },
+        { "text": "The 2024 rule let immigration judges pause some deportation cases, such as when a crime victim or witness is seeking relief.", "refs": ["us-w7", "us-w8"] },
+        { "text": "After Texas sued in June, the Justice Department agreed that the rule should be set aside, and Judge Reed O'Connor entered a consent judgment vacating it.", "refs": ["us-w7", "us-w8"] },
+        { "text": "O'Connor denied a request by Baltimore, New Haven, Columbus and Centro Legal de la Raza to join the case and defend the rule, finding they lacked standing, and the 5th Circuit declined to block the judgment.", "refs": ["us-w7"] },
+        { "text": "An advisory from the Immigrant Legal Resource Center says immigration courts have read the decision broadly since June, using it to deny closures and terminations and to put already-closed cases back on the calendar.", "refs": ["us-w9"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "dc507af9c2", "note": "Leads with opponents' charge that the deal was “collusive.”" },
+        { "ref": "f01ca02920", "note": "Frames the outcome as a loss of power for immigration judges." },
+        { "ref": "f76ca0906e", "note": "Frames the outcome as a gain in power for the administration." },
+        { "ref": "91c096ed64", "note": "Procedural framing: the court “won't intervene.”" }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "dc507af9c2", "takeaway": "Headline and summary only (paywalled): centers opponents' collusion charge.", "read_full": false },
+        { "ref": "f01ca02920", "takeaway": "Headline only: says the court denied judges the power to shelve cases.", "read_full": false },
+        { "ref": "071f0dcd07", "takeaway": "Headline and summary only (paywalled): notes advocates sought to restore the Biden-era rule.", "read_full": false },
+        { "ref": "91c096ed64", "takeaway": "Headline only: wire report that the court won't intervene.", "read_full": false },
+        { "ref": "f76ca0906e", "takeaway": "Headline only (paywalled): frames the ruling as letting the administration block case closures.", "read_full": false },
+        { "ref": "us-w7", "takeaway": "Search result only: SCOTUSblog on the challengers' emergency request and the case history.", "read_full": false },
+        { "ref": "us-w8", "takeaway": "Search result only: SCOTUSblog on the administration's and Texas's reply.", "read_full": false },
+        { "ref": "us-w9", "takeaway": "Search result only: immigrant-advocacy practice advisory on how courts are applying the judgment.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "dc-golf-course-ruling",
+      "headline": "Judge extends block on changes at D.C. public golf course Trump wants to overhaul",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "U.S. District Judge Ana Reyes extended an order barring the Trump administration from cutting more trees or making other changes at Washington's East Potomac Park without notice. Reyes noted that the president's social media posts contradicted sworn testimony from government officials. Trump said the administration would appeal and that the renovation would still start next month.",
+      "why_it_matters": "The fight is over public parkland near the National Mall, and the order means the government must give notice before it closes or alters the course. It also tests how a court responds when officials' sworn testimony conflicts with the president's public statements.",
+      "background": "East Potomac Golf Links is a century-old public golf course in East Potomac Park, near the National Mall, and Trump has sought to overhaul it. The DC Preservation League sued over the plans; in May, Reyes declined to issue a restraining order but told the National Park Service to consult government lawyers before cutting more than 10 trees. More than 500 trees have since been felled, and Reyes has now extended her block on further work.",
+      "facts": [
+        { "text": "Reyes extended an order barring the government from clearing more trees or making other alterations at East Potomac Park without proper notice.", "refs": ["a8bda2df0a", "1220375a33", "b75b87e4f3", "5effbc06f4"] },
+        { "text": "The order requires the government to give notice before closing or altering the property.", "refs": ["1220375a33"] },
+        { "text": "Reyes noted that the president's social media posts contradicted the sworn testimony of multiple government officials.", "refs": ["68bad04a4c"] },
+        { "text": "Reyes wrote that the court “does not speak for the trees” but “speaks only for the rule of law,” echoing an earlier line that she was “not the Lorax.”", "refs": ["89f9d49f68"] },
+        { "text": "More than 500 trees had been felled at East Potomac Golf Links before the halt, The Hindu reported.", "refs": ["0e6c9c955d"] },
+        { "text": "Trump said the administration would appeal and that the renovation would still start next month; The Hindu put the planned start at Nov. 15.", "refs": ["a8bda2df0a", "722881570a", "0e6c9c955d"] },
+        { "text": "The DC Preservation League brought the case; in May, Reyes declined to issue a temporary restraining order but told the National Park Service to discuss any plans to cut more than 10 trees with government lawyers first.", "refs": ["us-w10"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "cc84265cfb", "note": "“Imposes roadblocks on Trump's plans” casts the judge as an obstacle to the project." },
+        { "ref": "722881570a", "note": "Pairs the ruling with Trump's vow to continue, stressing a coming clash." },
+        { "ref": "68bad04a4c", "note": "Leads with the judge's finding that the president's posts contradicted sworn testimony." },
+        { "ref": "1220375a33", "note": "Straight procedural framing around the tree-cutting bar and notice requirement." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "68bad04a4c", "takeaway": "Headline and summary only: focuses on the conflict between Trump's posts and officials' testimony.", "read_full": false },
+        { "ref": "cc84265cfb", "takeaway": "Headline only: frames the order as roadblocks for Trump's plan.", "read_full": false },
+        { "ref": "b75b87e4f3", "takeaway": "Headline and summary only (paywalled): the bar on tree-cutting and other changes at the park.", "read_full": false },
+        { "ref": "5effbc06f4", "takeaway": "Headline only: wire report on the extended block.", "read_full": false },
+        { "ref": "e8d35a62a7", "takeaway": "Headline and summary only: wire copy describing the century-old public course.", "read_full": false },
+        { "ref": "1220375a33", "takeaway": "Headline and summary only (paywalled): the notice requirement before closing or altering the property.", "read_full": false },
+        { "ref": "89f9d49f68", "takeaway": "Headline and summary only: leads with the judge's Lorax line.", "read_full": false },
+        { "ref": "0e6c9c955d", "takeaway": "Headline and summary only: gives the tree count and the Nov. 15 start date.", "read_full": false },
+        { "ref": "722881570a", "takeaway": "Headline only: Trump's vow to continue the renovation.", "read_full": false },
+        { "ref": "a8bda2df0a", "takeaway": "Headline and summary only: the order plus Trump's plan to appeal and start next month.", "read_full": false },
+        { "ref": "us-w10", "takeaway": "Search result only: AP report from May on the case's early stage.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "swalwell-fbi-search",
+      "headline": "FBI searches Beverly Hills mansion in Eric Swalwell investigation",
+      "region": "",
+      "importance": 3,
+      "summary": "Federal agents searched a Beverly Hills mansion on Tuesday morning as part of the investigation into former Rep. Eric Swalwell, a California Democrat who resigned from Congress amid sexual misconduct allegations. The home is connected to Stephen Cloobeck, a billionaire developer and onetime Swalwell associate and donor. Swalwell has denied the allegations.",
+      "why_it_matters": "The federal investigation of a former member of Congress now reaches property tied to a onetime associate. Outlets across the political spectrum covered the search.",
+      "background": "Swalwell, a California Democrat, resigned from Congress amid a wave of sexual misconduct allegations, which he has denied. In August, according to a Reuters source, FBI agents seized his electronic devices at San Francisco International Airport and searched his home in Washington. Cloobeck, a wealthy developer, had been a Swalwell donor and associate.",
+      "facts": [
+        { "text": "Federal agents searched a Beverly Hills mansion on Tuesday morning as part of the investigation into Swalwell.", "refs": ["64a9d37dd7", "3b3db85a52", "8eda076f08", "1f02a7f47c"] },
+        { "text": "The home is connected to Stephen Cloobeck, a billionaire developer and onetime associate and donor of Swalwell.", "refs": ["fd375fae18", "3b3db85a52"] },
+        { "text": "Swalwell resigned from Congress amid sexual misconduct allegations, which he has denied.", "refs": ["3b3db85a52", "80aaaa5588"] },
+        { "text": "Fox News reported that at least five women have accused Swalwell of sexual misconduct.", "refs": ["1f02a7f47c"] },
+        { "text": "In August, FBI agents seized Swalwell's electronic devices at San Francisco International Airport and searched his Washington home, according to a Reuters source.", "refs": ["us-w11"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "64a9d37dd7", "note": "Calls the probe “dramatic” and Swalwell “disgraced,” and teases a source's claim of a sex-worker link that other outlets in the digest did not report." },
+        { "ref": "fd375fae18", "note": "Centers Cloobeck, describing the home as tied to a former Swalwell donor." },
+        { "ref": "80aaaa5588", "note": "Attributes the raid to “US media” reports and notes Swalwell's denial." },
+        { "ref": "1f02a7f47c", "note": "Uses “raids” and leads with the number of accusers." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "1f02a7f47c", "takeaway": "Headline and summary only: the raid and the number of women accusing Swalwell.", "read_full": false },
+        { "ref": "64a9d37dd7", "takeaway": "Headline and summary only: tabloid framing with an unconfirmed source claim.", "read_full": false },
+        { "ref": "3b3db85a52", "takeaway": "Headline and summary only: names Cloobeck and notes Swalwell's resignation.", "read_full": false },
+        { "ref": "fd375fae18", "takeaway": "Headline and summary only: focuses on Cloobeck as a former donor and associate.", "read_full": false },
+        { "ref": "8eda076f08", "takeaway": "Headline only: wire report citing sources on the search.", "read_full": false },
+        { "ref": "80aaaa5588", "takeaway": "Headline and summary only: attributes the report to US media and notes the denial.", "read_full": false },
+        { "ref": "us-w11", "takeaway": "Search result only: Reuters report on the August search of Swalwell's home.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "tennessee-prison-escape",
+      "headline": "Manhunt for convicted murderer who slipped through Tennessee prison fence",
+      "region": "",
+      "importance": 2,
+      "summary": "Authorities in several states are searching for Jacob Allen Morley, 28, who is serving a life sentence for murder and escaped from a state prison in Tiptonville, Tenn., by slipping through a perimeter fence. Officials say he stole a pickup truck after breaking out, and he remained at large on Tuesday.",
+      "why_it_matters": "Officials are asking residents to check home security cameras and watch for the stolen truck, and a friend of Morley's victim is warning the public that he is dangerous.",
+      "background": "Morley was sentenced to life in prison for the 2022 killing of his co-worker, Cody Birchfield. He was held at the Northwest Correctional Complex, a medium-security state prison in Tiptonville in northwest Tennessee, and was found to be missing late Sunday. Security video shows him breaching the fence while still in prison clothing.",
+      "facts": [
+        { "text": "Morley, 28, was discovered missing late Sunday at the Northwest Correctional Complex in Tiptonville, Tenn., officials said.", "refs": ["5d9b014525", "92f75cadc6"] },
+        { "text": "Security video shows Morley breaching the perimeter fence while still wearing prison clothing.", "refs": ["093a669472", "ad329a94a9", "eacf524df1"] },
+        { "text": "State prison officials say he stole a Ford F-350 flatbed truck; NewsNation reported it is a white 2008 model with “Lindamood Planting Company” printed on the door.", "refs": ["7eae5c6c8b", "9777abd8a4", "5d5b10f33b"] },
+        { "text": "He is serving a life sentence for the 2022 killing of his co-worker, Cody Birchfield.", "refs": ["c8de482751", "eacf524df1"] },
+        { "text": "He remained at large on Tuesday, and authorities asked residents to check their home security cameras for any sign of him.", "refs": ["ad329a94a9", "5d5b10f33b", "3fdb4c720e"] },
+        { "text": "A friend of the murder victim called Morley “extremely dangerous” and urged people to stay away from him.", "refs": ["7897c877c8", "92f75cadc6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "92f75cadc6", "note": "Leads with the victim's friend's fear that the escaped killer could strike again." },
+        { "ref": "eacf524df1", "note": "“Slips through a fence” puts the focus on how he got out." },
+        { "ref": "7eae5c6c8b", "note": "Straight manhunt framing centered on the stolen truck." },
+        { "ref": "c8de482751", "note": "Leads with the fence escape and adds the crime behind his life sentence." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "7eae5c6c8b", "takeaway": "Headline and summary only: the manhunt and the stolen truck, per state prison officials.", "read_full": false },
+        { "ref": "3fdb4c720e", "takeaway": "Headline and summary only (video): the request for residents to check security cameras.", "read_full": false },
+        { "ref": "9777abd8a4", "takeaway": "Headline and summary only: new video and a description of the truck.", "read_full": false },
+        { "ref": "92f75cadc6", "takeaway": "Headline and summary only: multi-state manhunt and the victim's friend's fears.", "read_full": false },
+        { "ref": "5d9b014525", "takeaway": "Headline and summary only (paywalled): when and where he was found missing.", "read_full": false },
+        { "ref": "7897c877c8", "takeaway": "Headline and summary only: the victim's friend's warning to the public.", "read_full": false },
+        { "ref": "c8de482751", "takeaway": "Headline and summary only: names the victim of the 2022 killing.", "read_full": false },
+        { "ref": "093a669472", "takeaway": "Headline and summary only: security video of the fence breach.", "read_full": false },
+        { "ref": "eacf524df1", "takeaway": "Headline only: wire report on the escape through a fence.", "read_full": false },
+        { "ref": "ad329a94a9", "takeaway": "Headline and summary only: the search continuing Tuesday and the security footage.", "read_full": false },
+        { "ref": "5d5b10f33b", "takeaway": "Headline and summary only: he remained at large early Tuesday.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://news.bloomberglaw.com/us-law-week/trump-doj-pursuing-separate-comey-probe-for-classified-leaks", "title": "Trump DOJ Pursuing Separate Comey Probe for Classified Leaks", "outlet": "Bloomberg Law" },
+    { "id": "us-w2", "url": "https://www.ksat.com/news/politics/2026/10/15/trump-administration-sues-california-to-block-state-from-counting-alleged-noncitizen-mail-in-ballots/", "title": "Trump administration sues California to block state from counting alleged noncitizen mail-in ballots", "outlet": "KSAT (AP)" },
+    { "id": "us-w3", "url": "https://www.opb.org/article/2026/07/08/doj-threatens-wa-election-officials-with-prosecution-if-noncitizens-vote/", "title": "DOJ threatens Washington election officials with prosecution if noncitizens vote", "outlet": "OPB" },
+    { "id": "us-w4", "url": "https://www.kxly.com/news/washingtons-secretary-of-state-accuses-doj-of-trying-to-intimidate-interfere-with-elections/article_2f4f3d36-8e31-4158-8688-068572f07df1.html", "title": "Washington's secretary of state accuses DOJ of trying to intimidate, interfere with elections", "outlet": "KXLY" },
+    { "id": "us-w5", "url": "https://www.wlox.com/2026/10/21/trump-rallying-mississippi-monday-support-hyde-smith/", "title": "Trump rallying in Mississippi on Monday to support Hyde-Smith", "outlet": "WLOX" },
+    { "id": "us-w6", "url": "https://mississippitoday.org/2026/10/22/kamala-harris-says-mississippi-matters-at-columbus-rally-for-scott-colom/", "title": "Kamala Harris says 'Mississippi matters' at Columbus rally for Scott Colom", "outlet": "Mississippi Today" },
+    { "id": "us-w7", "url": "https://scotusblog.com/2026/10/challengers-ask-court-to-pause-agreement-between-texas-and-the-doj-on-deportation-proceedings", "title": "Challengers ask court to pause agreement between Texas and the DOJ on deportation proceedings", "outlet": "SCOTUSblog" },
+    { "id": "us-w8", "url": "https://www.scotusblog.com/2026/10/trump-administration-and-texas-urge-court-to-leave-their-agreement-on-deportation-proceedings-in/", "title": "Trump administration and Texas urge court to leave their agreement on deportation proceedings in place", "outlet": "SCOTUSblog" },
+    { "id": "us-w9", "url": "https://www.ilrc.org/resources/administrative-closure-termination-and-texas-v-department-justice", "title": "Administrative Closure, Termination, and Texas v. Department of Justice", "outlet": "Immigrant Legal Resource Center" },
+    { "id": "us-w10", "url": "https://wtop.com/sports/2026/05/judge-in-dispute-over-washington-golf-course-tells-trump-officials-not-to-cut-trees-without-notice/", "title": "Judge in dispute over Washington golf course tells Trump officials not to cut trees without notice", "outlet": "WTOP (AP)" },
+    { "id": "us-w11", "url": "https://www.thestar.com.my/news/world/2026/08/21/fbi-raids-democrat-swalwell039s-home-in-sexual-misconduct-investigation-source-says", "title": "FBI raids Democrat Swalwell's home in sexual-misconduct investigation, source says", "outlet": "The Star (Reuters)" }
+  ]
+}

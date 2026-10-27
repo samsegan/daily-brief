@@ -1,0 +1,414 @@
+{
+  "stories": [
+    {
+      "id": "brazil-lula-reelected-flavio-leaves",
+      "headline": "Lula wins a fourth term in Brazil as defeated rival Flávio Bolsonaro heads to the US",
+      "region": "Americas",
+      "importance": 5,
+      "summary": "President Luiz Inácio Lula da Silva won Brazil's Sunday runoff against far-right senator Flávio Bolsonaro after trailing him in the first round. Bolsonaro's party says it recognizes the result, but he has not conceded, and President Trump called the vote 'rigged' without offering evidence. Bolsonaro missed a deadline to hand his passports to police in a money-laundering inquiry, and sources cited by Reuters and other outlets say he has left for the United States.",
+      "why_it_matters": "Brazilians get four more years of Lula's government, but the loser's reported departure for the US and Trump's fraud claim set up friction with Washington. Markets fell sharply on the result, and a sinking currency can push up prices in Brazil while Lula decides how to pay for his campaign promises.",
+      "background": "Lula, the leftist incumbent, was seeking a fourth term against Flávio Bolsonaro, a senator and son of former President Jair Bolsonaro, who was a close ally of Donald Trump while in office. Flávio finished first in the first round earlier this month with about 47% of valid votes to Lula's 45%, according to the official count, which forced Sunday's runoff. The Trump administration has previously alleged that Jair Bolsonaro was a victim of judicial persecution in Brazil. Flávio is under federal police investigation over alleged corruption and money laundering, and a Supreme Court judge ordered him to surrender his passports hours after his loss.",
+      "facts": [
+        { "text": "Lula won a fourth term in Sunday's runoff, coming back after trailing Flávio Bolsonaro in the first round.", "refs": ["e3bd0a4125", "77056fb568", "bc1c52ff4c", "a3bc15f6f1"] },
+        { "text": "In the first round, with all polling sections counted, Flávio Bolsonaro had 47.03% of valid votes and Lula 45.16%.", "refs": ["world-w1"] },
+        { "text": "Bolsonaro's party said it recognizes Lula's victory, but Flávio Bolsonaro has refused to concede.", "refs": ["e3bd0a4125", "8bec65ffac", "1d85968079", "bc1c52ff4c"] },
+        { "text": "President Trump said the election looked 'rigged' without citing evidence.", "refs": ["569a62886a", "4bbdc4553a", "1d85968079", "3aa31a5575"] },
+        { "text": "World leaders congratulated Lula on his reelection.", "refs": ["bc1c52ff4c", "05f5b5160b"] },
+        { "text": "Hours after the loss, a Supreme Court ruling citing a money-laundering case barred Flávio Bolsonaro from leaving Brazil and ordered him to surrender his passports.", "refs": ["d7a1fd79d5", "25bf808fff", "f428feda8c", "97dee64b77"] },
+        { "text": "He missed the deadline to hand over the passports, and they were cancelled on Tuesday.", "refs": ["ea224132fb", "e967706c12", "97dee64b77", "1d9a88889f", "ae6cb11184"] },
+        { "text": "Sources and media reports say he has left Brazil for the United States; the US embassy in Brazil did not immediately respond to a request for comment.", "refs": ["11ceccc059", "79304d16f2", "a3bc15f6f1", "ec9d4f8ce3", "442d345c78"] },
+        { "text": "Concern about how the economy will be managed gave Brazil's currency its worst day in more than 25 years, the Financial Times reported.", "refs": ["ba935c4471"] },
+        { "text": "The result rattled Brazilian markets and leaves Lula weighing costly campaign promises against pressure to rein in spending, CNBC reported.", "refs": ["40377c2654"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the result is legitimate",
+          "positions": [
+            { "claim": "President Trump said the election looked 'rigged' and 'corrupt', without citing evidence.", "refs": ["569a62886a", "3aa31a5575"] },
+            { "claim": "Flávio Bolsonaro's own party said it recognizes Lula's win.", "refs": ["e3bd0a4125", "8bec65ffac"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "1d85968079", "note": "Leads with the split between a party that accepts defeat and a candidate who won't, and adds Trump's claim." },
+        { "ref": "8bec65ffac", "note": "Leads with the concession and labels Lula a 'leftist incumbent'." },
+        { "ref": "ba935c4471", "note": "Treats the win mainly as a market and fiscal problem for Lula." },
+        { "ref": "3aa31a5575", "note": "Leads with Trump calling the vote 'rigged' and 'corrupt' rather than with the result itself." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e3bd0a4125", "takeaway": "Headline and summary only: the party's recognition of the result and Lula's comeback from the first round.", "read_full": false },
+        { "ref": "77056fb568", "takeaway": "Headline and summary only: reader Q&A with the Guardian's correspondent on what the win means for the region.", "read_full": false },
+        { "ref": "bc1c52ff4c", "takeaway": "Headline and summary only: live coverage of world leaders' congratulations and the party's recognition.", "read_full": false },
+        { "ref": "8bec65ffac", "takeaway": "Headline only: the party's concession.", "read_full": false },
+        { "ref": "1d85968079", "takeaway": "Headline and summary only: party accepts, candidate refuses, Trump alleges rigging.", "read_full": false },
+        { "ref": "569a62886a", "takeaway": "Headline only: Trump's 'rigged' claim, noting he cited no evidence.", "read_full": false },
+        { "ref": "4bbdc4553a", "takeaway": "Headline and summary only: Trump's claim, with context on Jair Bolsonaro's ties to him.", "read_full": false },
+        { "ref": "3aa31a5575", "takeaway": "Headline only: Trump's 'rigged' and 'corrupt' remarks.", "read_full": false },
+        { "ref": "05f5b5160b", "takeaway": "Headline only: global leaders' congratulations.", "read_full": false },
+        { "ref": "d7a1fd79d5", "takeaway": "Headline and summary only: the court order banning travel and seizing passports.", "read_full": false },
+        { "ref": "25bf808fff", "takeaway": "Headline and summary only (paywalled): the Supreme Court order tied to a money-laundering inquiry.", "read_full": false },
+        { "ref": "f428feda8c", "takeaway": "Headline and summary only (paywalled): the passport order and the criminal investigation.", "read_full": false },
+        { "ref": "97dee64b77", "takeaway": "Headline and summary only: passports cancelled, sources say he fled to the US.", "read_full": false },
+        { "ref": "ea224132fb", "takeaway": "Headline only: the missed passport deadline.", "read_full": false },
+        { "ref": "e967706c12", "takeaway": "Headline only: missed deadline, compliance unclear.", "read_full": false },
+        { "ref": "1d9a88889f", "takeaway": "Headline and summary only: reports he was headed to the US after the passports were cancelled.", "read_full": false },
+        { "ref": "ae6cb11184", "takeaway": "Headline and summary only (paywalled): passport cancelled amid reports he fled.", "read_full": false },
+        { "ref": "11ceccc059", "takeaway": "Headline only: he left for the US, per a source and media.", "read_full": false },
+        { "ref": "79304d16f2", "takeaway": "Headline only: he is headed to the US, sources say.", "read_full": false },
+        { "ref": "a3bc15f6f1", "takeaway": "Headline and summary only (paywalled): two sources say he left; the US embassy had no immediate comment.", "read_full": false },
+        { "ref": "ec9d4f8ce3", "takeaway": "Headline and summary only: reports he was on a plane to the US after missing the deadline.", "read_full": false },
+        { "ref": "442d345c78", "takeaway": "Headline only: he heads to the US after the loss.", "read_full": false },
+        { "ref": "ba935c4471", "takeaway": "Headline and summary only (paywalled): the currency's worst day in over 25 years.", "read_full": false },
+        { "ref": "40377c2654", "takeaway": "Headline and summary only: market jitters and the fiscal test ahead.", "read_full": false },
+        { "ref": "world-w1", "takeaway": "Search result only: official first-round totals.", "read_full": false }
+      ],
+      "social": "The Hindu reported that Lula's first-round defeat fired up the left on the streets and on social media. Readers' questions to the Guardian's Latin America correspondent centered on whether his win ends the region's turn to the far right."
+    },
+    {
+      "id": "israel-election-record-turnout",
+      "headline": "Israelis vote in record numbers in an election seen as a verdict on Netanyahu",
+      "region": "Middle East",
+      "importance": 5,
+      "summary": "Israelis voted Tuesday in the first national election since the Hamas-led attack of Oct. 7, 2023, a contest widely described as a referendum on Prime Minister Benjamin Netanyahu. Turnout ran at its highest level in decades, and the Central Elections Committee turned down a request from the Likud and Shas parties to keep polls open longer. Polls close at 10 p.m. local time, and the result may not quickly settle who forms the next government.",
+      "why_it_matters": "The winner will lead Israel through unresolved wars in Gaza and with Iran, and NBC noted the outcome could affect the United States and gas prices.",
+      "background": "Netanyahu is already the longest-serving prime minister in Israel's history and is wanted by the International Criminal Court. His standing has been hurt by anger over the failure to prevent the Oct. 7 attack, wars in Gaza and with Iran, Israel's growing international isolation and the rising cost of living. He argues that only he can finish the job started in the war with Iran eight months ago, and President Trump has urged Israelis to return him to power. After the vote, parties must bargain to form a government, which is why the count alone may not decide who leads.",
+      "facts": [
+        { "text": "It is Israel's first national election since the Oct. 7, 2023, Hamas-led attack and is widely seen as a referendum on Netanyahu.", "refs": ["4e4be19401", "97ec09684c", "a271f5711d", "19bab704aa", "83857cc914"] },
+        { "text": "Turnout reached 55.7% by 4 p.m., up 8 percentage points from the same time in 2022 and the highest ever recorded at that hour.", "refs": ["b4088a8a71", "1a3e389cdc"] },
+        { "text": "Four hours before polls closed, two-thirds of voters had cast ballots, the highest level since 1973, Axios reported; The Hill called it a 53-year high.", "refs": ["50e6ceda54", "f3103edefd"] },
+        { "text": "Turnout in the 1973 election was 78.6%, according to the Israel Democracy Institute.", "refs": ["world-w2"] },
+        { "text": "Likud and Shas asked to extend voting hours, and the Central Elections Committee rejected the request.", "refs": ["55cdf71ab2", "ca3cb5789a", "ec86a28a71", "c39d926816"] },
+        { "text": "Polls close at 10 p.m. local time.", "refs": ["c39d926816"] },
+        { "text": "Tens of thousands of Israelis living abroad flew in to vote.", "refs": ["9ebe87c866", "cfb235a706", "c143578c7f"] },
+        { "text": "Netanyahu has insisted that only he can finish the job started eight months ago in Iran.", "refs": ["7ac0289242"] },
+        { "text": "President Trump urged Israeli voters to return Netanyahu to power.", "refs": ["c0490676ad"] },
+        { "text": "Accountability for the government's failures around the Oct. 7 attack is a central campaign issue, alongside the wars and the cost of living.", "refs": ["5470db4e2e", "b40b4e9594", "3be8b69c8c"] },
+        { "text": "The New York Times said the vote is unlikely to yield quick answers about who will lead the next government.", "refs": ["2b3360e77b"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "50e6ceda54", "note": "Reads the record turnout as a 'warning sign' for Netanyahu." },
+        { "ref": "83857cc914", "note": "Frames the vote as a reckoning over Oct. 7 in a deeply divided country." },
+        { "ref": "b40b4e9594", "note": "Puts the ICC warrant against Netanyahu in the headline." },
+        { "ref": "7ac0289242", "note": "Centers the war with Iran and Netanyahu's security pitch." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "4e4be19401", "takeaway": "Headline and summary only: supporters at Netanyahu's polling station; vote seen as a referendum.", "read_full": false },
+        { "ref": "97ec09684c", "takeaway": "Headline and summary only: what is at stake in the first vote since Oct. 7.", "read_full": false },
+        { "ref": "a271f5711d", "takeaway": "Headline and summary only: voting under way, with notes on US interests and gas prices.", "read_full": false },
+        { "ref": "19bab704aa", "takeaway": "Headline and summary only: a divided country voting on whether to oust Netanyahu.", "read_full": false },
+        { "ref": "83857cc914", "takeaway": "Headline and summary only: explainer framed around Oct. 7 failures and no clear majority.", "read_full": false },
+        { "ref": "b4088a8a71", "takeaway": "Headline only: the 4 p.m. turnout figure and comparison with 2022.", "read_full": false },
+        { "ref": "1a3e389cdc", "takeaway": "Headline and summary only: turnout at 55% by 4 p.m.", "read_full": false },
+        { "ref": "50e6ceda54", "takeaway": "Headline and summary only: turnout at its highest since 1973, read as bad news for the incumbent.", "read_full": false },
+        { "ref": "f3103edefd", "takeaway": "Headline and summary only: a 53-year turnout high as Netanyahu fights to stay in power.", "read_full": false },
+        { "ref": "55cdf71ab2", "takeaway": "Headline only: Likud and Shas request longer voting hours.", "read_full": false },
+        { "ref": "ca3cb5789a", "takeaway": "Headline only: the committee rejects the request.", "read_full": false },
+        { "ref": "ec86a28a71", "takeaway": "Headline only: live coverage noting the refusal to extend voting.", "read_full": false },
+        { "ref": "c39d926816", "takeaway": "Headline and summary only: live blog with the refusal, closing time and record turnout.", "read_full": false },
+        { "ref": "9ebe87c866", "takeaway": "Headline and summary only: expatriates flying in to vote.", "read_full": false },
+        { "ref": "cfb235a706", "takeaway": "Headline only (paywalled): tens of thousands of expat voters.", "read_full": false },
+        { "ref": "c143578c7f", "takeaway": "Headline only: Bay Area Israelis flying home, calling it 'a national emergency'.", "read_full": false },
+        { "ref": "7ac0289242", "takeaway": "Headline and summary only: the Iran war's weight on the vote.", "read_full": false },
+        { "ref": "c0490676ad", "takeaway": "Headline and summary only: Trump urging voters to back Netanyahu.", "read_full": false },
+        { "ref": "5470db4e2e", "takeaway": "Headline and summary only (paywalled): accountability for Oct. 7 as the key issue.", "read_full": false },
+        { "ref": "b40b4e9594", "takeaway": "Headline and summary only: ICC warrant, public anger and the cost of living.", "read_full": false },
+        { "ref": "3be8b69c8c", "takeaway": "Headline and summary only (Reuters reprint): Netanyahu's survival, the wars and Israel's isolation.", "read_full": false },
+        { "ref": "2b3360e77b", "takeaway": "Headline and summary only (paywalled): why the result may not settle the next government quickly.", "read_full": false },
+        { "ref": "world-w2", "takeaway": "Search result only: official turnout in the 1973 election.", "read_full": false }
+      ],
+      "social": "Expatriate voters quoted by the Times of Israel described flying home as answering 'a national emergency', and France 24 showed supporters gathering outside the polling station where Netanyahu voted."
+    },
+    {
+      "id": "ukraine-oleshky-truce-nordic-putin-call",
+      "headline": "Local truce takes hold in Ukraine's Oleshky as Finland and Norway leaders call Putin",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "A local ceasefire brokered by US first lady Melania Trump took effect early Tuesday around the Russian-occupied city of Oleshky in southern Ukraine, meant to let aid in and civilians out, while Russia fired missiles and drones at other Ukrainian cities. The same day, Finland's President Alexander Stubb and Norway's Prime Minister Jonas Gahr Støre held a rare direct call with Vladimir Putin about ending the war, drawing criticism from Denmark and Estonia.",
+      "why_it_matters": "The truce tests on a small scale whether Russia and Ukraine can hold a ceasefire, and the call shows Europe split over talking to Putin ahead of planned US-led peace talks that will shape the end of the war.",
+      "background": "Russia has occupied Oleshky, in the war-divided Kherson region, since February 2022, and residents have been cut off from food and medicine. On Oct. 23, Ukrainian, Russian and US negotiators agreed to pause fighting there so aid could enter and residents could leave through a safe corridor, and the White House credited Melania Trump with securing the deal. European leaders have mostly avoided direct contact with Putin, so the Finnish and Norwegian call broke with that stance. Stubb and Støre had held a joint press conference with Ukraine's President Volodymyr Zelenskyy in Oslo the week before.",
+      "facts": [
+        { "text": "A local ceasefire around Oleshky took effect early Tuesday; Russia and Ukraine both said they would observe it from 3 a.m. local time.", "refs": ["dbcd4b8b6f", "99ee711add", "e829f8e833", "24cfde3a06"] },
+        { "text": "The pause is meant to let humanitarian aid into the city and evacuate residents who want to leave.", "refs": ["7259005f25", "19ebc5f0e9", "d2efd78d13"] },
+        { "text": "The White House said the truce was secured by Melania Trump, who has called the situation in the city 'dire'.", "refs": ["19ebc5f0e9", "929ac727f9"] },
+        { "text": "Melania Trump said the ceasefire had been expanded within the Kherson region.", "refs": ["8b3539a6fd", "150fac0054", "476d0ba8dc"] },
+        { "text": "The White House has said 1,700 to 2,000 people remain in Oleshky, mostly elderly, down from about 24,000 before the war.", "refs": ["world-w3"] },
+        { "text": "Residents have been cut off from food and medicine, and the BBC reported that some ate weeds to survive.", "refs": ["d2efd78d13", "19ebc5f0e9", "19744f759f"] },
+        { "text": "Russia launched missiles and drones at cities across Ukraine, including Kyiv, as the truce began.", "refs": ["0b107147f2", "e829f8e833", "8b3539a6fd"] },
+        { "text": "The front line near Oleshky was quiet for the first time in years, with both sides halting drone attacks, the Guardian reported.", "refs": ["bbcf7b2c06"] },
+        { "text": "Stubb and Støre said they held a 'frank and substantive' discussion with Putin; Stubb said ending the war requires direct discussions.", "refs": ["26e0fc498a", "45f2bcfaac", "0b5734bbfd"] },
+        { "text": "Reuters called the call a rare direct contact by Europeans with Putin.", "refs": ["19d425fd4d", "5da481dc97"] },
+        { "text": "Denmark's Frederiksen criticized Finland and Norway for calling Putin without coordinating with allies, though they had consulted Ukraine.", "refs": ["e816c1a008"] },
+        { "text": "Estonia's foreign minister, Margus Tsahkna, also expressed skepticism about the call in a post on X.", "refs": ["01b806518a"] },
+        { "text": "Kyiv said it hoped the call would bring 'new momentum' to peace talks.", "refs": ["8df6f7c026"] },
+        { "text": "Putin went on an extended tangent about Russian history during the call, the Financial Times reported.", "refs": ["38f0f34734"] },
+        { "text": "The White House has proposed Russian deals for US oil majors as part of peace talks, in an effort to bring Putin to the table, the Financial Times reported.", "refs": ["2a71e30cae"] },
+        { "text": "Stubb, Støre and Zelenskyy held a joint press conference the week before, Norway's government said.", "refs": ["world-w4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "929ac727f9", "note": "Leads with Melania Trump's role and says the truce 'holds'." },
+        { "ref": "0b107147f2", "note": "Pairs the truce with Russia's continuing attacks elsewhere in Ukraine." },
+        { "ref": "19ebc5f0e9", "note": "Leads with the hunger in Oleshky rather than the diplomacy." },
+        { "ref": "38f0f34734", "note": "Casts the Nordic call as Putin lecturing his visitors on history." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "dbcd4b8b6f", "takeaway": "Headline and summary only: the truce start time and both sides' commitment.", "read_full": false },
+        { "ref": "99ee711add", "takeaway": "Headline and summary only (AP): the truce taking effect ahead of the aid mission.", "read_full": false },
+        { "ref": "e829f8e833", "takeaway": "Headline and summary only: truce begins as missile attacks hit Kyiv.", "read_full": false },
+        { "ref": "24cfde3a06", "takeaway": "Headline and summary only: background on Melania Trump's announcement last week.", "read_full": false },
+        { "ref": "7259005f25", "takeaway": "Headline and summary only (paywalled): aid in, evacuations out.", "read_full": false },
+        { "ref": "19ebc5f0e9", "takeaway": "Headline and summary only: residents eating weeds; White House credits Melania Trump.", "read_full": false },
+        { "ref": "d2efd78d13", "takeaway": "Headline and summary only (paywalled): residents cut off from food and medicine.", "read_full": false },
+        { "ref": "929ac727f9", "takeaway": "Headline and summary only: the truce holding and Melania Trump's 'dire' description.", "read_full": false },
+        { "ref": "8b3539a6fd", "takeaway": "Headline and summary only: the truce expanded in Kherson as missiles hit elsewhere.", "read_full": false },
+        { "ref": "150fac0054", "takeaway": "Headline only: Melania Trump says the truce has expanded.", "read_full": false },
+        { "ref": "476d0ba8dc", "takeaway": "Headline only: the expansion within Kherson.", "read_full": false },
+        { "ref": "19744f759f", "takeaway": "Headline and summary only (paywalled): residents out of food under constant bombardment.", "read_full": false },
+        { "ref": "0b107147f2", "takeaway": "Headline and summary only: the truce alongside Russian strikes across Ukraine.", "read_full": false },
+        { "ref": "bbcf7b2c06", "takeaway": "Headline and summary only: a quiet front line ahead of the evacuation.", "read_full": false },
+        { "ref": "26e0fc498a", "takeaway": "Headline and summary only (paywalled): the Nordic leaders' account of the call.", "read_full": false },
+        { "ref": "45f2bcfaac", "takeaway": "Headline and summary only: Stubb's quote from the joint statement.", "read_full": false },
+        { "ref": "0b5734bbfd", "takeaway": "Headline and summary only: the call as a break with Europe's previous stance.", "read_full": false },
+        { "ref": "19d425fd4d", "takeaway": "Headline only: a rare direct European contact with Putin.", "read_full": false },
+        { "ref": "5da481dc97", "takeaway": "Headline and summary only: a rare call, with Stubb's case for talking.", "read_full": false },
+        { "ref": "e816c1a008", "takeaway": "Headline and summary only: Danish criticism and divisions before US-led talks.", "read_full": false },
+        { "ref": "01b806518a", "takeaway": "Headline and summary only: Danish and Estonian skepticism.", "read_full": false },
+        { "ref": "8df6f7c026", "takeaway": "Headline and summary only: live blog with Kyiv's hopes and skeptical European reactions.", "read_full": false },
+        { "ref": "38f0f34734", "takeaway": "Headline and summary only (paywalled): Putin's history lecture on the call.", "read_full": false },
+        { "ref": "2a71e30cae", "takeaway": "Headline and summary only (paywalled): US proposal of business ties with Russia in peace talks.", "read_full": false },
+        { "ref": "world-w3", "takeaway": "Search result only (AP): the Oct. 23 deal and population figures.", "read_full": false },
+        { "ref": "world-w4", "takeaway": "Search result only: the leaders' earlier joint press conference.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "congo-ebola-10000-cases",
+      "headline": "Congo's Ebola outbreak passes 10,000 confirmed cases",
+      "region": "Africa",
+      "importance": 4,
+      "summary": "Confirmed cases in the Democratic Republic of Congo's Ebola outbreak rose above 10,000, government data showed Tuesday, and nearly half of those patients have died. The outbreak is driven by the Bundibugyo species of the virus, for which there is no approved vaccine or specific treatment, and cases have turned up in Kenya and Nigeria.",
+      "why_it_matters": "With no vaccine for this strain, containment depends on finding and isolating cases, and attacks on health workers and strikes over unpaid wages make that harder. Cases in Kenya and Nigeria show how far it can travel.",
+      "background": "The outbreak is caused by the Bundibugyo virus, a rarer species of Ebola that the existing approved Ebola vaccine does not target. The World Health Organization declared the outbreak in Congo and Uganda a global health emergency in May. By early October Congo had reported more than 8,400 confirmed cases across seven provinces, including Ituri and North and South Kivu, according to the European Centre for Disease Prevention and Control. Cases have since been confirmed in Kenya and Nigeria.",
+      "facts": [
+        { "text": "Confirmed Ebola cases in Congo rose above 10,000, government data showed on Tuesday.", "refs": ["182ca020de", "c0e5221d6c", "a1e339454d"] },
+        { "text": "Nearly half of the 10,060 confirmed cases have died, making it the deadliest and fastest-growing Ebola outbreak on record, according to AP's report.", "refs": ["1b7fa95020", "c0e5221d6c"] },
+        { "text": "DW put the death toll at nearly 4,900.", "refs": ["8baaf95f35"] },
+        { "text": "As of Oct. 2, Congo had reported 8,442 confirmed cases and 4,080 deaths across seven provinces.", "refs": ["world-w5"] },
+        { "text": "There is no approved vaccine or specific treatment for the Bundibugyo virus driving the outbreak.", "refs": ["8baaf95f35", "a1e339454d", "world-w5"] },
+        { "text": "Health workers in Congo have been attacked and have gone on strike over unpaid wages.", "refs": ["1b7fa95020"] },
+        { "text": "Nigeria's first confirmed Ebola patient was evacuated to Switzerland.", "refs": ["036558d6fe", "3cf671686c"] },
+        { "text": "Kenya announced its second Ebola death, a close relative of its first patient; seven other patients are being treated in isolation and no new infections were reported.", "refs": ["3960f77d46"] },
+        { "text": "Twenty contacts of Kenya's first case were released after completing the 21-day quarantine, UN News reported.", "refs": ["b0cb1c8ea4"] },
+        { "text": "The WHO declared the outbreak in Congo and Uganda a global health emergency.", "refs": ["world-w6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "8baaf95f35", "note": "Puts the lack of any vaccine or treatment in the headline." },
+        { "ref": "89f8d4420f", "note": "Emphasizes the mounting deaths." },
+        { "ref": "263e727aca", "note": "A South African outlet's Reuters headline stresses fears of wider spread across Africa." },
+        { "ref": "c0e5221d6c", "note": "Focuses on the authorities' race to slow the spread." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "182ca020de", "takeaway": "Headline only (Reuters): the 10,000 milestone and fears of spread.", "read_full": false },
+        { "ref": "263e727aca", "takeaway": "Headline and summary only (Reuters reprint): the milestone and fears for other countries.", "read_full": false },
+        { "ref": "c0e5221d6c", "takeaway": "Headline and summary only (AP): the fastest-growing outbreak on record.", "read_full": false },
+        { "ref": "1b7fa95020", "takeaway": "Headline and summary only (same headline as AP's): 10,060 cases, nearly half dead, attacks on health workers.", "read_full": false },
+        { "ref": "a1e339454d", "takeaway": "Headline and summary only: most cases in Congo; no vaccine for Bundibugyo.", "read_full": false },
+        { "ref": "8baaf95f35", "takeaway": "Headline and summary only: nearly 4,900 deaths and no approved vaccine or treatment.", "read_full": false },
+        { "ref": "89f8d4420f", "takeaway": "Headline only: deaths mount as cases pass 10,000.", "read_full": false },
+        { "ref": "036558d6fe", "takeaway": "Headline only: Nigeria's first patient evacuated to Switzerland.", "read_full": false },
+        { "ref": "3cf671686c", "takeaway": "Headline only (AP): the same evacuation.", "read_full": false },
+        { "ref": "3960f77d46", "takeaway": "Headline and summary only: Kenya's second death and patients in isolation.", "read_full": false },
+        { "ref": "b0cb1c8ea4", "takeaway": "Headline and summary only (UN News via AllAfrica): Kenyan contacts released from quarantine.", "read_full": false },
+        { "ref": "world-w5", "takeaway": "Search result only: ECDC's early-October case count and note on countermeasures.", "read_full": false },
+        { "ref": "world-w6", "takeaway": "Search result only: the WHO emergency declaration.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "uk-raf-fairford-iran-charges",
+      "headline": "Two men charged in UK over alleged Iran-backed plot at US-used air base",
+      "region": "Europe",
+      "importance": 3,
+      "summary": "Two 24-year-old London men appeared in a London court Tuesday charged under Britain's National Security Act over a September incident at RAF Fairford, an English air base used by US bombers in the war against Iran. Prosecutors described it as an Iran-backed plot against the base, and one of the men is charged with helping Iranian intelligence, according to the New York Times.",
+      "why_it_matters": "British authorities allege that Iran backed a plot against a base on British soil used by US forces in the war, a sign that the conflict's risks reach allies that host those forces.",
+      "background": "RAF Fairford is a base in England used by the US military, including bombers in its war against Iran. In September there was an incident at the base that British authorities have blamed on Iran. Counter-terrorism police arrested and later re-arrested suspects on suspicion of assisting Iranian intelligence, an offense under the National Security Act passed in 2023. On Tuesday prosecutors charged two men and they appeared in court in London.",
+      "facts": [
+        { "text": "Mohmed Ahmad Abdulkarim, a British-Iranian dual national, and Nouman Essghir, a British citizen, both 24 and from London, were charged under the National Security Act.", "refs": ["a13e6a03ce", "d2992ed729", "157843589f", "41de7868dd"] },
+        { "text": "The two appeared in a London court on Tuesday.", "refs": ["d2992ed729", "157843589f"] },
+        { "text": "Prosecutors say the incident was an Iran-backed plot against the US-run base, and the UK has blamed the incident on Iran.", "refs": ["d2992ed729", "41de7868dd"] },
+        { "text": "One man is charged with helping Iranian intelligence, the New York Times reported; authorities say one suspect is linked to Iran.", "refs": ["46ad2736da", "698bbe1fd8"] },
+        { "text": "The incident happened in September at RAF Fairford, a key base for US bombers used in the war against Iran.", "refs": ["3d5494e0eb", "46ad2736da"] },
+        { "text": "On Oct. 20, counter-terrorism police re-arrested two men on suspicion of assisting Iran over the Fairford incident.", "refs": ["world-w7", "world-w8"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "698bbe1fd8", "note": "Calls it a 'terror plot', stronger wording than most outlets." },
+        { "ref": "46ad2736da", "note": "Leads with the charge of helping Iranian intelligence." },
+        { "ref": "b6e5f49f0e", "note": "AP's wording sticks to 'incident' and 'national security offenses'." },
+        { "ref": "3d5494e0eb", "note": "Its headline links the case to US bombers having been pulled from the base." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a13e6a03ce", "takeaway": "Headline and summary only: names, ages and the charging law.", "read_full": false },
+        { "ref": "d2992ed729", "takeaway": "Headline and summary only (AP): court appearance and prosecutors' Iran-backed plot description.", "read_full": false },
+        { "ref": "157843589f", "takeaway": "Headline and summary only (paywalled): the court appearance and charges.", "read_full": false },
+        { "ref": "41de7868dd", "takeaway": "Headline and summary only: the UK's charges and its blaming of Iran.", "read_full": false },
+        { "ref": "46ad2736da", "takeaway": "Headline and summary only (paywalled): one man charged with helping Iranian intelligence.", "read_full": false },
+        { "ref": "698bbe1fd8", "takeaway": "Headline only: 'terror plot' framing, one suspect linked to Iran.", "read_full": false },
+        { "ref": "3d5494e0eb", "takeaway": "Headline and summary only: the September incident at a key US bomber base.", "read_full": false },
+        { "ref": "b6e5f49f0e", "takeaway": "Headline only (paywalled AP reprint): the charges.", "read_full": false },
+        { "ref": "world-w7", "takeaway": "Search result only: the Oct. 20 re-arrests.", "read_full": false },
+        { "ref": "world-w8", "takeaway": "Search result only: the same re-arrests.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "jordan-strikes-syria-church-attack",
+      "headline": "Jordan strikes militants in Syria after church attack; Syria says civilians were killed",
+      "region": "Middle East",
+      "importance": 3,
+      "summary": "Jordan's air force struck what it called Islamic State hideouts in southern Syria late Monday, saying the groups were linked to last week's deadly attack on a church in Jordan. Jordan said it killed more than 20 militants and expressed regret for civilian casualties, while Syria condemned the strikes as an 'unacceptable violation'.",
+      "why_it_matters": "The strikes have opened the worst rift between the two neighbors since Bashar al-Assad fell, and show how a single attack can spill across a border.",
+      "background": "On Oct. 23, gunmen opened fire during a funeral at a church in Jordan, and the death toll rose to nine. Jordan says the attackers were linked to militant groups in southern Syria, which it identifies as Islamic State. Jordan's air force has struck Islamic State targets in Syria before, joining US strikes in December 2025. Syria has had a new government since longtime ruler Bashar al-Assad was ousted in December 2024.",
+      "facts": [
+        { "text": "Jordan said its air force struck militant hideouts in southern Syria after finding that suspects behind last week's church attack were linked to groups operating there.", "refs": ["44a9f664a4", "9798c15f3c", "9d2606cb9c"] },
+        { "text": "Jordan said the strikes killed more than 20 Islamic State militants.", "refs": ["960a8f16bf", "e1e2d8143d"] },
+        { "text": "A Syrian agency said the strikes killed at least seven civilians.", "refs": ["ef8a7d6422"] },
+        { "text": "A Jordanian government spokesman expressed regret over civilian casualties.", "refs": ["bb2bb4e84c", "f9f8b72db6", "027141a6b6"] },
+        { "text": "Syria condemned the strikes as an 'unacceptable violation'.", "refs": ["027141a6b6"] },
+        { "text": "The Hindu described it as the worst crisis between the neighbors since Assad's ouster in December 2024.", "refs": ["027141a6b6"] },
+        { "text": "The Oct. 23 attack, in which gunmen fired on a funeral at a church, killed nine people.", "refs": ["world-w9", "world-w10"] },
+        { "text": "Jordan's air force joined US strikes on Islamic State targets in Syria in December 2025.", "refs": ["world-w11"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Who the strikes killed",
+          "positions": [
+            { "claim": "Jordan says it killed more than 20 Islamic State militants, while acknowledging some civilian casualties.", "refs": ["960a8f16bf", "e1e2d8143d", "f9f8b72db6"] },
+            { "claim": "Syria says civilians were killed; a Syrian agency put the civilian toll at at least seven.", "refs": ["9798c15f3c", "9d2606cb9c", "ef8a7d6422"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "9798c15f3c", "note": "Puts Jordan's account and Syria's civilian-death claim side by side." },
+        { "ref": "e1e2d8143d", "note": "Leads with Jordan's claimed militant death toll." },
+        { "ref": "bb2bb4e84c", "note": "Leads with Jordan admitting civilian casualties." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "44a9f664a4", "takeaway": "Headline and summary only (paywalled): Jordan's stated reason for the strikes.", "read_full": false },
+        { "ref": "9798c15f3c", "takeaway": "Headline only (AP): both sides' accounts.", "read_full": false },
+        { "ref": "9d2606cb9c", "takeaway": "Headline only: Jordan's targets and Damascus' civilian claim.", "read_full": false },
+        { "ref": "960a8f16bf", "takeaway": "Headline and summary only (Reuters): more than 20 militants killed, per Jordan.", "read_full": false },
+        { "ref": "e1e2d8143d", "takeaway": "Headline only: the same Jordanian claim.", "read_full": false },
+        { "ref": "ef8a7d6422", "takeaway": "Headline and summary only (paywalled): Syrian agency's civilian toll.", "read_full": false },
+        { "ref": "bb2bb4e84c", "takeaway": "Headline and summary only: Jordan's regret over civilian casualties.", "read_full": false },
+        { "ref": "f9f8b72db6", "takeaway": "Headline only (AP): Jordan acknowledges civilian deaths.", "read_full": false },
+        { "ref": "027141a6b6", "takeaway": "Headline and summary only: Syria's condemnation and the state of relations.", "read_full": false },
+        { "ref": "world-w9", "takeaway": "Search result only: the church attack's death toll.", "read_full": false },
+        { "ref": "world-w10", "takeaway": "Search result only (AP): gunmen firing on a funeral.", "read_full": false },
+        { "ref": "world-w11", "takeaway": "Search result only: Jordan's role in earlier US strikes.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "india-cyclone-arnab-evacuations",
+      "headline": "India evacuates tens of thousands as Cyclone Arnab nears Andhra Pradesh",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "Indian authorities evacuated tens of thousands of people from coastal Andhra Pradesh ahead of Cyclone Arnab, which is forecast to make landfall Wednesday as a very severe cyclone with winds of 125-135 km/h and then head inland toward Nepal. Trains and flights were cancelled, and heavy rain had already brought Visakhapatnam to a standstill.",
+      "why_it_matters": "People along India's east coast face flooding, wind damage and travel disruption, and a track inland toward Nepal could carry heavy rain well beyond the coast.",
+      "background": "Arnab formed over the Bay of Bengal and has been strengthening as it approaches India's east coast. Andhra Pradesh and neighboring Odisha have stepped up preparations, and Odisha's government set a goal of zero casualties. Authorities have opened cyclone shelters across vulnerable districts and suspended some transport.",
+      "facts": [
+        { "text": "Authorities evacuated tens of thousands of people from vulnerable coastal areas of Andhra Pradesh.", "refs": ["c583b9339e", "1113f8ea15", "54dec6a4e5"] },
+        { "text": "Arnab is forecast to intensify into a very severe cyclone and make landfall on the Andhra Pradesh coast on Wednesday, Oct. 28, with winds of 125-135 km/h.", "refs": ["9e95933a47", "1113f8ea15"] },
+        { "text": "Gusts could reach 150 km/h as the storm crosses the coast.", "refs": ["04f7a440b4"] },
+        { "text": "After landfall the storm is expected to cut inland and head north toward Nepal.", "refs": ["1113f8ea15"] },
+        { "text": "Train services and flights were cancelled and cyclone shelters activated; India's Civil Aviation Ministry reviewed flight safety.", "refs": ["61fb514e77", "9e95933a47"] },
+        { "text": "Heavy rain brought Visakhapatnam to a standstill, with 147.9 mm falling between 8:30 a.m. and 9 p.m., and bus services were cancelled.", "refs": ["4a891d4852"] },
+        { "text": "Odisha's government set a target of zero casualties as it prepared for the storm.", "refs": ["world-w12"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "54dec6a4e5", "note": "Says 'thousands' evacuated, a lower figure than AP's 'tens of thousands'." },
+        { "ref": "1113f8ea15", "note": "Looks past landfall to the storm's path toward Nepal." },
+        { "ref": "61fb514e77", "note": "Local service framing: what residents of the state need to know." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c583b9339e", "takeaway": "Headline and summary only (AP): evacuations and expected landfall.", "read_full": false },
+        { "ref": "1113f8ea15", "takeaway": "Headline and summary only (paywalled): Wednesday landfall and track toward Nepal.", "read_full": false },
+        { "ref": "54dec6a4e5", "takeaway": "Headline only: thousands evacuate.", "read_full": false },
+        { "ref": "9e95933a47", "takeaway": "Headline and summary only: forecast strength and aviation review.", "read_full": false },
+        { "ref": "04f7a440b4", "takeaway": "Headline and summary only: live updates with gust forecasts.", "read_full": false },
+        { "ref": "61fb514e77", "takeaway": "Headline and summary only: cancellations and shelters.", "read_full": false },
+        { "ref": "4a891d4852", "takeaway": "Headline and summary only: rain and disruption in Visakhapatnam.", "read_full": false },
+        { "ref": "world-w12", "takeaway": "Search result only: Odisha's preparations.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "venezuela-machado-returns",
+      "headline": "Machado returns to Venezuela; Rubio says the interim government agreed to let her in",
+      "region": "Americas",
+      "importance": 3,
+      "summary": "Venezuelan opposition leader María Corina Machado, last year's Nobel Peace Prize winner, made a surprise return to Venezuela after nearly a year in exile and was greeted by large crowds. Secretary of State Marco Rubio said Venezuela's interim government told the US weeks earlier that she could return without interference, and the Nobel committee and congressional Democrats are pressing for elections.",
+      "why_it_matters": "Her return tests whether Venezuela's US-backed interim government will allow open opposition politics and move toward new elections, decisions in which Washington now has a large say.",
+      "background": "In January, Nicolás Maduro was captured in a US military operation, and Delcy Rodríguez took over as acting president at the head of an interim government. Machado, who won the Nobel Peace Prize last year, had said for months that she would return. The Trump administration has worked with the existing interim leadership, and Machado wants new elections and a change of government.",
+      "facts": [
+        { "text": "Machado made a surprise return to Venezuela, where she was greeted by large crowds, NBC reported.", "refs": ["d03883e922"] },
+        { "text": "She had spent nearly a year in exile.", "refs": ["61f70835a0"] },
+        { "text": "The US told Venezuelan authorities that Machado should be allowed to return.", "refs": ["6a23809b5b", "b207191e75", "b509ff9487"] },
+        { "text": "Rubio said Venezuela's interim government told the US 'weeks and weeks' earlier that she could return without interference.", "refs": ["36a6a661e0"] },
+        { "text": "The Norwegian Nobel Committee, which gave Machado last year's Peace Prize, said Venezuela still needs democratic change.", "refs": ["d240d062e9"] },
+        { "text": "Sen. Jeanne Shaheen, the top Democrat on the Senate Foreign Relations Committee, and other Democrats urged Venezuela's government to hold elections.", "refs": ["61f70835a0"] },
+        { "text": "Machado wants to revive her movement and persuade Washington that Venezuela needs a change of government, the Wall Street Journal reported.", "refs": ["07fbc60678"] },
+        { "text": "The BBC said Washington appears content with Venezuela's existing leader for now, and the New York Times said Machado must avoid offending the Trump administration while asserting her own leadership.", "refs": ["687f591224", "f68662c358"] },
+        { "text": "Earlier this year Machado said she would return to Venezuela in the coming weeks.", "refs": ["world-w13"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "d03883e922", "note": "Calls the return 'daring' and leads with the crowds." },
+        { "ref": "687f591224", "note": "Frames her return around a Venezuela 'reshaped by Trump'." },
+        { "ref": "b207191e75", "note": "Leads with the US government's role in clearing her return." },
+        { "ref": "61f70835a0", "note": "Treats the return through US domestic politics, as Democrats push for elections." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d03883e922", "takeaway": "Headline and summary only: video report on the surprise return and crowds.", "read_full": false },
+        { "ref": "61f70835a0", "takeaway": "Headline and summary only: Democrats' call for elections.", "read_full": false },
+        { "ref": "6a23809b5b", "takeaway": "Headline only (AP): US told Venezuela she should be allowed back.", "read_full": false },
+        { "ref": "b207191e75", "takeaway": "Headline only (AP reprint): the same.", "read_full": false },
+        { "ref": "b509ff9487", "takeaway": "Headline only (AP reprint): the same.", "read_full": false },
+        { "ref": "36a6a661e0", "takeaway": "Headline and summary only: Rubio's account.", "read_full": false },
+        { "ref": "d240d062e9", "takeaway": "Headline and summary only: the Nobel committee's statement.", "read_full": false },
+        { "ref": "07fbc60678", "takeaway": "Headline and summary only (paywalled): Machado's goals.", "read_full": false },
+        { "ref": "687f591224", "takeaway": "Headline and summary only: return with Trump's blessing, US content with current leader.", "read_full": false },
+        { "ref": "f68662c358", "takeaway": "Headline and summary only (paywalled): the limits of US sway.", "read_full": false },
+        { "ref": "world-w13", "takeaway": "Search result only (AP): background on her plans to return and Venezuela's interim leadership.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w1", "url": "https://www.folhape.com.br/politica/com-100-das-secoes-totalizadas-flavio-tem-4703-lula-tem-4516-e/516549/", "title": "Com 100% das seções totalizadas, Flávio tem 47,03%, Lula tem 45,16% e Cury, 2,89%", "outlet": "Folha de Pernambuco" },
+    { "id": "world-w2", "url": "https://en.idi.org.il/israeli-elections-and-parties/elections/1973/", "title": "1973 Knesset election", "outlet": "Israel Democracy Institute" },
+    { "id": "world-w3", "url": "https://www.ky3.com/2026/10/23/white-house-announces-melania-trump-secures-ceasefire-russian-occupied-ukrainian-city/", "title": "White House announces Melania Trump secured ceasefire in Russian-occupied Ukrainian city", "outlet": "KY3 (AP)" },
+    { "id": "world-w4", "url": "https://www.regjeringen.no/en/whats-new/press-conference-with-zelenskyy-stubb-and-store/id3179149/", "title": "Press Conference with Zelenskyy, Stubb and Støre", "outlet": "Government of Norway" },
+    { "id": "world-w5", "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-10-05", "title": "Ebola disease outbreak caused by Bundibugyo virus, multi-country: update", "outlet": "European Centre for Disease Prevention and Control" },
+    { "id": "world-w6", "url": "https://www.icirnigeria.org/who-declares-ebola-outbreak-in-drc-uganda-global-emergency/", "title": "WHO declares Ebola outbreak in DRC, Uganda global emergency", "outlet": "ICIR Nigeria" },
+    { "id": "world-w7", "url": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence", "title": "UK police rearrest two men on suspicion of assisting Iran's intelligence", "outlet": "Al Jazeera" },
+    { "id": "world-w8", "url": "https://www.itv.com/news/2026-10-20/two-men-re-arrested-on-suspicion-of-assisting-iran-over-raf-fairford-incident", "title": "Two men re-arrested on suspicion of assisting Iran over RAF Fairford incident", "outlet": "ITV News" },
+    { "id": "world-w9", "url": "https://www.cp24.com/news/world/2026/10/24/death-toll-from-jordan-church-attack-rises-to-9/", "title": "Death toll from Jordan church attack rises to 9", "outlet": "CP24" },
+    { "id": "world-w10", "url": "https://www.mysuncoast.com/2026/10/23/gunmen-open-fire-church-during-funeral-jordan/?outputType=amp", "title": "Gunmen open fire at church during funeral in Jordan", "outlet": "WWSB (AP)" },
+    { "id": "world-w11", "url": "https://www.pbs.org/newshour/world/jordan-says-its-air-force-joined-u-s-strikes-against-islamic-state-group-in-syria", "title": "Jordan says its air force joined U.S. strikes against Islamic State group in Syria", "outlet": "PBS NewsHour" },
+    { "id": "world-w12", "url": "https://newsable.asianetnews.com/india/odisha-braces-for-cyclone-arnab-as-state-targets-zero-casualty-goal-articleshow-vugwcd9", "title": "Odisha braces for Cyclone Arnab as state targets zero casualty goal", "outlet": "Asianet Newsable" },
+    { "id": "world-w13", "url": "https://www.yahoo.com/news/articles/venezuela-opposition-leader-machado-says-220031408.html", "title": "Venezuela's opposition leader Machado says she will return to the country in the coming weeks", "outlet": "Yahoo News (AP)" }
+  ]
+}
