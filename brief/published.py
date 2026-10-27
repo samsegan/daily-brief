@@ -7,6 +7,7 @@ from dataclasses import dataclass
 from brief.config import Lean, RefKind, Section
 from brief.draft import Concept, TrendNote
 from brief.models import Quote, SourceInfo, TrendItem
+from brief.usage import UsagePart
 
 
 @dataclass(frozen=True)
@@ -111,6 +112,18 @@ class Stats:
     articles: int
     clusters: int
     failed_fetches: int
+    stories: int
+    facts: int
+    corroborated_facts: int
+
+
+@dataclass(frozen=True)
+class UsageBlock:
+    """What writing this edition took, in tokens and in dollars at API list prices."""
+
+    total_tokens: int
+    cost_usd: float
+    parts: tuple[UsagePart, ...]
 
 
 @dataclass(frozen=True)
@@ -125,6 +138,7 @@ class Brief:
     signals: tuple[TrendItem, ...]
     sources: tuple[SourceInfo, ...]
     stats: Stats
+    usage: UsageBlock
 
 
 @dataclass(frozen=True)

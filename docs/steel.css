@@ -187,7 +187,7 @@
 }
 
 /* Type inside modules. */
-[data-kit="steel"] .story h3 { font: 700 1.55rem/1.15 var(--serif); letter-spacing: 0.01em; color: var(--text); text-shadow: var(--headline-glow); }
+[data-kit="steel"] .story h3 { font: 700 1.55rem/1.15 var(--serif); text-transform: uppercase; letter-spacing: 0.03em; color: var(--text); text-shadow: var(--headline-glow); }
 [data-kit="steel"] .story .summary, [data-kit="steel"] .deeper p { color: var(--text-2); }
 [data-kit="steel"] .tag { color: var(--accent); font-family: var(--mono); letter-spacing: 0.1em; }
 [data-kit="steel"] .story-meta { font-family: var(--mono); }
@@ -225,14 +225,14 @@
 [data-kit="steel"] .badge.thin { color: var(--warn); border-color: color-mix(in srgb, var(--warn) 45%, transparent); }
 
 /* Wells: recessed glass displays for "why it matters" and market readouts. */
-[data-kit="steel"] :is(.why, details.quote) {
+[data-kit="steel"] :is(.why, details.quote, .edition-bar) {
   position: relative;
   background: var(--field);
   border: 1px solid var(--bevel-dark);
   border-radius: 3px;
   box-shadow: inset 0 2px 7px rgb(0 0 0 / 0.75), 0 1px 0 color-mix(in srgb, var(--bevel-light) 35%, transparent);
 }
-[data-kit="steel"] :is(.why, details.quote)::after {
+[data-kit="steel"] :is(.why, details.quote, .edition-bar)::after {
   content: "";
   position: absolute;
   inset: 0;
@@ -241,6 +241,9 @@
   pointer-events: none;
 }
 [data-kit="steel"] .why { color: var(--text-2); }
+[data-kit="steel"] .edition-bar { font-family: var(--mono); color: var(--muted); }
+[data-kit="steel"] .edition-bar strong { color: var(--readout); }
+[data-kit="steel"] .cost-table :is(th, td) { border-bottom-color: var(--border); }
 [data-kit="steel"] .why strong { color: var(--accent); font-size: 0.76rem; text-transform: uppercase; letter-spacing: 0.1em; }
 [data-kit="steel"] .quote-name, [data-kit="steel"] .quote-group h4 { font: 700 0.68rem var(--sans); text-transform: uppercase; letter-spacing: 0.1em; color: var(--label); }
 [data-kit="steel"] .quote-value {

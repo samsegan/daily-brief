@@ -28,6 +28,7 @@ from brief.config import (
     LEAN_ORDER,
     SECTION_TITLES,
     SITE_INDEX_PATH,
+    USAGE_FILE,
     Lean,
     LeanBucket,
     RefKind,
@@ -36,9 +37,11 @@ from brief.config import (
 )
 from brief.models import Article, IngestBundle, Quote, SourceInfo, TrendItem
 from brief.serde import SchemaError, load_json, write_json
+from brief.usage import UsageReport
 
 IMPORTANCE_RANGE = range(1, 6)
 MIN_DISPUTE_POSITIONS = 2
+CORROBORATED_OUTLETS = 2
 SIGNALS_PER_KIND = 10
 
 
@@ -64,10 +67,11 @@ class _Lookup:
 def build(date: str) -> Path:
     bundle = _load_bundle(date)
     day = draft.load_day_draft(DRAFTS_DIR / date)
+    usage = load_json(UsageReport, DRAFTS_DIR / date / USAGE_FILE)
     lookup = _Lookup.from_bundle(bundle)
     _raise_problems(date, _check_front(day.front, lookup) + _check_sections(day.sections, lookup))
     path = BRIEFS_DIR / f"{date}.json"
-    write_json(_assemble(bundle, day, lookup), path, pretty=True)
+    write_json(_assemble(bundle, day, usage, lookup), path, pretty=True)
     _update_index(date)
     return path
 
@@ -166,7 +170,7 @@ def _story_refs(story: draft.StoryDraft) -> Iterator[tuple[str, str]]:
 # --- assembly ---------------------------------------------------------------
 
 
-def _assemble(bundle: IngestBundle, day: draft.DayDraft, lookup: _Lookup) -> published.Brief:
+def _assemble(bundle: IngestBundle, day: draft.DayDraft, usage: UsageReport, lookup: _Lookup) -> published.Brief:
     sections = tuple(
         published.SectionBlock(
             id=section,
@@ -175,6 +179,7 @@ def _assemble(bundle: IngestBundle, day: draft.DayDraft, lookup: _Lookup) -> pub
         )
         for section in Section
     )
+    facts = [fact for block in sections for story in block.stories for fact in story.facts]
     return published.Brief(
         date=bundle.date,
         generated_at=datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -190,6 +195,14 @@ def _assemble(bundle: IngestBundle, day: draft.DayDraft, lookup: _Lookup) -> pub
             articles=len(bundle.articles),
             clusters=sum(1 for cluster in bundle.clusters if len(cluster.source_ids) > 1),
             failed_fetches=len(bundle.errors),
+            stories=sum(len(block.stories) for block in sections),
+            facts=len(facts),
+            corroborated_facts=sum(1 for fact in facts if fact.outlet_count >= CORROBORATED_OUTLETS),
+        ),
+        usage=published.UsageBlock(
+            total_tokens=sum(part.total_tokens for part in usage.parts),
+            cost_usd=round(sum(part.cost_usd for part in usage.parts), 2),
+            parts=usage.parts,
         ),
     )
 

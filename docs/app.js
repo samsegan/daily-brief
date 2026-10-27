@@ -25,6 +25,8 @@ const SIGNAL_LABELS = {
 };
 const LEAN_CODES = { left: "L", lean_left: "LL", center: "C", lean_right: "LR", right: "R", unrated: "W" };
 const BASIS_POINTS = 100;
+const MILLION = 1_000_000;
+const COST_COLUMNS = ["Step", "Tokens", "Re-read from cache", "Written", "Searches", "Cost"];
 const CORROBORATED_OUTLETS = 2;
 
 // --- DOM helpers --------------------------------------------------------------
@@ -238,6 +240,65 @@ function marketsSection(markets, businessStories) {
   ];
 }
 
+// --- edition bar ----------------------------------------------------------------
+
+function formatTokens(count) {
+  return count >= MILLION ? `${(count / MILLION).toFixed(1)}M` : count.toLocaleString("en-US");
+}
+
+function formatUsd(amount) {
+  return amount.toLocaleString("en-US", { style: "currency", currency: "USD" });
+}
+
+function stat(value, label) {
+  return el("span", { class: "stat" }, el("strong", {}, String(value)), ` ${label}`);
+}
+
+function partTotals(part) {
+  return part.models.reduce((sum, model) => ({
+    cache_read: sum.cache_read + model.tokens.cache_read,
+    output: sum.output + model.tokens.output,
+    web_searches: sum.web_searches + model.tokens.web_searches,
+  }), { cache_read: 0, output: 0, web_searches: 0 });
+}
+
+function costTable(usage) {
+  const rows = usage.parts.map((part) => {
+    const totals = partTotals(part);
+    return el("tr", {},
+      el("td", {}, part.label),
+      el("td", {}, formatTokens(part.total_tokens)),
+      el("td", {}, formatTokens(totals.cache_read)),
+      el("td", {}, formatTokens(totals.output)),
+      el("td", {}, totals.web_searches),
+      el("td", {}, formatUsd(part.cost_usd)));
+  });
+  return el("div", { class: "cost-table" },
+    el("table", {},
+      el("thead", {}, el("tr", {}, COST_COLUMNS.map((column) => el("th", {}, column)))),
+      el("tbody", {}, rows)));
+}
+
+function editionBar(brief) {
+  const { stats, usage } = brief;
+  const models = [...new Set(usage.parts.flatMap((part) => part.models.map((model) => model.model)))];
+  return el("section", { class: "edition-bar", "aria-label": "About this edition" },
+    el("div", { class: "edition-stats" },
+      stat(stats.articles.toLocaleString("en-US"), "articles read"),
+      stat(stats.outlets, "outlets"),
+      stat(stats.stories, "stories"),
+      stat(`${stats.corroborated_facts} of ${stats.facts}`, "facts backed by 2+ outlets")),
+    el("details", { class: "edition-cost" },
+      el("summary", {},
+        "Cost to write: ", el("strong", {}, `${formatTokens(usage.total_tokens)} tokens`),
+        " · ", el("strong", {}, `≈ ${formatUsd(usage.cost_usd)}`), " at API prices · covered by the Claude plan"),
+      costTable(usage),
+      el("p", {},
+        `Written by ${models.join(", ")} through a Claude plan, which isn't billed per token. `,
+        "The dollar figure is what the same tokens would cost on the Claude API. ",
+        "Most tokens are the writers re-reading their notes from cache, which is cheap; the words they write cost the most.")));
+}
+
 // --- trending -------------------------------------------------------------------
 
 function trendingSection(brief) {
@@ -308,6 +369,7 @@ function renderBrief(brief) {
   const newsSection = (id) => section(id, sections.get(id).title,
     storyList(sections.get(id).stories, "Nothing major today."));
   document.getElementById("app").replaceChildren(
+    editionBar(brief),
     el("div", { class: "overview" }, el("p", {}, el("span", { class: "prompt", "aria-hidden": "true" }, ">"), brief.overview)),
     newsSection(NEWS_SECTIONS[0]),
     newsSection(NEWS_SECTIONS[1]),

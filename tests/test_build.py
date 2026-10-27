@@ -9,6 +9,7 @@ from brief import build
 from brief.config import InstrumentGroup, Lean, MarketProvider, Section, Unit
 from brief.models import Cluster, IngestBundle, Quote
 from brief.serde import write_json
+from brief.usage import ModelUsage, TokenCounts, UsagePart, UsageReport
 from tests.factories import article, source
 
 DATE = "2026-10-27"
@@ -64,6 +65,10 @@ def _write_draft(root: Path, us_stories: list[dict], web_refs: list[dict]) -> No
         "trending": [],
     }
     (drafts / "front.json").write_text(json.dumps(front))
+    tokens = TokenCounts(input=10, cache_write_5m=100, cache_write_1h=0, cache_read=1000, output=50, web_searches=2)
+    part = UsagePart(label="session", since="t0", until="t1", total_tokens=1160, cost_usd=0.03,
+                     models=(ModelUsage(model="claude-opus-5-5", requests=3, tokens=tokens, cost_usd=0.03),))
+    write_json(UsageReport(parts=(part,)), drafts / "usage.json", pretty=True)
     for section in Section:
         stories = us_stories if section is Section.US else []
         refs = web_refs if section is Section.US else []
@@ -93,6 +98,8 @@ def test_publishes_resolved_brief(paths: Path) -> None:
     assert story["left_out"][0]["missing_from"] == ["FOX"]
     assert brief["markets"]["movers"][0]["name"] == "S&P 500"
     assert json.loads((paths / "site" / "index.json").read_text()) == {"latest": DATE, "dates": [DATE]}
+    assert (brief["usage"]["total_tokens"], brief["usage"]["cost_usd"]) == (1160, 0.03)
+    assert (brief["stats"]["stories"], brief["stats"]["facts"], brief["stats"]["corroborated_facts"]) == (1, 1, 1)
 
 
 def test_reports_every_problem(paths: Path) -> None:

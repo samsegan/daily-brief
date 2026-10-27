@@ -14,7 +14,9 @@ doesn't check out.
 
 ## 1. Set up
 
-1. `date` is today in New York (`TZ=America/New_York date +%F`) unless you were given one.
+1. Note when you started: `date -u +%Y-%m-%dT%H:%M:%SZ`. The site shows what
+   writing the edition cost, measured from this time (step 4).
+   `date` is today in New York (`TZ=America/New_York date +%F`) unless you were given one.
 2. `pip install -e .` if `python -c "import brief"` fails.
 3. `scripts/pull-ingest.sh <date>`. If there's no bundle for the date, run the
    `ingest.yml` workflow (GitHub MCP `actions_run_trigger`, method
@@ -135,12 +137,17 @@ Read `digest-front.md` and the section digests' top clusters.
 
 ## 4. Build and publish
 
+0. Record what this run used: `python -m brief.usage --date <date> --label session
+   --since <start time from step 1>`. It reads this session's transcripts,
+   subagents included, and writes `data/drafts/<date>/usage.json`, which the
+   build requires.
 1. `python -m brief.build --date <date>`. It lists every problem at once (unknown
    refs, opinion pieces cited as facts, bad ids). Fix them in the file each one
    names and rerun until it prints `published`.
 2. `python -m pytest -q` passes.
 3. Commit `docs/data/` and `data/drafts/<date>/*.json` as `brief <date>` and push
    to main. GitHub Pages redeploys in a minute or two.
-4. Report: story counts per section, and any failed feeds from the front digest
+4. Report: story counts per section, the tokens and API-price cost from step 0,
+   and any failed feeds from the front digest
    that look permanent (a feed that has moved or died). Fix those in
    `config/sources.toml` on a branch, not in the brief commit.

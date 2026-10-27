@@ -1,0 +1,43 @@
+# Claude API list prices in USD, used to estimate what writing an edition would
+# cost on the API. On a Claude plan the writing session isn't billed per token;
+# the estimate is shown on the site so the cost of the habit stays visible.
+#
+# Per million tokens. Cache writes cost more than plain input (1.25x for the
+# 5-minute cache, 2x for the 1-hour one) and cache reads much less; long agent
+# sessions re-read their context from cache on every turn, so most of their
+# tokens are cache reads. Source: Anthropic's pricing page, October 2026.
+
+web_search_per_thousand = 10.0
+
+[[model]]
+id = "claude-opus-5-5"
+input = 4.0
+output = 20.0
+cache_write_5m = 5.0
+cache_write_1h = 8.0
+cache_read = 0.2
+
+[[model]]
+id = "claude-sonnet-5-5"
+input = 2.0
+output = 10.0
+cache_write_5m = 2.5
+cache_write_1h = 4.0
+cache_read = 0.2
+
+# Prompts up to 100K tokens; longer prompts are billed at 5x.
+[[model]]
+id = "claude-haiku-5-5"
+input = 0.1
+output = 0.5
+cache_write_5m = 0.125
+cache_write_1h = 0.2
+cache_read = 0.01
+
+[[model]]
+id = "claude-fable-5-1"
+input = 10.0
+output = 50.0
+cache_write_5m = 12.5
+cache_write_1h = 20.0
+cache_read = 0.25
