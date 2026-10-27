@@ -35,8 +35,9 @@ Spawn one subagent per section (us, world, business, nyc) in a single message.
 Give each one: the date, its digest path, the path to
 `.claude/skills/write-brief/draft-format.md`, the "Rules for every story"
 section below copied in full, its section's line from "Section notes", and its
-output path `data/drafts/<date>/<section>.json`. Tell it to validate its file
-parses as JSON before finishing.
+output path `data/drafts/<date>/<section>.json`. Tell it to finish by running
+`python -m brief.build --date <date> --check <section>`, which checks its file
+against the bundle, and to fix what it reports until it says the file is valid.
 
 While they work, write `front.json` yourself (step 3).
 
@@ -53,7 +54,9 @@ only one side's outlets cover a story, say so in `why_it_matters`.
 picking from different leans when you can (one left-leaning, one center, one
 right-leaning), and mark those coverage notes `read_full: true`. For outlets
 marked `$paywall`, work from the headline and summary in the digest only. Don't
-try to get around a paywall. Use WebSearch to fill gaps: official statements and
+try to get around a paywall. If WebFetch can't reach news sites at all (some
+environments block them), work from the digest's summaries and WebSearch, set
+every `read_full` to false, and leave `left_out` empty. Use WebSearch to fill gaps: official statements and
 documents, open reporting that follows up a paywalled scoop, and public reaction
 (posts on X, Bluesky, Reddit or forums that search surfaces). Declare every page
 you cite from web research in `web_refs`, with an id prefixed by your section

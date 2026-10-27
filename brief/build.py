@@ -1,10 +1,13 @@
 """Checks a day's draft against that day's ingest bundle and publishes the brief.
 
     python -m brief.build --date 2026-10-27
+    python -m brief.build --date 2026-10-27 --check us
 
 Reads data/ingest/<date>.json and data/drafts/<date>/, writes
 docs/data/briefs/<date>.json and refreshes docs/data/index.json. Every problem
 in the draft is reported in one go so the writer can fix them in one pass.
+--check validates one section file and writes nothing, for a writer working on
+a single section while the others are still being drafted.
 """
 
 from __future__ import annotations
@@ -59,19 +62,33 @@ class _Lookup:
 
 
 def build(date: str) -> Path:
-    bundle = load_json(IngestBundle, INGEST_DIR / f"{date}.json")
-    if bundle.date != date:
-        raise BuildError(f"ingest bundle is for {bundle.date}, not {date}")
+    bundle = _load_bundle(date)
     day = draft.load_day_draft(DRAFTS_DIR / date)
     lookup = _Lookup.from_bundle(bundle)
-    problems = _check_front(day.front, lookup) + _check_sections(day.sections, lookup)
-    if problems:
-        listing = "\n".join(f"  - {problem}" for problem in problems)
-        raise BuildError(f"{len(problems)} problem(s) in data/drafts/{date}:\n{listing}")
+    _raise_problems(date, _check_front(day.front, lookup) + _check_sections(day.sections, lookup))
     path = BRIEFS_DIR / f"{date}.json"
     write_json(_assemble(bundle, day, lookup), path, pretty=True)
     _update_index(date)
     return path
+
+
+def check_section(date: str, section: Section) -> None:
+    lookup = _Lookup.from_bundle(_load_bundle(date))
+    section_draft = load_json(draft.SectionDraft, DRAFTS_DIR / date / f"{section}.json")
+    _raise_problems(date, _check_sections({section: section_draft}, lookup))
+
+
+def _load_bundle(date: str) -> IngestBundle:
+    bundle = load_json(IngestBundle, INGEST_DIR / f"{date}.json")
+    if bundle.date != date:
+        raise BuildError(f"ingest bundle is for {bundle.date}, not {date}")
+    return bundle
+
+
+def _raise_problems(date: str, problems: list[str]) -> None:
+    if problems:
+        listing = "\n".join(f"  - {problem}" for problem in problems)
+        raise BuildError(f"{len(problems)} problem(s) in data/drafts/{date}:\n{listing}")
 
 
 # --- checks -----------------------------------------------------------------
@@ -287,8 +304,13 @@ def _update_index(date: str) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--date", required=True, help="YYYY-MM-DD")
+    parser.add_argument("--check", choices=[section.value for section in Section], help="validate one section file only")
     args = parser.parse_args()
     try:
+        if args.check:
+            check_section(args.date, Section(args.check))
+            print(f"{args.check}.json is valid")
+            return
         path = build(args.date)
     except (BuildError, SchemaError, FileNotFoundError) as error:
         raise SystemExit(str(error)) from error

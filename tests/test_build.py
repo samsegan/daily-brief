@@ -107,3 +107,10 @@ def test_reports_every_problem(paths: Path) -> None:
     message = str(raised.value)
     for expected in ("importance 9", "unknown ref 'nope'", "opinion pieces ['op']", "missing_from", "used 2 times"):
         assert expected in message
+
+
+def test_check_validates_one_section(paths: Path) -> None:
+    _write_draft(paths, [_story(facts=[{"text": "x", "refs": ["nope"]}])], [])
+    with pytest.raises(build.BuildError, match="unknown ref 'nope'"):
+        build.check_section(DATE, Section.US)
+    build.check_section(DATE, Section.WORLD)
