@@ -39,7 +39,6 @@ TITLE_WEIGHT = 2
 
 # Markets
 FRED_LOOKBACK_DAYS = 450
-STOOQ_LOOKBACK_DAYS = 100
 MONTH_LOOKBACK_DAYS = 30
 
 # Trends
@@ -122,7 +121,6 @@ class Unit(StrEnum):
 
 class MarketProvider(StrEnum):
     FRED = "fred"
-    STOOQ = "stooq"
 
 
 class Transform(StrEnum):
