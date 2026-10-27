@@ -38,8 +38,8 @@ CLUSTER_TOP_TERMS = 6
 TITLE_WEIGHT = 2
 
 # Markets
-YAHOO_CHART_RANGE = "3mo"
 FRED_LOOKBACK_DAYS = 450
+STOOQ_LOOKBACK_DAYS = 100
 MONTH_LOOKBACK_DAYS = 30
 
 # Trends
@@ -121,8 +121,8 @@ class Unit(StrEnum):
 
 
 class MarketProvider(StrEnum):
-    YAHOO = "yahoo"
     FRED = "fred"
+    STOOQ = "stooq"
 
 
 class Transform(StrEnum):

@@ -28,7 +28,7 @@ def _bundle() -> IngestBundle:
         articles=articles,
         clusters=(Cluster("c001", Section.US, ("a1", "a2", "a3"), ("fox", "nyt", "wsj"), ("shutdown",)),),
         quotes=(
-            Quote("^GSPC", "S&P 500", InstrumentGroup.US_STOCKS, Unit.POINTS, "", 6000.0, 5900.0, 5800.0, DATE, MarketProvider.YAHOO),
+            Quote("^GSPC", "S&P 500", InstrumentGroup.US_STOCKS, Unit.POINTS, "", 6000.0, 5900.0, 5800.0, DATE, MarketProvider.FRED),
         ),
         trends=(),
         errors=(),
