@@ -2,10 +2,10 @@
   "stories": [
     {
       "id": "hochul-blakeman-final-week",
-      "headline": "Hochul runs on her data center pause in the governor's race's final week",
+      "headline": "Hochul runs on her data center pause and Blakeman's Trump ties as he closes on taxes",
       "region": "Elections",
       "importance": 5,
-      "summary": "A week before Election Day, Gov. Kathy Hochul is making the statewide pause on new data centers a centerpiece of her re-election campaign, Gothamist reports, after once resisting the idea. Her Republican opponent, Bruce Blakeman, says she failed to prepare for the industry. Separately, Hochul said her job would be \"a lot easier\" if Israeli Prime Minister Benjamin Netanyahu loses Israel's election, which is being held today.",
+      "summary": "A week before Election Day, Gov. Kathy Hochul is making the statewide data center pause she once resisted a centerpiece of her re-election campaign, Gothamist reports, and her final TV ads tie Republican Bruce Blakeman to President Trump. Blakeman, who says Hochul failed to prepare for the industry, is closing with an ad warning that she will raise taxes with Mayor Zohran Mamdani. Early voting in the city is running ahead of 2022, and separately Hochul said her job would be \"a lot easier\" if Israeli Prime Minister Benjamin Netanyahu loses Israel's election, held today.",
       "why_it_matters": "New Yorkers choose a governor on Nov. 3, and early voting is open through Sunday. Both candidates pitch their data center stance as a way to hold down utility bills, and Blakeman has said he would rescind the pause, so the result decides whether it stays.",
       "background": "Democratic Gov. Kathy Hochul is seeking re-election against Republican Bruce Blakeman. In July she used an executive order to freeze new large data centers statewide for up to a year, the first such statewide pause in the country, after the Legislature passed its own moratorium bill that her office said needed more work. Hochul said the pause gives state agencies time to write rules so data centers pay their share of utility costs and protect the environment. Blakeman opposes a statewide moratorium and says local governments should be able to strike their own deals with tech companies. Siena's public polls have shown Hochul ahead by about 10 points since the summer.",
       "facts": [
@@ -34,16 +34,28 @@
           "refs": ["nyc-w5", "nyc-w6"]
         },
         {
-          "text": "Hochul said her job would be \"a lot easier\" if Netanyahu loses his election, blaming his policies for antisemitism locally, the New York Post and The Times of Israel reported.",
-          "refs": ["bf67ff86fe", "cbaf0f6c77"]
+          "text": "In the final week, Hochul's campaign is spending millions on TV ads, including three new ones, that tie Blakeman to President Trump, amNY reports.",
+          "refs": ["436d039d07"]
         },
         {
-          "text": "Israelis are voting today on whether to oust Netanyahu after three years of war.",
-          "refs": ["817d6b6591"]
+          "text": "Blakeman's closing 30-second digital ad claims that after the election Hochul will work with Mayor Zohran Mamdani to raise taxes by billions of dollars, the New York Post reports.",
+          "refs": ["cb39512333"]
+        },
+        {
+          "text": "Hochul said Tuesday that Mamdani's supporters likely \"aren't thrilled\" about the two of them appearing together, and that that was fine, the New York Post reported.",
+          "refs": ["add6806962"]
+        },
+        {
+          "text": "Hochul said her job would be \"a lot easier\" if Netanyahu loses his election, The Times of Israel reported.",
+          "refs": ["cbaf0f6c77"]
         },
         {
           "text": "Early voting in New York runs from Oct. 24 through Nov. 1, and Election Day is Tuesday, Nov. 3.",
-          "refs": ["nyc-w7"]
+          "refs": ["nyc-w7", "821be8778d"]
+        },
+        {
+          "text": "Early voting turnout has been heavy: amNY says the city's early vote is outpacing the 2022 governor's race, and the Times reported nearly twice as many New Yorkers voted on the first day as four years ago.",
+          "refs": ["436d039d07", "821be8778d", "9e13507e41"]
         }
       ],
       "disputed": [],
@@ -53,12 +65,16 @@
           "note": "Frames the data center pause as a turnaround for Hochul that now anchors her campaign, and gives Blakeman's criticism."
         },
         {
-          "ref": "bf67ff86fe",
-          "note": "Leads with Hochul's Netanyahu remark and her tying his policies to antisemitism in New York, not with state issues."
+          "ref": "436d039d07",
+          "note": "Leads with Hochul's attack ads tying Blakeman to Trump, paired with strong early turnout in the city."
+        },
+        {
+          "ref": "cb39512333",
+          "note": "Leads with Blakeman's warning that Hochul will raise taxes, and adopts his ad's description of Mamdani's \"socialist agenda.\""
         },
         {
           "ref": "cbaf0f6c77",
-          "note": "Carries the same quote for readers following Israel's election day, identifying her only as New York's governor."
+          "note": "Leads with Hochul's Netanyahu quote for readers following Israel's election, identifying her only as New York's governor."
         }
       ],
       "left_out": [],
@@ -69,18 +85,33 @@
           "read_full": false
         },
         {
-          "ref": "bf67ff86fe",
-          "takeaway": "Headline and summary only: focuses on Hochul's Netanyahu comment and her link to local antisemitism.",
+          "ref": "436d039d07",
+          "takeaway": "Headline and summary only: Hochul's final-week ad push against Blakeman and early voting outpacing 2022.",
+          "read_full": false
+        },
+        {
+          "ref": "cb39512333",
+          "takeaway": "Headline and summary only: Blakeman's closing ad casting Hochul as Mamdani's partner on tax hikes.",
+          "read_full": false
+        },
+        {
+          "ref": "add6806962",
+          "takeaway": "Headline and summary only: Hochul acknowledging that Mamdani's supporters may not like their alliance.",
+          "read_full": false
+        },
+        {
+          "ref": "821be8778d",
+          "takeaway": "Headline and summary only (paywalled): both candidates campaigning statewide as early voting opened with heavy turnout.",
+          "read_full": false
+        },
+        {
+          "ref": "9e13507e41",
+          "takeaway": "Headline only: big turnout on the first weekend of early voting in the city.",
           "read_full": false
         },
         {
           "ref": "cbaf0f6c77",
           "takeaway": "Headline only: the Netanyahu quote, aimed at an Israeli audience on election day.",
-          "read_full": false
-        },
-        {
-          "ref": "817d6b6591",
-          "takeaway": "Headline only: Israel's election as a vote on whether to oust Netanyahu after three years of war.",
           "read_full": false
         }
       ],
@@ -180,27 +211,31 @@
     },
     {
       "id": "gwb-shooting-romero-court",
-      "headline": "Con Ed workers turn out as retired detective charged in GWB killing returns to court",
+      "headline": "Retired detective indicted in GWB killing as Con Ed workers watch in court",
       "region": "Courts",
       "importance": 3,
-      "summary": "Victor Romero, 62, the retired NYPD detective accused of fatally shooting Con Edison worker Koran Irvine on the George Washington Bridge earlier this month, appeared in Manhattan Criminal Court on Tuesday as Irvine's co-workers looked on. He was freed after bail was set at $1 million and has pleaded not guilty to a manslaughter charge. Prosecutors are taking the case to a grand jury.",
-      "why_it_matters": "The case involves a former police officer charged in a road-rage killing of a city utility worker, and the victim's family has questioned why the charge is manslaughter rather than murder. A grand jury will decide what charges go forward.",
+      "summary": "Victor Romero, 62, the retired NYPD detective accused of fatally shooting Con Edison worker Koran Irvine on the George Washington Bridge earlier this month, appeared in Manhattan Criminal Court on Tuesday as Irvine's co-workers looked on. A grand jury indicted him, amNY and the New York Post report, and the Post says the indictment is for murder. At his arraignment last week, where bail was set at $1 million, he pleaded not guilty to manslaughter.",
+      "why_it_matters": "The case involves a former police officer charged in a road-rage killing of a city utility worker. Irvine's family had questioned why he was first charged with manslaughter rather than murder, and the indictment sets the charges he will face at trial.",
       "background": "Koran Irvine, a Con Edison worker, was shot and killed while driving across the George Washington Bridge in what has been described as a road-rage shooting. Victor Romero, a retired NYPD detective, was arrested and arraigned last week on a manslaughter charge, with bail set at $1 million. Prosecutors said in court that the two men's cars nearly collided on the approach to the bridge before Romero fired the shot that killed Irvine. Irvine's family has publicly questioned the manslaughter charge.",
       "facts": [
         {
-          "text": "Romero, 62, appeared in Manhattan Criminal Court on Tuesday, with a possible grand jury indictment pending.",
+          "text": "Romero, 62, appeared in Manhattan Criminal Court on Tuesday, and a grand jury indicted him.",
           "refs": ["fe359f7ff5", "895427c523"]
+        },
+        {
+          "text": "The New York Post reports that Romero was indicted for murder.",
+          "refs": ["895427c523"]
         },
         {
           "text": "Con Edison workers attended the hearing, and amNY and the Daily News described them reacting with pain and anger and confronting Romero.",
           "refs": ["fe359f7ff5", "62424496ec"]
         },
         {
-          "text": "Romero was freed on $1 million bail, the New York Post reported.",
-          "refs": ["895427c523", "nyc-w23"]
+          "text": "Bail was set at $1 million at Romero's arraignment last week.",
+          "refs": ["nyc-w23"]
         },
         {
-          "text": "Romero pleaded not guilty to a manslaughter charge.",
+          "text": "At that arraignment, Romero pleaded not guilty to a manslaughter charge.",
           "refs": ["nyc-w24"]
         },
         {
@@ -224,14 +259,14 @@
         },
         {
           "ref": "895427c523",
-          "note": "Leads with the first photos of Romero and his release on $1 million bail."
+          "note": "Leads with the first courtroom photos of Romero and says he was indicted for murder."
         }
       ],
       "left_out": [],
       "coverage": [
         {
           "ref": "fe359f7ff5",
-          "takeaway": "Headline and summary only: courtroom scene told through Con Ed workers, noting the possible indictment.",
+          "takeaway": "Headline and summary only: courtroom scene told through Con Ed workers, noting the grand jury indictment.",
           "read_full": false
         },
         {
@@ -241,45 +276,86 @@
         },
         {
           "ref": "895427c523",
-          "takeaway": "Headline and summary only: focuses on Romero's appearance and his release on bail.",
+          "takeaway": "Headline and summary only: Romero's appearance in court and his indictment for murder.",
           "read_full": false
         }
       ],
       "social": ""
     },
     {
-      "id": "banks-law-department-mamdani",
-      "headline": "City's top lawyer says expanded Law Department is defending Mamdani's agenda in court",
-      "region": "City Hall",
-      "importance": 2,
-      "summary": "Corporation Counsel Steven Banks said Tuesday that an expansion of the city's Law Department has been key to defending Mayor Zohran Mamdani's signature policies against lawsuits, amNY reports. He spoke at a talk at New York Law School.",
-      "why_it_matters": "Lawsuits can decide whether a mayor's big programs take effect, and the Law Department is the office that defends them. Only amNY (center) covered the talk in today's ingest.",
-      "background": "The corporation counsel runs the city's Law Department, which defends the city in lawsuits and sues on its behalf. Mamdani named Steven Banks, a former Paul Weiss pro bono chief and de Blasio administration official, to the post before taking office. When he was named, Mamdani said the department had been short-staffed and pledged to hire more lawyers. At his City Council confirmation hearing, Banks said he would be a lawyer for the whole city, not just the mayor.",
+      "id": "central-park-knifepoint-rape",
+      "headline": "Police search for man who raped a woman at knifepoint in Central Park",
+      "region": "Manhattan",
+      "importance": 3,
+      "summary": "A 39-year-old woman reported being raped at knifepoint on the east side of Central Park on Saturday night, and police have released photos of the man they are looking for. The NYPD says it has stepped up patrols in the park, and no arrest had been reported as of Tuesday. Mayor Zohran Mamdani called the attack \"horrific,\" and The New York Sun says he dodged a question about park safety.",
+      "why_it_matters": "Central Park is used every day by huge numbers of New Yorkers, and the attacker has not been caught. The attack has also become part of the debate over public safety under Mamdani.",
+      "background": "The attack happened around 8:30 p.m. on Saturday, Oct. 24, near the park's Fifth Avenue side in the East 60s, police said. The NYPD released photos and video of the suspect, whom it describes as a man in his 30s, on Monday. Central Park has its own NYPD precinct, and the department's figures show slightly more rapes reported there this year than at the same point last year. Mamdani, a democratic socialist, took office as mayor in January, and critics on the right have pressed him on crime.",
       "facts": [
         {
-          "text": "Banks said at a New York Law School talk on Tuesday that an expansion of the city Law Department has played a key role in defending Mamdani's signature policies in court.",
-          "refs": ["178fa9694b"]
+          "text": "A 39-year-old woman reported being raped at knifepoint in Central Park on Saturday night, near East 66th Street and Fifth Avenue, police said.",
+          "refs": ["8cb0cb2f63", "5b3b62bcbb", "0e79c5d85e", "1d781915ff", "nyc-w30"]
         },
         {
-          "text": "Mamdani, while mayor-elect, picked Banks, a former Paul Weiss pro bono chief who served in the de Blasio administration, as the city's top lawyer.",
-          "refs": ["nyc-w14", "nyc-w15", "nyc-w16"]
+          "text": "Police released photos of the man they are seeking, whom they describe as in his 30s.",
+          "refs": ["0e79c5d85e", "nyc-w31", "nyc-w34"]
         },
         {
-          "text": "When he named Banks, Mamdani said the Law Department had been short-staffed and committed to hiring 200 more lawyers.",
-          "refs": ["nyc-w16"]
+          "text": "Police said they had increased patrols in the park, and the suspect remained at large as of Tuesday.",
+          "refs": ["5b3b62bcbb", "1d781915ff", "8cb0cb2f63", "nyc-w32"]
         },
         {
-          "text": "At his confirmation hearing in February, Council members questioned Banks, who said he would be a lawyer for the city rather than for Mamdani.",
-          "refs": ["nyc-w17", "nyc-w18"]
+          "text": "Mamdani called the attack \"horrific\" and said the NYPD is investigating.",
+          "refs": ["nyc-w31"]
+        },
+        {
+          "text": "NYPD figures showed four rapes reported in the Central Park Precinct through Oct. 18, compared with three in the same period last year, PIX11 reported; The New York Sun counts Saturday's attack as the park's fifth rape this year.",
+          "refs": ["nyc-w33", "f63dfb3f07"]
         }
       ],
       "disputed": [],
-      "framing": [],
+      "framing": [
+        {
+          "ref": "5b3b62bcbb",
+          "note": "Leads with the police response, stepped-up patrols, rather than the hunt for the suspect."
+        },
+        {
+          "ref": "0e79c5d85e",
+          "note": "Leads with the manhunt and the suspect's released photos."
+        },
+        {
+          "ref": "f63dfb3f07",
+          "note": "Makes the mayor the subject, saying he dodged a safety question, and counts this as the park's fifth rape this year."
+        },
+        {
+          "ref": "1d781915ff",
+          "note": "Casts the attack as a political story about what it calls Democrats' silence, and stresses that it happened in a wealthy area."
+        }
+      ],
       "left_out": [],
       "coverage": [
         {
-          "ref": "178fa9694b",
-          "takeaway": "Headline and summary only: Banks's account of how a bigger Law Department is defending the mayor's policies.",
+          "ref": "8cb0cb2f63",
+          "takeaway": "Headline and summary only: the police account of when and where the attack happened, with no arrest as of Monday.",
+          "read_full": false
+        },
+        {
+          "ref": "5b3b62bcbb",
+          "takeaway": "Headline and summary only (paywalled): the woman's report and the NYPD's added patrols.",
+          "read_full": false
+        },
+        {
+          "ref": "0e79c5d85e",
+          "takeaway": "Headline only: the release of photos of the suspect.",
+          "read_full": false
+        },
+        {
+          "ref": "f63dfb3f07",
+          "takeaway": "Headline only: centers Mamdani's answer to a question about park safety and the year's count of rapes in the park.",
+          "read_full": false
+        },
+        {
+          "ref": "1d781915ff",
+          "takeaway": "Headline and summary only: the NYPD account, framed around what it calls Democrats' silence.",
           "read_full": false
         }
       ],
@@ -338,11 +414,6 @@
     { "id": "nyc-w11", "url": "https://www.foxnews.com/politics/trump-backs-republican-challenger-oust-letitia-james-amid-ongoing-mortgage-fraud-feud", "title": "New York has 'suffered' under Letitia James, New York attorney general candidate says", "outlet": "Fox News" },
     { "id": "nyc-w12", "url": "https://telanganatoday.com/saritha-komatireddy-narrows-letitia-jamess-lead-to-13-points-in-new-york-poll", "title": "Saritha Komatireddy narrows Letitia James's lead to 13 points in New York poll", "outlet": "Telangana Today" },
     { "id": "nyc-w13", "url": "https://ny1.com/nyc/all-boroughs/news/2026/08/05/republican-saritha-komatireddy-lays-out-record-in-challenge-to-ag-letitia-james", "title": "Republican Saritha Komatireddy lays out record in challenge to AG Letitia James", "outlet": "NY1" },
-    { "id": "nyc-w14", "url": "https://www.yahoo.com/news/articles/mayor-elect-mamdani-taps-blasio-184300790.html", "title": "Mayor-elect Mamdani taps de Blasio alum Steve Banks as top NYC lawyer, Elmhurst Hospital exec as health deputy", "outlet": "Yahoo News" },
-    { "id": "nyc-w15", "url": "https://news.bloomberglaw.com/esg/mamdani-taps-ex-paul-weiss-pro-bono-chief-as-top-nyc-law-leader", "title": "Mamdani taps ex-Paul Weiss pro bono chief as top NYC law leader", "outlet": "Bloomberg Law" },
-    { "id": "nyc-w16", "url": "https://www.amny.com/law/mamdani-nominates-steven-banks-law-dept-head", "title": "Mamdani nominates Steven Banks to head the Law Department", "outlet": "amNY" },
-    { "id": "nyc-w17", "url": "https://queenseagle.com/all/2026/2/5/council-questions-mayors-corp-counsel-nominee", "title": "Council questions mayor's corp counsel nominee", "outlet": "Queens Eagle" },
-    { "id": "nyc-w18", "url": "https://www.amny.com/law/law-department-banks-lawyer-city-not-mamdani", "title": "Banks says the Law Department is the city's lawyer, not Mamdani's", "outlet": "amNY" },
     { "id": "nyc-w19", "url": "https://www.mta.info/article/service-changes-a-line-november-2026", "title": "Service changes: A line, November 2026", "outlet": "MTA" },
     { "id": "nyc-w20", "url": "https://www.governor.ny.gov/news/governor-hochul-announces-start-largest-subway-signal-replacement-project-mta-history", "title": "Governor Hochul announces start of largest subway signal replacement project in MTA history", "outlet": "Office of the Governor" },
     { "id": "nyc-w21", "url": "https://www.masstransitmag.com/rail/maintenance/news/55413998/metropolitan-transportation-authority-ny-mta-mta-to-modernize-a-and-c-service-in-brooklyn-and-queens-with-cbtc-technology", "title": "MTA to modernize A and C service in Brooklyn, Queens with CBTC technology", "outlet": "Mass Transit" },
@@ -353,6 +424,11 @@
     { "id": "nyc-w26", "url": "https://news.meaww.com/family-of-con-ed-worker-killed-in-gwb-shooting-questions-manslaughter-charge-against-ex-cop", "title": "Family of Con Ed worker killed in GWB shooting questions manslaughter charge against ex-cop", "outlet": "MEAWW" },
     { "id": "nyc-w27", "url": "https://citizensunion.org/wp-content/uploads/2026/03/Joint-Testimony-to-City-Council-on-NYC-FOIL-Law-Implementation-March-13-2026.pdf", "title": "Joint Testimony to City Council on NYC FOIL Law Implementation, March 13, 2026", "outlet": "Citizens Union" },
     { "id": "nyc-w28", "url": "https://www.beta.nyc/wp-content/uploads/Joint-Testimony-to-City-Council-on-NYC-FOIL-Law-Implementation-June-10-2026.pdf", "title": "Joint Testimony to City Council on NYC FOIL Law Implementation, June 10, 2026", "outlet": "BetaNYC" },
-    { "id": "nyc-w29", "url": "https://reinventalbany.org/wp-content/uploads/2025/06/Group-Memo-of-Support-for-Intro-1235-of-2025-Brewer-–-Requires-NYC-agencies-to-publicly-report-FOIL-logs-June-2025.pdf", "title": "Group Memo of Support for Intro 1235 of 2025 (Brewer): Requires NYC agencies to publicly report FOIL logs", "outlet": "Reinvent Albany" }
+    { "id": "nyc-w29", "url": "https://reinventalbany.org/wp-content/uploads/2025/06/Group-Memo-of-Support-for-Intro-1235-of-2025-Brewer-–-Requires-NYC-agencies-to-publicly-report-FOIL-logs-June-2025.pdf", "title": "Group Memo of Support for Intro 1235 of 2025 (Brewer): Requires NYC agencies to publicly report FOIL logs", "outlet": "Reinvent Albany" },
+    { "id": "nyc-w30", "url": "https://ny1.com/nyc/all-boroughs/news/2026/10/26/woman-sexually-assaulted-at-knifepoint-in-central-park", "title": "Officials: Woman sexually assaulted at knifepoint in Central Park", "outlet": "NY1" },
+    { "id": "nyc-w31", "url": "https://abc7ny.com/post/central-park-sex-assault-nypd-continuing-search-suspect-horrific-nyc-attack/19981186/", "title": "Central Park sex assault: NYPD releases video of suspect as search continues", "outlet": "ABC7 New York" },
+    { "id": "nyc-w32", "url": "https://www.cbsnews.com/newyork/news/central-park-knifepoint-rape-suspect-search/", "title": "Search for Central Park rape suspect continues", "outlet": "CBS New York" },
+    { "id": "nyc-w33", "url": "https://www.yahoo.com/news/us/articles/police-release-photos-central-park-022819786.html", "title": "Police release photos of Central Park sexual assault suspect", "outlet": "PIX11 (via Yahoo News)" },
+    { "id": "nyc-w34", "url": "https://www.amny.com/news/central-park-rape-suspect-image-10272026/", "title": "Central Park rape suspect's image released as cops continue manhunt", "outlet": "amNY" }
   ]
 }
