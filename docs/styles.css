@@ -344,6 +344,8 @@ details.quote > summary::-webkit-details-marker { display: none; }
 
 @media (max-width: 560px) {
   .brand { font-size: 1.55rem; }
+  .cost-table :is(th, td):is(:nth-child(3), :nth-child(4), :nth-child(5)) { display: none; }
+  .cost-table :is(th, td):first-child { white-space: normal; }
   .edition > span { display: none; }
   .dateline { font-size: 0.75rem; }
   .signature { height: 15px; }
