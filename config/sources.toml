@@ -236,6 +236,38 @@ feeds = [
   { url = "https://www.thefp.com/feed", section = "us", kind = "rss" },
 ]
 
+# AllSides: Right.
+[[source]]
+id = "freebeacon"
+name = "Washington Free Beacon"
+lean = "right"
+paywalled = false
+feeds = [
+  { url = "https://freebeacon.com/feed/", section = "us", kind = "rss" },
+]
+
+# AllSides: Right.
+[[source]]
+id = "dailycaller"
+name = "The Daily Caller"
+lean = "right"
+paywalled = false
+feeds = [
+  { url = "https://dailycaller.com/feed/", section = "us", kind = "rss" },
+]
+
+# Statehouse news from every state. Media Bias/Fact Check: Right-Center (no AllSides rating).
+# The New York feed comes first: ingest keeps an article from the first feed that has it.
+[[source]]
+id = "centersquare"
+name = "The Center Square"
+lean = "lean_right"
+paywalled = false
+feeds = [
+  { url = "https://news.google.com/rss/search?q=site:thecentersquare.com/new_york+when:1d&hl=en-US&gl=US&ceid=US:en", section = "nyc", kind = "google_news" },
+  { url = "https://news.google.com/rss/search?q=site:thecentersquare.com+when:1d&hl=en-US&gl=US&ceid=US:en", section = "us", kind = "google_news" },
+]
+
 # --- Business and markets ----------------------------------------------------
 
 [[source]]
@@ -267,6 +299,16 @@ feeds = [
   { url = "https://feeds.content.dowjones.io/public/rss/mw_topstories", section = "business", kind = "rss" },
 ]
 
+# AllSides: Lean Right.
+[[source]]
+id = "foxbusiness"
+name = "Fox Business"
+lean = "lean_right"
+paywalled = false
+feeds = [
+  { url = "https://news.google.com/rss/search?q=site:foxbusiness.com+when:1d&hl=en-US&gl=US&ceid=US:en", section = "business", kind = "google_news" },
+]
+
 [[source]]
 id = "ft"
 name = "Financial Times"
@@ -287,6 +329,16 @@ feeds = [
   { url = "https://www.economist.com/international/rss.xml", section = "world", kind = "rss" },
   { url = "https://www.economist.com/middle-east-and-africa/rss.xml", section = "world", kind = "rss" },
   { url = "https://www.economist.com/asia/rss.xml", section = "world", kind = "rss" },
+]
+
+# UK. Media Bias/Fact Check: Right-Center (no AllSides rating for the UK paper).
+[[source]]
+id = "telegraph"
+name = "The Telegraph"
+lean = "lean_right"
+paywalled = true
+feeds = [
+  { url = "https://news.google.com/rss/search?q=site:telegraph.co.uk/world-news+when:1d&hl=en-US&gl=US&ceid=US:en", section = "world", kind = "google_news" },
 ]
 
 # --- World ---------------------------------------------------------------------
@@ -458,4 +510,16 @@ lean = "center"
 paywalled = false
 feeds = [
   { url = "https://www.brooklynpaper.com/feed/", section = "nyc", kind = "rss" },
+]
+
+# AllSides: Right (low confidence). Its URLs carry no section, so a keyword search stands in for a
+# city feed. The city feed comes first: ingest keeps an article from the first feed that has it.
+[[source]]
+id = "nysun"
+name = "The New York Sun"
+lean = "right"
+paywalled = false
+feeds = [
+  { url = "https://news.google.com/rss/search?q=site:nysun.com+(%22New+York+City%22+OR+%22City+Hall%22+OR+NYPD+OR+MTA+OR+Albany)+when:1d&hl=en-US&gl=US&ceid=US:en", section = "nyc", kind = "google_news" },
+  { url = "https://news.google.com/rss/search?q=site:nysun.com+when:1d&hl=en-US&gl=US&ceid=US:en", section = "us", kind = "google_news" },
 ]
