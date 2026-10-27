@@ -23,10 +23,10 @@
   color-scheme: light;
 }
 
-/* Paper follows the system's light or dark setting; the steel skins (steel.css)
-   are always dark. */
+/* Paper follows the system's light or dark setting; Matrix (terminal.css) and
+   Cold Steel (steel.css) are always dark. */
 @media (prefers-color-scheme: dark) {
-  :root:not([data-kit="steel"]) {
+  :root:is([data-kit="paper"], :not([data-kit])) {
     --bg: #141412;
     --surface: #1d1c1a;
     --surface-2: #262522;
@@ -85,6 +85,7 @@ a:hover { color: var(--accent); }
 .signature { height: 18px; width: auto; }
 .signature.on-light { display: var(--signature-light); }
 .signature.on-dark { display: var(--signature-dark); }
+.byline-name { display: none; }
 .controls { display: flex; align-items: end; gap: 8px; }
 .dateline { margin: 4px 0 0; color: var(--muted); font-size: 0.85rem; }
 
@@ -144,6 +145,7 @@ a:hover { color: var(--accent); }
 .segment input:checked + span { background: var(--text); color: var(--bg); border-color: var(--text); }
 .segment input:focus-visible + span { outline: 2px solid var(--accent); outline-offset: 2px; }
 .toggle { display: flex; align-items: center; gap: 8px; font-size: 0.85rem; cursor: pointer; }
+.toggle[hidden] { display: none; }
 .toggle input { width: 16px; height: 16px; accent-color: var(--accent); }
 
 .section-nav .wrap { display: flex; gap: 4px; overflow-x: auto; padding: 8px 0 10px; scrollbar-width: none; }
@@ -282,7 +284,8 @@ details.quote > summary { list-style: none; cursor: pointer; }
 details.quote > summary::-webkit-details-marker { display: none; }
 .quote-name { font-size: 0.8rem; color: var(--muted); }
 .quote-value { font: 600 1.15rem var(--sans); font-variant-numeric: tabular-nums; }
-.quote-changes { display: flex; gap: 10px; font-size: 0.78rem; font-variant-numeric: tabular-nums; }
+.quote-changes { display: flex; flex-wrap: wrap; gap: 2px 10px; font-size: 0.78rem; font-variant-numeric: tabular-nums; }
+.quote-changes span { white-space: nowrap; }
 .quote-changes .up { color: var(--up); }
 .quote-changes .down { color: var(--down); }
 .quote-changes .flat { color: var(--muted); }

@@ -48,12 +48,12 @@ python3 -m http.server -d docs 8000               # preview the site
 
 ## Skins
 
-The gear menu switches between **Matrix** (default: green phosphor steel with
-code rain), **Cold Steel** (the plug-ins' own blue-black skin) and **Paper**,
-and turns grit (textures, scanlines, rain) on or off. The choice is saved in
-the browser. `docs/skin.js` applies it before paint; `docs/steel.css` holds
-both steel palettes. Steel textures are the plug-ins' Cold Steel images; the
-Matrix ones are drawn by `node tools/textures/render.mjs`.
+The gear menu switches between **Matrix** (default: a plain green-on-black
+terminal with code rain behind the masthead), **Cold Steel** (the plug-ins' own
+blue-black skin, with their textures) and **Paper**, and turns each skin's
+effects on or off (code rain; scratches and wear). The choice is saved in the
+browser. `docs/skin.js` applies it before paint; `docs/terminal.css` and
+`docs/steel.css` draw the two dark skins.
 
 ## Editing sources
 

@@ -2,18 +2,20 @@
 // of the wrong one. Loaded as a classic blocking script in <head>; the module
 // scripts (settings.js, rain.js) use window.briefSkin to read and change it.
 //
-// <html data-skin> picks the palette, data-kit the structure (steel skins share
-// the chamfered modules, bolts and plates), data-grit the textures and effects.
+// <html data-skin> names the skin, data-kit the stylesheet that draws it
+// (terminal.css, steel.css or the paper defaults in styles.css), and data-fx
+// whether its effects run (code rain for Matrix, scratches and wear for Cold
+// Steel). fxLabel is what the settings menu calls that switch; Paper has none.
 (function () {
   const SKINS = {
-    matrix: { label: "Matrix", kit: "steel" },
-    steel: { label: "Cold Steel", kit: "steel" },
-    paper: { label: "Paper", kit: "paper" },
+    matrix: { label: "Matrix", kit: "terminal", fxLabel: "Code rain" },
+    steel: { label: "Cold Steel", kit: "steel", fxLabel: "Grit: scratches and wear" },
+    paper: { label: "Paper", kit: "paper", fxLabel: "" },
   };
   const DEFAULT_SKIN = "matrix";
-  const DEFAULT_GRIT = true;
+  const DEFAULT_FX = true;
   const SKIN_KEY = "brief.skin";
-  const GRIT_KEY = "brief.grit";
+  const FX_KEY = "brief.fx";
   const CHANGE_EVENT = "briefskinchange";
 
   // Storage can be missing or throw (private windows, blocked site data).
@@ -33,29 +35,29 @@
     }
   }
 
-  function apply(skin, grit) {
+  function apply(skin, fx) {
     const root = document.documentElement;
     root.dataset.skin = skin;
     root.dataset.kit = SKINS[skin].kit;
-    root.dataset.grit = grit ? "on" : "off";
+    root.dataset.fx = fx ? "on" : "off";
   }
 
   const savedSkin = read(SKIN_KEY);
-  const savedGrit = read(GRIT_KEY);
-  apply(savedSkin in SKINS ? savedSkin : DEFAULT_SKIN, savedGrit === null ? DEFAULT_GRIT : savedGrit === "on");
+  const savedFx = read(FX_KEY);
+  apply(savedSkin in SKINS ? savedSkin : DEFAULT_SKIN, savedFx === null ? DEFAULT_FX : savedFx === "on");
 
   window.briefSkin = {
     SKINS,
     CHANGE_EVENT,
     current() {
-      const { skin, grit } = document.documentElement.dataset;
-      return { skin, grit: grit === "on" };
+      const { skin, fx } = document.documentElement.dataset;
+      return { skin, fx: fx === "on" };
     },
-    set(skin, grit) {
-      apply(skin, grit);
+    set(skin, fx) {
+      apply(skin, fx);
       write(SKIN_KEY, skin);
-      write(GRIT_KEY, grit ? "on" : "off");
-      document.dispatchEvent(new CustomEvent(CHANGE_EVENT, { detail: { skin, grit } }));
+      write(FX_KEY, fx ? "on" : "off");
+      document.dispatchEvent(new CustomEvent(CHANGE_EVENT, { detail: { skin, fx } }));
     },
   };
 })();

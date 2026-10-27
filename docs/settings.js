@@ -1,6 +1,6 @@
-// The gear menu in the masthead: pick a skin and turn grit on or off.
+// The gear menu in the masthead: pick a skin and switch its effects on or off.
 
-const { SKINS } = window.briefSkin;
+const { SKINS, CHANGE_EVENT } = window.briefSkin;
 
 function radio(name, value, label, checked) {
   const input = document.createElement("input");
@@ -8,32 +8,41 @@ function radio(name, value, label, checked) {
   input.name = name;
   input.value = value;
   input.checked = checked;
+  const text = document.createElement("span");
+  text.textContent = label;
   const wrapper = document.createElement("label");
   wrapper.className = "segment";
-  wrapper.append(input, document.createElement("span"));
-  wrapper.lastChild.textContent = label;
+  wrapper.append(input, text);
   return wrapper;
 }
 
 function buildPanel(panel) {
-  const { skin, grit } = window.briefSkin.current();
+  const { skin, fx } = window.briefSkin.current();
   const skinGroup = document.createElement("fieldset");
   skinGroup.className = "segmented";
   const legend = document.createElement("legend");
   legend.textContent = "Skin";
   skinGroup.append(legend, ...Object.entries(SKINS).map(([id, info]) => radio("skin", id, info.label, id === skin)));
 
-  const gritToggle = document.createElement("label");
-  gritToggle.className = "toggle";
   const checkbox = document.createElement("input");
   checkbox.type = "checkbox";
-  checkbox.name = "grit";
-  checkbox.checked = grit;
-  const text = document.createElement("span");
-  text.textContent = "Grit: scratches, scanlines, code rain";
-  gritToggle.append(checkbox, text);
+  checkbox.name = "fx";
+  checkbox.checked = fx;
+  const fxText = document.createElement("span");
+  const fxToggle = document.createElement("label");
+  fxToggle.className = "toggle";
+  fxToggle.append(checkbox, fxText);
 
-  panel.replaceChildren(skinGroup, gritToggle);
+  // The switch is named for what the current skin's effects are; Paper has none.
+  const relabel = () => {
+    const { fxLabel } = SKINS[window.briefSkin.current().skin];
+    fxText.textContent = fxLabel;
+    fxToggle.hidden = !fxLabel;
+  };
+  relabel();
+  document.addEventListener(CHANGE_EVENT, relabel);
+
+  panel.replaceChildren(skinGroup, fxToggle);
   panel.addEventListener("change", () => {
     const chosen = panel.querySelector('input[name="skin"]:checked').value;
     window.briefSkin.set(chosen, checkbox.checked);
@@ -42,8 +51,7 @@ function buildPanel(panel) {
 
 export function mountSettings() {
   const menu = document.getElementById("settings");
-  const panel = document.getElementById("settings-panel");
-  buildPanel(panel);
+  buildPanel(document.getElementById("settings-panel"));
   // Close on outside click or Escape, like a native menu.
   document.addEventListener("click", (event) => {
     if (menu.open && !menu.contains(event.target)) menu.open = false;

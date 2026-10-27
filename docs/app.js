@@ -23,6 +23,7 @@ const SIGNAL_LABELS = {
   google: "Google searches", wikipedia: "Wikipedia: most read yesterday", wikipedia_news: "Wikipedia: in the news",
   bluesky: "Bluesky trending", web: "Web",
 };
+const LEAN_CODES = { left: "L", lean_left: "LL", center: "C", lean_right: "LR", right: "R", unrated: "W" };
 const BASIS_POINTS = 100;
 const CORROBORATED_OUTLETS = 2;
 
@@ -46,7 +47,7 @@ function link(href, text, attrs = {}) {
 }
 
 function dot(lean) {
-  return el("span", { class: `dot ${lean}`, title: LEAN_LABELS[lean] });
+  return el("span", { class: `dot ${lean}`, title: LEAN_LABELS[lean], "data-code": LEAN_CODES[lean] });
 }
 
 // --- data -----------------------------------------------------------------------

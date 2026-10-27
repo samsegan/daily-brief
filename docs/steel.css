@@ -1,11 +1,8 @@
-/* Steel skins, after the plug-ins' Cold Steel (music-plugins shared/ui/Skin.cpp,
-   SteelKit.cpp): blasted steel chassis, chamfered bolted modules, stamped
-   plates, recessed display wells, Barlow in capitals for anything that labels.
-
-   data-kit="steel" sets the structure; data-skin picks the palette:
-     steel   Cold Steel's own blue-black and silver
-     matrix  the same steel under a green phosphor monitor, plus code rain
-   data-grit="off" drops the textures, scuffs, scanlines and rain. */
+/* Cold Steel, after the plug-ins' skin of the same name (music-plugins
+   shared/ui/Skin.cpp, SteelKit.cpp): blasted blue-black steel chassis,
+   chamfered bolted modules, stamped plates, recessed display wells, Barlow in
+   capitals for anything that labels. data-fx="off" drops the textures and
+   scuffs (the plug-ins' Grit setting). */
 
 /* --- palettes ------------------------------------------------------------- */
 
@@ -54,51 +51,6 @@
   --scuff-image: url("assets/scuffs-steel.svg");
 }
 
-:root[data-skin="matrix"] {
-  --bg: #050806;
-  --surface: #152018;
-  --surface-2: #1c2b20;
-  --text: #d9ffe2;
-  --text-2: #a6e3b5;
-  --muted: #6fae80;
-  --label: #3ddc6a;
-  --border: #13241a;
-  --border-strong: #2f5a3b;
-  --accent: #00ff41;
-  --accent-top: #6bff8f;
-  --accent-bottom: #00b330;
-  --on-accent: #011b08;
-  --glow: #b6ffc8;
-  --readout: #00ff41;
-  --up: #00ff41;
-  --down: #ff4d5e;
-  --warn: #e6ff4f;
-  --field: #020603;
-  --bevel-light: #3e7350;
-  --bevel-dark: #010302;
-  --control-top: #1f3326;
-  --control-bottom: #122017;
-  --plate: #0b140e;
-  --plate-edge: #24452e;
-  --plate-ink: #7fe39a;
-  --face-top: rgb(36 58 43 / 0.46);
-  --face-mid: rgb(22 36 27 / 0.36);
-  --face-bottom: rgb(12 22 15 / 0.5);
-  --topbar: rgb(0 0 0 / 0.72);
-  --topbar-line: rgb(0 255 65 / 0.35);
-  --headline-glow: 0 0 10px rgb(0 255 65 / 0.35);
-  --lean-left: #39b8ff;
-  --lean-lean_left: #8ad4ff;
-  --lean-center: #8fb59a;
-  --lean-lean_right: #ff9c94;
-  --lean-right: #ff4d5e;
-  --lean-unrated: #3f5e48;
-  --chassis-image: url("assets/textures/matrix-chassis.jpg");
-  --panel-image: url("assets/textures/matrix-panel.jpg");
-  --bolt-image: url("assets/bolt-matrix.svg");
-  --scuff-image: url("assets/scuffs-matrix.svg");
-}
-
 /* --- structure shared by the steel skins ---------------------------------- */
 
 [data-kit="steel"] {
@@ -114,7 +66,7 @@
   color-scheme: dark;
   scrollbar-color: var(--border-strong) var(--bg);
 }
-[data-kit="steel"][data-grit="off"] {
+[data-kit="steel"][data-fx="off"] {
   --chassis-image: none;
   --panel-image: none;
   --scuff-image: none;
@@ -332,50 +284,6 @@
   box-shadow: 0 0 10px color-mix(in srgb, var(--accent) 45%, transparent);
 }
 [data-kit="steel"] .toggle { color: var(--text-2); font-weight: 600; }
-
-/* --- Matrix extras --------------------------------------------------------- */
-
-[data-skin="matrix"] .signature.on-dark {
-  filter: sepia(1) hue-rotate(68deg) saturate(3.4) brightness(0.95) drop-shadow(0 0 4px rgb(0 255 65 / 0.5));
-}
-[data-skin="matrix"] .rain {
-  display: block;
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  opacity: 0.32;
-  pointer-events: none;
-}
-[data-skin="matrix"] a:hover { color: var(--accent); text-shadow: 0 0 6px rgb(0 255 65 / 0.5); }
-[data-skin="matrix"] .prompt { display: inline; margin-right: 0.45em; font-family: var(--mono); color: var(--accent); }
-[data-skin="matrix"] .overview p::after {
-  content: "▍";
-  margin-left: 0.15em;
-  color: var(--accent);
-  text-shadow: 0 0 8px var(--accent);
-  animation: cursor-blink 1.1s steps(1) infinite;
-}
-
-/* CRT scanlines and a vignette over everything, under the pointer. */
-[data-skin="matrix"][data-grit="on"] body::after {
-  content: "";
-  position: fixed;
-  inset: 0;
-  z-index: 30;
-  pointer-events: none;
-  background:
-    radial-gradient(ellipse at center, transparent 55%, rgb(0 0 0 / 0.45)),
-    repeating-linear-gradient(to bottom, rgb(0 0 0 / 0.16) 0 1px, transparent 1px 3px);
-}
-
-@keyframes cursor-blink {
-  50% { opacity: 0; }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  [data-skin="matrix"] .overview p::after { animation: none; }
-}
 
 @media (max-width: 560px) {
   [data-kit="steel"] .brand { font-size: 1.55rem; }
