@@ -23,8 +23,8 @@
   color-scheme: light;
 }
 
-/* Paper follows the system's light or dark setting; Matrix (terminal.css) and
-   Cold Steel (steel.css) are always dark. */
+/* Paper, like Rosé (rose.css), follows the system's light or dark setting;
+   Matrix (terminal.css) and Cold Steel (steel.css) are always dark. */
 @media (prefers-color-scheme: dark) {
   :root:is([data-kit="paper"], :not([data-kit])) {
     --bg: #141412;
@@ -133,6 +133,7 @@ a:hover { color: var(--accent); }
 .segment { flex: 1; }
 .segment input { position: absolute; opacity: 0; pointer-events: none; }
 .segment span {
+  white-space: nowrap;
   display: block;
   text-align: center;
   padding: 6px 8px;

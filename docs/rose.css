@@ -1,0 +1,172 @@
+/* Rosé: blush paper with hot-pink ink, soft rounded cards and Fraunces, a
+   rounded serif, for headlines. Like Paper it follows the system's light or
+   dark setting: blush by day, plum by night. Section names sit on pink pills,
+   facts are marked with small hearts, and data-fx="on" twinkles a few
+   sparkles behind the masthead. */
+
+:root[data-kit="rose"] {
+  --bg: #fff4f8;
+  --surface: #ffffff;
+  --surface-2: #ffe6f0;
+  --text: #3b1230;
+  --muted: #8f5a77;
+  --border: #f5d0e0;
+  --accent: #d6246e;
+  --accent-2: #e0559a;
+  --on-accent: #ffffff;
+  --up: #1f7a4d;
+  --down: #c0263a;
+  --lean-left: #3466c9;
+  --lean-lean_left: #7f9fe0;
+  --lean-center: #a08a96;
+  --lean-lean_right: #e0806f;
+  --lean-right: #b8352b;
+  --lean-unrated: #d6c0cb;
+  --radius: 16px;
+  --shadow: 0 1px 2px rgb(214 36 110 / 0.06), 0 4px 16px rgb(214 36 110 / 0.08);
+  --lift: 0 10px 28px rgb(214 36 110 / 0.18);
+  --serif: "Fraunces", "Newsreader", Georgia, serif;
+  --sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --sparkle-image: url("assets/sparkle-rose.svg");
+  --signature-light: inline;
+  --signature-dark: none;
+  color-scheme: light;
+  scrollbar-color: var(--border) var(--bg);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root[data-kit="rose"] {
+    --bg: #1c0b17;
+    --surface: #29111f;
+    --surface-2: #371829;
+    --text: #fde8f1;
+    --muted: #c99bb3;
+    --border: #4a2238;
+    --accent: #ff6fae;
+    --accent-2: #ffb0d2;
+    --on-accent: #2a0a1c;
+    --up: #5fd49a;
+    --down: #ff7a85;
+    --lean-left: #7da7f5;
+    --lean-lean_left: #a9c2f2;
+    --lean-center: #b49aa8;
+    --lean-lean_right: #f2a493;
+    --lean-right: #ff6b6b;
+    --lean-unrated: #6e4a5c;
+    --shadow: 0 2px 12px rgb(0 0 0 / 0.3);
+    --lift: 0 12px 32px rgb(0 0 0 / 0.5);
+    --signature-light: none;
+    --signature-dark: inline;
+    color-scheme: dark;
+  }
+}
+
+[data-kit="rose"] ::selection { background: var(--accent); color: var(--on-accent); }
+
+/* --- masthead --------------------------------------------------------------- */
+
+[data-kit="rose"] .masthead {
+  background: linear-gradient(100deg, color-mix(in srgb, var(--bg) 92%, transparent), color-mix(in srgb, var(--surface-2) 92%, transparent));
+  border-bottom-color: var(--border);
+}
+[data-kit="rose"] .brand { font: 700 2rem/1 var(--serif); letter-spacing: -0.015em; }
+[data-kit="rose"] .wordmark {
+  background: linear-gradient(90deg, var(--accent), var(--accent-2));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+[data-kit="rose"] :is(.section-nav a, .edition select, .settings > summary) { border-radius: 999px; border-color: var(--border); }
+[data-kit="rose"] .edition select { padding-inline: 12px; }
+[data-kit="rose"] :is(.section-nav a, .settings > summary):hover,
+[data-kit="rose"] .settings[open] > summary {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--surface-2);
+}
+
+/* Sparkles: two layers, behind the masthead's content, twinkling out of step. */
+[data-kit="rose"][data-fx="on"] .masthead::before,
+[data-kit="rose"][data-fx="on"] .masthead::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  animation: twinkle 3.2s ease-in-out infinite alternate;
+}
+[data-kit="rose"][data-fx="on"] .masthead::before {
+  background:
+    var(--sparkle-image) 4% 22% / 10px no-repeat,
+    var(--sparkle-image) 23% 74% / 7px no-repeat,
+    var(--sparkle-image) 47% 16% / 12px no-repeat,
+    var(--sparkle-image) 68% 62% / 8px no-repeat,
+    var(--sparkle-image) 91% 28% / 11px no-repeat;
+}
+[data-kit="rose"][data-fx="on"] .masthead::after {
+  background:
+    var(--sparkle-image) 9% 92% / 8px no-repeat,
+    var(--sparkle-image) 38% 8% / 10px no-repeat,
+    var(--sparkle-image) 58% 84% / 7px no-repeat,
+    var(--sparkle-image) 79% 12% / 9px no-repeat,
+    var(--sparkle-image) 97% 70% / 7px no-repeat;
+  animation-delay: -1.6s;
+}
+
+@keyframes twinkle {
+  from { opacity: 0.15; }
+  to { opacity: 0.75; }
+}
+
+/* --- sections and stories ----------------------------------------------------- */
+
+[data-kit="rose"] .section-title { border-bottom: 1px solid var(--border); padding-bottom: 8px; }
+[data-kit="rose"] .section-title .plate {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--on-accent);
+}
+
+[data-kit="rose"] .story { border-color: var(--border); transition: box-shadow 0.2s ease; }
+[data-kit="rose"] .story:hover { box-shadow: var(--lift); }
+[data-kit="rose"] .story h3 { font-weight: 600; letter-spacing: -0.01em; }
+[data-kit="rose"] .facts li::before {
+  content: "♥";
+  top: 7px;
+  left: 0;
+  width: auto;
+  height: auto;
+  border-radius: 0;
+  background: none;
+  font-size: 0.68rem;
+  color: var(--accent);
+}
+
+[data-kit="rose"] .chip { border-radius: 999px; padding: 3px 8px; }
+[data-kit="rose"] .badge { border-radius: 999px; }
+[data-kit="rose"] .why { border-radius: 12px; border-left: 3px solid var(--accent); }
+[data-kit="rose"] .why strong { color: var(--accent); }
+[data-kit="rose"] .position { border-left-color: var(--accent-2); }
+
+/* --- markets, edition bar, settings ---------------------------------------------- */
+
+[data-kit="rose"] details.quote { border-color: var(--border); border-radius: 14px; }
+[data-kit="rose"] .quote-value { font-family: var(--serif); }
+[data-kit="rose"] .concept { border-color: var(--border); border-left-color: var(--accent); border-radius: 14px; }
+[data-kit="rose"] .edition-bar { border-color: var(--border); }
+[data-kit="rose"] .watch li::marker { color: var(--accent); }
+
+[data-kit="rose"] .settings-panel { border-color: var(--border); box-shadow: var(--lift); }
+[data-kit="rose"] .segment span { border-color: var(--border); border-radius: 999px; }
+[data-kit="rose"] .segment input:checked + span { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
+
+@media (prefers-reduced-motion: reduce) {
+  [data-kit="rose"][data-fx="on"] .masthead::before,
+  [data-kit="rose"][data-fx="on"] .masthead::after { animation: none; opacity: 0.5; }
+}
+
+@media (max-width: 560px) {
+  [data-kit="rose"] .brand { font-size: 1.6rem; }
+}
