@@ -257,14 +257,15 @@ feeds = [
 ]
 
 # Statehouse news from every state. Media Bias/Fact Check: Right-Center (no AllSides rating).
-# The New York feed comes first: ingest keeps an article from the first feed that has it.
+# Its URLs carry no state path Google News can match, so a keyword search stands in for a New York
+# feed. That feed comes first: ingest keeps an article from the first feed that has it.
 [[source]]
 id = "centersquare"
 name = "The Center Square"
 lean = "lean_right"
 paywalled = false
 feeds = [
-  { url = "https://news.google.com/rss/search?q=site:thecentersquare.com/new_york+when:1d&hl=en-US&gl=US&ceid=US:en", section = "nyc", kind = "google_news" },
+  { url = "https://news.google.com/rss/search?q=site:thecentersquare.com+(%22New+York+City%22+OR+Hochul+OR+Albany+OR+%22New+York+state%22)+when:1d&hl=en-US&gl=US&ceid=US:en", section = "nyc", kind = "google_news" },
   { url = "https://news.google.com/rss/search?q=site:thecentersquare.com+when:1d&hl=en-US&gl=US&ceid=US:en", section = "us", kind = "google_news" },
 ]
 
