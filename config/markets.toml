@@ -1,103 +1,95 @@
 # Numbers for the Markets section.
 #
-# provider: yahoo (Yahoo Finance chart data, for prices) or fred (St. Louis Fed,
-#   for official rates and economic series; free, no key, usually a day behind).
+# provider: fred (St. Louis Fed: US indexes, rates, Bitcoin, economic series) or
+#   stooq (world indexes, commodities, currencies). Both are free CSV with no
+#   key; FRED is usually a day behind. symbol is the provider's own ticker.
 # unit: points, usd, percent (shown as basis-point changes) or fx_rate.
 # transform: level, or yoy_percent (change from a year earlier; for monthly
-#   index series like CPI). Yahoo instruments only support level.
+#   index series like CPI).
 # blurb: one plain-English line on what the number is and why anyone watches it.
 
 # --- US stocks -----------------------------------------------------------------
 
 [[instrument]]
-symbol = "^GSPC"
+symbol = "SP500"
 name = "S&P 500"
 group = "us_stocks"
 unit = "points"
-provider = "yahoo"
+provider = "fred"
 transform = "level"
 blurb = "500 of the largest US companies. The standard scoreboard for the US stock market."
 
 [[instrument]]
-symbol = "^IXIC"
+symbol = "NASDAQCOM"
 name = "Nasdaq Composite"
 group = "us_stocks"
 unit = "points"
-provider = "yahoo"
+provider = "fred"
 transform = "level"
 blurb = "Heavy on tech companies, so it swings harder than the S&P 500 on tech news."
 
 [[instrument]]
-symbol = "^DJI"
+symbol = "DJIA"
 name = "Dow Jones Industrial Average"
 group = "us_stocks"
 unit = "points"
-provider = "yahoo"
+provider = "fred"
 transform = "level"
 blurb = "30 big, established US companies. The oldest and most quoted index, but narrow."
-
-[[instrument]]
-symbol = "^RUT"
-name = "Russell 2000"
-group = "us_stocks"
-unit = "points"
-provider = "yahoo"
-transform = "level"
-blurb = "2,000 smaller US companies. More sensitive to interest rates and the domestic economy."
 
 # --- World stocks --------------------------------------------------------------
 
 [[instrument]]
-symbol = "^STOXX50E"
-name = "Euro Stoxx 50"
+symbol = "^dax"
+name = "DAX"
 group = "world_stocks"
 unit = "points"
-provider = "yahoo"
+provider = "stooq"
 transform = "level"
-blurb = "50 of the biggest companies in the eurozone."
+blurb = "40 of Germany's biggest companies; the usual read on European stocks."
 
 [[instrument]]
-symbol = "^FTSE"
+symbol = "^ukx"
 name = "FTSE 100"
 group = "world_stocks"
 unit = "points"
-provider = "yahoo"
+provider = "stooq"
 transform = "level"
 blurb = "The 100 largest companies on the London Stock Exchange."
 
 [[instrument]]
-symbol = "^N225"
+symbol = "NIKKEI225"
 name = "Nikkei 225"
 group = "world_stocks"
 unit = "points"
-provider = "yahoo"
+provider = "fred"
 transform = "level"
 blurb = "Japan's main stock index."
 
 [[instrument]]
-symbol = "^HSI"
+symbol = "^hsi"
 name = "Hang Seng"
 group = "world_stocks"
 unit = "points"
-provider = "yahoo"
+provider = "stooq"
 transform = "level"
 blurb = "Hong Kong's main index; a common read on investor mood about China."
 
 [[instrument]]
-symbol = "000001.SS"
+symbol = "^shc"
 name = "Shanghai Composite"
 group = "world_stocks"
 unit = "points"
-provider = "yahoo"
+provider = "stooq"
 transform = "level"
 blurb = "Mainland China's main stock index."
 
 [[instrument]]
-symbol = "^BSESN"
+symbol = "^snx"
 name = "Sensex"
 group = "world_stocks"
 unit = "points"
-provider = "yahoo"
+provider = "stooq"
 transform = "level"
 blurb = "30 large companies on India's Bombay Stock Exchange."
 
@@ -162,86 +154,86 @@ blurb = "Share of people looking for work who can't find it. From the monthly jo
 # --- Commodities ---------------------------------------------------------------
 
 [[instrument]]
-symbol = "CL=F"
+symbol = "cl.f"
 name = "Crude oil (WTI)"
 group = "commodities"
 unit = "usd"
-provider = "yahoo"
+provider = "stooq"
 transform = "level"
 blurb = "US oil price per barrel. Feeds into gas prices and inflation."
 
 [[instrument]]
-symbol = "BZ=F"
+symbol = "cb.f"
 name = "Crude oil (Brent)"
 group = "commodities"
 unit = "usd"
-provider = "yahoo"
+provider = "stooq"
 transform = "level"
 blurb = "The global oil benchmark. Jumps on Middle East and Russia supply news."
 
 [[instrument]]
-symbol = "GC=F"
+symbol = "xauusd"
 name = "Gold"
 group = "commodities"
 unit = "usd"
-provider = "yahoo"
+provider = "stooq"
 transform = "level"
 blurb = "Price per ounce. Investors buy it when they're nervous or expect inflation."
 
 [[instrument]]
-symbol = "NG=F"
+symbol = "ng.f"
 name = "Natural gas"
 group = "commodities"
 unit = "usd"
-provider = "yahoo"
+provider = "stooq"
 transform = "level"
 blurb = "US natural gas price. Drives heating and electricity bills."
 
 # --- Currencies ----------------------------------------------------------------
 
 [[instrument]]
-symbol = "DX-Y.NYB"
+symbol = "dx.f"
 name = "US dollar index"
 group = "currencies"
 unit = "points"
-provider = "yahoo"
+provider = "stooq"
 transform = "level"
 blurb = "The dollar against six major currencies. Up means a stronger dollar."
 
 [[instrument]]
-symbol = "EURUSD=X"
+symbol = "eurusd"
 name = "Euro (USD per EUR)"
 group = "currencies"
 unit = "fx_rate"
-provider = "yahoo"
+provider = "stooq"
 transform = "level"
 blurb = "Dollars per euro. Up means the euro strengthened against the dollar."
 
 [[instrument]]
-symbol = "JPY=X"
+symbol = "usdjpy"
 name = "Japanese yen (JPY per USD)"
 group = "currencies"
 unit = "fx_rate"
-provider = "yahoo"
+provider = "stooq"
 transform = "level"
 blurb = "Yen per dollar. Up means a weaker yen."
 
 [[instrument]]
-symbol = "CNY=X"
+symbol = "usdcny"
 name = "Chinese yuan (CNY per USD)"
 group = "currencies"
 unit = "fx_rate"
-provider = "yahoo"
+provider = "stooq"
 transform = "level"
 blurb = "Yuan per dollar. Beijing manages it closely, so moves are a policy signal."
 
 # --- Crypto --------------------------------------------------------------------
 
 [[instrument]]
-symbol = "BTC-USD"
+symbol = "CBBTCUSD"
 name = "Bitcoin"
 group = "crypto"
 unit = "usd"
-provider = "yahoo"
+provider = "fred"
 transform = "level"
 blurb = "The largest cryptocurrency. Trades around the clock and swings far more than stocks."

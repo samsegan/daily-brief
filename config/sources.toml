@@ -6,8 +6,8 @@
 # paywalled: true when most articles are behind a paywall. The writer then works
 #   from the feed's headline and summary only and says so.
 # feeds: section is where the feed's articles are filed before clustering
-#   (us, world, business, nyc). kind is rss, or google_news for outlets with no
-#   RSS of their own.
+#   (us, world, business, nyc). kind is rss, or google_news for outlets whose
+#   own feeds are missing, stale or block automated readers.
 #
 # A feed that fails or goes stale shows up in the ingest bundle's errors; fix or
 # drop it here.
@@ -287,7 +287,6 @@ paywalled = true
 feeds = [
   { url = "https://www.economist.com/united-states/rss.xml", section = "us", kind = "rss" },
   { url = "https://www.economist.com/international/rss.xml", section = "world", kind = "rss" },
-  { url = "https://www.economist.com/finance-and-economics/rss.xml", section = "business", kind = "rss" },
   { url = "https://www.economist.com/middle-east-and-africa/rss.xml", section = "world", kind = "rss" },
   { url = "https://www.economist.com/asia/rss.xml", section = "world", kind = "rss" },
 ]
@@ -460,5 +459,5 @@ name = "Brooklyn Paper"
 lean = "center"
 paywalled = false
 feeds = [
-  { url = "https://www.brooklynpaper.com/feed/", section = "nyc", kind = "rss" },
+  { url = "https://news.google.com/rss/search?q=site:nydailynews.com+when:1d&hl=en-US&gl=US&ceid=US:en", section = "nyc", kind = "google_news" },
 ]

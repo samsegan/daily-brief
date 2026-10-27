@@ -14,7 +14,7 @@ GitHub Actions, 10:10 UTC daily (free)      Claude Code session (your Claude pla
 ┌──────────────────────────────────┐         ┌─────────────────────────────────────┐
 │ python -m brief.ingest           │         │ .claude/skills/write-brief          │
 │  ~45 outlets' RSS feeds          │ ingest  │  digest → 4 section writers +       │
-│  Yahoo Finance + FRED numbers    │ ──────► │  front page → python -m brief.build │
+│  FRED + Stooq market numbers     │ ──────► │  front page → python -m brief.build │
 │  Google Trends, Wikipedia,       │ branch  │  (validates every ref) → push main  │
 │  Bluesky trend signals           │         └──────────────────┬──────────────────┘
 │  TF-IDF clustering into stories  │                            │

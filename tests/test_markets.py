@@ -1,28 +1,23 @@
 from __future__ import annotations
 
-import json
 from datetime import date
 
 import pytest
 
 from brief import markets
 from brief.config import InstrumentGroup, MarketProvider, Transform, Unit
+from brief.http import FetchFailed
 from brief.models import Instrument
 
-YAHOO = {
-    "chart": {
-        "result": [
-            {
-                "meta": {"exchangeTimezoneName": "America/New_York"},
-                "timestamp": [1758000000, 1759900000, 1761400000, 1761500000],
-                "indicators": {"quote": [{"close": [100.0, 104.0, None, 110.0]}]},
-            }
-        ],
-        "error": None,
-    }
-}
-
+TODAY = date(2026, 10, 27)
 FRED_CPI = "observation_date,CPIAUCSL\n2025-08-01,300.0\n2025-09-01,301.0\n2026-08-01,309.0\n2026-09-01,310.03\n"
+FRED_WITH_GAPS = "observation_date,DGS10\n2026-09-25,4.05\n2026-10-13,\n2026-10-23,4.18\n2026-10-24,.\n2026-10-26,4.21\n"
+STOOQ = (
+    "Date,Open,High,Low,Close,Volume\n"
+    "2026-09-24,101,102,100,100.0,0\n"
+    "2026-10-23,103,105,103,104.0,0\n"
+    "2026-10-26,105,111,105,110.0,0\n"
+)
 
 
 def _instrument(provider: MarketProvider, transform: Transform) -> Instrument:
@@ -32,16 +27,31 @@ def _instrument(provider: MarketProvider, transform: Transform) -> Instrument:
     )
 
 
-def test_yahoo_quote(monkeypatch: pytest.MonkeyPatch) -> None:
-    monkeypatch.setattr(markets, "fetch_json", lambda url: json.loads(json.dumps(YAHOO)))
-    quote = markets.fetch_quote(_instrument(MarketProvider.YAHOO, Transform.LEVEL), date(2026, 10, 27))
-    assert (quote.last, quote.previous, quote.month_ago) == (110.0, 104.0, 100.0)
-    assert quote.as_of == "2025-10-26"
+def _serve(monkeypatch: pytest.MonkeyPatch, body: str) -> None:
+    monkeypatch.setattr(markets, "fetch_bytes", lambda url: body.encode())
+
+
+def test_fred_skips_missing_days(monkeypatch: pytest.MonkeyPatch) -> None:
+    _serve(monkeypatch, FRED_WITH_GAPS)
+    quote = markets.fetch_quote(_instrument(MarketProvider.FRED, Transform.LEVEL), TODAY)
+    assert (quote.last, quote.previous, quote.month_ago, quote.as_of) == (4.21, 4.18, 4.05, "2026-10-26")
 
 
 def test_fred_year_over_year(monkeypatch: pytest.MonkeyPatch) -> None:
-    monkeypatch.setattr(markets, "fetch_bytes", lambda url: FRED_CPI.encode())
-    quote = markets.fetch_quote(_instrument(MarketProvider.FRED, Transform.YOY_PERCENT), date(2026, 10, 27))
+    _serve(monkeypatch, FRED_CPI)
+    quote = markets.fetch_quote(_instrument(MarketProvider.FRED, Transform.YOY_PERCENT), TODAY)
     assert quote.last == pytest.approx(3.0)
     assert quote.previous == pytest.approx(3.0)
     assert quote.as_of == "2026-09-01"
+
+
+def test_stooq_quote(monkeypatch: pytest.MonkeyPatch) -> None:
+    _serve(monkeypatch, STOOQ)
+    quote = markets.fetch_quote(_instrument(MarketProvider.STOOQ, Transform.LEVEL), TODAY)
+    assert (quote.last, quote.previous, quote.month_ago, quote.as_of) == (110.0, 104.0, 100.0, "2026-10-26")
+
+
+def test_stooq_unknown_symbol(monkeypatch: pytest.MonkeyPatch) -> None:
+    _serve(monkeypatch, "No data\n")
+    with pytest.raises(FetchFailed, match="no data rows"):
+        markets.fetch_quote(_instrument(MarketProvider.STOOQ, Transform.LEVEL), TODAY)
