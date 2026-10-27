@@ -1,0 +1,92 @@
+{
+ "parts": [
+  {
+   "label": "Section writers, first draft",
+   "since": "2026-10-27T19:28:34.706Z",
+   "until": "2026-10-27T19:38:44.441Z",
+   "total_tokens": 6795722,
+   "cost_usd": 9.46,
+   "models": [
+    {
+     "model": "claude-opus-5-5",
+     "requests": 54,
+     "tokens": {
+      "input": 108,
+      "cache_write_5m": 793528,
+      "cache_write_1h": 0,
+      "cache_read": 5809479,
+      "output": 192607,
+      "web_searches": 48
+     },
+     "cost_usd": 9.4621
+    }
+   ]
+  },
+  {
+   "label": "Editor, first draft",
+   "since": "2026-10-27T19:27:19.312Z",
+   "until": "2026-10-27T19:40:43.646Z",
+   "total_tokens": 14543284,
+   "cost_usd": 3.99,
+   "models": [
+    {
+     "model": "claude-opus-5-5",
+     "requests": 28,
+     "tokens": {
+      "input": 64,
+      "cache_write_5m": 0,
+      "cache_write_1h": 63717,
+      "cache_read": 14451262,
+      "output": 28241,
+      "web_searches": 2
+     },
+     "cost_usd": 3.9851
+    }
+   ]
+  },
+  {
+   "label": "Section writers, revision with new sources",
+   "since": "2026-10-27T20:10:14.383Z",
+   "until": "2026-10-27T20:21:28.209Z",
+   "total_tokens": 21238671,
+   "cost_usd": 12.45,
+   "models": [
+    {
+     "model": "claude-opus-5-5",
+     "requests": 151,
+     "tokens": {
+      "input": 302,
+      "cache_write_5m": 840834,
+      "cache_write_1h": 0,
+      "cache_read": 20192658,
+      "output": 204877,
+      "web_searches": 11
+     },
+     "cost_usd": 12.4514
+    }
+   ]
+  },
+  {
+   "label": "Editor, revision",
+   "since": "2026-10-27T20:22:00.531Z",
+   "until": "2026-10-27T20:22:00.531Z",
+   "total_tokens": 641374,
+   "cost_usd": 0.17,
+   "models": [
+    {
+     "model": "claude-opus-5-5",
+     "requests": 1,
+     "tokens": {
+      "input": 2,
+      "cache_write_5m": 0,
+      "cache_write_1h": 2469,
+      "cache_read": 637602,
+      "output": 1301,
+      "web_searches": 0
+     },
+     "cost_usd": 0.1733
+    }
+   ]
+  }
+ ]
+}

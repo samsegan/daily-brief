@@ -33,6 +33,10 @@ GitHub Actions, 10:10 UTC daily (free)      Claude Code session (your Claude pla
 3. **Build** (`brief/build.py`) checks every reference against the bundle,
    fills in outlet names, leans, URLs and market numbers from it, and writes
    `docs/data/briefs/<date>.json`. The static site in `docs/` renders it.
+4. **Cost**: `brief/usage.py` sums the writing session's tokens from its Claude
+   Code transcripts and prices them with `config/pricing.toml`. The site shows
+   the total at the top of each edition. On a Claude plan it isn't billed per
+   token; the figure is what the same work would cost on the API.
 
 ## Running it
 

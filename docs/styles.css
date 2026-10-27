@@ -168,6 +168,28 @@ a:hover { color: var(--accent); }
 .prompt { display: none; }
 .status { color: var(--muted); margin: 40px 0; }
 
+/* --- edition bar ----------------------------------------------------------- */
+
+.edition-bar {
+  margin: 20px 0 0;
+  padding: 10px 14px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 0.84rem;
+  color: var(--muted);
+}
+.edition-stats { display: flex; flex-wrap: wrap; gap: 4px 18px; }
+.edition-bar strong { color: var(--text); font-weight: 600; }
+.edition-cost { margin-top: 6px; }
+.edition-cost > summary { cursor: pointer; }
+.edition-cost p { margin: 6px 0 0; }
+.cost-table { overflow-x: auto; }
+.cost-table table { width: 100%; border-collapse: collapse; margin: 10px 0 4px; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.cost-table th, .cost-table td { text-align: right; padding: 4px 8px; border-bottom: 1px solid var(--border); }
+.cost-table th:first-child, .cost-table td:first-child { text-align: left; }
+.cost-table th { font-weight: 600; color: var(--muted); }
+
 /* --- sections ------------------------------------------------------------ */
 
 .section { margin-top: 40px; }
@@ -322,6 +344,8 @@ details.quote > summary::-webkit-details-marker { display: none; }
 
 @media (max-width: 560px) {
   .brand { font-size: 1.55rem; }
+  .cost-table :is(th, td):is(:nth-child(3), :nth-child(4), :nth-child(5)) { display: none; }
+  .cost-table :is(th, td):first-child { white-space: normal; }
   .edition > span { display: none; }
   .dateline { font-size: 0.75rem; }
   .signature { height: 15px; }

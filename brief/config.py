@@ -15,6 +15,9 @@ DRAFTS_DIR = REPO_ROOT / "data" / "drafts"
 SITE_DATA_DIR = REPO_ROOT / "docs" / "data"
 BRIEFS_DIR = SITE_DATA_DIR / "briefs"
 SITE_INDEX_PATH = SITE_DATA_DIR / "index.json"
+PRICING_PATH = CONFIG_DIR / "pricing.toml"
+TRANSCRIPTS_DIR = Path.home() / ".claude" / "projects"
+USAGE_FILE = "usage.json"
 
 HOME_TZ = ZoneInfo("America/New_York")
 
@@ -45,6 +48,10 @@ MONTH_LOOKBACK_DAYS = 30
 GOOGLE_TRENDS_GEO = "US"
 WIKIPEDIA_MOST_READ_LIMIT = 15
 BLUESKY_TRENDS_LIMIT = 15
+
+# Usage
+TOKENS_PER_MILLION = 1_000_000
+SEARCHES_PER_PRICE_UNIT = 1_000
 
 # Digest
 DIGEST_MAX_CLUSTERS = 40

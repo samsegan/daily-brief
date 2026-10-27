@@ -86,7 +86,7 @@
 /* --- sections and stories ----------------------------------------------------- */
 
 [data-kit="terminal"] .section-title {
-  font: 600 0.95rem var(--mono);
+  font: 700 1rem var(--mono);
   letter-spacing: 0.1em;
   color: var(--bright);
   border-bottom: 1px dashed var(--border-strong);
@@ -96,7 +96,13 @@
 [data-kit="terminal"] :is(.section-empty, .status) { font-style: normal; color: var(--muted); }
 
 [data-kit="terminal"] .story { background: #000000; border: 1px solid var(--border); border-radius: 0; box-shadow: none; }
-[data-kit="terminal"] .story h3 { font: 600 1.22rem/1.35 var(--mono); color: var(--bright); text-shadow: var(--glow); }
+[data-kit="terminal"] .story h3 {
+  font: 700 1.22rem/1.35 var(--mono);
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  color: var(--bright);
+  text-shadow: 0 0 4px rgb(0 255 65 / 0.35);
+}
 [data-kit="terminal"] .story-meta { color: var(--muted); }
 [data-kit="terminal"] .tag { color: var(--bright); }
 [data-kit="terminal"] .tag::before { content: "#"; }
@@ -140,6 +146,11 @@
 [data-kit="terminal"] :is(.framing-headline, .source-title) { font: 500 0.95rem/1.45 var(--mono); color: var(--text); }
 [data-kit="terminal"] .framing-outlet { font-weight: 500; }
 [data-kit="terminal"] .position { border-left: 1px solid var(--border-strong); }
+
+[data-kit="terminal"] .edition-bar { background: #000000; border: 1px dashed var(--border-strong); border-radius: 0; color: var(--muted); }
+[data-kit="terminal"] .edition-bar strong { color: var(--bright); }
+[data-kit="terminal"] .edition-stats::before { content: "$ stats"; color: var(--bright); margin-right: 4px; }
+[data-kit="terminal"] .cost-table :is(th, td) { border-bottom: 1px dashed var(--border); }
 
 /* --- markets ---------------------------------------------------------------- */
 
