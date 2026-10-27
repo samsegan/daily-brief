@@ -12,12 +12,6 @@ from brief.models import Instrument
 TODAY = date(2026, 10, 27)
 FRED_CPI = "observation_date,CPIAUCSL\n2025-08-01,300.0\n2025-09-01,301.0\n2026-08-01,309.0\n2026-09-01,310.03\n"
 FRED_WITH_GAPS = "observation_date,DGS10\n2026-09-25,4.05\n2026-10-13,\n2026-10-23,4.18\n2026-10-24,.\n2026-10-26,4.21\n"
-STOOQ = (
-    "Date,Open,High,Low,Close,Volume\n"
-    "2026-09-24,101,102,100,100.0,0\n"
-    "2026-10-23,103,105,103,104.0,0\n"
-    "2026-10-26,105,111,105,110.0,0\n"
-)
 
 
 def _instrument(provider: MarketProvider, transform: Transform) -> Instrument:
@@ -45,13 +39,7 @@ def test_fred_year_over_year(monkeypatch: pytest.MonkeyPatch) -> None:
     assert quote.as_of == "2026-09-01"
 
 
-def test_stooq_quote(monkeypatch: pytest.MonkeyPatch) -> None:
-    _serve(monkeypatch, STOOQ)
-    quote = markets.fetch_quote(_instrument(MarketProvider.STOOQ, Transform.LEVEL), TODAY)
-    assert (quote.last, quote.previous, quote.month_ago, quote.as_of) == (110.0, 104.0, 100.0, "2026-10-26")
-
-
-def test_stooq_unknown_symbol(monkeypatch: pytest.MonkeyPatch) -> None:
-    _serve(monkeypatch, "No data\n")
+def test_fred_empty_series(monkeypatch: pytest.MonkeyPatch) -> None:
+    _serve(monkeypatch, "observation_date,DGS10\n")
     with pytest.raises(FetchFailed, match="no data rows"):
-        markets.fetch_quote(_instrument(MarketProvider.STOOQ, Transform.LEVEL), TODAY)
+        markets.fetch_quote(_instrument(MarketProvider.FRED, Transform.LEVEL), TODAY)

@@ -1,8 +1,9 @@
 # Numbers for the Markets section.
 #
-# provider: fred (St. Louis Fed: US indexes, rates, Bitcoin, economic series) or
-#   stooq (world indexes, commodities, currencies). Both are free CSV with no
-#   key; FRED is usually a day behind. symbol is the provider's own ticker.
+# provider: fred (St. Louis Fed): free CSV with no key, and it answers GitHub
+#   Actions (Yahoo Finance and Stooq don't). symbol is the FRED series id.
+#   Stock indexes are a day behind; oil, gas and currencies up to a week.
+#   World indexes other than the Nikkei, and gold, need a keyed source.
 # unit: points, usd, percent (shown as basis-point changes) or fx_rate.
 # transform: level, or yoy_percent (change from a year earlier; for monthly
 #   index series like CPI).
@@ -40,24 +41,6 @@ blurb = "30 big, established US companies. The oldest and most quoted index, but
 # --- World stocks --------------------------------------------------------------
 
 [[instrument]]
-symbol = "^dax"
-name = "DAX"
-group = "world_stocks"
-unit = "points"
-provider = "stooq"
-transform = "level"
-blurb = "40 of Germany's biggest companies; the usual read on European stocks."
-
-[[instrument]]
-symbol = "^ukx"
-name = "FTSE 100"
-group = "world_stocks"
-unit = "points"
-provider = "stooq"
-transform = "level"
-blurb = "The 100 largest companies on the London Stock Exchange."
-
-[[instrument]]
 symbol = "NIKKEI225"
 name = "Nikkei 225"
 group = "world_stocks"
@@ -65,35 +48,6 @@ unit = "points"
 provider = "fred"
 transform = "level"
 blurb = "Japan's main stock index."
-
-[[instrument]]
-symbol = "^hsi"
-name = "Hang Seng"
-group = "world_stocks"
-unit = "points"
-provider = "stooq"
-transform = "level"
-blurb = "Hong Kong's main index; a common read on investor mood about China."
-
-[[instrument]]
-symbol = "^shc"
-name = "Shanghai Composite"
-group = "world_stocks"
-unit = "points"
-provider = "stooq"
-transform = "level"
-blurb = "Mainland China's main stock index."
-
-[[instrument]]
-symbol = "^snx"
-name = "Sensex"
-group = "world_stocks"
-unit = "points"
-provider = "stooq"
-transform = "level"
-blurb = "30 large companies on India's Bombay Stock Exchange."
-
-# --- Rates ---------------------------------------------------------------------
 
 [[instrument]]
 symbol = "DFF"
@@ -154,76 +108,67 @@ blurb = "Share of people looking for work who can't find it. From the monthly jo
 # --- Commodities ---------------------------------------------------------------
 
 [[instrument]]
-symbol = "cl.f"
+symbol = "DCOILWTICO"
 name = "Crude oil (WTI)"
 group = "commodities"
 unit = "usd"
-provider = "stooq"
+provider = "fred"
 transform = "level"
 blurb = "US oil price per barrel. Feeds into gas prices and inflation."
 
 [[instrument]]
-symbol = "cb.f"
+symbol = "DCOILBRENTEU"
 name = "Crude oil (Brent)"
 group = "commodities"
 unit = "usd"
-provider = "stooq"
+provider = "fred"
 transform = "level"
 blurb = "The global oil benchmark. Jumps on Middle East and Russia supply news."
 
 [[instrument]]
-symbol = "xauusd"
-name = "Gold"
+symbol = "DHHNGSP"
+name = "Natural gas (Henry Hub)"
 group = "commodities"
 unit = "usd"
-provider = "stooq"
+provider = "fred"
 transform = "level"
-blurb = "Price per ounce. Investors buy it when they're nervous or expect inflation."
-
-[[instrument]]
-symbol = "ng.f"
-name = "Natural gas"
-group = "commodities"
-unit = "usd"
-provider = "stooq"
-transform = "level"
-blurb = "US natural gas price. Drives heating and electricity bills."
+blurb = "US natural gas price at the Henry Hub in Louisiana, per million BTU. Drives heating and electricity bills."
 
 # --- Currencies ----------------------------------------------------------------
 
 [[instrument]]
-symbol = "dx.f"
-name = "US dollar index"
+symbol = "DTWEXBGS"
+name = "US dollar index (broad)"
 group = "currencies"
 unit = "points"
-provider = "stooq"
+provider = "fred"
 transform = "level"
-blurb = "The dollar against six major currencies. Up means a stronger dollar."
+blurb = "The Fed's index of the dollar against the currencies of US trading partners. Up means a stronger dollar."
 
 [[instrument]]
-symbol = "eurusd"
+symbol = "DEXUSEU"
 name = "Euro (USD per EUR)"
 group = "currencies"
 unit = "fx_rate"
-provider = "stooq"
+provider = "fred"
 transform = "level"
 blurb = "Dollars per euro. Up means the euro strengthened against the dollar."
 
 [[instrument]]
-symbol = "usdjpy"
+symbol = "DEXJPUS"
 name = "Japanese yen (JPY per USD)"
 group = "currencies"
 unit = "fx_rate"
-provider = "stooq"
+provider = "fred"
 transform = "level"
 blurb = "Yen per dollar. Up means a weaker yen."
 
 [[instrument]]
-symbol = "usdcny"
+symbol = "DEXCHUS"
 name = "Chinese yuan (CNY per USD)"
 group = "currencies"
 unit = "fx_rate"
-provider = "stooq"
+provider = "fred"
 transform = "level"
 blurb = "Yuan per dollar. Beijing manages it closely, so moves are a policy signal."
 

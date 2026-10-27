@@ -1,8 +1,7 @@
-"""Market and economic numbers from free, keyless CSV sources.
+"""Market and economic numbers from FRED (St. Louis Fed): free CSV with no key.
 
-FRED (St. Louis Fed) for US indexes, rates, Bitcoin and macro series; Stooq for
-world indexes, commodities and currencies FRED doesn't carry. Both serve plain
-CSV and answer GitHub Actions runners, which Yahoo Finance rate-limits on sight.
+FRED answers GitHub Actions runners; Yahoo Finance rate-limits them on sight and
+Stooq serves them a browser check instead of data.
 """
 
 from __future__ import annotations
@@ -17,7 +16,6 @@ from urllib.parse import urlencode
 from brief.config import (
     FRED_LOOKBACK_DAYS,
     MONTH_LOOKBACK_DAYS,
-    STOOQ_LOOKBACK_DAYS,
     MarketProvider,
     Transform,
 )
@@ -25,12 +23,9 @@ from brief.http import FetchFailed, fetch_bytes
 from brief.models import Instrument, Quote
 
 FRED_CSV_URL = "https://fred.stlouisfed.org/graph/fredgraph.csv?{query}"
-STOOQ_CSV_URL = "https://stooq.com/q/d/l/?{query}"
 # FRED marks a day without a value (a market holiday) with "." in older files
 # and an empty cell in newer ones.
 FRED_MISSING_VALUES = frozenset({".", ""})
-STOOQ_DATE_COLUMN = "Date"
-STOOQ_CLOSE_COLUMN = "Close"
 _PERCENT = 100.0
 
 
@@ -44,8 +39,6 @@ def fetch_quote(instrument: Instrument, today: date) -> Quote:
     match instrument.provider:
         case MarketProvider.FRED:
             observations = _fred_series(instrument.symbol, today)
-        case MarketProvider.STOOQ:
-            observations = _stooq_series(instrument.symbol, today)
     match instrument.transform:
         case Transform.LEVEL:
             pass
@@ -82,19 +75,6 @@ def _fred_series(series_id: str, today: date) -> list[Observation]:
     if len(rows[0]) != 2:
         raise FetchFailed(url, f"unexpected CSV header {rows[0]}")
     return _observations(url, ((day, value) for day, value in rows[1:] if value not in FRED_MISSING_VALUES))
-
-
-def _stooq_series(symbol: str, today: date) -> list[Observation]:
-    start = today - timedelta(days=STOOQ_LOOKBACK_DAYS)
-    query = {"s": symbol, "i": "d", "d1": start.strftime("%Y%m%d"), "d2": today.strftime("%Y%m%d")}
-    url = STOOQ_CSV_URL.format(query=urlencode(query))
-    rows = _csv_rows(url)
-    header = rows[0]
-    if STOOQ_DATE_COLUMN not in header or STOOQ_CLOSE_COLUMN not in header:
-        # An unknown symbol or an exhausted daily quota answers with one line of text.
-        raise FetchFailed(url, f"no price data: {','.join(header)[:80]}")
-    day_index, close_index = header.index(STOOQ_DATE_COLUMN), header.index(STOOQ_CLOSE_COLUMN)
-    return _observations(url, ((row[day_index], row[close_index]) for row in rows[1:]))
 
 
 def _csv_rows(url: str) -> list[list[str]]:

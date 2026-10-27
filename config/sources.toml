@@ -44,10 +44,9 @@ name = "The Washington Post"
 lean = "lean_left"
 paywalled = true
 feeds = [
-  { url = "https://feeds.washingtonpost.com/rss/national", section = "us", kind = "rss" },
-  { url = "https://feeds.washingtonpost.com/rss/politics", section = "us", kind = "rss" },
-  { url = "https://feeds.washingtonpost.com/rss/world", section = "world", kind = "rss" },
-  { url = "https://feeds.washingtonpost.com/rss/business", section = "business", kind = "rss" },
+  { url = "https://news.google.com/rss/search?q=site:washingtonpost.com/politics+when:1d&hl=en-US&gl=US&ceid=US:en", section = "us", kind = "google_news" },
+  { url = "https://news.google.com/rss/search?q=site:washingtonpost.com/world+when:1d&hl=en-US&gl=US&ceid=US:en", section = "world", kind = "google_news" },
+  { url = "https://news.google.com/rss/search?q=site:washingtonpost.com/business+when:1d&hl=en-US&gl=US&ceid=US:en", section = "business", kind = "google_news" },
 ]
 
 [[source]]
@@ -87,8 +86,7 @@ name = "CNN"
 lean = "lean_left"
 paywalled = false
 feeds = [
-  { url = "http://rss.cnn.com/rss/cnn_us.rss", section = "us", kind = "rss" },
-  { url = "http://rss.cnn.com/rss/cnn_world.rss", section = "world", kind = "rss" },
+  { url = "https://news.google.com/rss/search?q=site:cnn.com+when:1d&hl=en-US&gl=US&ceid=US:en", section = "us", kind = "google_news" },
 ]
 
 [[source]]
@@ -208,7 +206,7 @@ name = "The Washington Times"
 lean = "lean_right"
 paywalled = false
 feeds = [
-  { url = "https://www.washingtontimes.com/rss/headlines/news/", section = "us", kind = "rss" },
+  { url = "https://news.google.com/rss/search?q=site:washingtontimes.com/news+when:1d&hl=en-US&gl=US&ceid=US:en", section = "us", kind = "google_news" },
 ]
 
 [[source]]
@@ -339,7 +337,7 @@ name = "Nikkei Asia"
 lean = "center"
 paywalled = true
 feeds = [
-  { url = "https://asia.nikkei.com/rss/feed/nar", section = "world", kind = "rss" },
+  { url = "https://news.google.com/rss/search?q=site:asia.nikkei.com+when:1d&hl=en-US&gl=US&ceid=US:en", section = "world", kind = "google_news" },
 ]
 
 [[source]]
@@ -376,7 +374,7 @@ name = "The Times of Israel"
 lean = "center"
 paywalled = false
 feeds = [
-  { url = "https://www.timesofisrael.com/feed/", section = "world", kind = "rss" },
+  { url = "https://news.google.com/rss/search?q=site:timesofisrael.com+when:1d&hl=en-US&gl=US&ceid=US:en", section = "world", kind = "google_news" },
 ]
 
 [[source]]
@@ -441,7 +439,7 @@ name = "New York Daily News"
 lean = "lean_left"
 paywalled = false
 feeds = [
-  { url = "https://www.nydailynews.com/feed/", section = "nyc", kind = "rss" },
+  { url = "https://news.google.com/rss/search?q=site:nydailynews.com+when:1d&hl=en-US&gl=US&ceid=US:en", section = "nyc", kind = "google_news" },
 ]
 
 [[source]]
@@ -459,5 +457,5 @@ name = "Brooklyn Paper"
 lean = "center"
 paywalled = false
 feeds = [
-  { url = "https://news.google.com/rss/search?q=site:nydailynews.com+when:1d&hl=en-US&gl=US&ceid=US:en", section = "nyc", kind = "google_news" },
+  { url = "https://www.brooklynpaper.com/feed/", section = "nyc", kind = "rss" },
 ]
