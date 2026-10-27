@@ -3,13 +3,15 @@
 // scripts (settings.js, rain.js) use window.briefSkin to read and change it.
 //
 // <html data-skin> names the skin, data-kit the stylesheet that draws it
-// (terminal.css, steel.css or the paper defaults in styles.css), and data-fx
-// whether its effects run (code rain for Matrix, scratches and wear for Cold
-// Steel). fxLabel is what the settings menu calls that switch; Paper has none.
+// (terminal.css, steel.css, rose.css or the paper defaults in styles.css), and
+// data-fx whether its effects run (code rain for Matrix, scratches and wear for
+// Cold Steel, sparkles for Rosé). fxLabel is what the settings menu calls that
+// switch; Paper has none.
 (function () {
   const SKINS = {
     matrix: { label: "Matrix", kit: "terminal", fxLabel: "Code rain" },
     steel: { label: "Cold Steel", kit: "steel", fxLabel: "Grit: scratches and wear" },
+    rose: { label: "Rosé", kit: "rose", fxLabel: "Sparkles" },
     paper: { label: "Paper", kit: "paper", fxLabel: "" },
   };
   const DEFAULT_SKIN = "matrix";

@@ -54,10 +54,12 @@ python3 -m http.server -d docs 8000               # preview the site
 
 The gear menu switches between **Matrix** (default: a plain green-on-black
 terminal with code rain behind the masthead), **Cold Steel** (the plug-ins' own
-blue-black skin, with their textures) and **Paper**, and turns each skin's
-effects on or off (code rain; scratches and wear). The choice is saved in the
-browser. `docs/skin.js` applies it before paint; `docs/terminal.css` and
-`docs/steel.css` draw the two dark skins.
+blue-black skin, with their textures), **Rosé** (pink: blush by day, plum by
+night, with sparkles in the masthead) and **Paper**, and turns each skin's
+effects on or off (code rain; scratches and wear; sparkles). The choice is saved
+in the browser. `docs/skin.js` applies it before paint; `docs/terminal.css`,
+`docs/steel.css` and `docs/rose.css` draw those three skins, and Paper is the
+defaults in `docs/styles.css`.
 
 ## Editing sources
 
