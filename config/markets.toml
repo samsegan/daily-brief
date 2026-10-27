@@ -1,0 +1,247 @@
+# Numbers for the Markets section.
+#
+# provider: yahoo (Yahoo Finance chart data, for prices) or fred (St. Louis Fed,
+#   for official rates and economic series; free, no key, usually a day behind).
+# unit: points, usd, percent (shown as basis-point changes) or fx_rate.
+# transform: level, or yoy_percent (change from a year earlier; for monthly
+#   index series like CPI). Yahoo instruments only support level.
+# blurb: one plain-English line on what the number is and why anyone watches it.
+
+# --- US stocks -----------------------------------------------------------------
+
+[[instrument]]
+symbol = "^GSPC"
+name = "S&P 500"
+group = "us_stocks"
+unit = "points"
+provider = "yahoo"
+transform = "level"
+blurb = "500 of the largest US companies. The standard scoreboard for the US stock market."
+
+[[instrument]]
+symbol = "^IXIC"
+name = "Nasdaq Composite"
+group = "us_stocks"
+unit = "points"
+provider = "yahoo"
+transform = "level"
+blurb = "Heavy on tech companies, so it swings harder than the S&P 500 on tech news."
+
+[[instrument]]
+symbol = "^DJI"
+name = "Dow Jones Industrial Average"
+group = "us_stocks"
+unit = "points"
+provider = "yahoo"
+transform = "level"
+blurb = "30 big, established US companies. The oldest and most quoted index, but narrow."
+
+[[instrument]]
+symbol = "^RUT"
+name = "Russell 2000"
+group = "us_stocks"
+unit = "points"
+provider = "yahoo"
+transform = "level"
+blurb = "2,000 smaller US companies. More sensitive to interest rates and the domestic economy."
+
+# --- World stocks --------------------------------------------------------------
+
+[[instrument]]
+symbol = "^STOXX50E"
+name = "Euro Stoxx 50"
+group = "world_stocks"
+unit = "points"
+provider = "yahoo"
+transform = "level"
+blurb = "50 of the biggest companies in the eurozone."
+
+[[instrument]]
+symbol = "^FTSE"
+name = "FTSE 100"
+group = "world_stocks"
+unit = "points"
+provider = "yahoo"
+transform = "level"
+blurb = "The 100 largest companies on the London Stock Exchange."
+
+[[instrument]]
+symbol = "^N225"
+name = "Nikkei 225"
+group = "world_stocks"
+unit = "points"
+provider = "yahoo"
+transform = "level"
+blurb = "Japan's main stock index."
+
+[[instrument]]
+symbol = "^HSI"
+name = "Hang Seng"
+group = "world_stocks"
+unit = "points"
+provider = "yahoo"
+transform = "level"
+blurb = "Hong Kong's main index; a common read on investor mood about China."
+
+[[instrument]]
+symbol = "000001.SS"
+name = "Shanghai Composite"
+group = "world_stocks"
+unit = "points"
+provider = "yahoo"
+transform = "level"
+blurb = "Mainland China's main stock index."
+
+[[instrument]]
+symbol = "^BSESN"
+name = "Sensex"
+group = "world_stocks"
+unit = "points"
+provider = "yahoo"
+transform = "level"
+blurb = "30 large companies on India's Bombay Stock Exchange."
+
+# --- Rates ---------------------------------------------------------------------
+
+[[instrument]]
+symbol = "DFF"
+name = "Fed funds rate"
+group = "rates"
+unit = "percent"
+provider = "fred"
+transform = "level"
+blurb = "The overnight rate the Federal Reserve targets. Every other US interest rate keys off it."
+
+[[instrument]]
+symbol = "DGS2"
+name = "2-year Treasury yield"
+group = "rates"
+unit = "percent"
+provider = "fred"
+transform = "level"
+blurb = "What the US government pays to borrow for 2 years. Moves with expectations for Fed rate changes."
+
+[[instrument]]
+symbol = "DGS10"
+name = "10-year Treasury yield"
+group = "rates"
+unit = "percent"
+provider = "fred"
+transform = "level"
+blurb = "The government's 10-year borrowing cost. Mortgage rates and company borrowing costs follow it."
+
+[[instrument]]
+symbol = "MORTGAGE30US"
+name = "30-year mortgage rate"
+group = "rates"
+unit = "percent"
+provider = "fred"
+transform = "level"
+blurb = "Freddie Mac's weekly average for a 30-year fixed mortgage."
+
+# --- Economy -------------------------------------------------------------------
+
+[[instrument]]
+symbol = "CPIAUCSL"
+name = "Inflation (CPI, year over year)"
+group = "economy"
+unit = "percent"
+provider = "fred"
+transform = "yoy_percent"
+blurb = "How much consumer prices rose over the past year. The Fed aims for about 2%."
+
+[[instrument]]
+symbol = "UNRATE"
+name = "Unemployment rate"
+group = "economy"
+unit = "percent"
+provider = "fred"
+transform = "level"
+blurb = "Share of people looking for work who can't find it. From the monthly jobs report."
+
+# --- Commodities ---------------------------------------------------------------
+
+[[instrument]]
+symbol = "CL=F"
+name = "Crude oil (WTI)"
+group = "commodities"
+unit = "usd"
+provider = "yahoo"
+transform = "level"
+blurb = "US oil price per barrel. Feeds into gas prices and inflation."
+
+[[instrument]]
+symbol = "BZ=F"
+name = "Crude oil (Brent)"
+group = "commodities"
+unit = "usd"
+provider = "yahoo"
+transform = "level"
+blurb = "The global oil benchmark. Jumps on Middle East and Russia supply news."
+
+[[instrument]]
+symbol = "GC=F"
+name = "Gold"
+group = "commodities"
+unit = "usd"
+provider = "yahoo"
+transform = "level"
+blurb = "Price per ounce. Investors buy it when they're nervous or expect inflation."
+
+[[instrument]]
+symbol = "NG=F"
+name = "Natural gas"
+group = "commodities"
+unit = "usd"
+provider = "yahoo"
+transform = "level"
+blurb = "US natural gas price. Drives heating and electricity bills."
+
+# --- Currencies ----------------------------------------------------------------
+
+[[instrument]]
+symbol = "DX-Y.NYB"
+name = "US dollar index"
+group = "currencies"
+unit = "points"
+provider = "yahoo"
+transform = "level"
+blurb = "The dollar against six major currencies. Up means a stronger dollar."
+
+[[instrument]]
+symbol = "EURUSD=X"
+name = "Euro (USD per EUR)"
+group = "currencies"
+unit = "fx_rate"
+provider = "yahoo"
+transform = "level"
+blurb = "Dollars per euro. Up means the euro strengthened against the dollar."
+
+[[instrument]]
+symbol = "JPY=X"
+name = "Japanese yen (JPY per USD)"
+group = "currencies"
+unit = "fx_rate"
+provider = "yahoo"
+transform = "level"
+blurb = "Yen per dollar. Up means a weaker yen."
+
+[[instrument]]
+symbol = "CNY=X"
+name = "Chinese yuan (CNY per USD)"
+group = "currencies"
+unit = "fx_rate"
+provider = "yahoo"
+transform = "level"
+blurb = "Yuan per dollar. Beijing manages it closely, so moves are a policy signal."
+
+# --- Crypto --------------------------------------------------------------------
+
+[[instrument]]
+symbol = "BTC-USD"
+name = "Bitcoin"
+group = "crypto"
+unit = "usd"
+provider = "yahoo"
+transform = "level"
+blurb = "The largest cryptocurrency. Trades around the clock and swings far more than stocks."

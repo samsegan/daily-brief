@@ -1,0 +1,41 @@
+name: ingest
+
+# Fetches every feed, market series and trend signal and publishes the day's
+# bundle to the `ingest` branch (force-pushed, so main's history stays small).
+# The writer reads it from there; see .claude/skills/write-brief/SKILL.md.
+
+on:
+  schedule:
+    - cron: "10 10 * * *" # 6:10 a.m. New York in summer, 5:10 a.m. in winter
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+      - run: pip install .
+      - name: Fetch and cluster
+        run: python -m brief.ingest --out "$RUNNER_TEMP/ingest"
+      - name: Publish to the ingest branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        working-directory: ${{ runner.temp }}/ingest
+        run: |
+          git init -q -b ingest
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -qm "ingest $(ls *.json | head -1 | sed 's/.json//')"
+          git push -qf "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:ingest

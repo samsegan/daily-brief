@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="description" content="A personal daily news brief: what outlets agree on, where they differ, and what they left out.">
+  <title>Daily Brief</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Newsreader:opsz,wght@6..72,400;6..72,600;6..72,700&display=swap">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap masthead-row">
+      <div>
+        <h1 class="brand">Daily Brief</h1>
+        <p class="dateline" id="dateline"></p>
+      </div>
+      <label class="edition">
+        <span>Edition</span>
+        <select id="edition" aria-label="Choose an edition"></select>
+      </label>
+    </div>
+    <nav class="section-nav" aria-label="Sections">
+      <div class="wrap" id="section-nav"></div>
+    </nav>
+  </header>
+  <main class="wrap" id="app">
+    <p class="status">Loading the brief…</p>
+  </main>
+  <footer class="wrap footer" id="footer"></footer>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,464 @@
+# Outlets the brief reads.
+#
+# lean: an approximation from public media-bias charts (AllSides, Ad Fontes) for
+#   the outlet's news coverage, not its opinion pages. One of left, lean_left,
+#   center, lean_right, right. Edit freely.
+# paywalled: true when most articles are behind a paywall. The writer then works
+#   from the feed's headline and summary only and says so.
+# feeds: section is where the feed's articles are filed before clustering
+#   (us, world, business, nyc). kind is rss, or google_news for outlets with no
+#   RSS of their own.
+#
+# A feed that fails or goes stale shows up in the ingest bundle's errors; fix or
+# drop it here.
+
+# --- US national -------------------------------------------------------------
+
+[[source]]
+id = "nyt"
+name = "The New York Times"
+lean = "lean_left"
+paywalled = true
+feeds = [
+  { url = "https://rss.nytimes.com/services/xml/rss/nyt/US.xml", section = "us", kind = "rss" },
+  { url = "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml", section = "us", kind = "rss" },
+  { url = "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", section = "world", kind = "rss" },
+  { url = "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml", section = "business", kind = "rss" },
+  { url = "https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml", section = "nyc", kind = "rss" },
+]
+
+[[source]]
+id = "wsj"
+name = "The Wall Street Journal"
+lean = "center"
+paywalled = true
+feeds = [
+  { url = "https://feeds.content.dowjones.io/public/rss/RSSUSnews", section = "us", kind = "rss" },
+  { url = "https://feeds.content.dowjones.io/public/rss/RSSWorldNews", section = "world", kind = "rss" },
+  { url = "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain", section = "business", kind = "rss" },
+]
+
+[[source]]
+id = "wapo"
+name = "The Washington Post"
+lean = "lean_left"
+paywalled = true
+feeds = [
+  { url = "https://feeds.washingtonpost.com/rss/national", section = "us", kind = "rss" },
+  { url = "https://feeds.washingtonpost.com/rss/politics", section = "us", kind = "rss" },
+  { url = "https://feeds.washingtonpost.com/rss/world", section = "world", kind = "rss" },
+  { url = "https://feeds.washingtonpost.com/rss/business", section = "business", kind = "rss" },
+]
+
+[[source]]
+id = "ap"
+name = "Associated Press"
+lean = "lean_left"
+paywalled = false
+feeds = [
+  { url = "https://news.google.com/rss/search?q=site:apnews.com+when:1d&hl=en-US&gl=US&ceid=US:en", section = "us", kind = "google_news" },
+]
+
+[[source]]
+id = "reuters"
+name = "Reuters"
+lean = "center"
+paywalled = false
+feeds = [
+  { url = "https://news.google.com/rss/search?q=site:reuters.com/world+when:1d&hl=en-US&gl=US&ceid=US:en", section = "world", kind = "google_news" },
+  { url = "https://news.google.com/rss/search?q=site:reuters.com/business+when:1d&hl=en-US&gl=US&ceid=US:en", section = "business", kind = "google_news" },
+]
+
+[[source]]
+id = "npr"
+name = "NPR"
+lean = "lean_left"
+paywalled = false
+feeds = [
+  { url = "https://feeds.npr.org/1003/rss.xml", section = "us", kind = "rss" },
+  { url = "https://feeds.npr.org/1014/rss.xml", section = "us", kind = "rss" },
+  { url = "https://feeds.npr.org/1004/rss.xml", section = "world", kind = "rss" },
+  { url = "https://feeds.npr.org/1006/rss.xml", section = "business", kind = "rss" },
+]
+
+[[source]]
+id = "cnn"
+name = "CNN"
+lean = "lean_left"
+paywalled = false
+feeds = [
+  { url = "http://rss.cnn.com/rss/cnn_us.rss", section = "us", kind = "rss" },
+  { url = "http://rss.cnn.com/rss/cnn_world.rss", section = "world", kind = "rss" },
+]
+
+[[source]]
+id = "cbs"
+name = "CBS News"
+lean = "lean_left"
+paywalled = false
+feeds = [
+  { url = "https://www.cbsnews.com/latest/rss/us", section = "us", kind = "rss" },
+  { url = "https://www.cbsnews.com/latest/rss/politics", section = "us", kind = "rss" },
+  { url = "https://www.cbsnews.com/latest/rss/world", section = "world", kind = "rss" },
+]
+
+[[source]]
+id = "abc"
+name = "ABC News"
+lean = "lean_left"
+paywalled = false
+feeds = [
+  { url = "https://feeds.abcnews.com/abcnews/usheadlines", section = "us", kind = "rss" },
+  { url = "https://feeds.abcnews.com/abcnews/politicsheadlines", section = "us", kind = "rss" },
+  { url = "https://feeds.abcnews.com/abcnews/internationalheadlines", section = "world", kind = "rss" },
+]
+
+[[source]]
+id = "nbc"
+name = "NBC News"
+lean = "lean_left"
+paywalled = false
+feeds = [
+  { url = "https://feeds.nbcnews.com/nbcnews/public/news", section = "us", kind = "rss" },
+  { url = "https://feeds.nbcnews.com/nbcnews/public/politics", section = "us", kind = "rss" },
+  { url = "https://feeds.nbcnews.com/nbcnews/public/world", section = "world", kind = "rss" },
+]
+
+[[source]]
+id = "pbs"
+name = "PBS NewsHour"
+lean = "center"
+paywalled = false
+feeds = [
+  { url = "https://www.pbs.org/newshour/feeds/rss/headlines", section = "us", kind = "rss" },
+]
+
+[[source]]
+id = "politico"
+name = "Politico"
+lean = "lean_left"
+paywalled = false
+feeds = [
+  { url = "https://rss.politico.com/politics-news.xml", section = "us", kind = "rss" },
+  { url = "https://rss.politico.com/congress.xml", section = "us", kind = "rss" },
+]
+
+[[source]]
+id = "thehill"
+name = "The Hill"
+lean = "center"
+paywalled = false
+feeds = [
+  { url = "https://thehill.com/homenews/feed/", section = "us", kind = "rss" },
+  { url = "https://thehill.com/policy/international/feed/", section = "world", kind = "rss" },
+]
+
+[[source]]
+id = "axios"
+name = "Axios"
+lean = "center"
+paywalled = false
+feeds = [
+  { url = "https://api.axios.com/feed/", section = "us", kind = "rss" },
+]
+
+[[source]]
+id = "newsnation"
+name = "NewsNation"
+lean = "center"
+paywalled = false
+feeds = [
+  { url = "https://www.newsnationnow.com/feed/", section = "us", kind = "rss" },
+]
+
+[[source]]
+id = "fox"
+name = "Fox News"
+lean = "right"
+paywalled = false
+feeds = [
+  { url = "https://moxie.foxnews.com/google-publisher/us.xml", section = "us", kind = "rss" },
+  { url = "https://moxie.foxnews.com/google-publisher/politics.xml", section = "us", kind = "rss" },
+  { url = "https://moxie.foxnews.com/google-publisher/world.xml", section = "world", kind = "rss" },
+]
+
+[[source]]
+id = "nypost"
+name = "New York Post"
+lean = "lean_right"
+paywalled = false
+feeds = [
+  { url = "https://nypost.com/news/feed/", section = "us", kind = "rss" },
+  { url = "https://nypost.com/business/feed/", section = "business", kind = "rss" },
+  { url = "https://nypost.com/metro/feed/", section = "nyc", kind = "rss" },
+]
+
+[[source]]
+id = "washexaminer"
+name = "Washington Examiner"
+lean = "lean_right"
+paywalled = false
+feeds = [
+  { url = "https://www.washingtonexaminer.com/feed/", section = "us", kind = "rss" },
+]
+
+[[source]]
+id = "washtimes"
+name = "The Washington Times"
+lean = "lean_right"
+paywalled = false
+feeds = [
+  { url = "https://www.washingtontimes.com/rss/headlines/news/", section = "us", kind = "rss" },
+]
+
+[[source]]
+id = "nationalreview"
+name = "National Review"
+lean = "right"
+paywalled = false
+feeds = [
+  { url = "https://www.nationalreview.com/news/feed/", section = "us", kind = "rss" },
+]
+
+[[source]]
+id = "dispatch"
+name = "The Dispatch"
+lean = "lean_right"
+paywalled = true
+feeds = [
+  { url = "https://thedispatch.com/feed/", section = "us", kind = "rss" },
+]
+
+[[source]]
+id = "freepress"
+name = "The Free Press"
+lean = "lean_right"
+paywalled = false
+feeds = [
+  { url = "https://www.thefp.com/feed", section = "us", kind = "rss" },
+]
+
+# --- Business and markets ----------------------------------------------------
+
+[[source]]
+id = "bloomberg"
+name = "Bloomberg"
+lean = "lean_left"
+paywalled = true
+feeds = [
+  { url = "https://feeds.bloomberg.com/markets/news.rss", section = "business", kind = "rss" },
+  { url = "https://feeds.bloomberg.com/politics/news.rss", section = "us", kind = "rss" },
+]
+
+[[source]]
+id = "cnbc"
+name = "CNBC"
+lean = "lean_left"
+paywalled = false
+feeds = [
+  { url = "https://www.cnbc.com/id/100003114/device/rss/rss.html", section = "business", kind = "rss" },
+  { url = "https://www.cnbc.com/id/20910258/device/rss/rss.html", section = "business", kind = "rss" },
+]
+
+[[source]]
+id = "marketwatch"
+name = "MarketWatch"
+lean = "center"
+paywalled = false
+feeds = [
+  { url = "https://feeds.content.dowjones.io/public/rss/mw_topstories", section = "business", kind = "rss" },
+]
+
+[[source]]
+id = "ft"
+name = "Financial Times"
+lean = "center"
+paywalled = true
+feeds = [
+  { url = "https://www.ft.com/world?format=rss", section = "world", kind = "rss" },
+  { url = "https://www.ft.com/markets?format=rss", section = "business", kind = "rss" },
+]
+
+[[source]]
+id = "economist"
+name = "The Economist"
+lean = "lean_left"
+paywalled = true
+feeds = [
+  { url = "https://www.economist.com/united-states/rss.xml", section = "us", kind = "rss" },
+  { url = "https://www.economist.com/international/rss.xml", section = "world", kind = "rss" },
+  { url = "https://www.economist.com/finance-and-economics/rss.xml", section = "business", kind = "rss" },
+  { url = "https://www.economist.com/middle-east-and-africa/rss.xml", section = "world", kind = "rss" },
+  { url = "https://www.economist.com/asia/rss.xml", section = "world", kind = "rss" },
+]
+
+# --- World ---------------------------------------------------------------------
+
+[[source]]
+id = "bbc"
+name = "BBC News"
+lean = "center"
+paywalled = false
+feeds = [
+  { url = "https://feeds.bbci.co.uk/news/world/rss.xml", section = "world", kind = "rss" },
+  { url = "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml", section = "us", kind = "rss" },
+  { url = "https://feeds.bbci.co.uk/news/business/rss.xml", section = "business", kind = "rss" },
+]
+
+[[source]]
+id = "guardian"
+name = "The Guardian"
+lean = "lean_left"
+paywalled = false
+feeds = [
+  { url = "https://www.theguardian.com/world/rss", section = "world", kind = "rss" },
+  { url = "https://www.theguardian.com/us-news/rss", section = "us", kind = "rss" },
+  { url = "https://www.theguardian.com/business/rss", section = "business", kind = "rss" },
+]
+
+[[source]]
+id = "dw"
+name = "Deutsche Welle"
+lean = "center"
+paywalled = false
+feeds = [
+  { url = "https://rss.dw.com/rdf/rss-en-all", section = "world", kind = "rss" },
+]
+
+[[source]]
+id = "france24"
+name = "France 24"
+lean = "center"
+paywalled = false
+feeds = [
+  { url = "https://www.france24.com/en/rss", section = "world", kind = "rss" },
+]
+
+[[source]]
+id = "nikkei"
+name = "Nikkei Asia"
+lean = "center"
+paywalled = true
+feeds = [
+  { url = "https://asia.nikkei.com/rss/feed/nar", section = "world", kind = "rss" },
+]
+
+[[source]]
+id = "scmp"
+name = "South China Morning Post"
+lean = "center"
+paywalled = true
+feeds = [
+  { url = "https://www.scmp.com/rss/91/feed", section = "world", kind = "rss" },
+]
+
+[[source]]
+id = "japantimes"
+name = "The Japan Times"
+lean = "center"
+paywalled = false
+feeds = [
+  { url = "https://www.japantimes.co.jp/feed/", section = "world", kind = "rss" },
+]
+
+[[source]]
+id = "thehindu"
+name = "The Hindu"
+lean = "center"
+paywalled = false
+feeds = [
+  { url = "https://www.thehindu.com/news/international/feeder/default.rss", section = "world", kind = "rss" },
+  { url = "https://www.thehindu.com/news/national/feeder/default.rss", section = "world", kind = "rss" },
+]
+
+[[source]]
+id = "timesofisrael"
+name = "The Times of Israel"
+lean = "center"
+paywalled = false
+feeds = [
+  { url = "https://www.timesofisrael.com/feed/", section = "world", kind = "rss" },
+]
+
+[[source]]
+id = "kyivindependent"
+name = "The Kyiv Independent"
+lean = "center"
+paywalled = false
+feeds = [
+  { url = "https://kyivindependent.com/news-archive/rss/", section = "world", kind = "rss" },
+]
+
+[[source]]
+id = "dailymaverick"
+name = "Daily Maverick"
+lean = "center"
+paywalled = false
+feeds = [
+  { url = "https://www.dailymaverick.co.za/dmrss/", section = "world", kind = "rss" },
+]
+
+[[source]]
+id = "allafrica"
+name = "AllAfrica"
+lean = "center"
+paywalled = false
+feeds = [
+  { url = "https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf", section = "world", kind = "rss" },
+]
+
+# --- New York City -------------------------------------------------------------
+
+[[source]]
+id = "gothamist"
+name = "Gothamist"
+lean = "lean_left"
+paywalled = false
+feeds = [
+  { url = "https://gothamist.com/feed", section = "nyc", kind = "rss" },
+]
+
+[[source]]
+id = "thecity"
+name = "THE CITY"
+lean = "center"
+paywalled = false
+feeds = [
+  { url = "https://www.thecity.nyc/feed/", section = "nyc", kind = "rss" },
+]
+
+[[source]]
+id = "cityandstate"
+name = "City & State NY"
+lean = "center"
+paywalled = false
+feeds = [
+  { url = "https://www.cityandstateny.com/rss/all/", section = "nyc", kind = "rss" },
+]
+
+[[source]]
+id = "nydailynews"
+name = "New York Daily News"
+lean = "lean_left"
+paywalled = false
+feeds = [
+  { url = "https://www.nydailynews.com/feed/", section = "nyc", kind = "rss" },
+]
+
+[[source]]
+id = "amny"
+name = "amNY"
+lean = "center"
+paywalled = false
+feeds = [
+  { url = "https://www.amny.com/feed/", section = "nyc", kind = "rss" },
+]
+
+[[source]]
+id = "brooklynpaper"
+name = "Brooklyn Paper"
+lean = "center"
+paywalled = false
+feeds = [
+  { url = "https://www.brooklynpaper.com/feed/", section = "nyc", kind = "rss" },
+]
