@@ -1,0 +1,990 @@
+{
+  "stories": [
+    {
+      "id": "hutchinson-grand-jury-declines",
+      "headline": "Grand jury declines to indict former Trump aide Cassidy Hutchinson over Jan. 6 testimony",
+      "region": "Justice Dept.",
+      "importance": 5,
+      "summary": "A federal grand jury in Washington declined to indict Cassidy Hutchinson, the former White House aide whose 2022 testimony described President Trump's conduct on Jan. 6, 2021, according to people familiar with the matter cited by the AP, CNN and Fox News. Prosecutors had sought charges alleging she lied to Congress. Reports said it was unclear whether the Justice Department would try again.",
+      "why_it_matters": "Grand juries made up of ordinary citizens must agree before most federal charges go forward, and several outlets described this as the latest in a series of failed attempts to charge people the president sees as adversaries. The case also bears on whether witnesses who testify to Congress can later be prosecuted over their accounts; outlets across the spectrum reported it.",
+      "background": "Hutchinson was a top aide to Mark Meadows, President Trump's last White House chief of staff. In June 2022 she testified publicly to the House committee investigating the Jan. 6, 2021, attack on the Capitol, describing what she saw and heard of Trump's actions that day; Trump and some of his allies disputed parts of her account. In early October, Punchbowl News reported that the Justice Department was seeking to indict her on allegations that she lied to lawmakers. The effort is one of several the department has pursued against people Trump has publicly criticized, some of which have stalled in court or before grand juries.",
+      "facts": [
+        {
+          "text": "A federal grand jury in Washington, D.C., declined to indict Hutchinson over her testimony about the Jan. 6, 2021, Capitol riot, according to people familiar with the matter.",
+          "refs": [
+            "2d457700ff",
+            "67e5d7d0ab",
+            "e84d896ff9",
+            "e16a9362b2",
+            "e9ad2914b5",
+            "b1074396f0",
+            "ba49c8bef4"
+          ]
+        },
+        {
+          "text": "Prosecutors had sought to charge her over statements she made to the House Jan. 6 select committee, alleging that she lied to Congress.",
+          "refs": [
+            "e9ad2914b5",
+            "us-w1",
+            "us-w3"
+          ]
+        },
+        {
+          "text": "Punchbowl News reported in early October that the department was seeking an indictment and that prosecutors from its Civil Rights Division had presented evidence to a grand jury.",
+          "refs": [
+            "us-w3",
+            "us-w4"
+          ]
+        },
+        {
+          "text": "NBC News reported that the failed indictment is one of many for federal prosecutors during Trump's second term; the AP and The Wall Street Journal called it the latest setback in the department's efforts to charge people Trump views as adversaries.",
+          "refs": [
+            "e16a9362b2",
+            "de15d49f8d",
+            "b1074396f0"
+          ]
+        },
+        {
+          "text": "Hutchinson's lawyers did not respond to requests for comment, CNN reported.",
+          "refs": [
+            "67e5d7d0ab"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "e9ad2914b5",
+          "note": "Makes Hutchinson the subject: she 'avoids indictment,' and the department's effort 'fails.'"
+        },
+        {
+          "ref": "67e5d7d0ab",
+          "note": "Makes the Justice Department the subject and stresses its failure, identifying her by her testimony about Trump."
+        },
+        {
+          "ref": "e16a9362b2",
+          "note": "Calls her the Jan. 6 committee's 'star witness,' highlighting her role in the case against Trump."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "2d457700ff",
+          "takeaway": "Headline only in the digest: reports the grand jury refused to indict, citing AP sources; PBS, The Washington Times and The Washington Post ran the same story.",
+          "read_full": false
+        },
+        {
+          "ref": "de15d49f8d",
+          "takeaway": "PBS running the AP story; its summary calls the decision the latest setback in efforts to charge Trump's perceived adversaries.",
+          "read_full": false
+        },
+        {
+          "ref": "67e5d7d0ab",
+          "takeaway": "Headline only: reports, citing sources, that the department failed to win an indictment.",
+          "read_full": false
+        },
+        {
+          "ref": "e84d896ff9",
+          "takeaway": "Summary: prosecutors in Washington failed to secure an indictment over her Jan. 6 testimony.",
+          "read_full": false
+        },
+        {
+          "ref": "e16a9362b2",
+          "takeaway": "Summary: puts the decision among many failed indictments in Trump's second term.",
+          "read_full": false
+        },
+        {
+          "ref": "b1074396f0",
+          "takeaway": "Headline and summary only (paywalled): calls it another blow to the department's efforts against people Trump believes wronged him.",
+          "read_full": false
+        },
+        {
+          "ref": "ba49c8bef4",
+          "takeaway": "Headline and summary only (paywalled): describes it as an 'extraordinary setback' for Trump's campaign against opponents.",
+          "read_full": false
+        },
+        {
+          "ref": "e9ad2914b5",
+          "takeaway": "Summary: says she avoided indictment after a D.C. grand jury declined to charge her over statements to the committee.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w1",
+          "takeaway": "Found via search: reports the grand jury rejected the department's proposed charges.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w3",
+          "takeaway": "Found via search: early-October report, relaying Punchbowl News, that the department was seeking an indictment.",
+          "read_full": false
+        }
+      ],
+      "social": "When the indictment push was first reported in early October, former Trump White House deputy press secretary Sarah Matthews, who also testified to the Jan. 6 committee, defended Hutchinson on X. We did not find a broad sample of reaction to the grand jury's decision itself."
+    },
+    {
+      "id": "methane-rule-rollback",
+      "headline": "Trump says he is ending Biden-era limits on methane from oil and gas drilling",
+      "region": "Environment",
+      "importance": 4,
+      "summary": "At a campaign rally in Lubbock, Texas, on Tuesday, President Trump said his administration is 'terminating' a Biden-era rule meant to cut methane emissions from oil and gas operations. The Environmental Protection Agency is proposing a rewrite that the administration says will save $45 billion. Environmental groups say the change would exempt many of the highest-polluting wells.",
+      "why_it_matters": "Methane leaks from wells and pipelines add to climate change and waste natural gas; the administration argues the rules drive up energy costs, while critics say loosening them means more pollution. A proposed rule normally goes through public comment before it can take effect.",
+      "background": "Methane, the main ingredient in natural gas, traps far more heat than carbon dioxide in its first couple of decades in the atmosphere, and oil and gas operations are a major source. In 2024 the Biden administration's EPA finalized rules requiring companies to find and fix leaks, phase out routine flaring and respond to large leaks flagged by outside monitors through a 'super emitter' program. Small producers and many oil-state Republicans opposed the rules as costly. Under Administrator Lee Zeldin, the EPA made narrower changes in April 2026 and previewed a broader rewrite in early October.",
+      "facts": [
+        {
+          "text": "Trump said at a rally in Lubbock, Texas, on Tuesday that his administration is 'terminating' Biden-era methane regulations for oil and gas companies.",
+          "refs": [
+            "350cd3fc69",
+            "a47752acaf",
+            "05c909c3ec"
+          ]
+        },
+        {
+          "text": "The Washington Free Beacon reported before the rally that Trump would announce an EPA proposal rolling back the Biden-era limits.",
+          "refs": [
+            "3222f4859a"
+          ]
+        },
+        {
+          "text": "Trump cited $45 billion in savings; the Free Beacon described it as savings for Americans in energy costs.",
+          "refs": [
+            "4775f5477e",
+            "3222f4859a"
+          ]
+        },
+        {
+          "text": "In early October, Zeldin said the EPA was days away from proposing the changes, and the agency said the rollback would save $45 billion in regulatory costs, Source NM reported.",
+          "refs": [
+            "us-w5"
+          ]
+        },
+        {
+          "text": "According to Source NM, the proposal would eliminate the super emitter program, which lets outside parties report large leaks for operators to fix, and would offer options for regulating low-producing 'marginal' wells.",
+          "refs": [
+            "us-w5"
+          ]
+        },
+        {
+          "text": "Small fossil-fuel producers have opposed the rules, The Wall Street Journal reported.",
+          "refs": [
+            "492667c5d3"
+          ]
+        },
+        {
+          "text": "The Environmental Defense Fund said the changes would create loopholes for low-producing, high-polluting well sites, which it says supply less than 5% of U.S. oil and gas but produce more than half of the industry's methane emissions.",
+          "refs": [
+            "us-w6"
+          ]
+        },
+        {
+          "text": "In April 2026, the EPA finalized two narrower changes to the Biden-era methane rule.",
+          "refs": [
+            "us-w7"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "3222f4859a",
+          "note": "Leads with the claimed $45 billion savings for Americans and calls it curbing drilling regulations; methane isn't in the headline."
+        },
+        {
+          "ref": "a47752acaf",
+          "note": "Calls it 'climate-warming methane' and frames the move as Trump's own claim ('Trump says')."
+        },
+        {
+          "ref": "21f0d05744",
+          "note": "Says Trump 'drastically' loosens the rules; its summary ties the move to midterm energy-cost politics and the Iran war's effect on oil prices."
+        },
+        {
+          "ref": "4775f5477e",
+          "note": "Pairs the 'end of Biden-era' rule with Trump's $45 billion savings figure."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "3222f4859a",
+          "takeaway": "Summary: reported in advance that Trump would announce an EPA proposal it said could save Americans $45 billion.",
+          "read_full": false
+        },
+        {
+          "ref": "492667c5d3",
+          "takeaway": "Headline and summary only (paywalled): notes small producers' opposition to the rules.",
+          "read_full": false
+        },
+        {
+          "ref": "a47752acaf",
+          "takeaway": "Headline only: Trump says he's ending restrictions on methane; NPR ran the same AP story.",
+          "read_full": false
+        },
+        {
+          "ref": "ee3ebfe71c",
+          "takeaway": "NPR running the AP story; summary quotes Trump saying the rule is being 'terminated.'",
+          "read_full": false
+        },
+        {
+          "ref": "d9a931a218",
+          "takeaway": "Summary: the EPA plans to ease leak rules, with context on methane's role in climate change.",
+          "read_full": false
+        },
+        {
+          "ref": "4775f5477e",
+          "takeaway": "Headline only: Trump announces the end of the rule, citing $45 billion in savings.",
+          "read_full": false
+        },
+        {
+          "ref": "05c909c3ec",
+          "takeaway": "Headline only: places the announcement at the Texas rally.",
+          "read_full": false
+        },
+        {
+          "ref": "21f0d05744",
+          "takeaway": "Summary: ties the move to bringing down energy costs before the midterms.",
+          "read_full": false
+        },
+        {
+          "ref": "350cd3fc69",
+          "takeaway": "Summary: leads with critics' climate warnings alongside Trump's claim of billions in savings.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w5",
+          "takeaway": "Found via search: early-October report on Zeldin's preview of the rewrite and its main provisions.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w6",
+          "takeaway": "Advocacy group's statement opposing the repeal.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "texas-senate-lubbock-rallies",
+      "headline": "Trump rallies for Paxton in Texas as Talarico holds rival event in Lubbock",
+      "region": "Elections",
+      "importance": 4,
+      "summary": "A week before the Nov. 3 midterms, President Trump held two rallies in Texas on Tuesday to help Republican Ken Paxton in a close U.S. Senate race against Democrat James Talarico. Paxton and Talarico held dueling events in Lubbock on either side of a city park, where Talarico vowed to 'take back Texas.' Democrats call the race their best chance in a generation to win a Senate seat in the state.",
+      "why_it_matters": "Texas is one of a handful of races that could decide which party controls the Senate, which confirms judges and cabinet members and shapes which bills become law. Most of the coverage came from left-leaning outlets; Fox News focused on a speaker at a Talarico rally who called for abolishing ICE.",
+      "background": "Ken Paxton, Texas's Republican attorney general, won his party's Senate nomination by defeating Sen. John Cornyn in a May runoff. James Talarico, a Democratic state representative and former teacher, is trying to become the first Democrat to win a Senate race in Texas since 1988. Polls have shown a close contest, and Trump has traveled to the state repeatedly in the campaign's final weeks. Lubbock, in West Texas, is a heavily Republican city.",
+      "facts": [
+        {
+          "text": "Trump held two campaign rallies in Texas on Tuesday, a week before Election Day, to try to keep the state's Senate seat in Republican hands.",
+          "refs": [
+            "e6e49a894a",
+            "7c9c757c2d",
+            "6435ba252d"
+          ]
+        },
+        {
+          "text": "The Washington Post said it was Trump's third trip to Texas in the push.",
+          "refs": [
+            "7c9c757c2d"
+          ]
+        },
+        {
+          "text": "Paxton and Talarico held dueling rallies in Lubbock, on either side of a city park.",
+          "refs": [
+            "a569824f3e",
+            "e2ff4fa77b",
+            "e6e49a894a"
+          ]
+        },
+        {
+          "text": "Talarico vowed to 'take back Texas.'",
+          "refs": [
+            "6435ba252d"
+          ]
+        },
+        {
+          "text": "NBC News reported strong voter enthusiasm in Lubbock, a city of fewer than 300,000, and said Democrats call the race their best chance in a generation.",
+          "refs": [
+            "4b55bdcaf1"
+          ]
+        },
+        {
+          "text": "Trump used the Lubbock rally to announce he is ending Biden-era methane rules for oil and gas.",
+          "refs": [
+            "350cd3fc69",
+            "05c909c3ec"
+          ]
+        },
+        {
+          "text": "Fox News reported that a warm-up speaker at a Talarico rally, Malik Williams, called for abolishing ICE and legalizing cannabis, and noted that Talarico had recently denied supporting abolishing ICE.",
+          "refs": [
+            "9a86b79a15"
+          ]
+        },
+        {
+          "text": "Before the trip, Fox 4 in Dallas-Fort Worth reported that recent polling showed Talarico with a one-point lead.",
+          "refs": [
+            "us-w10"
+          ]
+        },
+        {
+          "text": "Paxton won the Republican nomination by defeating Sen. John Cornyn in a May 26 runoff.",
+          "refs": [
+            "us-w11"
+          ]
+        },
+        {
+          "text": "CNN reported strong early-voting numbers in Texas.",
+          "refs": [
+            "2f443a0163"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "e2ff4fa77b",
+          "note": "Casts the contest as Trump versus Talarico, leaving Paxton out of the headline, and stresses the 'deep-red' setting."
+        },
+        {
+          "ref": "e6e49a894a",
+          "note": "Names the two candidates, Talarico and Paxton, as the rivals."
+        },
+        {
+          "ref": "9a86b79a15",
+          "note": "Focuses on a warm-up speaker's call to abolish ICE and contrasts it with Talarico's own message."
+        },
+        {
+          "ref": "7c9c757c2d",
+          "note": "Frames the trip as a last-minute defensive push to keep Texas Republican."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "e2ff4fa77b",
+          "takeaway": "Headline only: dueling Trump and Talarico rallies in a deep-red city.",
+          "read_full": false
+        },
+        {
+          "ref": "e6e49a894a",
+          "takeaway": "Video summary: Trump staged two Texas rallies a week out, hoping to deny Democrats a win.",
+          "read_full": false
+        },
+        {
+          "ref": "4b55bdcaf1",
+          "takeaway": "Summary: highlights Democratic enthusiasm in Lubbock and the stakes of a close race.",
+          "read_full": false
+        },
+        {
+          "ref": "9a86b79a15",
+          "takeaway": "Summary: focuses on a warm-up act's call to abolish ICE at Talarico's rally.",
+          "read_full": false
+        },
+        {
+          "ref": "a569824f3e",
+          "takeaway": "Headline and summary only (paywalled): describes a showdown on either side of a city park.",
+          "read_full": false
+        },
+        {
+          "ref": "7c9c757c2d",
+          "takeaway": "Headline only (paywalled): Trump's third trip to keep Texas Republican.",
+          "read_full": false
+        },
+        {
+          "ref": "6435ba252d",
+          "takeaway": "Headline only: Talarico vows to 'take back Texas' as Trump campaigns there.",
+          "read_full": false
+        },
+        {
+          "ref": "2f443a0163",
+          "takeaway": "Headline only: strong early voting in Texas.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w10",
+          "takeaway": "Found via search: preview of the trip, citing a close poll.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w11",
+          "takeaway": "Found via search: first poll after Paxton's runoff win over Cornyn.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "dolores-huerta-dies",
+      "headline": "Dolores Huerta, farmworker organizer and United Farm Workers co-founder, dies at 96",
+      "region": "",
+      "importance": 3,
+      "summary": "Dolores Huerta, the labor and civil rights organizer who co-founded what became the United Farm Workers with César Chávez, died Wednesday at 96, her family announced on Instagram. She coined the rallying cry 'Sí, se puede' and kept working on immigration and voting issues late in life. Earlier this year she said publicly that Chávez had raped her decades ago.",
+      "why_it_matters": "Huerta helped win wage, safety and bargaining protections for farmworkers, the mostly Latino laborers who pick much of the country's fruit and vegetables, and her slogan became a widely used political rallying cry. Outlets across the spectrum covered her death.",
+      "background": "Huerta was born in New Mexico in 1930 and grew up in Stockton, California, where she worked as a teacher before turning to organizing. In 1962 she and Chávez founded the National Farm Workers Association, which led strikes and a national grape boycott and later became the United Farm Workers. She negotiated contracts with growers and lobbied for laws protecting farmworkers, and President Barack Obama awarded her the Presidential Medal of Freedom in 2012. In March 2026, after a New York Times investigation reported that Chávez had sexually abused women and minors, Huerta said he had pressured her into sex in her 20s and later raped her.",
+      "facts": [
+        {
+          "text": "Huerta died Wednesday at 96, her family announced on social media.",
+          "refs": [
+            "dd6746a93c",
+            "e7bc75d647"
+          ]
+        },
+        {
+          "text": "She co-founded the United Farm Workers with César Chávez.",
+          "refs": [
+            "dc3fc23dae",
+            "460e09f7cf",
+            "dd6746a93c",
+            "e2a33895b6"
+          ]
+        },
+        {
+          "text": "She coined the phrase 'Sí, se puede,' which became a widespread rallying cry.",
+          "refs": [
+            "ee3ebfe71c",
+            "dd6746a93c"
+          ]
+        },
+        {
+          "text": "She fought for farmworkers' rights in the 1960s and 1970s and continued to work on immigration and voting issues.",
+          "refs": [
+            "addc61724c"
+          ]
+        },
+        {
+          "text": "NBC News wrote that her work improved the lives of the country's mostly Latino farmworkers and changed the course of the labor movement.",
+          "refs": [
+            "dc3fc23dae"
+          ]
+        },
+        {
+          "text": "In March, Huerta told ABC News that Chávez pressured her into sex when she was in her 20s and later raped her, and that she had two children as a result whom she arranged to be raised by other families.",
+          "refs": [
+            "us-w8",
+            "e7bc75d647"
+          ]
+        },
+        {
+          "text": "Her account followed a New York Times investigation that reported Chávez had groomed and sexually abused women and minors.",
+          "refs": [
+            "us-w8"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "e7bc75d647",
+          "note": "Pairs 'civil rights legend' with her rape claims against Chávez in the headline."
+        },
+        {
+          "ref": "3a70fa141c",
+          "note": "'Pioneering labor leader and civil rights icon,' centered on her legacy."
+        },
+        {
+          "ref": "460e09f7cf",
+          "note": "Adds 'feminist' to her labor and civil rights roles."
+        },
+        {
+          "ref": "ec99c525c8",
+          "note": "Calls her a 'force for human rights,' a broader framing than labor."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "dd6746a93c",
+          "takeaway": "Summary: family announced the death on Instagram; notes her slogan and union role.",
+          "read_full": false
+        },
+        {
+          "ref": "dc3fc23dae",
+          "takeaway": "Summary: stresses her impact on Latino farmworkers and the labor movement.",
+          "read_full": false
+        },
+        {
+          "ref": "e7bc75d647",
+          "takeaway": "Summary: obituary that foregrounds her rape claims against Chávez.",
+          "read_full": false
+        },
+        {
+          "ref": "addc61724c",
+          "takeaway": "Summary: notes her later work on immigration and voting.",
+          "read_full": false
+        },
+        {
+          "ref": "e2a33895b6",
+          "takeaway": "Summary: co-founded the group that later became the UFW.",
+          "read_full": false
+        },
+        {
+          "ref": "460e09f7cf",
+          "takeaway": "Headline only: the AP obituary; NPR ran the same story.",
+          "read_full": false
+        },
+        {
+          "ref": "ee3ebfe71c",
+          "takeaway": "NPR running the AP obituary; summary credits her with the 'Sí, se puede' slogan.",
+          "read_full": false
+        },
+        {
+          "ref": "3a70fa141c",
+          "takeaway": "Headline only: pioneering labor leader and civil rights icon.",
+          "read_full": false
+        },
+        {
+          "ref": "ec99c525c8",
+          "takeaway": "Headline only: labor leader and force for human rights.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w8",
+          "takeaway": "Found via search: March interview in which Huerta described Chávez's abuse.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "alexander-brothers-sentenced",
+      "headline": "Alexander brothers, once top luxury real estate brokers, each sentenced to 30 years for sex trafficking",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "A federal judge in Manhattan on Tuesday sentenced Tal and Oren Alexander, once prominent luxury real estate brokers, and their brother Alon to 30 years in prison each for sex trafficking. Eleven women spoke at the hearing about being drugged and raped. The brothers, convicted in March, said the case is 'far from over.'",
+      "why_it_matters": "The sentences close the trial phase of one of the most prominent sex-trafficking prosecutions in years, a case in which prosecutors said wealth and social status were used to lure women. The brothers have said they will appeal.",
+      "background": "Tal and Oren Alexander were well-known brokers of high-end homes in Miami and New York, and their brother Alon worked in private security. They were arrested in December 2024 and charged with sex trafficking after dozens of women accused them of drugging and assaulting them at parties and on trips over more than a decade. A federal jury in Manhattan convicted all three in March 2026 after a five-week trial in which 11 women testified. Prosecutors asked for life sentences; the brothers maintain their innocence.",
+      "facts": [
+        {
+          "text": "Tal, Oren and Alon Alexander were each sentenced to 30 years in prison on Tuesday for sex trafficking.",
+          "refs": [
+            "eb4b7d3c7a",
+            "93607e3ee2",
+            "0cd7b42c1f",
+            "7a64b6f22b",
+            "739db5304d",
+            "18c18e8a62"
+          ]
+        },
+        {
+          "text": "Eleven victims spoke before the sentence was imposed, describing being drugged and raped by the brothers.",
+          "refs": [
+            "739db5304d",
+            "eb4b7d3c7a"
+          ]
+        },
+        {
+          "text": "The brothers were found guilty of using their wealth and social status to lure women to parties and then drugging and raping them; prosecutors said dozens of women were involved.",
+          "refs": [
+            "7a64b6f22b",
+            "0cd7b42c1f",
+            "93607e3ee2"
+          ]
+        },
+        {
+          "text": "A jury in Manhattan federal court convicted the three in March after a five-week trial, and the case was before U.S. District Judge Valerie Caproni.",
+          "refs": [
+            "us-w15",
+            "us-w16"
+          ]
+        },
+        {
+          "text": "Prosecutors had asked for life sentences, calling the crimes 'of extraordinary magnitude.'",
+          "refs": [
+            "us-w16"
+          ]
+        },
+        {
+          "text": "After the sentencing, the brothers said the 'case is far from over,' The New York Sun reported.",
+          "refs": [
+            "bf9b508930"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "eb4b7d3c7a",
+          "note": "Leads with the women's accounts of being drugged and raped."
+        },
+        {
+          "ref": "84d122451f",
+          "note": "'Once high-flying' emphasizes the brothers' fall from wealth and status."
+        },
+        {
+          "ref": "cb5e29aa39",
+          "note": "Identifies them as Israeli-American brothers."
+        },
+        {
+          "ref": "bf9b508930",
+          "note": "Leads with the brothers' vow that the case is 'far from over.'"
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "eb4b7d3c7a",
+          "takeaway": "Headline only: 30 years each after women describe being drugged and raped.",
+          "read_full": false
+        },
+        {
+          "ref": "93607e3ee2",
+          "takeaway": "Summary: straight sentencing story noting prosecutors' account of dozens of women.",
+          "read_full": false
+        },
+        {
+          "ref": "0cd7b42c1f",
+          "takeaway": "Summary: convicted of drugging and raping dozens of women.",
+          "read_full": false
+        },
+        {
+          "ref": "7a64b6f22b",
+          "takeaway": "Summary: found guilty of using social status to lure women to parties.",
+          "read_full": false
+        },
+        {
+          "ref": "739db5304d",
+          "takeaway": "Headline and summary only (paywalled): 11 victims spoke at sentencing.",
+          "read_full": false
+        },
+        {
+          "ref": "18c18e8a62",
+          "takeaway": "Headline and summary only (paywalled): former real estate stars sentenced.",
+          "read_full": false
+        },
+        {
+          "ref": "84d122451f",
+          "takeaway": "Headline only: once high-flying brothers get 30-year terms.",
+          "read_full": false
+        },
+        {
+          "ref": "cb5e29aa39",
+          "takeaway": "Headline only: notes the brothers are Israeli-American.",
+          "read_full": false
+        },
+        {
+          "ref": "bf9b508930",
+          "takeaway": "Headline only: leads with the brothers' response.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w15",
+          "takeaway": "Found via search: March report on the convictions.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w16",
+          "takeaway": "Found via search: October report on prosecutors' request for life sentences.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "essayli-unlawfully-serving",
+      "headline": "Judge rules Trump's top prosecutor in Los Angeles is not lawfully serving",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "A federal judge ruled Tuesday that Bill Essayli, who runs the U.S. attorney's office in Los Angeles under the title of first assistant, is unlawfully serving as the office's top prosecutor. Essayli, a Trump ally and former Republican state lawmaker who has not been confirmed by the Senate, said the Supreme Court will ultimately decide the question.",
+      "why_it_matters": "The ruling adds to court decisions questioning how the administration has kept prosecutors in charge without Senate confirmation, an issue defense lawyers have used to challenge criminal cases. Essayli's office handles federal cases for the Los Angeles area, the country's most populous federal court district.",
+      "background": "U.S. attorneys are normally nominated by the president and confirmed by the Senate, and federal law limits how long interim or acting officials can serve. Essayli was named interim U.S. attorney for the Central District of California in 2025; when his 120-day term ran out, the Justice Department kept him in charge as first assistant. In October 2025, Judge J. Michael Seabright ruled that he could not serve as acting U.S. attorney but let him keep supervising cases as first assistant. Defense lawyers renewed their challenge after the Ninth Circuit appeals court ruled against a similar arrangement for Nevada's top federal prosecutor, Sigal Chattah, which the Justice Department has taken to the Supreme Court.",
+      "facts": [
+        {
+          "text": "U.S. District Judge J. Michael Seabright ruled Tuesday that Essayli, the first assistant U.S. attorney for the Central District of California, is unlawfully serving as the top federal prosecutor in Los Angeles.",
+          "refs": [
+            "4faac53d47",
+            "26e903db99",
+            "0cded5e63c",
+            "ecc969ddc9"
+          ]
+        },
+        {
+          "text": "Fox News reported that the judge found Essayli was serving as a de facto U.S. attorney.",
+          "refs": [
+            "ecc969ddc9"
+          ]
+        },
+        {
+          "text": "The Guardian reported that the judge disqualified Essayli, a former Republican state lawmaker and ally of the president who has not been confirmed by the Senate.",
+          "refs": [
+            "0cded5e63c",
+            "4faac53d47"
+          ]
+        },
+        {
+          "text": "Essayli said the Supreme Court will ultimately decide his fate.",
+          "refs": [
+            "ecc969ddc9"
+          ]
+        },
+        {
+          "text": "In October 2025, Seabright ruled that Essayli was not lawfully serving as acting U.S. attorney but let him stay on as first assistant and declined to dismiss indictments; Essayli said then that 'nothing is changing.'",
+          "refs": [
+            "us-w12",
+            "us-w14"
+          ]
+        },
+        {
+          "text": "Defense lawyers renewed the push to remove Essayli after a Ninth Circuit ruling that Nevada's top prosecutor was serving as a de facto acting U.S. attorney; the Justice Department has appealed that ruling to the Supreme Court.",
+          "refs": [
+            "us-w13",
+            "us-w18"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "ecc969ddc9",
+          "note": "Names Essayli and uses 'de facto US attorney'; its summary gives his view that the Supreme Court will decide."
+        },
+        {
+          "ref": "0cded5e63c",
+          "note": "Calls him a 'Trump-appointed prosecutor' and leads with the judge's 'unlawfully serving.'"
+        },
+        {
+          "ref": "26e903db99",
+          "note": "Plain 'isn't legally serving,' focused on the office rather than the person or the president."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "0cded5e63c",
+          "takeaway": "Summary: stresses his lack of Senate confirmation and ties to the president.",
+          "read_full": false
+        },
+        {
+          "ref": "26e903db99",
+          "takeaway": "Headline only: judge rules the LA prosecutor isn't legally serving; ABC ran the same AP story.",
+          "read_full": false
+        },
+        {
+          "ref": "ecc969ddc9",
+          "takeaway": "Summary: includes Essayli's response that the Supreme Court will decide.",
+          "read_full": false
+        },
+        {
+          "ref": "4faac53d47",
+          "takeaway": "Summary: names Judge Seabright and Essayli's first-assistant title.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w12",
+          "takeaway": "Found via search: 2025 report on Seabright's first ruling.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w13",
+          "takeaway": "Found via search: report on the renewed challenge after the Nevada ruling.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "us-cuba-un-shouting-match",
+      "headline": "U.S. and Cuban officials trade shouts at the U.N. during embargo debate",
+      "region": "Diplomacy",
+      "importance": 2,
+      "summary": "U.S. Ambassador Mike Waltz and Cuban officials got into a shouting match on the floor of the U.N. General Assembly on Tuesday during debate on Cuba's yearly resolution calling for an end to the U.S. economic embargo. Waltz had accused Cuba's government of corruption and of profiting from its citizens' forced labor; he later posted video of Cuban officials standing and speaking while he was at the podium.",
+      "why_it_matters": "The resolution is non-binding, and only Congress can fully lift the embargo, which has limited U.S. trade with and travel to Cuba for more than six decades. Outlets on the left, center and right covered the confrontation.",
+      "background": "The United States has kept a trade embargo on Cuba since the early 1960s, after Fidel Castro's revolution, and a 1996 law wrote it into statute. Since 1992 Cuba has asked the U.N. General Assembly every year to call for its end. Last year the resolution passed 165 to 7 with 12 abstentions, with the United States, Israel, Argentina and Hungary among the no votes. Waltz, a former Republican congressman and national security adviser, became U.N. ambassador in 2025.",
+      "facts": [
+        {
+          "text": "U.S. and Cuban officials engaged in a shouting match on the floor of the U.N. General Assembly on Tuesday during a debate over the U.S. economic embargo.",
+          "refs": [
+            "b8a7ca74bb",
+            "507575ce14",
+            "3d1f555534",
+            "abd74316a6"
+          ]
+        },
+        {
+          "text": "The row broke out during debate on a non-binding resolution calling for an end to the embargo, which Cuba has put forward every year since 1992.",
+          "refs": [
+            "507575ce14"
+          ]
+        },
+        {
+          "text": "Cuban delegates reacted after Waltz said the Havana government had profited from the forced labor of its citizens.",
+          "refs": [
+            "3d1f555534"
+          ]
+        },
+        {
+          "text": "Waltz and Cuba's foreign minister traded words as Waltz accused Cuba's government of corruption, NBC News reported.",
+          "refs": [
+            "abd74316a6"
+          ]
+        },
+        {
+          "text": "Waltz posted a video of the confrontation that shows Cuban officials standing and speaking while he was at the podium.",
+          "refs": [
+            "55524cec6d"
+          ]
+        },
+        {
+          "text": "Waltz said Cuban Foreign Minister Bruno Rodríguez tried to intimidate him in the middle of his speech.",
+          "refs": [
+            "3d1df8642e"
+          ]
+        },
+        {
+          "text": "In 2025 the General Assembly adopted the resolution by 165 votes to 7, with 12 abstentions.",
+          "refs": [
+            "us-w17"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "3d1f555534",
+          "note": "Leads with a 'You're lying' quote, putting the heated exchange first."
+        },
+        {
+          "ref": "3d1df8642e",
+          "note": "Takes Waltz's account that the Cuban minister tried to intimidate him."
+        },
+        {
+          "ref": "507575ce14",
+          "note": "Says the shouting 'derails' the debate, emphasizing disruption of U.N. business."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "b8a7ca74bb",
+          "takeaway": "Headline only: shouting match during the embargo debate; ABC and The Washington Times ran the same AP story.",
+          "read_full": false
+        },
+        {
+          "ref": "3d1f555534",
+          "takeaway": "Video summary: Cuban delegates reacted to Waltz's forced-labor claims.",
+          "read_full": false
+        },
+        {
+          "ref": "abd74316a6",
+          "takeaway": "Video summary: Waltz accused Cuba's government of corruption.",
+          "read_full": false
+        },
+        {
+          "ref": "507575ce14",
+          "takeaway": "Summary: explains the yearly non-binding resolution.",
+          "read_full": false
+        },
+        {
+          "ref": "55524cec6d",
+          "takeaway": "Summary: describes the video Waltz posted of the confrontation.",
+          "read_full": false
+        },
+        {
+          "ref": "3d1df8642e",
+          "takeaway": "Headline and summary: Waltz's account that he was being intimidated.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w17",
+          "takeaway": "U.N. account of last year's vote.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "us-w1",
+      "url": "https://thehill.com/homenews/administration/6176826-grand-jury-rejects-hutchinson-indictment/",
+      "title": "Cassidy Hutchinson avoids indictment as grand jury rejects Justice Department charges",
+      "outlet": "The Hill"
+    },
+    {
+      "id": "us-w3",
+      "url": "https://thefederalist.com/2026/10/09/report-doj-seeking-cassidy-hutchinson-indictment-for-lying-to-congress-about-jan-6/",
+      "title": "Report: DOJ seeking Cassidy Hutchinson indictment for lying to Congress about Jan. 6",
+      "outlet": "The Federalist"
+    },
+    {
+      "id": "us-w4",
+      "url": "https://www.rawstory.com/trump-doj-2678063341/",
+      "title": "Report on prosecutors presenting evidence against Cassidy Hutchinson to a grand jury (citing Punchbowl News)",
+      "outlet": "Raw Story"
+    },
+    {
+      "id": "us-w5",
+      "url": "https://sourcenm.com/?p=33014",
+      "title": "EPA head announces oil and gas emission rules rollbacks during visit to Santa Fe",
+      "outlet": "Source NM"
+    },
+    {
+      "id": "us-w6",
+      "url": "https://www.edf.org/Zu34",
+      "title": "Statement: EPA's methane repeal would put polluters first and waste America's energy",
+      "outlet": "Environmental Defense Fund"
+    },
+    {
+      "id": "us-w7",
+      "url": "https://www.eenews.net/articles/epa-eases-discrete-parts-of-biden-methane-rule/",
+      "title": "EPA eases 'discrete' parts of Biden methane rule",
+      "outlet": "E&E News"
+    },
+    {
+      "id": "us-w8",
+      "url": "https://abc7news.com/post/cesar-chavez-abuse-allegations-dolores-huerta-speaks-abc-news-camera-first-time-sharing/18737078/",
+      "title": "Dolores Huerta opens up about Cesar Chavez abuse allegations: 'It was very hard to keep this'",
+      "outlet": "ABC7 (ABC News)"
+    },
+    {
+      "id": "us-w10",
+      "url": "https://www.fox4news.com/news/trump-campaign-lubbock-corpus-christi-texas-senate-race-tightens",
+      "title": "Trump to campaign in Lubbock and Corpus Christi as Texas Senate race tightens",
+      "outlet": "FOX 4 Dallas-Fort Worth"
+    },
+    {
+      "id": "us-w11",
+      "url": "https://www.fox7austin.com/election/talarico-leads-paxton-first-post-runoff-poll-senate-race",
+      "title": "Talarico leads Paxton in first post-runoff poll of Senate race",
+      "outlet": "FOX 7 Austin"
+    },
+    {
+      "id": "us-w12",
+      "url": "https://www.nbcnews.com/politics/justice-department/federal-judge-rules-us-attorney-california-unlawfully-serving-role-rcna240409",
+      "title": "Federal judge rules U.S. attorney in California has been 'unlawfully serving' in role",
+      "outlet": "NBC News"
+    },
+    {
+      "id": "us-w13",
+      "url": "https://news.bloomberglaw.com/litigation/effort-to-remove-la-us-attorney-is-renewed-after-chattah-ruling",
+      "title": "Effort to Remove LA US Attorney Is Renewed After Chattah Ruling",
+      "outlet": "Bloomberg Law"
+    },
+    {
+      "id": "us-w14",
+      "url": "https://sjvsun.com/california/essayli-says-nothing-changes-for-him-despite-judges-ruling/",
+      "title": "Essayli says nothing changes for him despite judge's ruling",
+      "outlet": "San Joaquin Valley Sun"
+    },
+    {
+      "id": "us-w15",
+      "url": "https://www.wgcu.org/2026-03-10/alexander-brothers-convicted-of-sex-trafficking-in-manhattan-federal-court",
+      "title": "Alexander brothers convicted of sex trafficking in Manhattan federal court",
+      "outlet": "WGCU"
+    },
+    {
+      "id": "us-w16",
+      "url": "https://news.bgov.com/new-york-brief/alexander-brothers-face-life-in-jail-over-extraordinary-crimes",
+      "title": "Alexander Brothers Face Life in Jail Over 'Extraordinary' Crimes",
+      "outlet": "Bloomberg Government"
+    },
+    {
+      "id": "us-w17",
+      "url": "https://dppa.un.org/en/amid-shifting-alliances-general-assembly-demands-end-to-us-embargo-cuba",
+      "title": "Amid shifting alliances, General Assembly demands end to US embargo on Cuba",
+      "outlet": "United Nations"
+    },
+    {
+      "id": "us-w18",
+      "url": "https://news.bloomberglaw.com/litigation/hawaii-judge-weighs-fate-of-trumps-la-prosecutor-in-removal-bid",
+      "title": "Hawaii Judge Weighs Fate of Trump's LA Prosecutor in Removal Bid",
+      "outlet": "Bloomberg Law"
+    }
+  ]
+}

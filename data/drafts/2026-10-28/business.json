@@ -1,0 +1,843 @@
+{
+  "stories": [
+    {
+      "id": "fed-holds-rates-split-vote-oct",
+      "headline": "Fed holds rates steady as two officials vote for a hike",
+      "region": "Fed",
+      "importance": 5,
+      "summary": "The Federal Reserve kept its benchmark interest rate at 3.75% to 4% on Wednesday at its last meeting before the Nov. 3 midterm elections. The vote was 10-2: Governor Lisa Cook and Cleveland Fed President Beth Hammack wanted a quarter-point increase. Chair Kevin Warsh said politics played no role in the decision. The Fed's statement said officials want more information before their next move, and their next meeting is Dec. 8-9.",
+      "why_it_matters": "Rates on credit cards, car loans and home-equity lines move with the Fed's benchmark, so borrowing costs stay where they are for now. With inflation rising and two officials already pushing for a hike, the Fed could raise borrowing costs again in December, just as people take on holiday debt.",
+      "background": "The Federal Reserve sets a short-term interest rate that shapes what banks charge for loans across the economy. It raises the rate to cool inflation and cuts it to support jobs. After cutting rates in 2024 and 2025, the Fed raised them in September for the first time since 2023, as the war with Iran pushed oil and gas prices higher and inflation picked up again. Kevin Warsh, President Trump's pick to succeed Jerome Powell, took over as Fed chair this year. Trump has publicly called for much lower rates and is trying to remove Governor Lisa Cook over mortgage-fraud allegations she denies.",
+      "facts": [
+        {
+          "text": "The Fed left its benchmark rate in a range of 3.75% to 4% on Wednesday.",
+          "refs": [
+            "business-w1",
+            "business-w2",
+            "business-w3"
+          ]
+        },
+        {
+          "text": "The vote was 10-2. Governor Lisa Cook and Cleveland Fed President Beth Hammack dissented because they wanted a quarter-point rate increase.",
+          "refs": [
+            "business-w4",
+            "business-w5",
+            "business-w3"
+          ]
+        },
+        {
+          "text": "Fortune reported that this was the first time since 1992 that a Fed governor and a regional Fed bank president dissented together on the same side.",
+          "refs": [
+            "business-w4"
+          ]
+        },
+        {
+          "text": "Warsh said politics played \"no role\" in the decision, which came six days before the midterm elections.",
+          "refs": [
+            "business-w3"
+          ]
+        },
+        {
+          "text": "The Fed's statement said officials want to see more information before deciding their next move.",
+          "refs": [
+            "business-w6"
+          ]
+        },
+        {
+          "text": "Inflation has sped up in recent months as the Iran war drove up oil and gas prices.",
+          "refs": [
+            "006e444260",
+            "business-w1"
+          ]
+        },
+        {
+          "text": "NBC News reported that annual inflation rose to 3.7% in September from 3.4% in August.",
+          "refs": [
+            "business-w1"
+          ]
+        },
+        {
+          "text": "Wednesday's hold followed a September increase, the Fed's first rate hike since 2023.",
+          "refs": [
+            "7bc29a3b31",
+            "aeccf4beef"
+          ]
+        },
+        {
+          "text": "Treasury yields rose ahead of the decision. The 10-year yield was above 5.02% by midmorning, up about 3 basis points (hundredths of a percentage point).",
+          "refs": [
+            "b1b1514220",
+            "80e3212830"
+          ]
+        },
+        {
+          "text": "After the September hike, Trump wrote on Truth Social that U.S. interest rates should be 1% or less.",
+          "refs": [
+            "business-w7",
+            "business-w8"
+          ]
+        },
+        {
+          "text": "The New York Times reported that Cook, whom Trump is trying to fire, is set to face a private hearing over mortgage-fraud allegations she has consistently denied.",
+          "refs": [
+            "4c2d28c657"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "7bc29a3b31",
+          "note": "Leads with the timing, calling it the last decision before the midterms."
+        },
+        {
+          "ref": "9f2a29d204",
+          "note": "Puts inflation and gas prices, and their cost to consumers, in the headline."
+        },
+        {
+          "ref": "aeccf4beef",
+          "note": "Frames the day around whether the Fed would raise rates again, not the expected hold."
+        },
+        {
+          "ref": "b1b1514220",
+          "note": "Covers the decision through the bond market and rising Treasury yields."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "7bc29a3b31",
+          "takeaway": "Headline and summary only: preview tying the hold to the midterms, and noting that the September hike angered Trump.",
+          "read_full": false
+        },
+        {
+          "ref": "006e444260",
+          "takeaway": "Headline and summary only: live-briefing page that links the faster inflation to oil and gas price spikes from the Iran war.",
+          "read_full": false
+        },
+        {
+          "ref": "9f2a29d204",
+          "takeaway": "Headline only: preview focused on inflation and gas prices hitting consumers.",
+          "read_full": false
+        },
+        {
+          "ref": "b1b1514220",
+          "takeaway": "Headline and summary only: market story on the 10-year yield topping 5.02% before the decision.",
+          "read_full": false
+        },
+        {
+          "ref": "aeccf4beef",
+          "takeaway": "Headline and summary only: explainer that frames the meeting around the September hike, the first in three years.",
+          "read_full": false
+        },
+        {
+          "ref": "80e3212830",
+          "takeaway": "Headline and summary only (paywalled): global bond yields rising before the Fed decision and the U.K. budget.",
+          "read_full": false
+        },
+        {
+          "ref": "4c2d28c657",
+          "takeaway": "Headline and summary only (paywalled): Trump's effort to fire Lisa Cook as a backdrop for Warsh.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w1",
+          "takeaway": "Seen through search results only: hold despite rising inflation, with energy costs named as the main driver.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w2",
+          "takeaway": "Seen through search results only: straight decision story framed around the election.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w3",
+          "takeaway": "Seen through search results only: live blog on the split vote and Warsh's comments on politics.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w4",
+          "takeaway": "Seen through search results only: focuses on how unusual the joint governor-and-president dissent was.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w5",
+          "takeaway": "Headline only (video): names Cook and Hammack as the two dissenters.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w6",
+          "takeaway": "Seen through search results only: says the Fed is waiting on more data before its next move.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w7",
+          "takeaway": "Seen through search results only: September report (Reuters wire) on Trump's reaction to the hike.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w8",
+          "takeaway": "Seen through search results only: says Trump criticized the September hike but spared Warsh personally.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "big-tech-earnings-alphabet-microsoft-oct28",
+      "headline": "Stocks edge up after Fed; Alphabet falls and Microsoft rises on late earnings",
+      "region": "Earnings",
+      "importance": 4,
+      "summary": "U.S. stocks closed slightly higher on Wednesday after a quiet session in which chipmakers rose and the largest tech companies slipped ahead of the Fed decision and Big Tech earnings. After the closing bell, Microsoft shares rose on stronger cloud sales. Alphabet shares fell sharply in after-hours trading as its profit missed forecasts and heavy AI spending pushed its free cash flow below zero.",
+      "why_it_matters": "A handful of tech giants make up a large share of the S&P 500, so their results move many retirement accounts and index funds. Investors are watching whether the huge sums these companies spend on AI start paying off.",
+      "background": "Microsoft, Alphabet (Google's parent), Amazon and Meta are spending tens of billions of dollars each quarter on data centers for artificial intelligence. Investors have swung between excitement about AI and worry that the spending won't pay off. Tech stocks rallied on Monday and Tuesday this week, helped partly by excitement over AI company Anthropic's IPO filing, before the biggest companies reported results. Wednesday's earnings from Alphabet and Microsoft were the first big test of that rally.",
+      "facts": [
+        {
+          "text": "The S&P 500 rose 0.28% to 7,743.98, the Nasdaq Composite rose 0.27% and the Dow rose 0.19%.",
+          "refs": [
+            "business-w9"
+          ]
+        },
+        {
+          "text": "During the session, chip stocks rose and the biggest tech companies fell as investors waited for the Fed and for Big Tech earnings.",
+          "refs": [
+            "2b8fa5153d"
+          ]
+        },
+        {
+          "text": "By midday the Nasdaq had edged lower as the tech rally set off by Anthropic's IPO filing faded, while the Dow and S&P 500 ticked up.",
+          "refs": [
+            "1598e2763a"
+          ]
+        },
+        {
+          "text": "Stocks had gained on Monday and Tuesday on optimism about earnings from the largest AI spenders.",
+          "refs": [
+            "651ae90e39",
+            "aeb1251203"
+          ]
+        },
+        {
+          "text": "Microsoft said revenue from Azure, its cloud business, rose 48% to $33.2 billion, beating expectations. It was the first quarter Microsoft reported Azure revenue in dollars.",
+          "refs": [
+            "business-w10",
+            "ab3d3afd12"
+          ]
+        },
+        {
+          "text": "After the close, Microsoft shares rose and Alphabet shares fell.",
+          "refs": [
+            "business-w11",
+            "business-w12"
+          ]
+        },
+        {
+          "text": "Alphabet's quarterly profit came in below analyst forecasts.",
+          "refs": [
+            "business-w13"
+          ]
+        },
+        {
+          "text": "Revenue at Google Cloud roughly doubled to about $31 billion, but Alphabet's free cash flow was negative as its AI spending grew.",
+          "refs": [
+            "business-w12"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "How far Alphabet shares fell after hours",
+          "positions": [
+            {
+              "claim": "More than 11%, per Fortune.",
+              "refs": [
+                "business-w12"
+              ]
+            },
+            {
+              "claim": "About 10%, per Investing.com.",
+              "refs": [
+                "business-w13"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "2b8fa5153d",
+          "note": "Says Wall Street was \"treading water\", splitting rising chip stocks from falling megacaps."
+        },
+        {
+          "ref": "1598e2763a",
+          "note": "Emphasizes the fading of the Anthropic-driven tech rally."
+        },
+        {
+          "ref": "167ae0f365",
+          "note": "Calls the AI trade \"shaky\" and Wall Street skeptical going into Alphabet's report."
+        },
+        {
+          "ref": "1705e3b731",
+          "note": "Focuses on how much Big Tech is spending on AI, not on stock moves."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "2b8fa5153d",
+          "takeaway": "Headline only: midday market story that splits rising chip stocks from falling megacaps.",
+          "read_full": false
+        },
+        {
+          "ref": "1598e2763a",
+          "takeaway": "Headline and summary only (paywalled): the Anthropic-driven rally losing steam.",
+          "read_full": false
+        },
+        {
+          "ref": "651ae90e39",
+          "takeaway": "Headline and summary only (paywalled): Tuesday's second straight gain on hopes for hyperscaler earnings.",
+          "read_full": false
+        },
+        {
+          "ref": "aeb1251203",
+          "takeaway": "Headline and summary only (paywalled): tech gains as the AI trade revives.",
+          "read_full": false
+        },
+        {
+          "ref": "ab3d3afd12",
+          "takeaway": "Headline and summary only: earnings preview noting the first dollar figure for Azure.",
+          "read_full": false
+        },
+        {
+          "ref": "167ae0f365",
+          "takeaway": "Headline and summary only: preview describing a skeptical Wall Street before Alphabet's report.",
+          "read_full": false
+        },
+        {
+          "ref": "1705e3b731",
+          "takeaway": "Headline and summary only (paywalled): investors bracing for the cost of Big Tech's AI spending.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w9",
+          "takeaway": "Seen through search results only: closing market wrap with index levels.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w10",
+          "takeaway": "Seen through search results only: Microsoft's Azure growth beat expectations.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w11",
+          "takeaway": "Seen through search results only: compares the two reports as a test of the AI boom.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w12",
+          "takeaway": "Seen through search results only: Alphabet's cloud doubled but its cash flow went negative, and the stock dropped.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w13",
+          "takeaway": "Seen through search results only: earnings-call write-up leading with the profit miss and the after-hours drop.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "wendys-trian-take-private-offer",
+      "headline": "Peltz's Trian offers $1.4 billion to take Wendy's private",
+      "region": "Deals",
+      "importance": 3,
+      "summary": "A group led by Nelson Peltz's Trian Fund Management offered $7.35 a share in cash, about $1.4 billion, for the Wendy's shares it doesn't already own. That is roughly 20% above Tuesday's closing price. Wendy's shares jumped about 15% on Wednesday. Trian's letter says it expects a committee of Wendy's independent directors to review the offer, which is not binding.",
+      "why_it_matters": "If the deal goes through, one of the biggest U.S. burger chains would leave the stock market, and its turnaround would happen out of public view. Shareholders would get a premium for stock that has lost about 70% of its value over five years.",
+      "background": "Wendy's is one of the largest U.S. hamburger chains. Like other fast-food chains, it has struggled as diners eat out less, beef costs rise and competition grows. Nelson Peltz, an activist investor, has been involved with Wendy's for years: his firm Trian owns about 16% of the company and has pushed for a sale before. Trian says the company would do better attempting a multiyear turnaround as a private business.",
+      "facts": [
+        {
+          "text": "A Trian-led group offered about $1.4 billion to take Wendy's private.",
+          "refs": [
+            "a2f172d288",
+            "3aef46559e",
+            "5434ad5a06",
+            "c83e2ba562"
+          ]
+        },
+        {
+          "text": "The offer is $7.35 a share in cash, about 20% above Wendy's closing price on Oct. 27. Flynn Group, BlueFive Capital and Sixth Street Partners are bidding alongside Trian.",
+          "refs": [
+            "business-w14",
+            "business-w15",
+            "ae23ddf942"
+          ]
+        },
+        {
+          "text": "Trian and related parties own about 16.3% of Wendy's stock.",
+          "refs": [
+            "business-w14"
+          ]
+        },
+        {
+          "text": "The proposal is not binding. Trian's letter says it expects a special committee of independent directors to review it and make a recommendation to the board.",
+          "refs": [
+            "business-w14"
+          ]
+        },
+        {
+          "text": "Trian said Wendy's would be better off attempting a multiyear turnaround as a private company.",
+          "refs": [
+            "a2f172d288"
+          ]
+        },
+        {
+          "text": "Wendy's shares rose about 15% on Wednesday.",
+          "refs": [
+            "c83e2ba562",
+            "ae23ddf942"
+          ]
+        },
+        {
+          "text": "Wendy's shares have fallen roughly 70% over the past five years.",
+          "refs": [
+            "3aef46559e"
+          ]
+        },
+        {
+          "text": "Wendy's has struggled as diners eat out less often, and with rising beef prices and more competition.",
+          "refs": [
+            "c83e2ba562",
+            "a75a11449a"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Size of the offer",
+          "positions": [
+            {
+              "claim": "About $1.4 billion, per Bloomberg, the Wall Street Journal, Reuters and CNBC.",
+              "refs": [
+                "a2f172d288",
+                "3aef46559e",
+                "5434ad5a06",
+                "c83e2ba562"
+              ]
+            },
+            {
+              "claim": "$3.8 billion, per the Financial Times headline. Its summary does not explain the difference; that figure was not seen in other coverage.",
+              "refs": [
+                "7b4cdf7d70"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "abd3a4dffd",
+          "note": "Calls Wendy's a \"struggling burger chain\" and Peltz an activist investor."
+        },
+        {
+          "ref": "ae23ddf942",
+          "note": "Leads with the stock surge and says the chain \"could go private\"."
+        },
+        {
+          "ref": "a75a11449a",
+          "note": "Puts the reasons for Wendy's troubles, beef prices and competition, ahead of the offer."
+        },
+        {
+          "ref": "7b4cdf7d70",
+          "note": "Uses a much larger $3.8 billion figure and stresses Trian's long history with the company."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "a2f172d288",
+          "takeaway": "Headline and summary only (paywalled): the offer and Trian's turnaround argument.",
+          "read_full": false
+        },
+        {
+          "ref": "3aef46559e",
+          "takeaway": "Headline and summary only (paywalled): the offer, with the stock's five-year slide.",
+          "read_full": false
+        },
+        {
+          "ref": "7b4cdf7d70",
+          "takeaway": "Headline and summary only (paywalled): gives a $3.8bn figure and frames the bid as part of Trian's long involvement.",
+          "read_full": false
+        },
+        {
+          "ref": "abd3a4dffd",
+          "takeaway": "Headline only: wire story framing Wendy's as struggling.",
+          "read_full": false
+        },
+        {
+          "ref": "ae23ddf942",
+          "takeaway": "Headline and summary only: stock-move angle, with the roughly 20% premium and years of Trian pushing for a sale.",
+          "read_full": false
+        },
+        {
+          "ref": "c83e2ba562",
+          "takeaway": "Headline and summary only: 15% share jump, with diners eating out less.",
+          "read_full": false
+        },
+        {
+          "ref": "a75a11449a",
+          "takeaway": "Headline only (paywalled): leads with beef costs and competition.",
+          "read_full": false
+        },
+        {
+          "ref": "5434ad5a06",
+          "takeaway": "Headline only: straight wire report of the $1.4 billion offer.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w14",
+          "takeaway": "Public record, seen through search results only: Trian's proposal letter, filed with the SEC, gives the price, partners and stake.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w15",
+          "takeaway": "Seen through search results only: gives the $7.35-a-share price and lists the partners.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "world-bank-commodity-outlook-energy",
+      "headline": "World Bank raises commodity price forecast as Middle East war keeps energy costs high",
+      "region": "Energy",
+      "importance": 3,
+      "summary": "The World Bank now expects commodity prices to rise 23% this year, citing disrupted energy supplies from the Middle East war and the threat that El Niño poses to harvests. On the same day, European natural gas prices hit €100 for the first time since the 2022 energy crisis. U.S. crude inventories fell for a fourth straight week.",
+      "why_it_matters": "Higher oil, gas and food prices show up in what people pay for fuel, heating and groceries. Energy costs are also the main reason inflation is rising, which is why the Fed is considering another rate hike.",
+      "background": "Commodities are raw materials such as oil, natural gas, metals and grain, and their prices feed into the cost of almost everything else. The war with Iran has disrupted energy supplies from the Middle East and pushed oil prices well above $100 a barrel this autumn. The World Bank publishes a Commodity Markets Outlook twice a year. Its April edition predicted a smaller increase.",
+      "facts": [
+        {
+          "text": "The World Bank forecast that commodity prices will rise 23% in 2026, citing the Middle East war and other shocks.",
+          "refs": [
+            "e0b8b58ba6",
+            "437717f8ab",
+            "business-w16"
+          ]
+        },
+        {
+          "text": "The World Bank raised its forecasts because of energy supply disruptions from the war and the threat El Niño poses to harvests.",
+          "refs": [
+            "437717f8ab",
+            "business-w16"
+          ]
+        },
+        {
+          "text": "The World Bank said it expects energy prices to rise 32% this year.",
+          "refs": [
+            "business-w16"
+          ]
+        },
+        {
+          "text": "Anadolu Agency reported that the World Bank expects commodity prices to fall about 7% in 2027 as supply problems ease.",
+          "refs": [
+            "business-w17"
+          ]
+        },
+        {
+          "text": "European natural gas prices touched €100 for the first time since the 2022 energy crisis.",
+          "refs": [
+            "98570657dd"
+          ]
+        },
+        {
+          "text": "U.S. commercial crude stocks fell 1.9 million barrels last week, the fourth straight weekly drop, the Energy Information Administration said. Distillate stocks also fell, while gasoline stocks rose.",
+          "refs": [
+            "9207c10134",
+            "4dee073b11"
+          ]
+        },
+        {
+          "text": "Refiner Phillips 66 reported a record quarterly profit on strong refining results.",
+          "refs": [
+            "2c23d6e28f"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "437717f8ab",
+          "note": "Names both the war and El Niño, putting the weather risk to harvests next to energy."
+        },
+        {
+          "ref": "e0b8b58ba6",
+          "note": "Leads with the 23% figure and the Middle East war."
+        },
+        {
+          "ref": "98570657dd",
+          "note": "Emphasizes the cost to consumers and industry, not the market milestone."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "437717f8ab",
+          "takeaway": "Headline and summary only (paywalled): raised outlook, citing the war and El Niño.",
+          "read_full": false
+        },
+        {
+          "ref": "e0b8b58ba6",
+          "takeaway": "Headline only: wire report of the 23% forecast.",
+          "read_full": false
+        },
+        {
+          "ref": "98570657dd",
+          "takeaway": "Headline only: European gas at €100, framed around the cost to households and industry.",
+          "read_full": false
+        },
+        {
+          "ref": "9207c10134",
+          "takeaway": "Headline and summary only (paywalled): weekly EIA inventory figures.",
+          "read_full": false
+        },
+        {
+          "ref": "4dee073b11",
+          "takeaway": "Headline only: same EIA inventory data.",
+          "read_full": false
+        },
+        {
+          "ref": "2c23d6e28f",
+          "takeaway": "Headline only: Phillips 66 record refining profit.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w16",
+          "takeaway": "Official release, seen through search results only: headline forecasts and their causes.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w17",
+          "takeaway": "Seen through search results only: write-up of the World Bank report with the 2027 outlook.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "anthropic-ipo-risk-disclosures-warren",
+      "headline": "Anthropic's IPO filing comes under scrutiny for its long list of risks",
+      "region": "IPO",
+      "importance": 2,
+      "summary": "Anthropic's filing to go public includes about 93 pages of risk factors, including warnings that its AI could cause catastrophic harm and that some risks may be uninsurable. Sen. Elizabeth Warren asked the company to answer a long list of questions before the IPO. The tech-stock rally that followed the filing faded on Wednesday.",
+      "why_it_matters": "A listing this large would put an AI developer into many index funds and retirement accounts. Its risk disclosures spell out what investors would be taking on. Coverage in the digest came from center and left-leaning outlets.",
+      "background": "Anthropic is a San Francisco company that makes the Claude AI models. Former OpenAI employees, including CEO Dario Amodei, founded it in 2021. It filed papers on Monday to sell shares to the public for the first time, and the Associated Press reported that the IPO could be the biggest ever. Companies going public must list the risks to their business. Anthropic's list goes beyond the usual to include risks to society from AI itself.",
+      "facts": [
+        {
+          "text": "Anthropic's IPO filing includes about 93 pages of risk factors, including the possibility that its AI models could pose catastrophic risks.",
+          "refs": [
+            "a1f8a2d81c",
+            "business-w18"
+          ]
+        },
+        {
+          "text": "The filing warns that some of the company's AI risks may be uninsurable.",
+          "refs": [
+            "3fd0aec96c"
+          ]
+        },
+        {
+          "text": "Sen. Elizabeth Warren said she is \"deeply troubled\" by the risks in the filing and asked Anthropic to answer a list of questions before its IPO.",
+          "refs": [
+            "ce75ea47cc"
+          ]
+        },
+        {
+          "text": "The AP reported that the filing gives the founders 50.1% of shareholder votes through a special class of shares, and that a Long-Term Benefit Trust can appoint directors.",
+          "refs": [
+            "business-w18"
+          ]
+        },
+        {
+          "text": "Tech stocks rallied after the filing and kept rising Tuesday, but the Nasdaq edged lower on Wednesday as the rally faded.",
+          "refs": [
+            "57d08e775e",
+            "1598e2763a"
+          ]
+        },
+        {
+          "text": "Before the IPO, ordinary investors can get some exposure to Anthropic through certain ETFs and funds.",
+          "refs": [
+            "a39fec1112"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "a1f8a2d81c",
+          "note": "Asks \"What could go wrong?\", putting the risk disclosures first."
+        },
+        {
+          "ref": "ce75ea47cc",
+          "note": "Frames the filing through a senator's political scrutiny of \"existential\" risks."
+        },
+        {
+          "ref": "3fd0aec96c",
+          "note": "Turns the filing into a wider story about insuring AI risk at every company."
+        },
+        {
+          "ref": "a39fec1112",
+          "note": "Treats the IPO as an investment opportunity for readers."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "a1f8a2d81c",
+          "takeaway": "Headline and summary only: walks through the 93 pages of risk factors, quoting an expert.",
+          "read_full": false
+        },
+        {
+          "ref": "ce75ea47cc",
+          "takeaway": "Headline and summary only (paywalled): Warren's demand for answers before the IPO.",
+          "read_full": false
+        },
+        {
+          "ref": "3fd0aec96c",
+          "takeaway": "Headline and summary only: the insurance angle and what it means for other companies.",
+          "read_full": false
+        },
+        {
+          "ref": "a39fec1112",
+          "takeaway": "Headline and summary only: how to invest before the IPO.",
+          "read_full": false
+        },
+        {
+          "ref": "57d08e775e",
+          "takeaway": "Headline and summary only (paywalled): the Anthropic-inspired rally extending into a second day.",
+          "read_full": false
+        },
+        {
+          "ref": "1598e2763a",
+          "takeaway": "Headline and summary only (paywalled): the rally fizzling on Wednesday.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w18",
+          "takeaway": "Seen through search results only: AP wire story on the filing, its risk section and its voting structure.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "business-w1",
+      "url": "https://www.nbcnews.com/business/economy/fed-rates-inflation-warsh-midterms-rcna606154",
+      "title": "Federal Reserve leaves interest rates unchanged despite rising inflation",
+      "outlet": "NBC News"
+    },
+    {
+      "id": "business-w2",
+      "url": "https://www.foxbusiness.com/economy/federal-reserve-interest-rate-decision-october-28-2026",
+      "title": "October FOMC: Federal Reserves holds rates steady ahead of election",
+      "outlet": "Fox Business"
+    },
+    {
+      "id": "business-w3",
+      "url": "https://finance.yahoo.com/economy/policy/live/fed-meeting-live-updates-interest-rates-held-steady-in-split-vote-warsh-says-politics-played-no-role-ahead-of-midterm-elections-191946928.html",
+      "title": "Rate decision live: Interest rates held steady in split vote, Warsh says politics played 'no role' ahead of midterm elections",
+      "outlet": "Yahoo Finance"
+    },
+    {
+      "id": "business-w4",
+      "url": "https://fortune.com/2026/10/28/fed-rates-steady-kevin-warsh-president-governor-laura-ullrich/",
+      "title": "Fed holds rates steady as a governor and president dissent together for the first time since 1992",
+      "outlet": "Fortune"
+    },
+    {
+      "id": "business-w5",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-28/fed-leaves-rates-unchanged-cook-and-hammack-dissent-video",
+      "title": "Fed Leaves Rates Unchanged, Cook and Hammack Dissent",
+      "outlet": "Bloomberg"
+    },
+    {
+      "id": "business-w6",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-holds-rates-steady-awaits-180301828.html",
+      "title": "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
+      "outlet": "Yahoo Finance"
+    },
+    {
+      "id": "business-w7",
+      "url": "https://www.thestar.com.my/business/business-news/2026/09/17/trump-lashes-out-at-fed-after-warsh-backs-rate-hike",
+      "title": "Trump lashes out at Fed after Warsh backs rate hike",
+      "outlet": "The Star (Reuters)"
+    },
+    {
+      "id": "business-w8",
+      "url": "https://www.dailywire.com/news/trump-rips-fed-rate-hike-but-gives-kevin-warsh-a-pass",
+      "title": "Trump rips Fed rate hike but gives Kevin Warsh a pass",
+      "outlet": "The Daily Wire"
+    },
+    {
+      "id": "business-w9",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/28/stock-market-today-oct-28-markets-edge-higher-as-fed-holds-rates-steady/",
+      "title": "Stock Market Today, Oct. 28: Markets Edge Higher as Fed Holds Rates Steady",
+      "outlet": "The Motley Fool"
+    },
+    {
+      "id": "business-w10",
+      "url": "https://www.geekwire.com/2026/microsoft-azure-revenue-surges-48-to-33-2b-beating-expectations-as-cloud-and-ai-demand-grows/",
+      "title": "Microsoft Azure revenue surges 48% to $33.2B, beating expectations as cloud and AI demand grows",
+      "outlet": "GeekWire"
+    },
+    {
+      "id": "business-w11",
+      "url": "https://www.fool.com/investing/2026/10/28/microsoft-and-alphabet-just-reported-earnings-putting-the-ai-boom-to-the-test/",
+      "title": "Microsoft and Alphabet Just Reported Earnings, Putting the AI Boom to the Test",
+      "outlet": "The Motley Fool"
+    },
+    {
+      "id": "business-w12",
+      "url": "https://fortune.com/2026/10/28/alphabet-google-stock-drops-cloud-revenue-doubles-free-cash-flow-negative/",
+      "title": "Alphabet's Google Cloud revenue doubles to $31 billion as cash flow stays deep red",
+      "outlet": "Fortune"
+    },
+    {
+      "id": "business-w13",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-alphabet-q3-2026-profit-miss-sparks-10-afterhours-drop-93CH-4981037",
+      "title": "Earnings call transcript: Alphabet Q3 2026 profit miss sparks 10% after-hours drop",
+      "outlet": "Investing.com"
+    },
+    {
+      "id": "business-w14",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000030697/000093041326003164/c117910_ex46.htm",
+      "title": "Wendy's Co, Schedule 13D/A exhibit: Trian group proposal letter",
+      "outlet": "SEC EDGAR"
+    },
+    {
+      "id": "business-w15",
+      "url": "https://www.streetinsider.com/Corporate+News/Trian+and+partners+offer+%247.35+per+share+to+take+Wendys+private/27245508.html",
+      "title": "Trian and partners offer $7.35 per share to take Wendy's private",
+      "outlet": "StreetInsider"
+    },
+    {
+      "id": "business-w16",
+      "url": "https://www.worldbank.org/en/news/press-release/2026/10/28/commodity-markets-outlook-october-2026",
+      "title": "Commodity Prices Set to Increase by 23% in 2026 as Global Shocks Mount",
+      "outlet": "World Bank"
+    },
+    {
+      "id": "business-w17",
+      "url": "https://aa.com.tr/en/economy/global-commodity-prices-projected-to-surge-23-in-2026-on-middle-east-conflict-world-bank/4104085",
+      "title": "Global commodity prices projected to surge 23% in 2026 on Middle East conflict: World Bank",
+      "outlet": "Anadolu Agency"
+    },
+    {
+      "id": "business-w18",
+      "url": "https://www.wsoctv.com/news/business/artificial/GMRCBDN5Z44E5LACA7WIIIQG24/?outputType=amp",
+      "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
+      "outlet": "WSOC-TV (AP)"
+    }
+  ]
+}

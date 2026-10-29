@@ -1,0 +1,191 @@
+{
+  "stories": [
+    {
+      "id": "nyc-siena-hochul-blakeman",
+      "headline": "Siena poll puts Hochul 14 points ahead of Blakeman a week before Election Day",
+      "region": "Albany",
+      "importance": 5,
+      "summary": "A Siena Research Institute poll released Wednesday found Gov. Kathy Hochul leading Republican Bruce Blakeman 54% to 40% among likely voters, up from a 9-point lead in Siena's September survey. The same poll found Mayor Zohran Mamdani's favorability among city voters rising to 69%. Election Day is Tuesday, Nov. 3.",
+      "why_it_matters": "The governor shapes the state budget that helps fund city schools and the MTA, and has a say over rent and tax rules the city cannot change alone. The poll also suggests Mamdani, who needs Albany's approval for parts of his agenda such as tax increases, is gaining standing with city voters.",
+      "background": "Hochul, a Democrat, became governor in 2021 when Andrew Cuomo resigned, and won a full term in 2022 by about 6 points, a narrower margin than some late polls showed. Blakeman, the Republican Nassau County executive, became his party's nominee after Rep. Elise Stefanik left the race. The Siena Research Institute polls New York voters regularly, and its September survey had Hochul ahead 50% to 41%. Mamdani, a democratic socialist, took office as mayor in January.",
+      "facts": [
+        { "text": "Siena's poll of likely voters, released Wednesday, has Hochul at 54% and Blakeman at 40%, compared with 50% to 41% in Siena's September poll.", "refs": ["9996a69fe5", "122613de97", "nyc-w1", "nyc-w2"] },
+        { "text": "Siena surveyed 807 likely voters from Oct. 19 to 22; the margin of error is plus or minus 4.1 percentage points.", "refs": ["nyc-w1", "nyc-w2"] },
+        { "text": "Hochul's favorability rating rose to 51% favorable and 45% unfavorable; Siena said it was the first time a majority of likely voters viewed her favorably since she became governor.", "refs": ["nyc-w1", "nyc-w2"] },
+        { "text": "Blakeman's rating was 39% favorable and 40% unfavorable, compared with 35% to 34% a month earlier.", "refs": ["nyc-w1"] },
+        { "text": "Asked who would do more to make New York affordable, 30% chose Hochul, 27% chose Blakeman and 35% said neither.", "refs": ["714072c355", "nyc-w1"] },
+        { "text": "Hochul led 67% to 23% in New York City, while the race was close in the downstate suburbs (49% to 47%) and upstate (49% to 48%).", "refs": ["nyc-w1"] },
+        { "text": "Mamdani's favorability among city voters rose to 69% from 60% in September; statewide he stood at 47% favorable and 43% unfavorable.", "refs": ["0a5f66ccc1", "nyc-w1"] },
+        { "text": "Siena pollster Steven Greenberg said Blakeman is “running out of time” to close a gap that is growing.", "refs": ["714072c355", "nyc-w1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "9996a69fe5", "note": "Plain horse-race headline; the summary measures the result against Siena's previous, closer poll." },
+        { "ref": "122613de97", "note": "“Home stretch” framing that stresses the five-point jump in Hochul's lead since last month." },
+        { "ref": "714072c355", "note": "Headline quotes the pollster saying Blakeman is “running out of time,” and the summary stresses that many voters doubt either candidate will make life more affordable." },
+        { "ref": "0a5f66ccc1", "note": "Pairs the governor's race with Mamdani's rising popularity, giving the mayor equal billing in the headline." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "9996a69fe5", "takeaway": "Summary only: a straight poll story comparing the new numbers with Siena's last survey.", "read_full": false },
+        { "ref": "122613de97", "takeaway": "Summary only: emphasizes the growth in Hochul's lead from 9 to 14 points.", "read_full": false },
+        { "ref": "714072c355", "takeaway": "Summary only: adds the affordability finding and the pollster's comment on Blakeman's chances.", "read_full": false },
+        { "ref": "0a5f66ccc1", "takeaway": "Summary only: covers both the governor's race and Mamdani's gains with city voters.", "read_full": false },
+        { "ref": "nyc-w1", "takeaway": "Siena's own release, seen through search results: toplines, field dates, regional splits and the pollster's comments.", "read_full": false },
+        { "ref": "nyc-w2", "takeaway": "Seen through search results: confirms the 54-40 result and Hochul's improved favorability.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nyc-bronx-ebike-fire-patterson",
+      "headline": "E-bike battery fire at Bronx public housing complex kills boy, critically injures four relatives",
+      "region": "Bronx",
+      "importance": 4,
+      "summary": "A fire the FDNY blamed on an e-bike's lithium-ion battery killed a boy and left four members of his family in critical condition early Wednesday at the Patterson Houses, a NYCHA complex in Mott Haven. The fire broke out in an 11th-floor apartment at 320 Morris Ave. Mayor Zohran Mamdani called the death a “horrific reminder” of the dangers of e-bike batteries.",
+      "why_it_matters": "Many New Yorkers, including delivery workers, keep and charge e-bikes and scooters at home. Fire officials say a battery that catches fire near an apartment's door can cut off the only way out, which they said happened here.",
+      "background": "Lithium-ion batteries that power e-bikes and e-scooters have become one of the leading causes of deadly fires in New York City in recent years, according to the FDNY. Since 2023 the city has required e-bikes and batteries sold here to meet UL safety certification, and it has run trade-in programs to replace older batteries used by delivery workers. The Patterson Houses are a large public housing complex in the South Bronx run by the New York City Housing Authority.",
+      "facts": [
+        { "text": "A boy died and four members of his family were hospitalized in critical condition after a fire early Wednesday in an apartment at the Patterson Houses in the South Bronx.", "refs": ["3d0c7103d4", "fd785080dd", "a98f4dd6ba", "nyc-w3"] },
+        { "text": "FDNY officials said the fire started on the 11th floor of 320 Morris Ave., a 13-story building, shortly before 1 a.m.", "refs": ["a98f4dd6ba", "nyc-w5"] },
+        { "text": "The FDNY said an e-bike's lithium-ion battery caused the fire.", "refs": ["fd785080dd", "a98f4dd6ba", "nyc-w3", "nyc-w4"] },
+        { "text": "Fire Commissioner Lillian Bonsignore said the battery was in a spot that blocked the apartment's way out, City Limits reported.", "refs": ["nyc-w7"] },
+        { "text": "Mayor Zohran Mamdani called the boy's death a “horrific reminder” of the dangers of e-bike batteries.", "refs": ["nyc-w7"] }
+      ],
+      "disputed": [
+        {
+          "topic": "The boy's age",
+          "positions": [
+            { "claim": "He was 11, according to the FDNY as reported by the Daily News, Gothamist, CBS New York and FOX 5.", "refs": ["fd785080dd", "nyc-w3", "nyc-w4", "nyc-w5"] },
+            { "claim": "He was 10, according to ABC7 New York.", "refs": ["nyc-w6"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "3d0c7103d4", "note": "Early headline attributed to another outlet's report; it describes the fire but not its cause or that the building is public housing." },
+        { "ref": "fd785080dd", "note": "Headline names the e-bike battery and NYCHA up front and gives the boy's age." },
+        { "ref": "a98f4dd6ba", "note": "Leads with the lithium-ion battery as the cause and the toll on the family." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3d0c7103d4", "takeaway": "Summary only: early report of the death and injuries, citing another outlet.", "read_full": false },
+        { "ref": "fd785080dd", "takeaway": "Headline only: an 11-year-old killed in an e-bike battery fire in a NYCHA apartment.", "read_full": false },
+        { "ref": "a98f4dd6ba", "takeaway": "Summary only: location, floor and the FDNY's account of the e-bike-related cause.", "read_full": false },
+        { "ref": "nyc-w3", "takeaway": "Seen through search results: reports the FDNY's finding on the battery and gives the boy's age as 11.", "read_full": false },
+        { "ref": "nyc-w4", "takeaway": "Seen through search results: gives the boy's age as 11 and the FDNY's cause.", "read_full": false },
+        { "ref": "nyc-w5", "takeaway": "Seen through search results: gives the time and the apartment's location.", "read_full": false },
+        { "ref": "nyc-w6", "takeaway": "Seen through search results: gives the boy's age as 10.", "read_full": false },
+        { "ref": "nyc-w7", "takeaway": "Seen through search results: carries the mayor's and fire commissioner's comments.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nyc-gwb-shooting-romero-indicted",
+      "headline": "Retired NYPD detective indicted on murder charge in George Washington Bridge shooting",
+      "region": "Manhattan",
+      "importance": 4,
+      "summary": "A Manhattan grand jury on Tuesday indicted Victor Romero, a retired NYPD detective, on a second-degree murder charge in the Oct. 20 shooting death of Con Edison worker Koran Irvine on the George Washington Bridge. Prosecutors had earlier lowered Romero's initial murder charge to manslaughter; the Manhattan District Attorney's office said the new charge followed an extensive investigation.",
+      "why_it_matters": "Second-degree murder carries a possible life sentence in New York, while first-degree manslaughter does not. The case, involving a former police officer and a killing on one of the region's busiest crossings, has drawn close attention from the victim's coworkers and family.",
+      "background": "Irvine, a Con Edison worker, was shot on the bridge on the evening of Oct. 20 in what authorities have described as an alleged road-rage confrontation, and later died. Romero, 62, was arrested and first charged with murder, but prosecutors in District Attorney Alvin Bragg's office reduced the charge to first-degree manslaughter, and Romero pleaded not guilty. The reduction drew objections from Irvine's family and fellow utility workers before the grand jury voted the murder indictment.",
+      "facts": [
+        { "text": "A grand jury indicted Victor Romero, a retired NYPD detective, on a second-degree murder charge Tuesday in the shooting death of Koran Irvine on the George Washington Bridge.", "refs": ["59523833eb", "acb0a82e5b", "65b8024b1d", "nyc-w8", "nyc-w9"] },
+        { "text": "Romero was first charged with murder; prosecutors then reduced the charge to first-degree manslaughter, to which he pleaded not guilty.", "refs": ["acb0a82e5b", "nyc-w8"] },
+        { "text": "The Manhattan District Attorney's office said the charge was upgraded after an “extensive investigation.”", "refs": ["acb0a82e5b"] },
+        { "text": "Dozens of Con Edison workers came to the courthouse before the indictment was announced.", "refs": ["65b8024b1d"] },
+        { "text": "Romero has been free on $1 million bail.", "refs": ["nyc-w8", "nyc-w9"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "59523833eb", "note": "Headline links the murder indictment to “backlash” over the earlier, lesser charge." },
+        { "ref": "acb0a82e5b", "note": "Stresses that Romero “again” faces murder and gives the DA's explanation that the upgrade came from further investigation." },
+        { "ref": "65b8024b1d", "note": "Centers the victim's Con Ed coworkers as his “brothers” and labels Romero a “hedge fund driver” in the headline rather than by his police career." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "59523833eb", "takeaway": "Headline only: frames the indictment as following public backlash.", "read_full": false },
+        { "ref": "acb0a82e5b", "takeaway": "Summary only: notes the upgraded charge and the DA's stated reason.", "read_full": false },
+        { "ref": "65b8024b1d", "takeaway": "Summary only: focuses on the Con Edison workers who showed up in court.", "read_full": false },
+        { "ref": "nyc-w8", "takeaway": "Seen through search results: the grand jury vote, the earlier manslaughter charge and bail.", "read_full": false },
+        { "ref": "nyc-w9", "takeaway": "Seen through search results: confirms the second-degree murder charge and bail.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nyc-racial-equity-commission-tigani",
+      "headline": "Mamdani's move to replace racial equity commission chair meets Council pushback",
+      "region": "City Hall",
+      "importance": 3,
+      "summary": "Mayor Zohran Mamdani moved to replace Linda Tigani as chair of the city's Commission on Racial Equity after she criticized his administration's handling of a racial equity report. City Council members and demonstrators objected, and Gothamist reported that Tigani will stay on through July 2027 under a city rule, though the mayor still plans to put forward Christopher Alexander for the post.",
+      "why_it_matters": "The commission reviews City Hall's legally required plans to reduce racial disparities in city services, and the dispute is over whether a critic of the mayor keeps overseeing that work. In the brief's feeds only The New York Times covered it; the other coverage found came from left-leaning and center local outlets.",
+      "background": "City voters approved a ballot measure in 2022 that created the Commission on Racial Equity and required the city to publish racial equity plans on a set schedule. Tigani became chair under Mayor Eric Adams. The commission later sued, arguing that both Adams and Mamdani missed the legal deadline for a plan, and won; the city has appealed. Council Speaker Julie Menin and the Council's Black, Latino and Asian Caucus have backed Tigani.",
+      "facts": [
+        { "text": "Mamdani sought to replace Tigani as chair of the Commission on Racial Equity; Tigani has criticized the administration's handling of a racial equity report and publicly objected to the plan to remove her.", "refs": ["f04d96304d", "nyc-w12"] },
+        { "text": "City Council members spoke out in support of Tigani.", "refs": ["nyc-w12"] },
+        { "text": "Demonstrators protested the mayor's move to replace her.", "refs": ["nyc-w13"] },
+        { "text": "Gothamist reported that Tigani will remain chair through July 2027 because city rules extend the chair's term a year if the mayor and Council do not agree on a replacement within 90 days of the term's end.", "refs": ["nyc-w11"] },
+        { "text": "Speaker Julie Menin sided with the Council's Black, Latino and Asian Caucus in opposing the replacement, Gothamist reported.", "refs": ["nyc-w11"] },
+        { "text": "Mamdani said he still intends to put forward Christopher Alexander, who leads the NAACP's New York State Conference, as the next chair.", "refs": ["nyc-w11", "nyc-w14"] },
+        { "text": "The commission won a lawsuit arguing that Mamdani and Adams missed the legal deadline to release a racial equity plan; the administration has appealed.", "refs": ["nyc-w11"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f04d96304d", "note": "Presents the move as the mayor seeking to remove a critic, and highlights Tigani's sharp public response." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f04d96304d", "takeaway": "Summary only (paywalled): reports the plan to replace Tigani and her public response.", "read_full": false },
+        { "ref": "nyc-w11", "takeaway": "Seen through search results: reports her term extended through July 2027 after Council pushback.", "read_full": false },
+        { "ref": "nyc-w12", "takeaway": "Seen through search results: Council members' support for Tigani.", "read_full": false },
+        { "ref": "nyc-w13", "takeaway": "Seen through search results: a protest against the replacement.", "read_full": false },
+        { "ref": "nyc-w14", "takeaway": "Seen through search results: identifies Alexander as an NAACP state leader.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nyc-halima-salman-isis-verdict",
+      "headline": "Former Brooklyn resident convicted of receiving ISIS military training in Syria",
+      "region": "Brooklyn",
+      "importance": 3,
+      "summary": "A federal jury in Brooklyn on Tuesday convicted Halima Salman, a 27-year-old U.S. citizen and former Brooklyn resident, of receiving military-type training from ISIS in Syria. She faces up to 10 years in prison and is scheduled to be sentenced Feb. 2. Her lawyers have asked the judge to overturn the verdict.",
+      "why_it_matters": "The case shows how a New York federal court is treating an American who was taken to ISIS territory as a teenager and later came home: jurors weighed evidence of weapons training against the defense's argument that her father and husband drew her in.",
+      "background": "ISIS held territory across Syria and Iraq from about 2014 until 2019, and thousands of foreigners, including some Americans, went to live under its rule. After its defeat, many women and children linked to the group were held in camps in northeastern Syria, and the U.S. has brought some citizens home and prosecuted some of them. Federal law makes it a crime to knowingly receive military-type training from a designated terrorist group, with a maximum of 10 years in prison. Salman's father took her to ISIS-held territory in 2016, when she was 17, and she returned to the U.S. in 2024.",
+      "facts": [
+        { "text": "A federal jury in Brooklyn convicted Halima Salman on Tuesday of receiving military-type training from ISIS in Syria.", "refs": ["93ccb69b58", "04a00c5042", "52da4852b6", "nyc-w10"] },
+        { "text": "She faces up to 10 years in prison.", "refs": ["52da4852b6", "nyc-w10"] },
+        { "text": "Sentencing is scheduled for Feb. 2.", "refs": ["nyc-w10"] },
+        { "text": "Salman's father brought her to ISIS-controlled territory in 2016, when she was 17; she returned to the U.S. in 2024.", "refs": ["04a00c5042"] },
+        { "text": "Prosecutors said she trained with an all-female unit made up mainly of fighters' wives, and showed jurors a video of her holding an assault rifle.", "refs": ["nyc-w10"] },
+        { "text": "Her defense argued she was a teenager drawn into the conflict by her father and later her husband, and her lawyers have asked the judge to set aside the verdict.", "refs": ["nyc-w10"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "04a00c5042", "note": "Summary foregrounds that she was brought to ISIS territory by her father at 17." },
+        { "ref": "52da4852b6", "note": "Leads with the conviction and the 10-year maximum, calling her a former Brooklyn resident." },
+        { "ref": "93ccb69b58", "note": "Headline identifies her simply as a “Brooklyn woman” found guilty." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "93ccb69b58", "takeaway": "Headline only: straight verdict story.", "read_full": false },
+        { "ref": "04a00c5042", "takeaway": "Summary only (paywalled): stresses how she came to be in Syria and when she returned.", "read_full": false },
+        { "ref": "52da4852b6", "takeaway": "Summary only: leads with the conviction and possible sentence.", "read_full": false },
+        { "ref": "nyc-w10", "takeaway": "Seen through search results: trial evidence, the defense argument and the sentencing date.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "nyc-w1", "url": "https://sri.siena.edu/2026/10/28/siena-poll-of-likely-new-york-state-voters/", "title": "Siena Poll of Likely New York State Voters", "outlet": "Siena Research Institute" },
+    { "id": "nyc-w2", "url": "https://cbs6albany.com/news/local/siena-poll-governor-hochul-widens-lead-over-nassau-county-executive-bruce-blakeman-to-54-40-favorability-rises-university-attorney-general-letitia-james-saritha-komatireddy-republican-democrat-politics-comptroller-tom-dinapoli-joseph-hernandez-cbs6-wrgb", "title": "Siena poll: Hochul widens lead over Blakeman to 54-40 as favorability rises", "outlet": "CBS6 Albany" },
+    { "id": "nyc-w3", "url": "https://gothamist.com/news/lithium-ion-battery-caused-bronx-fire-that-killed-11-year-old-fdny-says", "title": "Lithium-ion battery caused Bronx fire that killed 11-year-old, FDNY says", "outlet": "Gothamist" },
+    { "id": "nyc-w4", "url": "https://www.cbsnews.com/newyork/news/fire-mott-haven-bronx-apartment-building-fatal-fdny/", "title": "11-year-old dies, 4 injured after lithium-ion battery fire engulfs Bronx apartment building, FDNY says", "outlet": "CBS New York" },
+    { "id": "nyc-w5", "url": "https://www.fox5ny.com/news/child-killed-bronx-lithium-ion-battery-fire-fdny", "title": "11-year-old killed in Bronx e-bike battery fire, FDNY says", "outlet": "FOX 5 New York" },
+    { "id": "nyc-w6", "url": "https://abc7ny.com/post/boy-dies-fire-patterson-houses-bronxs-mott-haven/19988726/", "title": "Bronx e-bike fire kills 10-year-old boy, injures 4 in Mott Haven apartment", "outlet": "ABC7 New York" },
+    { "id": "nyc-w7", "url": "https://citylimits.org/11-year-old-boys-death-in-bronx-nycha-fire-is-a-horrific-reminder-of-e-bike-battery-dangers-mayor-says/", "title": "11-Year-Old Boy's Death in Bronx NYCHA Fire is a 'Horrific Reminder' Of E-Bike Battery Dangers, Mayor Says", "outlet": "City Limits" },
+    { "id": "nyc-w8", "url": "https://abcnews.com/US/grand-jury-indicts-retired-nypd-detective-murder-charge/story?id=137612210", "title": "Grand jury indicts retired NYPD detective on murder charge in alleged road-rage bridge shooting", "outlet": "ABC News" },
+    { "id": "nyc-w9", "url": "https://www.fox5ny.com/news/victor-romero-court-gw-bridge-shooting-koran-irvine", "title": "Victor Romero indicted with murder in second degree connected to GWB shooting", "outlet": "FOX 5 New York" },
+    { "id": "nyc-w10", "url": "https://www.courthousenews.com/jury-convicts-american-woman-in-is-training-case/", "title": "Jury convicts American woman in IS training case", "outlet": "Courthouse News Service" },
+    { "id": "nyc-w11", "url": "https://gothamist.com/news/mamdani-extends-term-for-racial-equity-leader-after-city-council-pushes-back-on-replacement", "title": "Mamdani extends NYC racial equity leader's term after Council pushes back on replacement", "outlet": "Gothamist" },
+    { "id": "nyc-w12", "url": "https://www.cityandstateny.com/politics/2026/10/nyc-council-members-back-linda-tigani-amid-mamdani-plans-replace-her/416898/", "title": "NYC Council members back Linda Tigani amid Mamdani plans to replace her", "outlet": "City & State NY" },
+    { "id": "nyc-w13", "url": "https://www.cbsnews.com/newyork/news/mayor-mamdani-nyc-commission-on-racial-equity-chairwoman/", "title": "Demonstrators protest Mayor Zohran Mamdani's move to replace NYC Commission on Racial Equity chairwoman", "outlet": "CBS New York" },
+    { "id": "nyc-w14", "url": "https://www.yahoo.com/news/politics/articles/mamdani-officially-taps-naacp-leader-172917026.html", "title": "Mamdani officially taps NAACP leader to replace outspoken critic on racial equity commission", "outlet": "Yahoo News" }
+  ]
+}

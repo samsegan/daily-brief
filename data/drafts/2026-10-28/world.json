@@ -1,0 +1,375 @@
+{
+  "stories": [
+    {
+      "id": "spain-toledo-high-speed-crash",
+      "headline": "At least 68 killed as high-speed trains collide near Toledo, Spain's second deadly rail crash this year",
+      "region": "Europe",
+      "importance": 5,
+      "summary": "A high-speed train ran into another that had stopped on the tracks near Urda, in Spain's Toledo province south of Madrid, on Wednesday, killing at least 68 people and injuring dozens, according to the Castilla-La Mancha regional government. Prime Minister Pedro Sánchez spoke from the site and promised to find out urgently what happened. It is Spain's second deadly rail collision this year, after a January crash in Andalusia killed 46.",
+      "why_it_matters": "Spain's high-speed trains carry millions of commuters and tourists a year, and a second deadly crash in ten months will put pressure on the government and the rail operators to explain what failed and what they will change.",
+      "background": "Spain has built Europe's largest high-speed rail network over three decades, and since 2021 private operators have competed with the state rail company, Renfe, on its main routes. In January, a train run by the private operator Iryo derailed near Adamuz in Córdoba province and was struck by a Renfe train; the Financial Times puts that toll at 46. Wednesday's crash happened in the central region of Castilla-La Mancha. Pedro Sánchez leads a Socialist-led government, and Óscar Puente is its transport minister.",
+      "facts": [
+        { "text": "A high-speed train ran into another train that had stopped on the tracks near Urda in Toledo province on Wednesday.", "refs": ["4b87f76e96", "f6545332f7"] },
+        { "text": "The Castilla-La Mancha regional government confirmed at least 68 deaths.", "refs": ["4b87f76e96", "cbb9648424", "a5425548fa", "2dc3b1eb60"] },
+        { "text": "Dozens of people were injured.", "refs": ["4b87f76e96", "f5738378ed"] },
+        { "text": "The New York Times called it one of the deadliest train accidents in Spain's history.", "refs": ["2dc3b1eb60"] },
+        { "text": "Prime Minister Pedro Sánchez addressed the country from the crash site, offered solidarity to victims and families, and said the government would act with urgency to establish what happened and why.", "refs": ["f5738378ed", "08ba6c714c"] },
+        { "text": "France 24 reported that Transport Minister Óscar Puente pointed to a computer malfunction; The New York Times also reported on his account of what led to the crash.", "refs": ["08ba6c714c", "c2a9c89981"] },
+        { "text": "It is Spain's second deadly rail collision this year; a crash in Andalusia in January killed 46 people.", "refs": ["cbb9648424", "4b87f76e96"] },
+        { "text": "In the January crash, near Adamuz in Córdoba province, a train run by the private operator Iryo derailed and was hit by a Renfe train.", "refs": ["world-w1", "world-w2"] },
+        { "text": "The New York Times reported that Wednesday's crash involved the same carriers as the January one.", "refs": ["f6545332f7"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many people were injured",
+          "positions": [
+            { "claim": "Dozens, according to AP and The Guardian.", "refs": ["4b87f76e96", "f5738378ed"] },
+            { "claim": "Hundreds, according to a Daily Caller headline.", "refs": ["10182d8a87"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "4b87f76e96", "note": "Puts the pattern up front, calling it Spain's second deadly rail crash this year." },
+        { "ref": "10182d8a87", "note": "Leads with a vivid quote about passengers being thrown into the air, says only 'Europe' rather than Spain, and gives a higher injury count." },
+        { "ref": "08ba6c714c", "note": "Centers the prime minister's response rather than the toll or the cause." },
+        { "ref": "2dc3b1eb60", "note": "Explainer format that stresses the crash's place among Spain's deadliest." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "4b87f76e96", "takeaway": "AP wire story (also run by NewsNation): straight account with the regional toll and the link to January's crash. Summary only; the site was unreachable here.", "read_full": false },
+        { "ref": "f5738378ed", "takeaway": "Live blog quoting Sánchez's pledge to clarify the cause; its summary still carried an earlier, lower toll. Summary only.", "read_full": false },
+        { "ref": "10182d8a87", "takeaway": "Dramatic eyewitness framing and a 'hundreds injured' headline that other outlets don't match. Headline only.", "read_full": false },
+        { "ref": "cbb9648424", "takeaway": "Paywalled; summary ties the crash to January's Andalusia accident and its 46 deaths.", "read_full": false },
+        { "ref": "a5425548fa", "takeaway": "Paywalled; brief summary confirming the toll and location south of Madrid.", "read_full": false },
+        { "ref": "08ba6c714c", "takeaway": "Video of Sánchez's statement; summary cites Puente's mention of a computer malfunction.", "read_full": false },
+        { "ref": "2dc3b1eb60", "takeaway": "Paywalled explainer; calls it one of Spain's deadliest train accidents.", "read_full": false },
+        { "ref": "f6545332f7", "takeaway": "Paywalled live updates; summary says a passenger train rear-ended another and notes the same carriers were involved in January.", "read_full": false },
+        { "ref": "c2a9c89981", "takeaway": "Paywalled item on the transport minister's account of the cause; headline only.", "read_full": false },
+        { "ref": "world-w1", "takeaway": "January 2026 report on the Adamuz crash, used for background; seen in search results, not opened.", "read_full": false },
+        { "ref": "world-w2", "takeaway": "Spanish-language report on the Córdoba crash in January, used for background; seen in search results, not opened.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "israel-election-deadlock",
+      "headline": "Israel's election leaves neither Netanyahu nor Eisenkot with a majority",
+      "region": "Middle East",
+      "importance": 5,
+      "summary": "Neither Prime Minister Benjamin Netanyahu's bloc nor the opposition bloc led by Gadi Eisenkot won the 61 seats needed for a majority in Tuesday's Israeli election, partial results show. With more than 85% of ballots counted, Netanyahu's bloc had 53 seats, Eisenkot's 48 and Arab parties 19, according to The Times of Israel. Axios said the result points to weeks of coalition bargaining.",
+      "why_it_matters": "Israel's next government will set its course on the war with Iran, Gaza and Lebanon, which affects regional security and energy prices; Israeli bonds and the shekel fell on the result.",
+      "background": "Israel's 120-seat parliament, the Knesset, is elected by nationwide proportional representation, so governments are coalitions that need at least 61 seats. Netanyahu, Israel's longest-serving prime minister, has led a right-wing and religious coalition since the 2022 election, through the Gaza war that followed Hamas's October 2023 attack and this year's war with Iran. Gadi Eisenkot, a former military chief of staff, heads the main opposition bloc, and his party led Likud in pre-election polls. Arab-led parties have rarely been part of Israeli governments, which is why their seat count matters for any coalition.",
+      "facts": [
+        { "text": "Votes were still being counted on Wednesday after Tuesday's election, with no clear winner.", "refs": ["9e07492292", "4b4625df5b", "d202261d18", "4fd0b0e48c"] },
+        { "text": "With more than 85% of ballots counted, Netanyahu's bloc had 53 seats, the Eisenkot-led bloc 48 and Arab parties 19, The Times of Israel reported.", "refs": ["6aa199e917"] },
+        { "text": "A government needs 61 of the Knesset's 120 seats, and both blocs were projected to fall short.", "refs": ["64494e6a88", "b4907d52bf", "9c3c890c94"] },
+        { "text": "Netanyahu's outgoing coalition lost its majority, and his bloc lost a significant number of seats compared with the 2022 election.", "refs": ["2039ae8d6e", "a6b09d5ac2"] },
+        { "text": "Turnout was the highest in nearly three decades, the BBC reported.", "refs": ["b05f610094", "e9f9d6a24e"] },
+        { "text": "Arab parties made marked gains, and The Hindu reported they hold the key to any majority.", "refs": ["2039ae8d6e", "e9f9d6a24e", "478f321a98"] },
+        { "text": "To form a government, Eisenkot would need either the Arab parties or members of Netanyahu's alliance, The New York Times reported.", "refs": ["20bf431d4f"] },
+        { "text": "Israel's president urged against holding a new election despite the inconclusive result.", "refs": ["e3c578f1e0"] },
+        { "text": "Israeli bonds and the shekel fell after the vote.", "refs": ["a288098db2"] },
+        { "text": "A Times of Israel poll before the vote showed Eisenkot with a big lead over Netanyahu but both blocs short of a majority.", "refs": ["world-w3"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Which bloc is ahead",
+          "positions": [
+            { "claim": "Exit polls on election night showed Eisenkot's bloc ahead, with Netanyahu winning fewer votes than his main challenger.", "refs": ["e174c7eef1", "b4907d52bf"] },
+            { "claim": "The partial official count, at more than 85% of ballots, puts Netanyahu's bloc ahead, 53 seats to 48.", "refs": ["6aa199e917", "b4907d52bf", "e3c578f1e0"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "a6b09d5ac2", "note": "Emphasizes the seats Netanyahu's bloc lost since 2022." },
+        { "ref": "745f7a6d4d", "note": "Stresses that Netanyahu, while not a winner, still has several ways to stay in power." },
+        { "ref": "478f321a98", "note": "Puts Arab parties at the center, as holding the key to a majority." },
+        { "ref": "9c3c890c94", "note": "Frames it evenly as a stalemate, with neither leader within reach of a majority." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "9e07492292", "takeaway": "AP explainer on the count with no clear winner; headline only.", "read_full": false },
+        { "ref": "4b4625df5b", "takeaway": "AP running updates on the count; headline only.", "read_full": false },
+        { "ref": "d202261d18", "takeaway": "Video report naming Netanyahu and Eisenkot as front-runners, neither likely to reach a majority.", "read_full": false },
+        { "ref": "e174c7eef1", "takeaway": "Based on early exit polls showing Netanyahu behind his main challenger.", "read_full": false },
+        { "ref": "4fd0b0e48c", "takeaway": "Paywalled; headline based on exit polls showing no clear winner.", "read_full": false },
+        { "ref": "6aa199e917", "takeaway": "Running seat tallies by bloc as the count passed 85%; the most detailed numbers.", "read_full": false },
+        { "ref": "64494e6a88", "takeaway": "Live blog: both blocs short of 61 seats, with big gains for Palestinian citizens' parties.", "read_full": false },
+        { "ref": "2039ae8d6e", "takeaway": "Summary of results: Netanyahu's coalition loses its majority, and the opposition also falls short.", "read_full": false },
+        { "ref": "e9f9d6a24e", "takeaway": "Stresses the surge for Palestinian citizens' parties and the highest turnout in decades.", "read_full": false },
+        { "ref": "b4907d52bf", "takeaway": "Notes Netanyahu outperformed exit polls and predicts weeks of wrangling.", "read_full": false },
+        { "ref": "9c3c890c94", "takeaway": "Brief account that neither bloc can reach a majority; headline only.", "read_full": false },
+        { "ref": "a6b09d5ac2", "takeaway": "Video analysis focused on Netanyahu's seat losses.", "read_full": false },
+        { "ref": "b05f610094", "takeaway": "Video explainer on why the result is messy despite record turnout.", "read_full": false },
+        { "ref": "478f321a98", "takeaway": "Partial count story stressing the Arab parties' leverage.", "read_full": false },
+        { "ref": "e3c578f1e0", "takeaway": "Reports the president's call to avoid a new election.", "read_full": false },
+        { "ref": "20bf431d4f", "takeaway": "Paywalled; summary lays out Eisenkot's coalition choices.", "read_full": false },
+        { "ref": "745f7a6d4d", "takeaway": "Paywalled analysis; summary says Netanyahu has multiple routes to remain in office.", "read_full": false },
+        { "ref": "a288098db2", "takeaway": "Market angle: Israeli bonds and the shekel fall on the deadlock.", "read_full": false },
+        { "ref": "world-w3", "takeaway": "Pre-election poll used for background; seen in search results, not opened.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "flavio-bolsonaro-lands-miami",
+      "headline": "Flávio Bolsonaro lands in Miami on a US visa after leaving Brazil",
+      "region": "Americas",
+      "importance": 4,
+      "summary": "Flávio Bolsonaro, the right-wing senator who lost Brazil's presidential runoff to Luiz Inácio Lula da Silva on Sunday, landed in Miami with his wife and two daughters after leaving Brazil through Argentina. The State Department extended visas to the family, The Hill reported, citing AP. Brazilian police had canceled his passport in connection with a Supreme Court investigation into alleged corruption, money laundering and tax evasion.",
+      "why_it_matters": "The main target of a Brazilian criminal investigation is now in the US with US-issued visas, adding to strains between the Trump administration and the government of Brazil, Latin America's largest economy.",
+      "background": "Lula, a leftist, won a fourth term on Sunday against Flávio Bolsonaro, a senator and the eldest son of former President Jair Bolsonaro, a close ally of President Trump. Flávio is under investigation over alleged corruption and money laundering, and after his loss a Supreme Court ruling barred him from leaving Brazil and ordered him to surrender his passports. He refused to concede for two days and threatened to try to annul the result before he left. Relations between Washington and Brasília were already tense: in August the Trump administration revoked the visa of Brazil's ambassador to the US in a dispute with Lula's government.",
+      "facts": [
+        { "text": "Flávio Bolsonaro, his wife and their two daughters landed in Miami.", "refs": ["801837f6df", "17297aa235", "3030a3b196", "6b2d5cb11f"] },
+        { "text": "He arrived on a private jet, the BBC reported.", "refs": ["17297aa235"] },
+        { "text": "He left Brazil via Argentina after police canceled his passport in connection with an investigation, The New York Times reported.", "refs": ["3030a3b196"] },
+        { "text": "The State Department extended visas to the family, The Hill reported, citing AP; The Washington Post also reported that he was granted a US visa.", "refs": ["ee61d4a9ed", "2cab90571b"] },
+        { "text": "Reuters' headline said he landed after Trump offered him a way out of Brazil.", "refs": ["ebee123899"] },
+        { "text": "He is under investigation by Brazil's Supreme Court over alleged corruption, money laundering and tax evasion.", "refs": ["b280382f69", "801837f6df"] },
+        { "text": "Before leaving, he refused for 48 hours to concede to Lula and then threatened to try to annul the result, AP reported.", "refs": ["b280382f69", "6b2d5cb11f"] },
+        { "text": "A Supreme Court order seized his passports and barred him from leaving the country.", "refs": ["world-w4"] },
+        { "text": "In August, the Trump administration revoked the visa of Brazil's ambassador to the US in a dispute with Lula's government.", "refs": ["world-w5"] }
+      ],
+      "disputed": [
+        {
+          "topic": "When he arrived in the US",
+          "positions": [
+            { "claim": "Tuesday morning, according to the BBC.", "refs": ["17297aa235"] },
+            { "claim": "Wednesday, according to DW, France 24 and The Hill.", "refs": ["801837f6df", "6b2d5cb11f", "ee61d4a9ed"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "ebee123899", "note": "Puts Trump's role in his departure in the headline." },
+        { "ref": "801837f6df", "note": "Says he 'fled' and leads with the money-laundering allegations." },
+        { "ref": "2cab90571b", "note": "Focuses on Washington's decision to grant him a visa." },
+        { "ref": "b280382f69", "note": "Calls him the defeated candidate and stresses the investigation he faces." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "b280382f69", "takeaway": "Video with AP text: refusal to concede, threat to annul the vote, and the court investigation.", "read_full": false },
+        { "ref": "17297aa235", "takeaway": "Video of the arrival; says he came by private jet on Tuesday morning.", "read_full": false },
+        { "ref": "801837f6df", "takeaway": "Short report that he 'fled' Brazil while facing money-laundering allegations.", "read_full": false },
+        { "ref": "3030a3b196", "takeaway": "Paywalled; summary details the route through Argentina and the canceled passport.", "read_full": false },
+        { "ref": "ee61d4a9ed", "takeaway": "Relays AP's report that the State Department extended visas to the family.", "read_full": false },
+        { "ref": "ebee123899", "takeaway": "Headline only; credits Trump with offering the exit.", "read_full": false },
+        { "ref": "2cab90571b", "takeaway": "Paywalled; headline only, focused on the visa.", "read_full": false },
+        { "ref": "6b2d5cb11f", "takeaway": "Video using AP text; dates the landing to Wednesday.", "read_full": false },
+        { "ref": "world-w4", "takeaway": "Brazilian report on the passport seizure and travel ban, used for background; seen in search results, not opened.", "read_full": false },
+        { "ref": "world-w5", "takeaway": "August AP report on the ambassador's visa, used for background; seen in search results, not opened.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iran-war-qatar-draft-gulf-warning",
+      "headline": "Iran rejects ideas in new Qatari peace draft as US reportedly warns Gulf of renewed strikes",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "Qatari mediators gave Iran a new draft deal on Sunday to end its war with the United States and Israel, an official briefed on the talks said, but an Iranian official said Wednesday that the latest mediation held only unacceptable ideas, Reuters reported. Separately, The Wall Street Journal reported that the US has warned several Gulf Arab states it may launch a short, intense round of strikes on Iran after the Nov. 3 midterm elections.",
+      "why_it_matters": "The war has pushed up fuel prices well beyond the Middle East, so whether it ends in a deal or flares up again after the midterms affects what people pay for gasoline, heating and travel. The Pentagon puts the US military's cost so far at more than $47 billion.",
+      "background": "The United States and Israel have been at war with Iran this year, and US and Israeli strikes have damaged Iranian nuclear sites this year and last. President Trump has said stopping Iran's nuclear program was one of the main reasons for the war. Qatar, a Gulf state that hosts a large US air base and also keeps channels open to Tehran, has been mediating. The fighting has raised fuel costs worldwide, and Iran-aligned Houthi rebels in Yemen have been firing missiles at Saudi Arabia.",
+      "facts": [
+        { "text": "Qatari mediators presented Iran with a new draft deal on Sunday to end the war, and Tehran was expected to respond by the end of the week, an official briefed on the talks said.", "refs": ["d494293d66", "39c3fe7c70"] },
+        { "text": "An Iranian official said the latest mediation contained only unacceptable ideas, Reuters reported.", "refs": ["4f9e93c660", "58e2656c28"] },
+        { "text": "The US has warned several Gulf Arab states that it may carry out a short but intense renewal of the war after the Nov. 3 midterms, The Wall Street Journal reported; other outlets followed its report.", "refs": ["e2a4c96040", "096f36947a", "289c30deb0", "0785cf27bf"] },
+        { "text": "The Journal reported signs that US and Israeli forces are preparing a possible wave of strikes to push Tehran into negotiating.", "refs": ["e2a4c96040"] },
+        { "text": "President Trump said the war will end 'when I want it to,' CNBC reported.", "refs": ["fd752cf534"] },
+        { "text": "The war had cost the US military at least $47.1 billion as of mid-October, according to military estimates reported by Reuters, CBS News and The New York Times; Reuters said that is more than 25% above the Pentagon's July estimate.", "refs": ["2cb9a5fe49", "a50323da5b", "8b67a6753a", "821edb941c"] },
+        { "text": "Bombs, missiles and other munitions made up more than 60% of that cost, The New York Times reported.", "refs": ["821edb941c"] },
+        { "text": "Rafael Grossi, head of the UN nuclear agency, said there was no sign that Iran has tried to repair nuclear facilities damaged in US and Israeli strikes.", "refs": ["f2fbf8f6ce", "a381e25e56", "166dfc0891"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "096f36947a", "note": "Puts Trump personally behind the warning and calls the possible strikes a 'fresh blitz.'" },
+        { "ref": "e2a4c96040", "note": "Describes a possible short, intense renewal meant to force Tehran to negotiate." },
+        { "ref": "4f9e93c660", "note": "Leads with Iran's rejection rather than the new offer." },
+        { "ref": "fd752cf534", "note": "Pairs Trump's 'when I want it to' remark with the rising cost of the war." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d494293d66", "takeaway": "Reuters wire text on the new Qatari draft and the expected Iranian reply.", "read_full": false },
+        { "ref": "39c3fe7c70", "takeaway": "Same Reuters report on the draft deal; headline only.", "read_full": false },
+        { "ref": "4f9e93c660", "takeaway": "Headline only: an Iranian official dismisses the mediation's ideas.", "read_full": false },
+        { "ref": "58e2656c28", "takeaway": "Live updates relaying Reuters on Iran's rejection.", "read_full": false },
+        { "ref": "e2a4c96040", "takeaway": "Paywalled scoop on the warning to Gulf states; worked from headline and summary.", "read_full": false },
+        { "ref": "096f36947a", "takeaway": "Follows the Journal's report, stressing 'several' Gulf states were told to brace.", "read_full": false },
+        { "ref": "289c30deb0", "takeaway": "Early follow-up of the warning report; headline only.", "read_full": false },
+        { "ref": "0785cf27bf", "takeaway": "Later follow-up of the same report; headline only.", "read_full": false },
+        { "ref": "fd752cf534", "takeaway": "Trump's remark plus the cost figures.", "read_full": false },
+        { "ref": "2cb9a5fe49", "takeaway": "Reuters wire text on the $47 billion cost and the July comparison.", "read_full": false },
+        { "ref": "a50323da5b", "takeaway": "Reuters cost story; headline only.", "read_full": false },
+        { "ref": "8b67a6753a", "takeaway": "Says the estimate comes from US Central Command and was obtained by CBS.", "read_full": false },
+        { "ref": "821edb941c", "takeaway": "Paywalled; summary breaks out munitions as more than 60% of costs.", "read_full": false },
+        { "ref": "f2fbf8f6ce", "takeaway": "AP text on Grossi's remarks, noting Trump's nuclear rationale for the war.", "read_full": false },
+        { "ref": "a381e25e56", "takeaway": "AP original on the IAEA finding; headline only.", "read_full": false },
+        { "ref": "166dfc0891", "takeaway": "Adds Grossi's call at the Security Council for inspector access to all sites.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "cyclone-arnab-landfall-andhra",
+      "headline": "Cyclone Arnab hits India's east coast, killing at least three",
+      "region": "Asia-Pacific",
+      "importance": 4,
+      "summary": "Cyclone Arnab came ashore in Andhra Pradesh in eastern India early Wednesday with winds of about 125 km/h, killing at least three people and damaging homes and crops, according to AP and Reuters; The Hindu later reported five deaths in the state. Authorities had moved tens of thousands of people out of coastal areas, and the storm is heading north toward Odisha, Chhattisgarh, Jharkhand and West Bengal.",
+      "why_it_matters": "Heavy rain is forecast across four more Indian states as the storm moves inland, putting homes, farms and power lines at risk, and AP noted that the coast it hit is lined with data centers worth billions of dollars. Coverage in the digest came only from left-leaning and center outlets.",
+      "background": "Cyclones form over the Bay of Bengal in most years, and the October-to-December season often brings them ashore in India's eastern states of Andhra Pradesh and Odisha, which have large low-lying coastal populations. The India Meteorological Department issued red alerts for both states ahead of landfall, and evacuations began the day before. AP reported that Arnab strengthened over unusually warm ocean water and tied it to a wider rise in extreme weather.",
+      "facts": [
+        { "text": "Cyclone Arnab crossed the Andhra Pradesh coast early Wednesday, officials said.", "refs": ["bb93387d6c", "ad3c49ec1d"] },
+        { "text": "The storm struck with winds of about 125 km/h (78 mph), France 24 reported.", "refs": ["dd28be68e8"] },
+        { "text": "At least three people were killed, and homes, farmland and crops were damaged.", "refs": ["9e649aa3fc", "5ed49b8ae4", "ad3c49ec1d"] },
+        { "text": "The Hindu reported five deaths in Andhra Pradesh and said families of the dead would receive ₹5 lakh (500,000 rupees) each.", "refs": ["7d5414cf71"] },
+        { "text": "Heavy inflows were swelling rivers across three districts of northern Andhra Pradesh.", "refs": ["aeca35e5a1"] },
+        { "text": "The storm is heading for Odisha, Chhattisgarh, Jharkhand and West Bengal, where heavy rain is forecast.", "refs": ["7d5414cf71"] },
+        { "text": "AP reported that the cyclone gained strength over unusually warm ocean water and was aimed at a coastline with billions of dollars in data centers.", "refs": ["858ccc9d2e"] },
+        { "text": "The India Meteorological Department issued a red alert for Andhra Pradesh and Odisha before landfall.", "refs": ["world-w6"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many people died",
+          "positions": [
+            { "claim": "At least three, per AP, Reuters and DW.", "refs": ["9e649aa3fc", "5ed49b8ae4", "ad3c49ec1d"] },
+            { "claim": "Five in Andhra Pradesh, per The Hindu's later live coverage.", "refs": ["7d5414cf71"] }
+          ]
+        },
+        {
+          "topic": "How many people were evacuated",
+          "positions": [
+            { "claim": "Tens of thousands, per AP.", "refs": ["bb93387d6c"] },
+            { "claim": "More than 180,000, per France 24.", "refs": ["dd28be68e8"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "9e649aa3fc", "note": "Leads with the damage: deaths, homes and farmland." },
+        { "ref": "858ccc9d2e", "note": "Frames the storm as part of a rising toll from extreme weather and a threat to costly infrastructure." },
+        { "ref": "dd28be68e8", "note": "Emphasizes the scale of evacuations and calls the storm 'massive.'" },
+        { "ref": "7d5414cf71", "note": "Leads with a higher death toll and the state's compensation for families." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ad3c49ec1d", "takeaway": "Live blog: three dead after landfall.", "read_full": false },
+        { "ref": "bb93387d6c", "takeaway": "AP on landfall, a day after tens of thousands were evacuated.", "read_full": false },
+        { "ref": "5ed49b8ae4", "takeaway": "Reuters text: three dead, dozens of houses damaged, crops destroyed.", "read_full": false },
+        { "ref": "dd28be68e8", "takeaway": "Video report with wind speed and a 180,000 evacuation figure.", "read_full": false },
+        { "ref": "9e649aa3fc", "takeaway": "AP damage story; headline only.", "read_full": false },
+        { "ref": "858ccc9d2e", "takeaway": "AP analysis on warm seas and data centers on the exposed coast.", "read_full": false },
+        { "ref": "aeca35e5a1", "takeaway": "Local report on rising rivers in north Andhra; headline only.", "read_full": false },
+        { "ref": "7d5414cf71", "takeaway": "Live updates with the higher toll, compensation and the storm's path.", "read_full": false },
+        { "ref": "world-w6", "takeaway": "Pre-landfall report on the weather agency's red alert; seen in search results, not opened.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "belgrade-israeli-embassy-attack",
+      "headline": "Knife attacker, a minor, shot dead after wounding officer at Israel's embassy in Belgrade",
+      "region": "Europe",
+      "importance": 3,
+      "summary": "An attacker armed with knives wounded a police officer guarding the Israeli Embassy in Belgrade just after midnight Wednesday and was shot dead by the officer, Serbian authorities said. Officials said the attacker was an underage male who had been monitored by security services, and The New York Times reported that the government said he appeared to support the Islamic State group and called the attack terrorism.",
+      "why_it_matters": "Israeli diplomatic sites in Europe are under armed police guard, and this attack, by a minor already known to Serbia's security services, comes as the country's government changes hands after an election that ended Aleksandar Vucic's 14 years in power.",
+      "background": "Israel's embassy in Belgrade is guarded by officers from the Gendarmerie, an elite unit of Serbia's police. Interior Minister Ivica Dacic, who gave details of the attack, belongs to the outgoing government: a student-led movement won the Oct. 25 election, and Vucic, Serbia's dominant leader for 14 years, conceded defeat. The Islamic State group, which once held territory in Iraq and Syria, has inspired attacks by individual supporters across Europe, some of them teenagers.",
+      "facts": [
+        { "text": "An attacker with knives went after a police officer from an elite unit guarding the Israeli Embassy in Belgrade just after midnight Wednesday, and the officer shot him dead, police said.", "refs": ["2d872c2f14", "50fd7e9531", "cdc23f3473", "f928586fd2"] },
+        { "text": "The officer was wounded, Serbia's outgoing interior minister said, according to Reuters.", "refs": ["cdc23f3473", "f928586fd2"] },
+        { "text": "Authorities said the attacker was an underage male who had been monitored by security services.", "refs": ["36cb54dc27", "e074127522", "ff09646fc4"] },
+        { "text": "The government said the attacker appeared to be an Islamic State supporter, and authorities described the attack as terrorism, The New York Times reported.", "refs": ["ff09646fc4"] },
+        { "text": "Police said the attacker shouted 'Allahu Akbar,' Fox News reported.", "refs": ["ac1ed69768"] },
+        { "text": "The BBC, citing the interior minister, identified the attacker as Serbian.", "refs": ["36cb54dc27"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "ac1ed69768", "note": "Leads with the attacker's reported shout of 'Allahu Akbar.'" },
+        { "ref": "36cb54dc27", "note": "Leads with the attacker's Serbian nationality and attributes the account to a minister." },
+        { "ref": "e074127522", "note": "Puts the attacker's age first." },
+        { "ref": "2d872c2f14", "note": "Plain account centered on the officer and the attacker's death." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2d872c2f14", "takeaway": "Short video report with the police account.", "read_full": false },
+        { "ref": "36cb54dc27", "takeaway": "Adds that the attacker was a minor known to security services.", "read_full": false },
+        { "ref": "50fd7e9531", "takeaway": "Paywalled; AP text cites Interior Minister Ivica Dacic on how police were treating the case.", "read_full": false },
+        { "ref": "cdc23f3473", "takeaway": "Reuters text: attacker carried two knives and wounded the officer.", "read_full": false },
+        { "ref": "f928586fd2", "takeaway": "Reuters original; headline only.", "read_full": false },
+        { "ref": "e074127522", "takeaway": "Headline only, stressing that the attacker was a minor.", "read_full": false },
+        { "ref": "ac1ed69768", "takeaway": "Leads with the 'Allahu Akbar' detail attributed to police.", "read_full": false },
+        { "ref": "ff09646fc4", "takeaway": "Paywalled; summary gives the government's Islamic State and terrorism description.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "houthis-saudi-ras-tanura-refinery",
+      "headline": "Houthis say they hit Saudi Arabia's largest oil refinery; oil prices rise",
+      "region": "Middle East",
+      "importance": 3,
+      "summary": "Yemen's Iran-aligned Houthi movement said Tuesday it struck Saudi Arabia's Ras Tanura refinery, the kingdom's biggest, with a ballistic missile. Blasts were heard in Riyadh, where Saudi Arabia said its air defenses intercepted Houthi missiles. Oil prices rose more than 1% on Wednesday on renewed supply worries.",
+      "why_it_matters": "Saudi Arabia is the world's second-largest crude producer, so attacks on its oil sites can lift crude prices and, in turn, what drivers and households pay for fuel.",
+      "background": "The Houthis, an armed movement backed by Iran, control much of northern Yemen, including the capital, Sanaa, and fought a Saudi-led military coalition for years after 2015. They have also attacked shipping in the Red Sea. During this year's war involving Iran, they have spent weeks firing at Saudi oil and civilian targets, including Riyadh's international airport, according to The Hindu. Ras Tanura, on the Gulf coast of Saudi Arabia's Eastern Province, is a major hub for the state oil company, Saudi Aramco.",
+      "facts": [
+        { "text": "The Houthis said they hit Saudi Arabia's Ras Tanura refinery in the Eastern Province with a ballistic missile on Tuesday.", "refs": ["3b64beb43b", "e5c05b3725"] },
+        { "text": "Ras Tanura is Saudi Arabia's biggest oil refinery, Reuters reported.", "refs": ["8c5364f556"] },
+        { "text": "Blasts shook Riyadh, and Saudi Arabia said its air defenses intercepted Houthi missiles over the capital.", "refs": ["af04881b86", "95bfc2384e"] },
+        { "text": "Oil prices rose more than 1% on Wednesday after the attack.", "refs": ["8c5364f556", "e5c05b3725"] },
+        { "text": "Saudi Arabia has faced weeks of Houthi strikes on oil and civilian sites, including Riyadh's international airport, The Hindu reported.", "refs": ["af04881b86"] },
+        { "text": "Houthi missiles also struck an airport in Yemen, and a spokesman said they were targeting a Saudi cargo plane, The Washington Times reported.", "refs": ["3ad49ddb1a"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "3b64beb43b", "note": "Presents the strike as the Houthis' own claim." },
+        { "ref": "e5c05b3725", "note": "Leads with the market effect and calls the Houthis militants." },
+        { "ref": "95bfc2384e", "note": "Leads with Saudi Arabia's account of intercepting missiles over Riyadh." },
+        { "ref": "af04881b86", "note": "Pairs the claim with the blasts in Riyadh and weeks of earlier strikes." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3b64beb43b", "takeaway": "Headline only: the Houthis' claim of a hit on Ras Tanura.", "read_full": false },
+        { "ref": "af04881b86", "takeaway": "Adds blasts in Riyadh and the weeks of strikes on Saudi sites.", "read_full": false },
+        { "ref": "95bfc2384e", "takeaway": "AP roundup led by Saudi Arabia's account of interceptions; headline only.", "read_full": false },
+        { "ref": "8c5364f556", "takeaway": "Reuters market text: oil up more than 1% after the refinery claim.", "read_full": false },
+        { "ref": "e5c05b3725", "takeaway": "Paywalled; summary says the Houthis used a ballistic missile on the Eastern Province refinery.", "read_full": false },
+        { "ref": "3ad49ddb1a", "takeaway": "Headline only: Houthi missiles hit an airport in Yemen.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "egypt-mada-masr-closure",
+      "headline": "Egyptian court orders independent news site Mada Masr closed and fines its editor",
+      "region": "Africa",
+      "importance": 3,
+      "summary": "A Cairo court convicted Lina Attalah, editor-in-chief of Mada Masr, of running an unlicensed website on Tuesday and ordered one of Egypt's last independent news outlets to close. Attalah was taken into custody pending payment of a fine and has since been released, The Guardian reported. Amnesty International and the Committee to Protect Journalists condemned the ruling.",
+      "why_it_matters": "Mada Masr is one of Egypt's last independent news outlets, so closing it leaves Egyptians with fewer sources of news outside state-aligned media. Coverage in the digest came only from left-leaning and center outlets.",
+      "background": "Egypt under President Abdel Fattah el-Sissi, in power since 2013, has kept tight control of the media, and press-freedom groups have long ranked it among the countries that jail the most journalists. Mada Masr, which Attalah co-founded in 2013, publishes investigative reporting from inside Egypt and has faced repeated legal pressure, including a block on its website. Egyptian law requires news websites to hold a license from a state media regulator, the basis for this conviction.",
+      "facts": [
+        { "text": "The New Cairo Misdemeanours Court convicted Lina Attalah of operating an unlicensed website and ordered Mada Masr shut down.", "refs": ["23633b8b40", "bb861c29f4", "75328a550d", "d33626d3d3"] },
+        { "text": "Attalah was taken into police custody pending payment of the maximum fine, according to Amnesty International.", "refs": ["23633b8b40", "bb861c29f4"] },
+        { "text": "She has since been released from detention.", "refs": ["73a6520b75", "75328a550d"] },
+        { "text": "Amnesty International called the ruling a devastating blow to media freedom.", "refs": ["23633b8b40"] },
+        { "text": "The Committee to Protect Journalists condemned the conviction and urged Egyptian authorities to reverse it and release Attalah.", "refs": ["b48db0942d"] },
+        { "text": "Reuters described the case as one seen as a test for independent media in Egypt.", "refs": ["f17616b3c9"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f17616b3c9", "note": "Frames the case as a test for independent media rather than leading with the editor." },
+        { "ref": "bb861c29f4", "note": "Stresses that Mada Masr is one of Egypt's last independent outlets." },
+        { "ref": "d33626d3d3", "note": "Adds critics' warnings of a wider crackdown." },
+        { "ref": "75328a550d", "note": "Leads with the closure and notes rights groups' condemnation." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "bb861c29f4", "takeaway": "AP: closure ordered and editor detained and fined.", "read_full": false },
+        { "ref": "f17616b3c9", "takeaway": "Headline only; casts the ruling as a test case.", "read_full": false },
+        { "ref": "75328a550d", "takeaway": "Says Attalah was briefly detained and rights groups condemned the ruling.", "read_full": false },
+        { "ref": "d33626d3d3", "takeaway": "Paywalled; summary quotes Mada Masr's own account of the order.", "read_full": false },
+        { "ref": "23633b8b40", "takeaway": "Amnesty International statement republished by AllAfrica; names the court and the custody terms.", "read_full": false },
+        { "ref": "b48db0942d", "takeaway": "CPJ statement republished by AllAfrica, calling for release and reversal.", "read_full": false },
+        { "ref": "73a6520b75", "takeaway": "Reports Attalah's release and warnings of an escalating clampdown.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w1", "url": "https://www.nbcwashington.com/news/national-international/spain-high-speed-trains-collide-after-derail/", "title": "Spain high-speed trains collide after derail", "outlet": "NBC Washington" },
+    { "id": "world-w2", "url": "https://es.ara.cat/sociedad/39-muertos-150-heridos-choque-trenes-alta-velocidad-cordoba_1_5622100.html", "title": "Al menos 40 muertos y 150 heridos en el choque de dos trenes de alta velocidad en Córdoba", "outlet": "Ara" },
+    { "id": "world-w3", "url": "https://www.timesofisrael.com/toi-poll-eisenkot-opens-up-big-lead-on-netanyahu-but-both-blocs-short-of-majority/amp/", "title": "ToI poll: Eisenkot opens up big lead on Netanyahu, but both blocs short of majority", "outlet": "The Times of Israel" },
+    { "id": "world-w4", "url": "https://www.gazetadopovo.com.br/republica/flavio-bolsonaro-tem-passaportes-apreendidos-e-esta-proibido-de-deixar-o-pais/", "title": "Flávio Bolsonaro tem passaportes apreendidos e está proibido de deixar o país", "outlet": "Gazeta do Povo" },
+    { "id": "world-w5", "url": "https://www.local10.com/news/world/2026/08/04/trump-administration-revokes-visa-of-brazils-ambassador-to-us-in-spat-with-lula/", "title": "Trump administration revokes visa of Brazil's ambassador to US in spat with Lula", "outlet": "Local 10 (AP)" },
+    { "id": "world-w6", "url": "https://www.businesstoday.in/india/story/cyclone-arnab-imd-issues-red-alert-as-andhra-pradesh-odisha-brace-for-landfall-check-rainfall-forecast-563587-2026-10-26", "title": "Cyclone Arnab: IMD issues red alert as Andhra Pradesh, Odisha brace for landfall", "outlet": "Business Today" }
+  ]
+}

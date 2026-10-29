@@ -1,0 +1,72 @@
+{
+  "overview": "The Federal Reserve held interest rates steady at its last meeting before next Tuesday's midterm elections, though two officials voted for a hike with inflation at 3.7%. Abroad, a high-speed train crashed into a stopped train south of Madrid, killing at least 68 people; Israel's election left Benjamin Netanyahu's bloc short of a majority; and defeated Brazilian candidate Flávio Bolsonaro flew to Miami while under investigation at home. In Washington, a grand jury declined to indict former White House aide Cassidy Hutchinson over her Jan. 6 testimony, and President Trump said he is ending Biden-era limits on methane from oil and gas drilling. In New York, a Siena poll put Gov. Kathy Hochul 14 points ahead of Bruce Blakeman a week before Election Day.",
+  "markets": {
+    "summary": "The Federal Reserve left its benchmark interest rate at 3.75% to 4% on Wednesday, as expected, but two officials voted for an increase, so a hike at the Dec. 8-9 meeting remains possible with inflation at 3.7%, pushed up by oil and gas prices from the Iran war. Stocks closed slightly higher, with the S&P 500 up about 0.3%, while the tech rally set off by Anthropic's filing to go public faded. The 10-year Treasury yield, which guides mortgage rates, held near 5%. After the closing bell, Microsoft shares rose on strong cloud sales, while Alphabet fell about 10% in after-hours trading (trading after the 4 p.m. close) on a profit miss and heavy spending on AI.",
+    "movers": [
+      {
+        "symbol": "NASDAQCOM",
+        "why": "Rose 1.2% on Tuesday, the second day of a tech rally set off by Anthropic's IPO filing; the rally faded on Wednesday."
+      },
+      {
+        "symbol": "DGS10",
+        "why": "Held at about 5% as investors waited for the Fed, and edged up Wednesday morning ahead of the decision."
+      },
+      {
+        "symbol": "CPIAUCSL",
+        "why": "Inflation rose to 3.7% in September from 3.4% in August as the Iran war drove up energy prices, the backdrop for the two Fed officials who voted for a rate hike on Wednesday."
+      }
+    ],
+    "concept": {
+      "term": "10-year Treasury yield",
+      "explanation": "The 10-year Treasury yield is the annual interest the U.S. government pays to borrow money for 10 years. It is set by trading, not by the Fed: when investors expect higher inflation, more government borrowing or higher Fed rates, they demand more interest and the yield rises. It stood at 5.00% on Monday, slightly below where it was a month earlier. Lenders use it as a starting point for long-term loans, which is why the average 30-year mortgage rate (7.32% last week) tends to move with it: when the 10-year yield climbs, buying a home or refinancing gets more expensive, while savers can earn more on bonds and CDs."
+    },
+    "watch": [
+      "Thu Oct 29: First estimate of third-quarter GDP and September PCE inflation, the Fed's preferred price gauge (8:30 a.m. ET)",
+      "Thu Oct 29: Amazon reports quarterly earnings after the close",
+      "Tue Nov 3: Midterm elections, including the Texas Senate race and New York's race for governor",
+      "Fri Nov 6: October jobs report"
+    ]
+  },
+  "trending": [
+    {
+      "title": "Spain high-speed train crash",
+      "context": "A high-speed train struck another stopped on the tracks near Toledo, south of Madrid, killing at least 68 people, Spain's second deadly rail crash this year; it drove searches for 'derailment' and hundreds of Bluesky posts.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "2026 Israeli legislative election",
+      "context": "The most-read Wikipedia page of the day as votes were counted with no clear winner and Benjamin Netanyahu's bloc short of a majority, with Gadi Eisenkot also drawing heavy traffic.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "Dolores Huerta",
+      "context": "The labor organizer who co-founded the United Farm Workers with César Chávez and coined 'Sí, se puede' died Wednesday at 96, her family said.",
+      "signal": "google"
+    },
+    {
+      "title": "Anthropic files for IPO",
+      "context": "The AI company's filing to go public sparked a tech-stock rally and attention to its 93 pages of listed risks, which Sen. Elizabeth Warren has asked it to explain.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Trump warns of Talarico win",
+      "context": "President Trump held rallies in Texas to keep the state's Senate seat Republican as Democrat James Talarico and Republican Ken Paxton held dueling events in Lubbock a week before the midterms.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Flávio Bolsonaro flies to the U.S.",
+      "context": "The defeated Brazilian presidential candidate landed in Miami with his family after refusing to concede to President Lula, who won re-election, while he faces a corruption and money-laundering investigation at home.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Serbian parliamentary election",
+      "context": "A student-led movement won a majority, ending Aleksandar Vučić's 14 years in power; tennis star Novak Djokovic praised the students, which helped push his name up Google searches.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "John Healey's first UK Budget",
+      "context": "Britain's new chancellor set out tax and spending plans, including a 3.9% minimum-wage rise and a £100 household payment, as the budget watchdog cut its outlook for living standards.",
+      "signal": "bluesky"
+    }
+  ]
+}
