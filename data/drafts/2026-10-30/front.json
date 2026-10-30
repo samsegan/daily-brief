@@ -1,0 +1,32 @@
+{
+  "overview": "Wall Street's tech-led slide deepened after Alphabet reported a revenue miss that revived worries about the cost of AI spending, while oil stayed above $100 a barrel. ECB President Christine Lagarde said she will step down early, setting off a scramble over her successor, and the ECB held rates but flagged a possible December hike. Brazil re-elected Lula, Serbia's Student List won a parliamentary majority, and a high-speed train collision in Spain killed at least 69 people, per Wikipedia's news summary. In the US, the midterm elections are days away.",
+  "markets": {
+    "summary": "US tech stocks sold off as the market weakened: the Nasdaq Composite lost 1.38% and the Dow slipped 0.25%, per the latest figures. Reuters and AP attributed the move to Alphabet's revenue miss, which revived concern about how much companies are spending on AI. Oil remains elevated, with WTI near $103 and Brent above $123, which keeps inflation pressure in view: the latest CPI reading is 3.72% year over year. The 10-year Treasury yield is 5.05%, and the average 30-year mortgage rate is 7.24%, down 8 basis points on the day. Bitcoin fell about 4%.",
+    "movers": [
+      { "symbol": "NASDAQCOM", "why": "Fell 1.38% as Alphabet's revenue miss, which Reuters said revived AI spending jitters, pulled tech shares lower." },
+      { "symbol": "CBBTCUSD", "why": "Dropped about 4%; the Wall Street Journal reported the same day that Binance suspended transactions after a cyberattack, but the cause of the fall is not established." },
+      { "symbol": "DCOILBRENTEU", "why": "Brent fell 3.9% in the latest reading (Oct. 27) but is still about 6% higher than a month ago; the data doesn't say why it fell." }
+    ],
+    "concept": {
+      "term": "Capital expenditure (capex)",
+      "explanation": "Capex is money a company spends on long-lasting assets such as data centers, chips and factories, rather than on day-to-day costs. It rises when executives expect demand to grow, and investors watch it closely: heavy spending can pay off later but cuts into profit now, which is why AI spending plans can move a stock. It reaches your wallet through your retirement account, since big tech stocks make up a large part of popular index funds, and through the jobs and electricity demand that new data centers bring."
+    },
+    "watch": [
+      "Sun Nov 1: Clocks go back an hour as daylight saving time ends",
+      "Tue Nov 3: US midterm elections",
+      "Fri Nov 6: October jobs report, 8:30 a.m. ET (date per secondary calendars; confirm with the BLS)",
+      "Wed Dec 9: Next Federal Reserve rate decision",
+      "December: ECB meeting, where it has flagged a possible rate hike"
+    ]
+  },
+  "trending": [
+    { "title": "Patrick Stewart", "context": "Wikipedia's news summary reports the British actor died at 86, and his page drew over 2 million views.", "signal": "wikipedia_news" },
+    { "title": "Brewers win the World Series", "context": "Wikipedia reports Milwaukee beat Tampa Bay for the title, and the Brewers and several of their players are among the day's most-viewed pages.", "signal": "wikipedia_news" },
+    { "title": "High-speed train collision in Spain", "context": "Wikipedia reports at least 69 people died when two trains collided in Toledo province.", "signal": "wikipedia_news" },
+    { "title": "Lula re-elected in Brazil", "context": "Wikipedia reports Luiz Inácio Lula da Silva won the presidency again; Bluesky users are also discussing Flávio Bolsonaro landing in Miami.", "signal": "wikipedia_news" },
+    { "title": "Serbian parliamentary election", "context": "Wikipedia reports the Student List won a majority of seats, defeating Aleksandar Vučić's party.", "signal": "wikipedia_news" },
+    { "title": "AI Mode sinks Alphabet shares", "context": "People on Bluesky are discussing Alphabet's stock drop after its earnings.", "signal": "bluesky" },
+    { "title": "Polymarket reportedly hacked", "context": "Bluesky users are discussing reports of a hack at the prediction-market site.", "signal": "bluesky" },
+    { "title": "When is Election Day 2026", "context": "Searches are rising with the midterm elections set for Nov. 3.", "signal": "google" }
+  ]
+}

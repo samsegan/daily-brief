@@ -1,0 +1,241 @@
+{
+  "stories": [
+    {
+      "id": "bronx-teen-ambush-shooting",
+      "headline": "Police search for the shooters who killed a 15-year-old in the Bronx",
+      "region": "Bronx",
+      "importance": 4,
+      "summary": "A 15-year-old boy, identified by police sources as Javits Frimpong, was shot dead on a Bronx street near Crotona Park on Thursday morning. Police are still looking for those responsible and, according to amNY, are seeking teenage suspects.",
+      "why_it_matters": "A fatal shooting of a schoolchild on a morning street near a park is a reminder of youth gun violence in the Bronx; coverage here comes from local and left-leaning outlets only.",
+      "background": "The shooting happened on the morning of Oct. 29 near East 171st Street and Crotona Park in the Bronx. Police sources told amNY the boy was found just before 9:30 a.m. The NYPD told Gothamist he was shot once in the abdomen and pronounced dead at St. Barnabas Hospital. The Daily News described the shooting as an ambush and reported the boy was from Ghana and wanted to become a doctor. No arrests had been reported in the digest coverage.",
+      "facts": [
+        {
+          "text": "Police sources identified the boy as 15-year-old Javits Frimpong, found shot just before 9:30 a.m. on Oct. 29 near East 171st Street and Crotona Park.",
+          "refs": [
+            "5e96b7de29"
+          ]
+        },
+        {
+          "text": "The NYPD said he was shot once in the abdomen and pronounced dead at St. Barnabas Hospital.",
+          "refs": [
+            "378cd601ad"
+          ]
+        },
+        {
+          "text": "The Daily News reported the boy was from Ghana and dreamed of becoming a doctor.",
+          "refs": [
+            "527829ac83"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "527829ac83",
+          "note": "Calls it an ambush near the boy's home and centers on who he was and his ambitions."
+        },
+        {
+          "ref": "378cd601ad",
+          "note": "Says he was walking to school and attributes the details to the NYPD."
+        },
+        {
+          "ref": "5e96b7de29",
+          "note": "Leads with the manhunt for the teenage suspects, citing police sources."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "527829ac83",
+          "takeaway": "Human-interest profile of the victim (headline only; no summary in digest).",
+          "read_full": false
+        },
+        {
+          "ref": "5e96b7de29",
+          "takeaway": "Police-sourced account focused on the search for suspects.",
+          "read_full": false
+        },
+        {
+          "ref": "378cd601ad",
+          "takeaway": "Straight report with NYPD details on the wound and hospital.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "bronx-ebike-battery-fire",
+      "headline": "FDNY blames e-bike battery for Bronx fire that killed an 11-year-old",
+      "region": "Bronx",
+      "importance": 4,
+      "summary": "The FDNY said a lithium-ion battery in an e-bike started a fire in the Bronx that killed 11-year-old Zion Maine and injured four relatives. Neighbors held a vigil at the Patterson Houses in Mott Haven, and THE CITY reported that e-bike battery fires are rising in NYCHA housing.",
+      "why_it_matters": "Residents of public and older apartment buildings face fire risk from charging e-bikes indoors, and the city has no NYCHA-wide ban in place according to THE CITY's reporting of the 2023 debate.",
+      "background": "Lithium-ion batteries in e-bikes and scooters have been a growing fire hazard in New York for several years, especially in apartments. In 2023, after fatal fires in NYCHA apartments, the housing authority considered banning the devices outright, but opposition emerged from those who rely on them, THE CITY reported. This week's fire killed a boy on Wednesday. FDNY officials said the batteries have caused more than 400 fires across the city this year.",
+      "facts": [
+        {
+          "text": "FDNY officials said a lithium-ion battery in an e-bike started the Bronx fire that killed an 11-year-old.",
+          "refs": [
+            "3d2ffb2861"
+          ]
+        },
+        {
+          "text": "Zion Maine died Wednesday; four members of his family were injured, and a vigil was held outside the Patterson Houses in Mott Haven.",
+          "refs": [
+            "e0d6485e37"
+          ]
+        },
+        {
+          "text": "Officials said lithium-ion batteries have caused more than 400 fires in the city this year.",
+          "refs": [
+            "3d2ffb2861"
+          ]
+        },
+        {
+          "text": "THE CITY reported that e-bike battery fires at NYCHA are rising, and that NYCHA considered banning the devices in 2023 but faced opposition.",
+          "refs": [
+            "361d21f721"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "3d2ffb2861",
+          "takeaway": "Reports the FDNY finding and citywide fire count.",
+          "read_full": false
+        },
+        {
+          "ref": "e0d6485e37",
+          "takeaway": "Community vigil coverage naming the victim.",
+          "read_full": false
+        },
+        {
+          "ref": "361d21f721",
+          "takeaway": "Policy angle on rising battery fires in NYCHA and the unresolved 2023 ban debate.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "racial-equity-commission-chair",
+      "headline": "Mamdani and Menin name new racial equity commission chair, but not until August 2027",
+      "region": "City Hall",
+      "importance": 3,
+      "summary": "Mayor Zohran Mamdani and Council Speaker Julie Menin formally appointed Christopher Alexander to lead the city's independent racial equity watchdog starting in August 2027. The timing reflects an agreement reached after Council members objected to replacing current chair Linda Tigani sooner. Only amNY's report is in the digest.",
+      "why_it_matters": "The commission reviews how city agencies treat racial equity, so who leads it and when shapes how independent that oversight is. The dispute shows the mayor and Council negotiating over appointments.",
+      "background": "The Commission on Racial Equity is an independent city body. Mamdani had moved to replace its chair, Linda Tigani, who had criticized the administration's handling of the city's first racial equity plan, according to reports that surfaced in October. Council members, including supporters who rallied at City Hall, pushed back. TheGrio reported Alexander, who leads the NAACP New York State Conference, as the mayor's pick.",
+      "facts": [
+        {
+          "text": "Mamdani and Menin appointed Christopher Alexander to chair the racial equity watchdog beginning in August 2027, an agreement reached after Council pushback over replacing Tigani.",
+          "refs": [
+            "260ccc5d76"
+          ]
+        },
+        {
+          "text": "TheGrio reported that Alexander is executive director of the NAACP New York State Conference.",
+          "refs": [
+            "nyc-w1"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "260ccc5d76",
+          "takeaway": "Presents the deal as a compromise delaying the handover.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nyc-school-enrollment-decline",
+      "headline": "NYC public school enrollment keeps falling",
+      "region": "Schools",
+      "importance": 3,
+      "summary": "The Daily News reported that K-12 enrollment in the city fell 19% over a decade, raising concerns about resources. The New York Post separately reported the decline is occurring even as spending rises.",
+      "why_it_matters": "Fewer students affect school budgets, staffing and building use, and fuels debate over school closures and per-pupil spending.",
+      "background": "New York City public school enrollment has been falling. Policymakers have argued over whether to cut class sizes or consolidate schools as rolls shrink. Mayor Mamdani's administration and the Department of Education manage the system.",
+      "facts": [
+        {
+          "text": "The Daily News reported that K-12 enrollment in NYC fell 19% over a decade.",
+          "refs": [
+            "38203057c0"
+          ]
+        },
+        {
+          "text": "The Post reported enrollment is dropping while spending rises.",
+          "refs": [
+            "6b5ca9933f"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "6b5ca9933f",
+          "note": "Uses charged language ('plummeting', 'alarming') and ties the drop to rising spending."
+        },
+        {
+          "ref": "38203057c0",
+          "note": "States the 19% figure and frames the consequence as resource strain."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "6b5ca9933f",
+          "takeaway": "Emphasizes spending versus enrollment (summary only).",
+          "read_full": false
+        },
+        {
+          "ref": "38203057c0",
+          "takeaway": "Headline gives the decade-long percentage drop (headline only).",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "riders-alliance-fix-the-bus",
+      "headline": "Riders Alliance launches campaign for faster, free buses",
+      "region": "Transit",
+      "importance": 2,
+      "summary": "Riders Alliance has begun a campaign using union and tenant organizing tactics to build a base of bus riders behind faster and free bus service, amNY reported. The group calls the city's bus system the nation's slowest.",
+      "why_it_matters": "Bus speed and fares affect millions of daily riders, and the campaign is aimed at pressure on city and state officials. Only amNY's report is in the digest.",
+      "background": "Riders Alliance is a transit advocacy group that has pushed for bus lanes, faster service and fare relief. Fare-free buses were a central promise of Mayor Mamdani's campaign. Paying for them and speeding service would require action by the city and the MTA, which is state-controlled.",
+      "facts": [
+        {
+          "text": "Riders Alliance launched a campaign called 'Fix the Bus' to organize riders behind faster, free bus service, using tactics common in labor and tenant organizing.",
+          "refs": [
+            "092b1a0b83"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "092b1a0b83",
+          "takeaway": "Advocacy-group launch report presenting the group's goals.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "nyc-w1",
+      "url": "https://thegrio.com/2026/10/28/exclusive-mamdani-taps-naacp-leader-racial-equity-commission/",
+      "title": "Mamdani taps NAACP New York leader to chair NYC racial equity commission",
+      "outlet": "TheGrio"
+    }
+  ]
+}

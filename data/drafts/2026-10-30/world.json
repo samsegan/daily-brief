@@ -1,0 +1,346 @@
+{
+  "stories": [
+    {
+      "id": "israel-election-deadlock",
+      "headline": "Israel's election ends without a majority for either bloc as Netanyahu's party alleges fraud",
+      "region": "Middle East",
+      "importance": 5,
+      "summary": "Final results from Israel's general election show Prime Minister Benjamin Netanyahu's bloc ahead but eight seats short of a majority, with Gadi Eisenkot's bloc behind and Arab-led parties holding the balance. Netanyahu's Likud has alleged, without providing evidence, that the vote was tainted by fraud and foreign involvement; police and other officials have rejected the claims. Weeks of coalition talks, or another election, now lie ahead.",
+      "why_it_matters": "Who governs Israel shapes the war and ceasefire diplomacy, regional security and oil-market nerves, and the unresolved result means policy decisions may stall for weeks. The fraud claims also raise questions about trust in the vote itself.",
+      "background": "Israel elects a 120-seat Knesset and a government needs 61 seats, which almost always requires a coalition of several parties. This was the country's first national election since Hamas's October 7, 2023 attack. Netanyahu has led the government for most of the past two decades and leads a coalition of right-wing, religious and far-right parties. His main rival this time is Gadi Eisenkot, a former military chief of staff who leads the Yashar party. Arab-led parties, which usually sit outside coalitions, won their largest combined showing, putting them in a position to influence what government can form.",
+      "facts": [
+        { "text": "Final results showed Netanyahu's coalition won the most seats but fell eight short of a parliamentary majority.", "refs": ["801fa16595", "70e5f728c6", "de4804cebf"] },
+        { "text": "The Times of Israel reported the seat split as 53 for Netanyahu's bloc, 48 for Eisenkot's bloc and 19 for Arab parties.", "refs": ["3561ae0b1f"] },
+        { "text": "NBC News reported that Arab minority-led parties won a combined 19 seats in a race with record turnout among Arab citizens of Israel.", "refs": ["4acf8943b4"] },
+        { "text": "Likud alleged on Thursday, without providing evidence, that Arab parties' gains were driven in part by voter fraud.", "refs": ["181130d242", "016eda7217"] },
+        { "text": "President Isaac Herzog called for an investigation of the fraud allegations while cautioning against stigmatizing the whole Arab Israeli community.", "refs": ["76315b587c"] },
+        { "text": "Qatar called accusations of election interference \"ridiculous and dangerous\"; the Guardian reported Israeli police and opposition parties also dismissed Netanyahu's claim.", "refs": ["8c766d0c6f"] },
+        { "text": "Polymarket said it is investigating suspicious trades placed shortly before polls closed, betting on Netanyahu doing better than his opponent, the WSJ reported.", "refs": ["078e73a65c"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the election was marred by fraud or foreign interference",
+          "positions": [
+            { "claim": "Netanyahu and Likud say the vote was \"stolen\" with foreign backing, naming Qatar and Turkey, and ask police to investigate.", "refs": ["df0d114d07", "016eda7217", "181130d242"] },
+            { "claim": "Israeli authorities, police and opposition parties dispute the claims, and Qatar rejects them.", "refs": ["df0d114d07", "8c766d0c6f"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "016eda7217", "note": "Leads with Netanyahu's \"stolen by Arab parties\" claim and the Arab parties' kingmaker role." },
+        { "ref": "38d67bbae0", "note": "Leads with the accusation that Netanyahu is smearing Arab voters to keep power." },
+        { "ref": "936e1d00c2", "note": "Treats the result as unlikely to change policy, since both leading candidates oppose a Palestinian state." },
+        { "ref": "9a47dc66af", "note": "Calls the outcome inconclusive and stresses that Likud lost about one-sixth of its seats." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "801fa16595", "takeaway": "Wire-style results story: bloc totals and the eight-seat shortfall.", "read_full": false },
+        { "ref": "3561ae0b1f", "takeaway": "Seat-by-bloc tally after all votes were counted.", "read_full": false },
+        { "ref": "4acf8943b4", "takeaway": "Emphasizes the historic Arab party gains and turnout.", "read_full": false },
+        { "ref": "df0d114d07", "takeaway": "Focuses on authorities disputing the foreign-involvement claims.", "read_full": false },
+        { "ref": "8c766d0c6f", "takeaway": "Live blog noting Qatar, police and opposition rejecting Netanyahu's claim.", "read_full": false },
+        { "ref": "016eda7217", "takeaway": "Fox News leads with Netanyahu's fraud allegation and Arab kingmaker angle.", "read_full": false },
+        { "ref": "38d67bbae0", "takeaway": "Guardian frames the claims as a smear tactic.", "read_full": false },
+        { "ref": "936e1d00c2", "takeaway": "Paywalled; headline says the vote won't change Israeli policy or isolation.", "read_full": false },
+        { "ref": "9a47dc66af", "takeaway": "Washington Examiner calls the result inconclusive; headline and summary only.", "read_full": false },
+        { "ref": "78b1b9aea9", "takeaway": "Paywalled; says Arab parties won one in six seats.", "read_full": false },
+        { "ref": "00bcb852ce", "takeaway": "NPR explainer on what comes next after the deadlock.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "spain-train-collision",
+      "headline": "Spain's second deadly high-speed train crash in a year raises questions about signaling and human error",
+      "region": "Europe",
+      "importance": 5,
+      "summary": "Two high-speed trains collided in central Spain on Wednesday, and the toll has risen to 69 dead according to France 24. Leaked audio between a control centre and train drivers appears to show one train was cleared to move while another had stalled on the track. Spain, heading toward national elections, is asking whether its rail system is too old or too prone to human error.",
+      "why_it_matters": "Millions of people in Spain and visitors rely on its high-speed rail, and the crash puts the safety of the network and the oversight of its operators in question.",
+      "background": "Spain built one of the world's largest high-speed rail networks and has long promoted it as a model. Services are run by the state operator Renfe and private competitors such as Iryo, with the infrastructure managed by the state company Adif. This is the country's second major rail disaster this year. Rail safety has become a campaign issue ahead of the national election.",
+      "facts": [
+        { "text": "The toll from Spain's second high-speed collision this year rose to 69, France 24 reported, with scores injured.", "refs": ["61a97587bb"] },
+        { "text": "Recordings between a control centre and train drivers appear to show one train was given clearance to move although another had stalled on the track, the BBC reported.", "refs": ["9971a5e4ef"] },
+        { "text": "NBC News also reported new audio that appears to reveal the moments leading up to the crash.", "refs": ["7019bb8713"] },
+        { "text": "The crash is the country's second major rail disaster in a year, and rail safety has become an election campaign issue.", "refs": ["5a81dda414", "17f5f36872", "01a9a872da"] },
+        { "text": "Reports put the collision near Urda station in Toledo province, south of Madrid.", "refs": ["world-w1"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Death toll",
+          "positions": [
+            { "claim": "69 dead, per France 24 on Thursday.", "refs": ["61a97587bb"] },
+            { "claim": "68 dead, per other reports, with the count changing as the investigation continues.", "refs": ["world-w1"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "9971a5e4ef", "note": "Leads with the leaked audio and the apparent clearance given to a train." },
+        { "ref": "5a81dda414", "note": "Frames it as a question about an aging system and human error." },
+        { "ref": "01a9a872da", "note": "Frames it as a political issue ahead of elections." },
+        { "ref": "56e6c737d7", "note": "Leads with families holding out hope for the missing." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "9971a5e4ef", "takeaway": "Video explainer on the leaked recordings.", "read_full": false },
+        { "ref": "7019bb8713", "takeaway": "TV report on the rising toll, rescue video and new audio.", "read_full": false },
+        { "ref": "5a81dda414", "takeaway": "Paywalled; headline and summary ask if the system is too old and error-prone.", "read_full": false },
+        { "ref": "01a9a872da", "takeaway": "Paywalled; ties repeated accidents to the election campaign.", "read_full": false },
+        { "ref": "61a97587bb", "takeaway": "Reports the toll of 69 and the demand for answers.", "read_full": false },
+        { "ref": "848542431a", "takeaway": "AP story on human error versus systemic failure.", "read_full": false },
+        { "ref": "56e6c737d7", "takeaway": "Paywalled; headline says families hold out hope for the missing.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "hormuz-tanker-mines",
+      "headline": "Iran says tankers hit mines in the Strait of Hormuz as oil prices rise",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "Iran's Revolutionary Guard said several oil tankers caught fire after hitting mines in the Strait of Hormuz, saying the ships had switched off navigation systems and ignored warnings. A separate tanker was attacked by a small boat carrying explosive devices, and oil prices rose. Iran also disputes a US claim that shipping lanes had been cleared.",
+      "why_it_matters": "A large share of the world's oil passes through the strait, so attacks there can push up fuel prices and shipping costs for consumers. Oil spills are also reaching Gulf beaches.",
+      "background": "The Strait of Hormuz is the narrow passage at the mouth of the Persian Gulf through which much of the world's oil is shipped. Iran and the United States are in a conflict that has disrupted shipping there for months. US Central Command said in August that international shipping lanes had been cleared of mines, which Iran's navy rejected. Qatar is among the mediators trying to end the war.",
+      "facts": [
+        { "text": "Iran's Revolutionary Guard said three oil tankers caught fire after hitting mines in the strait.", "refs": ["b77a80dfc3", "759c074884", "10c2c42f41"] },
+        { "text": "Later reports quoted Iran as saying four tankers were on fire; the statement said the vessels had switched off radar and navigation and disregarded IRGC navy warnings.", "refs": ["c5e975be44", "f31991ea64"] },
+        { "text": "UK Maritime Trade Operations said a tanker was attacked by a small boat carrying two explosive devices, and oil prices rose, the WSJ reported.", "refs": ["8e51924b52"] },
+        { "text": "CBS News reported a tanker was also struck by a projectile in the strait Thursday night.", "refs": ["58e2656c28"] },
+        { "text": "The Financial Times reported oil from the tanker attacks has washed up on UAE beaches and that Tehran has stepped up strikes on vessels over the past month.", "refs": ["4e3c17fa38"] },
+        { "text": "US Central Command's commander said in August that international transit lanes were free of mines.", "refs": ["world-w2"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many tankers were hit",
+          "positions": [
+            { "claim": "Three tankers, per Iran's early statement.", "refs": ["b77a80dfc3", "10c2c42f41"] },
+            { "claim": "Four tankers, per Iran's later statement.", "refs": ["c5e975be44", "f31991ea64"] }
+          ]
+        },
+        {
+          "topic": "Whether the shipping lanes are clear",
+          "positions": [
+            { "claim": "The US military said in August that the lanes had been cleared of mines.", "refs": ["world-w2"] },
+            { "claim": "Iran disputes that claim and says tankers struck mines this week.", "refs": ["f31991ea64"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "b77a80dfc3", "note": "Relays Iran's mine account in its headline, attributed to the Guard." },
+        { "ref": "4e3c17fa38", "note": "Frames the incidents as Iran's tanker attacks and stresses the pollution." },
+        { "ref": "f31991ea64", "note": "Ties the incidents to fears of US strikes after the midterms." },
+        { "ref": "8e51924b52", "note": "Leads with oil prices and a Houthi-related supply scare." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "b77a80dfc3", "takeaway": "Reports Iran's claim of three mine strikes.", "read_full": false },
+        { "ref": "759c074884", "takeaway": "Reports Iran's three-tanker claim.", "read_full": false },
+        { "ref": "10c2c42f41", "takeaway": "AP roundup that includes Iran's claim.", "read_full": false },
+        { "ref": "c5e975be44", "takeaway": "Updates the count to four and gives Iran's explanation.", "read_full": false },
+        { "ref": "f31991ea64", "takeaway": "Adds Iran's dispute of the US lanes-cleared claim.", "read_full": false },
+        { "ref": "58e2656c28", "takeaway": "Live updates mention a projectile strike.", "read_full": false },
+        { "ref": "8e51924b52", "takeaway": "Paywalled; headline and summary focus on oil prices and a boat attack.", "read_full": false },
+        { "ref": "4e3c17fa38", "takeaway": "Paywalled; focuses on pollution on UAE beaches.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "flavio-bolsonaro-us",
+      "headline": "Defeated Brazilian candidate Flavio Bolsonaro goes to the US and claims to lead the opposition",
+      "region": "Americas",
+      "importance": 4,
+      "summary": "Flavio Bolsonaro, who lost Brazil's presidential election, has arrived in the United States and says he will lead the opposition from there. The New York Times reported that US officials said President Trump ensured he could enter. Reuters reported his claim to lead Brazil failed to win support from allies.",
+      "why_it_matters": "The episode affects relations between Washington and Brasilia, and it shapes whether Brazil's election result is accepted by the losing side.",
+      "background": "Flavio is a son of former president Jair Bolsonaro and was the right's candidate against President Luiz Inacio Lula da Silva. According to Brazilian reports, Lula won the runoff on October 25. Flavio faces criminal investigations in Brazil, the New York Times reported. The Trump administration has been friendly to the Bolsonaro family.",
+      "facts": [
+        { "text": "US officials said Trump ensured Flavio Bolsonaro could enter the US, the New York Times reported.", "refs": ["6901cc5965"] },
+        { "text": "Flavio called himself the \"leader of Brazil\" and said he would lead the opposition from the US.", "refs": ["e5c5ce358b"] },
+        { "text": "His claim failed to win support from allies in Brazil, Reuters reported.", "refs": ["e5148885b6"] },
+        { "text": "Reuters reported a Bolsonaro ally blamed ChatGPT for a now-deleted \"president-elect of Brazil\" claim.", "refs": ["0423446fba"] },
+        { "text": "Two media outlets citing unnamed sources said he arrived in the US on October 27.", "refs": ["258354efdd"] },
+        { "text": "The State Department said it would issue visas to Flavio and his family.", "refs": ["world-w3"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "6901cc5965", "note": "Leads with Trump and aides helping him enter the US." },
+        { "ref": "e5c5ce358b", "note": "Leads with his \"leader of Brazil\" statement after losing." },
+        { "ref": "ac44854d53", "note": "Frames the departure as a political gain for Lula." },
+        { "ref": "d89d07b497", "note": "Leads with viral mockery of Flavio in Brazil." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "6901cc5965", "takeaway": "Paywalled; headline and summary stress US help for his entry.", "read_full": false },
+        { "ref": "e5c5ce358b", "takeaway": "Covers his claim to lead the opposition from the US.", "read_full": false },
+        { "ref": "e5148885b6", "takeaway": "Reuters on allies not backing his leadership claim.", "read_full": false },
+        { "ref": "ac44854d53", "takeaway": "Reuters analysis of the gains for Lula.", "read_full": false },
+        { "ref": "258354efdd", "takeaway": "Reports arrival date from unnamed sources.", "read_full": false },
+        { "ref": "d89d07b497", "takeaway": "Paywalled; focuses on mockery on social media.", "read_full": false }
+      ],
+      "social": "SCMP reported a viral wave of mockery in Brazil, with celebrities and social media users joking about Flavio's departure."
+    },
+    {
+      "id": "binance-hack",
+      "headline": "Binance halts withdrawals after what may be the largest crypto hack on record",
+      "region": "Global",
+      "importance": 4,
+      "summary": "Binance, the world's largest crypto exchange, suspended deposits and withdrawals after a suspected security breach, with reports putting the losses at $5.7 billion to $6.3 billion. Binance said about $3 billion in assets has been frozen, with stablecoin issuers Circle and Tether freezing related assets. Two analytics firms have linked the theft to a North Korean hacking unit; Binance plans to reopen within days.",
+      "why_it_matters": "Millions of people hold funds on exchanges like Binance, and a freeze or loss could affect their access to money and shake crypto prices.",
+      "background": "Binance is the largest cryptocurrency exchange by volume, where users trade and store digital assets. Hackers have repeatedly targeted exchanges, and North Korean groups have been blamed for some of the largest thefts. Stablecoin issuers such as Circle and Tether can freeze tokens, which is one way stolen funds can be contained. The hack follows a wave of other high-profile cyberattacks, Axios reported.",
+      "facts": [
+        { "text": "Binance said on Thursday it had frozen about $3 billion in crypto assets while investigating a potential breach, with Circle and Tether freezing related assets.", "refs": ["f686af3e79", "aa948c98b0"] },
+        { "text": "Binance temporarily suspended deposits and withdrawals while it conducts security checks.", "refs": ["aa948c98b0"] },
+        { "text": "Two analytics firms attributed the incident to a North Korean hacking unit called TraderTraitor, the BBC reported.", "refs": ["1b2161d396", "d0922f1d49"] },
+        { "text": "The FT reported that Binance said an engineer's laptop was compromised.", "refs": ["f696be3197"] },
+        { "text": "MarketWatch reported Binance vowed to be back up within a couple of days.", "refs": ["7845354e7d"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Size of the loss",
+          "positions": [
+            { "claim": "About $6.3 billion, per the BBC, Guardian, FT and AP.", "refs": ["1b2161d396", "b5f849ef90", "f696be3197"] },
+            { "claim": "Upwards of $5.7 billion drained from wallets, per Axios.", "refs": ["17b6c0241a"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "aa948c98b0", "note": "Calls it a potential \"hack\" in quotes, stressing the $3 billion freeze." },
+        { "ref": "17b6c0241a", "note": "Calls it the biggest-ever crypto hack and stresses halted trading." },
+        { "ref": "b5f849ef90", "note": "Leads with North Korea being blamed." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "aa948c98b0", "takeaway": "Cautious wording with the $3 billion freeze.", "read_full": false },
+        { "ref": "17b6c0241a", "takeaway": "Axios puts the loss at $5.7 billion and notes a wave of attacks.", "read_full": false },
+        { "ref": "f686af3e79", "takeaway": "Reuters wire on the freeze and stablecoin issuers.", "read_full": false },
+        { "ref": "1b2161d396", "takeaway": "Explains the North Korea attribution.", "read_full": false },
+        { "ref": "f696be3197", "takeaway": "Paywalled; headline cites a compromised engineer laptop.", "read_full": false },
+        { "ref": "b5f849ef90", "takeaway": "Leads with the North Korea attribution.", "read_full": false },
+        { "ref": "7845354e7d", "takeaway": "Focuses on when the exchange may reopen.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ukraine-dnipro-refineries",
+      "headline": "Russian drone strike on Dnipro train station kills at least 14; Ukraine reportedly resumes refinery strikes",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "A Russian drone strike hit trains at a station in Dnipro, killing at least 14 people, Ukrainian officials said. Separately, the WSJ reported that Ukraine had paused strikes on Russian oil refineries after pressure from President Trump, and then reported a new strike on a refinery that ended the pause. Coverage of the refinery story comes from center-rated outlets only.",
+      "why_it_matters": "The war continues to kill civilians far from the front, and US pressure over Russian oil facilities touches fuel markets and the pace of peace efforts.",
+      "background": "Russia invaded Ukraine in 2022 and regularly strikes Ukrainian cities with drones and missiles. Ukraine has hit Russian oil refineries to reduce Moscow's fuel supply and revenue. President Trump has pressed both sides toward a settlement. A rare local ceasefire around the occupied town of Oleshky was also in place, the NYT reported.",
+      "facts": [
+        { "text": "A Russian drone attack on the Dnipro station killed at least 14 people and wounded at least 14 others, including an 11-year-old boy, the BBC reported.", "refs": ["d4f72b2bef"] },
+        { "text": "Zelensky called the strike \"horrific\" and said it hit a platform where a commuter train and a passenger train were standing.", "refs": ["638fc5440f"] },
+        { "text": "Russian attacks across Ukraine killed 27 and injured 127 over the past day, the Kyiv Independent reported.", "refs": ["2e138ce721"] },
+        { "text": "CBS reported a local truce around Oleshky, credited to Melania Trump, is bringing some hope.", "refs": ["899f6bdcf2"] },
+        { "text": "The WSJ reported Ukraine paused refinery strikes after pressure from Trump; Reuters relayed the report.", "refs": ["f9e2795bee", "c784e60bc6"] },
+        { "text": "The Kyiv Independent reported a strike on a Samara refinery, the first after an unofficial pause that began in mid-October; the WSJ said the strike ended the pause.", "refs": ["5f77d0adde", "671d7b8fa0"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Dnipro station death toll",
+          "positions": [
+            { "claim": "15 killed, per the Kyiv Independent.", "refs": ["1278ada3b8"] },
+            { "claim": "At least 14 killed, per the BBC; at least 13 per the Hindu.", "refs": ["d4f72b2bef", "638fc5440f"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "1278ada3b8", "note": "Quotes \"Russia's mass murder\" and notes people stayed on the platform despite alerts." },
+        { "ref": "d4f72b2bef", "note": "Plain account with officials' casualty figures." },
+        { "ref": "899f6bdcf2", "note": "Pairs the strike with hope from a local truce." },
+        { "ref": "671d7b8fa0", "note": "Frames the refinery strike as defying Trump." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "1278ada3b8", "takeaway": "Ukrainian outlet with the highest toll and emphasis on warnings ignored.", "read_full": false },
+        { "ref": "d4f72b2bef", "takeaway": "Plain casualty report.", "read_full": false },
+        { "ref": "638fc5440f", "takeaway": "Zelensky's reaction and toll of at least 13.", "read_full": false },
+        { "ref": "899f6bdcf2", "takeaway": "Links the strike to the Oleshky truce.", "read_full": false },
+        { "ref": "2e138ce721", "takeaway": "Nationwide casualty and attack counts.", "read_full": false },
+        { "ref": "f9e2795bee", "takeaway": "Paywalled; headline and summary on the pause after US pressure.", "read_full": false },
+        { "ref": "671d7b8fa0", "takeaway": "Paywalled; headline says the strike ended the pause and defied Trump.", "read_full": false },
+        { "ref": "5f77d0adde", "takeaway": "Reports a reported Samara refinery strike.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "north-korea-missiles-drones",
+      "headline": "North Korea fires missiles and tests attack drones as Kim calls for drone dominance",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "North Korea fired a missile barrage toward the sea, and state media reported tests of attack drones, cruise missiles and rocket launchers as Kim Jong Un urged faster drone and AI development. South Korea says it will respond firmly to North Korean border breaches. Pyongyang has denounced US-South Korean air defence drills.",
+      "why_it_matters": "Rising tension on the Korean peninsula affects the safety of people in the region and can disrupt flights, shipping and markets.",
+      "background": "North Korea has conducted repeated weapons tests this month, the Washington Times counted a third barrage. Tensions with South Korea rose after blasts on September 21 along the border. Seoul blames mines it says North Korea planted south of the demarcation line, and Pyongyang denies this. The US and South Korea hold regular joint military drills that the North condemns.",
+      "facts": [
+        { "text": "North Korea fired a missile barrage toward the sea on Wednesday as tensions with the South rose.", "refs": ["a5b8d49bb0", "6df3e93c70"] },
+        { "text": "State media reported tests of attack drones, cruise missiles and rocket launchers, with Kim calling for \"absolute superiority\" in drones and AI.", "refs": ["30a91c9b1a", "159c4f23d0"] },
+        { "text": "South Korea's security aide said Seoul would respond firmly to North Korean breaches of the border.", "refs": ["bc653c3c9c"] },
+        { "text": "North Korea's state media denounced South Korea-US air defence drills.", "refs": ["5a368ebbe8"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Cause of the September 21 blasts near the border",
+          "positions": [
+            { "claim": "Seoul says North Korea planted mines south of the demarcation line that caused the blasts.", "refs": ["a5b8d49bb0"] },
+            { "claim": "Pyongyang denies responsibility and warns of retaliation if provoked.", "refs": ["a5b8d49bb0"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "5e0c27c7e5", "note": "Presents the launches as North Korea sticking to its usual playbook." },
+        { "ref": "a5b8d49bb0", "note": "Leads with the barrage and the dispute over the border blasts." },
+        { "ref": "30a91c9b1a", "note": "Leads with the drone tests and Kim's AI call." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a5b8d49bb0", "takeaway": "Missile launch with the border-blast dispute.", "read_full": false },
+        { "ref": "6df3e93c70", "takeaway": "AP: South Korea reports an unidentified projectile.", "read_full": false },
+        { "ref": "5e0c27c7e5", "takeaway": "Counts a third barrage this month.", "read_full": false },
+        { "ref": "30a91c9b1a", "takeaway": "State-media account of drone tests.", "read_full": false },
+        { "ref": "bc653c3c9c", "takeaway": "Seoul's promised response.", "read_full": false },
+        { "ref": "159c4f23d0", "takeaway": "Kim's drone-dominance remarks via KCNA.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "kenya-ghost-student-fraud",
+      "headline": "US seizes crypto in Kenya tied to alleged 'ghost student' financial aid fraud",
+      "region": "Africa",
+      "importance": 2,
+      "summary": "US authorities seized more than $750,000 in cryptocurrency in Kenya linked to a scheme in which stolen identities were allegedly used to claim US student aid, with Kenyans among those charged. The Justice Department described it as its first international seizure of its kind in Kenya. Coverage comes from center and right outlets only, with no lean-left outlets in the digest.",
+      "why_it_matters": "The case shows how fraud against US federal aid is being pursued across borders, and it implicates ordinary people whose identities were used.",
+      "background": "'Ghost students' are fake or stolen identities enrolled in colleges so that someone can collect federal student aid. The US Justice Department has been prosecuting such schemes. In this case, Kenyan nationals are among those charged, and Kenyan investigators helped with the seizure, the US Embassy said. A Kenyan court has also heard a dispute over funds in a related probe.",
+      "facts": [
+        { "text": "US authorities seized more than $750,000 in cryptocurrency linked to a transnational student aid fraud scheme involving Kenyan nationals, which the Justice Department calls its first international seizure of its kind in Kenya.", "refs": ["a6e0cfc948"] },
+        { "text": "The alleged scheme used stolen identities to claim US student aid, with Kenyans among those charged.", "refs": ["86700bdac9"] },
+        { "text": "Justice Department officials announced charges in a major student loan fraud investigation.", "refs": ["b9a94b7583", "94bf5d6c6c"] },
+        { "text": "A Kenyan court case involves a couple and the Asset Recovery Agency over funds allegedly taken from the US aid program.", "refs": ["world-w4"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Size of the alleged fraud",
+          "positions": [
+            { "claim": "About $200 million, per AllAfrica's headline.", "refs": ["a6e0cfc948"] },
+            { "claim": "About $130 million, per the BBC's headline.", "refs": ["86700bdac9"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "a6e0cfc948", "note": "Leads with the Kenyan network and the seizure in Kenya." },
+        { "ref": "86700bdac9", "note": "Leads with how Kenyans got caught up in the scheme." },
+        { "ref": "7eca83ac8a", "note": "Focuses on the millions stolen from federal aid." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a6e0cfc948", "takeaway": "Capital FM via AllAfrica on the seizure and first-of-kind claim.", "read_full": false },
+        { "ref": "86700bdac9", "takeaway": "BBC explainer on Kenyans in the scheme.", "read_full": false },
+        { "ref": "b9a94b7583", "takeaway": "Live video of the DOJ announcement.", "read_full": false },
+        { "ref": "7eca83ac8a", "takeaway": "Washington Times on ghost students stealing federal aid.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w1", "url": "https://www.arise.tv/spain-train-collision-death-toll-rises-to-68-dead-as-authorities-investigate-toledo-disaster/", "title": "Spain train collision: death toll rises to 68 as authorities investigate Toledo disaster", "outlet": "Arise News" },
+    { "id": "world-w2", "url": "https://www.janes.com/defence-intelligence-insights/defence-news/defence/centcom-commander-says-mines-cleared-from-hormuz-shipping-lanes", "title": "CENTCOM commander says mines cleared from Hormuz shipping lanes", "outlet": "Janes" },
+    { "id": "world-w3", "url": "https://www.gpb.org/news/2026/10/27/us-issue-visas-flavio-bolsonaro-his-whereabouts-remain-unclear", "title": "US to issue visas to Flavio Bolsonaro; his whereabouts remain unclear", "outlet": "Georgia Public Broadcasting" },
+    { "id": "world-w4", "url": "https://www.thestandard.ke/business/amp/crime-and-justice/article/2001550505/couple-seeks-to-access-bank-accounts-in-probe-on-sh200m-us-federal-scam", "title": "Couple seeks to access bank accounts in probe on Sh200m US federal scam", "outlet": "The Standard (Kenya)" }
+  ]
+}

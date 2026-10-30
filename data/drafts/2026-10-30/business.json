@@ -1,0 +1,181 @@
+{
+  "stories": [
+    {
+      "id": "ai-tech-selloff-earnings",
+      "headline": "Tech stocks slide as Alphabet, Amazon and Microsoft results renew doubts about AI spending",
+      "region": "Earnings",
+      "importance": 5,
+      "summary": "US tech shares fell on Thursday after Alphabet reported revenue below expectations, and the selloff extended into Friday after Amazon and Intel results. Outlets tie the drop to investor doubts about whether huge AI spending will pay off. Investors moved into Treasuries, pushing yields to multiweek lows, per the Wall Street Journal.",
+      "why_it_matters": "Big tech stocks make up a large share of index funds and retirement accounts, so a sustained slide can show up in 401(k) balances. The same spending worries also bear on borrowing costs, since Microsoft is planning a large bond sale.",
+      "background": "The biggest US technology companies have been spending heavily on data centers and chips to build artificial-intelligence services, and their shares drove the S&P 500 to repeated record highs this year. Each quarter, investors check whether that spending is producing matching growth in cloud, search and advertising revenue. Alphabet (Google's parent), Microsoft and Amazon all reported quarterly results this week. When results or spending plans disappoint, investors tend to sell the sector and buy safer assets such as US Treasury bonds.",
+      "facts": [
+        { "text": "The Nasdaq 100 fell 1.4% on Thursday after Alphabet and Microsoft reported, according to the Financial Times.", "refs": ["e2a87b18ea"] },
+        { "text": "The Wall Street Journal and the Associated Press both described Alphabet's share drop as historic; the Journal said a revenue shortfall caused one of the largest one-session market-value losses on record for a single company.", "refs": ["520e4bb1e3", "2897bb008a"] },
+        { "text": "CNBC reported that Alphabet's revenue from its core business came in below analyst estimates.", "refs": ["fefc90361f"] },
+        { "text": "Amazon's cloud unit AWS grew revenue 39%, per CNBC; Reuters called it the fastest cloud growth in five years, yet Amazon shares fell as AI spending outweighed it, and the AP said the company gave a cautious outlook.", "refs": ["775d5e44f1", "b8dcf0c068", "9f406353ee"] },
+        { "text": "Reuters, citing sources, reported Microsoft expects to raise $25 billion in a US bond sale.", "refs": ["d467e21932"] },
+        { "text": "On Friday the selloff deepened after Amazon and Intel results, and Treasury yields fell to multiweek lows as investors sought safety, per the Wall Street Journal and Bloomberg.", "refs": ["5e0185129f", "d96a2cb6d7", "c76b6060c3"] },
+        { "text": "The New York Times reported the S&P 500 was still on track for a small gain for October.", "refs": ["917da2fd3c"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "917da2fd3c", "note": "Headline stresses that the broader market is holding up, playing down the size of the tech drop." },
+        { "ref": "fefc90361f", "note": "Frames Alphabet's miss as a sign that AI is eating into search, a company-specific business problem." },
+        { "ref": "78d1991aeb", "note": "Emphasizes that experts are worried, a more alarm-oriented angle." },
+        { "ref": "ac91edab3a", "note": "Focuses on Amazon's stock falling despite a strong cloud forecast, highlighting the gap with investor expectations." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e2a87b18ea", "takeaway": "Headline and summary only (paywalled): index move and AI-spending concerns.", "read_full": false },
+        { "ref": "520e4bb1e3", "takeaway": "Headline and summary only (paywalled): Alphabet revenue shortfall and record-scale value loss.", "read_full": false },
+        { "ref": "2897bb008a", "takeaway": "Wire story on the historic Alphabet drop pulling the market lower.", "read_full": false },
+        { "ref": "fefc90361f", "takeaway": "Ties the Alphabet miss to AI competing with search.", "read_full": false },
+        { "ref": "775d5e44f1", "takeaway": "Leads with AWS growth and deals with Meta and OpenAI.", "read_full": false },
+        { "ref": "b8dcf0c068", "takeaway": "Headline weighs strong cloud growth against AI spending.", "read_full": false },
+        { "ref": "9f406353ee", "takeaway": "Wire story: disappointing quarter, cautious outlook, strong cloud.", "read_full": false },
+        { "ref": "d467e21932", "takeaway": "Sourced scoop on Microsoft's planned bond sale.", "read_full": false },
+        { "ref": "5e0185129f", "takeaway": "Headline and summary only (paywalled): Friday live blog on Amazon and Intel.", "read_full": false },
+        { "ref": "d96a2cb6d7", "takeaway": "Headline and summary only (paywalled): selloff, oil jump, Treasury rally.", "read_full": false },
+        { "ref": "c76b6060c3", "takeaway": "Headline and summary only (paywalled): haven buying in Treasuries.", "read_full": false },
+        { "ref": "917da2fd3c", "takeaway": "Headline and summary only (paywalled): stresses the broader market's resilience.", "read_full": false },
+        { "ref": "78d1991aeb", "takeaway": "Fox Business segment on expert worries about big tech and AI stocks.", "read_full": false },
+        { "ref": "ac91edab3a", "takeaway": "Amazon stock drop despite cloud forecast.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "us-gdp-inflation-q3",
+      "headline": "US economy grew 3.4% in third quarter as September inflation picked up",
+      "region": "Economy",
+      "importance": 4,
+      "summary": "The government's first estimate showed US output grew at a 3.4% annual pace in July through September, the fastest in a year, led by consumer spending and AI-related investment. Reuters and Fox Business reported the Fed's preferred inflation gauge rose in September. Mortgage rates dipped to 7.24%, per Freddie Mac.",
+      "why_it_matters": "Strong growth with rising prices makes it harder for the Fed to cut rates, which keeps mortgage and loan costs high. The mortgage rate is still above 7%, so home buying stays expensive even after the dip.",
+      "background": "Gross domestic product (GDP) is the broadest measure of the size of the US economy, and the quarterly figure shows how fast it is growing. The personal consumption expenditures (PCE) price index is the inflation measure the Federal Reserve targets when it sets interest rates. The Fed weighs growth against inflation: faster growth and prices tend to argue against lowering rates. The data arrives less than a week before the midterm elections, where views of the economy are a campaign issue.",
+      "facts": [
+        { "text": "US GDP grew at a 3.4% annual rate in the third quarter, per the Associated Press, Reuters and CNBC, which described it as better than expected.", "refs": ["4e77bd1c3e", "f2e0be8e79", "93bea1bfa4"] },
+        { "text": "The New York Times said it was the fastest pace in a year and contrasted it with the poor marks many voters give the economy.", "refs": ["b16cf27d59"] },
+        { "text": "Reuters reported US inflation heated up in September while consumer spending rose; Fox Business said the Fed's preferred gauge rose.", "refs": ["d10627dd9d", "47c64cdd8b"] },
+        { "text": "CNBC said economists in a Dow Jones survey had expected the PCE price index to rise 0.5% in September, a 3.7% annual rate.", "refs": ["93bea1bfa4"] },
+        { "text": "Freddie Mac said the average 30-year fixed mortgage rate fell to 7.24% from 7.32% a week earlier, the lowest in more than a month.", "refs": ["2e6b2ae8f6", "3470392f19"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "b16cf27d59", "note": "Pairs strong growth with voters' poor ratings of the economy." },
+        { "ref": "f768da80be", "note": "Stresses consumers spending despite high prices." },
+        { "ref": "656edaa937", "note": "A Larry Kudlow opinion column calling the economy booming and urging Republicans to campaign on it; opinion, not used as a fact." },
+        { "ref": "e5a1334b14", "note": "Focuses on how strong growth and inflation complicate the Fed's decisions." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "4e77bd1c3e", "takeaway": "Wire headline: brisk growth on consumer spending and AI investment.", "read_full": false },
+        { "ref": "f2e0be8e79", "takeaway": "Wire headline on consumer spending and AI investment.", "read_full": false },
+        { "ref": "93bea1bfa4", "takeaway": "GDP beat and the September inflation expectations.", "read_full": false },
+        { "ref": "b16cf27d59", "takeaway": "Headline and summary only (paywalled): growth versus voter sentiment.", "read_full": false },
+        { "ref": "d10627dd9d", "takeaway": "Headline: inflation heats up, spending rises.", "read_full": false },
+        { "ref": "47c64cdd8b", "takeaway": "Headline: Fed's preferred gauge rose as GDP beat expectations.", "read_full": false },
+        { "ref": "f768da80be", "takeaway": "Growth despite high prices.", "read_full": false },
+        { "ref": "656edaa937", "takeaway": "Opinion column urging Republicans to sell the economy.", "read_full": false },
+        { "ref": "e5a1334b14", "takeaway": "Economist view that GDP and inflation complicate Fed choices.", "read_full": false },
+        { "ref": "2e6b2ae8f6", "takeaway": "Wire story on the mortgage rate dip.", "read_full": false },
+        { "ref": "3470392f19", "takeaway": "Mortgage rate drop framed as welcome news for buyers.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "lagarde-ecb-resignation",
+      "headline": "ECB president Lagarde to step down early as bank holds rates",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Christine Lagarde said she will leave the European Central Bank around February, about nine months before her term ends. Her announcement came the same day the ECB left interest rates unchanged. Reuters reported, citing sources, that governors see a December rate hike as likely.",
+      "why_it_matters": "The ECB sets interest rates for the euro-area countries, so its next leader will influence loan costs and the euro's value, which affect travel costs and global markets. Choosing a successor may become a contest among Europe's largest countries.",
+      "background": "Lagarde, a former French finance minister and head of the International Monetary Fund, has led the ECB since 2019 on an eight-year term. The bank's president is chosen by EU leaders. The Associated Press said her early exit lets them pick a successor before France's presidential election. France 24 reported her departure will fuel speculation about her future plans, and the Guardian said she may be a candidate to run the World Economic Forum.",
+      "facts": [
+        { "text": "Lagarde said she will resign early, with the New York Times reporting a planned February departure and the Guardian saying nine months before her term ends.", "refs": ["14dcbdef80", "14ad0acd12"] },
+        { "text": "France 24 reported she wants more \"freedom to engage on matters that are not monetary policy.\"", "refs": ["4f6f4437cd"] },
+        { "text": "The ECB kept interest rates unchanged on Thursday, and the euro and bond yields fell, per Reuters.", "refs": ["ebb6a7c124"] },
+        { "text": "Reuters, citing sources, said ECB governors see a December rate hike as likely, followed by a pause; a second Reuters story said the ECB flagged a December hike but expects higher yields to weigh on growth.", "refs": ["0f33882a5c", "f58a76f9e8"] },
+        { "text": "European shares closed at a seven-week high after the ECB pause and the Lagarde news, per Reuters.", "refs": ["44a7bdecf7"] },
+        { "text": "The Wall Street Journal reported Europe's largest countries are already jockeying over her successor.", "refs": ["f319ba280b"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "14ad0acd12", "note": "Leads on her stated wish to speak freely and a possible World Economic Forum role." },
+        { "ref": "c51f0ae0cd", "note": "Wire headline frames the timing around the French election and EU leaders choosing a successor." },
+        { "ref": "f319ba280b", "note": "Emphasizes the national jockeying over succession and the economy's mounting problems." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "14ad0acd12", "takeaway": "Focuses on her reasons and possible next job.", "read_full": false },
+        { "ref": "f319ba280b", "takeaway": "Headline and summary only (paywalled): succession fight and the economy.", "read_full": false },
+        { "ref": "14dcbdef80", "takeaway": "Headline and summary only (paywalled): February exit and selection process.", "read_full": false },
+        { "ref": "4f6f4437cd", "takeaway": "Her stated reason and speculation about her plans.", "read_full": false },
+        { "ref": "c51f0ae0cd", "takeaway": "Wire story linking timing to the French election.", "read_full": false },
+        { "ref": "44a7bdecf7", "takeaway": "Market reaction: European shares at a seven-week high.", "read_full": false },
+        { "ref": "ebb6a7c124", "takeaway": "Rate hold and market moves.", "read_full": false },
+        { "ref": "0f33882a5c", "takeaway": "Sourced report on a likely December hike.", "read_full": false },
+        { "ref": "f58a76f9e8", "takeaway": "December hike flagged, growth risk from higher yields.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "oil-majors-refining-profits",
+      "headline": "BP and Chevron post strong profits on refining margins",
+      "region": "Earnings",
+      "importance": 3,
+      "summary": "BP reported third-quarter profit of about $8.5 billion, and Chevron beat analyst expectations, with both pointing to strong refining margins. Sinopec in China also reported higher profit. Oil prices rose on Thursday and Friday.",
+      "why_it_matters": "Strong refining margins can mean higher prices for diesel and other fuels, which feed into shipping and grocery costs. Energy stocks are also one of the few areas rising while tech falls.",
+      "background": "Refining margins are the gap between what refiners pay for crude oil and what they earn selling fuels like diesel and gasoline. They rise when supply of those fuels is tight. CNBC attributed this quarter's squeeze to attacks by Ukraine and Iran on refineries in Russia and the Middle East. Bloomberg said BP is using the windfall to speed up efforts to repair its balance sheet and pay down debt.",
+      "facts": [
+        { "text": "BP's third-quarter profit nearly quadrupled to $8.5 billion, according to CNBC, and Bloomberg said it was the highest in 18 years.", "refs": ["f7856981cd", "9da5d36257"] },
+        { "text": "Chevron beat earnings expectations as refining profits rose on high diesel prices, per CNBC, which linked diesel prices to attacks on refineries in Russia and the Middle East.", "refs": ["7a105fd2eb"] },
+        { "text": "Reuters reported Sinopec's third-quarter profit rose 57% on higher oil prices and refining margins.", "refs": ["4cf11f7145"] },
+        { "text": "The Wall Street Journal reported oil jumped alongside the Friday tech selloff.", "refs": ["d96a2cb6d7"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "9da5d36257", "note": "Focuses on the 18-year high and BP's debt reduction." },
+        { "ref": "f7856981cd", "note": "Emphasizes the near-quadrupling and global conflicts driving energy volatility." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f7856981cd", "takeaway": "Headline numbers and refining margin explanation.", "read_full": false },
+        { "ref": "9da5d36257", "takeaway": "Headline and summary only (paywalled): 18-year high and debt paydown.", "read_full": false },
+        { "ref": "7a105fd2eb", "takeaway": "Chevron beat and the diesel price cause.", "read_full": false },
+        { "ref": "4cf11f7145", "takeaway": "Sinopec profit jump.", "read_full": false },
+        { "ref": "d96a2cb6d7", "takeaway": "Headline and summary only (paywalled): oil jump within the market wrap.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "kalshi-utah-charges-funding",
+      "headline": "Utah charges Kalshi and its founders as the company raises $1 billion",
+      "region": "Regulation",
+      "importance": 3,
+      "summary": "Utah filed criminal charges against prediction-market operator Kalshi and two executives under the state's anti-gambling laws. The same day, Kalshi announced a $1 billion funding round at a $40 billion valuation.",
+      "why_it_matters": "The case could decide whether people can legally bet on events like elections and sports through apps in their state, and which level of government regulates it.",
+      "background": "Prediction markets such as Kalshi let users buy and sell contracts on the outcome of future events. The New York Times reported Kalshi's new valuation is almost double that of rival Polymarket. States argue these markets are gambling subject to state law, while the company operates under a federal framework. ABC News described the dispute as an escalating fight over who can regulate prediction markets.",
+      "facts": [
+        { "text": "Utah is pursuing criminal charges against Kalshi and two executives after a federal judge rejected Kalshi's effort to stop Utah enforcing its anti-gambling laws, per the Associated Press via ABC News.", "refs": ["08b1c238a8"] },
+        { "text": "The New York Post reported Utah filed 14 felony counts.", "refs": ["bc4e8c3995"] },
+        { "text": "Kalshi raised $1 billion at a $40 billion valuation, per Reuters and the New York Post.", "refs": ["ee79cfd768", "a6e0ee3154"] },
+        { "text": "The New York Times said legal challenges to the business persist and asked whether an IPO is next.", "refs": ["cc3423a587"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "08b1c238a8", "note": "Leads with the criminal charges and the regulatory fight." },
+        { "ref": "a6e0ee3154", "note": "Leads with the fundraising and the founders' past dating, playing down the legal fight." },
+        { "ref": "cc3423a587", "note": "Frames the story around valuation and an IPO possibility, with legal risk as a caveat." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "08b1c238a8", "takeaway": "Wire story on Utah charges and the regulatory dispute.", "read_full": false },
+        { "ref": "bc4e8c3995", "takeaway": "Charge count and the regulatory fight.", "read_full": false },
+        { "ref": "ee79cfd768", "takeaway": "Funding round and valuation.", "read_full": false },
+        { "ref": "a6e0ee3154", "takeaway": "Funding story with a lighter founder angle.", "read_full": false },
+        { "ref": "cc3423a587", "takeaway": "Headline and summary only (paywalled): valuation, IPO question, legal risks.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": []
+}

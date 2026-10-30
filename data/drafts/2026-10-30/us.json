@@ -1,0 +1,228 @@
+{
+  "stories": [
+    {
+      "id": "alaska-second-sullivan",
+      "headline": "Alaska governor orders probe as DOJ widens inquiry into second 'Dan Sullivan' on Senate ballot",
+      "region": "Elections",
+      "importance": 5,
+      "summary": "Alaska Gov. Mike Dunleavy ordered an investigation into whether people tied to Democrat Mary Peltola's campaign helped put a second candidate named Dan Sullivan on the Senate ballot against Republican Sen. Dan Sullivan. Peltola says she knew nothing about it. The Justice Department is reported to be escalating its own probe, and Dunleavy has said certification of the race could be 'stopped or changed'.",
+      "why_it_matters": "A close Senate race that could help decide control of the chamber may now hinge on how votes for two same-named candidates are counted and when results are certified. Alaska voters could face delays or court fights over the outcome.",
+      "background": "Alaska's Senate race this year pits incumbent Republican Dan Sullivan against Democrat Mary Peltola, a former congresswoman, plus other candidates. A separate man named Daniel Sullivan qualified for the ballot over the summer, which Republicans say was meant to confuse voters. Sullivan's allies tried to have the second candidate removed and did not succeed. The Justice Department has also sued Alaska over how votes for the second Sullivan should be handled at certification, and Peltola's campaign has asked a judge to dismiss that suit. Democrats and Peltola's campaign deny any scheme.",
+      "facts": [
+        { "text": "CBS News reported that Alaska's governor ordered a probe after a report alleged people aligned with Peltola's campaign helped recruit the second Dan Sullivan; Peltola denied the allegations.", "refs": ["c17911bb8a", "9e04b01861"] },
+        { "text": "Peltola said she 'knew nothing about' the other Dan Sullivan, according to CBS News and the Associated Press.", "refs": ["9e04b01861", "29cef6ad75"] },
+        { "text": "ABC News reported that the Justice Department had escalated its investigation, and Fox News described it as an intensifying criminal probe.", "refs": ["d9f07c61cd", "181a93437a"] },
+        { "text": "Gov. Dunleavy told NewsNation the state grew suspicious in May and June after an email asked to list a newcomer on the ballot as 'Daniel S. Sullivan', and said certification could be 'stopped or changed'.", "refs": ["fae9a9d728"] },
+        { "text": "The Washington Examiner reported that Alaska's Republican-run elections office could decline to certify the race, which would leave the outcome in limbo.", "refs": ["27b1495b7c"] },
+        { "text": "The Justice Department has sued Alaska asking it to hold off certifying any result affected by voter confusion; Peltola and the state Democratic Party moved to intervene in the suit.", "refs": ["us-w1"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the second Dan Sullivan's candidacy was a Democratic scheme",
+          "positions": [
+            { "claim": "The RNC calls it a fraudulent Democratic scheme to confuse voters.", "refs": ["181a93437a"] },
+            { "claim": "Peltola says she knew nothing about it and is not interested in tricking voters, and calls the scrutiny a distraction from the cost of living.", "refs": ["9e04b01861", "99980c0576"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "181a93437a", "note": "Uses the RNC's description of the episode as a 'fraudulent' scheme and stresses the criminal probe." },
+        { "ref": "1d79fcafb2", "note": "Explainer tone: lays out the four-candidate ballot and the scrutiny on Peltola without adopting either side's characterization." },
+        { "ref": "27b1495b7c", "note": "Looks ahead to Republican efforts to contest or block certification." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c17911bb8a", "takeaway": "Reports the governor's ordered probe and Peltola's denial.", "read_full": false },
+        { "ref": "d9f07c61cd", "takeaway": "AP-based story on Peltola's denial and the DOJ escalation.", "read_full": false },
+        { "ref": "fae9a9d728", "takeaway": "Gives the governor's timeline and his certification warning.", "read_full": false },
+        { "ref": "27b1495b7c", "takeaway": "Focuses on possible Republican challenges to the result.", "read_full": false },
+        { "ref": "181a93437a", "takeaway": "Centers the RNC's accusation of a fraudulent scheme.", "read_full": false },
+        { "ref": "1d79fcafb2", "takeaway": "Explains the ballot situation for newcomers.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "california-noncitizen-ballots",
+      "headline": "Judge refuses DOJ bid to set aside California ballots as grand jury subpoenas go out",
+      "region": "Courts",
+      "importance": 5,
+      "summary": "A federal judge in California rejected a Justice Department request to separate mail ballots from about 20,000 people it alleges are noncitizens. A day later the department issued grand jury subpoenas to California election officials in a criminal probe.",
+      "why_it_matters": "The ruling means those ballots are processed normally ahead of the midterms, while the subpoenas show the dispute over California's voter rolls is widening beyond the courtroom.",
+      "background": "The Trump administration's Justice Department sued California over its voter rolls, saying about 20,000 registrants may not be citizens. California and Los Angeles County say the federal government has not shown how it built the list and that it may be inaccurate. U.S. District Judge David Carter has been hearing the case and has floated appointing a special master to review the claims.",
+      "facts": [
+        { "text": "U.S. District Judge David Carter on Wednesday denied the administration's request to segregate mail ballots from roughly 20,000 people it alleges are noncitizens.", "refs": ["4b1f0faeea", "f787b7898c"] },
+        { "text": "Carter wrote that registered voters 'must not be deprived of a core right merely because of unfounded allegations' from a process 'rife with uncertainty and errors'.", "refs": ["0fb880f125"] },
+        { "text": "PBS reported the judge warned that segregating the ballots would 'wreak havoc' on the election.", "refs": ["be4c9200ec"] },
+        { "text": "The Justice Department then issued grand jury subpoenas to California local election officials, including in Los Angeles, as part of a criminal investigation.", "refs": ["492520a293", "2ae1fb518f", "e1ac9be6ee"] },
+        { "text": "The state argued that returned ballots are already separated from identifying envelopes and that more than 3 million had been returned; Carter said a special master could finish review before the Dec. 11 certification deadline.", "refs": ["us-w2"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How reliable the list of alleged noncitizens is",
+          "positions": [
+            { "claim": "The Justice Department says about 20,000 registrants are suspected noncitizens.", "refs": ["f787b7898c", "c81e954cba"] },
+            { "claim": "The judge said the allegations are unfounded and come from a process with errors; the NYT described the claims as unsubstantiated.", "refs": ["0fb880f125", "d5436a9605"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "c81e954cba", "note": "Frames the ruling as blocking DOJ from barring the count and keeps the 'alleged noncitizen' label attached to the ballots." },
+        { "ref": "0fb880f125", "note": "Leads with the judge's language protecting registered voters' rights." },
+        { "ref": "81a4b85f03", "note": "Emphasizes the DOJ 'turning up the heat' with subpoenas days before Election Day." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "4b1f0faeea", "takeaway": "Straight report of the denial of the segregation request.", "read_full": false },
+        { "ref": "be4c9200ec", "takeaway": "Highlights the judge's 'wreak havoc' warning.", "read_full": false },
+        { "ref": "c81e954cba", "takeaway": "Presents the ruling as a count-related decision with DOJ's claims foregrounded.", "read_full": false },
+        { "ref": "492520a293", "takeaway": "Reports the grand jury subpoenas as an escalation.", "read_full": false },
+        { "ref": "2ae1fb518f", "takeaway": "Focuses on subpoenas sent to Los Angeles election workers.", "read_full": false },
+        { "ref": "81a4b85f03", "takeaway": "Describes the subpoenas as federal pressure just before the election.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "hegseth-fires-sylvia",
+      "headline": "Hegseth fires Pentagon's top military planner over alleged leaks",
+      "region": "White House",
+      "importance": 4,
+      "summary": "Defense Secretary Pete Hegseth fired Army Lt. Gen. Brett Sylvia, who ran strategy, plans and policy on the Joint Staff, over allegations he leaked classified information. Axios reported, citing an internal report, that Sylvia admitted leaking. The Pentagon has referred the case to the Justice Department.",
+      "why_it_matters": "The firing continues turnover among senior military leaders and signals a tougher approach to contacts between officers and reporters.",
+      "background": "Hegseth has removed many senior officers since Trump returned to office, including the chairman of the Joint Chiefs. Sylvia was the second general under Hegseth to lose the Joint Staff's strategy, plans and policy post. The firing comes as Trump is reported to be weighing new strikes on Iran.",
+      "facts": [
+        { "text": "A Pentagon official told CBS News that Hegseth fired Lt. Gen. Brett Sylvia, the Pentagon's top military planner.", "refs": ["ba7a0b8915"] },
+        { "text": "Axios reported that an internal investigative report, which it saw, says Sylvia admitted leaking classified information about Ukraine and Iran to two reporters over a year.", "refs": ["bf484f4d8d"] },
+        { "text": "The Guardian reported the Pentagon said it referred the leak case to the Justice Department for criminal investigation.", "refs": ["677893a908"] },
+        { "text": "PBS NewsHour said Sylvia was the second general under Hegseth removed from the strategy, plans and policy role.", "refs": ["9bab8b48cf"] },
+        { "text": "The New York Times described the firing as part of a broad and unusual campaign to find and punish senior officers who speak to reporters.", "refs": ["44e75789be"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "703050fd9b", "note": "Leads with the leak allegation and quotes the line that classified information is not personal property." },
+        { "ref": "ed575537be", "note": "Stresses critics' alarm about Hegseth's overhaul of the military." },
+        { "ref": "251290f48b", "note": "Ties Hegseth's blame for leaks to news of further Iran strikes." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ba7a0b8915", "takeaway": "Confirms the firing via a Pentagon official.", "read_full": false },
+        { "ref": "bf484f4d8d", "takeaway": "Exclusive on the internal report and Sylvia's reported admission.", "read_full": false },
+        { "ref": "677893a908", "takeaway": "Notes the DOJ referral for criminal investigation.", "read_full": false },
+        { "ref": "9bab8b48cf", "takeaway": "Puts the firing in context of the Iran strike debate.", "read_full": false },
+        { "ref": "44e75789be", "takeaway": "Paywalled; headline and summary only, frames it as a campaign against leakers.", "read_full": false },
+        { "ref": "703050fd9b", "takeaway": "Brief, leak-focused account.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "south-carolina-senate-tightens",
+      "headline": "South Carolina Senate race tightens; Trump visits and Democratic super PAC spends",
+      "region": "Elections",
+      "importance": 4,
+      "summary": "Polls show Republican Sen. Darline Graham in a near tie with Democrat Annie Andrews in deep-red South Carolina. President Trump returned to campaign for Graham, and Senate Majority PAC said it will spend $750,000 on digital ads there for the first time.",
+      "why_it_matters": "A competitive race in a state Republicans usually win shows how wide the Senate battleground is, and affects which party controls the chamber.",
+      "background": "Graham is the sister of the late Sen. Lindsey Graham, per the NYT. Her Democratic opponent is Dr. Annie Andrews. Senate control is at stake in the midterms, which are days away.",
+      "facts": [
+        { "text": "The Hill reported Senate Majority PAC will spend $750,000 on digital ads in South Carolina for the first time.", "refs": ["43fc3e3fbf", "f21ec54017"] },
+        { "text": "NPR reported Trump returned to South Carolina for the second time in eight days.", "refs": ["3defafbf24"] },
+        { "text": "The New York Times said polls show Graham in a virtual tie with Andrews.", "refs": ["c314753a98"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "01ae9983c9", "note": "Calls Trump's stop a 'rescue mission', emphasizing Republican worry." },
+        { "ref": "43fc3e3fbf", "note": "Focuses on the Democratic spending decision and the polls behind it." },
+        { "ref": "3defafbf24", "note": "Asks how red the state really is." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "43fc3e3fbf", "takeaway": "Concise report with the ad-buy amount.", "read_full": false },
+        { "ref": "3defafbf24", "takeaway": "Trump visit and what the money says about the state.", "read_full": false },
+        { "ref": "c314753a98", "takeaway": "Paywalled; headline and summary only, profile of a nervous Graham.", "read_full": false },
+        { "ref": "01ae9983c9", "takeaway": "Video segment on Trump's last-minute stop.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-cancels-rallies",
+      "headline": "Trump cancels Kansas and Iowa rallies, switches to tele-rallies",
+      "region": "White House",
+      "importance": 3,
+      "summary": "The RNC announced that Trump canceled weekend rallies in Kansas and Iowa and will hold a large number of tele-rallies in the final days before the midterms. No reason beyond reaching more voters was given in the reporting available here.",
+      "why_it_matters": "Senate races in both states are toss-ups, so the change in the president's schedule affects campaign efforts in competitive places.",
+      "background": "Trump has held long rallies for Republican candidates nearly every day for weeks, per the NYT. The midterms are on Nov. 3. Control of Congress is at stake.",
+      "facts": [
+        { "text": "The RNC said Trump will do a large number of tele-rallies instead of the Kansas and Iowa events.", "refs": ["7856cf4686", "c5cd7c17f8"] },
+        { "text": "NBC News noted the Senate races in both states are considered toss-ups.", "refs": ["767afcb2ba"] },
+        { "text": "CBS News reported Trump still spoke at a rally in Rock Hill, South Carolina, on Thursday.", "refs": ["512ccb6927"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "c5cd7c17f8", "note": "Repeats the RNC rationale of reaching more voters." },
+        { "ref": "014ecb38f7", "note": "Headline says Trump 'scraps' two rallies, stressing the cancellations." },
+        { "ref": "bcc63dfa8f", "note": "Describes Trump swapping rallies for phone calls." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c5cd7c17f8", "takeaway": "Wire report carrying the RNC explanation.", "read_full": false },
+        { "ref": "767afcb2ba", "takeaway": "Adds the toss-up Senate context.", "read_full": false },
+        { "ref": "014ecb38f7", "takeaway": "Emphasizes the scrapped events.", "read_full": false },
+        { "ref": "7856cf4686", "takeaway": "Paywalled; headline and summary only.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "oregon-helicopter-collision",
+      "headline": "Three killed when two helicopters collide near McMinnville, Oregon",
+      "region": "",
+      "importance": 3,
+      "summary": "Two helicopters collided midair Thursday afternoon near McMinnville Municipal Airport southwest of Portland, killing all three people aboard. Highway 233 was closed and the FAA is investigating.",
+      "why_it_matters": "The crash closed a state highway and raises questions about training-area flying near small airports; the cause has not been determined.",
+      "background": "The collision involved a Robinson R22 and an Airbus helicopter, per the BBC. Both crashed in a field next to a highway. The NYT reported a student pilot and a flight instructor were among the dead.",
+      "facts": [
+        { "text": "Authorities said three people were killed in the midair collision Thursday afternoon.", "refs": ["dd0683faf0", "7c4b389108", "ef8d5e8d13"] },
+        { "text": "The aircraft were a Robinson R22 and an Airbus helicopter, and both crashed in a field beside a highway.", "refs": ["6fb4f1a3aa"] },
+        { "text": "The Oregon Department of Transportation closed Highway 233 near Dayton with no reopening estimate.", "refs": ["5e23c4c492", "7af0eec8b7"] },
+        { "text": "Fox News reported that the FAA is investigating; the NYT said the cause has not been determined.", "refs": ["e79c65caab", "398e6451e7"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "dd0683faf0", "takeaway": "Plain report of the deaths from authorities.", "read_full": false },
+        { "ref": "6fb4f1a3aa", "takeaway": "Identifies the aircraft types.", "read_full": false },
+        { "ref": "5e23c4c492", "takeaway": "Adds the highway closure.", "read_full": false },
+        { "ref": "e79c65caab", "takeaway": "Notes the FAA investigation.", "read_full": false },
+        { "ref": "398e6451e7", "takeaway": "Paywalled; headline and summary only.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "daylight-saving-senate",
+      "headline": "Senate unlikely to make daylight saving time permanent this year despite Trump's push",
+      "region": "Congress",
+      "importance": 2,
+      "summary": "The Associated Press reported the Senate is unlikely to act before year's end on a House-passed bill making daylight saving time permanent, despite pressure from President Trump. Clocks fall back this weekend.",
+      "why_it_matters": "Americans will keep changing clocks twice a year for now.",
+      "background": "The House passed a bill to make daylight saving time permanent. Trump has urged the Senate to act, but senators are skeptical, and some experts have raised concerns about dark winter mornings for schoolchildren.",
+      "facts": [
+        { "text": "The Senate is unlikely to act before the end of the year on the House-passed bill, per the AP.", "refs": ["e6cbde9316", "1f5bd259f8"] },
+        { "text": "CBS News said clocks 'fall back' this weekend when daylight saving time ends for 2026.", "refs": ["3907c5121e"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "774d2f209d", "note": "Focuses on a safety concern for schoolchildren under permanent daylight saving time." },
+        { "ref": "e6cbde9316", "note": "Centers the Senate's reluctance against Trump's pressure." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e6cbde9316", "takeaway": "AP story on Senate skepticism.", "read_full": false },
+        { "ref": "774d2f209d", "takeaway": "Expert safety angle.", "read_full": false },
+        { "ref": "3907c5121e", "takeaway": "Service piece on the time change.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://alaskapublic.org/news/politics/2026-10-24/peltola-democratic-party-move-to-intervene-in-doj-election-lawsuit", "title": "Peltola, Democratic Party move to intervene in DOJ election lawsuit", "outlet": "Alaska Public Media" },
+    { "id": "us-w2", "url": "https://www.wcax.com/2026/10/28/special-master-could-evaluate-justice-departments-claims-noncitizens-california-voter-rolls/", "title": "Special master could evaluate DOJ claim of 20,000 noncitizens on California voter rolls", "outlet": "AP via WCAX" }
+  ]
+}
