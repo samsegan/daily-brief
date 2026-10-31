@@ -1,0 +1,30 @@
+{
+  "overview": "Courts turned back Justice Department efforts over California ballots and election workers, and the department opened a probe tied to a second \"Dan Sullivan\" on Alaska's Senate ballot, as early voting surges ahead of Tuesday's midterms. Iran said four tankers hit mines in the Strait of Hormuz, Russia's Novaya Gazeta shut down, and Israel's election left no bloc with a majority. On Wall Street, a tech sell-off over AI spending produced the worst day since June, while Fed officials said more rate hikes may be needed. In New York, the City Council took up a bill to create a Department of Community Safety.",
+  "markets": {
+    "summary": "Stocks fell on the latest readings: the Nasdaq Composite was down 1.38% and the Dow down 1.09%, with Japan's Nikkei down 2.12%. Coverage tied the US drop to a sell-off in technology companies over how much they are spending on AI. Fed officials said more rate hikes will be needed to fight inflation, which at 3.72% a year is running well above the Fed's usual goal. Oil stayed very high, with US crude near $103 a barrel, and oil companies Exxon and Chevron reported profits above estimates during the Iran war.",
+    "movers": [
+      { "symbol": "NASDAQCOM", "why": "Fell 1.38% as the tech sell-off over AI spending hit the index most heavily weighted toward those companies." },
+      { "symbol": "DJIA", "why": "Fell 1.09% on the same Wall Street sell-off, which reports called the worst day since June." },
+      { "symbol": "DCOILBRENTEU", "why": "Brent crude fell 3.92% in the latest reading but remains above $120 a barrel; the data do not say what drove the one-day drop." }
+    ],
+    "concept": {
+      "term": "Inflation (CPI)",
+      "explanation": "The Consumer Price Index tracks what a typical basket of goods and services costs, such as food, rent, gasoline and medical care, and the headline number is how much that basket cost compared with a year earlier. It moves with energy prices, wages, supply problems and how much people spend. It reaches your wallet through everyday prices and through the Fed: when inflation runs hot, the Fed can raise interest rates, which makes mortgages, car loans and credit cards more expensive. The latest reading is 3.72% a year."
+    },
+    "watch": [
+      "Sun Nov 1: Daylight saving time ends",
+      "Tue Nov 3: US midterm election day",
+      "Fri Nov 6: October jobs report (Labor Department, 8:30 a.m. ET)"
+    ]
+  },
+  "trending": [
+    { "title": "Patrick Stewart", "context": "Wikipedia's In the News lists the British actor's death at 86, and his page was the most viewed on Wikipedia.", "signal": "wikipedia_news" },
+    { "title": "World Series", "context": "Wikipedia's In the News lists the Milwaukee Brewers defeating the Tampa Bay Rays to win the title.", "signal": "wikipedia_news" },
+    { "title": "Toledo train collision", "context": "Wikipedia reports at least 69 people killed when two high-speed trains collided in Toledo province, Spain.", "signal": "wikipedia_news" },
+    { "title": "2026 Israeli legislative election", "context": "The election page drew about 153,000 views as final results came in.", "signal": "wikipedia" },
+    { "title": "Daylight saving time ends Sunday", "context": "People on Bluesky are discussing the clock change this weekend.", "signal": "bluesky" },
+    { "title": "Who won the 2020 US presidential election", "context": "Searches spiked past 1,000 in the days before the midterms; Google's trend list gives no reason.", "signal": "google" },
+    { "title": "MTA", "context": "Searches for the transit agency rose; the trend list gives no reason.", "signal": "google" },
+    { "title": "Oil industry's Iran war profits", "context": "About 1,450 Bluesky posts discussed oil company earnings during the Iran war.", "signal": "bluesky" }
+  ]
+}

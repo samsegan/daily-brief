@@ -1,0 +1,203 @@
+{
+  "stories": [
+    {
+      "id": "alaska-second-sullivan",
+      "headline": "Justice Department probes second 'Dan Sullivan' on Alaska Senate ballot",
+      "region": "Elections",
+      "importance": 5,
+      "summary": "The top federal prosecutor in Alaska confirmed criminal and civil inquiries into the recruitment of a second candidate named Dan Sullivan in the Senate race. The Justice Department also asked a federal judge to have state officials set aside ballots that rank that candidate. Democrat Mary Peltola says she knew nothing about the recruitment.",
+      "why_it_matters": "The Alaska seat could help decide Senate control, and the court request touches how ballots are counted days before the Nov. 3 election. Coverage splits sharply by outlet lean on whether this is a scheme or a pretext.",
+      "background": "Alaska's Senate race pits Republican incumbent Dan Sullivan against Democrat Mary Peltola, a former congresswoman. A second candidate, Dan J. Sullivan, also qualified for the ballot, and Republicans say Democrats recruited him to confuse voters. Alaska uses ranked-choice voting, so a name-alike could draw rankings. The Justice Department sued last week over the matter, and the administration has pushed the case in the closing days of the campaign.",
+      "facts": [
+        { "text": "The U.S. attorney for Alaska said Friday that federal authorities are investigating whether the Peltola campaign's reported effort to recruit the second candidate violated the law.", "refs": ["5524db1582", "d1fe75e5e8", "3c715f9b04"] },
+        { "text": "In a court filing the Justice Department asked a judge to order that ballots ranking Dan J. Sullivan be separated, citing potential voter confusion; NBC noted the filing did not explain how separating ballots would show confusion.", "refs": ["0c35a6be99", "e80b4eca54"] },
+        { "text": "Peltola told supporters Thursday she 'knew nothing' about the recruitment of decoy candidates.", "refs": ["3bbf19b569", "9513d13293"] },
+        { "text": "NewsNation reported that running against a candidate who shares your name is not illegal in Alaska or under federal law.", "refs": ["6d95967bdb"] },
+        { "text": "Sen. Lisa Murkowski, a Republican, criticized the Justice Department's lawsuit, according to ABC affiliate reports.", "refs": ["us-w2"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the Peltola campaign was behind the second candidate",
+          "positions": [
+            { "claim": "Sen. John Barrasso alleged Sen. Chuck Schumer worked with Peltola's campaign for a year to recruit the candidate.", "refs": ["3eb4e5da86"] },
+            { "claim": "Peltola says she knew nothing about it.", "refs": ["3bbf19b569", "9513d13293"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "3eb4e5da86", "note": "Fox leads with the Republican accusation of a Schumer-backed 'decoy' plot." },
+        { "ref": "0c35a6be99", "note": "NBC leads with the DOJ filing and stresses that it did not explain how separating ballots would show confusion." },
+        { "ref": "bccc5ed12a", "note": "The Washington Examiner presents the scheme as established fact and frames it as a pre-election bombshell." },
+        { "ref": "6d95967bdb", "note": "NewsNation focuses on whether the conduct is actually illegal, which others play down." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3eb4e5da86", "takeaway": "Reports the Republican allegation against Schumer and Peltola's campaign.", "read_full": false },
+        { "ref": "3bbf19b569", "takeaway": "Paywalled; headline and summary stress Peltola's denial.", "read_full": false },
+        { "ref": "0c35a6be99", "takeaway": "Court-filing focus on the request to segregate ballots.", "read_full": false },
+        { "ref": "5524db1582", "takeaway": "Reports the U.S. attorney's confirmation of an 'intense' probe.", "read_full": false },
+        { "ref": "e80b4eca54", "takeaway": "Ties the DOJ request to Senate control stakes.", "read_full": false },
+        { "ref": "d1fe75e5e8", "takeaway": "Explainer with a criminal and civil inquiry framing and Peltola's denial.", "read_full": false },
+        { "ref": "9513d13293", "takeaway": "Neutral wire-style account of accusation and denial.", "read_full": false },
+        { "ref": "6d95967bdb", "takeaway": "Examines the legality of the alleged scheme.", "read_full": false },
+        { "ref": "3c715f9b04", "takeaway": "Covers the criminal probe and the separate ballot request together.", "read_full": false },
+        { "ref": "bccc5ed12a", "takeaway": "Opinion piece, used only for framing.", "read_full": false }
+      ],
+      "social": "Republicans such as Murkowski have publicly objected to the DOJ suit, while Sullivan's campaign called the matter a Democratic sideshow, per search summaries."
+    },
+    {
+      "id": "california-ballots-doj",
+      "headline": "Courts rebuff Justice Department efforts over California ballots and election workers",
+      "region": "Courts",
+      "importance": 5,
+      "summary": "A federal appeals court rejected, 2-1, the Justice Department's bid to make California set aside mail ballots from over 20,000 people the administration suspects are noncitizens. Separately, a federal judge barred the department from threatening election workers with prosecution for counting those ballots.",
+      "why_it_matters": "The rulings leave California's vote counting unchanged days before the midterms. They also limit federal pressure on local election officials.",
+      "background": "The Trump administration alleges that California sent ballots to some 20,000 people who may not be citizens and wants them held until citizenship is verified. California officials dispute this and have resisted. A district court had earlier declined to order the separation, and the Justice Department went to the 9th Circuit. The restraining order came in a lawsuit brought by unions, per The Hill.",
+      "facts": [
+        { "text": "The 9th Circuit panel voted 2-1 Friday to reject the Justice Department's request for California to set aside the disputed ballots.", "refs": ["d26276a07e", "1824d7eacf", "128ebac5ba"] },
+        { "text": "U.S. District Judge Trina Thompson issued a temporary restraining order barring the administration from threatening election officials with criminal prosecution over such ballots.", "refs": ["20a68952a6", "7f18e64a52", "682a20af1d"] },
+        { "text": "The order says local officials cannot be forced to separate or stop counting ballots the government deems disputed.", "refs": ["ee64ff86ac"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "1824d7eacf", "note": "Axios frames it as a last-minute loss for the Trump DOJ." },
+        { "ref": "ce16e69872", "note": "The Times highlights the court's description of the idea as plainly unconstitutional." },
+        { "ref": "c04370efb0", "note": "Fox covers only the order protecting election workers and describes the ballots as tied to suspected noncitizens." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d26276a07e", "takeaway": "Appeals ruling with the 20,000 figure.", "read_full": false },
+        { "ref": "1824d7eacf", "takeaway": "Short ruling summary with the 2-1 vote.", "read_full": false },
+        { "ref": "128ebac5ba", "takeaway": "Explains the administration's allegation and request.", "read_full": false },
+        { "ref": "ce16e69872", "takeaway": "Paywalled; stresses the court's strong language.", "read_full": false },
+        { "ref": "20a68952a6", "takeaway": "Names the judge and the union lawsuit.", "read_full": false },
+        { "ref": "7f18e64a52", "takeaway": "Emphasizes the timing four days before the midterms.", "read_full": false },
+        { "ref": "682a20af1d", "takeaway": "Focuses on the order against intimidation of officials.", "read_full": false },
+        { "ref": "ee64ff86ac", "takeaway": "Details the scope of the order.", "read_full": false },
+        { "ref": "c04370efb0", "takeaway": "Right-leaning outlet covering the order, with the administration's noncitizen claim.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "christa-pike-statement",
+      "headline": "Christa Pike describes constant pain after failed Tennessee execution",
+      "region": "Courts",
+      "importance": 4,
+      "summary": "Christa Pike, who survived a lethal injection attempt in Tennessee in September, released her first public statement, saying she is in constant pain and isolated. Her lawyers want her death sentence reduced to life, and the governor has ordered an investigation.",
+      "why_it_matters": "The case raises questions about how states carry out lethal injections and whether other scheduled executions go forward.",
+      "background": "Pike was convicted of a 1995 murder and was the first woman executed or scheduled for execution in Tennessee in two centuries. Her execution was attempted by lethal injection at the end of September and did not succeed. Gov. Bill Lee ordered an independent investigation and canceled the state's next scheduled execution, according to local reporting. Her lawyers are asking him to commute her sentence.",
+      "facts": [
+        { "text": "Pike said in her first public statement since the attempt that she is in constant pain, a month after surviving it.", "refs": ["c417e79453", "4ba4e28467", "96aadfca87"] },
+        { "text": "Her lawyers want her death sentence reduced to life, and the governor has ordered an investigation.", "refs": ["c417e79453"] },
+        { "text": "Gov. Lee called for a third-party investigation, canceled the December execution and postponed another; the Corrections commissioner is resigning.", "refs": ["us-w3"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "65e39739b8", "note": "The Sun's headline stresses her 'pain' with scare quotes, a skeptical tone." },
+        { "ref": "96aadfca87", "note": "BBC leads with her account of waking confused and in pain." },
+        { "ref": "51526ac540", "note": "WSJ stresses the two doses she survived." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c417e79453", "takeaway": "Includes the lawyers' sentencing request and the governor's probe.", "read_full": false },
+        { "ref": "4ba4e28467", "takeaway": "Quotes her saying she went in prepared to die in peace.", "read_full": false },
+        { "ref": "96aadfca87", "takeaway": "Her account of waking in pain.", "read_full": false },
+        { "ref": "51526ac540", "takeaway": "Paywalled; headline and summary only.", "read_full": false },
+        { "ref": "65e39739b8", "takeaway": "Right-leaning take with skeptical framing.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "east-potomac-inquiry",
+      "headline": "Judge opens misconduct inquiry over Trump golf course plans in D.C.",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "U.S. District Judge Ana Reyes opened a formal inquiry into whether government officials misled the court about plans for East Potomac golf course in Washington. The New York Times reported she appointed a special master.",
+      "why_it_matters": "The case tests whether the administration was candid with a court about changes to a public park.",
+      "background": "East Potomac Park is a federal park in Washington with a municipal golf course. The administration has plans to renovate and close the course, and a lawsuit challenges them. Judge Reyes grilled government lawyers about what they knew of plans to close the course next month, according to the BBC.",
+      "facts": [
+        { "text": "Judge Reyes said she will conduct a formal inquiry into whether officials engaged in misconduct.", "refs": ["67aab720d9", "a14f1102d1"] },
+        { "text": "The New York Times reported she appointed an outside special master to determine whether parks officials or Justice Department lawyers withheld plans.", "refs": ["7f574481c1"] },
+        { "text": "The BBC reported she questioned Trump lawyers about plans to close the course next month.", "refs": ["a7c4bca8bc"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "52a92bca24", "note": "CNN uses charged wording about the judge tearing into a senior official." },
+        { "ref": "a76e89a229", "note": "Washington Times frames it as growing headaches for Trump." },
+        { "ref": "a14f1102d1", "note": "NPR keeps to the inquiry into potential DOJ misconduct." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "67aab720d9", "takeaway": "Straight account of the inquiry.", "read_full": false },
+        { "ref": "7f574481c1", "takeaway": "Paywalled; special master detail.", "read_full": false },
+        { "ref": "a14f1102d1", "takeaway": "Focus on potential misleading of the court.", "read_full": false },
+        { "ref": "a7c4bca8bc", "takeaway": "Courtroom questioning detail.", "read_full": false },
+        { "ref": "52a92bca24", "takeaway": "Headline emphasizes the judge's criticism.", "read_full": false },
+        { "ref": "a76e89a229", "takeaway": "Political-headache framing.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "comey-new-charges",
+      "headline": "Prosecutors say they may bring more charges against James Comey",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "At a hearing, Justice Department prosecutors told a judge they may seek additional charges against former FBI Director James Comey. The judge put off a decision on Comey's request to dismiss the latest case.",
+      "why_it_matters": "It shows the Justice Department is pressing a third criminal case against a prominent critic of the president days before the election.",
+      "background": "Comey is the former FBI director and a frequent target of President Trump's criticism. The department's latest case accuses him of leaking classified information a decade ago, per the Times. His lawyers argue it should be dismissed.",
+      "facts": [
+        { "text": "Comey's lawyers asked a federal judge to block or dismiss the Justice Department's third criminal case against him.", "refs": ["88d877b158", "2b04907e5d"] },
+        { "text": "Prosecutors suggested they may seek additional charges, and the judge put off a decision while the department pursues a new indictment.", "refs": ["47ff87818b", "d3961940b8"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "88d877b158", "note": "ABC describes Comey as the outspoken critic and target of the president's outrage." },
+        { "ref": "d3961940b8", "note": "Washington Times uses neutral procedural language about the delayed decision." },
+        { "ref": "47ff87818b", "note": "The Times calls the case unusual and 11th-hour." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "88d877b158", "takeaway": "Preview of the hearing.", "read_full": false },
+        { "ref": "2b04907e5d", "takeaway": "Hearing recap.", "read_full": false },
+        { "ref": "47ff87818b", "takeaway": "Paywalled; stresses unusual timing.", "read_full": false },
+        { "ref": "d3961940b8", "takeaway": "Procedural update.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-closing-rallies",
+      "headline": "Trump restores Iowa and Kansas rallies as early voting surges",
+      "region": "White House",
+      "importance": 3,
+      "summary": "Trump reinstated in-person rallies in Iowa and Kansas a day after they were cancelled for tele-rallies. PBS reported they are now set for Sunday, and The Hindu cited a record 47.9 million early votes.",
+      "why_it_matters": "It shows how the president and Republicans are spending the final days before the Nov. 3 elections that decide control of Congress.",
+      "background": "The midterms on Nov. 3 decide all 435 House seats and about a third of the Senate. Polls cited by the Times show Republicans at risk of losing seats, including some Trump won handily in 2024. The schedule reversal came after the RNC said events were cancelled, per CNBC.",
+      "facts": [
+        { "text": "Trump reinstated rallies in Kansas and Iowa a day after cancelling them.", "refs": ["4d842f9949", "ab0bdbcf56", "9348944a35"] },
+        { "text": "The Hindu reported a record 47.9 million Americans had already voted.", "refs": ["9348944a35"] },
+        { "text": "NBC reported that at a Florida rally Trump said he thought he could relax after cancelling and was convinced by calls from Iowa and Kansas.", "refs": ["5707574856"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "4d842f9949", "note": "Guardian emphasizes the reversal and the Republican fight for control." },
+        { "ref": "de2cdca8e0", "note": "Washington Times uses a breezy 'Back on!' headline." },
+        { "ref": "ab0bdbcf56", "note": "The Times ties it to polls showing Republican risk." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "4d842f9949", "takeaway": "Reversal story.", "read_full": false },
+        { "ref": "de2cdca8e0", "takeaway": "Upbeat framing of the return.", "read_full": false },
+        { "ref": "ab0bdbcf56", "takeaway": "Paywalled; polling context.", "read_full": false },
+        { "ref": "9348944a35", "takeaway": "Early-vote record and Trump quote.", "read_full": false },
+        { "ref": "5707574856", "takeaway": "Trump's own explanation.", "read_full": false },
+        { "ref": "7393452aa2", "takeaway": "Early voting and schedule detail.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://www.alaskasnewssource.com/2026/10/23/trump-sues-disqualify-votes-petersburgs-dan-sullivan/", "title": "Trump sues to disqualify votes for Petersburg's Dan Sullivan", "outlet": "Alaska's News Source" },
+    { "id": "us-w2", "url": "https://okcfox.com/news/nation-world/alaskas-republican-lisa-murkowski-knocks-doj-for-suing-against-senate-election-results-president-trump-administration-dan-sullivan-mary-peltola-midterms", "title": "Alaska's Murkowski knocks DOJ for suing against Senate election results", "outlet": "ABC News affiliate" },
+    { "id": "us-w3", "url": "https://www.wsmv.com/2026/10/02/we-need-know-what-happened-tennessee-attorney-general-says-gov-lee-has-officially-called-an-investigation-into-failed-execution-christa-pike/", "title": "Tennessee attorney general says Gov. Lee has called an investigation into failed execution", "outlet": "WSMV" }
+  ]
+}

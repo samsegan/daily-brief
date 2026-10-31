@@ -1,0 +1,160 @@
+{
+  "stories": [
+    {
+      "id": "binance-hack",
+      "headline": "Binance says hackers took about $6.3 billion in record crypto theft",
+      "region": "Crypto",
+      "importance": 5,
+      "summary": "Binance, the world's largest crypto exchange, said a security breach affected about $6.3 billion in assets and that it will cover customer losses. Roughly $3 billion has been frozen so far, and the exchange paused withdrawals. Suspicion has fallen on North Korean hackers, though the White House says it does not yet know.",
+      "why_it_matters": "Millions of people keep money on exchanges like Binance, and the company's pledge to cover losses is what protects them here. The theft also puts renewed pressure on regulators and on the security practices of crypto platforms.",
+      "background": "Binance is the largest cryptocurrency exchange by trading volume, founded by Changpeng Zhao. Crypto exchanges hold customers' coins in wallets they control, which makes them targets for large thefts. North Korean state-linked hackers have been tied by researchers to several earlier large crypto thefts. Stablecoin issuers such as Circle and Tether can freeze their own tokens, which is how part of the stolen money was frozen. The size of this theft is far above earlier records, according to AP and other outlets.",
+      "facts": [
+        { "text": "Binance said a security breach affected about $6.3 billion in assets, and that roughly $3 billion has been frozen and losses will be covered.", "refs": ["301c24e3b6", "f686af3e79"] },
+        { "text": "Outlets including AP, NPR and the Financial Times describe it as the largest crypto theft on record.", "refs": ["d0922f1d49", "3c0b0c64d7", "0c64251220"] },
+        { "text": "Binance suspended withdrawals after the breach, and crypto prices fell on the news.", "refs": ["e05dd74602", "d32bebfb84"] },
+        { "text": "The Financial Times reports Binance said an engineer's laptop was compromised in the breach.", "refs": ["f696be3197"] },
+        { "text": "The Wall Street Journal reports the loss exceeded the funds the exchange had set aside to cover such an incident.", "refs": ["41f0136b05"] },
+        { "text": "Binance co-founder said the exchange does not need to sell its SpaceX shares to cover losses, per Reuters.", "refs": ["9886ece9a2"] },
+        { "text": "A US State Department spokesman called North Korean cybercrime a \"global problem\".", "refs": ["a0699ab94e"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Who is responsible",
+          "positions": [
+            { "claim": "A research lab attributed the theft to North Korea's elite hacking unit, and several outlets name North Korea as the prime suspect.", "refs": ["d32bebfb84", "a2f2839074"] },
+            { "claim": "President Trump said the administration is looking into it and \"we don't know\" whether North Korea is responsible.", "refs": ["b4c5ca6f70"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "e05dd74602", "note": "Headline states the theft was blamed on North Korea, putting attribution up front." },
+        { "ref": "b4c5ca6f70", "note": "Leads with the president's remarks and his hedge on attribution." },
+        { "ref": "f806425125", "note": "Focuses on how hard it will be to recover the money." },
+        { "ref": "f436de4021", "note": "Frames the hack as a regulatory-debate story, quoting a former regulator who says it shows a single firm's weakness rather than a blockchain flaw." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "301c24e3b6", "takeaway": "Reports Binance's own figures: $6.3 billion affected, about $3 billion frozen.", "read_full": false },
+        { "ref": "b4c5ca6f70", "takeaway": "Presidential reaction and the open question of attribution.", "read_full": false },
+        { "ref": "d32bebfb84", "takeaway": "Paywalled; headline and summary cover the withdrawal halt and a lab's North Korea attribution.", "read_full": false },
+        { "ref": "f686af3e79", "takeaway": "Reuters wire on the first-day $3 billion freeze with Circle and Tether.", "read_full": false },
+        { "ref": "f696be3197", "takeaway": "Paywalled FT piece; source of the compromised-laptop detail.", "read_full": false },
+        { "ref": "41f0136b05", "takeaway": "Paywalled WSJ; focuses on Binance's scramble to cover losses.", "read_full": false },
+        { "ref": "a2f2839074", "takeaway": "BBC explainer on why North Korean hackers are the prime suspect.", "read_full": false },
+        { "ref": "d0922f1d49", "takeaway": "AP explainer; summary not available in the digest.", "read_full": false },
+        { "ref": "f806425125", "takeaway": "CBS on recovery prospects.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ai-tech-selloff",
+      "headline": "Tech sell-off over AI spending gives Wall Street its worst day since June",
+      "region": "Earnings",
+      "importance": 5,
+      "summary": "The S&P 500 fell 1.8% on Friday, its worst day since June, and closed a third straight losing week as investors questioned returns on heavy AI spending. Disappointing earnings from Amazon, Alphabet and Intel drove the declines, and the Nasdaq dropped about 3% at one point. Intel had its worst day in decades.",
+      "why_it_matters": "Big tech stocks make up a large share of most retirement and index funds, so a prolonged drop in them shows up in 401(k) balances. Worries that the AI spending boom may not pay off also bear on the companies hiring and investing across the economy.",
+      "background": "Large technology companies have committed hundreds of billions of dollars to AI data centers and chips over the past two years, and stock prices rose on expectations of large future profits. This month investors began to question how quickly that spending can earn returns. Several of the biggest firms reported quarterly results this week. Some have also drawn credit-rating scrutiny over their borrowing, with S&P revising Meta's outlook to negative.",
+      "facts": [
+        { "text": "The S&P 500 fell 1.8%, its worst day since June, and ended a third straight losing week, per AP via SCMP.", "refs": ["33d9763d48", "f53f2a2425"] },
+        { "text": "The Guardian reports the sell-off cut US market value by nearly $1 trillion after subpar earnings from leading tech companies.", "refs": ["c6608a9a56"] },
+        { "text": "CBS reports the Nasdaq shed more than 700 points after disappointing results from Alphabet, Amazon and Intel.", "refs": ["4de53ecdca"] },
+        { "text": "CNBC reports Intel stock had its worst day since the 1970s, erasing about $12 billion from the US government's stake.", "refs": ["945642cb40"] },
+        { "text": "MarketWatch attributes Intel's slide to pressure on its PC business as memory-chip prices dent demand and corporate IT budgets shrink.", "refs": ["5a3bfd626b"] },
+        { "text": "BBC reports Google's value fell by about $500 billion after it said its AI search summaries were affecting ad revenue.", "refs": ["c3c296345f"] },
+        { "text": "S&P Global revised Meta's credit outlook to negative over capital spending and free cash flow, per Reuters.", "refs": ["dbb93565b8", "7d204d0f2c"] },
+        { "text": "The Financial Times reports that revelations Anthropic could receive a junk credit rating after its IPO added to concerns over industry borrowing.", "refs": ["cb3a0b1fb3"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "97bec2a65d", "note": "Headline stresses the Nasdaq's 3% plunge and names Amazon, Intel and Reddit as victims of AI fears." },
+        { "ref": "c6608a9a56", "note": "Leads with the roughly $1 trillion market-value loss and weak earnings." },
+        { "ref": "e1410a8fd2", "note": "Pairs the tech sell-off with energy stocks outperforming." },
+        { "ref": "96c2dff016", "note": "Asks whether this is a bubble bursting, drawing a comparison to 2000." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "33d9763d48", "takeaway": "Carries the AP account with index figures and the AI-valuation worry.", "read_full": false },
+        { "ref": "c6608a9a56", "takeaway": "Quantifies the market-value loss and ties it to earnings.", "read_full": false },
+        { "ref": "4de53ecdca", "takeaway": "Nasdaq point drop and which earnings triggered it.", "read_full": false },
+        { "ref": "945642cb40", "takeaway": "Intel's record-bad day and the government stake.", "read_full": false },
+        { "ref": "5a3bfd626b", "takeaway": "Explains Intel's specific business problems.", "read_full": false },
+        { "ref": "c3c296345f", "takeaway": "Google's AI search and ad revenue concern.", "read_full": false },
+        { "ref": "dbb93565b8", "takeaway": "Reuters on Meta's S&P outlook cut.", "read_full": false },
+        { "ref": "97bec2a65d", "takeaway": "Nasdaq plunge story naming Amazon, Intel and Reddit.", "read_full": false },
+        { "ref": "e1410a8fd2", "takeaway": "Headline only; contrasts tech losses with energy gains.", "read_full": false },
+        { "ref": "96c2dff016", "takeaway": "Market commentary comparing the move to 2000.", "read_full": false },
+        { "ref": "cb3a0b1fb3", "takeaway": "Paywalled FT; adds the credit-rating angle.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "oil-profits-iran-war",
+      "headline": "Exxon and Chevron beat estimates as oil industry profits surge during Iran war",
+      "region": "Earnings",
+      "importance": 4,
+      "summary": "ExxonMobil and Chevron reported third-quarter results that beat forecasts, helped by high oil prices, record production and strong refining margins. The New York Times and New York Post both report US oil and gas companies earned more than $130 billion during the war. The results land as drivers face high gasoline and diesel prices.",
+      "why_it_matters": "High fuel prices raise costs for commuters, truckers and anyone buying goods that are shipped. The profits are also a political issue days before the midterms.",
+      "background": "The US is at war with Iran, and attacks on refineries in the Middle East and Russia have tightened global fuel supplies. That pushed up crude oil and especially diesel prices. Oil companies that refine fuel have earned larger margins as a result. President Trump has both touted the benefits of high oil prices and, per CNBC, said Big Oil was making too much money.",
+      "facts": [
+        { "text": "ExxonMobil and Chevron reported better-than-expected Q3 results on Friday, per Reuters and the Guardian.", "refs": ["a4ee039ed9", "48a46a7e81"] },
+        { "text": "Reuters reports refining margins surged during the wars; CNBC says global diesel prices rose after Ukraine and Iran struck refineries.", "refs": ["a4ee039ed9", "7a105fd2eb"] },
+        { "text": "The New York Times reports the US oil industry earned over $130 billion during the Iran war, almost three times the amount in the same period of 2025; the New York Post reports the same total for more than 50 companies.", "refs": ["75cdf73cc2", "b736773fa6"] },
+        { "text": "The Financial Times reports the two companies warned on diesel supplies, and BP posted a record profit.", "refs": ["cef82bb2b3", "1b0ae86b0a"] },
+        { "text": "CNBC reports Trump criticized Big Oil for making \"too much money,\" while refining earnings have risen since.", "refs": ["31206c4f66"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f8001da0bc", "note": "Pairs the \"blowout profits\" with Trump touting benefits of high prices." },
+        { "ref": "b736773fa6", "note": "Leads with the $130 billion total and the squeeze on consumers." },
+        { "ref": "96c0d3e928", "note": "Links the profits to shareholders including Trump and to what drivers pay." },
+        { "ref": "7a105fd2eb", "note": "Focuses on the stocks hitting highs and refining economics rather than consumer cost." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a4ee039ed9", "takeaway": "Reuters wire: beats forecasts, refining margins up.", "read_full": false },
+        { "ref": "48a46a7e81", "takeaway": "Notes record production alongside consumer gas price pain.", "read_full": false },
+        { "ref": "75cdf73cc2", "takeaway": "Paywalled NYT; industry-wide profit total versus 2025.", "read_full": false },
+        { "ref": "b736773fa6", "takeaway": "Same total, framed around consumer squeeze.", "read_full": false },
+        { "ref": "cef82bb2b3", "takeaway": "Paywalled FT; adds the diesel supply warning.", "read_full": false },
+        { "ref": "7a105fd2eb", "takeaway": "Explains why diesel prices jumped.", "read_full": false },
+        { "ref": "31206c4f66", "takeaway": "Compares Trump's remarks to refining earnings.", "read_full": false },
+        { "ref": "f8001da0bc", "takeaway": "Highlights Trump's comments on high oil prices.", "read_full": false },
+        { "ref": "96c0d3e928", "takeaway": "Opinionated-leaning headline on shareholders and gas prices.", "read_full": false },
+        { "ref": "1b0ae86b0a", "takeaway": "Paywalled FT on BP's record profit.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "fed-more-hikes",
+      "headline": "Fed officials say more rate hikes will be needed to fight inflation",
+      "region": "Fed",
+      "importance": 4,
+      "summary": "Two Federal Reserve regional presidents, Lorie Logan and Alberto Musalem, said the central bank will need to resume raising interest rates. Reuters reports Logan said at least two more hikes are needed. MarketWatch reports the Fed held rates steady at its latest meeting.",
+      "why_it_matters": "Higher Fed rates push up borrowing costs for mortgages, car loans and credit cards. The comments suggest relief from high rates is not close.",
+      "background": "The Federal Reserve sets short-term interest rates to balance inflation against employment. Inflation has stayed elevated, partly from higher energy prices. Regional Fed presidents such as Logan and Musalem take part in rate decisions and often signal where policy is headed. A MarketWatch headline says Warsh wants the Fed to communicate less, while two officials are pushing for more transparency.",
+      "facts": [
+        { "text": "Reuters reports Fed official Lorie Logan said the Fed needs at least two more rate hikes.", "refs": ["8429338684"] },
+        { "text": "CNBC reports Logan and Musalem gave the first insight into what Fed leaders see next, saying they will need to get back to hiking.", "refs": ["f699365bef"] },
+        { "text": "MarketWatch reports the Fed held rates steady while officials see more hikes coming soon.", "refs": ["c81afa3aeb"] },
+        { "text": "The Wall Street Journal reports Treasurys gained on the tech sell-off the same day as the Fed comments.", "refs": ["1d26b1cdac"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "8429338684", "note": "Gives a specific number, at least two more hikes." },
+        { "ref": "c81afa3aeb", "note": "Pairs the hike signal with a debate over Fed communication and transparency." },
+        { "ref": "75ff70d332", "note": "Fox Business segment questions whether the earlier rate hike was appropriate." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "8429338684", "takeaway": "Reuters wire on Logan's call for two more hikes.", "read_full": false },
+        { "ref": "60a76ab364", "takeaway": "Reuters roundup of officials making the case for hikes.", "read_full": false },
+        { "ref": "f699365bef", "takeaway": "Treats the remarks as first signal of the next policy move.", "read_full": false },
+        { "ref": "c81afa3aeb", "takeaway": "Adds the Warsh communication angle.", "read_full": false },
+        { "ref": "75ff70d332", "takeaway": "Headline only; a strategist disputes the hike.", "read_full": false },
+        { "ref": "1d26b1cdac", "takeaway": "Paywalled WSJ markets wrap mentioning Fed hike support.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": []
+}

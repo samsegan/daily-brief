@@ -1,0 +1,26 @@
+{
+ "parts": [
+  {
+   "label": "session",
+   "since": "2026-10-31T10:37:38.356Z",
+   "until": "2026-10-31T10:41:02.980Z",
+   "total_tokens": 2224706,
+   "cost_usd": 1.83,
+   "models": [
+    {
+     "model": "claude-sonnet-5-5",
+     "requests": 35,
+     "tokens": {
+      "input": 72,
+      "cache_write_5m": 322024,
+      "cache_write_1h": 32663,
+      "cache_read": 1827306,
+      "output": 42641,
+      "web_searches": 10
+     },
+     "cost_usd": 1.8277
+    }
+   ]
+  }
+ ]
+}

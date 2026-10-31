@@ -1,0 +1,134 @@
+{
+  "stories": [
+    {
+      "id": "community-safety-council",
+      "headline": "City Council takes up bill to create a Department of Community Safety",
+      "region": "City Hall",
+      "importance": 5,
+      "summary": "The City Council debated a bill on Friday that would create a Department of Community Safety, a signature promise of Mayor Zohran Mamdani. The mayor's existing Office of Community Safety also made its case to lawmakers, with its commissioner saying it works in constant contact with the NYPD.",
+      "why_it_matters": "The outcome shapes who responds to some mental health and quality-of-life calls in the city, and how much money moves toward that work. Only left-leaning and center outlets in the digest covered the hearing.",
+      "background": "Mayor Mamdani campaigned on creating a city department focused on community safety and mental health response. After taking office he set up an Office of Community Safety by executive order, as a step before a full department. A bill to make a department in law was introduced by Council Member Lincoln Restler and referred to the Government Operations committee. NYPD Commissioner Jessica Tisch remains in her post, and the office says it is separate from the police but coordinates with them.",
+      "facts": [
+        { "text": "Gothamist reported that Council members debated a bill on Friday that would create the Department of Community Safety.", "refs": ["9ec7e6ead3"] },
+        { "text": "City & State reported that Commissioner Ayesha Delany-Brumsey told the Council the office is intentionally separate from the police but in constant communication with the NYPD.", "refs": ["74c45d7a9e"] },
+        { "text": "The bill is Intro 1524-2025, introduced by Council Member Lincoln Restler, and Mayor Mamdani created an Office of Community Safety by executive order.", "refs": ["nyc-w1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "9ec7e6ead3", "note": "Frames the hearing as a key step toward the department becoming real." },
+        { "ref": "74c45d7a9e", "note": "Frames it as the office having to justify its own existence, centering the commissioner's testimony." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "9ec7e6ead3", "takeaway": "Summary only: treats the Council debate as progress for the mayor's plan.", "read_full": false },
+        { "ref": "74c45d7a9e", "takeaway": "Summary only: focuses on the office's relationship with the NYPD.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "uws-barn-owl-nest",
+      "headline": "Upper West Side barn owl nest damaged by rooftop work; state looks into it",
+      "region": "Manhattan",
+      "importance": 4,
+      "summary": "The roof of a water tower on an Upper West Side building, where a family of barn owls had nested, was removed this week. Birders were angry, and conservation officers arrived at the site.",
+      "why_it_matters": "Barn owls are protected, and the case tests how construction rules are enforced when wildlife is involved in a dense neighborhood.",
+      "background": "In October a family of barn owls was found nesting in a water tower atop a building on West 75th Street near Central Park. An expert quoted by the AP called it the first documented barn owl nesting in Manhattan in modern history. Nightly crowds gathered to watch. The state Department of Environmental Conservation says the species has declined sharply in New York, and Gothamist notes the birds are protected under the Migratory Bird Treaty Act.",
+      "facts": [
+        { "text": "The AP reported that the water tower roof, home to the owl family, was removed.", "refs": ["53861311c9"] },
+        { "text": "The New York Times reported that conservation officers arrived after workers tore off the roof.", "refs": ["dc9c25d78e"] },
+        { "text": "The New York Post reported the work went ahead despite a stop-work order and prompted a state probe.", "refs": ["8c14bd3be6"] },
+        { "text": "Gothamist reported that owl lovers were outraged and noted the birds are covered by the Migratory Bird Treaty Act.", "refs": ["c18840a631"] },
+        { "text": "AP earlier reported that nightly crowds gathered to see the owls on West 75th Street.", "refs": ["nyc-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "c18840a631", "note": "Quotes the anger of neighborhood owl lovers, using the word crime." },
+        { "ref": "8c14bd3be6", "note": "Stresses that the work continued despite a stop-work order and that the public was enraged." },
+        { "ref": "53861311c9", "note": "Short wire report that states the roof was removed without assigning blame." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "53861311c9", "takeaway": "Brief wire item on the roof removal.", "read_full": false },
+        { "ref": "c18840a631", "takeaway": "Local reaction piece centered on outraged residents.", "read_full": false },
+        { "ref": "dc9c25d78e", "takeaway": "Paywalled; summary notes birders' fears and the arrival of conservation officers.", "read_full": false },
+        { "ref": "8c14bd3be6", "takeaway": "Highlights a stop-work order and state investigation.", "read_full": false }
+      ],
+      "social": "Gothamist and the Post both describe strong anger among local birders and neighbors."
+    },
+    {
+      "id": "fair-fares-free-buses",
+      "headline": "Council leaders favor expanding Fair Fares over free buses",
+      "region": "Transit",
+      "importance": 3,
+      "summary": "At a City & State event, Council Speaker Julie Menin and Majority Leader Shaun Abreu said widening eligibility for Fair Fares is the best way to address transit affordability, rather than making buses free.",
+      "why_it_matters": "Fare policy affects what low-income riders pay each day. The position signals the Council's preference as free buses remain a mayoral campaign theme. This was covered by a single outlet.",
+      "background": "Fair Fares is a city program that gives half-price MetroCards or OMNY discounts to eligible low-income New Yorkers. Free buses were a key campaign promise of Mayor Mamdani. The Council controls much of the city budget that would pay for either approach. Menin and Abreu lead the Council.",
+      "facts": [
+        { "text": "City & State reported that Speaker Julie Menin and Majority Leader Shaun Abreu suggested expanding Fair Fares eligibility is the best way to tackle transit affordability.", "refs": ["f083d32a5e"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f083d32a5e", "takeaway": "Only digest outlet to cover the event; headline sets Fair Fares against free buses.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "marcy-houses-asbestos",
+      "headline": "NYCHA says it removed asbestos residue at Marcy Houses",
+      "region": "Brooklyn",
+      "importance": 3,
+      "summary": "NYCHA officials say white dust on residents' windows at the Marcy Houses in Bedford-Stuyvesant came from steam from a mobile boiler line's exhaust vent, and that the asbestos-containing residue has been removed.",
+      "why_it_matters": "Residents of public housing want to know whether their homes are safe, and the claim of removal rests on NYCHA's own statement. Only Gothamist in the digest covered it.",
+      "background": "NYCHA runs the city's public housing and has had repeated problems with heat and boilers. Temporary mobile boilers are sometimes used when heating plants are down. Asbestos is a mineral that can harm lungs if fibers are inhaled. Marcy Houses is a complex in Bedford-Stuyvesant.",
+      "facts": [
+        { "text": "NYCHA said the dust on windows came from steam out of an exhaust vent for a mobile boiler line, leaving asbestos-laden residue on some exterior walls, per Gothamist.", "refs": ["fa83b6c1d8"] },
+        { "text": "NYCHA said it has removed the asbestos, per Gothamist.", "refs": ["fa83b6c1d8"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "fa83b6c1d8", "takeaway": "Single-outlet report relaying NYCHA's account of cause and cleanup.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "bronx-ebike-fire",
+      "headline": "Bronx e-bike battery fire kills boy, 11, and others in his household",
+      "region": "Bronx",
+      "importance": 4,
+      "summary": "A lithium-ion battery fire in the Bronx killed 11-year-old Zion Maine on Wednesday. The Daily News later reported that his two brothers and his father's girlfriend also died.",
+      "why_it_matters": "Battery fires in apartments can spread fast. The toll adds to concern about charging e-bikes indoors.",
+      "background": "Lithium-ion batteries used in e-bikes and scooters have caused deadly fires in New York homes in recent years. The city has set safety rules and run campaigns about charging and disposal. This fire happened at the Patterson Houses area in Mott Haven.",
+      "facts": [
+        { "text": "Gothamist reported that Zion Maine died Wednesday after a lithium-ion battery ignited, injuring four family members, and that neighbors held a vigil near the Patterson Houses.", "refs": ["e0d6485e37"] },
+        { "text": "The Daily News headline reported that the fire also claimed his two brothers and his father's girlfriend.", "refs": ["a5bd4d4cd6"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many people died",
+          "positions": [
+            { "claim": "Gothamist, published earlier, described one death and four injured.", "refs": ["e0d6485e37"] },
+            { "claim": "The Daily News, published later, says three more people died, likely as injured victims succumbed.", "refs": ["a5bd4d4cd6"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "e0d6485e37", "note": "Community vigil angle, centering mourners." },
+        { "ref": "a5bd4d4cd6", "note": "Leads with the fire and the rising death toll." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e0d6485e37", "takeaway": "Vigil report from the earlier stage of the story.", "read_full": false },
+        { "ref": "a5bd4d4cd6", "takeaway": "Headline only; updates the toll.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "nyc-w1", "url": "https://www.citylandnyc.org/giving-birth-to-a-new-agency-paths-to-mayor-mamdanis-department-of-community-safety/", "title": "Giving Birth to a New Agency: Paths to Mayor Mamdani's Department of Community Safety", "outlet": "CityLand" },
+    { "id": "nyc-w2", "url": "https://abcnews.com/US/wireStory/rare-family-barn-owls-moved-manhattans-upper-west-137295431", "title": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated", "outlet": "AP via ABC News" }
+  ]
+}

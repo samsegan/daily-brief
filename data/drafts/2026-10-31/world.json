@@ -1,0 +1,780 @@
+{
+ "stories": [
+  {
+   "id": "novaya-gazeta-closes",
+   "headline": "Novaya Gazeta, Russia's best-known independent paper, shuts down",
+   "region": "Europe",
+   "importance": 5,
+   "summary": "Novaya Gazeta announced on Friday that it is ceasing publication, saying pressure from Russian authorities made its work impossible. The paper was co-founded by a Nobel Peace Prize winner and was among the last outlets openly critical of the Kremlin and the war in Ukraine.",
+   "why_it_matters": "Fewer independent sources of reporting from inside Russia means less checked information about the war and the government for Russians and for outsiders trying to follow events.",
+   "background": "Novaya Gazeta was founded in the early 1990s and became known for investigative reporting on corruption, human-rights abuses and the Chechen wars. Several of its journalists have been killed or jailed over the years. Its co-founder Dmitry Muratov shared the 2021 Nobel Peace Prize. After Russia sent troops into Ukraine in 2022, the Kremlin tightened restrictions on critical media, and the paper's operations were curtailed further.",
+   "facts": [
+    {
+     "text": "Novaya Gazeta said on Friday it was shutting down, with its editorial team saying authorities forced it to stop work.",
+     "refs": [
+      "89f8df5728",
+      "d42b6ac21d"
+     ]
+    },
+    {
+     "text": "The paper had published for more than three decades and was known for investigative journalism.",
+     "refs": [
+      "8ffa935532",
+      "24c4692494"
+     ]
+    },
+    {
+     "text": "Its journalists said the state had orchestrated the closure; its founder told the BBC the paper had been 'strangled'.",
+     "refs": [
+      "c92173bcca",
+      "24c4692494"
+     ]
+    },
+    {
+     "text": "The Hindu described the closure as a new step in a campaign against dissent that sped up after the 2022 invasion.",
+     "refs": [
+      "d542014d21"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [
+    {
+     "ref": "d42b6ac21d",
+     "note": "Frames the paper as Russia's 'last' independent newspaper and attributes the closure to Putin's government."
+    },
+    {
+     "ref": "c92173bcca",
+     "note": "Quotes staff saying 'They Killed Us', emphasizing deliberate state action."
+    },
+    {
+     "ref": "24c4692494",
+     "note": "Centers the founder's own word 'strangled' and the paper's three-decade record."
+    }
+   ],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "89f8df5728",
+     "takeaway": "Wire report; says the paper blamed pressure from authorities.",
+     "read_full": false
+    },
+    {
+     "ref": "d42b6ac21d",
+     "takeaway": "Headline and summary: editor says government forced the closure.",
+     "read_full": false
+    },
+    {
+     "ref": "8ffa935532",
+     "takeaway": "Summary: describes the shutdown as a Kremlin crackdown on a renowned paper.",
+     "read_full": false
+    },
+    {
+     "ref": "d542014d21",
+     "takeaway": "Summary: places closure within post-2022 crackdown.",
+     "read_full": false
+    },
+    {
+     "ref": "c92173bcca",
+     "takeaway": "Paywalled; headline and summary quote staff blaming the government.",
+     "read_full": false
+    },
+    {
+     "ref": "24c4692494",
+     "takeaway": "Headline and summary: founder's account of the closure.",
+     "read_full": false
+    },
+    {
+     "ref": "13066e8349",
+     "takeaway": "Paywalled; summary says the paper said it was 'killed' by state pressure.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "hormuz-tanker-attacks",
+   "headline": "Iran says four tankers hit mines and burn in the Strait of Hormuz",
+   "region": "Middle East",
+   "importance": 5,
+   "summary": "Iran's Revolutionary Guard Navy said several tankers caught fire after striking mines in the Strait of Hormuz, and Oman rescued 25 sailors from one burning vessel. Reports differ on whether three or four ships were hit, and a US admiral separately said Hormuz mines had been cleared.",
+   "why_it_matters": "The strait carries a large share of the world's oil, so attacks and halted traffic can raise fuel and shipping costs, and crews, including many from India, are at risk.",
+   "background": "The war in the region began on February 28 with US-Israeli strikes on Iran, according to The Hindu. Iran has since restricted shipping through the strait. The US military says it has cleared Iranian mines from international lanes, while Iran's Guards say ships should use channels near its coast and have claimed mine strikes elsewhere. CENTCOM has previously disputed some of those claims.",
+   "facts": [
+    {
+     "text": "Iran's IRGC Navy said four tankers caught fire in the strait; the AP headline says Iran reported four tankers striking mines.",
+     "refs": [
+      "dd2eed5969",
+      "83f8d7ab59"
+     ]
+    },
+    {
+     "text": "An earlier Daily News headline cited Iran as saying three tankers struck mines.",
+     "refs": [
+      "1078531cd1"
+     ]
+    },
+    {
+     "text": "Reuters cited security sources saying a tanker was hit by limpet mines.",
+     "refs": [
+      "46280fe4eb"
+     ]
+    },
+    {
+     "text": "Oman rescued 25 sailors from a burning oil tanker.",
+     "refs": [
+      "5a81eaf3b0",
+      "a9d22a1cd7"
+     ]
+    },
+    {
+     "text": "DW reported that two vessels carrying Indian crew were attacked over two days, one with 27 Indians aboard.",
+     "refs": [
+      "f0a43c8aa8"
+     ]
+    },
+    {
+     "text": "CNBC reported tankers are still transiting because of high freight rates.",
+     "refs": [
+      "06b68c63c5"
+     ]
+    }
+   ],
+   "disputed": [
+    {
+     "topic": "What is damaging the ships",
+     "positions": [
+      {
+       "claim": "Iran's IRGC says tankers struck mines.",
+       "refs": [
+        "dd2eed5969",
+        "83f8d7ab59"
+       ]
+      },
+      {
+       "claim": "Reuters security sources say limpet mines, which are attached to hulls, hit a tanker.",
+       "refs": [
+        "46280fe4eb"
+       ]
+      }
+     ]
+    },
+    {
+     "topic": "Whether the strait is safe",
+     "positions": [
+      {
+       "claim": "A US admiral said Iran's navy is sunk, mines are cleared and tankers are moving again.",
+       "refs": [
+        "b29dd855ef"
+       ]
+      },
+      {
+       "claim": "Iran says ships are still hitting mines; CENTCOM has earlier called some such claims false.",
+       "refs": [
+        "dd2eed5969",
+        "world-w3"
+       ]
+      }
+     ]
+    }
+   ],
+   "framing": [
+    {
+     "ref": "b29dd855ef",
+     "note": "Leads with the US admiral's claim that mines are cleared and traffic is flowing."
+    },
+    {
+     "ref": "06b68c63c5",
+     "note": "Leads with the commercial angle: tankers keep sailing despite attacks."
+    },
+    {
+     "ref": "83f8d7ab59",
+     "note": "Attributes the mine claim to Iran in the headline."
+    }
+   ],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "1078531cd1",
+     "takeaway": "Headline only: attributes three-tanker claim to Iran.",
+     "read_full": false
+    },
+    {
+     "ref": "5a81eaf3b0",
+     "takeaway": "Headline: Oman rescue of 25 sailors.",
+     "read_full": false
+    },
+    {
+     "ref": "46280fe4eb",
+     "takeaway": "Headline: security sources cite limpet mines.",
+     "read_full": false
+    },
+    {
+     "ref": "b29dd855ef",
+     "takeaway": "Headline: US admiral says mines cleared.",
+     "read_full": false
+    },
+    {
+     "ref": "06b68c63c5",
+     "takeaway": "Summary: freight rates push tankers through.",
+     "read_full": false
+    },
+    {
+     "ref": "dd2eed5969",
+     "takeaway": "Headline: IRGC says four tankers burn.",
+     "read_full": false
+    },
+    {
+     "ref": "83f8d7ab59",
+     "takeaway": "Headline: Iran says 4 tankers hit mines.",
+     "read_full": false
+    },
+    {
+     "ref": "f0a43c8aa8",
+     "takeaway": "Summary: Indian crews on attacked vessels.",
+     "read_full": false
+    },
+    {
+     "ref": "a9d22a1cd7",
+     "takeaway": "Summary: Oman rescue; Iran halts tankers.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "israel-election-deadlock",
+   "headline": "Israel's election leaves neither Netanyahu nor rivals with a majority",
+   "region": "Middle East",
+   "importance": 4,
+   "summary": "Final results gave Netanyahu's bloc 53 seats and the opposition bloc led by Gadi Eisenkot 48, so neither can form a government immediately. Arab-led parties won a combined 19 seats. Netanyahu's party has alleged the election was 'stolen', which AP described as unsubstantiated.",
+   "why_it_matters": "Weeks of coalition bargaining or another election could delay budgets and policy decisions, and the credit rating agency Fitch cited prolonged political uncertainty in keeping Israel's outlook negative.",
+   "background": "Israel votes for a 120-seat parliament, and a bloc needs 61 seats to govern. Netanyahu has been prime minister for much of the past two decades. The election was held during a regional war and a long Gaza conflict. Eisenkot, a former military chief, leads the main opposition bloc.",
+   "facts": [
+    {
+     "text": "Final results: Netanyahu's party and allies won 53 seats, short of a majority; Eisenkot's bloc won 48.",
+     "refs": [
+      "8e15541957"
+     ]
+    },
+    {
+     "text": "Arab-led parties won a combined 19 seats on record turnout among Palestinian citizens of Israel.",
+     "refs": [
+      "4acf8943b4"
+     ]
+    },
+    {
+     "text": "Netanyahu's party amplified allegations that Arab-led parties 'stole' the election, possibly with foreign help; AP called them unsubstantiated.",
+     "refs": [
+      "fa3093d7c2"
+     ]
+    },
+    {
+     "text": "Israeli media reported party members accused Qatar of involvement.",
+     "refs": [
+      "a71980d5de"
+     ]
+    },
+    {
+     "text": "The Washington Times reported the party called the Arab turnout the 'Islamization of Israel'.",
+     "refs": [
+      "ae7bde3086"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [
+    {
+     "ref": "597551c196",
+     "note": "Focuses on the claim of foreign meddling and asks what comes next."
+    },
+    {
+     "ref": "ae7bde3086",
+     "note": "Headline foregrounds the party's 'Islamization' language."
+    },
+    {
+     "ref": "ca0a274af4",
+     "note": "Looks at the result from the US Democratic angle."
+    }
+   ],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "4acf8943b4",
+     "takeaway": "Summary: no immediate government; Arab party gains.",
+     "read_full": false
+    },
+    {
+     "ref": "a71980d5de",
+     "takeaway": "Summary: 'stolen' claim and Qatar allegation.",
+     "read_full": false
+    },
+    {
+     "ref": "fa3093d7c2",
+     "takeaway": "AP text via The Hill: claims labeled unsubstantiated.",
+     "read_full": false
+    },
+    {
+     "ref": "8e15541957",
+     "takeaway": "Paywalled; summary gives seat counts.",
+     "read_full": false
+    },
+    {
+     "ref": "ae7bde3086",
+     "takeaway": "Headline: party's turnout remark.",
+     "read_full": false
+    },
+    {
+     "ref": "597551c196",
+     "takeaway": "Summary: contentious foreign-meddling claim.",
+     "read_full": false
+    },
+    {
+     "ref": "ca0a274af4",
+     "takeaway": "Summary: Democrats' mixed reaction.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "poland-court-standoff",
+   "headline": "Polish police surround top court as president and government clash over its chief",
+   "region": "Europe",
+   "importance": 4,
+   "summary": "Poland's government suspended the constitutional court's president, Bogdan Swieczkowski, and moved toward criminal charges against him and another justice. Riot police stood outside the court and three protesters were detained; President Karol Nawrocki cut short a trip to Africa and backs the suspended judge.",
+   "why_it_matters": "The dispute is about who controls Poland's highest court, which affects how laws are checked, and it comes amid a wider tension between the government and the president.",
+   "background": "Poland's constitutional court has been contested since the previous nationalist government changed how judges were appointed. Prime Minister Donald Tusk's centrist government says it is restoring the rule of law, while President Nawrocki, a nationalist, rejects the suspensions. The sides disagree on who holds legitimate judicial appointments.",
+   "facts": [
+    {
+     "text": "Tusk defended the firing of court president Swieczkowski as a move to 'restore the rule of law'.",
+     "refs": [
+      "4d1a3aaa30"
+     ]
+    },
+    {
+     "text": "The government suspended two senior justices and moved to bring criminal charges.",
+     "refs": [
+      "2983ac9f31"
+     ]
+    },
+    {
+     "text": "Police said they detained three people after protesters breached the tribunal's fence.",
+     "refs": [
+      "a0835e88fc",
+      "cb55060263"
+     ]
+    },
+    {
+     "text": "Nawrocki turned back mid-flight from a trip to Senegal and returned to Warsaw.",
+     "refs": [
+      "7eff98d802",
+      "b33e35aaa8"
+     ]
+    }
+   ],
+   "disputed": [
+    {
+     "topic": "Whether the suspension is lawful",
+     "positions": [
+      {
+       "claim": "The government calls it restoring the rule of law.",
+       "refs": [
+        "4d1a3aaa30"
+       ]
+      },
+      {
+       "claim": "Protesters say it was unlawful; Fox quotes a 'coup' characterization of events.",
+       "refs": [
+        "db90d29e6c",
+        "47384d450c"
+       ]
+      }
+     ]
+    }
+   ],
+   "framing": [
+    {
+     "ref": "47384d450c",
+     "note": "Headline uses the word 'coup', in the president's camp's terms."
+    },
+    {
+     "ref": "4d1a3aaa30",
+     "note": "Headline centers the sacked chief and protester clashes."
+    },
+    {
+     "ref": "f9bd384e42",
+     "note": "Frames it as an escalating rule-of-law battle between president and prime minister."
+    }
+   ],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "4d1a3aaa30",
+     "takeaway": "Summary: Tusk's defence and clashes.",
+     "read_full": false
+    },
+    {
+     "ref": "f9bd384e42",
+     "takeaway": "Paywalled; summary frames the escalation.",
+     "read_full": false
+    },
+    {
+     "ref": "2983ac9f31",
+     "takeaway": "Summary: suspensions and charges.",
+     "read_full": false
+    },
+    {
+     "ref": "a0835e88fc",
+     "takeaway": "Summary: detentions at fence.",
+     "read_full": false
+    },
+    {
+     "ref": "cb55060263",
+     "takeaway": "Summary: three detained, president backs judge.",
+     "read_full": false
+    },
+    {
+     "ref": "47384d450c",
+     "takeaway": "Summary: 'coup' language, tension between leaders.",
+     "read_full": false
+    },
+    {
+     "ref": "b33e35aaa8",
+     "takeaway": "Paywalled; summary: president's aborted Africa trip.",
+     "read_full": false
+    },
+    {
+     "ref": "7eff98d802",
+     "takeaway": "Headline: president turns back from Senegal.",
+     "read_full": false
+    },
+    {
+     "ref": "db90d29e6c",
+     "takeaway": "Summary: protesters call suspension unlawful.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "g20-photo-cancelled",
+   "headline": "US cancels G20 foreign ministers' photo after Europeans refuse to pose with Lavrov",
+   "region": "Global",
+   "importance": 3,
+   "summary": "The US, hosting the G20 foreign ministers' meeting in Atlanta, dropped the traditional group photo after several countries objected to appearing with Russia's Sergey Lavrov. The meeting ended without a joint communique, with Rubio issuing a chairman's statement.",
+   "why_it_matters": "The failure to agree shows how the Ukraine war is stalling cooperation on global issues such as trade and security.",
+   "background": "The G20 brings together major economies, including Russia, and the US holds the host role this year. European governments have refused to treat Russia's officials normally since the 2022 invasion of Ukraine. G20 leaders are due to meet in December.",
+   "facts": [
+    {
+     "text": "Germany's Johann Wadephul said there would be no photo with European partners and Lavrov, per n-tv.",
+     "refs": [
+      "62dcfb5e38"
+     ]
+    },
+    {
+     "text": "The Guardian reported about one-third of countries threatened a boycott, and Rubio cancelled the photo.",
+     "refs": [
+      "d25d7d5ef9"
+     ]
+    },
+    {
+     "text": "BBC reported UK Foreign Secretary Ed Miliband confronted Lavrov over civilian deaths in Ukraine.",
+     "refs": [
+      "77e8331448"
+     ]
+    },
+    {
+     "text": "The meeting was to end with a chairman's statement instead of a joint communique.",
+     "refs": [
+      "5749ffc3eb"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [
+    {
+     "ref": "deed17ee67",
+     "note": "Says Lavrov 'crashes party', putting blame on his presence."
+    },
+    {
+     "ref": "d25d7d5ef9",
+     "note": "Credits Australia, UK and others for the pushback."
+    },
+    {
+     "ref": "8bf7c04cb6",
+     "note": "Frames as US forced to cancel over 'distaste' for Lavrov."
+    }
+   ],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "62dcfb5e38",
+     "takeaway": "Summary: Wadephul quote.",
+     "read_full": false
+    },
+    {
+     "ref": "8bf7c04cb6",
+     "takeaway": "Paywalled; headline and summary.",
+     "read_full": false
+    },
+    {
+     "ref": "deed17ee67",
+     "takeaway": "Summary: hosts skipped photo.",
+     "read_full": false
+    },
+    {
+     "ref": "77e8331448",
+     "takeaway": "Summary: Miliband confronted Lavrov.",
+     "read_full": false
+    },
+    {
+     "ref": "d25d7d5ef9",
+     "takeaway": "Summary: Rubio pulled the photo.",
+     "read_full": false
+    },
+    {
+     "ref": "5749ffc3eb",
+     "takeaway": "Summary: no consensus, chairman's statement.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "flavio-bolsonaro-flight",
+   "headline": "Flavio Bolsonaro leaves Brazil for the US after losing the runoff",
+   "region": "Americas",
+   "importance": 3,
+   "summary": "Brazilian senator Flavio Bolsonaro, who lost Sunday's runoff to President Lula, left for the United States after his passports were cancelled in a money-laundering investigation. He says he is a victim of 'persecution'; Brazil summoned an Argentine diplomat over Argentina's reported role.",
+   "why_it_matters": "The case tests Brazil's courts and its ties with the US and Argentina right after a contested election.",
+   "background": "Lula won the October 25 runoff, and Bolsonaro, the son of ex-president Jair Bolsonaro, has called for the poll to be annulled. A Supreme Court order told him to hand over his passports. Reports say he arrived in the US on October 27.",
+   "facts": [
+    {
+     "text": "Reuters sources said Trump is not planning to back Bolsonaro's claim to be Brazil's leader.",
+     "refs": [
+      "816716062a"
+     ]
+    },
+    {
+     "text": "Brazil summoned an Argentine diplomat over the role in his flight, Reuters sources said.",
+     "refs": [
+      "371ff4a22c"
+     ]
+    },
+    {
+     "text": "Bolsonaro said on Instagram that the persecution began sooner than he imagined.",
+     "refs": [
+      "2c566aca71"
+     ]
+    },
+    {
+     "text": "Passports were cancelled after the deadline to surrender them lapsed.",
+     "refs": [
+      "world-w4"
+     ]
+    }
+   ],
+   "disputed": [
+    {
+     "topic": "Why he left",
+     "positions": [
+      {
+       "claim": "Bolsonaro says he fled persecution.",
+       "refs": [
+        "949909e3ac"
+       ]
+      },
+      {
+       "claim": "Sources say he left after refusing to hand in passports.",
+       "refs": [
+        "world-w4"
+       ]
+      }
+     ]
+    }
+   ],
+   "framing": [
+    {
+     "ref": "949909e3ac",
+     "note": "Uses his 'persecution' claim in the headline."
+    },
+    {
+     "ref": "97a21648d1",
+     "note": "Focuses on pressure on Trump and Milei."
+    }
+   ],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "97a21648d1",
+     "takeaway": "Paywalled; Trump and Milei pressed to explain.",
+     "read_full": false
+    },
+    {
+     "ref": "2c566aca71",
+     "takeaway": "Summary: his livestream quotes.",
+     "read_full": false
+    },
+    {
+     "ref": "949909e3ac",
+     "takeaway": "Summary: video message and claim.",
+     "read_full": false
+    },
+    {
+     "ref": "816716062a",
+     "takeaway": "Headline: Trump not backing claim.",
+     "read_full": false
+    },
+    {
+     "ref": "371ff4a22c",
+     "takeaway": "Headline: Argentine diplomat summoned.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "us-korea-japan-denuclearisation",
+   "headline": "US, South Korea and Japan vow 'complete' North Korean denuclearisation",
+   "region": "Asia-Pacific",
+   "importance": 3,
+   "summary": "The three allies reaffirmed their goal of the complete denuclearisation of North Korea while Pyongyang keeps rejecting disarmament. Speculation is growing about a Trump-Kim meeting at next month's APEC summit in China.",
+   "why_it_matters": "Any US-North Korea deal would affect security in the region and South Korea's role in it.",
+   "background": "North Korea has nuclear weapons and has refused to give them up. President Trump has repeatedly offered talks to Kim Jong Un. DW reports Seoul worries it could be sidelined, and Kim this week urged expanded drone technology.",
+   "facts": [
+    {
+     "text": "The three countries restated the 'complete' denuclearisation goal as Pyongyang rejects disarmament.",
+     "refs": [
+      "112c4d9572",
+      "8b8d30a3b7"
+     ]
+    },
+    {
+     "text": "The Hindu reported speculation about a Trump-Kim meeting at APEC in China.",
+     "refs": [
+      "412c4eea5c"
+     ]
+    },
+    {
+     "text": "DW reported Seoul fears being sidelined as the US reaches out to Pyongyang.",
+     "refs": [
+      "8a1bc8a90c"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [
+    {
+     "ref": "8a1bc8a90c",
+     "note": "Emphasizes South Korean anxiety rather than the allied statement."
+    },
+    {
+     "ref": "112c4d9572",
+     "note": "Emphasizes the joint pledge."
+    }
+   ],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "8a1bc8a90c",
+     "takeaway": "Summary: Seoul sidelining worries.",
+     "read_full": false
+    },
+    {
+     "ref": "412c4eea5c",
+     "takeaway": "Summary: APEC speculation.",
+     "read_full": false
+    },
+    {
+     "ref": "112c4d9572",
+     "takeaway": "Summary: joint pledge.",
+     "read_full": false
+    },
+    {
+     "ref": "8b8d30a3b7",
+     "takeaway": "Paywalled; summary of reaffirmation.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "moyale-border-fighting",
+   "headline": "Fighting in Ethiopia's Moyale sends people fleeing into Kenya",
+   "region": "Africa",
+   "importance": 3,
+   "summary": "Gunfire continued in the Ethiopian border town of Moyale, pushing civilians into Kenya while trucks remain stuck at the border. Only left-leaning outlets in the digest cover the latest developments.",
+   "why_it_matters": "Thousands of people are displaced and cross-border trade is disrupted, which affects supplies and prices in northern Kenya.",
+   "background": "Clashes linked to Ethiopia's Oromia and Somali regional administrations began around October 21-22 in Moyale, which straddles the border, according to Africanews. Kenya's Red Cross has been providing aid to those who crossed.",
+   "facts": [
+    {
+     "text": "Sporadic gunfire was heard from Moyale as civilians kept fleeing into Kenya.",
+     "refs": [
+      "ec1574cc38",
+      "da4bbd392c"
+     ]
+    },
+    {
+     "text": "Africanews reported gunfire at the border and hundreds fleeing on October 23.",
+     "refs": [
+      "world-w1"
+     ]
+    },
+    {
+     "text": "Kenya Red Cross rushed aid to Ethiopians who crossed.",
+     "refs": [
+      "world-w2"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "ec1574cc38",
+     "takeaway": "Summary: gunfire and flight into Kenya.",
+     "read_full": false
+    },
+    {
+     "ref": "da4bbd392c",
+     "takeaway": "AP wire; same report.",
+     "read_full": false
+    },
+    {
+     "ref": "6d0aa838ec",
+     "takeaway": "Paywalled; same AP report.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  }
+ ],
+ "web_refs": [
+  {
+   "id": "world-w1",
+   "url": "https://africanews.com/2026/10/23/gunfire-rocks-ethiopia-kenya-border-as-hundreds-flee/",
+   "title": "Gunfire rocks Ethiopia-Kenya border as hundreds flee",
+   "outlet": "Africanews"
+  },
+  {
+   "id": "world-w2",
+   "url": "https://www.polity.org.za/article/kenya-red-cross-rushes-aid-to-ethiopians-who-crossed-border-fleeing-violence-2026-10-23",
+   "title": "Kenya Red Cross rushes aid to Ethiopians who crossed border fleeing violence",
+   "outlet": "Polity"
+  },
+  {
+   "id": "world-w3",
+   "url": "https://maritime-executive.com/article/centcom-says-iran-attempts-to-intimidate-shipping-with-false-reports",
+   "title": "CENTCOM says Iran attempts to intimidate shipping with false reports",
+   "outlet": "Maritime Executive"
+  },
+  {
+   "id": "world-w4",
+   "url": "https://batimes.com.ar/news/latin-america/brazil-cancels-flavio-bolsonaros-passports-with-whereabouts-unclear.phtml",
+   "title": "Brazil cancels Flavio Bolsonaro's passports with whereabouts unclear",
+   "outlet": "Buenos Aires Times"
+  }
+ ]
+}

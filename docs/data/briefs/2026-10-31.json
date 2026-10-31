@@ -1,0 +1,4700 @@
+{
+ "date": "2026-10-31",
+ "generated_at": "2026-10-31T10:41:03Z",
+ "ingested_at": "2026-10-31T10:38:08Z",
+ "overview": "Courts turned back Justice Department efforts over California ballots and election workers, and the department opened a probe tied to a second \"Dan Sullivan\" on Alaska's Senate ballot, as early voting surges ahead of Tuesday's midterms. Iran said four tankers hit mines in the Strait of Hormuz, Russia's Novaya Gazeta shut down, and Israel's election left no bloc with a majority. On Wall Street, a tech sell-off over AI spending produced the worst day since June, while Fed officials said more rate hikes may be needed. In New York, the City Council took up a bill to create a Department of Community Safety.",
+ "sections": [
+  {
+   "id": "us",
+   "title": "United States",
+   "stories": [
+    {
+     "id": "alaska-second-sullivan",
+     "headline": "Justice Department probes second 'Dan Sullivan' on Alaska Senate ballot",
+     "region": "Elections",
+     "importance": 5,
+     "summary": "The top federal prosecutor in Alaska confirmed criminal and civil inquiries into the recruitment of a second candidate named Dan Sullivan in the Senate race. The Justice Department also asked a federal judge to have state officials set aside ballots that rank that candidate. Democrat Mary Peltola says she knew nothing about the recruitment.",
+     "why_it_matters": "The Alaska seat could help decide Senate control, and the court request touches how ballots are counted days before the Nov. 3 election. Coverage splits sharply by outlet lean on whether this is a scheme or a pretext.",
+     "background": "Alaska's Senate race pits Republican incumbent Dan Sullivan against Democrat Mary Peltola, a former congresswoman. A second candidate, Dan J. Sullivan, also qualified for the ballot, and Republicans say Democrats recruited him to confuse voters. Alaska uses ranked-choice voting, so a name-alike could draw rankings. The Justice Department sued last week over the matter, and the administration has pushed the case in the closing days of the campaign.",
+     "facts": [
+      {
+       "text": "The U.S. attorney for Alaska said Friday that federal authorities are investigating whether the Peltola campaign's reported effort to recruit the second candidate violated the law.",
+       "refs": [
+        "5524db1582",
+        "d1fe75e5e8",
+        "3c715f9b04"
+       ],
+       "outlet_count": 3
+      },
+      {
+       "text": "In a court filing the Justice Department asked a judge to order that ballots ranking Dan J. Sullivan be separated, citing potential voter confusion; NBC noted the filing did not explain how separating ballots would show confusion.",
+       "refs": [
+        "0c35a6be99",
+        "e80b4eca54"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "Peltola told supporters Thursday she 'knew nothing' about the recruitment of decoy candidates.",
+       "refs": [
+        "3bbf19b569",
+        "9513d13293"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "NewsNation reported that running against a candidate who shares your name is not illegal in Alaska or under federal law.",
+       "refs": [
+        "6d95967bdb"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Sen. Lisa Murkowski, a Republican, criticized the Justice Department's lawsuit, according to ABC affiliate reports.",
+       "refs": [
+        "us-w2"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [
+      {
+       "topic": "Whether the Peltola campaign was behind the second candidate",
+       "positions": [
+        {
+         "claim": "Sen. John Barrasso alleged Sen. Chuck Schumer worked with Peltola's campaign for a year to recruit the candidate.",
+         "refs": [
+          "3eb4e5da86"
+         ]
+        },
+        {
+         "claim": "Peltola says she knew nothing about it.",
+         "refs": [
+          "3bbf19b569",
+          "9513d13293"
+         ]
+        }
+       ]
+      }
+     ],
+     "framing": [
+      {
+       "ref": "3eb4e5da86",
+       "note": "Fox leads with the Republican accusation of a Schumer-backed 'decoy' plot."
+      },
+      {
+       "ref": "0c35a6be99",
+       "note": "NBC leads with the DOJ filing and stresses that it did not explain how separating ballots would show confusion."
+      },
+      {
+       "ref": "bccc5ed12a",
+       "note": "The Washington Examiner presents the scheme as established fact and frames it as a pre-election bombshell."
+      },
+      {
+       "ref": "6d95967bdb",
+       "note": "NewsNation focuses on whether the conduct is actually illegal, which others play down."
+      }
+     ],
+     "left_out": [],
+     "social": "Republicans such as Murkowski have publicly objected to the DOJ suit, while Sullivan's campaign called the matter a Democratic sideshow, per search summaries.",
+     "refs": [
+      {
+       "id": "e80b4eca54",
+       "kind": "article",
+       "source_id": "cnbc",
+       "outlet": "CNBC",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html",
+       "title": "Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate",
+       "published_at": "2026-10-30T22:57:55Z",
+       "read_full": false,
+       "takeaway": "Ties the DOJ request to Senate control stakes."
+      },
+      {
+       "id": "0c35a6be99",
+       "kind": "article",
+       "source_id": "nbc",
+       "outlet": "NBC News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.nbcnews.com/politics/2026-election/doj-requests-separating-alaska-ballots-rank-dan-j-sullivan-senate-race-rcna606646",
+       "title": "DOJ requests separating Alaska ballots that rank Dan J. Sullivan in Senate race",
+       "published_at": "2026-10-30T22:38:13Z",
+       "read_full": false,
+       "takeaway": "Court-filing focus on the request to segregate ballots."
+      },
+      {
+       "id": "d1fe75e5e8",
+       "kind": "article",
+       "source_id": "guardian",
+       "outlet": "The Guardian",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.theguardian.com/us-news/2026/oct/30/alaska-democrat-senate-mary-peltola-dan-sullivan",
+       "title": "Alaska prosecutor investigates alleged Democratic plot to confuse voters with second Dan Sullivan",
+       "published_at": "2026-10-30T23:13:17Z",
+       "read_full": false,
+       "takeaway": "Explainer with a criminal and civil inquiry framing and Peltola's denial."
+      },
+      {
+       "id": "3bbf19b569",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/10/30/us/elections/peltola-alaska-senate-election-sullivan-ballot-stacking.html",
+       "title": "Democratic Candidate Mary Peltola Says She Didn’t Know About Alaska Ballot Stacking",
+       "published_at": "2026-10-30T18:34:55Z",
+       "read_full": false,
+       "takeaway": "Paywalled; headline and summary stress Peltola's denial."
+      },
+      {
+       "id": "9513d13293",
+       "kind": "article",
+       "source_id": "bbc",
+       "outlet": "BBC News",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+       "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+       "published_at": "2026-10-31T00:29:58Z",
+       "read_full": false,
+       "takeaway": "Neutral wire-style account of accusation and denial."
+      },
+      {
+       "id": "6d95967bdb",
+       "kind": "article",
+       "source_id": "newsnation",
+       "outlet": "NewsNation",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.newsnationnow.com/politics/2026-midterm-elections/alleged-alaska-spoiler-candidate-scheme-law/",
+       "title": "Is alleged Alaska spoiler candidate scheme illegal?",
+       "published_at": "2026-10-30T20:34:52Z",
+       "read_full": false,
+       "takeaway": "Examines the legality of the alleged scheme."
+      },
+      {
+       "id": "3c715f9b04",
+       "kind": "article",
+       "source_id": "pbs",
+       "outlet": "PBS NewsHour",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.pbs.org/newshour/politics/top-federal-prosecutor-in-alaska-says-criminal-probe-underway-over-would-be-spoiler-senate-candidate",
+       "title": "Top federal prosecutor in Alaska says criminal probe underway over would-be spoiler Senate candidate",
+       "published_at": "2026-10-30T22:12:36Z",
+       "read_full": false,
+       "takeaway": "Covers the criminal probe and the separate ballot request together."
+      },
+      {
+       "id": "5524db1582",
+       "kind": "article",
+       "source_id": "thehill",
+       "outlet": "The Hill",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://thehill.com/homenews/campaign/6185640-alaska-senate-spoiler-probe/",
+       "title": "Feds 'intensely' probing alleged Alaska ballot scheme, US attorney confirms",
+       "published_at": "2026-10-30T22:43:55Z",
+       "read_full": false,
+       "takeaway": "Reports the U.S. attorney's confirmation of an 'intense' probe."
+      },
+      {
+       "id": "bccc5ed12a",
+       "kind": "article",
+       "source_id": "washexaminer",
+       "outlet": "Washington Examiner",
+       "lean": "lean_right",
+       "paywalled": false,
+       "url": "https://www.washingtonexaminer.com/in_focus/4786279/dan-sullivan-conspiracy-theory-true/",
+       "title": "The Dan Sullivan scheme: Another ‘conspiracy theory’ turns out to be true",
+       "published_at": "2026-10-31T10:00:00Z",
+       "read_full": false,
+       "takeaway": "Opinion piece, used only for framing."
+      },
+      {
+       "id": "3eb4e5da86",
+       "kind": "article",
+       "source_id": "fox",
+       "outlet": "Fox News",
+       "lean": "right",
+       "paywalled": false,
+       "url": "https://www.foxnews.com/politics/schumer-accused-yearlong-plot-plant-decoy-candidate-critical-senate-race",
+       "title": "Schumer accused of yearlong plot to plant 'decoy' candidate in critical Senate race",
+       "published_at": "2026-10-30T17:14:15Z",
+       "read_full": false,
+       "takeaway": "Reports the Republican allegation against Schumer and Peltola's campaign."
+      },
+      {
+       "id": "us-w2",
+       "kind": "web",
+       "source_id": "",
+       "outlet": "ABC News affiliate",
+       "lean": "unrated",
+       "paywalled": false,
+       "url": "https://okcfox.com/news/nation-world/alaskas-republican-lisa-murkowski-knocks-doj-for-suing-against-senate-election-results-president-trump-administration-dan-sullivan-mary-peltola-midterms",
+       "title": "Alaska's Murkowski knocks DOJ for suing against Senate election results",
+       "published_at": "",
+       "read_full": true,
+       "takeaway": ""
+      }
+     ],
+     "lean_counts": {
+      "left": 4,
+      "center": 4,
+      "right": 2,
+      "unrated": 1
+     }
+    },
+    {
+     "id": "california-ballots-doj",
+     "headline": "Courts rebuff Justice Department efforts over California ballots and election workers",
+     "region": "Courts",
+     "importance": 5,
+     "summary": "A federal appeals court rejected, 2-1, the Justice Department's bid to make California set aside mail ballots from over 20,000 people the administration suspects are noncitizens. Separately, a federal judge barred the department from threatening election workers with prosecution for counting those ballots.",
+     "why_it_matters": "The rulings leave California's vote counting unchanged days before the midterms. They also limit federal pressure on local election officials.",
+     "background": "The Trump administration alleges that California sent ballots to some 20,000 people who may not be citizens and wants them held until citizenship is verified. California officials dispute this and have resisted. A district court had earlier declined to order the separation, and the Justice Department went to the 9th Circuit. The restraining order came in a lawsuit brought by unions, per The Hill.",
+     "facts": [
+      {
+       "text": "The 9th Circuit panel voted 2-1 Friday to reject the Justice Department's request for California to set aside the disputed ballots.",
+       "refs": [
+        "d26276a07e",
+        "1824d7eacf",
+        "128ebac5ba"
+       ],
+       "outlet_count": 3
+      },
+      {
+       "text": "U.S. District Judge Trina Thompson issued a temporary restraining order barring the administration from threatening election officials with criminal prosecution over such ballots.",
+       "refs": [
+        "20a68952a6",
+        "7f18e64a52",
+        "682a20af1d"
+       ],
+       "outlet_count": 3
+      },
+      {
+       "text": "The order says local officials cannot be forced to separate or stop counting ballots the government deems disputed.",
+       "refs": [
+        "ee64ff86ac"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "1824d7eacf",
+       "note": "Axios frames it as a last-minute loss for the Trump DOJ."
+      },
+      {
+       "ref": "ce16e69872",
+       "note": "The Times highlights the court's description of the idea as plainly unconstitutional."
+      },
+      {
+       "ref": "c04370efb0",
+       "note": "Fox covers only the order protecting election workers and describes the ballots as tied to suspected noncitizens."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "682a20af1d",
+       "kind": "article",
+       "source_id": "cbs",
+       "outlet": "CBS News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cbsnews.com/news/judge-orders-doj-stop-threaten-intimidate-california-election-officials/",
+       "title": "Judge orders DOJ to stop trying to \"intimidate\" California election officials",
+       "published_at": "2026-10-31T02:50:32Z",
+       "read_full": false,
+       "takeaway": "Focuses on the order against intimidation of officials."
+      },
+      {
+       "id": "d26276a07e",
+       "kind": "article",
+       "source_id": "nbc",
+       "outlet": "NBC News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.nbcnews.com/politics/trump-administration/appeals-court-rejects-justice-department-noncitizen-ballots-rcna606604",
+       "title": "Appeals court again rejects DOJ’s bid to segregate over 20,000 alleged noncitizen ballots in California",
+       "published_at": "2026-10-30T20:09:47Z",
+       "read_full": false,
+       "takeaway": "Appeals ruling with the 20,000 figure."
+      },
+      {
+       "id": "ee64ff86ac",
+       "kind": "article",
+       "source_id": "guardian",
+       "outlet": "The Guardian",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.theguardian.com/us-news/2026/oct/30/justice-department-election-workers-ballots",
+       "title": "Federal judge bars DoJ from threatening election workers to stop processing ballots",
+       "published_at": "2026-10-31T01:30:07Z",
+       "read_full": false,
+       "takeaway": "Details the scope of the order."
+      },
+      {
+       "id": "ce16e69872",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/10/30/us/politics/appeals-trump-california-ballots.html",
+       "title": "Appeals Court Again Rejects Trump Effort to Impound California Ballots",
+       "published_at": "2026-10-30T20:25:06Z",
+       "read_full": false,
+       "takeaway": "Paywalled; stresses the court's strong language."
+      },
+      {
+       "id": "1824d7eacf",
+       "kind": "article",
+       "source_id": "axios",
+       "outlet": "Axios",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.axios.com/2026/10/30/doj-california-noncitizen-voter-list-court",
+       "title": "Trump DOJ loses last-minute California ballot bid",
+       "published_at": "2026-10-30T21:07:40Z",
+       "read_full": false,
+       "takeaway": "Short ruling summary with the 2-1 vote."
+      },
+      {
+       "id": "7f18e64a52",
+       "kind": "article",
+       "source_id": "axios",
+       "outlet": "Axios",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.axios.com/2026/10/31/doj-threats-election-workers-midterms",
+       "title": "Judge blocks DOJ from threatening election workers before midterms",
+       "published_at": "2026-10-31T02:10:27Z",
+       "read_full": false,
+       "takeaway": "Emphasizes the timing four days before the midterms."
+      },
+      {
+       "id": "128ebac5ba",
+       "kind": "article",
+       "source_id": "pbs",
+       "outlet": "PBS NewsHour",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.pbs.org/newshour/politics/appeals-court-rejects-justice-department-request-for-california-to-set-aside-disputed-ballots",
+       "title": "Appeals court rejects Justice Department request for California to set aside disputed ballots",
+       "published_at": "2026-10-30T20:56:32Z",
+       "read_full": false,
+       "takeaway": "Explains the administration's allegation and request."
+      },
+      {
+       "id": "20a68952a6",
+       "kind": "article",
+       "source_id": "thehill",
+       "outlet": "The Hill",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/",
+       "title": "Judge blocks DOJ from threatening election officials over noncitizen voting claims",
+       "published_at": "2026-10-31T03:01:46Z",
+       "read_full": false,
+       "takeaway": "Names the judge and the union lawsuit."
+      },
+      {
+       "id": "c04370efb0",
+       "kind": "article",
+       "source_id": "fox",
+       "outlet": "Fox News",
+       "lean": "right",
+       "paywalled": false,
+       "url": "https://www.foxnews.com/politics/federal-judge-blocks-trump-doj-threats-against-election-workers-ahead-2026-midterms",
+       "title": "Federal judge blocks Trump DOJ threats against election workers ahead of 2026 midterms",
+       "published_at": "2026-10-31T05:57:05Z",
+       "read_full": false,
+       "takeaway": "Right-leaning outlet covering the order, with the administration's noncitizen claim."
+      }
+     ],
+     "lean_counts": {
+      "left": 4,
+      "center": 3,
+      "right": 1,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "christa-pike-statement",
+     "headline": "Christa Pike describes constant pain after failed Tennessee execution",
+     "region": "Courts",
+     "importance": 4,
+     "summary": "Christa Pike, who survived a lethal injection attempt in Tennessee in September, released her first public statement, saying she is in constant pain and isolated. Her lawyers want her death sentence reduced to life, and the governor has ordered an investigation.",
+     "why_it_matters": "The case raises questions about how states carry out lethal injections and whether other scheduled executions go forward.",
+     "background": "Pike was convicted of a 1995 murder and was the first woman executed or scheduled for execution in Tennessee in two centuries. Her execution was attempted by lethal injection at the end of September and did not succeed. Gov. Bill Lee ordered an independent investigation and canceled the state's next scheduled execution, according to local reporting. Her lawyers are asking him to commute her sentence.",
+     "facts": [
+      {
+       "text": "Pike said in her first public statement since the attempt that she is in constant pain, a month after surviving it.",
+       "refs": [
+        "c417e79453",
+        "4ba4e28467",
+        "96aadfca87"
+       ],
+       "outlet_count": 3
+      },
+      {
+       "text": "Her lawyers want her death sentence reduced to life, and the governor has ordered an investigation.",
+       "refs": [
+        "c417e79453"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Gov. Lee called for a third-party investigation, canceled the December execution and postponed another; the Corrections commissioner is resigning.",
+       "refs": [
+        "us-w3"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "65e39739b8",
+       "note": "The Sun's headline stresses her 'pain' with scare quotes, a skeptical tone."
+      },
+      {
+       "ref": "96aadfca87",
+       "note": "BBC leads with her account of waking confused and in pain."
+      },
+      {
+       "ref": "51526ac540",
+       "note": "WSJ stresses the two doses she survived."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "96aadfca87",
+       "kind": "article",
+       "source_id": "bbc",
+       "outlet": "BBC News",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
+       "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+       "published_at": "2026-10-30T17:07:19Z",
+       "read_full": false,
+       "takeaway": "Her account of waking in pain."
+      },
+      {
+       "id": "c417e79453",
+       "kind": "article",
+       "source_id": "dw",
+       "outlet": "Deutsche Welle",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.dw.com/en/tennessee-woman-christa-pike-describes-pain-after-failed-execution/a-79810735?maca=en-rss-en-all-1573-rdf",
+       "title": "Tennessee woman Christa Pike describes pain after failed execution",
+       "published_at": "2026-10-30T16:51:00Z",
+       "read_full": false,
+       "takeaway": "Includes the lawyers' sentencing request and the governor's probe."
+      },
+      {
+       "id": "4ba4e28467",
+       "kind": "article",
+       "source_id": "pbs",
+       "outlet": "PBS NewsHour",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.pbs.org/newshour/nation/christa-pike-says-she-feels-constant-pain-in-first-public-statement-since-failed-execution",
+       "title": "Christa Pike says she feels constant pain in first public statement since failed execution",
+       "published_at": "2026-10-30T17:40:05Z",
+       "read_full": false,
+       "takeaway": "Quotes her saying she went in prepared to die in peace."
+      },
+      {
+       "id": "51526ac540",
+       "kind": "article",
+       "source_id": "wsj",
+       "outlet": "The Wall Street Journal",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.wsj.com/us-news/law/christa-pike-recounts-botched-execution-in-first-public-comments-a891b5dd?mod=rss_usnews",
+       "title": "Christa Pike Recounts Botched Execution in First Public Comments",
+       "published_at": "2026-10-30T15:45:00Z",
+       "read_full": false,
+       "takeaway": "Paywalled; headline and summary only."
+      },
+      {
+       "id": "65e39739b8",
+       "kind": "article",
+       "source_id": "nysun",
+       "outlet": "The New York Sun",
+       "lean": "right",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSWVLc1dNUV9zZ2tsZFZiMVdFXzFKNGJTeF9BRWx4V0lqWjVCaEJpdXJWQUxTVnBaNjUyS24tQk1VMEFOY0RxRWVZWXF6dnRaaVFuU3laTUwxc1BuSVk0c05GdDc4X044RkJvVlpTSWl0THJ2WFYtdjc0R05CZWFaZzlpSElmSmkybmRQTDRuZm1BTWhoZ3NKSFYzY3Y0QWN2TGEwcXA1OE41RElXaWtKU2J1NkVoQjlDMTZIY0VYcWxucWc1REwwTg?oc=5",
+       "title": "Christa Pike Issues First Public Statement After Botched Execution, Bemoans Physical and Mental ‘Pain’",
+       "published_at": "2026-10-30T18:32:44Z",
+       "read_full": false,
+       "takeaway": "Right-leaning take with skeptical framing."
+      },
+      {
+       "id": "us-w3",
+       "kind": "web",
+       "source_id": "",
+       "outlet": "WSMV",
+       "lean": "unrated",
+       "paywalled": false,
+       "url": "https://www.wsmv.com/2026/10/02/we-need-know-what-happened-tennessee-attorney-general-says-gov-lee-has-officially-called-an-investigation-into-failed-execution-christa-pike/",
+       "title": "Tennessee attorney general says Gov. Lee has called an investigation into failed execution",
+       "published_at": "",
+       "read_full": true,
+       "takeaway": ""
+      }
+     ],
+     "lean_counts": {
+      "left": 0,
+      "center": 4,
+      "right": 1,
+      "unrated": 1
+     }
+    },
+    {
+     "id": "east-potomac-inquiry",
+     "headline": "Judge opens misconduct inquiry over Trump golf course plans in D.C.",
+     "region": "Courts",
+     "importance": 3,
+     "summary": "U.S. District Judge Ana Reyes opened a formal inquiry into whether government officials misled the court about plans for East Potomac golf course in Washington. The New York Times reported she appointed a special master.",
+     "why_it_matters": "The case tests whether the administration was candid with a court about changes to a public park.",
+     "background": "East Potomac Park is a federal park in Washington with a municipal golf course. The administration has plans to renovate and close the course, and a lawsuit challenges them. Judge Reyes grilled government lawyers about what they knew of plans to close the course next month, according to the BBC.",
+     "facts": [
+      {
+       "text": "Judge Reyes said she will conduct a formal inquiry into whether officials engaged in misconduct.",
+       "refs": [
+        "67aab720d9",
+        "a14f1102d1"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "The New York Times reported she appointed an outside special master to determine whether parks officials or Justice Department lawyers withheld plans.",
+       "refs": [
+        "7f574481c1"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The BBC reported she questioned Trump lawyers about plans to close the course next month.",
+       "refs": [
+        "a7c4bca8bc"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "52a92bca24",
+       "note": "CNN uses charged wording about the judge tearing into a senior official."
+      },
+      {
+       "ref": "a76e89a229",
+       "note": "Washington Times frames it as growing headaches for Trump."
+      },
+      {
+       "ref": "a14f1102d1",
+       "note": "NPR keeps to the inquiry into potential DOJ misconduct."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "67aab720d9",
+       "kind": "article",
+       "source_id": "cbs",
+       "outlet": "CBS News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cbsnews.com/news/trump-golf-course-east-potomac-judge-inquiry/",
+       "title": "Judge opens misconduct inquiry into Trump officials in golf course case",
+       "published_at": "2026-10-30T18:23:16Z",
+       "read_full": false,
+       "takeaway": "Straight account of the inquiry."
+      },
+      {
+       "id": "52a92bca24",
+       "kind": "article",
+       "source_id": "cnn",
+       "outlet": "CNN",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXphcFB2N1FtaUROSEZOeTQ2TXpUU2l0eDFmMlBQbi1JVHRnelVjcUVIbTFsRWFhQlppclZVYTZ5NkpLcE5OTEdheWtGdXcyNFJBUlZEOXNYVHhpR0dPSWNGMG53enU2QnNCTjY3c2VxMmY4dzNQSWNVcHlDZGRCSXc5VFZUVFQxNE04?oc=5",
+       "title": "Judge tears into senior DOJ official and orders investigation into Trump’s golf course plans",
+       "published_at": "2026-10-30T18:38:17Z",
+       "read_full": false,
+       "takeaway": "Headline emphasizes the judge's criticism."
+      },
+      {
+       "id": "a14f1102d1",
+       "kind": "article",
+       "source_id": "npr",
+       "outlet": "NPR",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.npr.org/2026/10/30/nx-s1-6023328/east-potomac-reyes-misconduct-inquiry-doj",
+       "title": "Judge orders an inquiry into potential DOJ misconduct in Trump's golf course case",
+       "published_at": "2026-10-30T21:56:52Z",
+       "read_full": false,
+       "takeaway": "Focus on potential misleading of the court."
+      },
+      {
+       "id": "7f574481c1",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/10/30/us/politics/special-master-reyes-trump-golf.html",
+       "title": "Judge Appoints Special Master to Determine if Trump Officials Lied in Golf Course Suit",
+       "published_at": "2026-10-30T19:40:42Z",
+       "read_full": false,
+       "takeaway": "Paywalled; special master detail."
+      },
+      {
+       "id": "a7c4bca8bc",
+       "kind": "article",
+       "source_id": "bbc",
+       "outlet": "BBC News",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.bbc.co.uk/news/articles/cmj6jpn8px28o?at_medium=RSS&at_campaign=rss",
+       "title": "Judge investigating whether Trump administration lied about golf course renovations",
+       "published_at": "2026-10-30T21:19:23Z",
+       "read_full": false,
+       "takeaway": "Courtroom questioning detail."
+      },
+      {
+       "id": "a76e89a229",
+       "kind": "article",
+       "source_id": "washtimes",
+       "outlet": "The Washington Times",
+       "lean": "lean_right",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcmFMY3dyWE1NcnF4Y3FiT1ZvcVo3eGY4U0t2bVpTOGhuTGJhNjVsNmJtWnk4YVBYVU5ZVnlPaGR1REdYaDBBX1Z6UW1NRTFKVlpOcDBvWXp0SEsyTXBSZy14Zk8yZjFQM1NkT2RuRGFSMG5GNlljeXQzeF80YUlMTWE1R3RfbjJ6a1o5dkVLMENYdmFITmdjcTloYUNncTNjN0ZRV3lZLWM?oc=5",
+       "title": "Trump’s golf course headaches grow as judge demands inquiry",
+       "published_at": "2026-10-30T18:01:00Z",
+       "read_full": false,
+       "takeaway": "Political-headache framing."
+      }
+     ],
+     "lean_counts": {
+      "left": 4,
+      "center": 1,
+      "right": 1,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "comey-new-charges",
+     "headline": "Prosecutors say they may bring more charges against James Comey",
+     "region": "Courts",
+     "importance": 3,
+     "summary": "At a hearing, Justice Department prosecutors told a judge they may seek additional charges against former FBI Director James Comey. The judge put off a decision on Comey's request to dismiss the latest case.",
+     "why_it_matters": "It shows the Justice Department is pressing a third criminal case against a prominent critic of the president days before the election.",
+     "background": "Comey is the former FBI director and a frequent target of President Trump's criticism. The department's latest case accuses him of leaking classified information a decade ago, per the Times. His lawyers argue it should be dismissed.",
+     "facts": [
+      {
+       "text": "Comey's lawyers asked a federal judge to block or dismiss the Justice Department's third criminal case against him.",
+       "refs": [
+        "88d877b158",
+        "2b04907e5d"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "Prosecutors suggested they may seek additional charges, and the judge put off a decision while the department pursues a new indictment.",
+       "refs": [
+        "47ff87818b",
+        "d3961940b8"
+       ],
+       "outlet_count": 2
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "88d877b158",
+       "note": "ABC describes Comey as the outspoken critic and target of the president's outrage."
+      },
+      {
+       "ref": "d3961940b8",
+       "note": "Washington Times uses neutral procedural language about the delayed decision."
+      },
+      {
+       "ref": "47ff87818b",
+       "note": "The Times calls the case unusual and 11th-hour."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "88d877b158",
+       "kind": "article",
+       "source_id": "abc",
+       "outlet": "ABC News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://abcnews.com/US/wireStory/lawyers-fbi-director-james-comey-judge-block-justice-137701405",
+       "title": "Lawyers for ex-FBI Director James Comey will ask a judge to block Justice Department prosecution",
+       "published_at": "2026-10-30T11:37:13Z",
+       "read_full": false,
+       "takeaway": "Preview of the hearing."
+      },
+      {
+       "id": "2b04907e5d",
+       "kind": "article",
+       "source_id": "cbs",
+       "outlet": "CBS News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cbsnews.com/news/doj-james-comey-information-espionage-act-hearing/",
+       "title": "DOJ, Comey's lawyers face off in court over latest attempt to charge him",
+       "published_at": "2026-10-30T18:03:13Z",
+       "read_full": false,
+       "takeaway": "Hearing recap."
+      },
+      {
+       "id": "47ff87818b",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/10/30/us/politics/james-comey-charges-doj.html",
+       "title": "Prosecutors Suggest They May Seek Additional Comey Charges",
+       "published_at": "2026-10-30T20:22:31Z",
+       "read_full": false,
+       "takeaway": "Paywalled; stresses unusual timing."
+      },
+      {
+       "id": "d3961940b8",
+       "kind": "article",
+       "source_id": "washtimes",
+       "outlet": "The Washington Times",
+       "lean": "lean_right",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY0s3NmtlcTYyajRzVlZyb1ExRTZkRGdHQ1M3dUtzOC1ncFRtY2l2bHBGcnlaMDVKRHdFRUtIMS1kTC1sUWxROWI1U2lVZU1Nc0hDU1NvVlhFMEc4NGdvUXBSdUFJRnE1amw2cW02NFF2akVkNTdvQjNUSC1TdFI1MU1ObkpXbS1CcW1qQmx4NThMa1c0YmVhdmVpd3B3YlI0R1ZMWFFGdWFmcVltUTY0Tg?oc=5",
+       "title": "Judge puts off decision in Comey case as Justice Department seeks new indictment against ex-FBI head",
+       "published_at": "2026-10-30T20:12:38Z",
+       "read_full": false,
+       "takeaway": "Procedural update."
+      }
+     ],
+     "lean_counts": {
+      "left": 3,
+      "center": 0,
+      "right": 1,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "trump-closing-rallies",
+     "headline": "Trump restores Iowa and Kansas rallies as early voting surges",
+     "region": "White House",
+     "importance": 3,
+     "summary": "Trump reinstated in-person rallies in Iowa and Kansas a day after they were cancelled for tele-rallies. PBS reported they are now set for Sunday, and The Hindu cited a record 47.9 million early votes.",
+     "why_it_matters": "It shows how the president and Republicans are spending the final days before the Nov. 3 elections that decide control of Congress.",
+     "background": "The midterms on Nov. 3 decide all 435 House seats and about a third of the Senate. Polls cited by the Times show Republicans at risk of losing seats, including some Trump won handily in 2024. The schedule reversal came after the RNC said events were cancelled, per CNBC.",
+     "facts": [
+      {
+       "text": "Trump reinstated rallies in Kansas and Iowa a day after cancelling them.",
+       "refs": [
+        "4d842f9949",
+        "ab0bdbcf56",
+        "9348944a35"
+       ],
+       "outlet_count": 3
+      },
+      {
+       "text": "The Hindu reported a record 47.9 million Americans had already voted.",
+       "refs": [
+        "9348944a35"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "NBC reported that at a Florida rally Trump said he thought he could relax after cancelling and was convinced by calls from Iowa and Kansas.",
+       "refs": [
+        "5707574856"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "4d842f9949",
+       "note": "Guardian emphasizes the reversal and the Republican fight for control."
+      },
+      {
+       "ref": "de2cdca8e0",
+       "note": "Washington Times uses a breezy 'Back on!' headline."
+      },
+      {
+       "ref": "ab0bdbcf56",
+       "note": "The Times ties it to polls showing Republican risk."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "5707574856",
+       "kind": "article",
+       "source_id": "nbc",
+       "outlet": "NBC News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.nbcnews.com/video/trump-says-i-thought-i-could-relax-over-cancelled-rallies-272588357781",
+       "title": "Trump says ‘I thought I could relax’ over cancelled rallies",
+       "published_at": "2026-10-31T02:33:28Z",
+       "read_full": false,
+       "takeaway": "Trump's own explanation."
+      },
+      {
+       "id": "4d842f9949",
+       "kind": "article",
+       "source_id": "guardian",
+       "outlet": "The Guardian",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.theguardian.com/us-news/2026/oct/30/trump-midterm-rallies-kansas-iowa",
+       "title": "Trump reverses decision to cancel Kansas and Iowa rallies before midterms",
+       "published_at": "2026-10-30T15:28:49Z",
+       "read_full": false,
+       "takeaway": "Reversal story."
+      },
+      {
+       "id": "ab0bdbcf56",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/10/30/us/elections/trump-iowa-kansas-rallies-midterms.html",
+       "title": "Trump Adds Midterm Rallies in Kansas and Iowa After Initially Canceling Events",
+       "published_at": "2026-10-31T08:52:13Z",
+       "read_full": false,
+       "takeaway": "Paywalled; polling context."
+      },
+      {
+       "id": "7393452aa2",
+       "kind": "article",
+       "source_id": "pbs",
+       "outlet": "PBS NewsHour",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.pbs.org/newshour/politics/as-early-voting-surges-trump-reshuffles-his-schedule-to-add-back-rallies-in-iowa-and-kansas",
+       "title": "As early voting surges, Trump reshuffles his schedule to add back rallies in Iowa and Kansas",
+       "published_at": "2026-10-30T21:12:12Z",
+       "read_full": false,
+       "takeaway": "Early voting and schedule detail."
+      },
+      {
+       "id": "9348944a35",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/news/international/trump-backtracks-on-rallies-in-turbulent-end-to-midterms-campaign/article71648419.ece",
+       "title": "Trump backtracks on rallies in turbulent end to midterms campaign",
+       "published_at": "2026-10-31T07:29:45Z",
+       "read_full": false,
+       "takeaway": "Early-vote record and Trump quote."
+      },
+      {
+       "id": "de2cdca8e0",
+       "kind": "article",
+       "source_id": "washtimes",
+       "outlet": "The Washington Times",
+       "lean": "lean_right",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeVpCR1FUVGI2ZzJfWkFlajRkZm1udlQyeDNpTlFRWnJ4STVrbHhoblZkY1lKNldRYlNJNGM2TWxCZloxOEhUMUpyM0N0Y1JXV1hRaTRISVBVRHpLYjlscGpHWjBTaHMyMEc3dkRkcDlMMW05MzhseWU5LTJIcDlXbzZFckNESThyeWFicDIyRE9xTk1ya21vdw?oc=5",
+       "title": "Back on! Trump to visit Kansas, Iowa for in-person rallies",
+       "published_at": "2026-10-30T15:09:33Z",
+       "read_full": false,
+       "takeaway": "Upbeat framing of the return."
+      }
+     ],
+     "lean_counts": {
+      "left": 3,
+      "center": 2,
+      "right": 1,
+      "unrated": 0
+     }
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World",
+   "stories": [
+    {
+     "id": "novaya-gazeta-closes",
+     "headline": "Novaya Gazeta, Russia's best-known independent paper, shuts down",
+     "region": "Europe",
+     "importance": 5,
+     "summary": "Novaya Gazeta announced on Friday that it is ceasing publication, saying pressure from Russian authorities made its work impossible. The paper was co-founded by a Nobel Peace Prize winner and was among the last outlets openly critical of the Kremlin and the war in Ukraine.",
+     "why_it_matters": "Fewer independent sources of reporting from inside Russia means less checked information about the war and the government for Russians and for outsiders trying to follow events.",
+     "background": "Novaya Gazeta was founded in the early 1990s and became known for investigative reporting on corruption, human-rights abuses and the Chechen wars. Several of its journalists have been killed or jailed over the years. Its co-founder Dmitry Muratov shared the 2021 Nobel Peace Prize. After Russia sent troops into Ukraine in 2022, the Kremlin tightened restrictions on critical media, and the paper's operations were curtailed further.",
+     "facts": [
+      {
+       "text": "Novaya Gazeta said on Friday it was shutting down, with its editorial team saying authorities forced it to stop work.",
+       "refs": [
+        "89f8df5728",
+        "d42b6ac21d"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "The paper had published for more than three decades and was known for investigative journalism.",
+       "refs": [
+        "8ffa935532",
+        "24c4692494"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "Its journalists said the state had orchestrated the closure; its founder told the BBC the paper had been 'strangled'.",
+       "refs": [
+        "c92173bcca",
+        "24c4692494"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "The Hindu described the closure as a new step in a campaign against dissent that sped up after the 2022 invasion.",
+       "refs": [
+        "d542014d21"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "d42b6ac21d",
+       "note": "Frames the paper as Russia's 'last' independent newspaper and attributes the closure to Putin's government."
+      },
+      {
+       "ref": "c92173bcca",
+       "note": "Quotes staff saying 'They Killed Us', emphasizing deliberate state action."
+      },
+      {
+       "ref": "24c4692494",
+       "note": "Centers the founder's own word 'strangled' and the paper's three-decade record."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "89f8df5728",
+       "kind": "article",
+       "source_id": "ap",
+       "outlet": "Associated Press",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNnJwMnRCZE44NXp1NVZ1OWQycV9wa3QwdzhGVTdWV2dKSy04azNTNS1GT0pobmNpRnE1cW5PU1h0MDlPMlpyTVBrQmpyQWttZHhSc3Mzc04zUWhVeVFILUdodWFOTXY3YWF4UHh2VlVRck84Z2FUZ0d3RGZPbVQ5bG9SMHdleWN3MFZlTzV1Z2ktVWozTENIUkJQek5EcHJ4LVVHeUREb3c2QWlGajZqbnc1OUxTSVk?oc=5",
+       "title": "Russia’s top independent newspaper shuts down, blaming pressure from authorities",
+       "published_at": "2026-10-30T15:00:00Z",
+       "read_full": false,
+       "takeaway": "Wire report; says the paper blamed pressure from authorities."
+      },
+      {
+       "id": "d42b6ac21d",
+       "kind": "article",
+       "source_id": "cbs",
+       "outlet": "CBS News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cbsnews.com/news/novaya-gazeta-russia-newspaper-closes-putin-free-press-crackdown/",
+       "title": "Last independent newspaper in Russia forced to shut down",
+       "published_at": "2026-10-30T16:03:43Z",
+       "read_full": false,
+       "takeaway": "Headline and summary: editor says government forced the closure."
+      },
+      {
+       "id": "c92173bcca",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/10/30/world/europe/russia-novaya-gazeta-newspaper.html",
+       "title": "Russian News Outlet That Defied Kremlin Will Shut Down: ‘They Killed Us’",
+       "published_at": "2026-10-30T19:09:14Z",
+       "read_full": false,
+       "takeaway": "Paywalled; headline and summary quote staff blaming the government."
+      },
+      {
+       "id": "24c4692494",
+       "kind": "article",
+       "source_id": "bbc",
+       "outlet": "BBC News",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+       "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+       "published_at": "2026-10-30T20:41:51Z",
+       "read_full": false,
+       "takeaway": "Headline and summary: founder's account of the closure."
+      },
+      {
+       "id": "8ffa935532",
+       "kind": "article",
+       "source_id": "france24",
+       "outlet": "France 24",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.france24.com/en/video/20261030-russia-s-novaya-gazeta-to-cease-publication-amid-kremlin-crackdown",
+       "title": "Russia’s Novaya Gazeta to cease publication amid Kremlin crackdown",
+       "published_at": "2026-10-30T16:58:51Z",
+       "read_full": false,
+       "takeaway": "Summary: describes the shutdown as a Kremlin crackdown on a renowned paper."
+      },
+      {
+       "id": "13066e8349",
+       "kind": "article",
+       "source_id": "scmp",
+       "outlet": "South China Morning Post",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.scmp.com/news/world/russia-central-asia/article/3372798/russias-top-independent-newspaper-novaya-gazeta-shuts-under-kremlin-pressure",
+       "title": "Russia’s top independent newspaper Novaya Gazeta ‘killed’ by Kremlin pressure",
+       "published_at": "2026-10-30T21:03:58Z",
+       "read_full": false,
+       "takeaway": "Paywalled; summary says the paper said it was 'killed' by state pressure."
+      },
+      {
+       "id": "d542014d21",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/news/international/independent-russian-newspaper-novaya-gazeta-shuts-under-kremlin-pressure/article71646590.ece",
+       "title": "Independent Russian newspaper Novaya Gazeta shuts under Kremlin pressure",
+       "published_at": "2026-10-30T17:03:17Z",
+       "read_full": false,
+       "takeaway": "Summary: places closure within post-2022 crackdown."
+      }
+     ],
+     "lean_counts": {
+      "left": 3,
+      "center": 4,
+      "right": 0,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "hormuz-tanker-attacks",
+     "headline": "Iran says four tankers hit mines and burn in the Strait of Hormuz",
+     "region": "Middle East",
+     "importance": 5,
+     "summary": "Iran's Revolutionary Guard Navy said several tankers caught fire after striking mines in the Strait of Hormuz, and Oman rescued 25 sailors from one burning vessel. Reports differ on whether three or four ships were hit, and a US admiral separately said Hormuz mines had been cleared.",
+     "why_it_matters": "The strait carries a large share of the world's oil, so attacks and halted traffic can raise fuel and shipping costs, and crews, including many from India, are at risk.",
+     "background": "The war in the region began on February 28 with US-Israeli strikes on Iran, according to The Hindu. Iran has since restricted shipping through the strait. The US military says it has cleared Iranian mines from international lanes, while Iran's Guards say ships should use channels near its coast and have claimed mine strikes elsewhere. CENTCOM has previously disputed some of those claims.",
+     "facts": [
+      {
+       "text": "Iran's IRGC Navy said four tankers caught fire in the strait; the AP headline says Iran reported four tankers striking mines.",
+       "refs": [
+        "dd2eed5969",
+        "83f8d7ab59"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "An earlier Daily News headline cited Iran as saying three tankers struck mines.",
+       "refs": [
+        "1078531cd1"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Reuters cited security sources saying a tanker was hit by limpet mines.",
+       "refs": [
+        "46280fe4eb"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Oman rescued 25 sailors from a burning oil tanker.",
+       "refs": [
+        "5a81eaf3b0",
+        "a9d22a1cd7"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "DW reported that two vessels carrying Indian crew were attacked over two days, one with 27 Indians aboard.",
+       "refs": [
+        "f0a43c8aa8"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "CNBC reported tankers are still transiting because of high freight rates.",
+       "refs": [
+        "06b68c63c5"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [
+      {
+       "topic": "What is damaging the ships",
+       "positions": [
+        {
+         "claim": "Iran's IRGC says tankers struck mines.",
+         "refs": [
+          "dd2eed5969",
+          "83f8d7ab59"
+         ]
+        },
+        {
+         "claim": "Reuters security sources say limpet mines, which are attached to hulls, hit a tanker.",
+         "refs": [
+          "46280fe4eb"
+         ]
+        }
+       ]
+      },
+      {
+       "topic": "Whether the strait is safe",
+       "positions": [
+        {
+         "claim": "A US admiral said Iran's navy is sunk, mines are cleared and tankers are moving again.",
+         "refs": [
+          "b29dd855ef"
+         ]
+        },
+        {
+         "claim": "Iran says ships are still hitting mines; CENTCOM has earlier called some such claims false.",
+         "refs": [
+          "dd2eed5969",
+          "world-w3"
+         ]
+        }
+       ]
+      }
+     ],
+     "framing": [
+      {
+       "ref": "b29dd855ef",
+       "note": "Leads with the US admiral's claim that mines are cleared and traffic is flowing."
+      },
+      {
+       "ref": "06b68c63c5",
+       "note": "Leads with the commercial angle: tankers keep sailing despite attacks."
+      },
+      {
+       "ref": "83f8d7ab59",
+       "note": "Attributes the mine claim to Iran in the headline."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "83f8d7ab59",
+       "kind": "article",
+       "source_id": "ap",
+       "outlet": "Associated Press",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ?oc=5",
+       "title": "Iran says 4 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news",
+       "published_at": "2026-10-30T21:10:00Z",
+       "read_full": false,
+       "takeaway": "Headline: Iran says 4 tankers hit mines."
+      },
+      {
+       "id": "06b68c63c5",
+       "kind": "article",
+       "source_id": "cnbc",
+       "outlet": "CNBC",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html",
+       "title": "Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz",
+       "published_at": "2026-10-30T18:28:09Z",
+       "read_full": false,
+       "takeaway": "Summary: freight rates push tankers through."
+      },
+      {
+       "id": "1078531cd1",
+       "kind": "article",
+       "source_id": "nydailynews",
+       "outlet": "New York Daily News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeEdCWjNQd096TkxVTDhHcW80d3VRRXFmUFhRT3ZUZmF1SEpjbzBvUnZGLUZ2c1JzeERWLTA5dnNkNDZkZTQ3bEk3aE1qY3dkN1pYVGFTMHFsblhzWWUzRWJJU0pIckdZVHk4VzJZZVpta3JTNzByOE5OcWxhbTRZODNuTENGUGNhUjVSV3JmR1BUWkt5?oc=5",
+       "title": "Three tankers strike mines and catch fire in Strait of Hormuz, Iran claims",
+       "published_at": "2026-10-30T11:17:54Z",
+       "read_full": false,
+       "takeaway": "Headline only: attributes three-tanker claim to Iran."
+      },
+      {
+       "id": "f0a43c8aa8",
+       "kind": "article",
+       "source_id": "dw",
+       "outlet": "Deutsche Welle",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.dw.com/en/india-news-tanker-carrying-27-indians-attacked-in-strait-of-hormuz/live-79814329?maca=en-rss-en-all-1573-rdf",
+       "title": "India news: Tanker carrying 27 Indians attacked in Strait of Hormuz",
+       "published_at": "2026-10-31T05:06:00Z",
+       "read_full": false,
+       "takeaway": "Summary: Indian crews on attacked vessels."
+      },
+      {
+       "id": "dd2eed5969",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzdWakFCLTEzM2pYaGh6ZHpxZE9KMjh2QjkzcE1ieWVwa0dmRFZZWUlOamZJUlpwN0M1ajJuZ3dNRFJ4ZzJwSmFJaGl4cGFWTEZPYmI0UllLZ1lCRzIzWVpNSlhkQnpCejl4RFltVXJvV3QtcXhqY1JiUF91TjZmSU5XYXFHM05CcE1fbzV6dVNmOFFUNEExZm1qVTFQWnhBYnVyZkUxYmlRTnEtTHlla3l0RGxncHgwbDRyVVVuMjU?oc=5",
+       "title": "Iran's IRGC Navy says four tankers catch fire in Strait of Hormuz",
+       "published_at": "2026-10-30T20:40:06Z",
+       "read_full": false,
+       "takeaway": "Headline: IRGC says four tankers burn."
+      },
+      {
+       "id": "46280fe4eb",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUjdDdUxXVENSNGdpbWJZOEp2QXMtSy1WSUdCVFdHc21FVnMwTE9uMC1xMkFEaS1wTHRjd2JMQzFTZEtPX0drQ3hPMlZVeDlITnc2RndQRElNUy13Ny1UdXpROVVpejNQRHJ4a3l6Q0t3TTZwOUptZDNKdlRVQWJXLXBxTldad19oZUFGS3BKSUlLWlk3d055R290THF3ckRWb3hRYjlR?oc=5",
+       "title": "Tanker in Strait of Hormuz hit by limpet mines, security sources say",
+       "published_at": "2026-10-30T14:42:19Z",
+       "read_full": false,
+       "takeaway": "Headline: security sources cite limpet mines."
+      },
+      {
+       "id": "a9d22a1cd7",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/news/international/oman-rescues-25-from-burning-ship-iran-halts-tankers/article71648359.ece",
+       "title": "Oman rescues 25 from burning ship, Iran halts tankers",
+       "published_at": "2026-10-31T07:20:06Z",
+       "read_full": false,
+       "takeaway": "Summary: Oman rescue; Iran halts tankers."
+      },
+      {
+       "id": "5a81eaf3b0",
+       "kind": "article",
+       "source_id": "timesofisrael",
+       "outlet": "The Times of Israel",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWgtMTRLcENEcjVVQjhKbE1BN2syWnY1RFVsa05mUnRSTmtFRkdkaFEzdG9YWnkwcWJJZ0tULVMwWExiczEydmRYc1FwT3JETTBFamE2amJkandrT0hDSW1CeGhBOXB1R3F4OWN2QTZ1Q2dtSFByRGpNVmdTeWlSdHlHMnNHX3h1V0VrXzEwd0FWZktjcDdablljeXBwNXBPX2puN1NTNFZhdFNvYk9ZUG9PUQ?oc=5",
+       "title": "Oman rescues 25 sailors from burning oil tanker in Strait of Hormuz",
+       "published_at": "2026-10-30T14:32:31Z",
+       "read_full": false,
+       "takeaway": "Headline: Oman rescue of 25 sailors."
+      },
+      {
+       "id": "b29dd855ef",
+       "kind": "article",
+       "source_id": "washtimes",
+       "outlet": "The Washington Times",
+       "lean": "lean_right",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjMwNzU1Y0RCM2xKTldzMmU2bHZyUE12VlgzTWZqZkdCaUJkWklVcWxIOFJjVXNCaU10ZTdfclowekVQdk5IMHFid0h3YXM5RlJlZXNmTHBTMUxMTkY5R1A2SFRsekpBODlPZmhaOVlRdDhDaVBiVmVPWWxkWUdsd1lvbWpjZWdDclRrQkVLa1NqbzhvSDI4TnpLeTBGakE?oc=5",
+       "title": "Admiral says Iran’s navy is sunk, Hormuz mines are cleared and tankers are rolling again",
+       "published_at": "2026-10-30T15:37:28Z",
+       "read_full": false,
+       "takeaway": "Headline: US admiral says mines cleared."
+      },
+      {
+       "id": "world-w3",
+       "kind": "web",
+       "source_id": "",
+       "outlet": "Maritime Executive",
+       "lean": "unrated",
+       "paywalled": false,
+       "url": "https://maritime-executive.com/article/centcom-says-iran-attempts-to-intimidate-shipping-with-false-reports",
+       "title": "CENTCOM says Iran attempts to intimidate shipping with false reports",
+       "published_at": "",
+       "read_full": true,
+       "takeaway": ""
+      }
+     ],
+     "lean_counts": {
+      "left": 3,
+      "center": 4,
+      "right": 1,
+      "unrated": 1
+     }
+    },
+    {
+     "id": "israel-election-deadlock",
+     "headline": "Israel's election leaves neither Netanyahu nor rivals with a majority",
+     "region": "Middle East",
+     "importance": 4,
+     "summary": "Final results gave Netanyahu's bloc 53 seats and the opposition bloc led by Gadi Eisenkot 48, so neither can form a government immediately. Arab-led parties won a combined 19 seats. Netanyahu's party has alleged the election was 'stolen', which AP described as unsubstantiated.",
+     "why_it_matters": "Weeks of coalition bargaining or another election could delay budgets and policy decisions, and the credit rating agency Fitch cited prolonged political uncertainty in keeping Israel's outlook negative.",
+     "background": "Israel votes for a 120-seat parliament, and a bloc needs 61 seats to govern. Netanyahu has been prime minister for much of the past two decades. The election was held during a regional war and a long Gaza conflict. Eisenkot, a former military chief, leads the main opposition bloc.",
+     "facts": [
+      {
+       "text": "Final results: Netanyahu's party and allies won 53 seats, short of a majority; Eisenkot's bloc won 48.",
+       "refs": [
+        "8e15541957"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Arab-led parties won a combined 19 seats on record turnout among Palestinian citizens of Israel.",
+       "refs": [
+        "4acf8943b4"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Netanyahu's party amplified allegations that Arab-led parties 'stole' the election, possibly with foreign help; AP called them unsubstantiated.",
+       "refs": [
+        "fa3093d7c2"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Israeli media reported party members accused Qatar of involvement.",
+       "refs": [
+        "a71980d5de"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The Washington Times reported the party called the Arab turnout the 'Islamization of Israel'.",
+       "refs": [
+        "ae7bde3086"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "597551c196",
+       "note": "Focuses on the claim of foreign meddling and asks what comes next."
+      },
+      {
+       "ref": "ae7bde3086",
+       "note": "Headline foregrounds the party's 'Islamization' language."
+      },
+      {
+       "ref": "ca0a274af4",
+       "note": "Looks at the result from the US Democratic angle."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "597551c196",
+       "kind": "article",
+       "source_id": "cbs",
+       "outlet": "CBS News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cbsnews.com/news/israel-election-results-netanyahu-likud-claim-stolen-arab-parties/",
+       "title": "Netanyahu's party claims Israel's election was stolen. Now what?",
+       "published_at": "2026-10-30T14:39:20Z",
+       "read_full": false,
+       "takeaway": "Summary: contentious foreign-meddling claim."
+      },
+      {
+       "id": "4acf8943b4",
+       "kind": "article",
+       "source_id": "nbc",
+       "outlet": "NBC News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.nbcnews.com/world/israel/israels-final-election-results-show-neither-netanyahu-rival-can-immedi-rcna606290",
+       "title": "Final election results show neither Netanyahu nor rival can immediately form government",
+       "published_at": "2026-10-30T01:42:46Z",
+       "read_full": false,
+       "takeaway": "Summary: no immediate government; Arab party gains."
+      },
+      {
+       "id": "8e15541957",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html",
+       "title": "No Clear Winner in Israel Election, Final Results Show",
+       "published_at": "2026-10-30T15:02:51Z",
+       "read_full": false,
+       "takeaway": "Paywalled; summary gives seat counts."
+      },
+      {
+       "id": "fa3093d7c2",
+       "kind": "article",
+       "source_id": "thehill",
+       "outlet": "The Hill",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://thehill.com/policy/international/israel-election-foreign-interference-claim/",
+       "title": "Netanyahu’s party claims election 'stolen' as results show him losing majority",
+       "published_at": "2026-10-30T06:08:33Z",
+       "read_full": false,
+       "takeaway": "AP text via The Hill: claims labeled unsubstantiated."
+      },
+      {
+       "id": "ca0a274af4",
+       "kind": "article",
+       "source_id": "thehill",
+       "outlet": "The Hill",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://thehill.com/homenews/house/6185584-democrats-react-israel-elections/",
+       "title": "Democrats weigh Israel election results amid lingering uncertainty",
+       "published_at": "2026-10-30T23:03:02Z",
+       "read_full": false,
+       "takeaway": "Summary: Democrats' mixed reaction."
+      },
+      {
+       "id": "a71980d5de",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/news/international/netanyahus-party-claims-election-stolen-as-results-show-him-losing-majority/article71643395.ece",
+       "title": "Netanyahu's party claims Israel election 'stolen' as results show him losing majority",
+       "published_at": "2026-10-30T03:49:12Z",
+       "read_full": false,
+       "takeaway": "Summary: 'stolen' claim and Qatar allegation."
+      },
+      {
+       "id": "ae7bde3086",
+       "kind": "article",
+       "source_id": "washtimes",
+       "outlet": "The Washington Times",
+       "lean": "lean_right",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMkJKNVd2VlZyRklmVFp1d1l1MFRldTJPVkRJLXpaVXhnMFBSTk9DWjh1V296TXdzVmVkTnUwRmZLRFMyMTJsc25Rb09IczRveDdwSzczUll0ZjQ1SkZ3QkpWWmpIYkV0d24tZlEyRVktTW5LTHBMNUN2Q0NyNDlvaGZNRjJydi1VRUEyMUVTMjdtS29DZDZVdHJnVVgwaGxCTjhzX2FtYk9tdUROSkhreDZn?oc=5",
+       "title": "Netanyahu’s party calls record Arab turnout the ‘Islamization of Israel’",
+       "published_at": "2026-10-30T21:46:00Z",
+       "read_full": false,
+       "takeaway": "Headline: party's turnout remark."
+      }
+     ],
+     "lean_counts": {
+      "left": 3,
+      "center": 2,
+      "right": 1,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "poland-court-standoff",
+     "headline": "Polish police surround top court as president and government clash over its chief",
+     "region": "Europe",
+     "importance": 4,
+     "summary": "Poland's government suspended the constitutional court's president, Bogdan Swieczkowski, and moved toward criminal charges against him and another justice. Riot police stood outside the court and three protesters were detained; President Karol Nawrocki cut short a trip to Africa and backs the suspended judge.",
+     "why_it_matters": "The dispute is about who controls Poland's highest court, which affects how laws are checked, and it comes amid a wider tension between the government and the president.",
+     "background": "Poland's constitutional court has been contested since the previous nationalist government changed how judges were appointed. Prime Minister Donald Tusk's centrist government says it is restoring the rule of law, while President Nawrocki, a nationalist, rejects the suspensions. The sides disagree on who holds legitimate judicial appointments.",
+     "facts": [
+      {
+       "text": "Tusk defended the firing of court president Swieczkowski as a move to 'restore the rule of law'.",
+       "refs": [
+        "4d1a3aaa30"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The government suspended two senior justices and moved to bring criminal charges.",
+       "refs": [
+        "2983ac9f31"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Police said they detained three people after protesters breached the tribunal's fence.",
+       "refs": [
+        "a0835e88fc",
+        "cb55060263"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "Nawrocki turned back mid-flight from a trip to Senegal and returned to Warsaw.",
+       "refs": [
+        "7eff98d802",
+        "b33e35aaa8"
+       ],
+       "outlet_count": 2
+      }
+     ],
+     "disputed": [
+      {
+       "topic": "Whether the suspension is lawful",
+       "positions": [
+        {
+         "claim": "The government calls it restoring the rule of law.",
+         "refs": [
+          "4d1a3aaa30"
+         ]
+        },
+        {
+         "claim": "Protesters say it was unlawful; Fox quotes a 'coup' characterization of events.",
+         "refs": [
+          "db90d29e6c",
+          "47384d450c"
+         ]
+        }
+       ]
+      }
+     ],
+     "framing": [
+      {
+       "ref": "47384d450c",
+       "note": "Headline uses the word 'coup', in the president's camp's terms."
+      },
+      {
+       "ref": "4d1a3aaa30",
+       "note": "Headline centers the sacked chief and protester clashes."
+      },
+      {
+       "ref": "f9bd384e42",
+       "note": "Frames it as an escalating rule-of-law battle between president and prime minister."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "cb55060263",
+       "kind": "article",
+       "source_id": "abc",
+       "outlet": "ABC News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://abcnews.com/International/wireStory/police-detain-3-protesters-overnight-rally-polish-president-137731099",
+       "title": "Police detain 3 protesters during rally as Polish president backs suspended judge",
+       "published_at": "2026-10-31T10:31:40Z",
+       "read_full": false,
+       "takeaway": "Summary: three detained, president backs judge."
+      },
+      {
+       "id": "2983ac9f31",
+       "kind": "article",
+       "source_id": "bbc",
+       "outlet": "BBC News",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+       "title": "Police deployed during stand-off over control of top Poland court",
+       "published_at": "2026-10-31T01:11:43Z",
+       "read_full": false,
+       "takeaway": "Summary: suspensions and charges."
+      },
+      {
+       "id": "4d1a3aaa30",
+       "kind": "article",
+       "source_id": "dw",
+       "outlet": "Deutsche Welle",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-rdf",
+       "title": "Poland: Protesters clash with police over sacked court chief",
+       "published_at": "2026-10-30T23:22:00Z",
+       "read_full": false,
+       "takeaway": "Summary: Tusk's defence and clashes."
+      },
+      {
+       "id": "f9bd384e42",
+       "kind": "article",
+       "source_id": "ft",
+       "outlet": "Financial Times",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.ft.com/content/1be69ebe-0c55-446e-9abf-84ac9e99c51e?syn-25a6b1a6=1",
+       "title": "Poland suspends top judges as battle over rule of law escalates",
+       "published_at": "2026-10-30T23:32:09Z",
+       "read_full": false,
+       "takeaway": "Paywalled; summary frames the escalation."
+      },
+      {
+       "id": "db90d29e6c",
+       "kind": "article",
+       "source_id": "france24",
+       "outlet": "France 24",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.france24.com/en/protesters-gather-at-poland-s-top-court",
+       "title": "Protesters gather at Poland's Top court",
+       "published_at": "2026-10-31T09:31:23Z",
+       "read_full": false,
+       "takeaway": "Summary: protesters call suspension unlawful."
+      },
+      {
+       "id": "7eff98d802",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc2p4TC1POGdvdHlLdGMyVVl1Nmw5dHhWdEZkS0FCZVBMazc3dzdQaElfeXBIcGRNV1NxZTRENXBKSHJRTkZnb2ZkelBMd0VlQjJHYkE3MFFCbGwtTFhfOEQwbHJYSDJlMGZSd2ttNm16ejVQTzg2SHBrOHZCZGk0ZVR4dUp5b0lZMWpkRU1NLTFzWDRHUl9RdDRLNmFyTW9tVXhLYmZOeGdBTFFlRl9UM3Q3SElzdw?oc=5",
+       "title": "Polish president turns back from Senegal trip after top court chief suspended",
+       "published_at": "2026-10-30T18:18:00Z",
+       "read_full": false,
+       "takeaway": "Headline: president turns back from Senegal."
+      },
+      {
+       "id": "b33e35aaa8",
+       "kind": "article",
+       "source_id": "scmp",
+       "outlet": "South China Morning Post",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.scmp.com/news/world/europe/article/3372802/poland-deploys-riot-police-court-chiefs-ousting-sparks-crisis",
+       "title": "Poland deploys riot police, as court chief’s ousting sparks crisis",
+       "published_at": "2026-10-30T23:43:02Z",
+       "read_full": false,
+       "takeaway": "Paywalled; summary: president's aborted Africa trip."
+      },
+      {
+       "id": "a0835e88fc",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/news/international/police-secure-polands-constitutional-tribunal-as-protests-erupt-over-court-chiefs-suspension/article71646886.ece",
+       "title": "Police secure Poland's Constitutional Tribunal as protests erupt over court chief's suspension",
+       "published_at": "2026-10-30T21:24:21Z",
+       "read_full": false,
+       "takeaway": "Summary: detentions at fence."
+      },
+      {
+       "id": "47384d450c",
+       "kind": "article",
+       "source_id": "fox",
+       "outlet": "Fox News",
+       "lean": "right",
+       "paywalled": false,
+       "url": "https://www.foxnews.com/world/polish-president-turns-plane-around-after-coup-at-nations-top-court",
+       "title": "Polish president turns plane around after 'coup' at nation’s top court",
+       "published_at": "2026-10-30T22:32:52Z",
+       "read_full": false,
+       "takeaway": "Summary: 'coup' language, tension between leaders."
+      }
+     ],
+     "lean_counts": {
+      "left": 1,
+      "center": 7,
+      "right": 1,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "g20-photo-cancelled",
+     "headline": "US cancels G20 foreign ministers' photo after Europeans refuse to pose with Lavrov",
+     "region": "Global",
+     "importance": 3,
+     "summary": "The US, hosting the G20 foreign ministers' meeting in Atlanta, dropped the traditional group photo after several countries objected to appearing with Russia's Sergey Lavrov. The meeting ended without a joint communique, with Rubio issuing a chairman's statement.",
+     "why_it_matters": "The failure to agree shows how the Ukraine war is stalling cooperation on global issues such as trade and security.",
+     "background": "The G20 brings together major economies, including Russia, and the US holds the host role this year. European governments have refused to treat Russia's officials normally since the 2022 invasion of Ukraine. G20 leaders are due to meet in December.",
+     "facts": [
+      {
+       "text": "Germany's Johann Wadephul said there would be no photo with European partners and Lavrov, per n-tv.",
+       "refs": [
+        "62dcfb5e38"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The Guardian reported about one-third of countries threatened a boycott, and Rubio cancelled the photo.",
+       "refs": [
+        "d25d7d5ef9"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "BBC reported UK Foreign Secretary Ed Miliband confronted Lavrov over civilian deaths in Ukraine.",
+       "refs": [
+        "77e8331448"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The meeting was to end with a chairman's statement instead of a joint communique.",
+       "refs": [
+        "5749ffc3eb"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "deed17ee67",
+       "note": "Says Lavrov 'crashes party', putting blame on his presence."
+      },
+      {
+       "ref": "d25d7d5ef9",
+       "note": "Credits Australia, UK and others for the pushback."
+      },
+      {
+       "ref": "8bf7c04cb6",
+       "note": "Frames as US forced to cancel over 'distaste' for Lavrov."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "d25d7d5ef9",
+       "kind": "article",
+       "source_id": "guardian",
+       "outlet": "The Guardian",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia",
+       "title": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
+       "published_at": "2026-10-31T00:29:28Z",
+       "read_full": false,
+       "takeaway": "Summary: Rubio pulled the photo."
+      },
+      {
+       "id": "8bf7c04cb6",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/10/30/us/politics/lavrov-russia-photo-rubio.html",
+       "title": "Distaste for Lavrov Forces U.S. to Cancel G20 Photo Session in Atlanta",
+       "published_at": "2026-10-30T20:12:18Z",
+       "read_full": false,
+       "takeaway": "Paywalled; headline and summary."
+      },
+      {
+       "id": "77e8331448",
+       "kind": "article",
+       "source_id": "bbc",
+       "outlet": "BBC News",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+       "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+       "published_at": "2026-10-30T22:11:52Z",
+       "read_full": false,
+       "takeaway": "Summary: Miliband confronted Lavrov."
+      },
+      {
+       "id": "deed17ee67",
+       "kind": "article",
+       "source_id": "thehill",
+       "outlet": "The Hill",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://thehill.com/policy/international/6185283-g20-foreign-ministers-skip-russia-photo/",
+       "title": "G20 foreign ministers scrap 'family photo' as Lavrov crashes party",
+       "published_at": "2026-10-30T20:45:07Z",
+       "read_full": false,
+       "takeaway": "Summary: hosts skipped photo."
+      },
+      {
+       "id": "5749ffc3eb",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/news/international/g20-foreign-ministers-to-end-atlanta-meeting-without-consensus-on-key-issues/article71648418.ece",
+       "title": "G20 foreign ministers to end Atlanta meeting without consensus on key issues",
+       "published_at": "2026-10-31T07:06:30Z",
+       "read_full": false,
+       "takeaway": "Summary: no consensus, chairman's statement."
+      },
+      {
+       "id": "62dcfb5e38",
+       "kind": "article",
+       "source_id": "kyivindependent",
+       "outlet": "The Kyiv Independent",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://kyivindependent.com/g20-family-photo-allegedly-canceled-over-russian-presence/",
+       "title": "G20 family photo allegedly canceled over Russian presence",
+       "published_at": "2026-10-30T18:03:56Z",
+       "read_full": false,
+       "takeaway": "Summary: Wadephul quote."
+      }
+     ],
+     "lean_counts": {
+      "left": 2,
+      "center": 4,
+      "right": 0,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "flavio-bolsonaro-flight",
+     "headline": "Flavio Bolsonaro leaves Brazil for the US after losing the runoff",
+     "region": "Americas",
+     "importance": 3,
+     "summary": "Brazilian senator Flavio Bolsonaro, who lost Sunday's runoff to President Lula, left for the United States after his passports were cancelled in a money-laundering investigation. He says he is a victim of 'persecution'; Brazil summoned an Argentine diplomat over Argentina's reported role.",
+     "why_it_matters": "The case tests Brazil's courts and its ties with the US and Argentina right after a contested election.",
+     "background": "Lula won the October 25 runoff, and Bolsonaro, the son of ex-president Jair Bolsonaro, has called for the poll to be annulled. A Supreme Court order told him to hand over his passports. Reports say he arrived in the US on October 27.",
+     "facts": [
+      {
+       "text": "Reuters sources said Trump is not planning to back Bolsonaro's claim to be Brazil's leader.",
+       "refs": [
+        "816716062a"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Brazil summoned an Argentine diplomat over the role in his flight, Reuters sources said.",
+       "refs": [
+        "371ff4a22c"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Bolsonaro said on Instagram that the persecution began sooner than he imagined.",
+       "refs": [
+        "2c566aca71"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Passports were cancelled after the deadline to surrender them lapsed.",
+       "refs": [
+        "world-w4"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [
+      {
+       "topic": "Why he left",
+       "positions": [
+        {
+         "claim": "Bolsonaro says he fled persecution.",
+         "refs": [
+          "949909e3ac"
+         ]
+        },
+        {
+         "claim": "Sources say he left after refusing to hand in passports.",
+         "refs": [
+          "world-w4"
+         ]
+        }
+       ]
+      }
+     ],
+     "framing": [
+      {
+       "ref": "949909e3ac",
+       "note": "Uses his 'persecution' claim in the headline."
+      },
+      {
+       "ref": "97a21648d1",
+       "note": "Focuses on pressure on Trump and Milei."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "949909e3ac",
+       "kind": "article",
+       "source_id": "france24",
+       "outlet": "France 24",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.france24.com/en/americas/20261031-flavio-bolsonaro-posts-video-says-he-fled-brazil-due-to-persecution",
+       "title": "Flavio Bolsonaro posts video, says he fled Brazil due to ‘persecution’",
+       "published_at": "2026-10-31T06:25:07Z",
+       "read_full": false,
+       "takeaway": "Summary: video message and claim."
+      },
+      {
+       "id": "816716062a",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeUo0QTNPRWduWkx5cnZYRTliM2F1aGJEM1cyTmprd1htM2w0WWRadnNHZWdZNVgxcThncktfRjBHRGdMRjZQWmVqZ3F2SmI0MjdyU0VOMGNFMEhZZVR4SWZqdjBpTkctUTJMS3lhVmhyODZzQXZDeF85TUNNRWxvRGpSdVN6LXpOSXQ1aDVFd0R2NnhCWXlzdHZ4SkFTSl93dUY5UlNxRUdsUUxlMF84VlZJc3U1bTRBRXdTNXBn?oc=5",
+       "title": "Trump not planning to back Bolsonaro's claim to be Brazil's leader, sources say",
+       "published_at": "2026-10-30T12:24:26Z",
+       "read_full": false,
+       "takeaway": "Headline: Trump not backing claim."
+      },
+      {
+       "id": "371ff4a22c",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTEdXcVBBSkg5UFVrS1ZYNHVNZmRVY1RyYm9waktjMHlReXluWFZZVHY0OTQ3R0NucGVCQWxtYlZOejFhQ1MxSk9FeU1pWG94Z2RGME4zempoOE5USU42eHM1SW9oYTRfUHk2SzBpeHF6MW1qRENOdDlYQmVWazhhejg2NDdPcGNKVDBIMW0weHFoV0I5c1JVS2hMaU9rRTgtU2dCZUFtZ08tZXJGT3BMZVcxbktGbkRwSS1EUTZXblQ1aXRScWc?oc=5",
+       "title": "Brazil summons Argentine diplomat over role in Bolsonaro's flight to US, sources say",
+       "published_at": "2026-10-30T19:45:24Z",
+       "read_full": false,
+       "takeaway": "Headline: Argentine diplomat summoned."
+      },
+      {
+       "id": "97a21648d1",
+       "kind": "article",
+       "source_id": "scmp",
+       "outlet": "South China Morning Post",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.scmp.com/news/world/americas/article/3372806/trump-and-milei-under-pressure-explain-role-flavio-bolsonaros-dramatic-escape-us",
+       "title": "Trump and Milei under pressure to explain role in Flavio Bolsonaro’s dramatic escape to US",
+       "published_at": "2026-10-31T02:16:32Z",
+       "read_full": false,
+       "takeaway": "Paywalled; Trump and Milei pressed to explain."
+      },
+      {
+       "id": "2c566aca71",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/news/international/flavio-bolsonaro-says-he-left-brazil-because-he-is-the-victim-of-persecution/article71648100.ece",
+       "title": "Flavio Bolsonaro says he left Brazil because he is the victim of 'persecution'",
+       "published_at": "2026-10-31T04:29:17Z",
+       "read_full": false,
+       "takeaway": "Summary: his livestream quotes."
+      },
+      {
+       "id": "world-w4",
+       "kind": "web",
+       "source_id": "",
+       "outlet": "Buenos Aires Times",
+       "lean": "unrated",
+       "paywalled": false,
+       "url": "https://batimes.com.ar/news/latin-america/brazil-cancels-flavio-bolsonaros-passports-with-whereabouts-unclear.phtml",
+       "title": "Brazil cancels Flavio Bolsonaro's passports with whereabouts unclear",
+       "published_at": "",
+       "read_full": true,
+       "takeaway": ""
+      }
+     ],
+     "lean_counts": {
+      "left": 0,
+      "center": 4,
+      "right": 0,
+      "unrated": 1
+     }
+    },
+    {
+     "id": "us-korea-japan-denuclearisation",
+     "headline": "US, South Korea and Japan vow 'complete' North Korean denuclearisation",
+     "region": "Asia-Pacific",
+     "importance": 3,
+     "summary": "The three allies reaffirmed their goal of the complete denuclearisation of North Korea while Pyongyang keeps rejecting disarmament. Speculation is growing about a Trump-Kim meeting at next month's APEC summit in China.",
+     "why_it_matters": "Any US-North Korea deal would affect security in the region and South Korea's role in it.",
+     "background": "North Korea has nuclear weapons and has refused to give them up. President Trump has repeatedly offered talks to Kim Jong Un. DW reports Seoul worries it could be sidelined, and Kim this week urged expanded drone technology.",
+     "facts": [
+      {
+       "text": "The three countries restated the 'complete' denuclearisation goal as Pyongyang rejects disarmament.",
+       "refs": [
+        "112c4d9572",
+        "8b8d30a3b7"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "The Hindu reported speculation about a Trump-Kim meeting at APEC in China.",
+       "refs": [
+        "412c4eea5c"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "DW reported Seoul fears being sidelined as the US reaches out to Pyongyang.",
+       "refs": [
+        "8a1bc8a90c"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "8a1bc8a90c",
+       "note": "Emphasizes South Korean anxiety rather than the allied statement."
+      },
+      {
+       "ref": "112c4d9572",
+       "note": "Emphasizes the joint pledge."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "8a1bc8a90c",
+       "kind": "article",
+       "source_id": "dw",
+       "outlet": "Deutsche Welle",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.dw.com/en/seoul-fears-being-sidelined-as-us-reaches-out-to-north-korea/a-79808098?maca=en-rss-en-all-1573-rdf",
+       "title": "Seoul fears being sidelined as US reaches out to North Korea",
+       "published_at": "2026-10-30T14:08:00Z",
+       "read_full": false,
+       "takeaway": "Summary: Seoul sidelining worries."
+      },
+      {
+       "id": "8b8d30a3b7",
+       "kind": "article",
+       "source_id": "scmp",
+       "outlet": "South China Morning Post",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.scmp.com/news/asia/east-asia/article/3372818/us-south-korea-and-japan-reaffirm-north-korea-denuclearisation-stance",
+       "title": "US, South Korea and Japan reaffirm North Korea denuclearisation stance",
+       "published_at": "2026-10-31T06:43:32Z",
+       "read_full": false,
+       "takeaway": "Paywalled; summary of reaffirmation."
+      },
+      {
+       "id": "412c4eea5c",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/news/international/us-south-korea-japan-vow-complete-north-korea-denuclearisation/article71648121.ece",
+       "title": "U.S., South Korea, Japan vow ‘complete’ North Korea’s denuclearisation",
+       "published_at": "2026-10-31T03:28:23Z",
+       "read_full": false,
+       "takeaway": "Summary: APEC speculation."
+      },
+      {
+       "id": "112c4d9572",
+       "kind": "article",
+       "source_id": "japantimes",
+       "outlet": "The Japan Times",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.japantimes.co.jp/news/2026/10/31/asia-pacific/politics/north-korea-denuclearization-vow/",
+       "title": "U.S., South Korea and Japan vow ‘complete’ denuclearization of North Korea",
+       "published_at": "2026-10-31T05:31:00Z",
+       "read_full": false,
+       "takeaway": "Summary: joint pledge."
+      }
+     ],
+     "lean_counts": {
+      "left": 0,
+      "center": 4,
+      "right": 0,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "moyale-border-fighting",
+     "headline": "Fighting in Ethiopia's Moyale sends people fleeing into Kenya",
+     "region": "Africa",
+     "importance": 3,
+     "summary": "Gunfire continued in the Ethiopian border town of Moyale, pushing civilians into Kenya while trucks remain stuck at the border. Only left-leaning outlets in the digest cover the latest developments.",
+     "why_it_matters": "Thousands of people are displaced and cross-border trade is disrupted, which affects supplies and prices in northern Kenya.",
+     "background": "Clashes linked to Ethiopia's Oromia and Somali regional administrations began around October 21-22 in Moyale, which straddles the border, according to Africanews. Kenya's Red Cross has been providing aid to those who crossed.",
+     "facts": [
+      {
+       "text": "Sporadic gunfire was heard from Moyale as civilians kept fleeing into Kenya.",
+       "refs": [
+        "ec1574cc38",
+        "da4bbd392c"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "Africanews reported gunfire at the border and hundreds fleeing on October 23.",
+       "refs": [
+        "world-w1"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Kenya Red Cross rushed aid to Ethiopians who crossed.",
+       "refs": [
+        "world-w2"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "ec1574cc38",
+       "kind": "article",
+       "source_id": "abc",
+       "outlet": "ABC News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://abcnews.com/International/wireStory/sporadic-gunfire-sends-ethiopians-fleeing-kenya-trucks-remain-137699895",
+       "title": "Sporadic gunfire sends Ethiopians fleeing into Kenya as trucks remain stuck at border",
+       "published_at": "2026-10-30T12:29:02Z",
+       "read_full": false,
+       "takeaway": "Summary: gunfire and flight into Kenya."
+      },
+      {
+       "id": "da4bbd392c",
+       "kind": "article",
+       "source_id": "ap",
+       "outlet": "Associated Press",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR2RXbGFHYTlkMXR4Wmo1NTBNQ0lIWXZIMFlBcVB5bGhNS2pjM2hwN0RhdzRsbGR2YWdWX1ZCbEhVMnB2QkFNZ0MxdGRQRUFaWDdTV0hCWUdIV2NwSGhGTE8tV29nU28zcmJzMmNJMjFQdWJsQUZzb3BKb0J1dFlDSDVZRHhDYVhyZkdDeHRGTGpxeXlfSHU3bkIyTEg5YS1SOU10T0JMdnRfUmdMdW4zaDhWQXc?oc=5",
+       "title": "Sporadic gunfire sends Ethiopians fleeing into Kenya as trucks remain stuck at border",
+       "published_at": "2026-10-30T14:13:00Z",
+       "read_full": false,
+       "takeaway": "AP wire; same report."
+      },
+      {
+       "id": "6d0aa838ec",
+       "kind": "article",
+       "source_id": "wapo",
+       "outlet": "The Washington Post",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdl9JYk5STW9melhNM3VlZVhtV0ZMUUU4UnhmZUZfbGI3dFI5Y0FjVEU3RnJ3TUhGZ0ZMSkNxd2hrZ1VvWEdlV2l6QXZZdWZsbW0tdlZSTy1ubloxaUFCQkp0MW5RZkRWUUdYeFc0SVFscWthRlRUN1dSWXF4aWxmUG44NnRjUElJaUZJNnlQY1VpWFh2VlY2WGVRTVg5Y2tjMU9ucmtjblRDaHJra0F1ejBRR3RaejV0S1J0cC1tZDJaenRDX1NiTVBVQzdlZmozZlNXd0NZaDZVQ21TdlJaRTc0MWE?oc=5",
+       "title": "Sporadic gunfire sends Ethiopians fleeing into Kenya as trucks remain stuck at border",
+       "published_at": "2026-10-30T21:13:52Z",
+       "read_full": false,
+       "takeaway": "Paywalled; same AP report."
+      },
+      {
+       "id": "world-w1",
+       "kind": "web",
+       "source_id": "",
+       "outlet": "Africanews",
+       "lean": "unrated",
+       "paywalled": false,
+       "url": "https://africanews.com/2026/10/23/gunfire-rocks-ethiopia-kenya-border-as-hundreds-flee/",
+       "title": "Gunfire rocks Ethiopia-Kenya border as hundreds flee",
+       "published_at": "",
+       "read_full": true,
+       "takeaway": ""
+      },
+      {
+       "id": "world-w2",
+       "kind": "web",
+       "source_id": "",
+       "outlet": "Polity",
+       "lean": "unrated",
+       "paywalled": false,
+       "url": "https://www.polity.org.za/article/kenya-red-cross-rushes-aid-to-ethiopians-who-crossed-border-fleeing-violence-2026-10-23",
+       "title": "Kenya Red Cross rushes aid to Ethiopians who crossed border fleeing violence",
+       "published_at": "",
+       "read_full": true,
+       "takeaway": ""
+      }
+     ],
+     "lean_counts": {
+      "left": 3,
+      "center": 0,
+      "right": 0,
+      "unrated": 2
+     }
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "title": "Business & Markets",
+   "stories": [
+    {
+     "id": "binance-hack",
+     "headline": "Binance says hackers took about $6.3 billion in record crypto theft",
+     "region": "Crypto",
+     "importance": 5,
+     "summary": "Binance, the world's largest crypto exchange, said a security breach affected about $6.3 billion in assets and that it will cover customer losses. Roughly $3 billion has been frozen so far, and the exchange paused withdrawals. Suspicion has fallen on North Korean hackers, though the White House says it does not yet know.",
+     "why_it_matters": "Millions of people keep money on exchanges like Binance, and the company's pledge to cover losses is what protects them here. The theft also puts renewed pressure on regulators and on the security practices of crypto platforms.",
+     "background": "Binance is the largest cryptocurrency exchange by trading volume, founded by Changpeng Zhao. Crypto exchanges hold customers' coins in wallets they control, which makes them targets for large thefts. North Korean state-linked hackers have been tied by researchers to several earlier large crypto thefts. Stablecoin issuers such as Circle and Tether can freeze their own tokens, which is how part of the stolen money was frozen. The size of this theft is far above earlier records, according to AP and other outlets.",
+     "facts": [
+      {
+       "text": "Binance said a security breach affected about $6.3 billion in assets, and that roughly $3 billion has been frozen and losses will be covered.",
+       "refs": [
+        "301c24e3b6",
+        "f686af3e79"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "Outlets including AP, NPR and the Financial Times describe it as the largest crypto theft on record.",
+       "refs": [
+        "d0922f1d49",
+        "3c0b0c64d7",
+        "0c64251220"
+       ],
+       "outlet_count": 3
+      },
+      {
+       "text": "Binance suspended withdrawals after the breach, and crypto prices fell on the news.",
+       "refs": [
+        "e05dd74602",
+        "d32bebfb84"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "The Financial Times reports Binance said an engineer's laptop was compromised in the breach.",
+       "refs": [
+        "f696be3197"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The Wall Street Journal reports the loss exceeded the funds the exchange had set aside to cover such an incident.",
+       "refs": [
+        "41f0136b05"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Binance co-founder said the exchange does not need to sell its SpaceX shares to cover losses, per Reuters.",
+       "refs": [
+        "9886ece9a2"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "A US State Department spokesman called North Korean cybercrime a \"global problem\".",
+       "refs": [
+        "a0699ab94e"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [
+      {
+       "topic": "Who is responsible",
+       "positions": [
+        {
+         "claim": "A research lab attributed the theft to North Korea's elite hacking unit, and several outlets name North Korea as the prime suspect.",
+         "refs": [
+          "d32bebfb84",
+          "a2f2839074"
+         ]
+        },
+        {
+         "claim": "President Trump said the administration is looking into it and \"we don't know\" whether North Korea is responsible.",
+         "refs": [
+          "b4c5ca6f70"
+         ]
+        }
+       ]
+      }
+     ],
+     "framing": [
+      {
+       "ref": "e05dd74602",
+       "note": "Headline states the theft was blamed on North Korea, putting attribution up front."
+      },
+      {
+       "ref": "b4c5ca6f70",
+       "note": "Leads with the president's remarks and his hedge on attribution."
+      },
+      {
+       "ref": "f806425125",
+       "note": "Focuses on how hard it will be to recover the money."
+      },
+      {
+       "ref": "f436de4021",
+       "note": "Frames the hack as a regulatory-debate story, quoting a former regulator who says it shows a single firm's weakness rather than a blockchain flaw."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "d0922f1d49",
+       "kind": "article",
+       "source_id": "ap",
+       "outlet": "Associated Press",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaS1PbC12ckM5dTFzWDZISy0zcmVfWjc2ODREc1dFMnlOem5RUmpWWGdxR2dKSlNQS0JrZXVvZGI4VDN2aXRQQkpIaHF4bWdwSjJvYjduMkFQUmdDaEdGS01lQThMQXpjTS02SW5YenA5U0ZQZUZsazg5SnhyZzFZel9YWTZqUmVVYUcxYTEyTDl3V3Z5dEZ6RTZCS3U5ZkUwWFBna2hDNnZ3dHo0?oc=5",
+       "title": "What to know about the $6.3B hack on Binance, likely the biggest-ever crypto theft",
+       "published_at": "2026-10-31T01:04:00Z",
+       "read_full": false,
+       "takeaway": "AP explainer; summary not available in the digest."
+      },
+      {
+       "id": "f436de4021",
+       "kind": "article",
+       "source_id": "bloomberg",
+       "outlet": "Bloomberg",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.bloomberg.com/news/videos/2026-10-30/crypto-hack-reignites-regulatory-debate-video",
+       "title": "Crypto Hack Reignites Regulatory Debate",
+       "published_at": "2026-10-30T22:08:41Z",
+       "read_full": false,
+       "takeaway": ""
+      },
+      {
+       "id": "f806425125",
+       "kind": "article",
+       "source_id": "cbs",
+       "outlet": "CBS News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cbsnews.com/news/binance-crypto-hack-stolen-funds-recovery/",
+       "title": "How hard is it to recover the $6 billion stolen from Binance?",
+       "published_at": "2026-10-30T23:50:03Z",
+       "read_full": false,
+       "takeaway": "CBS on recovery prospects."
+      },
+      {
+       "id": "301c24e3b6",
+       "kind": "article",
+       "source_id": "cnbc",
+       "outlet": "CNBC",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html",
+       "title": "$6.3 billion Binance hack is largest crypto theft on record",
+       "published_at": "2026-10-30T21:21:17Z",
+       "read_full": false,
+       "takeaway": "Reports Binance's own figures: $6.3 billion affected, about $3 billion frozen."
+      },
+      {
+       "id": "3c0b0c64d7",
+       "kind": "article",
+       "source_id": "npr",
+       "outlet": "NPR",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.npr.org/2026/10/30/nx-s1-6023175/hackers-steal-over-6-billion-from-crypto-exchange-binance-in-staggering-heist",
+       "title": "Hackers steal over $6 billion from crypto exchange Binance in staggering heist",
+       "published_at": "2026-10-30T21:44:09Z",
+       "read_full": false,
+       "takeaway": ""
+      },
+      {
+       "id": "d32bebfb84",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html",
+       "title": "Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion",
+       "published_at": "2026-10-30T15:16:55Z",
+       "read_full": false,
+       "takeaway": "Paywalled; headline and summary cover the withdrawal halt and a lab's North Korea attribution."
+      },
+      {
+       "id": "a2f2839074",
+       "kind": "article",
+       "source_id": "bbc",
+       "outlet": "BBC News",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+       "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+       "published_at": "2026-10-31T02:12:19Z",
+       "read_full": false,
+       "takeaway": "BBC explainer on why North Korean hackers are the prime suspect."
+      },
+      {
+       "id": "f686af3e79",
+       "kind": "article",
+       "source_id": "dailymaverick",
+       "outlet": "Daily Maverick",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.dailymaverick.co.za/article/2026-10-30-binances-possible-hack-triggers-3-billion-freeze-in-crypto-assets/",
+       "title": "Binance’s possible hack triggers $3bn freeze in crypto assets",
+       "published_at": "2026-10-30T04:50:53Z",
+       "read_full": false,
+       "takeaway": "Reuters wire on the first-day $3 billion freeze with Circle and Tether."
+      },
+      {
+       "id": "0c64251220",
+       "kind": "article",
+       "source_id": "ft",
+       "outlet": "Financial Times",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.ft.com/content/95d38ca9-9a70-4982-a797-cdad2afa3acf?syn-25a6b1a6=1",
+       "title": "Binance’s $6.3bn heist is the biggest . . . but not the first",
+       "published_at": "2026-10-30T10:50:37Z",
+       "read_full": false,
+       "takeaway": ""
+      },
+      {
+       "id": "f696be3197",
+       "kind": "article",
+       "source_id": "ft",
+       "outlet": "Financial Times",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
+       "title": "Binance rushes to recover customer money after $6.3bn heist",
+       "published_at": "2026-10-30T22:12:58Z",
+       "read_full": false,
+       "takeaway": "Paywalled FT piece; source of the compromised-laptop detail."
+      },
+      {
+       "id": "9886ece9a2",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVmZsWWgydERjZml4UkdNTHZsZlpSSFJWN2pxaTNtZldxcHVIOFhiNHh1d1NhdUpSMjJqWnVZTmtkSjRhQmUtcmltd1VhNElMWm40SWo2OVJraEU0eXFYeklzVmdLdEpFWFRidU9rVWtXRDZJQnJFaldsUVJfN2JxYWNDbkJvVXFTUTY4ZHZrc2I5Zi1oSk9HcnZTLTM3aHdDa0VlRVZtMlJMTFZpQUNDUHVwenBNZGFUdDhvRHFGRFFyRm5sM0h3?oc=5",
+       "title": "Binance does not need to sell SpaceX shares to cover losses, co-founder says",
+       "published_at": "2026-10-30T10:50:58Z",
+       "read_full": false,
+       "takeaway": ""
+      },
+      {
+       "id": "b4c5ca6f70",
+       "kind": "article",
+       "source_id": "thehill",
+       "outlet": "The Hill",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://thehill.com/policy/technology/6185518-trump-binance-crypto-hack-north-korea/",
+       "title": "Trump says US looking into Binance hack: 'We don't know' if North Korea responsible",
+       "published_at": "2026-10-30T21:46:44Z",
+       "read_full": false,
+       "takeaway": "Presidential reaction and the open question of attribution."
+      },
+      {
+       "id": "a0699ab94e",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/sci-tech/technology/north-korean-hackers-linked-to-crypto-thefts-among-worlds-best-experts-say/article71648161.ece",
+       "title": "North Korean hackers linked to crypto thefts among world's best, experts say",
+       "published_at": "2026-10-31T04:07:44Z",
+       "read_full": false,
+       "takeaway": ""
+      },
+      {
+       "id": "e05dd74602",
+       "kind": "article",
+       "source_id": "japantimes",
+       "outlet": "The Japan Times",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.japantimes.co.jp/business/2026/10/30/markets/binance-suspected-hack/",
+       "title": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea",
+       "published_at": "2026-10-30T10:49:00Z",
+       "read_full": false,
+       "takeaway": ""
+      },
+      {
+       "id": "41f0136b05",
+       "kind": "article",
+       "source_id": "wsj",
+       "outlet": "The Wall Street Journal",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.wsj.com/finance/currencies/how-binance-is-scrambling-to-cover-losses-in-the-biggest-heist-in-crypto-history-babbfe90?mod=rss_markets_main",
+       "title": "How Binance Is Racing to Cover Losses in the Biggest Heist in Crypto History",
+       "published_at": "2026-10-30T13:55:00Z",
+       "read_full": false,
+       "takeaway": "Paywalled WSJ; focuses on Binance's scramble to cover losses."
+      }
+     ],
+     "lean_counts": {
+      "left": 6,
+      "center": 8,
+      "right": 0,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "ai-tech-selloff",
+     "headline": "Tech sell-off over AI spending gives Wall Street its worst day since June",
+     "region": "Earnings",
+     "importance": 5,
+     "summary": "The S&P 500 fell 1.8% on Friday, its worst day since June, and closed a third straight losing week as investors questioned returns on heavy AI spending. Disappointing earnings from Amazon, Alphabet and Intel drove the declines, and the Nasdaq dropped about 3% at one point. Intel had its worst day in decades.",
+     "why_it_matters": "Big tech stocks make up a large share of most retirement and index funds, so a prolonged drop in them shows up in 401(k) balances. Worries that the AI spending boom may not pay off also bear on the companies hiring and investing across the economy.",
+     "background": "Large technology companies have committed hundreds of billions of dollars to AI data centers and chips over the past two years, and stock prices rose on expectations of large future profits. This month investors began to question how quickly that spending can earn returns. Several of the biggest firms reported quarterly results this week. Some have also drawn credit-rating scrutiny over their borrowing, with S&P revising Meta's outlook to negative.",
+     "facts": [
+      {
+       "text": "The S&P 500 fell 1.8%, its worst day since June, and ended a third straight losing week, per AP via SCMP.",
+       "refs": [
+        "33d9763d48",
+        "f53f2a2425"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "The Guardian reports the sell-off cut US market value by nearly $1 trillion after subpar earnings from leading tech companies.",
+       "refs": [
+        "c6608a9a56"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "CBS reports the Nasdaq shed more than 700 points after disappointing results from Alphabet, Amazon and Intel.",
+       "refs": [
+        "4de53ecdca"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "CNBC reports Intel stock had its worst day since the 1970s, erasing about $12 billion from the US government's stake.",
+       "refs": [
+        "945642cb40"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "MarketWatch attributes Intel's slide to pressure on its PC business as memory-chip prices dent demand and corporate IT budgets shrink.",
+       "refs": [
+        "5a3bfd626b"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "BBC reports Google's value fell by about $500 billion after it said its AI search summaries were affecting ad revenue.",
+       "refs": [
+        "c3c296345f"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "S&P Global revised Meta's credit outlook to negative over capital spending and free cash flow, per Reuters.",
+       "refs": [
+        "dbb93565b8",
+        "7d204d0f2c"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "The Financial Times reports that revelations Anthropic could receive a junk credit rating after its IPO added to concerns over industry borrowing.",
+       "refs": [
+        "cb3a0b1fb3"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "97bec2a65d",
+       "note": "Headline stresses the Nasdaq's 3% plunge and names Amazon, Intel and Reddit as victims of AI fears."
+      },
+      {
+       "ref": "c6608a9a56",
+       "note": "Leads with the roughly $1 trillion market-value loss and weak earnings."
+      },
+      {
+       "ref": "e1410a8fd2",
+       "note": "Pairs the tech sell-off with energy stocks outperforming."
+      },
+      {
+       "ref": "96c2dff016",
+       "note": "Asks whether this is a bubble bursting, drawing a comparison to 2000."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "f53f2a2425",
+       "kind": "article",
+       "source_id": "ap",
+       "outlet": "Associated Press",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0NzZS1PMzlOVF9Hc0hrbW5sOGZ0bWhjTzNiTC1LWkZ5R1FFNDNBMGNxblJfWTBxaklaSjhwM1FXX1JSVFFGd0I4TXYta3RvczdQeTlUUjJMLXZ1bmY3TW15NU14UVAyMlRhcHlsTTZkUFdVM21yQXZpWThuN3Z5cVd4UEU4VTNnNDRvT1Jwc2E5QXM?oc=5",
+       "title": "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens",
+       "published_at": "2026-10-30T20:50:00Z",
+       "read_full": false,
+       "takeaway": ""
+      },
+      {
+       "id": "4de53ecdca",
+       "kind": "article",
+       "source_id": "cbs",
+       "outlet": "CBS News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cbsnews.com/news/nasdaq-futures-tumble-tech-earnings-ai/",
+       "title": "Nasdaq sheds more than 700 points as tech stocks slump",
+       "published_at": "2026-10-30T21:15:00Z",
+       "read_full": false,
+       "takeaway": "Nasdaq point drop and which earnings triggered it."
+      },
+      {
+       "id": "945642cb40",
+       "kind": "article",
+       "source_id": "cnbc",
+       "outlet": "CNBC",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+       "title": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+       "published_at": "2026-10-30T20:30:57Z",
+       "read_full": false,
+       "takeaway": "Intel's record-bad day and the government stake."
+      },
+      {
+       "id": "7d204d0f2c",
+       "kind": "article",
+       "source_id": "cnbc",
+       "outlet": "CNBC",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+       "title": "Meta outlook revised downward by S&P on cash flow and capex concerns",
+       "published_at": "2026-10-30T22:42:26Z",
+       "read_full": false,
+       "takeaway": ""
+      },
+      {
+       "id": "c6608a9a56",
+       "kind": "article",
+       "source_id": "guardian",
+       "outlet": "The Guardian",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
+       "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
+       "published_at": "2026-10-30T18:27:51Z",
+       "read_full": false,
+       "takeaway": "Quantifies the market-value loss and ties it to earnings."
+      },
+      {
+       "id": "c3c296345f",
+       "kind": "article",
+       "source_id": "bbc",
+       "outlet": "BBC News",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+       "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+       "published_at": "2026-10-30T12:04:02Z",
+       "read_full": false,
+       "takeaway": "Google's AI search and ad revenue concern."
+      },
+      {
+       "id": "cb3a0b1fb3",
+       "kind": "article",
+       "source_id": "ft",
+       "outlet": "Financial Times",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
+       "title": "US tech stocks tumble as concerns over AI spending intensify",
+       "published_at": "2026-10-30T21:13:50Z",
+       "read_full": false,
+       "takeaway": "Paywalled FT; adds the credit-rating angle."
+      },
+      {
+       "id": "5a3bfd626b",
+       "kind": "article",
+       "source_id": "marketwatch",
+       "outlet": "MarketWatch",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+       "title": "Why Intel’s stock saw its worst day in decades — and a $140 billion wipeout",
+       "published_at": "2026-10-30T20:48:00Z",
+       "read_full": false,
+       "takeaway": "Explains Intel's specific business problems."
+      },
+      {
+       "id": "96c2dff016",
+       "kind": "article",
+       "source_id": "marketwatch",
+       "outlet": "MarketWatch",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+       "title": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+       "published_at": "2026-10-30T23:14:00Z",
+       "read_full": false,
+       "takeaway": "Market commentary comparing the move to 2000."
+      },
+      {
+       "id": "dbb93565b8",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY2JMY29zcEM2TFRURW5TbmY4MTNoWVM1NDhiVG44UTF1YWladnh0aDNSRUhxLXZpclBPZmFySDR3dXE2XzBsQ3NpcE5SRWZiNkF0RVI3NkQyQWhrS1RvdDlwamRJWmxSa2E4ckc0SlBBdFdnOHFZem1UOHVScElQZ2hzUkU0N0Z1ajdMNnNYYzB2djU5dFNnM1FHMUpzczdsbzUxSA?oc=5",
+       "title": "S&P Global revises Meta's outlook to 'negative' on AI spending, cash flow worries",
+       "published_at": "2026-10-30T23:27:59Z",
+       "read_full": false,
+       "takeaway": "Reuters on Meta's S&P outlook cut."
+      },
+      {
+       "id": "33d9763d48",
+       "kind": "article",
+       "source_id": "scmp",
+       "outlet": "South China Morning Post",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.scmp.com/news/world/united-states-canada/article/3372800/wall-street-drops-its-worst-day-june-after-tech-sell-deepens",
+       "title": "Wall Street drops to its worst day since June after tech sell-off deepens",
+       "published_at": "2026-10-30T22:01:13Z",
+       "read_full": false,
+       "takeaway": "Carries the AP account with index figures and the AI-valuation worry."
+      },
+      {
+       "id": "e1410a8fd2",
+       "kind": "article",
+       "source_id": "foxbusiness",
+       "outlet": "Fox Business",
+       "lean": "lean_right",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwU25DR2l1ZFdFeWdaUFhHRV8wR1VEMm42NW1WbllPOGhHLVpiSGpHTTVLUGlzTllSa3Ayd19YN1dhaEhsamo0QVlvWmdoRjNxb1NyU0ZVQ0Vta28?oc=5",
+       "title": "Big tech selloff spooks Wall Street as energy stocks outpace market",
+       "published_at": "2026-10-31T00:15:29Z",
+       "read_full": false,
+       "takeaway": "Headline only; contrasts tech losses with energy gains."
+      },
+      {
+       "id": "97bec2a65d",
+       "kind": "article",
+       "source_id": "nypost",
+       "outlet": "New York Post",
+       "lean": "lean_right",
+       "paywalled": false,
+       "url": "https://nypost.com/2026/10/30/business/nasdaq-plummets-2-as-amazon-intel-and-reddit-latest-victims-of-ai-fears/",
+       "title": "Nasdaq plummets 3% as Amazon, Intel and Reddit become latest victims of AI fears",
+       "published_at": "2026-10-30T14:34:39Z",
+       "read_full": false,
+       "takeaway": "Nasdaq plunge story naming Amazon, Intel and Reddit."
+      }
+     ],
+     "lean_counts": {
+      "left": 4,
+      "center": 5,
+      "right": 2,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "oil-profits-iran-war",
+     "headline": "Exxon and Chevron beat estimates as oil industry profits surge during Iran war",
+     "region": "Earnings",
+     "importance": 4,
+     "summary": "ExxonMobil and Chevron reported third-quarter results that beat forecasts, helped by high oil prices, record production and strong refining margins. The New York Times and New York Post both report US oil and gas companies earned more than $130 billion during the war. The results land as drivers face high gasoline and diesel prices.",
+     "why_it_matters": "High fuel prices raise costs for commuters, truckers and anyone buying goods that are shipped. The profits are also a political issue days before the midterms.",
+     "background": "The US is at war with Iran, and attacks on refineries in the Middle East and Russia have tightened global fuel supplies. That pushed up crude oil and especially diesel prices. Oil companies that refine fuel have earned larger margins as a result. President Trump has both touted the benefits of high oil prices and, per CNBC, said Big Oil was making too much money.",
+     "facts": [
+      {
+       "text": "ExxonMobil and Chevron reported better-than-expected Q3 results on Friday, per Reuters and the Guardian.",
+       "refs": [
+        "a4ee039ed9",
+        "48a46a7e81"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "Reuters reports refining margins surged during the wars; CNBC says global diesel prices rose after Ukraine and Iran struck refineries.",
+       "refs": [
+        "a4ee039ed9",
+        "7a105fd2eb"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "The New York Times reports the US oil industry earned over $130 billion during the Iran war, almost three times the amount in the same period of 2025; the New York Post reports the same total for more than 50 companies.",
+       "refs": [
+        "75cdf73cc2",
+        "b736773fa6"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "The Financial Times reports the two companies warned on diesel supplies, and BP posted a record profit.",
+       "refs": [
+        "cef82bb2b3",
+        "1b0ae86b0a"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "CNBC reports Trump criticized Big Oil for making \"too much money,\" while refining earnings have risen since.",
+       "refs": [
+        "31206c4f66"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "f8001da0bc",
+       "note": "Pairs the \"blowout profits\" with Trump touting benefits of high prices."
+      },
+      {
+       "ref": "b736773fa6",
+       "note": "Leads with the $130 billion total and the squeeze on consumers."
+      },
+      {
+       "ref": "96c0d3e928",
+       "note": "Links the profits to shareholders including Trump and to what drivers pay."
+      },
+      {
+       "ref": "7a105fd2eb",
+       "note": "Focuses on the stocks hitting highs and refining economics rather than consumer cost."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "7a105fd2eb",
+       "kind": "article",
+       "source_id": "cnbc",
+       "outlet": "CNBC",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html",
+       "title": "Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars",
+       "published_at": "2026-10-30T16:44:31Z",
+       "read_full": false,
+       "takeaway": "Explains why diesel prices jumped."
+      },
+      {
+       "id": "31206c4f66",
+       "kind": "article",
+       "source_id": "cnbc",
+       "outlet": "CNBC",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cnbc.com/2026/10/31/trump-big-oil-refining-profits.html",
+       "title": "Trump called out Big Oil profits. Here’s how much their refining earnings have surged since",
+       "published_at": "2026-10-31T06:00:02Z",
+       "read_full": false,
+       "takeaway": "Compares Trump's remarks to refining earnings."
+      },
+      {
+       "id": "96c0d3e928",
+       "kind": "article",
+       "source_id": "cnn",
+       "outlet": "CNN",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Sd0x3WGpwQ3hLWF8wVVNkS3FxMThzcnNUSUV6WHZ6Uzhpd0lQZ080Tm14aGxSbzJ1MXgxbmxNTDVOejltY3BHb1V1aTNjaWMwRk1uUmkycEVTMWFUSTJrYTZIeURIYlhXY2dfRjJENUZSQ0FoM1I1V2szcHM?oc=5",
+       "title": "Big Oil is raking in huge profits. Shareholders like Trump are cashing in. You’re paying for it with high gas prices.",
+       "published_at": "2026-10-30T11:56:22Z",
+       "read_full": false,
+       "takeaway": "Opinionated-leaning headline on shareholders and gas prices."
+      },
+      {
+       "id": "f8001da0bc",
+       "kind": "article",
+       "source_id": "nbc",
+       "outlet": "NBC News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.nbcnews.com/business/energy/exxonmobil-chevron-profits-trump-high-oil-prices-rcna606524",
+       "title": "ExxonMobil and Chevron report blowout profits as Trump touts benefits of high oil prices",
+       "published_at": "2026-10-30T14:35:06Z",
+       "read_full": false,
+       "takeaway": "Highlights Trump's comments on high oil prices."
+      },
+      {
+       "id": "48a46a7e81",
+       "kind": "article",
+       "source_id": "guardian",
+       "outlet": "The Guardian",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.theguardian.com/business/2026/oct/30/exxonmobil-chevron-q3-results",
+       "title": "ExxonMobil and Chevron top estimates for Q3 as Americans feel gas price pain",
+       "published_at": "2026-10-30T15:12:50Z",
+       "read_full": false,
+       "takeaway": "Notes record production alongside consumer gas price pain."
+      },
+      {
+       "id": "75cdf73cc2",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/10/30/business/energy-environment/exxon-chevron-oil-profits-iran-war.html",
+       "title": "U.S. Oil Industry Earned Over $130 Billion in Profit During Iran War",
+       "published_at": "2026-10-30T10:35:33Z",
+       "read_full": false,
+       "takeaway": "Paywalled NYT; industry-wide profit total versus 2025."
+      },
+      {
+       "id": "cef82bb2b3",
+       "kind": "article",
+       "source_id": "ft",
+       "outlet": "Financial Times",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.ft.com/content/e934d2dd-9d6c-4099-95a5-1c300ed28cbb?syn-25a6b1a6=1",
+       "title": "ExxonMobil and Chevron post bumper profits and warn on diesel supplies",
+       "published_at": "2026-10-30T10:37:17Z",
+       "read_full": false,
+       "takeaway": "Paywalled FT; adds the diesel supply warning."
+      },
+      {
+       "id": "1b0ae86b0a",
+       "kind": "article",
+       "source_id": "ft",
+       "outlet": "Financial Times",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.ft.com/content/979e4cd0-1683-4a9f-a528-bb03c1b4ad45?syn-25a6b1a6=1",
+       "title": "BP’s profits surge to record on high fuel prices",
+       "published_at": "2026-10-30T07:20:07Z",
+       "read_full": false,
+       "takeaway": "Paywalled FT on BP's record profit."
+      },
+      {
+       "id": "a4ee039ed9",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2JIcGhXLURlX1ZHUDVac0IwV1BuN1puU1ljMVFoMUJPNWtZQ2FFdEVMY1ZoZ3pENFUtZEpXZ0ZRU2ZLTFVobHd2XzRiaUxuRFRESXVYNm9zNUUxLWliR1A0RHpTUlNjSUxOazBFSzFvUS1HVWVJX1VGeU41WkxDSjlLTHlQX0dEd1NqUzNna0dkMEZBYmZEd1JZaHhuVElEZFBLZFR0YVQ4V3BxVkhLbGxOMzlRWjU1RmZzRA?oc=5",
+       "title": "Exxon, Chevron profits beat forecasts, refining margins surge during wars",
+       "published_at": "2026-10-30T18:45:48Z",
+       "read_full": false,
+       "takeaway": "Reuters wire: beats forecasts, refining margins up."
+      },
+      {
+       "id": "b736773fa6",
+       "kind": "article",
+       "source_id": "nypost",
+       "outlet": "New York Post",
+       "lean": "lean_right",
+       "paywalled": false,
+       "url": "https://nypost.com/2026/10/30/business/big-oil-makes-130b-in-profits-as-gas-prices-rise-amid-iran-war/",
+       "title": "Big Oil rakes in over $130B in profits as soaring gas prices squeeze consumers amid Iran war",
+       "published_at": "2026-10-30T17:11:59Z",
+       "read_full": false,
+       "takeaway": "Same total, framed around consumer squeeze."
+      }
+     ],
+     "lean_counts": {
+      "left": 5,
+      "center": 2,
+      "right": 1,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "fed-more-hikes",
+     "headline": "Fed officials say more rate hikes will be needed to fight inflation",
+     "region": "Fed",
+     "importance": 4,
+     "summary": "Two Federal Reserve regional presidents, Lorie Logan and Alberto Musalem, said the central bank will need to resume raising interest rates. Reuters reports Logan said at least two more hikes are needed. MarketWatch reports the Fed held rates steady at its latest meeting.",
+     "why_it_matters": "Higher Fed rates push up borrowing costs for mortgages, car loans and credit cards. The comments suggest relief from high rates is not close.",
+     "background": "The Federal Reserve sets short-term interest rates to balance inflation against employment. Inflation has stayed elevated, partly from higher energy prices. Regional Fed presidents such as Logan and Musalem take part in rate decisions and often signal where policy is headed. A MarketWatch headline says Warsh wants the Fed to communicate less, while two officials are pushing for more transparency.",
+     "facts": [
+      {
+       "text": "Reuters reports Fed official Lorie Logan said the Fed needs at least two more rate hikes.",
+       "refs": [
+        "8429338684"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "CNBC reports Logan and Musalem gave the first insight into what Fed leaders see next, saying they will need to get back to hiking.",
+       "refs": [
+        "f699365bef"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "MarketWatch reports the Fed held rates steady while officials see more hikes coming soon.",
+       "refs": [
+        "c81afa3aeb"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The Wall Street Journal reports Treasurys gained on the tech sell-off the same day as the Fed comments.",
+       "refs": [
+        "1d26b1cdac"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "8429338684",
+       "note": "Gives a specific number, at least two more hikes."
+      },
+      {
+       "ref": "c81afa3aeb",
+       "note": "Pairs the hike signal with a debate over Fed communication and transparency."
+      },
+      {
+       "ref": "75ff70d332",
+       "note": "Fox Business segment questions whether the earlier rate hike was appropriate."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "f699365bef",
+       "kind": "article",
+       "source_id": "cnbc",
+       "outlet": "CNBC",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html",
+       "title": "Fed officials are already saying they’ll need to get back to hiking rates",
+       "published_at": "2026-10-30T21:53:10Z",
+       "read_full": false,
+       "takeaway": "Treats the remarks as first signal of the next policy move."
+      },
+      {
+       "id": "c81afa3aeb",
+       "kind": "article",
+       "source_id": "marketwatch",
+       "outlet": "MarketWatch",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
+       "title": "Warsh wants the Fed to say less. Two officials are pushing for more transparency.",
+       "published_at": "2026-10-30T21:23:00Z",
+       "read_full": false,
+       "takeaway": "Adds the Warsh communication angle."
+      },
+      {
+       "id": "8429338684",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN0l1dXR6NGI2OV9OZGVkZHRFdzNqcVBnSGRFamxWZlNaZTNsQmdIbXRHVXc5VE9FZzcyWUI4YU5hai1VZlVtY2ZsQTh0VDgxYmtJT1V3X0NvUEZvRjBDT2VaQUdaeDdIWkZ5MlhraUdTVHJYSlM3RFVzU3lVNjctTzU2eFMzNk5kbDBIWlR2RWJ0NkQ2Znc?oc=5",
+       "title": "Fed needs at least two more rate hikes, Logan says",
+       "published_at": "2026-10-30T17:35:43Z",
+       "read_full": false,
+       "takeaway": "Reuters wire on Logan's call for two more hikes."
+      },
+      {
+       "id": "60a76ab364",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObTlSSnpPaC0yUGM0aTNCb3h0cUVRejBTRjg0SXVnT0MwSXNMSzBVS1NFSEpUaGxtOUpzSkZmQlRKWjFWQ2UtNEp2RUgzcWwyMEN3clpKaU1acDlRUGFhS21BTEpWQjdSVURWZjRJd19Tc19pbVVHeWYwUEZLdUlka0x6M1p5WDRMVkVjRmlLTWU?oc=5",
+       "title": "Fed officials make case for rate hikes amid ongoing inflation concerns",
+       "published_at": "2026-10-30T20:03:43Z",
+       "read_full": false,
+       "takeaway": "Reuters roundup of officials making the case for hikes."
+      },
+      {
+       "id": "1d26b1cdac",
+       "kind": "article",
+       "source_id": "wsj",
+       "outlet": "The Wall Street Journal",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.wsj.com/finance/investing/stocks-slide-intel-plunges-binance-hacked-83302b14?mod=rss_markets_main",
+       "title": "Stocks Slide, Intel Plunges, Binance Hacked",
+       "published_at": "2026-10-30T20:37:00Z",
+       "read_full": false,
+       "takeaway": "Paywalled WSJ markets wrap mentioning Fed hike support."
+      },
+      {
+       "id": "75ff70d332",
+       "kind": "article",
+       "source_id": "foxbusiness",
+       "outlet": "Fox Business",
+       "lean": "lean_right",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBdzk0aTI1ajRndF9IUjhWbi1sZnkyOHJLWUxwUkxQTjQyMENPNGJpU25hWGtLdVVPR2Jkb2w0RDNVMThUejFCaGNYM21Edi00VW1KQTU0Ung?oc=5",
+       "title": "Fed rate hike was not 'appropriate': Hudson Bay Capital Management senior strategist",
+       "published_at": "2026-10-30T19:39:43Z",
+       "read_full": false,
+       "takeaway": "Headline only; a strategist disputes the hike."
+      }
+     ],
+     "lean_counts": {
+      "left": 1,
+      "center": 3,
+      "right": 1,
+      "unrated": 0
+     }
+    }
+   ]
+  },
+  {
+   "id": "nyc",
+   "title": "New York City",
+   "stories": [
+    {
+     "id": "community-safety-council",
+     "headline": "City Council takes up bill to create a Department of Community Safety",
+     "region": "City Hall",
+     "importance": 5,
+     "summary": "The City Council debated a bill on Friday that would create a Department of Community Safety, a signature promise of Mayor Zohran Mamdani. The mayor's existing Office of Community Safety also made its case to lawmakers, with its commissioner saying it works in constant contact with the NYPD.",
+     "why_it_matters": "The outcome shapes who responds to some mental health and quality-of-life calls in the city, and how much money moves toward that work. Only left-leaning and center outlets in the digest covered the hearing.",
+     "background": "Mayor Mamdani campaigned on creating a city department focused on community safety and mental health response. After taking office he set up an Office of Community Safety by executive order, as a step before a full department. A bill to make a department in law was introduced by Council Member Lincoln Restler and referred to the Government Operations committee. NYPD Commissioner Jessica Tisch remains in her post, and the office says it is separate from the police but coordinates with them.",
+     "facts": [
+      {
+       "text": "Gothamist reported that Council members debated a bill on Friday that would create the Department of Community Safety.",
+       "refs": [
+        "9ec7e6ead3"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "City & State reported that Commissioner Ayesha Delany-Brumsey told the Council the office is intentionally separate from the police but in constant communication with the NYPD.",
+       "refs": [
+        "74c45d7a9e"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The bill is Intro 1524-2025, introduced by Council Member Lincoln Restler, and Mayor Mamdani created an Office of Community Safety by executive order.",
+       "refs": [
+        "nyc-w1"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "9ec7e6ead3",
+       "note": "Frames the hearing as a key step toward the department becoming real."
+      },
+      {
+       "ref": "74c45d7a9e",
+       "note": "Frames it as the office having to justify its own existence, centering the commissioner's testimony."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "9ec7e6ead3",
+       "kind": "article",
+       "source_id": "gothamist",
+       "outlet": "Gothamist",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://gothamist.com/news/nyc-council-takes-key-step-toward-mamdanis-promised-department-of-community-safety",
+       "title": "NYC Council takes key step toward Mamdani's promised Department of Community Safety",
+       "published_at": "2026-10-30T11:30:48Z",
+       "read_full": false,
+       "takeaway": "Summary only: treats the Council debate as progress for the mayor's plan."
+      },
+      {
+       "id": "74c45d7a9e",
+       "kind": "article",
+       "source_id": "cityandstate",
+       "outlet": "City & State NY",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.cityandstateny.com/policy/2026/10/mamdanis-office-community-safety-makes-case-its-own-existence-city-council/416958/",
+       "title": "Mamdani’s Office of Community Safety makes the case for its own existence to the City Council",
+       "published_at": "2026-10-30T21:22:15Z",
+       "read_full": false,
+       "takeaway": "Summary only: focuses on the office's relationship with the NYPD."
+      },
+      {
+       "id": "nyc-w1",
+       "kind": "web",
+       "source_id": "",
+       "outlet": "CityLand",
+       "lean": "unrated",
+       "paywalled": false,
+       "url": "https://www.citylandnyc.org/giving-birth-to-a-new-agency-paths-to-mayor-mamdanis-department-of-community-safety/",
+       "title": "Giving Birth to a New Agency: Paths to Mayor Mamdani's Department of Community Safety",
+       "published_at": "",
+       "read_full": true,
+       "takeaway": ""
+      }
+     ],
+     "lean_counts": {
+      "left": 1,
+      "center": 1,
+      "right": 0,
+      "unrated": 1
+     }
+    },
+    {
+     "id": "uws-barn-owl-nest",
+     "headline": "Upper West Side barn owl nest damaged by rooftop work; state looks into it",
+     "region": "Manhattan",
+     "importance": 4,
+     "summary": "The roof of a water tower on an Upper West Side building, where a family of barn owls had nested, was removed this week. Birders were angry, and conservation officers arrived at the site.",
+     "why_it_matters": "Barn owls are protected, and the case tests how construction rules are enforced when wildlife is involved in a dense neighborhood.",
+     "background": "In October a family of barn owls was found nesting in a water tower atop a building on West 75th Street near Central Park. An expert quoted by the AP called it the first documented barn owl nesting in Manhattan in modern history. Nightly crowds gathered to watch. The state Department of Environmental Conservation says the species has declined sharply in New York, and Gothamist notes the birds are protected under the Migratory Bird Treaty Act.",
+     "facts": [
+      {
+       "text": "The AP reported that the water tower roof, home to the owl family, was removed.",
+       "refs": [
+        "53861311c9"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The New York Times reported that conservation officers arrived after workers tore off the roof.",
+       "refs": [
+        "dc9c25d78e"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The New York Post reported the work went ahead despite a stop-work order and prompted a state probe.",
+       "refs": [
+        "8c14bd3be6"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Gothamist reported that owl lovers were outraged and noted the birds are covered by the Migratory Bird Treaty Act.",
+       "refs": [
+        "c18840a631"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "AP earlier reported that nightly crowds gathered to see the owls on West 75th Street.",
+       "refs": [
+        "nyc-w2"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "c18840a631",
+       "note": "Quotes the anger of neighborhood owl lovers, using the word crime."
+      },
+      {
+       "ref": "8c14bd3be6",
+       "note": "Stresses that the work continued despite a stop-work order and that the public was enraged."
+      },
+      {
+       "ref": "53861311c9",
+       "note": "Short wire report that states the roof was removed without assigning blame."
+      }
+     ],
+     "left_out": [],
+     "social": "Gothamist and the Post both describe strong anger among local birders and neighbors.",
+     "refs": [
+      {
+       "id": "53861311c9",
+       "kind": "article",
+       "source_id": "abc",
+       "outlet": "ABC News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://abcnews.com/US/wireStory/roof-water-tower-manhattan-rare-family-barn-owls-137692727",
+       "title": "Roof of a water tower in Manhattan where a rare family of barn owls nested removed",
+       "published_at": "2026-10-30T06:49:20Z",
+       "read_full": false,
+       "takeaway": "Brief wire item on the roof removal."
+      },
+      {
+       "id": "c18840a631",
+       "kind": "article",
+       "source_id": "gothamist",
+       "outlet": "Gothamist",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://gothamist.com/news/it-is-a-crime-upper-west-side-owl-lovers-outraged-after-rooftop-work-wrecks-nest",
+       "title": "'It is a crime!': Upper West Side owl lovers outraged after rooftop work wrecks nest",
+       "published_at": "2026-10-30T20:13:00Z",
+       "read_full": false,
+       "takeaway": "Local reaction piece centered on outraged residents."
+      },
+      {
+       "id": "dc9c25d78e",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/10/31/nyregion/barn-owls-manhattan.html",
+       "title": "Birders Fear for N.Y. Celebrity Owls Over Construction Near Their Nest",
+       "published_at": "2026-10-31T07:00:23Z",
+       "read_full": false,
+       "takeaway": "Paywalled; summary notes birders' fears and the arrival of conservation officers."
+      },
+      {
+       "id": "8c14bd3be6",
+       "kind": "article",
+       "source_id": "nypost",
+       "outlet": "New York Post",
+       "lean": "lean_right",
+       "paywalled": false,
+       "url": "https://nypost.com/2026/10/30/us-news/rare-nyc-barn-owl-nest-destroyed-by-hardhats-sparking-state-probe/",
+       "title": "Rare NYC barn-owl nest destroyed by construction workers despite stop-work order, enraging public",
+       "published_at": "2026-10-30T22:09:33Z",
+       "read_full": false,
+       "takeaway": "Highlights a stop-work order and state investigation."
+      },
+      {
+       "id": "nyc-w2",
+       "kind": "web",
+       "source_id": "",
+       "outlet": "AP via ABC News",
+       "lean": "unrated",
+       "paywalled": false,
+       "url": "https://abcnews.com/US/wireStory/rare-family-barn-owls-moved-manhattans-upper-west-137295431",
+       "title": "A rare family of barn owls moved into Manhattan's Upper West Side. New Yorkers are captivated",
+       "published_at": "",
+       "read_full": true,
+       "takeaway": ""
+      }
+     ],
+     "lean_counts": {
+      "left": 3,
+      "center": 0,
+      "right": 1,
+      "unrated": 1
+     }
+    },
+    {
+     "id": "bronx-ebike-fire",
+     "headline": "Bronx e-bike battery fire kills boy, 11, and others in his household",
+     "region": "Bronx",
+     "importance": 4,
+     "summary": "A lithium-ion battery fire in the Bronx killed 11-year-old Zion Maine on Wednesday. The Daily News later reported that his two brothers and his father's girlfriend also died.",
+     "why_it_matters": "Battery fires in apartments can spread fast. The toll adds to concern about charging e-bikes indoors.",
+     "background": "Lithium-ion batteries used in e-bikes and scooters have caused deadly fires in New York homes in recent years. The city has set safety rules and run campaigns about charging and disposal. This fire happened at the Patterson Houses area in Mott Haven.",
+     "facts": [
+      {
+       "text": "Gothamist reported that Zion Maine died Wednesday after a lithium-ion battery ignited, injuring four family members, and that neighbors held a vigil near the Patterson Houses.",
+       "refs": [
+        "e0d6485e37"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The Daily News headline reported that the fire also claimed his two brothers and his father's girlfriend.",
+       "refs": [
+        "a5bd4d4cd6"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [
+      {
+       "topic": "How many people died",
+       "positions": [
+        {
+         "claim": "Gothamist, published earlier, described one death and four injured.",
+         "refs": [
+          "e0d6485e37"
+         ]
+        },
+        {
+         "claim": "The Daily News, published later, says three more people died, likely as injured victims succumbed.",
+         "refs": [
+          "a5bd4d4cd6"
+         ]
+        }
+       ]
+      }
+     ],
+     "framing": [
+      {
+       "ref": "e0d6485e37",
+       "note": "Community vigil angle, centering mourners."
+      },
+      {
+       "ref": "a5bd4d4cd6",
+       "note": "Leads with the fire and the rising death toll."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "e0d6485e37",
+       "kind": "article",
+       "source_id": "gothamist",
+       "outlet": "Gothamist",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://gothamist.com/news/bronx-community-hosts-vigil-for-boy-killed-in-e-bike-fire",
+       "title": "Bronx community hosts vigil for boy killed in e-bike fire",
+       "published_at": "2026-10-30T01:22:21Z",
+       "read_full": false,
+       "takeaway": "Vigil report from the earlier stage of the story."
+      },
+      {
+       "id": "a5bd4d4cd6",
+       "kind": "article",
+       "source_id": "nydailynews",
+       "outlet": "New York Daily News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR1F1dWhGaHpSdGxYRUs5cS11MEhyMkdTTVQ3emdZSTNrbEpsZXRjRng1eFR1QlZfMnpLWUNrYk5nRzBJcTB3UmQ1VFpBVS1qYzdIeG9Eb1ZiVm96eHlrQ3JSeUo5dkpCNE9LdXRJRjZremNneVQ0bGZ4bU04V3NSU2lnYnlUWlpPNzNhYXROQ0JmbXJHSkViaEh4Q011ODhVaXdvRVMzZC1jNjRPbDUyUDMzekZKdEZD?oc=5",
+       "title": "Raging Bronx e-bike fire that killed boy, 11, claims his two brothers and dad’s girlfriend",
+       "published_at": "2026-10-30T22:15:01Z",
+       "read_full": false,
+       "takeaway": "Headline only; updates the toll."
+      }
+     ],
+     "lean_counts": {
+      "left": 2,
+      "center": 0,
+      "right": 0,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "fair-fares-free-buses",
+     "headline": "Council leaders favor expanding Fair Fares over free buses",
+     "region": "Transit",
+     "importance": 3,
+     "summary": "At a City & State event, Council Speaker Julie Menin and Majority Leader Shaun Abreu said widening eligibility for Fair Fares is the best way to address transit affordability, rather than making buses free.",
+     "why_it_matters": "Fare policy affects what low-income riders pay each day. The position signals the Council's preference as free buses remain a mayoral campaign theme. This was covered by a single outlet.",
+     "background": "Fair Fares is a city program that gives half-price MetroCards or OMNY discounts to eligible low-income New Yorkers. Free buses were a key campaign promise of Mayor Mamdani. The Council controls much of the city budget that would pay for either approach. Menin and Abreu lead the Council.",
+     "facts": [
+      {
+       "text": "City & State reported that Speaker Julie Menin and Majority Leader Shaun Abreu suggested expanding Fair Fares eligibility is the best way to tackle transit affordability.",
+       "refs": [
+        "f083d32a5e"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "f083d32a5e",
+       "kind": "article",
+       "source_id": "cityandstate",
+       "outlet": "City & State NY",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.cityandstateny.com/policy/2026/10/free-buses-julie-menin-and-shaun-abreu-prefer-fair-fares/416956/",
+       "title": "Free buses? Julie Menin and Shaun Abreu prefer Fair Fares",
+       "published_at": "2026-10-30T21:07:06Z",
+       "read_full": false,
+       "takeaway": "Only digest outlet to cover the event; headline sets Fair Fares against free buses."
+      }
+     ],
+     "lean_counts": {
+      "left": 0,
+      "center": 1,
+      "right": 0,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "marcy-houses-asbestos",
+     "headline": "NYCHA says it removed asbestos residue at Marcy Houses",
+     "region": "Brooklyn",
+     "importance": 3,
+     "summary": "NYCHA officials say white dust on residents' windows at the Marcy Houses in Bedford-Stuyvesant came from steam from a mobile boiler line's exhaust vent, and that the asbestos-containing residue has been removed.",
+     "why_it_matters": "Residents of public housing want to know whether their homes are safe, and the claim of removal rests on NYCHA's own statement. Only Gothamist in the digest covered it.",
+     "background": "NYCHA runs the city's public housing and has had repeated problems with heat and boilers. Temporary mobile boilers are sometimes used when heating plants are down. Asbestos is a mineral that can harm lungs if fibers are inhaled. Marcy Houses is a complex in Bedford-Stuyvesant.",
+     "facts": [
+      {
+       "text": "NYCHA said the dust on windows came from steam out of an exhaust vent for a mobile boiler line, leaving asbestos-laden residue on some exterior walls, per Gothamist.",
+       "refs": [
+        "fa83b6c1d8"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "NYCHA said it has removed the asbestos, per Gothamist.",
+       "refs": [
+        "fa83b6c1d8"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "fa83b6c1d8",
+       "kind": "article",
+       "source_id": "gothamist",
+       "outlet": "Gothamist",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://gothamist.com/news/nycha-says-its-removed-asbestos-found-at-brooklyns-marcy-houses",
+       "title": "NYCHA says it's removed asbestos found at Brooklyn’s Marcy Houses",
+       "published_at": "2026-10-30T20:29:00Z",
+       "read_full": false,
+       "takeaway": "Single-outlet report relaying NYCHA's account of cause and cleanup."
+      }
+     ],
+     "lean_counts": {
+      "left": 1,
+      "center": 0,
+      "right": 0,
+      "unrated": 0
+     }
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "summary": "Stocks fell on the latest readings: the Nasdaq Composite was down 1.38% and the Dow down 1.09%, with Japan's Nikkei down 2.12%. Coverage tied the US drop to a sell-off in technology companies over how much they are spending on AI. Fed officials said more rate hikes will be needed to fight inflation, which at 3.72% a year is running well above the Fed's usual goal. Oil stayed very high, with US crude near $103 a barrel, and oil companies Exxon and Chevron reported profits above estimates during the Iran war.",
+  "movers": [
+   {
+    "symbol": "NASDAQCOM",
+    "name": "Nasdaq Composite",
+    "why": "Fell 1.38% as the tech sell-off over AI spending hit the index most heavily weighted toward those companies."
+   },
+   {
+    "symbol": "DJIA",
+    "name": "Dow Jones Industrial Average",
+    "why": "Fell 1.09% on the same Wall Street sell-off, which reports called the worst day since June."
+   },
+   {
+    "symbol": "DCOILBRENTEU",
+    "name": "Crude oil (Brent)",
+    "why": "Brent crude fell 3.92% in the latest reading but remains above $120 a barrel; the data do not say what drove the one-day drop."
+   }
+  ],
+  "concept": {
+   "term": "Inflation (CPI)",
+   "explanation": "The Consumer Price Index tracks what a typical basket of goods and services costs, such as food, rent, gasoline and medical care, and the headline number is how much that basket cost compared with a year earlier. It moves with energy prices, wages, supply problems and how much people spend. It reaches your wallet through everyday prices and through the Fed: when inflation runs hot, the Fed can raise interest rates, which makes mortgages, car loans and credit cards more expensive. The latest reading is 3.72% a year."
+  },
+  "watch": [
+   "Sun Nov 1: Daylight saving time ends",
+   "Tue Nov 3: US midterm election day",
+   "Fri Nov 6: October jobs report (Labor Department, 8:30 a.m. ET)"
+  ],
+  "quotes": [
+   {
+    "symbol": "SP500",
+    "name": "S&P 500",
+    "group": "us_stocks",
+    "unit": "points",
+    "blurb": "500 of the largest US companies. The standard scoreboard for the US stock market.",
+    "last": 7743.98,
+    "previous": 7722.6,
+    "month_ago": 7683.69,
+    "as_of": "2026-10-28",
+    "provider": "fred"
+   },
+   {
+    "symbol": "NASDAQCOM",
+    "name": "Nasdaq Composite",
+    "group": "us_stocks",
+    "unit": "points",
+    "blurb": "Heavy on tech companies, so it swings harder than the S&P 500 on tech news.",
+    "last": 26184.72,
+    "previous": 26549.85,
+    "month_ago": 26797.54,
+    "as_of": "2026-10-29",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DJIA",
+    "name": "Dow Jones Industrial Average",
+    "group": "us_stocks",
+    "unit": "points",
+    "blurb": "30 big, established US companies. The oldest and most quoted index, but narrow.",
+    "last": 51770.31,
+    "previous": 52342.56,
+    "month_ago": 50906.05,
+    "as_of": "2026-10-30",
+    "provider": "fred"
+   },
+   {
+    "symbol": "NIKKEI225",
+    "name": "Nikkei 225",
+    "group": "world_stocks",
+    "unit": "points",
+    "blurb": "Japan's main stock index.",
+    "last": 63290.11,
+    "previous": 64659.47,
+    "month_ago": 66753.72,
+    "as_of": "2026-10-30",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DFF",
+    "name": "Fed funds rate",
+    "group": "rates",
+    "unit": "percent",
+    "blurb": "The overnight rate the Federal Reserve targets. Every other US interest rate keys off it.",
+    "last": 3.88,
+    "previous": 3.88,
+    "month_ago": 3.88,
+    "as_of": "2026-10-29",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DGS2",
+    "name": "2-year Treasury yield",
+    "group": "rates",
+    "unit": "percent",
+    "blurb": "What the US government pays to borrow for 2 years. Moves with expectations for Fed rate changes.",
+    "last": 4.61,
+    "previous": 4.67,
+    "month_ago": 4.89,
+    "as_of": "2026-10-29",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DGS10",
+    "name": "10-year Treasury yield",
+    "group": "rates",
+    "unit": "percent",
+    "blurb": "The government's 10-year borrowing cost. Mortgage rates and company borrowing costs follow it.",
+    "last": 4.98,
+    "previous": 5.05,
+    "month_ago": 5.26,
+    "as_of": "2026-10-29",
+    "provider": "fred"
+   },
+   {
+    "symbol": "MORTGAGE30US",
+    "name": "30-year mortgage rate",
+    "group": "rates",
+    "unit": "percent",
+    "blurb": "Freddie Mac's weekly average for a 30-year fixed mortgage.",
+    "last": 7.24,
+    "previous": 7.32,
+    "month_ago": 7.03,
+    "as_of": "2026-10-29",
+    "provider": "fred"
+   },
+   {
+    "symbol": "CPIAUCSL",
+    "name": "Inflation (CPI, year over year)",
+    "group": "economy",
+    "unit": "percent",
+    "blurb": "How much consumer prices rose over the past year. The Fed aims for about 2%.",
+    "last": 3.7172508442689933,
+    "previous": 3.353016322755642,
+    "month_ago": 3.353016322755642,
+    "as_of": "2026-09-01",
+    "provider": "fred"
+   },
+   {
+    "symbol": "UNRATE",
+    "name": "Unemployment rate",
+    "group": "economy",
+    "unit": "percent",
+    "blurb": "Share of people looking for work who can't find it. From the monthly jobs report.",
+    "last": 4.2,
+    "previous": 4.1,
+    "month_ago": 4.1,
+    "as_of": "2026-09-01",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DCOILWTICO",
+    "name": "Crude oil (WTI)",
+    "group": "commodities",
+    "unit": "usd",
+    "blurb": "US oil price per barrel. Feeds into gas prices and inflation.",
+    "last": 103.37,
+    "previous": 105.25,
+    "month_ago": 85.23,
+    "as_of": "2026-10-27",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DCOILBRENTEU",
+    "name": "Crude oil (Brent)",
+    "group": "commodities",
+    "unit": "usd",
+    "blurb": "The global oil benchmark. Jumps on Middle East and Russia supply news.",
+    "last": 123.1,
+    "previous": 128.12,
+    "month_ago": 116.01,
+    "as_of": "2026-10-27",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DHHNGSP",
+    "name": "Natural gas (Henry Hub)",
+    "group": "commodities",
+    "unit": "usd",
+    "blurb": "US natural gas price at the Henry Hub in Louisiana, per million BTU. Drives heating and electricity bills.",
+    "last": 2.76,
+    "previous": 2.52,
+    "month_ago": 3.21,
+    "as_of": "2026-10-27",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DTWEXBGS",
+    "name": "US dollar index (broad)",
+    "group": "currencies",
+    "unit": "points",
+    "blurb": "The Fed's index of the dollar against the currencies of US trading partners. Up means a stronger dollar.",
+    "last": 121.3202,
+    "previous": 121.3531,
+    "month_ago": 120.1169,
+    "as_of": "2026-10-23",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DEXUSEU",
+    "name": "Euro (USD per EUR)",
+    "group": "currencies",
+    "unit": "fx_rate",
+    "blurb": "Dollars per euro. Up means the euro strengthened against the dollar.",
+    "last": 1.1199,
+    "previous": 1.1212,
+    "month_ago": 1.1394,
+    "as_of": "2026-10-23",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DEXJPUS",
+    "name": "Japanese yen (JPY per USD)",
+    "group": "currencies",
+    "unit": "fx_rate",
+    "blurb": "Yen per dollar. Up means a weaker yen.",
+    "last": 156.87,
+    "previous": 157.11,
+    "month_ago": 158.3,
+    "as_of": "2026-10-23",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DEXCHUS",
+    "name": "Chinese yuan (CNY per USD)",
+    "group": "currencies",
+    "unit": "fx_rate",
+    "blurb": "Yuan per dollar. Beijing manages it closely, so moves are a policy signal.",
+    "last": 6.6702,
+    "previous": 6.6745,
+    "month_ago": 6.7111,
+    "as_of": "2026-10-23",
+    "provider": "fred"
+   },
+   {
+    "symbol": "CBBTCUSD",
+    "name": "Bitcoin",
+    "group": "crypto",
+    "unit": "usd",
+    "blurb": "The largest cryptocurrency. Trades around the clock and swings far more than stocks.",
+    "last": 77191.25,
+    "previous": 77938.86,
+    "month_ago": 83482.51,
+    "as_of": "2026-10-30",
+    "provider": "fred"
+   }
+  ]
+ },
+ "trending": [
+  {
+   "title": "Patrick Stewart",
+   "context": "Wikipedia's In the News lists the British actor's death at 86, and his page was the most viewed on Wikipedia.",
+   "signal": "wikipedia_news"
+  },
+  {
+   "title": "World Series",
+   "context": "Wikipedia's In the News lists the Milwaukee Brewers defeating the Tampa Bay Rays to win the title.",
+   "signal": "wikipedia_news"
+  },
+  {
+   "title": "Toledo train collision",
+   "context": "Wikipedia reports at least 69 people killed when two high-speed trains collided in Toledo province, Spain.",
+   "signal": "wikipedia_news"
+  },
+  {
+   "title": "2026 Israeli legislative election",
+   "context": "The election page drew about 153,000 views as final results came in.",
+   "signal": "wikipedia"
+  },
+  {
+   "title": "Daylight saving time ends Sunday",
+   "context": "People on Bluesky are discussing the clock change this weekend.",
+   "signal": "bluesky"
+  },
+  {
+   "title": "Who won the 2020 US presidential election",
+   "context": "Searches spiked past 1,000 in the days before the midterms; Google's trend list gives no reason.",
+   "signal": "google"
+  },
+  {
+   "title": "MTA",
+   "context": "Searches for the transit agency rose; the trend list gives no reason.",
+   "signal": "google"
+  },
+  {
+   "title": "Oil industry's Iran war profits",
+   "context": "About 1,450 Bluesky posts discussed oil company earnings during the Iran war.",
+   "signal": "bluesky"
+  }
+ ],
+ "signals": [
+  {
+   "signal": "google",
+   "title": "ncaa football today",
+   "url": "https://www.google.com/search?q=ncaa+football+today",
+   "detail": "200+ searches",
+   "related": [
+    {
+     "title": "Connelly previews Week 9: Utah, Georgia, Ole Miss on upset alert",
+     "url": "https://www.espn.com/college-football/story/_/id/50318896/connelly-week-9-upset-alert",
+     "outlet": "ESPN"
+    },
+    {
+     "title": "Rock M Pick ‘Em: Week 9",
+     "url": "https://sports.yahoo.com/articles/rock-m-pick-em-week-100000378.html",
+     "outlet": "Yahoo Sports"
+    },
+    {
+     "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 9",
+     "url": "https://www.cbssports.com/college-football/news/college-football-picks-predictions-spread-odds-betting-lines-top-25-games-week-9/",
+     "outlet": "CBS Sports"
+    }
+   ]
+  },
+  {
+   "signal": "google",
+   "title": "juez",
+   "url": "https://www.google.com/search?q=juez",
+   "detail": "100+ searches",
+   "related": [
+    {
+     "title": "Trump insiste en investigar supuesto fraude electoral en CA pese a orden judicial",
+     "url": "https://calmatters.org/calmatters-en-espanol/2026/10/funcionarios-electorales-california-citatorio/",
+     "outlet": "CalMatters"
+    },
+    {
+     "title": "Corte de apelaciones impide que el Departamento de Justicia separe boletas en disputa en California",
+     "url": "https://www.expressnews.com/news/world/article/corte-de-apelaciones-impide-que-el-departamento-22503184.php",
+     "outlet": "San Antonio Express-News"
+    },
+    {
+     "title": "California despliega abogados y observadores para proteger a votantes de intimidación",
+     "url": "https://www.univision.com/local/los-angeles-kmex/california-despliega-abogados-y-observadores-para-proteger-a-votantes-de-intimidacion-video",
+     "outlet": "Univision"
+    }
+   ]
+  },
+  {
+   "signal": "google",
+   "title": "once upon a farm tractor wheels recall",
+   "url": "https://www.google.com/search?q=once+upon+a+farm+tractor+wheels+recall",
+   "detail": "100+ searches",
+   "related": [
+    {
+     "title": "FDA Advises Consumers Not to Buy or Serve Once Upon a Farm Tractor Wheels Organic Toddler Soft-Baked Bars",
+     "url": "https://www.fda.gov/food/alerts-advisories-safety-information/fda-advises-consumers-not-buy-or-serve-once-upon-farm-tractor-wheels-organic-toddler-soft-baked-bars",
+     "outlet": "U.S. Food and Drug Administration (.gov)"
+    },
+    {
+     "title": "Once Upon a Farm Announces Recall and Reformulation of Tractor Wheels™ Due to Potential Choking Hazard",
+     "url": "https://www.businesswire.com/news/home/20261030258031/en/Once-Upon-a-Farm-Announces-Recall-and-Reformulation-of-Tractor-Wheels-Due-to-Potential-Choking-Hazard",
+     "outlet": "Business Wire"
+    },
+    {
+     "title": "Reports of infants choking result in FDA warning about Once Upon a Time snacks",
+     "url": "https://www.foodsafetynews.com/2026/10/reports-of-infants-choking-result-in-fda-warning-about-once-upon-a-time-snacks/",
+     "outlet": "Food Safety News"
+    }
+   ]
+  },
+  {
+   "signal": "google",
+   "title": "basel open",
+   "url": "https://www.google.com/search?q=basel+open",
+   "detail": "100+ searches",
+   "related": [
+    {
+     "title": "Djokovic loses at Federer’s hometown Basel event, stays 1 back of Swiss icon’s career title total",
+     "url": "https://www.nbcsports.com/tennis/news/djokovic-loses-at-federers-hometown-basel-event-stays-1-back-of-swiss-icons-career-title-total",
+     "outlet": "NBC Sports"
+    },
+    {
+     "title": "“It Hurts”: Novak Djokovic Breaks Silence After Basel Loss to Jan-Lennard Struff",
+     "url": "https://www.essentiallysports.com/tennis-news-it-hurts-novak-djokovic-breaks-silence-after-basel-loss-to-jan-lennard-struff/",
+     "outlet": "EssentiallySports"
+    },
+    {
+     "title": "Novak Djokovic’s Basel Loss Complicates ATP Finals Plans While Ben Shelton Falls to World No. 222",
+     "url": "https://www.yardbarker.com/tennis/articles/novak_djokovics_basel_loss_complicates_atp_finals_plans_while_ben_shelton_falls_to_world_no_222/s1_17730_44492401",
+     "outlet": "Yardbarker"
+    }
+   ]
+  },
+  {
+   "signal": "google",
+   "title": "blue ivy carter",
+   "url": "https://www.google.com/search?q=blue+ivy+carter",
+   "detail": "200+ searches",
+   "related": [
+    {
+     "title": "Beyoncé Shares Rare Photos With Blue Ivy Carter Backstage at Jay-Z’s L.A. Concert",
+     "url": "https://www.elle.com/culture/celebrities/a74298264/beyonce-blue-ivy-carter-backstage-photos-jay-z-los-angeles-concert/",
+     "outlet": "ELLE"
+    },
+    {
+     "title": "Beyoncé Is the Proudest Mom Cheering on Lookalike Daughter Blue Ivy, 14, During L.A. Show",
+     "url": "https://www.instyle.com/beyonce-supports-daughter-blue-ivy-14-performance-jay-z-los-angeles-show-12192834",
+     "outlet": "InStyle"
+    },
+    {
+     "title": "Jay-Z Brings His ‘Jay-Z 30’ Concert Series to a Close in Los Angeles With Dr. Dre, Snoop Dogg and Too Short",
+     "url": "https://variety.com/2026/music/news/jay-z-30-closer-dr-dre-snoop-dogg-los-angeles-sofi-stadium-1236930554/",
+     "outlet": "Variety"
+    }
+   ]
+  },
+  {
+   "signal": "google",
+   "title": "mcdonalds pokemon happy meals",
+   "url": "https://www.google.com/search?q=mcdonalds+pokemon+happy+meals",
+   "detail": "200+ searches",
+   "related": [
+    {
+     "title": "Pokémon Happy Meals Are Coming to McDonald’s in an Exciting New Way",
+     "url": "https://www.pokemon.com/us/news/pokemon-happy-meals-are-coming-to-mcdonalds-in-an-exciting-new-way-",
+     "outlet": "Pokemon.com"
+    },
+    {
+     "title": "McDonald’s Is Bringing Back the Iconic Meal Fans Have Waited 8 Long Years For",
+     "url": "https://www.allrecipes.com/mcdonalds-pokemon-happy-meal-12200513",
+     "outlet": "Allrecipes"
+    },
+    {
+     "title": "McDonald's Pokemon TCG Promotion Starts November 10th, Features Mini Happy Meal Box Toys and 15 Cards!",
+     "url": "https://www.pokebeach.com/2026/10/mcdonalds-pokemon-tcg-promotion-starts-november-10th-features-mini-happy-meal-box-toys-and-15-cards",
+     "outlet": "PokeBeach"
+    }
+   ]
+  },
+  {
+   "signal": "google",
+   "title": "donny panapada stamford football resignation",
+   "url": "https://www.google.com/search?q=donny+panapada+stamford+football+resignation",
+   "detail": "200+ searches",
+   "related": [
+    {
+     "title": "Connecticut high school football coach resigns during game after exchanges with players",
+     "url": "https://www.stamfordadvocate.com/gametimect/football/article/stamford-football-donny-panapada-resignation-22495905.php",
+     "outlet": "Stamford Advocate"
+    },
+    {
+     "title": "A high school coach handed in his resignation at halftime of a 42-14 loss",
+     "url": "https://www.footballscoop.com/2026/10/29/a-high-school-coach-handed-in-his-resignation-at-halftime-of-a-42-14-loss",
+     "outlet": "FootballScoop.com"
+    },
+    {
+     "title": "Stamford Football Head Coach Resigns Mid-Game After Incident With Players",
+     "url": "https://patch.com/connecticut/stamford/stamford-football-head-coach-resigns-mid-game-after-incident-players",
+     "outlet": "Patch"
+    }
+   ]
+  },
+  {
+   "signal": "google",
+   "title": "who won the 2020 us presidential election",
+   "url": "https://www.google.com/search?q=who+won+the+2020+us+presidential+election",
+   "detail": "1000+ searches",
+   "related": [
+    {
+     "title": "Why Wouldn’t Google Tell Me Who Won the 2020 Election?",
+     "url": "https://www.theatlantic.com/technology/2026/10/google-search-ai-2020-election-trump/689197/",
+     "outlet": "The Atlantic"
+    },
+    {
+     "title": "Google AI wouldn’t say who won the 2020 election",
+     "url": "https://www.usatoday.com/story/tech/2026/10/29/google-wont-say-who-won-2020-election/92499767007/",
+     "outlet": "USA Today"
+    },
+    {
+     "title": "Google's AI Mode Suddenly Can't Recall Who Won the 2020 Presidential Election",
+     "url": "https://www.pcmag.com/news/googles-ai-mode-suddenly-cant-recall-who-won-the-2020-presidential-election",
+     "outlet": "PCMag"
+    }
+   ]
+  },
+  {
+   "signal": "google",
+   "title": "ihsaa football scores",
+   "url": "https://www.google.com/search?q=ihsaa+football+scores",
+   "detail": "2000+ searches",
+   "related": [
+    {
+     "title": "Indiana high school football sectional scores | Friday, Oct. 30, 2026",
+     "url": "https://www.wthr.com/article/sports/high-school/hs-football/indiana-high-school-ihsaa-operation-football-sectional-scores-friday-october-30-2026/531-fcaa277a-fa9d-48b3-8ecc-91bbc1fad86f",
+     "outlet": "wthr.com"
+    },
+    {
+     "title": "Indiana, Michigan high school football Oct. 30 scores, updates",
+     "url": "https://www.southbendtribune.com/story/sports/high-school/2026/10/30/south-bend-area-ihsaa-mhsaa-football-oct-30-scores-updates-sectionals-districts/92461861007/",
+     "outlet": "South Bend Tribune"
+    },
+    {
+     "title": "IHSAA football Sectional semifinals roundup: Scores, stats, highlights from across Central Indiana",
+     "url": "https://www.indystar.com/story/sports/high-school/2026/10/30/indiana-high-school-football-sectional-semifinals-scores-highlights-stats-photos/92477644007/",
+     "outlet": "IndyStar"
+    }
+   ]
+  },
+  {
+   "signal": "google",
+   "title": "mta",
+   "url": "https://www.google.com/search?q=mta",
+   "detail": "200+ searches",
+   "related": [
+    {
+     "title": "NYPD won't enforce NYC's bus fare while MTA security force is suspended",
+     "url": "https://gothamist.com/news/who-is-enforcing-the-mtas-3-bus-fare-for-the-moment-no-one",
+     "outlet": "Gothamist"
+    },
+    {
+     "title": "Fare evasion: NYC Transit boss says probe of EAGLE agents altercations with riders will soon conclude",
+     "url": "https://www.amny.com/news/fare-evasion-nyc-transit-boss-eagle-agents-probe/",
+     "outlet": "amNewYork"
+    },
+    {
+     "title": "MTA plans to return fare checking teams to NYC buses after review of violent episodes",
+     "url": "https://www.nydailynews.com/2026/10/26/mta-plans-to-return-fare-checking-teams-to-nyc-buses-after-review-of-violent-episodes/",
+     "outlet": "New York Daily News"
+    }
+   ]
+  },
+  {
+   "signal": "wikipedia",
+   "title": "Patrick Stewart",
+   "url": "https://en.wikipedia.org/wiki/Patrick_Stewart",
+   "detail": "1,882,386 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia",
+   "title": "Sunny Ozell",
+   "url": "https://en.wikipedia.org/wiki/Sunny_Ozell",
+   "detail": "488,907 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia",
+   "title": ".xxx",
+   "url": "https://en.wikipedia.org/wiki/.xxx",
+   "detail": "358,084 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia",
+   "title": "Ian McKellen",
+   "url": "https://en.wikipedia.org/wiki/Ian_McKellen",
+   "detail": "213,817 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia",
+   "title": "Wendy Neuss",
+   "url": "https://en.wikipedia.org/wiki/Wendy_Neuss",
+   "detail": "163,945 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia",
+   "title": "Lewy body dementia",
+   "url": "https://en.wikipedia.org/wiki/Lewy_body_dementia",
+   "detail": "160,656 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia",
+   "title": "2026 Israeli legislative election",
+   "url": "https://en.wikipedia.org/wiki/2026_Israeli_legislative_election",
+   "detail": "152,854 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia",
+   "title": "Sebastian Croft",
+   "url": "https://en.wikipedia.org/wiki/Sebastian_Croft",
+   "detail": "152,737 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia",
+   "title": "Deaths in 2026",
+   "url": "https://en.wikipedia.org/wiki/Deaths_in_2026",
+   "detail": "152,362 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia",
+   "title": "Jonestown",
+   "url": "https://en.wikipedia.org/wiki/Jonestown",
+   "detail": "143,302 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia_news",
+   "title": "British actor Patrick Stewart dies at the age of 86 .",
+   "url": "https://en.wikipedia.org/wiki/Patrick_Stewart",
+   "detail": "Wikipedia · In the news",
+   "related": [
+    {
+     "title": "Patrick Stewart",
+     "url": "https://en.wikipedia.org/wiki/Patrick_Stewart",
+     "outlet": "Wikipedia"
+    }
+   ]
+  },
+  {
+   "signal": "wikipedia_news",
+   "title": "In baseball , the Milwaukee Brewers defeat the Tampa Bay Rays to win the World Series .",
+   "url": "https://en.wikipedia.org/wiki/2026_World_Series",
+   "detail": "Wikipedia · In the news",
+   "related": [
+    {
+     "title": "2026 World Series",
+     "url": "https://en.wikipedia.org/wiki/2026_World_Series",
+     "outlet": "Wikipedia"
+    },
+    {
+     "title": "Baseball",
+     "url": "https://en.wikipedia.org/wiki/Baseball",
+     "outlet": "Wikipedia"
+    },
+    {
+     "title": "Milwaukee Brewers",
+     "url": "https://en.wikipedia.org/wiki/Milwaukee_Brewers",
+     "outlet": "Wikipedia"
+    },
+    {
+     "title": "Tampa Bay Rays",
+     "url": "https://en.wikipedia.org/wiki/Tampa_Bay_Rays",
+     "outlet": "Wikipedia"
+    }
+   ]
+  },
+  {
+   "signal": "wikipedia_news",
+   "title": "At least 69 people are killed in a collision between two high-speed trains in Toledo province , Spain.",
+   "url": "https://en.wikipedia.org/wiki/2026_Toledo_train_collision",
+   "detail": "Wikipedia · In the news",
+   "related": [
+    {
+     "title": "2026 Toledo train collision",
+     "url": "https://en.wikipedia.org/wiki/2026_Toledo_train_collision",
+     "outlet": "Wikipedia"
+    },
+    {
+     "title": "Province of Toledo",
+     "url": "https://en.wikipedia.org/wiki/Province_of_Toledo",
+     "outlet": "Wikipedia"
+    }
+   ]
+  },
+  {
+   "signal": "wikipedia_news",
+   "title": "Luiz Inácio Lula da Silva is re-elected President of Brazil .",
+   "url": "https://en.wikipedia.org/wiki/2026_Brazilian_general_election",
+   "detail": "Wikipedia · In the news",
+   "related": [
+    {
+     "title": "2026 Brazilian general election",
+     "url": "https://en.wikipedia.org/wiki/2026_Brazilian_general_election",
+     "outlet": "Wikipedia"
+    },
+    {
+     "title": "Luiz Inácio Lula da Silva",
+     "url": "https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva",
+     "outlet": "Wikipedia"
+    },
+    {
+     "title": "President of Brazil",
+     "url": "https://en.wikipedia.org/wiki/President_of_Brazil",
+     "outlet": "Wikipedia"
+    }
+   ]
+  },
+  {
+   "signal": "wikipedia_news",
+   "title": "In the Serbian parliamentary election , the Student List wins a majority of seats, defeating former president Aleksandar Vučić and his Serbian Progressive Party .",
+   "url": "https://en.wikipedia.org/wiki/2026_Serbian_parliamentary_election",
+   "detail": "Wikipedia · In the news",
+   "related": [
+    {
+     "title": "2026 Serbian parliamentary election",
+     "url": "https://en.wikipedia.org/wiki/2026_Serbian_parliamentary_election",
+     "outlet": "Wikipedia"
+    },
+    {
+     "title": "Student List",
+     "url": "https://en.wikipedia.org/wiki/Student_List",
+     "outlet": "Wikipedia"
+    },
+    {
+     "title": "Aleksandar Vučić",
+     "url": "https://en.wikipedia.org/wiki/Aleksandar_Vu%C4%8Di%C4%87",
+     "outlet": "Wikipedia"
+    },
+    {
+     "title": "Serbian Progressive Party",
+     "url": "https://en.wikipedia.org/wiki/Serbian_Progressive_Party",
+     "outlet": "Wikipedia"
+    }
+   ]
+  },
+  {
+   "signal": "bluesky",
+   "title": "Halloween trick-or-treating traditions",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3823698e8a14",
+   "detail": "6,500 posts",
+   "related": []
+  },
+  {
+   "signal": "bluesky",
+   "title": "Sam Altman's home RAM comments",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5de93eba453e",
+   "detail": "1,943 posts",
+   "related": []
+  },
+  {
+   "signal": "bluesky",
+   "title": "Patrick Stewart dies",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/8a8472fc-55d4-431c-bc2f-ab0122a75665",
+   "detail": "200,948 posts",
+   "related": []
+  },
+  {
+   "signal": "bluesky",
+   "title": "ICE observer tire video",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/044181613706",
+   "detail": "1,920 posts",
+   "related": []
+  },
+  {
+   "signal": "bluesky",
+   "title": "Russian drones hit Ukrainian cities",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/2d0307c454a2",
+   "detail": "2,025 posts",
+   "related": []
+  },
+  {
+   "signal": "bluesky",
+   "title": "Daylight saving time ends Sunday",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/81e1924a345d",
+   "detail": "1,283 posts",
+   "related": []
+  },
+  {
+   "signal": "bluesky",
+   "title": "Apple's iPhone Duo reviews",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cbeceb297eac",
+   "detail": "361 posts",
+   "related": []
+  },
+  {
+   "signal": "bluesky",
+   "title": "Aston Villa to sue Jamie Carragher",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/69749f48da45",
+   "detail": "137 posts",
+   "related": []
+  },
+  {
+   "signal": "bluesky",
+   "title": "Streamers host Halloween live streams",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/5417c6b9b399",
+   "detail": "39,159 posts",
+   "related": []
+  },
+  {
+   "signal": "bluesky",
+   "title": "Oil industry's Iran war profits",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/d19ed9e781cd",
+   "detail": "1,453 posts",
+   "related": []
+  }
+ ],
+ "sources": [
+  {
+   "id": "nyt",
+   "name": "The New York Times",
+   "lean": "lean_left",
+   "paywalled": true
+  },
+  {
+   "id": "wsj",
+   "name": "The Wall Street Journal",
+   "lean": "center",
+   "paywalled": true
+  },
+  {
+   "id": "wapo",
+   "name": "The Washington Post",
+   "lean": "lean_left",
+   "paywalled": true
+  },
+  {
+   "id": "ap",
+   "name": "Associated Press",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "reuters",
+   "name": "Reuters",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "npr",
+   "name": "NPR",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "cnn",
+   "name": "CNN",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "cbs",
+   "name": "CBS News",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "abc",
+   "name": "ABC News",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "nbc",
+   "name": "NBC News",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "pbs",
+   "name": "PBS NewsHour",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "politico",
+   "name": "Politico",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "thehill",
+   "name": "The Hill",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "axios",
+   "name": "Axios",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "newsnation",
+   "name": "NewsNation",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "fox",
+   "name": "Fox News",
+   "lean": "right",
+   "paywalled": false
+  },
+  {
+   "id": "nypost",
+   "name": "New York Post",
+   "lean": "lean_right",
+   "paywalled": false
+  },
+  {
+   "id": "washexaminer",
+   "name": "Washington Examiner",
+   "lean": "lean_right",
+   "paywalled": false
+  },
+  {
+   "id": "washtimes",
+   "name": "The Washington Times",
+   "lean": "lean_right",
+   "paywalled": false
+  },
+  {
+   "id": "nationalreview",
+   "name": "National Review",
+   "lean": "right",
+   "paywalled": false
+  },
+  {
+   "id": "dispatch",
+   "name": "The Dispatch",
+   "lean": "lean_right",
+   "paywalled": true
+  },
+  {
+   "id": "freepress",
+   "name": "The Free Press",
+   "lean": "lean_right",
+   "paywalled": false
+  },
+  {
+   "id": "freebeacon",
+   "name": "Washington Free Beacon",
+   "lean": "right",
+   "paywalled": false
+  },
+  {
+   "id": "dailycaller",
+   "name": "The Daily Caller",
+   "lean": "right",
+   "paywalled": false
+  },
+  {
+   "id": "centersquare",
+   "name": "The Center Square",
+   "lean": "lean_right",
+   "paywalled": false
+  },
+  {
+   "id": "bloomberg",
+   "name": "Bloomberg",
+   "lean": "lean_left",
+   "paywalled": true
+  },
+  {
+   "id": "cnbc",
+   "name": "CNBC",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "marketwatch",
+   "name": "MarketWatch",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "foxbusiness",
+   "name": "Fox Business",
+   "lean": "lean_right",
+   "paywalled": false
+  },
+  {
+   "id": "ft",
+   "name": "Financial Times",
+   "lean": "center",
+   "paywalled": true
+  },
+  {
+   "id": "economist",
+   "name": "The Economist",
+   "lean": "lean_left",
+   "paywalled": true
+  },
+  {
+   "id": "telegraph",
+   "name": "The Telegraph",
+   "lean": "lean_right",
+   "paywalled": true
+  },
+  {
+   "id": "bbc",
+   "name": "BBC News",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "guardian",
+   "name": "The Guardian",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "dw",
+   "name": "Deutsche Welle",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "france24",
+   "name": "France 24",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "nikkei",
+   "name": "Nikkei Asia",
+   "lean": "center",
+   "paywalled": true
+  },
+  {
+   "id": "scmp",
+   "name": "South China Morning Post",
+   "lean": "center",
+   "paywalled": true
+  },
+  {
+   "id": "japantimes",
+   "name": "The Japan Times",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "thehindu",
+   "name": "The Hindu",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "timesofisrael",
+   "name": "The Times of Israel",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "kyivindependent",
+   "name": "The Kyiv Independent",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "dailymaverick",
+   "name": "Daily Maverick",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "allafrica",
+   "name": "AllAfrica",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "gothamist",
+   "name": "Gothamist",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "thecity",
+   "name": "THE CITY",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "cityandstate",
+   "name": "City & State NY",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "nydailynews",
+   "name": "New York Daily News",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "amny",
+   "name": "amNY",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "brooklynpaper",
+   "name": "Brooklyn Paper",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "nysun",
+   "name": "The New York Sun",
+   "lean": "right",
+   "paywalled": false
+  }
+ ],
+ "stats": {
+  "outlets": 51,
+  "articles": 2009,
+  "clusters": 197,
+  "failed_fetches": 3,
+  "stories": 23,
+  "facts": 89,
+  "corroborated_facts": 27
+ },
+ "usage": {
+  "total_tokens": 2224706,
+  "cost_usd": 1.83,
+  "parts": [
+   {
+    "label": "session",
+    "since": "2026-10-31T10:37:38.356Z",
+    "until": "2026-10-31T10:41:02.980Z",
+    "total_tokens": 2224706,
+    "cost_usd": 1.83,
+    "models": [
+     {
+      "model": "claude-sonnet-5-5",
+      "requests": 35,
+      "tokens": {
+       "input": 72,
+       "cache_write_5m": 322024,
+       "cache_write_1h": 32663,
+       "cache_read": 1827306,
+       "output": 42641,
+       "web_searches": 10
+      },
+      "cost_usd": 1.8277
+     }
+    ]
+   }
+  ]
+ }
+}
