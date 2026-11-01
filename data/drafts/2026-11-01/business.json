@@ -1,0 +1,120 @@
+{
+  "stories": [
+    {
+      "id": "binance-hack",
+      "headline": "Binance loses about $6 billion in crypto theft, says it will cover losses",
+      "region": "Crypto",
+      "importance": 5,
+      "summary": "Hackers took roughly $6 billion to $6.3 billion in digital assets from Binance, the world's largest crypto exchange, in what outlets describe as the biggest crypto heist on record. Binance halted withdrawals and said it is working to recover funds and will cover the losses. Some analysts point to North Korea.",
+      "why_it_matters": "People who hold crypto on exchanges are exposed to the exchange's security and solvency. A loss this size at the largest platform is likely to shake confidence in the sector and crypto prices.",
+      "background": "Binance is the largest cryptocurrency exchange by trading volume and holds customer assets on its platform. Exchanges are frequent hacking targets, and North Korea-linked groups have been blamed for earlier large thefts. Binance has previously used an emergency fund to repay users after smaller incidents. This theft is reported to be far larger than earlier record heists. Binance's founder posted updates publicly while the company worked to respond.",
+      "facts": [
+        { "text": "Binance halted withdrawals after hackers took about $6 billion in assets, PBS NewsHour reported.", "refs": ["605d7b3bc9"] },
+        { "text": "France 24 reported the figure as $6.3 billion and said analysts point to North Korea.", "refs": ["aaf353726c"] },
+        { "text": "Binance said it will cover the losses, according to The New York Times.", "refs": ["574fc969e1"] },
+        { "text": "NPR also put the theft at $6.3 billion and linked it to North Korea in its explainer.", "refs": ["5ba806be5a"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Size of the theft",
+          "positions": [
+            { "claim": "About $6 billion in assets.", "refs": ["605d7b3bc9", "574fc969e1"] },
+            { "claim": "$6.3 billion.", "refs": ["aaf353726c", "5ba806be5a"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "605d7b3bc9", "note": "Headline stresses investors being on edge." },
+        { "ref": "aaf353726c", "note": "Headline stresses the dollar figure and a possible North Korea link." },
+        { "ref": "501269b999", "note": "Focuses on the company's frantic first 24 hours and the founder's live posts." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "605d7b3bc9", "takeaway": "Market-impact angle with the halt in withdrawals.", "read_full": false },
+        { "ref": "aaf353726c", "takeaway": "Short wire-style report with the $6.3 billion figure and North Korea attribution.", "read_full": false },
+        { "ref": "5ba806be5a", "takeaway": "Explainer on how it happened and what it means for the sector.", "read_full": false },
+        { "ref": "501269b999", "takeaway": "Paywalled inside account of the response; digest summary only.", "read_full": false },
+        { "ref": "574fc969e1", "takeaway": "Paywalled what-to-know piece; digest summary only.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "opec-plus-december",
+      "headline": "OPEC+ set to keep December oil output targets unchanged",
+      "region": "Energy",
+      "importance": 4,
+      "summary": "Reuters and Bloomberg, citing sources and delegates, report that major OPEC+ producers will keep oil production targets steady in December. Bloomberg said the Middle East conflict continues to curb part of the group's output. No official statement was found at the time of writing.",
+      "why_it_matters": "Steady quotas mean no new supply from the group, which matters for fuel prices at the pump while the Iran war disrupts Gulf production.",
+      "background": "OPEC+ is the alliance of OPEC members and allies led by Saudi Arabia and Russia that sets oil output targets. It finished unwinding a large batch of earlier supply cuts in September and has held targets since. The war involving Iran has pushed some Gulf producers below their quotas. The group is also reviewing members' capacity ahead of setting 2027 baselines, per reports.",
+      "facts": [
+        { "text": "OPEC+ agreed in principle to keep December oil output targets steady, Reuters reported citing sources.", "refs": ["f85e586717", "8b5ae8e5fc"] },
+        { "text": "Two delegates told Bloomberg the group is set to stick with unchanged quotas, with Middle East conflict curbing part of its output.", "refs": ["96dbdff06d"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f85e586717", "note": "Reuters frames it as an agreement in principle." },
+        { "ref": "96dbdff06d", "note": "Bloomberg adds the war's effect on actual output." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f85e586717", "takeaway": "Wire report from Saturday, headline only in digest.", "read_full": false },
+        { "ref": "8b5ae8e5fc", "takeaway": "Reuters update on Sunday, headline only in digest.", "read_full": false },
+        { "ref": "96dbdff06d", "takeaway": "Paywalled; summary notes conflict curbing output.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "oil-profits-refining",
+      "headline": "Oil companies report another quarter of high profits as war lifts fuel prices",
+      "region": "Earnings",
+      "importance": 3,
+      "summary": "NPR and CNBC report that oil companies posted strong quarterly earnings, with refining profits rising as fuel supplies tightened during the Iran war. CNBC notes this follows President Trump's criticism that the companies made too much money. The Financial Times reports the major companies are resisting pressure to build new refineries.",
+      "why_it_matters": "High refining margins feed into gasoline and diesel prices that drivers and businesses pay.",
+      "background": "The war involving Iran has pushed up oil prices and disrupted fuel supply. Conflicts in the Middle East and Ukraine have also cut refining capacity, according to the FT. Refiners earn the margin between crude and the fuel they sell, so tight supply raises that margin. Politicians in both parties have criticized industry profits.",
+      "facts": [
+        { "text": "NPR reported oil companies posted another quarter of very high profits as the Iran war lifted oil and pump prices.", "refs": ["10e9dc9d6d"] },
+        { "text": "CNBC reported refining earnings of oil majors have surged since Trump said they made too much money.", "refs": ["31206c4f66"] },
+        { "text": "The Financial Times reported oil majors are resisting pressure to invest in new refineries even as fuel prices rise.", "refs": ["54a96fefdb"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "31206c4f66", "note": "Ties the profits to the president's criticism." },
+        { "ref": "10e9dc9d6d", "note": "Emphasizes the link to pump prices for consumers." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "31206c4f66", "takeaway": "Data-focused look at refining earnings.", "read_full": false },
+        { "ref": "10e9dc9d6d", "takeaway": "Consumer-price angle on the earnings.", "read_full": false },
+        { "ref": "54a96fefdb", "takeaway": "Paywalled; summary on refinery investment resistance.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ai-trade-payoff-risk",
+      "headline": "AI spending shows some earnings payoff as investors weigh risks",
+      "region": "Markets",
+      "importance": 3,
+      "summary": "CNBC reports companies such as Santander and Novartis say AI is starting to raise revenue, cut costs or improve profits. The Wall Street Journal reports investors are seeking insurance against a fall in AI-related stocks. Bloomberg's weekend show title noted tech stocks fell ahead of the midterm elections.",
+      "why_it_matters": "Much of the stock market, including many retirement funds, is tied to AI-linked companies, so changes in confidence can move savings.",
+      "background": "Companies and investors have committed very large sums to artificial intelligence. Investors want evidence it produces returns. Some large AI deals involve vendors financing their own customers, which can amplify moves in both directions. The US midterm elections add policy uncertainty.",
+      "facts": [
+        { "text": "CNBC reported companies including Santander and Novartis say AI is beginning to boost revenue, cut costs or improve profitability.", "refs": ["7caf3d4d57"] },
+        { "text": "The Wall Street Journal reported investors, traders and tech executives are seeking protection against losses in the AI trade.", "refs": ["8b985286dd"] },
+        { "text": "Bloomberg said Asia's AI-heavy stock markets face a policy wildcard from the US midterm elections.", "refs": ["e8d7936bd2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "7caf3d4d57", "note": "Emphasizes early payoff from AI." },
+        { "ref": "8b985286dd", "note": "Emphasizes the scale of the bet and hedging against it." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "7caf3d4d57", "takeaway": "Earnings examples of AI gains.", "read_full": false },
+        { "ref": "8b985286dd", "takeaway": "Paywalled; summary on insurance demand.", "read_full": false },
+        { "ref": "e8d7936bd2", "takeaway": "Paywalled; summary on midterm risk for Asian tech stocks.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": []
+}

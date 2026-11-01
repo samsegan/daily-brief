@@ -1,0 +1,119 @@
+{
+  "stories": [
+    {
+      "id": "bronx-ebike-fire",
+      "headline": "Four dead after e-bike battery fire in a Bronx apartment",
+      "region": "Bronx",
+      "importance": 5,
+      "summary": "A fire that started with an e-bike battery inside a Mott Haven apartment on Wednesday has now killed four people, including a boy and two teenagers, according to the NYPD. The FDNY says e-bike fires have risen sharply across the city. The family's neighbors are mourning while officials point to the rise in battery fires.",
+      "why_it_matters": "Lithium-ion e-bike batteries charged or stored indoors, and bikes left near an exit, are a danger to anyone living in a city apartment building.",
+      "background": "Lithium-ion batteries power most e-bikes and scooters, and they can ignite quickly if damaged or overheated. The FDNY has tracked a rise in battery fires in recent years. This fire broke out early on Wednesday, Oct. 28, in a Patterson Houses apartment in Mott Haven, a public housing complex in the Bronx. Mayor Zohran Mamdani said officials had identified an e-bike battery as the cause, and Fire Commissioner Lillian Bonsignore said the bike was in the pathway of the exit door.",
+      "facts": [
+        { "text": "Two teenage boys, aged 16 and 15, and a 33-year-old woman have died along with Zion Maine, the NYPD said, bringing the toll to four.", "refs": ["02f1764d41", "fdbc4c6103"] },
+        { "text": "The New York Times reports that the family's apartment fire began with an electric-bike battery on Wednesday.", "refs": ["29f120614d"] },
+        { "text": "The FDNY says e-bike fires have risen sharply across New York City.", "refs": ["fdbc4c6103"] },
+        { "text": "Fire Commissioner Lillian Bonsignore said crews arrived within four minutes and that the e-bike was in the pathway of the exit door; Mayor Mamdani said the cause was an e-bike lithium-ion battery.", "refs": ["nyc-w1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "fdbc4c6103", "note": "Pairs the family's grief with the citywide rise in e-bike fires, framing the story as a trend." },
+        { "ref": "02f1764d41", "note": "Leads with the rising death toll and a vigil at Patterson Houses." },
+        { "ref": "29f120614d", "note": "Focuses on neighbors mourning the family." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "fdbc4c6103", "takeaway": "Summary only: ties the fire to a citywide jump in e-bike fires per the FDNY.", "read_full": false },
+        { "ref": "29f120614d", "takeaway": "Headline and summary only (paywalled): neighbors mourn the family.", "read_full": false },
+        { "ref": "02f1764d41", "takeaway": "Summary only: names the four victims' ages and the vigil.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "racial-equity-commission-tigani",
+      "headline": "Mamdani moves to replace head of Racial Equity Commission",
+      "region": "City Hall",
+      "importance": 4,
+      "summary": "Mayor Zohran Mamdani sought to remove Linda Tigani as head of the city's Racial Equity Commission after she clashed with his administration, the New York Times reports. Reports say Tigani will stay on for now, and Council members have backed her. The dispute has led some to question the mayor's commitment to reparations.",
+      "why_it_matters": "The commission is the city body charged with studying racial disparities, including the question of reparations, so who leads it shapes what the city studies and recommends.",
+      "background": "The Commission on Racial Equity, known as CORE, was created under the City Charter to push the city to address racial disparities. Mamdani, who took office this year, has said he is open to reparations if the commission recommends them. Tigani had criticized a draft racial equity plan, saying it lacked elements the Charter requires. City & State reports Mamdani named NAACP New York leader Christopher Alexander as the new chair. Changing the chair needs approval from the mayor and Council Speaker Julie Menin.",
+      "facts": [
+        { "text": "Mayor Mamdani sought to remove the head of the Racial Equity Commission, and some have raised questions about his commitment to reparations, the New York Times reports.", "refs": ["01fd682044"] },
+        { "text": "City & State reported that City Council members backed Linda Tigani amid Mamdani's plans to replace her.", "refs": ["nyc-w2"] },
+        { "text": "TheGrio reported Mamdani picked NAACP New York leader Christopher Alexander to chair the commission.", "refs": ["nyc-w3"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "01fd682044", "note": "Frames the removal as a test of the mayor's reparations commitment." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "01fd682044", "takeaway": "Headline and summary only (paywalled): Tigani is on the way out after clashing with the mayor.", "read_full": false }
+      ],
+      "social": "A petition circulated online urging that Tigani be kept as chair and executive director."
+    },
+    {
+      "id": "community-safety-office-hearing",
+      "headline": "Council presses Mamdani's Office of Community Safety on what it does",
+      "region": "City Hall",
+      "importance": 3,
+      "summary": "At a Friday oversight hearing, City Council members questioned what Mayor Mamdani's Office of Community Safety has done in the seven months since he created it. Members asked what it does beyond expanding programs the city already ran, per amNY.",
+      "why_it_matters": "The office is central to the mayor's public safety plan, so its results affect how the city responds to crime and crises.",
+      "background": "Mamdani created the Office of Community Safety shortly after taking office as part of his approach to public safety. The Council's Public Safety Committee holds oversight hearings on city agencies and programs. Members at the hearing sought to separate new work from programs the city already had.",
+      "facts": [
+        { "text": "Council members spent part of Friday's oversight hearing trying to establish what the office does beyond expanding existing programs, amNY reported.", "refs": ["3a2d1186ca"] },
+        { "text": "The office was created seven months ago.", "refs": ["3a2d1186ca"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3a2d1186ca", "takeaway": "Summary only: hearing focused on what is actually new.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "bronx-teen-ambush-funeral",
+      "headline": "Mourners gather for 15-year-old immigrant killed in Bronx ambush",
+      "region": "Bronx",
+      "importance": 3,
+      "summary": "The father of a 15-year-old immigrant killed in a Bronx ambush wept as mourners said the country had failed the teen, the Daily News reports. Only the Daily News is in the feed on this story.",
+      "why_it_matters": "Only left-leaning local coverage appears in today's feed, so details of the case and any police response are not covered here. Teen violence in the Bronx is a safety concern for families in the borough.",
+      "background": "The digest gives only the headline of the Daily News report. It describes a 15-year-old immigrant killed in an ambush in the Bronx, with a funeral drawing mourners.",
+      "facts": [
+        { "text": "The father of a 15-year-old immigrant killed in a Bronx ambush sobbed as mourners said the U.S. had failed the teen, according to the New York Daily News.", "refs": ["5aa9bbeb19"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "5aa9bbeb19", "takeaway": "Headline only: centers the family's grief and mourners' criticism.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "attorney-general-race-james",
+      "headline": "Trump looms over New York attorney general's race",
+      "region": "State",
+      "importance": 3,
+      "summary": "Attorney General Letitia James, who has taken legal action against President Trump, is seeking a third term, Gothamist reports. The race is shaped by her record of litigation against him.",
+      "why_it_matters": "The attorney general enforces consumer, housing and civil rights law in New York, so the winner sets priorities that touch New Yorkers directly.",
+      "background": "James brought a civil fraud case against Donald Trump that went to trial in New York Supreme Court. She is running for a third term this year. Gothamist describes her as a legal thorn in the president's side.",
+      "facts": [
+        { "text": "Letitia James is seeking a third term as New York attorney general, Gothamist reports.", "refs": ["1900c1ce1a"] },
+        { "text": "James attended the civil fraud trial of Donald Trump in New York Supreme Court in 2024.", "refs": ["1900c1ce1a"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "1900c1ce1a", "takeaway": "Summary only: casts the race around James's conflict with Trump.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "nyc-w1", "url": "https://ny1.com/nyc/all-boroughs/news/2026/10/28/bronx-lithium-ion-battery-fire-kills-a-young-boy-and-critically-injures-four-family-members", "title": "Bronx lithium-ion battery fire kills a young boy and critically injures four family members", "outlet": "NY1" },
+    { "id": "nyc-w2", "url": "https://www.cityandstateny.com/politics/2026/10/nyc-council-members-back-linda-tigani-amid-mamdani-plans-replace-her/416898/", "title": "NYC Council members back Linda Tigani amid Mamdani plans to replace her", "outlet": "City & State" },
+    { "id": "nyc-w3", "url": "https://thegrio.com/2026/10/28/exclusive-mamdani-taps-naacp-leader-racial-equity-commission/", "title": "Mamdani taps NAACP New York leader to chair NYC racial equity commission", "outlet": "theGrio" }
+  ]
+}

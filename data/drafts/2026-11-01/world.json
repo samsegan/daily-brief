@@ -1,0 +1,674 @@
+{
+  "stories": [
+    {
+      "id": "binance-hack-north-korea",
+      "headline": "FBI blames North Korea for record $6.3 billion Binance hack",
+      "region": "Global",
+      "importance": 5,
+      "summary": "The FBI said on Saturday that North Korea-linked hackers were behind this week's theft from the crypto exchange Binance, reported as about $6.3 billion. Binance said it has replaced most of the lost funds and began resuming withdrawals on Sunday. Exchanges are reported to be tightening security.",
+      "why_it_matters": "Customers of crypto exchanges are exposed to the security of those platforms, and a theft of this size raises questions about how safe held assets are. State-linked theft also funds sanctioned governments.",
+      "background": "Binance is the world's largest cryptocurrency exchange. The FBI tied the theft to \"malicious cyber activity\" by a group it calls TraderTraitor, which it also linked to last year's $1.5 billion Bybit hack. North Korea has been repeatedly accused of stealing crypto to fund its government. Binance suspended withdrawals after the attack and has pledged to reimburse customers in full.",
+      "facts": [
+        {
+          "text": "The FBI said the attack was tied to North Korean activity by a group known as TraderTraitor.",
+          "refs": [
+            "1c70fcd9c8",
+            "49fc6e1403"
+          ]
+        },
+        {
+          "text": "The stolen amount was reported as about $6.3 billion, described as the largest crypto theft on record.",
+          "refs": [
+            "49fc6e1403",
+            "c3ca0d3995",
+            "5a936712c1"
+          ]
+        },
+        {
+          "text": "Binance said it would resume withdrawals on Sunday.",
+          "refs": [
+            "5a936712c1",
+            "49fc6e1403"
+          ]
+        },
+        {
+          "text": "TraderTraitor is the same group the FBI blamed for a $1.5 billion Bybit hack last year.",
+          "refs": [
+            "1c70fcd9c8"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "How much of the loss Binance has covered",
+          "positions": [
+            {
+              "claim": "About 90% has been replaced, per Binance as reported by The Guardian and the Japan Times.",
+              "refs": [
+                "49fc6e1403",
+                "65806048aa"
+              ]
+            },
+            {
+              "claim": "95% of the stolen tokens covered, per France 24.",
+              "refs": [
+                "5a936712c1"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "65806048aa",
+          "note": "Leads with Binance's reimbursement progress."
+        },
+        {
+          "ref": "c3ca0d3995",
+          "note": "Frames it around exchanges tightening security."
+        },
+        {
+          "ref": "99e140d5cb",
+          "note": "Leads with the attribution to North Korea."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "65806048aa",
+          "takeaway": "Short wire-style report stressing the 90% coverage and reimbursement pledge.",
+          "read_full": false
+        },
+        {
+          "ref": "49fc6e1403",
+          "takeaway": "Detailed; names TraderTraitor and the withdrawal resumption.",
+          "read_full": false
+        },
+        {
+          "ref": "5a936712c1",
+          "takeaway": "Reports withdrawals resuming and a 95% coverage figure.",
+          "read_full": false
+        },
+        {
+          "ref": "1c70fcd9c8",
+          "takeaway": "Notes the Bybit link.",
+          "read_full": false
+        },
+        {
+          "ref": "c3ca0d3995",
+          "takeaway": "Headline and summary only (paywalled): industry security response.",
+          "read_full": false
+        },
+        {
+          "ref": "99e140d5cb",
+          "takeaway": "Headline only: attribution to North Korea.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "europe-youth-protests",
+      "headline": "Youth-led cost-of-living protests continue in France and spread to Germany",
+      "region": "Europe",
+      "importance": 5,
+      "summary": "Hundreds of thousands marched across France on Saturday for a third straight weekend over living costs and school conditions, with clashes and arrests in some cities after dark. Similar youth-led rallies took place in Germany, where police used water cannon and looting was reported in Frankfurt. A German group behind the marches has called for more protests.",
+      "why_it_matters": "The protests reflect pressure on household budgets and public services across Europe and could shape policy and security measures in major economies.",
+      "background": "Protests in France over living costs and conditions in schools have run for three weekends, led mostly by young people. They have inspired demonstrations in Portugal, Italy and Germany. In Germany a youth initiative called \"GenZ regelt!\" (roughly \"Gen Z has got this\") organised marches demanding more education funding. French Interior Minister Laurent Nunez had warned of a high risk of disorder over Halloween.",
+      "facts": [
+        {
+          "text": "The French interior ministry estimated about 320,000 protesters; organisers counted nearly half a million.",
+          "refs": [
+            "a9231df1b6"
+          ]
+        },
+        {
+          "text": "About 70,000 police and gendarmes were deployed in France.",
+          "refs": [
+            "152607048b",
+            "4d615b18f2"
+          ]
+        },
+        {
+          "text": "Clashes occurred in Paris, Marseille and other cities after largely peaceful marches.",
+          "refs": [
+            "bff7a6f829",
+            "3ef1a8112a"
+          ]
+        },
+        {
+          "text": "In Germany, tens of thousands marched; police and protesters clashed and looting was reported in Frankfurt.",
+          "refs": [
+            "ee38011e73",
+            "1854b82cf8",
+            "de77300dcc"
+          ]
+        },
+        {
+          "text": "The German group behind the marches has called for more protests.",
+          "refs": [
+            "b84f435150"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Number of arrests in France",
+          "positions": [
+            {
+              "claim": "More than 290 arrests, per Deutsche Welle.",
+              "refs": [
+                "039cd73c94"
+              ]
+            },
+            {
+              "claim": "More than 500 arrests, per the Japan Times.",
+              "refs": [
+                "dff8b6969b"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "a9231df1b6",
+          "note": "Emphasises that most demonstrations were peaceful."
+        },
+        {
+          "ref": "dff8b6969b",
+          "note": "Emphasises arrests, water cannon and tear gas."
+        },
+        {
+          "ref": "8a0ab9f080",
+          "note": "Leads with looting in Germany."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "a9231df1b6",
+          "takeaway": "Gives interior ministry and organiser turnout figures.",
+          "read_full": false
+        },
+        {
+          "ref": "039cd73c94",
+          "takeaway": "Leads with arrests and violence.",
+          "read_full": false
+        },
+        {
+          "ref": "dff8b6969b",
+          "takeaway": "Short; cites 500+ arrests.",
+          "read_full": false
+        },
+        {
+          "ref": "bff7a6f829",
+          "takeaway": "Covers clashes in France and tear gas in Germany.",
+          "read_full": false
+        },
+        {
+          "ref": "1854b82cf8",
+          "takeaway": "Describes German protests as largely peaceful until evening.",
+          "read_full": false
+        },
+        {
+          "ref": "de77300dcc",
+          "takeaway": "Focuses on looting in Germany.",
+          "read_full": false
+        },
+        {
+          "ref": "0877c77241",
+          "takeaway": "Wider look at spread across Europe.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iran-khamenei-warning",
+      "headline": "Iran's supreme leader warns US and Israel against new attacks",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "Mojtaba Khamenei ordered military commanders to answer any new attack with an immediate response without geographic limits, according to a statement reported Saturday. The warning followed threats from Trump and Netanyahu, and Trump has suggested action could come after US midterm elections. Secretary of State Marco Rubio said the US has not decided on new strikes.",
+      "why_it_matters": "Renewed fighting could affect regional security and oil prices, and raises risk for US forces and allies in the Middle East.",
+      "background": "Mojtaba Khamenei is Iran's supreme leader. Outlets describe a pause in fighting between Iran and the US and Israel, with threats from Iran's foes of a possible resumption of strikes. US midterm elections take place on Nov. 3.",
+      "facts": [
+        {
+          "text": "Khamenei told Iran's top commanders that any threat must be met with an immediate response without geographic limits.",
+          "refs": [
+            "ef8fa8038a",
+            "498f13a6c3"
+          ]
+        },
+        {
+          "text": "Trump suggested he could launch fresh military action after the midterms.",
+          "refs": [
+            "61ba7b0d65",
+            "a3ebbd4df3"
+          ]
+        },
+        {
+          "text": "Rubio said the US has yet to decide on new Iran strikes.",
+          "refs": [
+            "a0bd71a0ee"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "a3ebbd4df3",
+          "note": "Ties the warning to reported US plans after midterms."
+        },
+        {
+          "ref": "498f13a6c3",
+          "note": "Quotes the order to commanders."
+        },
+        {
+          "ref": "a473ebc3fd",
+          "note": "Brief wire item in a Mideast roundup."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "ef8fa8038a",
+          "takeaway": "Details Khamenei's \"maximum deterrence\" order.",
+          "read_full": false
+        },
+        {
+          "ref": "a3ebbd4df3",
+          "takeaway": "Links the warning to the US election timeline.",
+          "read_full": false
+        },
+        {
+          "ref": "5d1ffac444",
+          "takeaway": "Notes threats from Trump and Netanyahu and Rubio's comments.",
+          "read_full": false
+        },
+        {
+          "ref": "a0bd71a0ee",
+          "takeaway": "Reports Rubio's no-decision remark.",
+          "read_full": false
+        },
+        {
+          "ref": "61ba7b0d65",
+          "takeaway": "Notes Trump's midterm timing remark.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "drc-ebola-5000",
+      "headline": "Ebola deaths in DR Congo pass 5,000",
+      "region": "Africa",
+      "importance": 4,
+      "summary": "Congo's health ministry data show Ebola has killed more than 5,000 people out of over 10,000 recorded cases, making it the country's deadliest outbreak. Cases have also been recorded in other African countries. There are fears of wider spread across the continent.",
+      "why_it_matters": "A nearly 50% fatality rate and cross-border cases raise the risk of travel restrictions and strain on regional health systems.",
+      "background": "Ebola is a severe viral disease spread through contact with bodily fluids. Congo has faced several outbreaks, and this one has grown for months.",
+      "facts": [
+        {
+          "text": "The health ministry reported 5,026 deaths among 10,351 infections.",
+          "refs": [
+            "140f1fccca",
+            "3d21f51d37"
+          ]
+        },
+        {
+          "text": "Cases have been recorded in other African countries.",
+          "refs": [
+            "ace0661c39",
+            "ca3ed219ef"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "3d21f51d37",
+          "note": "Frames it as the deadliest outbreak in Congo."
+        },
+        {
+          "ref": "ca3ed219ef",
+          "note": "Emphasises fear of continent-wide spread."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "140f1fccca",
+          "takeaway": "Gives the ministry figures and fatality rate.",
+          "read_full": false
+        },
+        {
+          "ref": "3d21f51d37",
+          "takeaway": "Notes more than 10,000 infections.",
+          "read_full": false
+        },
+        {
+          "ref": "ace0661c39",
+          "takeaway": "Headline and summary only (paywalled): other nations affected.",
+          "read_full": false
+        },
+        {
+          "ref": "ca3ed219ef",
+          "takeaway": "Headline only (paywalled): continental spread fears.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "india-opposition-rally",
+      "headline": "Indian opposition rallies in Delhi demanding election chief resign",
+      "region": "Asia-Pacific",
+      "importance": 4,
+      "summary": "Thousands joined an opposition protest in New Delhi led by Congress chief Rahul Gandhi, demanding the resignation of India's chief election commissioner over a revision of voter lists. Security was tightened around the site. It is the latest of more than a month of opposition protests against the Modi government.",
+      "why_it_matters": "The dispute over who is on the voter rolls bears on the credibility of elections in the world's most populous democracy; critics fear millions could lose their vote.",
+      "background": "India's election authority has been revising electoral rolls. Opposition parties say the exercise could remove about 130 million voters, according to the BBC. Rahul Gandhi leads the Congress party, the main opposition. A youth movement known as the \"Cockroach\" movement backed the rally.",
+      "facts": [
+        {
+          "text": "Thousands attended the Sunday rally in Delhi amid heavy security.",
+          "refs": [
+            "bc7022d101",
+            "f3c4d7066a"
+          ]
+        },
+        {
+          "text": "Protesters want the election chief to resign over the voter list revision.",
+          "refs": [
+            "85ca510a67",
+            "8fa2de3423"
+          ]
+        },
+        {
+          "text": "The BBC reported the revision is feared to leave 130 million voters off the rolls.",
+          "refs": [
+            "8fa2de3423"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "35cecf2e13",
+          "note": "Opens with security forces surrounding the protest site; organisers expected hundreds of thousands."
+        },
+        {
+          "ref": "85ca510a67",
+          "note": "Places it within a month of protests against Modi."
+        },
+        {
+          "ref": "bc7022d101",
+          "note": "Highlights the youth movement's backing."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "f3c4d7066a",
+          "takeaway": "Short report on thousands joining.",
+          "read_full": false
+        },
+        {
+          "ref": "35cecf2e13",
+          "takeaway": "Preview of security and expected turnout.",
+          "read_full": false
+        },
+        {
+          "ref": "bc7022d101",
+          "takeaway": "Notes Rahul Gandhi and youth backing.",
+          "read_full": false
+        },
+        {
+          "ref": "8fa2de3423",
+          "takeaway": "Gives the 130 million figure.",
+          "read_full": false
+        },
+        {
+          "ref": "85ca510a67",
+          "takeaway": "Headline and summary only (paywalled): context of month-long protests.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "poland-constitutional-tribunal",
+      "headline": "Poland's court dispute escalates after tribunal president suspended",
+      "region": "Europe",
+      "importance": 3,
+      "summary": "Judges backed by the government suspended the head of Poland's Constitutional Tribunal, prompting protests and a riot-police deployment. Prime Minister Donald Tusk said he will not back down on overhauling the court; the president accuses him of a takeover.",
+      "why_it_matters": "The standoff over rule of law affects Poland's standing with EU partners and the legal certainty of its laws.",
+      "background": "Poland's pro-European government and its nationalist president have refused to recognise each other's appointees to the Constitutional Tribunal for years, leaving it largely paralysed. Tusk says the overhaul is needed to restore the court.",
+      "facts": [
+        {
+          "text": "Government-backed judges suspended the tribunal's president.",
+          "refs": [
+            "ede3ae9d57",
+            "cb55060263"
+          ]
+        },
+        {
+          "text": "Tusk vowed to press on, saying some matters allow no compromise.",
+          "refs": [
+            "f086fc4a52",
+            "2a547e09c0"
+          ]
+        },
+        {
+          "text": "The president accused Tusk of a forced takeover of the court.",
+          "refs": [
+            "79cd1c0185"
+          ]
+        },
+        {
+          "text": "Police detained three protesters overnight.",
+          "refs": [
+            "cb55060263"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Nature of the suspension",
+          "positions": [
+            {
+              "claim": "A needed shake-up to restore a crippled court, per Tusk.",
+              "refs": [
+                "f086fc4a52"
+              ]
+            },
+            {
+              "claim": "A forced takeover, per the president; an institutional coup, per opposition.",
+              "refs": [
+                "79cd1c0185",
+                "2a547e09c0"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "ede3ae9d57",
+          "note": "Leads with riot police and standoff."
+        },
+        {
+          "ref": "f086fc4a52",
+          "note": "Gives Tusk's justification."
+        },
+        {
+          "ref": "c5bd1f86a3",
+          "note": "Leads with the takeover accusation."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "ede3ae9d57",
+          "takeaway": "Headline and summary only (paywalled): riot police.",
+          "read_full": false
+        },
+        {
+          "ref": "f086fc4a52",
+          "takeaway": "Tusk's defense of the overhaul.",
+          "read_full": false
+        },
+        {
+          "ref": "79cd1c0185",
+          "takeaway": "President's accusation and paralysis background.",
+          "read_full": false
+        },
+        {
+          "ref": "cb55060263",
+          "takeaway": "Protests and detentions.",
+          "read_full": false
+        },
+        {
+          "ref": "c5bd1f86a3",
+          "takeaway": "Headline only (paywalled): takeover accusation.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "oleshky-evacuation",
+      "headline": "Residents evacuated from Russian-occupied Oleshky during rare truce",
+      "region": "Europe",
+      "importance": 3,
+      "summary": "Evacuees from occupied Oleshky reached Ukrainian-held territory on Saturday after a 19-hour journey through Belarus during a localized ceasefire. Outlets report the truce was brokered with the involvement of US first lady Melania Trump. Those who chose to stay were reportedly given emergency supplies.",
+      "why_it_matters": "It is a rare humanitarian arrangement in the war, relevant to civilians still trapped in occupied areas.",
+      "background": "Oleshky in southern Ukraine has been under Russian occupation since 2022 and, per reports, faced a worsening humanitarian crisis with limited food and electricity. The evacuation required a temporary ceasefire and passage through Russia and Belarus.",
+      "facts": [
+        {
+          "text": "Evacuees crossed into Ukrainian-held territory on Oct. 31 after a 19-hour journey.",
+          "refs": [
+            "5660e4a94c",
+            "d4ccf45294"
+          ]
+        },
+        {
+          "text": "The localized truce was reported as brokered by Melania Trump.",
+          "refs": [
+            "cd33b212ff",
+            "edc679757d"
+          ]
+        },
+        {
+          "text": "Residents were reunited with families in northern Ukraine near the Belarus border.",
+          "refs": [
+            "896568e9ef"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "5660e4a94c",
+          "note": "Personal, emotional account from evacuees."
+        },
+        {
+          "ref": "cd33b212ff",
+          "note": "Leads with the US-brokered deal."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "d4ccf45294",
+          "takeaway": "Describes the rescue operation.",
+          "read_full": false
+        },
+        {
+          "ref": "5660e4a94c",
+          "takeaway": "Evacuee-focused account.",
+          "read_full": false
+        },
+        {
+          "ref": "cd33b212ff",
+          "takeaway": "Route and mediation.",
+          "read_full": false
+        },
+        {
+          "ref": "896568e9ef",
+          "takeaway": "Video report on reunions.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "uk-slavery-apology",
+      "headline": "UK PM open to slave trade apology but rules out reparations",
+      "region": "Europe",
+      "importance": 3,
+      "summary": "Prime Minister Andy Burnham said he is open to Britain apologising for its role in the transatlantic slave trade but ruled out financial reparations. He spoke ahead of a Commonwealth leaders' summit in Antigua and Barbuda. A minister later said an apology would not lead to payments.",
+      "why_it_matters": "The position shapes UK relations with Caribbean and African states and the debate over reparations.",
+      "background": "Calls for Britain to apologise and pay reparations for slavery have grown in Caribbean and African states. King Charles is visiting three countries on a trip where colonial history has featured. Burnham leads the Labour government.",
+      "facts": [
+        {
+          "text": "Burnham said he is open to an apology but not to financial reparations.",
+          "refs": [
+            "093b98c315",
+            "f3518b9af1"
+          ]
+        },
+        {
+          "text": "He said British people cannot be held responsible for historical wrongs, per The Hindu.",
+          "refs": [
+            "2e72854d08"
+          ]
+        },
+        {
+          "text": "Congress MP Shashi Tharoor called the omission of colonialism inexcusable, per The Hindu.",
+          "refs": [
+            "2e72854d08"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "a2b893c84a",
+          "note": "Says government will consider an apology."
+        },
+        {
+          "ref": "7dc2eef4a5",
+          "note": "Says Burnham hints at apology but rejects reparations."
+        },
+        {
+          "ref": "093b98c315",
+          "note": "Leads with the ruling-out of reparations."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "093b98c315",
+          "takeaway": "Straight report of the position.",
+          "read_full": false
+        },
+        {
+          "ref": "a2b893c84a",
+          "takeaway": "Ties it to African and Caribbean relations.",
+          "read_full": false
+        },
+        {
+          "ref": "f3518b9af1",
+          "takeaway": "Links to King Charles' visit.",
+          "read_full": false
+        },
+        {
+          "ref": "2e72854d08",
+          "takeaway": "Adds Indian reaction.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": []
+}

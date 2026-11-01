@@ -1,0 +1,31 @@
+{
+  "overview": "Binance, the world's largest crypto exchange, said hackers took about $6.3 billion in digital assets, which analysts and some outlets attribute to North Korea, and the company said it will cover the losses. Midterm elections are two days away, and news organizations are explaining how they will call races. Youth-led protests have spread from France to other European countries, and Poland's president and government are in a court dispute. Oil companies reported another quarter of large profits as the war involving Iran keeps crude prices high.",
+  "markets": {
+    "summary": "The latest readings show US stocks mixed: the S&P 500 rose 0.28% on its last reading (Oct. 28), while the Nasdaq fell 1.38% and the Dow 1.09% on later days, and Japan's Nikkei dropped 2.12%. Bluesky chatter pointed to tech stocks falling after earnings, though the data here doesn't confirm a single cause. Oil remains very high, with Brent near $123 a barrel and WTI up about 21% in a month, which news reports tie to the Middle East conflict; OPEC+ delegates told Reuters and Bloomberg the group will keep its December output targets unchanged. Treasury yields eased (the 10-year fell 7 basis points to 4.98%), but the 30-year mortgage rate is still 7.24%. Inflation ran at 3.72% in September, up from the prior month. A basis point is one hundredth of a percentage point.",
+    "movers": [
+      { "symbol": "NASDAQCOM", "why": "Fell 1.38% on its latest reading; social posts linked it to tech earnings, but the data here doesn't confirm a cause." },
+      { "symbol": "DCOILBRENTEU", "why": "Slipped 3.92% on the day but is still about $123 a barrel, with coverage tying high prices to the war involving Iran." },
+      { "symbol": "NIKKEI225", "why": "Dropped 2.12% and is down about 5% over a month; no cause is clear from today's coverage." },
+      { "symbol": "CPIAUCSL", "why": "Inflation rose to 3.72% year over year, up 0.36 percentage points from the previous reading." }
+    ],
+    "concept": {
+      "term": "OPEC+ production quota",
+      "explanation": "OPEC+ is a group of oil-producing countries, led by Saudi Arabia and Russia, that agrees on how much crude each member may pump. Fewer barrels on the market tends to push prices up, and more tends to push them down. Because crude is the main input for gasoline and diesel, the group's decisions can show up at the pump and in shipping and airline costs within weeks. Delegates say the group will hold December targets steady."
+    },
+    "watch": [
+      "OPEC+ is expected to confirm unchanged December oil output targets, per delegates (date not yet confirmed)",
+      "Tue Nov 3: US midterm elections",
+      "Later in November: expected meeting between Presidents Trump and Xi, per Bloomberg"
+    ]
+  },
+  "trending": [
+    { "title": "Binance hack", "context": "About $6.3 billion in crypto was stolen from the exchange, described as the largest crypto heist ever.", "signal": "wikipedia_news" },
+    { "title": "Patrick Stewart", "context": "The British actor's death at 86 drove the day's top Wikipedia traffic.", "signal": "wikipedia" },
+    { "title": "Toledo train collision", "context": "At least 69 people were killed when two high-speed trains collided in Toledo province, Spain.", "signal": "wikipedia_news" },
+    { "title": "Brewers win the World Series", "context": "Milwaukee beat Tampa Bay to take the 2026 title.", "signal": "wikipedia_news" },
+    { "title": "New York City Marathon", "context": "People are searching ahead of Sunday's race.", "signal": "google" },
+    { "title": "Daylight saving time ends", "context": "Clocks go back an hour on Sunday, which is prompting posts about the change.", "signal": "bluesky" },
+    { "title": "Protests spread across Europe", "context": "Youth-led demonstrations that began in France are being reported in other countries.", "signal": "bluesky" },
+    { "title": "Black Friday 2026", "context": "Shoppers are already searching for deal dates.", "signal": "google" }
+  ]
+}

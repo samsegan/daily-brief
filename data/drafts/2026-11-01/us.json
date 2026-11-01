@@ -1,0 +1,196 @@
+{
+  "stories": [
+    {
+      "id": "wsj-epstein-suit-dismissed",
+      "headline": "Judge dismisses Trump's $10 billion suit against the Wall Street Journal over Epstein letter",
+      "region": "Courts",
+      "importance": 5,
+      "summary": "A federal judge in Miami dismissed President Trump's revised defamation suit against the Wall Street Journal and Rupert Murdoch over a 2025 story about a birthday letter to Jeffrey Epstein. The ruling was with prejudice, which bars the same claims from being filed again. Trump has denied writing the letter; whether he will appeal was not reported in the digest.",
+      "why_it_matters": "The ruling is a test of how hard it is for a public figure to win a libel case over reporting on him, and it ends this attempt to use the courts against a major newspaper.",
+      "background": "In July 2025 the Wall Street Journal reported that Trump had sent Epstein a letter, with a drawing, for a 2003 birthday book. Trump denied writing it and sued the Journal, its parent company and Murdoch for $10 billion. In April 2026 Judge Darrin Gayles dismissed the first complaint without prejudice and let Trump file an amended one. Public figures must show a publisher acted with actual malice, meaning it knew a statement was false or recklessly disregarded the truth.",
+      "facts": [
+        { "text": "U.S. District Judge Darrin Gayles in Miami dismissed the suit with prejudice, ruling that Trump had not shown the defendants made defamatory statements with actual malice.", "refs": ["5579866f60", "53c314e292"] },
+        { "text": "The suit, seeking $10 billion, targeted the Wall Street Journal and Rupert Murdoch over a story about a birthday letter attributed to Trump and sent to Jeffrey Epstein.", "refs": ["22fc29958f", "faf1874beb"] },
+        { "text": "NPR and ABC report the judge described Trump as 'grasping at straws'.", "refs": ["22fc29958f", "8f387d1722"] },
+        { "text": "Trump has denied writing the letter.", "refs": ["53c314e292"] },
+        { "text": "Judge Gayles dismissed the original complaint in April 2026 without prejudice, giving Trump until April 27 to amend.", "refs": ["us-w1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "8f387d1722", "note": "Leads with the judge's 'grasping at straws' quote, emphasizing the rebuke." },
+        { "ref": "5579866f60", "note": "Leads with the legal standard, actual malice, and the with-prejudice outcome." },
+        { "ref": "4b6540b5f5", "note": "Frames it as an 'Epstein Files' story and includes the detail of the drawing in the letter." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "5579866f60", "takeaway": "Straight ruling story: judge, with-prejudice outcome and the actual-malice reasoning.", "read_full": false },
+        { "ref": "22fc29958f", "takeaway": "Leads with the judge's 'grasping at straws' language.", "read_full": false },
+        { "ref": "53c314e292", "takeaway": "Notes the dismissal with prejudice and that Trump denied writing the letter.", "read_full": false },
+        { "ref": "8f387d1722", "takeaway": "AP wire version with the 'grasping at straws' quote in the headline.", "read_full": false },
+        { "ref": "4b6540b5f5", "takeaway": "Adds the July 2025 publication date and the letter's alleged drawing.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "doj-election-workers-order",
+      "headline": "Judge bars DOJ from threatening election workers; analysis questions its noncitizen list",
+      "region": "Courts",
+      "importance": 5,
+      "summary": "A federal judge issued a temporary restraining order on Friday blocking the Justice Department from threatening or coercing election workers with prosecution over ballots it says belong to ineligible voters. Separately, an outside analysis found more than 40% of names on a DOJ list of alleged noncitizens in California are not on the state's voter rolls. The midterms are Tuesday.",
+      "why_it_matters": "The order affects whether local officials can keep counting ballots without fear of federal charges, and the analysis bears on how reliable the government's basis for those demands is.",
+      "background": "In the weeks before the midterms the Justice Department sent letters to state and local election officials demanding they set aside ballots of voters it flagged as possible noncitizens, and warned of criminal prosecution if they did not. Election officials challenged those demands in court. The department's list of flagged names had not been independently checked until this analysis. Noncitizens are barred from voting in federal elections.",
+      "facts": [
+        { "text": "A federal judge on Friday issued a temporary restraining order barring the administration from threatening election workers with criminal prosecution for counting ballots from voters it claims are ineligible.", "refs": ["7f18e64a52", "ee64ff86ac"] },
+        { "text": "The order says officials cannot be forced to separate out or stop counting ballots the government deems disputed.", "refs": ["ee64ff86ac", "682a20af1d"] },
+        { "text": "The order followed letters sent to election officials demanding they set aside ballots of possible noncitizen voters.", "refs": ["2ead0d65cc"] },
+        { "text": "An outside analysis found more than 40% of names on the DOJ list of alleged noncitizens in California are not on the state's voter rolls and that thousands of citizens appear to be flagged.", "refs": ["f02fdd11cf", "30d009dd5e"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "c04370efb0", "note": "Fox frames it as a judge blocking DOJ threats over ballots 'tied to suspected noncitizens', echoing the administration's premise." },
+        { "ref": "dc8f5a417e", "note": "NBC calls the order 'sweeping' and ties it to pressure tactics before the midterms." },
+        { "ref": "682a20af1d", "note": "CBS focuses on California officials and the word 'intimidate'." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "7f18e64a52", "takeaway": "Neutral lead on the emergency order four days before the midterms.", "read_full": false },
+        { "ref": "ee64ff86ac", "takeaway": "Details the order's limits on forcing officials to separate ballots.", "read_full": false },
+        { "ref": "c04370efb0", "takeaway": "Short summary from the right-leaning side, centered on suspected noncitizens.", "read_full": false },
+        { "ref": "f02fdd11cf", "takeaway": "Reports the first outside analysis of the DOJ list.", "read_full": false },
+        { "ref": "682a20af1d", "takeaway": "California-focused account of the order.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "alaska-senate-ballot-fight",
+      "headline": "Alaska Senate race: DOJ seeks to set aside ballots as FBI widens 'two Dan Sullivans' inquiry",
+      "region": "Elections",
+      "importance": 5,
+      "summary": "Alaska's Republican-led state government asked a federal judge to dismiss a Trump-directed suit seeking to stop certification of a possible Democratic win in the Senate race, calling the demand to set aside ballots 'not even possible'. Separately, the FBI is investigating the candidacy of a second Dan Sullivan on the ballot, and agents have contacted his donors. Democrat Mary Peltola denies involvement in any scheme.",
+      "why_it_matters": "A federal effort to set aside votes in a close Senate race could affect who controls the chamber and how ballots are counted. Voters in Alaska also decide Tuesday on repealing ranked-choice voting.",
+      "background": "Alaska has a competitive Senate race between Republican incumbent Dan Sullivan and Democrat Mary Peltola. A second candidate named Dan J. Sullivan, a Petersburg resident, is also on the ballot. The incumbent and allies accuse Democrats of recruiting the namesake to confuse voters, and the Justice Department opened a criminal investigation and issued subpoenas. Peltola's campaign has denied involvement.",
+      "facts": [
+        { "text": "Alaska's attorneys told a federal judge that the demand to set aside Senate ballots is meritless and 'not even possible'.", "refs": ["1be8869ee4", "5683f34c4b"] },
+        { "text": "DOJ added a request that the judge separate ballots showing votes for the second Dan Sullivan until it can be determined whether voters were fooled.", "refs": ["9b477d1647"] },
+        { "text": "An Anchorage-based FBI agent visited a boat dealership in Petersburg, the hometown of candidate Dan J. Sullivan, and the FBI has contacted donors in at least two remote communities and a couple in Massachusetts.", "refs": ["c62568048a", "67ebf47f79"] },
+        { "text": "Dan J. Sullivan denies knowing about an alleged plot to put two Dan Sullivans on the ballot.", "refs": ["9513d13293"] },
+        { "text": "Peltola told supporters she is 'deeply offended' by the accusations and denied involvement, but did not address the federal probe.", "refs": ["99056ff6e6", "02196efeea"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the second candidacy was a Democratic scheme",
+          "positions": [
+            { "claim": "The incumbent Republican and allies say Democrats recruited a second Dan Sullivan to confuse voters.", "refs": ["9513d13293"] },
+            { "claim": "Peltola says she was not involved and is deeply offended by the accusations; Dan J. Sullivan denies knowing of any plot.", "refs": ["99056ff6e6", "9513d13293"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "9f9ae25a8b", "note": "Leads with state attorneys calling the DOJ demand meritless." },
+        { "ref": "67ebf47f79", "note": "Post calls him 'Decoy Dan' and emphasizes feds ramping up the investigation." },
+        { "ref": "99056ff6e6", "note": "Emphasizes Peltola's silence on the federal probe." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "9f9ae25a8b", "takeaway": "Wire story on Alaska's filing opposing the DOJ ballot demand.", "read_full": false },
+        { "ref": "9b477d1647", "takeaway": "Adds DOJ's request to separate ballots for the second Dan Sullivan.", "read_full": false },
+        { "ref": "c62568048a", "takeaway": "Reports FBI visit to a donor in the candidate's hometown.", "read_full": false },
+        { "ref": "67ebf47f79", "takeaway": "Right-leaning take stressing the investigation of donors.", "read_full": false },
+        { "ref": "99056ff6e6", "takeaway": "Peltola's repeated denial and silence on the probe.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-arch-lawsuits",
+      "headline": "Virginia and D.C. sue to stop construction of Trump's 250-foot arch",
+      "region": "White House",
+      "importance": 4,
+      "summary": "Virginia and the District of Columbia filed suit in federal court Saturday to block construction of a planned triumphal arch near Memorial Circle, saying it is unlawfully tall and would disrupt traffic. It is the third lawsuit against the project. Judge Tanya Chutkin ordered both sides to agree on a briefing schedule for a temporary restraining order motion.",
+      "why_it_matters": "A court ruling could decide whether work on a large monument at a gateway to Arlington National Cemetery starts, and the sites and traffic in the area may be affected for years.",
+      "background": "The administration plans a roughly 250-foot arch on a patch of grass by the bridge across the Potomac that connects Washington with Arlington National Cemetery. The government has said it wants work to begin soon. Two earlier lawsuits already ask courts to halt it. Virginia and the District say the plan breaks rules on height, the environment and historic preservation.",
+      "facts": [
+        { "text": "Virginia and D.C. filed suit Saturday, calling the planned arch 'flagrantly unlawful' and citing traffic, environmental and historic preservation concerns.", "refs": ["86537bb3d6", "8a5096888a"] },
+        { "text": "The arch would rise 250 feet, and there are now three lawsuits seeking to halt potential work.", "refs": ["1fbe180319", "6632bb6b09"] },
+        { "text": "Judge Tanya Chutkin ordered both sides to agree on a briefing schedule on the motion for a temporary restraining order.", "refs": ["fdc667fffb"] },
+        { "text": "Axios reports the plaintiffs claim the arch is unlawfully tall and would snarl traffic for years.", "refs": ["17e34ba041"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "6553b3b2e0", "note": "Guardian stresses that legal challenges are mounting while construction is imminent." },
+        { "ref": "17e34ba041", "note": "Axios frames it as a last-minute gambit to stop construction." },
+        { "ref": "173c6925b6", "note": "Washington Times leads with the lawsuit and the government wanting work to begin." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "8a5096888a", "takeaway": "Describes the suit as a last-ditch effort.", "read_full": false },
+        { "ref": "17e34ba041", "takeaway": "Short explainer on height and traffic claims.", "read_full": false },
+        { "ref": "fdc667fffb", "takeaway": "Adds judge Chutkin's scheduling order.", "read_full": false },
+        { "ref": "6632bb6b09", "takeaway": "Wire story noting three lawsuits and the location.", "read_full": false },
+        { "ref": "173c6925b6", "takeaway": "Right-leaning outlet runs the AP framing.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "michigan-senate-el-sayed-stevens",
+      "headline": "El-Sayed asks Haley Stevens to stay away from Michigan Senate campaign events",
+      "region": "Elections",
+      "importance": 3,
+      "summary": "Michigan Democratic Senate nominee Abdul El-Sayed asked Rep. Haley Stevens, his former primary rival, not to attend his final campaign events, saying he wants no distractions. Stevens has demanded he condemn an outside group's ad and apologize for comments about Israel. An adviser to Rep. Jim Clyburn said El-Sayed cannot disinvite her from a Sunday unity event in Detroit.",
+      "why_it_matters": "A public split among Democrats days before the election in a closely watched race could affect turnout and the party's chances against Republican Mike Rogers.",
+      "background": "El-Sayed won the Democratic primary over Stevens, and the winner faces Republican Mike Rogers in the general election. The primary was bitter, and disagreements over Israel have continued. A Sunday event in Detroit was planned to show unity with Rep. Jim Clyburn. The midterms are Tuesday.",
+      "facts": [
+        { "text": "El-Sayed said he does not want distractions, and told reporters, 'We had a primary, right?'", "refs": ["5e2f47250a", "d5789171b1"] },
+        { "text": "Stevens demanded El-Sayed condemn an outside group's ad and apologize for comments he made about Israel; El-Sayed said she is 'intent on relitigating' the primary.", "refs": ["8bca94099e"] },
+        { "text": "An adviser to Rep. Jim Clyburn said El-Sayed cannot disinvite Stevens because 'This is not Abdul's event'.", "refs": ["176feb0c48"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "95ed925398", "note": "Guardian leads with the disinvitation and Stevens' precondition." },
+        { "ref": "583bda183c", "note": "FT frames it as a threat to Democratic unity in a key race." },
+        { "ref": "176feb0c48", "note": "The Hill centers on the dispute over who controls the unity event." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "8bca94099e", "takeaway": "Lays out both sides' demands.", "read_full": false },
+        { "ref": "5e2f47250a", "takeaway": "Headline and summary only (paywalled): El-Sayed says he wants no distractions.", "read_full": false },
+        { "ref": "176feb0c48", "takeaway": "Adds the Clyburn adviser's response.", "read_full": false },
+        { "ref": "583bda183c", "takeaway": "Headline and summary only (paywalled): unity threatened.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "g20-atlanta-no-consensus",
+      "headline": "G20 foreign ministers end Atlanta meeting without a joint statement",
+      "region": "White House",
+      "importance": 3,
+      "summary": "G20 foreign ministers meeting in Atlanta ended without consensus on key issues, with divisions over Russia's war in Ukraine. Secretary of State Marco Rubio, the host, released a chairman's statement in place of a joint communique. Rubio urged members to strengthen supply chains and secure trade routes.",
+      "why_it_matters": "The lack of agreement shows how hard it is for major economies to coordinate on Ukraine and trade, ahead of a leaders' summit later this year.",
+      "background": "The United States holds the G20 presidency this year and hosted the foreign ministers on Oct. 30-31. A leaders' summit is planned for December in Florida. Joint communiques normally require agreement from all members, which has been difficult since Russia's invasion of Ukraine.",
+      "facts": [
+        { "text": "The group did not issue a joint communique but relied on a chairman's statement Rubio released after the meetings closed.", "refs": ["c35896d4cd"] },
+        { "text": "Divisions over Russia's war with Ukraine overshadowed the talks.", "refs": ["5749ffc3eb"] },
+        { "text": "Rubio urged G20 members to strengthen supply chains and secure strategic trade routes as Washington seeks to loosen China's dominance of critical minerals.", "refs": ["4c2bd5d97e"] },
+        { "text": "EU foreign policy chief Kaja Kallas told Bloomberg that Russia is escalating the war and is not serious about peace.", "refs": ["620659ed6b"] },
+        { "text": "The State Department said before the meeting that discussions would focus on international cooperation, economic challenges and resilient supply chains.", "refs": ["us-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "268293ca55", "note": "NPR emphasizes Rubio's difficulty getting officials on the same page." },
+        { "ref": "c35896d4cd", "note": "PBS frames it neutrally as an ending without consensus." },
+        { "ref": "4c2bd5d97e", "note": "SCMP highlights the critical minerals and China angle." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c35896d4cd", "takeaway": "Notes chairman's statement in place of a communique.", "read_full": false },
+        { "ref": "268293ca55", "takeaway": "Focuses on Rubio as host struggling to unite officials.", "read_full": false },
+        { "ref": "4c2bd5d97e", "takeaway": "Headline and summary only (paywalled): supply chains and critical minerals.", "read_full": false },
+        { "ref": "620659ed6b", "takeaway": "Headline and summary only (paywalled): Kallas on Russia.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://wysu.org/npr-national-news/2026-04-13/judge-dismisses-trumps-10b-lawsuit-over-the-wall-street-journals-epstein-reporting", "title": "Judge dismisses Trump's $10B lawsuit over the Wall Street Journal's Epstein reporting", "outlet": "NPR (WYSU)" },
+    { "id": "us-w2", "url": "https://www.deccanherald.com/world/us/us-to-host-g20-foreign-ministers-meet-in-atlanta-on-oct-30-31-4008096", "title": "US to host G20 foreign ministers' meet in Atlanta on Oct 30-31", "outlet": "Deccan Herald" }
+  ]
+}
