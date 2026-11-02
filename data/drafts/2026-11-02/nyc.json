@@ -1,0 +1,162 @@
+{
+  "stories": [
+    {
+      "id": "hochul-blakeman-final-weekend",
+      "headline": "Hochul campaigns with Mamdani and Ocasio-Cortez as early voting ends; Blakeman works Long Island and upstate",
+      "region": "Elections",
+      "importance": 5,
+      "summary": "On the last day of early voting, Gov. Kathy Hochul campaigned in Democratic New York City neighborhoods alongside Mayor Zohran Mamdani and Rep. Alexandria Ocasio-Cortez. Her Republican opponent, Bruce Blakeman, spent the weekend on Long Island and upstate. The governor's election is Tuesday.",
+      "why_it_matters": "New Yorkers choose a governor on Tuesday, and the weekend schedules show each campaign leaning on a different base: city Democrats for Hochul, suburban and upstate voters for Blakeman.",
+      "background": "Hochul, a Democrat, is seeking a full term as governor. Blakeman, the Republican nominee, is the Nassau County executive. Mamdani became mayor in January 2026 and is a prominent figure on the left of the Democratic Party, as is Ocasio-Cortez. Early voting in New York runs for nine days before Election Day, which is Tuesday, Nov. 3.",
+      "facts": [
+        { "text": "Hochul appeared with Mamdani and Ocasio-Cortez in New York City on Sunday, including at a Buffalo Bills watch party at a bar, according to the Post and City & State.", "refs": ["cdb8994009", "50e786843c", "612a9bb0e0"] },
+        { "text": "Sunday was the last day of early voting, City & State reported.", "refs": ["50e786843c"] },
+        { "text": "Blakeman campaigned on Long Island and upstate, per the Times and City & State.", "refs": ["612a9bb0e0", "50e786843c"] },
+        { "text": "The Post reported that Hochul said the support of the two left-leaning figures would not turn off moderate voters.", "refs": ["cdb8994009"] },
+        { "text": "The Post reported Blakeman began an eight-city tour of New York in 48 hours, quoting him: \"We are leaving no stone left unturned.\"", "refs": ["4eac4b9f43"] },
+        { "text": "Blakeman, with a Queens Democrat, accused Hochul of going \"wok\" against Asian families over a state gas-stove ban in new housing, the Post reported.", "refs": ["a0fdfe3e4b"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "cdb8994009", "note": "Leads with the pairing of Hochul with two left-wing figures and whether it hurts her with moderates." },
+        { "ref": "50e786843c", "note": "Plays it lightly (\"walk into a bar\") and sets the two candidates' geography side by side." },
+        { "ref": "612a9bb0e0", "note": "Frames both campaigns as trying to motivate their own voters in the final stretch." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "cdb8994009", "takeaway": "Post focus on Hochul's moderate-voter risk; headline and summary only.", "read_full": false },
+        { "ref": "50e786843c", "takeaway": "City & State sums up the weekend: Hochul in city neighborhoods, Blakeman upstate.", "read_full": false },
+        { "ref": "612a9bb0e0", "takeaway": "Times (paywalled): headline and summary only; both candidates courting their bases.", "read_full": false },
+        { "ref": "4eac4b9f43", "takeaway": "Post on Blakeman's 48-hour, eight-city tour; headline and summary only.", "read_full": false },
+        { "ref": "a0fdfe3e4b", "takeaway": "Post on Blakeman's attack over the gas-stove rule; headline and summary only.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "brooklyn-jogger-stabbing",
+      "headline": "Police search for attacker after Brooklyn jogger stabbed on waterfront path",
+      "region": "Brooklyn",
+      "importance": 4,
+      "summary": "A 28-year-old woman, identified by amNY and the Times as Katie Suarez, was stabbed while running along the Brooklyn waterfront on Friday evening. The Times reports she is on life support. NYPD detectives had not identified a suspect as of Sunday.",
+      "why_it_matters": "A random-seeming attack on a popular running path in marathon week raises safety questions for people who exercise along the waterfront, while police have no suspect yet.",
+      "background": "The attack happened Friday on a path along Brooklyn's Shore Parkway, according to Fox News. Suarez was training for the New York City Marathon, which was held Sunday, amNY reported. The New York Post noted similarities that Phil Vetrano, whose daughter Karina was killed while running in Queens in 2016, saw with his own family's case.",
+      "facts": [
+        { "text": "A 28-year-old woman was stabbed in the neck while jogging along Shore Parkway in Brooklyn, and NYPD had no suspect identified.", "refs": ["5bdb4a392b"] },
+        { "text": "The woman is Katie Suarez, 28; she was running on Friday evening and was attacked, and police were still searching for the assailant.", "refs": ["3ef66040ab", "b88f0035ec"] },
+        { "text": "The Times reports she is on life support.", "refs": ["3ef66040ab"] },
+        { "text": "amNY, citing sources, reported she had spoken with her father minutes before he found her unconscious on the path.", "refs": ["b88f0035ec"] },
+        { "text": "The Daily News reported she was trying to meet her parents for a run together.", "refs": ["39ca3bb4e9"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many times she was stabbed",
+          "positions": [
+            { "claim": "Fox News headline says she was stabbed multiple times.", "refs": ["5bdb4a392b"] },
+            { "claim": "amNY, citing sources, says twice in the neck.", "refs": ["b88f0035ec"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "5bdb4a392b", "note": "Leads with a woman \"critically injured\" and the lack of a suspect." },
+        { "ref": "39ca3bb4e9", "note": "Leads with the personal detail of her plan to run with her parents." },
+        { "ref": "3ef66040ab", "note": "Leads with her medical condition (life support) rather than the investigation." },
+        { "ref": "ede0a268b3", "note": "Post frames it through a comparison to the 2016 Karina Vetrano case." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "5bdb4a392b", "takeaway": "Fox: location and no suspect; summary only.", "read_full": false },
+        { "ref": "39ca3bb4e9", "takeaway": "Daily News: headline only, human-interest angle.", "read_full": false },
+        { "ref": "b88f0035ec", "takeaway": "amNY: names the victim and gives the call with her father, citing sources.", "read_full": false },
+        { "ref": "3ef66040ab", "takeaway": "Times (paywalled): headline and summary only; life support.", "read_full": false },
+        { "ref": "ede0a268b3", "takeaway": "Post: reaction from Karina Vetrano's father; headline and summary only.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "rent-freeze-lender-rules",
+      "headline": "Fannie Mae and Freddie Mac tighten mortgage rules for rent-regulated buildings after Mamdani's rent freeze",
+      "region": "Housing",
+      "importance": 3,
+      "summary": "THE CITY reports that Fannie Mae and Freddie Mac, the two federally backed mortgage buyers, have imposed new rules for New York City rent-regulated buildings after the mayor's rent freeze. The outlet says the rules make it very hard or impossible for some landlords to get financing. No other outlet in the digest covers it.",
+      "why_it_matters": "If landlords of rent-stabilized buildings cannot refinance or borrow, it could affect building upkeep and sales, which matters to the roughly one million stabilized tenants and to owners.",
+      "background": "Mayor Zohran Mamdani took office in January 2026 and has pushed to freeze rents on rent-stabilized apartments. Fannie Mae and Freddie Mac buy a large share of multifamily mortgages, so their underwriting rules shape what lenders will offer. Landlord groups have long argued rent limits squeeze building income.",
+      "facts": [
+        { "text": "THE CITY reports Fannie Mae and Freddie Mac imposed new rules for rent-regulated New York City buildings after the rent freeze.", "refs": ["c45a9f6151"] },
+        { "text": "Per THE CITY's reporting, the rules make it impossible or extremely difficult for landlords to get financing.", "refs": ["c45a9f6151"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c45a9f6151", "takeaway": "THE CITY's own reporting; digest summary only, so details of the rules are not confirmed here.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mamdani-ice-parking-lots",
+      "headline": "Mamdani threatens legal action over ICE use of city parking lots",
+      "region": "City Hall",
+      "importance": 3,
+      "summary": "The Times reports that Mayor Mamdani is threatening legal action to stop Immigration and Customs Enforcement from using New York City parking lots. Earlier this year he issued an order barring ICE from using city property as staging areas. Only the Times in the digest covers it today.",
+      "why_it_matters": "It sets up a possible court fight between City Hall and federal immigration enforcement over where agents can operate in neighborhoods.",
+      "background": "Mamdani's executive order earlier this year restricted non-city law enforcement from using city property as a base. On Oct. 16, he and more than 100 elected officials urged private garage and lot owners not to make space available to ICE, after agents reportedly staged from a private lot near a Marble Hill shooting. The city's rules cover city property only. DHS said the laws apply to city property, not private lots.",
+      "facts": [
+        { "text": "The Times reports Mamdani threatens legal action to stop ICE use of city parking lots.", "refs": ["f444814a7e"] },
+        { "text": "Earlier this year Mamdani issued an order barring ICE from using city property as staging areas, per the Times.", "refs": ["f444814a7e"] },
+        { "text": "On Oct. 16, Mamdani and more than 100 elected officials asked private lot and garage owners not to make facilities available to ICE.", "refs": ["nyc-w1", "nyc-w2"] },
+        { "text": "DHS responded that the laws govern city property, not private lots, according to the wire report.", "refs": ["nyc-w2"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f444814a7e", "takeaway": "Times (paywalled): headline and summary only; the new threat of legal action.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mta-cbc-staffing-report",
+      "headline": "Budget watchdog urges MTA to cut some jobs, including crew on fully automated trains",
+      "region": "Transit",
+      "importance": 2,
+      "summary": "Gothamist reports that the Citizens Budget Commission, a fiscal watchdog, recommends the MTA eliminate some jobs to prepare for budget problems. One suggestion is removing one crew member from trains that are fully automated.",
+      "why_it_matters": "Staffing changes on subways and rail could affect service and union jobs, and fare and tax decisions are tied to how the MTA closes its budget gaps.",
+      "background": "The Citizens Budget Commission is a nonpartisan, business-backed group that studies city and state finances. It has recommended MTA staffing changes before. Unions representing transit workers have opposed reductions in train crews, and the issue has been debated in Albany.",
+      "facts": [
+        { "text": "A new Citizens Budget Commission report recommends eliminating MTA jobs to save money, per Gothamist.", "refs": ["9e110afa47"] },
+        { "text": "The report suggests eliminating one crew member from fully automated trains, per Gothamist.", "refs": ["9e110afa47"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "9e110afa47", "takeaway": "Gothamist: headline and summary only; the watchdog's staffing recommendation.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "pta-fundraising-gap",
+      "headline": "School PTA fundraising gap widens along racial lines, Gothamist finds",
+      "region": "Schools",
+      "importance": 2,
+      "summary": "Gothamist reports that the gap in parent-teacher association money across NYC schools is growing. The average white student benefited from about $250 in PTA money last school year, more than five times what the average Black student received.",
+      "why_it_matters": "Private fundraising can pay for aides, programs and supplies, so differences in what PTAs raise can add to unequal school resources.",
+      "background": "New York City public schools are funded mainly by the city and state, but parent groups at some schools raise extra money. Critics have long said this favors schools in wealthier neighborhoods. The report comes as the city debates school segregation more broadly.",
+      "facts": [
+        { "text": "Per Gothamist, the average white student benefited from about $250 in PTA money over the last school year.", "refs": ["153e9df46b"] },
+        { "text": "That is more than five times what the average Black student received, per Gothamist.", "refs": ["153e9df46b"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "153e9df46b", "takeaway": "Gothamist's own analysis; headline and summary only.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "nyc-w1", "url": "https://www.nyc.gov/mayors-office/news/2026/10/mayor-mamdani-leads-more-than-100-elected-officials-in-calling-o", "title": "Mayor Mamdani leads more than 100 elected officials in calling on property owners to deny ICE access", "outlet": "NYC Mayor's Office" },
+    { "id": "nyc-w2", "url": "https://abcnews.com/Politics/wireStory/new-york-democrats-parking-lot-owners-ban-ice-137325619", "title": "New York Democrats want parking lot owners to ban ICE from their properties", "outlet": "ABC News (AP)" }
+  ]
+}

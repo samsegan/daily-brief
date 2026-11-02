@@ -1,0 +1,31 @@
+{
+  "overview": "Markets open the week after a tech-led selloff on Friday, with futures recovering as oil falls on reports that Washington and Tehran are pursuing diplomacy. Midterm elections are tomorrow, and investors and voters alike are watching them. OpenAI's Sam Altman signed deals in Abu Dhabi and visited South Korea over the weekend. The Spain train collision that killed at least 69 people and a $6.3 billion crypto theft at Binance are among the major stories listed by Wikipedia's news feed.",
+  "markets": {
+    "summary": "The latest available figures show the Nasdaq down 1.38% and the Dow down 1.09% in Friday's selloff, with the Nikkei off 2.12%. Outlets including the Wall Street Journal and the New York Times reported futures rising Monday as investors braced for more volatility after the tech sell-off. Oil prices fell on reports of U.S.-Iran diplomatic efforts, with CNBC saying U.S. crude dropped below $100 a barrel. Treasury yields also fell, which the Journal tied to lower oil prices; falling yields mean bond prices are rising. Investors are focused this week on the midterms, the Treasury's quarterly refunding and Friday's jobs data.",
+    "movers": [
+      { "symbol": "NASDAQCOM", "why": "Fell 1.38% in the latest reading, with outlets describing a tech sell-off that Bluesky users put at about $1 trillion." },
+      { "symbol": "DCOILWTICO", "why": "U.S. crude fell, and CNBC reported it dropping below $100 on U.S.-Iran diplomacy reports; it is still up about 21% over a month." },
+      { "symbol": "DGS10", "why": "The 10-year yield fell 7 basis points to 4.98%, which the Wall Street Journal linked to cheaper oil." },
+      { "symbol": "MORTGAGE30US", "why": "The 30-year mortgage rate eased 8 basis points to 7.24% but is 21 basis points above a month ago, tracking longer-term yields." }
+    ],
+    "concept": {
+      "term": "Quarterly refunding",
+      "explanation": "Four times a year the U.S. Treasury announces how much debt it plans to sell in the coming months and in what mix of short and long maturities. Larger or longer-dated sales can push yields up because investors must absorb more supply. Those yields feed into mortgage, car and business loan rates, so the announcement can reach your wallet through borrowing costs."
+    },
+    "watch": [
+      "Tue Nov 3: U.S. midterm elections",
+      "Wed Nov 4: Treasury quarterly refunding announcement",
+      "Fri Nov 6: October jobs report (8:30 a.m. ET)"
+    ]
+  },
+  "trending": [
+    { "title": "Midterm elections days away", "context": "Voters are heading into Tuesday's midterms, and it was one of the most discussed topics on Bluesky.", "signal": "bluesky" },
+    { "title": "Haley Stevens", "context": "The Michigan congresswoman drew over 360,000 Wikipedia views, and Bluesky users were posting about comparisons to Fetterman; the exact trigger is unclear.", "signal": "wikipedia" },
+    { "title": "Patrick Stewart", "context": "Wikipedia's news feed reports the British actor died at 86.", "signal": "wikipedia_news" },
+    { "title": "Binance hack", "context": "Wikipedia's news feed reports $6.3 billion in digital assets were stolen from the exchange.", "signal": "wikipedia_news" },
+    { "title": "Toledo train collision", "context": "Wikipedia's news feed reports at least 69 people died when two high-speed trains collided in Spain.", "signal": "wikipedia_news" },
+    { "title": "World Series", "context": "The Milwaukee Brewers beat the Tampa Bay Rays to win the title, per Wikipedia's news feed.", "signal": "wikipedia_news" },
+    { "title": "Daylight saving time ends", "context": "Clocks fell back Sunday, prompting thousands of posts, including about Canadian provinces skipping the change.", "signal": "bluesky" },
+    { "title": "Nate Silver", "context": "Searches for the election forecaster topped 500 on Google as the midterms near.", "signal": "google" }
+  ]
+}

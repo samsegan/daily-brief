@@ -1,0 +1,236 @@
+{
+  "stories": [
+    {
+      "id": "stevens-endorses-rogers",
+      "headline": "Michigan Rep. Haley Stevens, a Democrat, endorses Republican Mike Rogers for Senate",
+      "region": "Elections",
+      "importance": 5,
+      "summary": "Rep. Haley Stevens, who lost August's Democratic Senate primary in Michigan to Abdul El-Sayed, endorsed Republican nominee Mike Rogers on Sunday, two days before the midterms. Democrats criticized the move, and some of her staff reportedly quit. President Trump praised her at a rally.",
+      "why_it_matters": "Michigan is one of the closest Senate races, and Senate control may turn on a handful of contests like it. A split among Democrats this late can affect turnout and the vote count on Tuesday.",
+      "background": "Michigan's Senate seat is open and is one of the most closely watched races of the 2026 midterms, which will decide control of Congress. Abdul El-Sayed, a progressive, narrowly beat Rep. Haley Stevens in the August Democratic primary. Mike Rogers is the Republican nominee backed by President Trump. Tensions between progressive and moderate Democrats, including over an outside ad Stevens called antisemitic, were already running high before Sunday.",
+      "facts": [
+        { "text": "Stevens, who lost the Democratic primary to El-Sayed, endorsed Republican Mike Rogers on Sunday, two days before Election Day.", "refs": ["837ada7f4e", "4b27508afd", "c20187d52b"] },
+        { "text": "NBC News reported the endorsement came after El-Sayed's campaign asked Stevens to stop attending campaign events over an outside ad that Stevens said was antisemitic.", "refs": ["df74cb67e5"] },
+        { "text": "PBS reported she had been uninvited from a joint event with El-Sayed the same day.", "refs": ["c20187d52b"] },
+        { "text": "Stevens said on Sunday night that El-Sayed had been 'getting angrier and angrier' and that recent campaign ads motivated her decision, per the Washington Examiner.", "refs": ["c780022171"] },
+        { "text": "The Guardian reported that her chief of staff, Justin German, and communications director, Logan Basch, were among staff who reportedly quit after the endorsement.", "refs": ["091b4ae301"] },
+        { "text": "The Guardian reported that Trump praised the switch; at an Iowa rally he said he would like Stevens to switch parties.", "refs": ["1a23cb7e41", "7fbc588ff3"] },
+        { "text": "Commentator James Carville, a Democrat, was reported by the New York Post to have made a vulgar remark about Stevens.", "refs": ["5798b215fb"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "1a23cb7e41", "note": "Quotes Democrats calling it a 'despicable betrayal' and leads with the party's backlash." },
+        { "ref": "c780022171", "note": "Leads with Stevens defending the move as a broader point about her party." },
+        { "ref": "5798b215fb", "note": "Centers on Carville's vulgar remark rather than the race itself." },
+        { "ref": "c20187d52b", "note": "Neutral wire framing: a surprise endorsement for the Trump-backed candidate, with the uninvite as context." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c20187d52b", "takeaway": "Wire-style account of the endorsement and the uninvited joint event.", "read_full": false },
+        { "ref": "df74cb67e5", "takeaway": "Adds the dispute over the outside ad that preceded the endorsement.", "read_full": false },
+        { "ref": "c780022171", "takeaway": "Stevens' own explanation, in her words.", "read_full": false },
+        { "ref": "1a23cb7e41", "takeaway": "Democratic backlash and Trump's praise.", "read_full": false },
+        { "ref": "091b4ae301", "takeaway": "Live blog noting staff departures.", "read_full": false },
+        { "ref": "5798b215fb", "takeaway": "Carville's remark; tabloid-style framing.", "read_full": false },
+        { "ref": "837ada7f4e", "takeaway": "Brief international take framing it as a boost to Republicans.", "read_full": false },
+        { "ref": "4b27508afd", "takeaway": "Headline and summary only (paywalled): progressive vs moderate split.", "read_full": false },
+        { "ref": "7fbc588ff3", "takeaway": "Headline only (paywalled): Trump says he'd love Stevens to switch parties.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "alaska-doj-suit-dismissed",
+      "headline": "Judge dismisses DOJ suit over two Dan Sullivans on Alaska's Senate ballot",
+      "region": "Courts",
+      "importance": 5,
+      "summary": "A federal judge on Sunday dismissed a Justice Department lawsuit that sought to block certification of Alaska's Senate race if Republican Sen. Dan Sullivan loses. CNBC and Fox News report the DOJ plans to appeal. Sullivan has said he would accept the result.",
+      "why_it_matters": "The case tested whether the federal government can step in before votes are counted to contest a state's election result. How Alaska's race is certified affects who holds a Senate seat that could decide control of the chamber.",
+      "background": "Alaska's Senate race pits incumbent Republican Dan Sullivan against Democrat Mary Peltola. A second candidate, Daniel J. Sullivan, also appears on the ballot with no party affiliation. The Justice Department sued, arguing the second name could divert voters and benefit the Democrat. Alaska officials, the Peltola campaign and Democratic groups asked the court to toss the case, arguing the department lacks standing and that the ballot distinguishes the two candidates.",
+      "facts": [
+        { "text": "A federal judge dismissed the Justice Department's lawsuit on Sunday; it had sought to block certification if Sullivan loses.", "refs": ["38543ecc36", "3827944192", "fb68704085"] },
+        { "text": "CNBC and Fox News reported the Justice Department said it would appeal.", "refs": ["8bef20d48c", "50a9147f31"] },
+        { "text": "The department had argued the second Sullivan's name on the ballot potentially diverted voters and would benefit the Democrat.", "refs": ["28b608637e"] },
+        { "text": "Before the ruling, Alaska's Department of Law argued the federal government has no standing and the complaint fails to state a claim under the National Voter Registration Act; it also said the second candidate is listed as Daniel J. Sullivan Jr., with no party.", "refs": ["us-w1"] },
+        { "text": "Sullivan said he would accept Alaska's results, while also suggesting the election could be 'stolen,' per the New York Times.", "refs": ["fabdb63c8a", "5522c1fa71"] },
+        { "text": "AP reported the FBI has been visiting residents of Petersburg, Alaska, where the second Sullivan lives, and that he could not be located.", "refs": ["7fceca9f92", "c87eef58f6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "897cf710e3", "note": "Calls it the 'latest defeat for the Trump administration,' stressing the string of losses." },
+        { "ref": "50a9147f31", "note": "Uses the nickname 'Decoy Dan' and leads with the DOJ's plan to appeal." },
+        { "ref": "483c1bad52", "note": "Headline stresses the judge's appointing president and says the case failed on procedure, not on the confusion argument." },
+        { "ref": "28b608637e", "note": "Explains the DOJ's argument and why the judge tossed it." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "38543ecc36", "takeaway": "AP text: ruling on Sunday and what the suit sought.", "read_full": false },
+        { "ref": "8bef20d48c", "takeaway": "Notes DOJ vows appeal and the two-Sullivan setup.", "read_full": false },
+        { "ref": "28b608637e", "takeaway": "Lays out DOJ's argument.", "read_full": false },
+        { "ref": "50a9147f31", "takeaway": "Appeal-first framing.", "read_full": false },
+        { "ref": "483c1bad52", "takeaway": "Emphasizes judge's origin; right-leaning framing.", "read_full": false },
+        { "ref": "897cf710e3", "takeaway": "Headline and summary only (paywalled): a defeat for the administration.", "read_full": false },
+        { "ref": "fabdb63c8a", "takeaway": "Headline and summary only (paywalled): Sullivan says he will accept results.", "read_full": false },
+        { "ref": "7fceca9f92", "takeaway": "Headline only: FBI visits to Petersburg.", "read_full": false },
+        { "ref": "c87eef58f6", "takeaway": "Brief on the fishing town.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "murphy-stroke",
+      "headline": "Sen. Chris Murphy hospitalized after stroke, office says he is awake and alert",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "Connecticut Democratic Sen. Chris Murphy, 53, had a stroke on Saturday and is being treated at Johns Hopkins Hospital, his office said Sunday. His office says he is awake and alert.",
+      "why_it_matters": "Murphy has been campaigning for Democrats ahead of Tuesday's midterms and is seen as a possible 2028 presidential candidate.",
+      "background": "Chris Murphy is a Democratic senator from Connecticut and a prominent voice on gun policy and foreign affairs. He has been traveling the country for fellow Democrats in the closing days of the 2026 campaign. His office announced the stroke on Sunday, a day after it happened.",
+      "facts": [
+        { "text": "Murphy's chief of staff, Allison Herwitt, said he began to feel numbness in his arm at his son's hockey game on Saturday.", "refs": ["5c91542ea1"] },
+        { "text": "He is being treated at Johns Hopkins Hospital, according to Axios.", "refs": ["c08de82be2"] },
+        { "text": "His office described him as 'awake and alert,' CNBC and the New York Times reported.", "refs": ["8fe1dcfdad", "284edb92d3"] },
+        { "text": "NPR reported he is expected to fully recover.", "refs": ["ef58a7b029"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "284edb92d3", "note": "Adds his possible 2028 run and his campaign travel." },
+        { "ref": "ef58a7b029", "note": "Uses the story as a public-health explainer on stroke signs." },
+        { "ref": "c08de82be2", "note": "Ties it to the midterm campaign schedule." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "5c91542ea1", "takeaway": "Statement from chief of staff, with how it began.", "read_full": false },
+        { "ref": "c08de82be2", "takeaway": "Hospital and campaign context.", "read_full": false },
+        { "ref": "ef58a7b029", "takeaway": "Stroke-awareness explainer; says expected to fully recover.", "read_full": false },
+        { "ref": "8fe1dcfdad", "takeaway": "Notes 'awake and alert'.", "read_full": false },
+        { "ref": "284edb92d3", "takeaway": "Headline and summary only (paywalled): 2028 angle.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "florida-learjet-crash",
+      "headline": "Learjet crashes in Palm Beach County, Florida, killing all nine aboard",
+      "region": "National",
+      "importance": 4,
+      "summary": "A Learjet flying from Austin, Texas, to the Bahamas crashed Sunday in a Palm Beach County neighborhood near a busy road, killing all nine on board, Transportation Secretary Sean Duffy said. The cause has not been released.",
+      "why_it_matters": "Federal investigators will look at what caused the plane to dive, which can lead to safety changes for private jets. Residents near the site were affected by the crash and fire.",
+      "background": "Business jets like the Learjet fly regularly between Texas and the Bahamas. Plane crashes are investigated by the National Transportation Safety Board, with the FAA assisting. Findings usually take months, though preliminary information can come out within weeks.",
+      "facts": [
+        { "text": "All nine people on board were killed, Transportation Secretary Sean Duffy said; the plane left Austin-Bergstrom International Airport headed for the Bahamas.", "refs": ["1402778019", "bde9c950f0"] },
+        { "text": "The crash was near a busy road in a residential area and left a large crater, per Deutsche Welle.", "refs": ["a1949d832d"] },
+        { "text": "The New York Times reported a pilot said by radio the plane was descending at 20,000 feet per minute.", "refs": ["5db1a76494"] },
+        { "text": "CBS News reported details about the cause had not been shared.", "refs": ["bca55fbe94"] },
+        { "text": "BBC reported the crash was near Mar-a-Lago, and Duffy called it a 'horrific tragedy.'", "refs": ["27c8c1faca"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Where the crash happened",
+          "positions": [
+            { "claim": "Palm Beach, Florida.", "refs": ["bca55fbe94"] },
+            { "claim": "Miami, per The Guardian video description.", "refs": ["6ecf6d54d3"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "5db1a76494", "note": "Describes the plane diving nose first and exploding." },
+        { "ref": "bde9c950f0", "note": "Stresses the fireball near a busy roadway." },
+        { "ref": "27c8c1faca", "note": "Highlights the location near Mar-a-Lago." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "1402778019", "takeaway": "Duffy's confirmation and flight route.", "read_full": false },
+        { "ref": "bde9c950f0", "takeaway": "Scene and route details.", "read_full": false },
+        { "ref": "a1949d832d", "takeaway": "Learjet in residential neighborhood.", "read_full": false },
+        { "ref": "27c8c1faca", "takeaway": "Mar-a-Lago proximity and Duffy quote.", "read_full": false },
+        { "ref": "5db1a76494", "takeaway": "Headline and summary only (paywalled): descent rate.", "read_full": false },
+        { "ref": "bca55fbe94", "takeaway": "Cause not yet known.", "read_full": false },
+        { "ref": "6ecf6d54d3", "takeaway": "Video description only.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-wsj-suit-dismissed",
+      "headline": "Judge dismisses Trump's $10 billion defamation suit against Wall Street Journal over Epstein letter",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "A federal judge on Saturday threw out, with prejudice, President Trump's suit against the Wall Street Journal and Rupert Murdoch over a 2025 story on a birthday letter to Jeffrey Epstein. NPR quotes the judge calling the suit 'grasping at straws.' Trump's side said it will keep pressing.",
+      "why_it_matters": "The ruling is a press-freedom decision: it bears on how easily public figures can sue news outlets over reporting on them.",
+      "background": "In July 2025 the Wall Street Journal reported that a birthday book for Jeffrey Epstein included a letter attributed to Trump. Trump denied writing it and sued for $10 billion. A dismissal with prejudice generally bars refiling the same claims, though it can be appealed.",
+      "facts": [
+        { "text": "The judge dismissed the suit with prejudice on Saturday.", "refs": ["53c314e292", "22fc29958f"] },
+        { "text": "Trump denied writing the letter, which was the subject of the Journal's 2025 article.", "refs": ["53c314e292"] },
+        { "text": "The Daily Caller headline quotes a statement that 'President Trump will continue to press forward.'", "refs": ["4c35be6256"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "22fc29958f", "note": "Leads with the judge's 'grasping at straws' phrasing." },
+        { "ref": "4c35be6256", "note": "Leads with 'with prejudice' and Trump's vow to continue." },
+        { "ref": "faf1874beb", "note": "Neutral account focusing on the birthday-book letter." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "53c314e292", "takeaway": "Dismissal and Trump's denial.", "read_full": false },
+        { "ref": "22fc29958f", "takeaway": "Judge's quote and the $10 billion claim.", "read_full": false },
+        { "ref": "4c35be6256", "takeaway": "Trump team's response.", "read_full": false },
+        { "ref": "faf1874beb", "takeaway": "Straight report on the letter.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "doj-noncitizen-voting-sanctions",
+      "headline": "Justice Department urges sanctions on group that disputed its noncitizen voter data",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "The Justice Department asked a federal judge to consider holding an immigrant rights group in contempt after it publicly disclosed its analysis of a dataset of alleged noncitizens registered to vote in California. The group says its analysis found over 40% of the people on the list do not appear in the state's voter file.",
+      "why_it_matters": "The dispute is about the accuracy of federal data used to question voters' eligibility days before an election. Errors in such lists can affect whether eligible citizens are flagged.",
+      "background": "The Justice Department has been pursuing claims about noncitizens on voter rolls, including in California. Immigrant rights groups sued over the use of federal databases for voter checks, saying they could wrongly flag naturalized citizens. The government has said the data comes from public voter rolls cross-referenced with its own records.",
+      "facts": [
+        { "text": "Attorneys for the group filed papers Saturday saying their analysis found more than 40% of people on the list do not appear in the state's voter file.", "refs": ["00e013dec3"] },
+        { "text": "The department urged a judge to consider contempt for disclosing the analysis.", "refs": ["35539faa92"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "00e013dec3", "note": "Includes the 40% finding." },
+        { "ref": "35539faa92", "note": "Centers on the contempt request." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "00e013dec3", "takeaway": "Details the group's finding.", "read_full": false },
+        { "ref": "35539faa92", "takeaway": "AP: the contempt request.", "read_full": false },
+        { "ref": "67e27e8168", "takeaway": "Headline only (paywalled).", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-final-rallies",
+      "headline": "Trump makes final midterm push in Iowa and Kansas as control of Congress is at stake",
+      "region": "White House",
+      "importance": 3,
+      "summary": "President Trump held rallies in Iowa and Kansas on Sunday, two days before the midterms. BBC and CBS note both states are normally Republican but are competitive this year, with CBS saying polls show Iowa as a toss-up.",
+      "why_it_matters": "Tuesday's vote decides control of the House and Senate, which shapes federal policy and spending for the next two years.",
+      "background": "Midterm elections are held halfway through a president's term and decide all House seats and a third of the Senate. Republicans currently hold majorities in Congress. Both parties have spent the final weekend in competitive states.",
+      "facts": [
+        { "text": "Trump rallied in Iowa and Kansas as Republicans try to hold both chambers, per AP.", "refs": ["e3d59462e3"] },
+        { "text": "CBS News reported polls indicate a toss-up in Iowa.", "refs": ["ceb3b11438"] },
+        { "text": "BBC said the states rallied in were previously won by Republicans, showing how tight control is.", "refs": ["192330b7d9"] },
+        { "text": "The Guardian reported Trump referred to El-Sayed as a 'jihadist' at the Iowa event; the Guardian described the remarks as racist.", "refs": ["9cf6a04116"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "9cf6a04116", "note": "Leads with Trump's remarks about El-Sayed, which it calls racist." },
+        { "ref": "6e581bd5de", "note": "Live-video framing of the campaign push." },
+        { "ref": "192330b7d9", "note": "Focuses on how tight the races are." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e3d59462e3", "takeaway": "Headline only: rallies in both states.", "read_full": false },
+        { "ref": "ceb3b11438", "takeaway": "Iowa toss-up.", "read_full": false },
+        { "ref": "192330b7d9", "takeaway": "Tight-race analysis.", "read_full": false },
+        { "ref": "9cf6a04116", "takeaway": "Trump's remarks on El-Sayed.", "read_full": false },
+        { "ref": "6e581bd5de", "takeaway": "Headline only: live video of the Kansas event.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://alaskapublic.org/news/politics/elections/2026-10-27/state-of-alaska-says-doj-lawsuit-over-senate-race-has-no-legal-basis", "title": "State of Alaska says DOJ lawsuit over Senate race has no legal basis", "outlet": "Alaska Public Media" }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "stories": [
+    {
+      "id": "iran-war-strike-threats-doha-talks",
+      "headline": "Iran and US trade threats of renewed war as Doha talks end without a deal",
+      "region": "Middle East",
+      "importance": 5,
+      "summary": "President Trump told a campaign rally on Sunday he may yet have to give Iran \"the hammer\", and Iran replied that a new war could outlast the last one. Iranian negotiators left Doha after three days of Qatar-mediated talks, with a draft proposal for a US deal reportedly circulating. Gulf officials are said to be bracing for escalation after the US midterms on November 3.",
+      "why_it_matters": "A return to fighting would put at risk shipping through the Strait of Hormuz and Gulf security, and would push fuel costs up for businesses and travelers worldwide.",
+      "background": "The US and Israel fought a war with Iran earlier this year, and the sides have since been in a fragile pause with repeated threats to resume strikes. Qatar has been mediating indirect talks, including over the release of about $6 billion in Iranian assets that could lead to the reopening of the Strait of Hormuz. Trump had previously said he would not strike Iran again before the US midterm elections. Israeli Prime Minister Benjamin Netanyahu is reported to favor resuming the campaign after the vote.",
+      "facts": [
+        { "text": "Trump told a campaign rally on Sunday that he may have to give Iran \"the hammer\" at some unspecified time, reiterating a threat to resume strikes.", "refs": ["c6a102e4af", "06413aba9f"] },
+        { "text": "Iran said a renewed war with the US could last longer than the previous round and threatened retaliation without geographical limits.", "refs": ["06413aba9f", "b08bce3a4e"] },
+        { "text": "Iran's supreme leader on October 31 warned the US and Israel against launching new attacks, and Secretary of State Rubio said Washington had not yet decided on new strikes.", "refs": ["a0bd71a0ee"] },
+        { "text": "Iranian negotiators had held a third day of indirect talks in Doha with Qatari mediators; Qatar was trying to negotiate release of $6 billion in Iranian assets.", "refs": ["e401320790", "17d074ce2b"] },
+        { "text": "By Monday, a Reuters report said the Iranians had left Doha and a draft proposal for a US deal was being circulated, according to an official.", "refs": ["3fb979a76e"] },
+        { "text": "Axios, citing one Israeli and one US source, reported that Trump and Netanyahu had a candid call on Saturday in which Netanyahu pressed to resume strikes; Trump later called it a good talk.", "refs": ["d08b439a33", "5564c9e019"] },
+        { "text": "Iran said the \"ball is in the U.S. court\" on any deal, according to CBS News.", "refs": ["e8cef5f743"] },
+        { "text": "Diplomats told the Financial Times that renewed conflict would be more damaging to the Gulf than earlier rounds.", "refs": ["69ca31dece"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "c6a102e4af", "note": "Ties Trump's threat to the midterm campaign and his earlier pledge not to strike before the vote." },
+        { "ref": "6a00f9f3a0", "note": "Headline puts Netanyahu's push for strikes alongside Trump's threat, casting Israel as the driver." },
+        { "ref": "e8cef5f743", "note": "Leads with Iran's position that the decision to end or resume the war rests with Washington, and that diplomacy is alive." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c6a102e4af", "takeaway": "Reports the rally remark and links it to the midterms.", "read_full": false },
+        { "ref": "06413aba9f", "takeaway": "Iran's warning that a new war could be longer, with the retaliation threat.", "read_full": false },
+        { "ref": "b08bce3a4e", "takeaway": "Same Iranian warning, framed as part of repeated threats while diplomacy continues.", "read_full": false },
+        { "ref": "a0bd71a0ee", "takeaway": "Rubio says no decision on new strikes; Iran's leader warns against attack.", "read_full": false },
+        { "ref": "e401320790", "takeaway": "Reuters headline on the third day of Doha talks.", "read_full": false },
+        { "ref": "17d074ce2b", "takeaway": "Guardian: negotiators braced for the worst; $6bn in assets at issue.", "read_full": false },
+        { "ref": "3fb979a76e", "takeaway": "Reuters headline: Iranians have left Doha, draft proposal circulating.", "read_full": false },
+        { "ref": "d08b439a33", "takeaway": "Axios's sourced account of the Trump-Netanyahu call.", "read_full": false },
+        { "ref": "5564c9e019", "takeaway": "Times of Israel: Trump confirms a good talk about Iran.", "read_full": false },
+        { "ref": "69ca31dece", "takeaway": "Headline and summary only (paywalled): Gulf diplomats fear a worse round.", "read_full": false },
+        { "ref": "e8cef5f743", "takeaway": "CBS live updates: Iran says the ball is in the US court.", "read_full": false },
+        { "ref": "6a00f9f3a0", "takeaway": "Only right-leaning outlet in the cluster; headline only, stresses Netanyahu's push.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "kherson-oleshky-ceasefire-ends",
+      "headline": "Localized Kherson ceasefire ends after hundreds of civilians evacuate Oleshky",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "A several-day local truce around the Russian-occupied city of Oleshky in Ukraine's Kherson region has ended. It let hundreds of civilians leave a riverside area described as a kill zone. Ukraine says Russia used the pause to reinforce its positions.",
+      "why_it_matters": "It shows how little safe passage civilians in front-line areas have, and that even short truces are being contested.",
+      "background": "Russia has occupied parts of Kherson Oblast, including Oleshky on the left bank of the Dnipro River, since the 2022 invasion. Civilians remaining along the river face drone attacks from both sides of the line. The truce was a narrow, local arrangement rather than a wider ceasefire.",
+      "facts": [
+        { "text": "Ukraine's General Staff said 167 Kherson Oblast residents trapped on the right bank of the Dnipro were evacuated, including 22 children and 21 people with limited mobility.", "refs": ["c140926c39"] },
+        { "text": "NPR reported the ceasefire lasted several days and allowed hundreds of residents to evacuate before it ended.", "refs": ["2c775af064"] },
+        { "text": "Evacuees from Oleshky reached Ukraine's Chernihiv region on Saturday after traveling through Russia and Belarus.", "refs": ["890b9da218"] },
+        { "text": "Reuters reported that Ukraine said Russia used the Oleshky ceasefire to reinforce positions.", "refs": ["f4c624e98d"] },
+        { "text": "AP reported that residents of Kherson are preparing for attacks as the truce ends.", "refs": ["d778dec130", "f5e710b553"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "c140926c39", "note": "Reports the evacuation tally from the General Staff." },
+        { "ref": "a3696e4813", "note": "Frames the truce as a perilous escape window from a riverside kill zone, centered on one civilian." },
+        { "ref": "f4c624e98d", "note": "Centers Ukraine's accusation that Russia exploited the truce." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c140926c39", "takeaway": "Evacuation numbers from Ukraine's General Staff.", "read_full": false },
+        { "ref": "2c775af064", "takeaway": "Short NPR note on the ceasefire ending after hundreds left.", "read_full": false },
+        { "ref": "890b9da218", "takeaway": "Human-interest report on evacuees' route and reunions.", "read_full": false },
+        { "ref": "f4c624e98d", "takeaway": "Headline only: Ukraine's claim of Russian reinforcement.", "read_full": false },
+        { "ref": "d778dec130", "takeaway": "AP headline: residents brace for attacks.", "read_full": false },
+        { "ref": "a3696e4813", "takeaway": "ABC/AP: personal account of fleeing the kill zone.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ukraine-russia-alert-app-hacks",
+      "headline": "Ukraine and Russia both report cyberattacks on emergency alert apps",
+      "region": "Europe",
+      "importance": 3,
+      "summary": "Ukrainians received false messages late Sunday warning of nuclear danger, radiation and street fighting in Kyiv through the national emergency alert app. Russia's Emergency Ministry said hackers also got into its app and sent \"fake information\", and took it offline temporarily. Neither government has publicly named who is responsible, according to the reports.",
+      "why_it_matters": "False alerts can cause panic and make people ignore real warnings during air raids.",
+      "background": "Both countries use mobile apps to warn residents about air raids and other threats. Cyberattacks have accompanied the war since 2022. Zelenskyy also said Ukraine would stop refinery strikes if the US sends Patriot missiles.",
+      "facts": [
+        { "text": "Unknown hackers sent Kyiv residents a false warning of an imminent nuclear threat, plus chemical attack and street-fighting alerts, through Ukraine's emergency app.", "refs": ["3cddf518ef", "6f6370ed76"] },
+        { "text": "Russian authorities said hackers accessed the Emergency Ministry's mobile app and sent fake information; the ministry took the app offline temporarily.", "refs": ["cc0d6d4d3c", "a75146890d"] },
+        { "text": "Deutsche Welle reported Zelenskyy said Ukraine will stop refinery strikes if the US sends Patriot missiles.", "refs": ["d97469f666"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "6f6370ed76", "note": "Leads with the Ukrainian public receiving baseless nuclear and radiation warnings." },
+        { "ref": "513169a568", "note": "Treats it as a two-sided episode amid continuing strikes." },
+        { "ref": "a75146890d", "note": "Gives equal weight to Russian and Ukrainian reports." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d97469f666", "takeaway": "DW live item pairing the hacks with Zelenskyy's Patriot offer.", "read_full": false },
+        { "ref": "3cddf518ef", "takeaway": "Guardian detail on the content of the fake Kyiv alert.", "read_full": false },
+        { "ref": "cc0d6d4d3c", "takeaway": "Guardian live blog on the Russian side.", "read_full": false },
+        { "ref": "6f6370ed76", "takeaway": "NBC: fake alerts were baseless.", "read_full": false },
+        { "ref": "a75146890d", "takeaway": "France 24 short report covering both countries.", "read_full": false },
+        { "ref": "513169a568", "takeaway": "CNBC headline summary of both attacks.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "binance-hack-withdrawals-resume",
+      "headline": "Binance reopens withdrawals after record $6.3 billion hack; users pull billions",
+      "region": "Global",
+      "importance": 4,
+      "summary": "Binance went back online Sunday after a theft of about $6.3 billion that the FBI links to North Korea. Customers withdrew billions in the first hours. The exchange says withdrawals are stabilizing and it has pledged to reimburse users whose assets were stolen.",
+      "why_it_matters": "Anyone holding money on a crypto exchange is exposed to this kind of loss, and the size of the outflow shows how fast confidence can move.",
+      "background": "Binance is the world's largest cryptocurrency exchange. It froze deposits and withdrawals after the theft last week. Blockchain-analysis firms TRM Labs and Chainalysis attribute the hack to North Korea's TraderTraitor group, and the FBI has said it is working with partners on the investigation. Binance said it would cover losses.",
+      "facts": [
+        { "text": "Customers pulled $3.64 billion, or 2.1% of Binance's assets, as the exchange went back online on Sunday, Reuters reported.", "refs": ["8b4fd41871", "f9b0abe2a8"] },
+        { "text": "Binance said withdrawals were stabilizing after an initial spike and that deposit volumes remained \"substantial\".", "refs": ["9355974e88"] },
+        { "text": "The Wall Street Journal reported Binance says it has replaced roughly 95% of the stolen assets so far.", "refs": ["c84e138893"] },
+        { "text": "The hackers were linked by the FBI to North Korea; the Financial Times reported Binance pledged to reimburse users whose assets were stolen.", "refs": ["bc46b33a52", "ee4f63a83a"] },
+        { "text": "Blockchain intelligence firms TRM Labs and Chainalysis assessed with high confidence that North Korea's TraderTraitor group was responsible, and Binance has not independently confirmed that attribution.", "refs": ["world-w1"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How much users withdrew after reopening",
+          "positions": [
+            { "claim": "About $3.64 billion (2.1% of assets), per Reuters and others.", "refs": ["8b4fd41871", "218ff81fdd", "bc46b33a52"] },
+            { "claim": "About $3.4 billion on Sunday, per France 24.", "refs": ["6757aa5331"] },
+            { "claim": "About $5 billion, per the Financial Times headline.", "refs": ["ee4f63a83a"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "bc46b33a52", "note": "Leads with users withdrawing money, calling it the largest-ever crypto hack." },
+        { "ref": "c84e138893", "note": "Leads with resumption and the recovery of most stolen assets." },
+        { "ref": "9355974e88", "note": "Emphasizes Binance's statement that withdrawals are stabilizing." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "8b4fd41871", "takeaway": "Reuters wire: withdrawal figure and FBI link.", "read_full": false },
+        { "ref": "f9b0abe2a8", "takeaway": "Headline and summary only (paywalled): same Reuters figures.", "read_full": false },
+        { "ref": "9355974e88", "takeaway": "Includes Binance's stabilizing statement.", "read_full": false },
+        { "ref": "c84e138893", "takeaway": "Headline and summary only (paywalled): 95% of stolen assets replaced.", "read_full": false },
+        { "ref": "218ff81fdd", "takeaway": "CNBC: $3.64 billion in net outflows.", "read_full": false },
+        { "ref": "bc46b33a52", "takeaway": "BBC: summary of the North Korea link and outflows.", "read_full": false },
+        { "ref": "ee4f63a83a", "takeaway": "Headline and summary only (paywalled): $5bn figure, reimbursement pledge.", "read_full": false },
+        { "ref": "6757aa5331", "takeaway": "France 24: $3.4 billion figure.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "bulgaria-iotova-wins-runoff",
+      "headline": "Iliana Iotova wins Bulgaria's presidential runoff, becoming first elected female president",
+      "region": "Europe",
+      "importance": 3,
+      "summary": "Bulgaria's acting President Iliana Iotova, an ally of Prime Minister Rumen Radev, won the Sunday runoff over banker Andrey Gyurov. Near-final results from the election commission showed her winning amid low turnout. She favors dialogue with Moscow and opposes military aid to Ukraine.",
+      "why_it_matters": "A Black Sea EU and NATO member's new head of state is skeptical of arming Ukraine, which may matter for European unity on the war.",
+      "background": "Bulgaria's presidency is largely ceremonial but the president can influence foreign policy messaging and appoints caretaker governments. Iotova had been acting president. The vote came amid security concerns after a series of drone attacks on commercial vessels in the Black Sea.",
+      "facts": [
+        { "text": "Iotova won the runoff, per near-final results from the Central Election Commission, becoming the first elected female head of state, with low turnout.", "refs": ["03a55df44a", "69956a6719"] },
+        { "text": "The Kyiv Independent reported she won 57.58% with 99.95% of polling-station protocols processed.", "refs": ["2ff66927ee"] },
+        { "text": "She was pitted against Andrey Gyurov, a banker; she opposes military aid to Ukraine and favors dialogue with Moscow.", "refs": ["46a9e9a18e", "2ff66927ee"] },
+        { "text": "Exit polls had given her about 52%, per ABC News.", "refs": ["9ce5630ea2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "2ff66927ee", "note": "Headline labels her Russia-friendly, stressing the Ukraine angle." },
+        { "ref": "69956a6719", "note": "Neutral wire headline noting she is Radev's ally and first female president." },
+        { "ref": "63a281eb6b", "note": "Press-review headline quotes a Bulgarian paper on a \"consolidation of power\"." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "69956a6719", "takeaway": "Reuters: win and Radev alliance.", "read_full": false },
+        { "ref": "03a55df44a", "takeaway": "Near-final results and low turnout.", "read_full": false },
+        { "ref": "2ff66927ee", "takeaway": "Final percentage and her Ukraine position.", "read_full": false },
+        { "ref": "46a9e9a18e", "takeaway": "Headline and summary only (paywalled): rival and positions.", "read_full": false },
+        { "ref": "9ce5630ea2", "takeaway": "ABC/AP exit-poll story.", "read_full": false },
+        { "ref": "63a281eb6b", "takeaway": "Press review of Bulgarian papers.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "india-opposition-rally-election-chief",
+      "headline": "India's opposition rallies in Delhi demanding election chief's resignation",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "Thousands joined an opposition rally in New Delhi calling for the chief election commissioner to step down, over a revision of electoral rolls. It was the latest protest against Prime Minister Narendra Modi's government.",
+      "why_it_matters": "Voter-roll accuracy decides who can vote in the world's largest democracy.",
+      "background": "India's election commission has been revising voter rolls. Opposition parties say the revision is controversial and have repeatedly called for the election chief to resign. The commission's own response is not in the summaries reviewed here.",
+      "facts": [
+        { "text": "Thousands gathered in central Delhi calling for the chief election commissioner to step down.", "refs": ["8fa2de3423", "21a74bb851"] },
+        { "text": "The march was over a controversial revision of electoral rolls.", "refs": ["15295ab89b"] },
+        { "text": "AP described it as a renewed call for the chief's resignation and fresh protests.", "refs": ["4cefb24488", "22b40e14dd"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "8fa2de3423", "note": "Calls it a \"mega rally\" with a single demand: resignation." },
+        { "ref": "15295ab89b", "note": "Emphasizes the voter-roll revision as the cause." },
+        { "ref": "4cefb24488", "note": "Frames it as public dissent against Modi's government." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "8fa2de3423", "takeaway": "BBC: rally and demand.", "read_full": false },
+        { "ref": "15295ab89b", "takeaway": "DW live: voter-roll revision as cause.", "read_full": false },
+        { "ref": "4cefb24488", "takeaway": "ABC/AP: protest against the Modi government.", "read_full": false },
+        { "ref": "21a74bb851", "takeaway": "Headline only (paywalled).", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "western-sahara-peacekeeping-ends",
+      "headline": "UN peacekeeping mission in Western Sahara ends after 35 years",
+      "region": "Africa",
+      "importance": 3,
+      "summary": "The UN's mission in Western Sahara ceased operations Sunday after the Security Council failed to renew its mandate, the UN chief said. AP reported the lapse followed a US-Russia standoff.",
+      "why_it_matters": "The mission monitored a ceasefire in a disputed territory; without it, there is less independent oversight there.",
+      "background": "Western Sahara was once ruled by Spain and is claimed by both Morocco and the pro-independence Polisario Front. The UN mission was established 35 years ago. Council renewals have usually been annual.",
+      "facts": [
+        { "text": "The mission will end after the Security Council failed to renew its mandate, the UN chief said Sunday.", "refs": ["b5fbfb1b0d", "fe213f2800"] },
+        { "text": "AP and NPR reported operations ceased Sunday after 35 years; AP attributed it to a US-Russia standoff.", "refs": ["2c04f6d418", "e60e12a673"] },
+        { "text": "The territory is claimed by both Morocco and the Polisario Front.", "refs": ["e60e12a673"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "2c04f6d418", "note": "Headline assigns the cause to a US-Russia standoff." },
+        { "ref": "b5fbfb1b0d", "note": "Reuters attributes it to the Council's failure to renew, per the UN chief." },
+        { "ref": "e60e12a673", "note": "Emphasizes the territory's disputed status." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "b5fbfb1b0d", "takeaway": "Reuters wire text via Daily Maverick.", "read_full": false },
+        { "ref": "fe213f2800", "takeaway": "Reuters headline.", "read_full": false },
+        { "ref": "2c04f6d418", "takeaway": "AP headline on the US-Russia standoff.", "read_full": false },
+        { "ref": "e60e12a673", "takeaway": "NPR: dispute background.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "commonwealth-leaders-antigua",
+      "headline": "Commonwealth leaders gather in Antigua amid global political turbulence",
+      "region": "Americas",
+      "importance": 2,
+      "summary": "Leaders representing nearly a third of the world's population are meeting in Antigua this week to strengthen ties. Only left-leaning outlets in the digest covered it.",
+      "why_it_matters": "The meeting sets out cooperation among 50-plus countries on trade and climate, though it rarely changes daily life directly.",
+      "background": "The Commonwealth is a voluntary grouping of mostly former British territories. Its leaders meet every two years or so. This year's host is the Caribbean island nation of Antigua and Barbuda.",
+      "facts": [
+        { "text": "Dozens of Commonwealth leaders are meeting in Antigua this week, representing nearly a third of the world's population.", "refs": ["83050d2e11", "ef55133392"] },
+        { "text": "The gathering takes place during what AP calls global political upheaval.", "refs": ["83050d2e11"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "83050d2e11", "note": "Frames the summit as a response to global upheaval." },
+        { "ref": "ef55133392", "note": "Same AP story; emphasizes leaders descending on a tiny island." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "83050d2e11", "takeaway": "ABC/AP: summit overview.", "read_full": false },
+        { "ref": "ef55133392", "takeaway": "AP headline only.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w1", "url": "https://www.wcax.com/2026/10/30/north-korea-linked-63-billion-hack-binance-blockchain-intelligence-firms-say/", "title": "North Korea linked to $6.3 billion hack on Binance, blockchain intelligence firms say", "outlet": "WCAX (AP)" }
+  ]
+}

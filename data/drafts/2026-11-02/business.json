@@ -1,0 +1,130 @@
+{
+  "stories": [
+    {
+      "id": "stocks-rebound-after-ai-selloff",
+      "headline": "US stock futures rise as oil falls, easing last week's tech selloff",
+      "region": "Markets",
+      "importance": 5,
+      "summary": "US stock futures rose Monday and Treasury yields eased after a tech-led selloff last week, with falling oil prices cited as the main support. Outlets describe investors as returning to risk cautiously, with volatility still expected around the midterm elections and this week's economic data.",
+      "why_it_matters": "Retirement and investment accounts with large tech holdings swung with the AI trade last week, and outlets say further swings are possible this week. Falling oil and yields, if they hold, ease pressure on fuel prices and borrowing costs.",
+      "background": "Technology and artificial-intelligence stocks have driven much of the US market's gains, and trillions of dollars are tied up in that trade. Late last month tech shares sold off sharply. Separately, a conflict involving Iran has disrupted Gulf oil exports for months, keeping energy prices and inflation worries elevated. Markets are now looking ahead to the US midterm elections and monthly jobs data later this week.",
+      "facts": [
+        { "text": "Stock futures rose and Treasury yields eased as falling oil prices encouraged a cautious return to risk after last week's tech selloff, the Wall Street Journal reported.", "refs": ["20763921f4"] },
+        { "text": "Bloomberg reported US equity futures advanced to halt a selloff in the AI trade, with lower oil helping sentiment at the start of the month.", "refs": ["fb37bdbca6"] },
+        { "text": "The New York Times said investors are bracing for more market volatility after the tech selloff, even as futures rose Monday.", "refs": ["5af1e9c578"] },
+        { "text": "The Wall Street Journal reported investors, traders and some tech executives are seeking insurance-type protection against losses in the AI trade.", "refs": ["8b985286dd"] },
+        { "text": "Reuters headlined that Wall Street futures rose as AI stocks 'catch their breath', with the midterms in focus.", "refs": ["518be9474e"] },
+        { "text": "MarketWatch reported Citi gave up on a hyperscaler trade after it underperformed amid a sharp rotation, while a separate MarketWatch item said Deutsche Bank forecasts another rebound in tech.", "refs": ["7b6e422088", "b025b27896"] },
+        { "text": "Bloomberg reported UBS's Gerry Fowler said the market is pricing a shorter AI cycle than is likely to play out.", "refs": ["eb2ff11a89"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "20763921f4", "note": "Emphasizes a cautious return to risk, driven by lower oil and yields." },
+        { "ref": "5af1e9c578", "note": "Leads with expected further volatility rather than the Monday futures gain." },
+        { "ref": "8b985286dd", "note": "Frames the AI trade as the largest market bet, focusing on investors seeking protection." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "20763921f4", "takeaway": "Headline and summary only (paywalled): futures up, oil and yields lower.", "read_full": false },
+        { "ref": "fb37bdbca6", "takeaway": "Headline and summary only (paywalled): futures halt AI selloff, oil helps.", "read_full": false },
+        { "ref": "5af1e9c578", "takeaway": "Headline and summary only (paywalled): brace for volatility.", "read_full": false },
+        { "ref": "8b985286dd", "takeaway": "Headline and summary only (paywalled): investors hunt for AI-trade insurance.", "read_full": false },
+        { "ref": "518be9474e", "takeaway": "Headline only: futures up as AI stocks pause.", "read_full": false },
+        { "ref": "7b6e422088", "takeaway": "Summary only: Citi exits hyperscaler bet.", "read_full": false },
+        { "ref": "b025b27896", "takeaway": "Summary only: Deutsche Bank expects a tech rebound.", "read_full": false },
+        { "ref": "eb2ff11a89", "takeaway": "Headline and summary only (paywalled): UBS sees AI cycle underpriced.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "oil-falls-us-iran-diplomacy",
+      "headline": "Oil drops below $100 as US and Iran pursue talks; OPEC+ holds output steady",
+      "region": "Energy",
+      "importance": 5,
+      "summary": "US crude fell below $100 a barrel on Monday after reports that the US and Iran are pursuing diplomacy, per CNBC and the Wall Street Journal. OPEC+ kept its December output targets unchanged on Sunday, Reuters reported.",
+      "why_it_matters": "Oil prices feed into gasoline, shipping and food costs, so a sustained drop would ease inflation pressure; a breakdown in talks could push prices back up.",
+      "background": "A war involving Iran has run for roughly nine months and has disrupted Gulf oil exports. That has kept oil prices high and raised inflation concerns in fuel-importing countries. OPEC+, the producer group led by Saudi Arabia and Russia, sets output targets, though many Gulf members are producing well below them. Peace-talk reports have recently moved prices sharply.",
+      "facts": [
+        { "text": "CNBC reported US crude fell below $100 on Monday on news that both the US and Iran are pursuing diplomacy.", "refs": ["7f8f068798"] },
+        { "text": "The Wall Street Journal reported oil dropped amid diplomatic efforts to revive peace negotiations between Washington and Tehran.", "refs": ["f0fb82ee99"] },
+        { "text": "OPEC+ kept December oil output targets steady ahead of a tougher call for 2027, per Reuters; the New York Post carried the same report, noting most Gulf members are still pumping well below targets.", "refs": ["8b5ae8e5fc", "4527bc4e01"] },
+        { "text": "MarketWatch reported Goldman Sachs analysts see Brent averaging $130 next year, and potentially reaching $140 if Middle East tensions worsen.", "refs": ["f852c5f219"] },
+        { "text": "Bloomberg reported Indian bonds had their best day in six months as crude extended losses, easing inflation concerns.", "refs": ["d5d47d4813"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "7f8f068798", "note": "Headline puts the price level and the US-Iran diplomacy first." },
+        { "ref": "f852c5f219", "note": "Focuses on a high-price forecast, playing down Monday's decline." },
+        { "ref": "4527bc4e01", "note": "Highlights Gulf producers' output shortfall against targets." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "7f8f068798", "takeaway": "Oil below $100 on diplomacy reports.", "read_full": false },
+        { "ref": "f0fb82ee99", "takeaway": "Headline and summary only (paywalled): oil drops on peace-talk efforts.", "read_full": false },
+        { "ref": "8b5ae8e5fc", "takeaway": "Headline only: OPEC+ holds December targets.", "read_full": false },
+        { "ref": "4527bc4e01", "takeaway": "Summary only: Gulf members pumping below targets.", "read_full": false },
+        { "ref": "f852c5f219", "takeaway": "Summary only: Goldman's $130 average Brent forecast.", "read_full": false },
+        { "ref": "d5d47d4813", "takeaway": "Headline and summary only (paywalled): Indian bonds rally as oil falls.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "bonds-midterms-jobs-week",
+      "headline": "Bond yields ease as investors wait on midterms, Treasury refunding and jobs data",
+      "region": "Bonds",
+      "importance": 4,
+      "summary": "US and European government bond yields fell Monday as oil prices dropped, the Wall Street Journal reported. Outlets say investors are focused on the midterm elections, the Treasury's quarterly refunding announcement and monthly employment data.",
+      "why_it_matters": "Treasury yields influence mortgage and loan rates, and this week's data and election outcome could move them.",
+      "background": "A Treasury yield is the return investors demand to lend to the government, and it helps set borrowing costs across the economy. Yields move with inflation expectations, Federal Reserve policy and government borrowing needs. The Treasury announces its borrowing plans each quarter in a refunding statement. The midterm elections will decide control of Congress, which affects spending and regulation.",
+      "facts": [
+        { "text": "The Wall Street Journal reported US Treasury and European bond yields fell as oil prices dropped, with investors focused on midterms, the quarterly refunding and employment data.", "refs": ["baa0abb1a2"] },
+        { "text": "The Financial Times reported big fund managers are pressing 'pause' on bond positions ahead of the vote and data releases.", "refs": ["eb2e347328"] },
+        { "text": "CNBC reported Democratic gains in Congress could bring tougher oversight of major companies and shift federal spending and regulatory policy, with possible effects on defense, healthcare, crypto and AI stocks.", "refs": ["bb8c286348"] },
+        { "text": "CNBC separately reported the election could affect municipal bonds through state tax measures, new supply and the makeup of Congress.", "refs": ["7ad5af56b5"] },
+        { "text": "Bloomberg reported Morgan Stanley's Wilson expects any post-vote selloff to be short-lived.", "refs": ["3a158e8d11"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "eb2e347328", "note": "Describes institutional investors stepping aside, stressing caution." },
+        { "ref": "bb8c286348", "note": "Centers on Democratic gains and their sector effects." },
+        { "ref": "3a158e8d11", "note": "Stresses a likely quick bounce after the vote." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "baa0abb1a2", "takeaway": "Headline and summary only (paywalled): yields fall with oil; events ahead.", "read_full": false },
+        { "ref": "eb2e347328", "takeaway": "Headline and summary only (paywalled): bond managers pause.", "read_full": false },
+        { "ref": "bb8c286348", "takeaway": "Summary only: sector effects of Democratic gains.", "read_full": false },
+        { "ref": "7ad5af56b5", "takeaway": "Summary only: muni-bond effects of the election.", "read_full": false },
+        { "ref": "3a158e8d11", "takeaway": "Headline and summary only (paywalled): bulls expect a post-vote bounce.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "openai-abu-dhabi-deals",
+      "headline": "OpenAI signs four Abu Dhabi agreements as Altman visits UAE",
+      "region": "Tech deals",
+      "importance": 3,
+      "summary": "OpenAI signed four agreements in Abu Dhabi covering energy, government and investment while CEO Sam Altman met the emirate's crown prince, CNBC reported. Reuters said ADNOC and G42 signed a deal with OpenAI. Altman also made an unannounced weekend visit to South Korea.",
+      "why_it_matters": "The deals show where AI computing capacity and funding are being built, which feeds the investor debate over the AI trade and affects energy demand.",
+      "background": "OpenAI, maker of ChatGPT, has been signing partnerships to secure chips and computing power. Abu Dhabi's ADNOC is its state oil company and G42 is a UAE AI firm. Those tie-ins matter to markets because AI spending is central to recent stock moves.",
+      "facts": [
+        { "text": "CNBC reported OpenAI signed four Abu Dhabi agreements spanning energy, government and investment.", "refs": ["766c4d3493"] },
+        { "text": "Reuters reported ADNOC and G42 signed a deal with OpenAI as Altman traveled to the UAE.", "refs": ["5d7e2da583"] },
+        { "text": "CNBC reported Altman made an unannounced visit to South Korea, meeting Samsung executives and reportedly SK Group executives.", "refs": ["d1237c8215"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "766c4d3493", "note": "Frames it as OpenAI deepening its Abu Dhabi foothold." },
+        { "ref": "5d7e2da583", "note": "Names the ADNOC and G42 partners in the headline." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "766c4d3493", "takeaway": "Summary only: four agreements across sectors.", "read_full": false },
+        { "ref": "5d7e2da583", "takeaway": "Headline only: ADNOC and G42 deal.", "read_full": false },
+        { "ref": "d1237c8215", "takeaway": "Summary only: surprise South Korea visit.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": []
+}
