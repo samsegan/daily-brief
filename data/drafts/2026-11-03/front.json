@@ -1,0 +1,76 @@
+{
+  "overview": "Americans vote in the midterm elections today, with control of Congress at stake. Markets head into the vote with tech shares under pressure and oil prices swinging on whether the US and Iran can reach a deal to end their war. In New York, Mayor Zohran Mamdani threatened legal action against federal immigration authorities over reported use of city lots as staging areas. Abroad, the Spain train collision death toll and a reported $6.3 billion Binance hack are drawing wide attention.",
+  "markets": {
+    "summary": "US stocks were lower in the latest readings: the S&P 500 fell 1.82% in its last reported session (Oct. 30) and the Nasdaq slipped 1.07% on Monday, while the Dow rose 0.41% as oil fell on hopes of a US-Iran deal. Apple shares fell about 4.5% in premarket trading after its earnings report, with investors citing a weak gross-margin outlook, according to MarketWatch. Oil rebounded early Tuesday on doubts that a deal is close, and WSJ reported that higher oil raised expectations of higher interest rates. The 10-year Treasury yield (the rate the government pays to borrow for ten years, which influences mortgage rates) was 4.94% in the latest data, and the 30-year mortgage rate was 7.24%. Note that some figures here are a few days old because of reporting lags.",
+    "movers": [
+      {
+        "symbol": "SP500",
+        "why": "Fell 1.82% in its latest reading, as tech shares weakened; the Nasdaq is down about 7% over a month."
+      },
+      {
+        "symbol": "DCOILWTICO",
+        "why": "US crude is up about 21% in a month; outlets tie recent daily swings to hopes for, and doubts about, a US-Iran deal."
+      },
+      {
+        "symbol": "DGS10",
+        "why": "The 10-year yield dipped 4 basis points but remains near 4.9%, which keeps borrowing costs high."
+      },
+      {
+        "symbol": "CBBTCUSD",
+        "why": "Bitcoin fell 1.34%; the cause is unclear, though a reported $6.3 billion hack of the Binance exchange has been in the news."
+      }
+    ],
+    "concept": {
+      "term": "Safe-haven asset",
+      "explanation": "A safe-haven asset is something investors buy when they fear losses elsewhere, such as gold, US Treasury bonds or sometimes the dollar. Demand rises with war, election or recession worries and falls when those ease, but gold can also drop when higher interest rates make non-interest-paying assets less attractive, as happened this week. For your wallet, safe-haven buying can push mortgage-linked Treasury yields down, while a stronger dollar makes imported goods and foreign travel cheaper."
+    },
+    "watch": [
+      "Tue Nov 3: US midterm elections",
+      "Wed Nov 4: ADP October private-payrolls report, 8:15 a.m. ET",
+      "Fri Nov 6: October jobs report, 8:30 a.m. ET",
+      "This week: Treasury quarterly refunding announcement"
+    ]
+  },
+  "trending": [
+    {
+      "title": "Midterm elections",
+      "context": "Voters are searching for their districts, ballot measures such as Ohio's Issue 3, and whether mail is delivered on Election Day.",
+      "signal": "google"
+    },
+    {
+      "title": "Haley Stevens",
+      "context": "Her Wikipedia page was the most-viewed in the trend data, with Bluesky posts comparing her to Fetterman as election day arrives.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "Palm Beach County Learjet 60 crash",
+      "context": "Two Wikipedia articles about a Learjet 60 crash in Palm Beach County drew hundreds of thousands of views.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "Binance hack",
+      "context": "Wikipedia's news box lists a theft of $6.3 billion in digital currency from the Binance exchange.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "Toledo train collision",
+      "context": "At least 69 people were killed when two high-speed trains collided in Toledo province, Spain, per Wikipedia's news box.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "US strikes Iran's Qeshm Island",
+      "context": "Bluesky users are discussing reported US strikes on the Iranian island as the war continues.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Tech stocks lose $1 trillion",
+      "context": "Bluesky users are reacting to the drop in technology share values.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "AO3 outage",
+      "context": "Fans of Archive of Our Own are posting about an outage of the fan-fiction site that has stretched to weeks.",
+      "signal": "bluesky"
+    }
+  ]
+}

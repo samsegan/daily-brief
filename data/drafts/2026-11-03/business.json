@@ -1,0 +1,160 @@
+{
+  "stories": [
+    {
+      "id": "apple-first-earnings-ternus",
+      "headline": "Apple beats revenue forecasts in new CEO's first report, but shares fall on margin outlook",
+      "region": "Earnings",
+      "importance": 5,
+      "summary": "Apple reported record September-quarter sales in its first earnings report under CEO John Ternus, who took over from Tim Cook in September. Revenue came in above analyst expectations, but the stock fell about 4.5% in premarket trading Tuesday, according to MarketWatch, on a softer gross-margin outlook and slower growth in services revenue. Palantir also fell about 8% after its own results, CNBC reported.",
+      "why_it_matters": "Apple is one of the largest holdings in most index funds and retirement accounts, so a drop in its shares moves ordinary savers' balances. A weaker margin outlook can also hint at pricing pressure on devices.",
+      "background": "Apple is the world's most valuable consumer-technology company, best known for the iPhone, Mac and its services business such as the App Store and iCloud. Tim Cook ran the company for about 15 years before handing the job to John Ternus, a longtime hardware executive, in September. Investors had high expectations for Ternus's first full report. Gross margin, the share of revenue left after the cost of making products, is closely watched because tariffs and component costs can squeeze it.",
+      "facts": [
+        { "text": "Apple reported record September-quarter revenue, with iPhone and Mac sales up, in its first report under CEO John Ternus.", "refs": ["aa2c914bd0", "bcf26a3f22"] },
+        { "text": "Apple's results beat analyst revenue expectations, per the AP and the New York Post.", "refs": ["aa2c914bd0", "2755329395"] },
+        { "text": "Apple shares fell 4.5% in premarket trading on Tuesday as investors were disappointed by the gross-margin outlook and slowing services growth, MarketWatch reported.", "refs": ["6a415c886b"] },
+        { "text": "Palantir shares dropped about 8% after its earnings, CNBC reported.", "refs": ["6784b2a16c"] },
+        { "text": "The Wall Street Journal's market live blog said stock futures were mixed after Apple's earnings disappointed.", "refs": ["827db5a0ef"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "2755329395", "note": "Leads with the revenue beat and frames it as Ternus passing an early test." },
+        { "ref": "6a415c886b", "note": "Leads with the falling stock and analyst disappointment over margins and services." },
+        { "ref": "6784b2a16c", "note": "Pairs Apple with Palantir as earnings that failed to impress investors, a broader market angle." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "aa2c914bd0", "takeaway": "Wire-style results story: the revenue beat and the CEO transition.", "read_full": false },
+        { "ref": "bcf26a3f22", "takeaway": "Emphasizes record quarter and strong iPhone and Mac sales.", "read_full": false },
+        { "ref": "2755329395", "takeaway": "Frames the report as an early test for the new CEO.", "read_full": false },
+        { "ref": "6a415c886b", "takeaway": "Next-day market reaction and analyst views on margin and services.", "read_full": false },
+        { "ref": "6784b2a16c", "takeaway": "Short market note on Apple and Palantir sliding after results.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "oil-iran-peace-hopes",
+      "headline": "Oil swings on US-Iran talks; gold and the dollar follow",
+      "region": "Trade",
+      "importance": 5,
+      "summary": "Oil fell sharply Monday on hopes of a US-Iran deal to end their war, with US crude dropping below $100, then rebounded Tuesday on renewed doubts that an agreement is close. Higher oil fed inflation and interest-rate worries, pushing gold lower and the dollar and Treasury yields higher, according to Reuters and the Wall Street Journal. The Dow gained about 500 points Monday while the Nasdaq slid, the New York Post reported.",
+      "why_it_matters": "Oil prices feed directly into gasoline and shipping costs, and with inflation already elevated, they shape whether interest rates stay high for mortgages and loans.",
+      "background": "The US and Iran have been at war, which has disrupted oil supply from the Middle East and kept crude prices high this year. Markets now trade heavily on any sign of diplomacy. Oil is a key input to inflation, and inflation expectations drive how much the Federal Reserve and other central banks might raise or hold interest rates. Gold and the dollar often move in opposite directions to expectations about rates.",
+      "facts": [
+        { "text": "US oil fell below $100 a barrel Monday on hopes for a US-Iran peace deal, the Daily Caller reported.", "refs": ["f4026d3376"] },
+        { "text": "The Dow rose about 500 points Monday while the Nasdaq fell, as oil tumbled on peace-deal hopes, the New York Post reported.", "refs": ["53c01109ac"] },
+        { "text": "The Financial Times reported oil extended its decline after Iran's president said the supreme leader had given officials certain authority over talks.", "refs": ["4b75fdbbf5"] },
+        { "text": "Bloomberg reported oil rose Tuesday on renewed doubts that the US and Iran are close to an agreement, and gold fell.", "refs": ["8926c9a643"] },
+        { "text": "Reuters said gold fell as higher oil stoked inflation fears ahead of the US midterm elections.", "refs": ["69152cad0d"] },
+        { "text": "The Wall Street Journal reported gold slid as higher oil fueled expectations of higher interest rates, and the dollar rose along with Treasury yields.", "refs": ["c96b82abf3", "ce960a6abf"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f4026d3376", "note": "Headlines the plunge below $100 and quotes a preference for a diplomatic solution." },
+        { "ref": "69152cad0d", "note": "Centers on inflation fears and the election, treating oil as the driver of gold's drop." },
+        { "ref": "c96b82abf3", "note": "Emphasizes rate-hike concerns for investors rather than the war itself." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "53c01109ac", "takeaway": "Monday market wrap: Dow up, Nasdaq down, oil lower on peace hopes.", "read_full": false },
+        { "ref": "f4026d3376", "takeaway": "Focuses on oil dropping under $100 and diplomacy comments.", "read_full": false },
+        { "ref": "4b75fdbbf5", "takeaway": "Paywalled; summary notes Iran's talks authority and extended oil decline.", "read_full": false },
+        { "ref": "8926c9a643", "takeaway": "Paywalled; summary links gold's drop to oil rebounding on doubts about a deal.", "read_full": false },
+        { "ref": "69152cad0d", "takeaway": "Short wire note tying gold's fall to inflation fears.", "read_full": false },
+        { "ref": "c96b82abf3", "takeaway": "Paywalled; summary stresses rate-hike expectations.", "read_full": false },
+        { "ref": "ce960a6abf", "takeaway": "Paywalled; dollar and yields rise with oil.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "anthropic-ipo-filing",
+      "headline": "Anthropic reports $17 billion quarterly revenue and a $23 billion loss in amended IPO filing",
+      "region": "IPO",
+      "importance": 4,
+      "summary": "In an updated SEC filing published Monday, Anthropic reported about $17 billion in third-quarter revenue and a net loss of about $23 billion. The revised S-1 adds financials beyond the first half of the year, which the original filing covered, and lists purchase commitments of $895.4 billion, according to CNBC. Reuters reported the company plans an Australian share offer as part of the IPO, citing CommSec.",
+      "why_it_matters": "A listing of one of the largest AI companies would give ordinary investors, including those in index funds, a chance to own a piece of it. The filing shows how much money AI firms are spending relative to what they earn.",
+      "background": "Anthropic is the AI company behind the Claude chatbot, led by CEO Dario Amodei. It unveiled its S-1, the registration document a company files with the SEC before going public, last week. That first version only included financials through the first half of the year. The new filing adds the third quarter, and the New York Times says revenue is 12 times the same quarter a year ago.",
+      "facts": [
+        { "text": "Anthropic reported about $17 billion in third-quarter revenue and a roughly $23 billion net loss in an amended IPO filing.", "refs": ["f3bfa3841b", "b814cc7b59"] },
+        { "text": "The revised S-1 lists purchase commitments of $895.4 billion, CNBC reported.", "refs": ["d822a9117e"] },
+        { "text": "Quarterly revenue was 12 times that of the same quarter last year, the New York Times reported.", "refs": ["c5ba1d6d3e"] },
+        { "text": "Anthropic plans an Australian share offer in its IPO, Reuters reported, citing CommSec.", "refs": ["d47e41d395"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "b814cc7b59", "note": "Leads with the $23 billion loss." },
+        { "ref": "f3bfa3841b", "note": "Leads with the $17 billion revenue, with losses as a continuing caveat." },
+        { "ref": "c5ba1d6d3e", "note": "Highlights revenue growth as the IPO approaches." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "b814cc7b59", "takeaway": "Loss-first headline, with the filing date and IPO context.", "read_full": false },
+        { "ref": "f3bfa3841b", "takeaway": "Balanced wire story on revenue and continuing losses.", "read_full": false },
+        { "ref": "d822a9117e", "takeaway": "Adds the purchase-commitment figure and what the original filing covered.", "read_full": false },
+        { "ref": "c5ba1d6d3e", "takeaway": "Paywalled; summary gives the year-over-year growth multiple.", "read_full": false },
+        { "ref": "d47e41d395", "takeaway": "Short note on a planned Australian retail share offer.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "marvell-lumentum-deal",
+      "headline": "Marvell agrees to buy Lumentum in $115 billion all-stock deal; shares of both fall",
+      "region": "Deals",
+      "importance": 3,
+      "summary": "Marvell said it reached an all-stock agreement to buy Lumentum for about $115 billion, creating what the companies called a leader in AI connectivity. Shares of both companies fell Monday, and MarketWatch quoted shareholders criticizing the offer. CNBC reported the deal is expected to close in the first half of 2028.",
+      "why_it_matters": "The deal shows how much money is flowing into the chips and optical gear that link AI data centers, and investor pushback is a sign of how closely the market is judging AI spending.",
+      "background": "Marvell designs semiconductors for data centers and networking, and Lumentum makes optical components that move data using light. Demand for both has risen with the build-out of AI computing. In an all-stock deal, Lumentum shareholders receive Marvell shares rather than cash. Large mergers like this typically need regulatory approval, which is part of why closing is expected years away.",
+      "facts": [
+        { "text": "Marvell agreed to buy Lumentum in a roughly $115 billion deal, Fox Business reported.", "refs": ["af7191d4d1", "f8582c2f4b"] },
+        { "text": "The deal is expected to close in the first half of 2028, CNBC reported.", "refs": ["a2a6983e29"] },
+        { "text": "Shares of both Marvell and Lumentum fell Monday after the all-stock deal was announced, MarketWatch reported.", "refs": ["ed136be5be"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f8582c2f4b", "note": "Uses the companies' language about a category leader and a historic deal." },
+        { "ref": "ed136be5be", "note": "Leads with shareholder opposition and falling stock prices." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a2a6983e29", "takeaway": "Interview-style piece with Lumentum's CEO on the opportunity and timeline.", "read_full": false },
+        { "ref": "f8582c2f4b", "takeaway": "Presents the deal as the companies describe it.", "read_full": false },
+        { "ref": "af7191d4d1", "takeaway": "Deal announcement with price and rationale.", "read_full": false },
+        { "ref": "ed136be5be", "takeaway": "Investor reaction: both stocks fell and shareholders criticized the offer.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "midterms-markets-gas-prices",
+      "headline": "Markets and prices on edge as midterm elections begin",
+      "region": "Economy",
+      "importance": 4,
+      "summary": "Stock futures were mixed Tuesday as investors weighed the midterm elections, which could change control of Congress, according to the Wall Street Journal. CNBC reported Wall Street is looking at how the results could affect stocks, Treasury yields, energy prices, banks, defense and healthcare. The Financial Times and Washington Post reported that gasoline prices are set to be the highest for an Election Day on record.",
+      "why_it_matters": "Gasoline and everyday costs are central issues for voters, and election outcomes can shape tax, spending and regulatory policy that affects markets and household budgets.",
+      "background": "US midterm elections are held halfway through a president's term and decide control of Congress. Markets pay attention because a change in control can alter budget, tax and regulatory plans. Prices for fuel have risen this year amid the Iran war, and affordability has become a top campaign theme. CNBC noted that, historically, the S&P 500 has tended to do well in the year after midterms.",
+      "facts": [
+        { "text": "Stock futures were mixed Tuesday after Apple earnings disappointed, with investors eyeing midterm elections that could change control of Congress, the Wall Street Journal reported.", "refs": ["827db5a0ef"] },
+        { "text": "CNBC reported that midterm years have historically preceded a strong year for the S&P 500.", "refs": ["dd668d0c07"] },
+        { "text": "The Washington Post reported gasoline prices are set to be the highest for any Election Day in US history.", "refs": ["f3d47015b7"] },
+        { "text": "The Financial Times reported average petrol costs in Trump's second term have passed Biden-era levels, as affordability tops voters' concerns.", "refs": ["c03009e342"] },
+        { "text": "CNBC reported options traders view the VIX, Wall Street's fear gauge, as unreactive heading into the vote.", "refs": ["dc8ca786e9"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "dd668d0c07", "note": "Frames the election through market history and a Democratic win of Congress." },
+        { "ref": "89fc7bd85b", "note": "Frames the election around affordability for voters." },
+        { "ref": "afefe8d61e", "note": "Focuses on what a Democratic sweep could mean for Wall Street." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "827db5a0ef", "takeaway": "Paywalled; summary of mixed futures and the election backdrop.", "read_full": false },
+        { "ref": "dd668d0c07", "takeaway": "Historical look at the S&P 500 after midterms.", "read_full": false },
+        { "ref": "dc8ca786e9", "takeaway": "Explains the calm in the VIX volatility index.", "read_full": false },
+        { "ref": "f3d47015b7", "takeaway": "Paywalled; headline says gasoline prices are a record for an Election Day.", "read_full": false },
+        { "ref": "c03009e342", "takeaway": "Paywalled; summary compares fuel costs across presidencies.", "read_full": false },
+        { "ref": "89fc7bd85b", "takeaway": "Puts affordability at the center of the vote.", "read_full": false },
+        { "ref": "afefe8d61e", "takeaway": "Commentary on the market implications of a Democratic sweep.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": []
+}

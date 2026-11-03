@@ -1,0 +1,254 @@
+{
+  "stories": [
+    {
+      "id": "us-strikes-qeshm-island",
+      "headline": "US strikes Iran's Qeshm Island, calls it defensive, as deal talk continues",
+      "region": "Middle East",
+      "importance": 5,
+      "summary": "The US carried out limited strikes on Iran's Qeshm Island in the Strait of Hormuz late Monday, and a US official described them as defensive. Reports say the targets were surface-to-air missile launchers and radar equipment. The strikes came hours after Vice President JD Vance said he was optimistic about diplomacy to end the eight-month-old war, and an Iranian official said the two sides remain far from a deal.",
+      "why_it_matters": "The war and the Hormuz shipping lane affect oil prices and so fuel and shipping costs. Oil rose after the strikes, a sign of how sensitive markets are to the talks.",
+      "background": "The US and Iran have been in open conflict for about eight months. The Strait of Hormuz is a narrow waterway through which a large share of the world's oil passes, and Qeshm is the largest island in it. Washington and Tehran have recently signalled openness to a diplomatic solution, but fighting and talks have continued side by side. The strikes came the night before US midterm elections.",
+      "facts": [
+        { "text": "The US launched limited strikes on Qeshm Island late Monday, hours after Vice President JD Vance said he was optimistic about diplomatic efforts.", "refs": ["5904df7092", "7062a3beba"] },
+        { "text": "A US official described the strikes as defensive, and US officials cited by CBS said they were limited.", "refs": ["8f2174160a", "7062a3beba"] },
+        { "text": "NewsNation sources said US forces hit missile launchers and radar detectors on the island; the Guardian reported the targets were surface-to-air missiles used against US assets.", "refs": ["9e447f9038", "5904df7092"] },
+        { "text": "Oil prices rose after the strikes, a day after the US and Iranian presidents signalled openness to a diplomatic solution.", "refs": ["8f1bef3d99"] },
+        { "text": "An Iranian official said the US and Iran are far from reaching a deal.", "refs": ["9e447f9038"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Why the US struck",
+          "positions": [
+            { "claim": "The strikes were a limited, defensive measure against Iran's potential use of surface-to-air missiles, per US officials.", "refs": ["18b685c260", "8f2174160a"] },
+            { "claim": "The strikes were retaliation for a missile attack on American aircraft in the Strait of Hormuz, per the New York Sun's headline.", "refs": ["a9e44c8216"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "7062a3beba", "note": "Leads with the midterm timing and repeats the official 'limited and defensive' description." },
+        { "ref": "a9e44c8216", "note": "Calls the strikes retaliatory, stressing an Iranian attack on US aircraft." },
+        { "ref": "8f1bef3d99", "note": "Frames the story through the oil-price reaction." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "18b685c260", "takeaway": "Headline and summary only (paywalled): says oil was steady and the US called the strikes defensive.", "read_full": false },
+        { "ref": "5904df7092", "takeaway": "Places the strikes against Vance's optimism about a deal.", "read_full": false },
+        { "ref": "8f2174160a", "takeaway": "Short wire item built on a US official's description of defensive strikes.", "read_full": false },
+        { "ref": "8f1bef3d99", "takeaway": "Market angle: oil climbed after the strikes.", "read_full": false },
+        { "ref": "9e447f9038", "takeaway": "Cites sources on targets and an Iranian official on the deal being far off.", "read_full": false },
+        { "ref": "7062a3beba", "takeaway": "Relays US officials' account via CBS and ties it to the elections.", "read_full": false },
+        { "ref": "a9e44c8216", "takeaway": "Headline only: describes the strikes as retaliation for a missile attack.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "russian-strike-ukraine-aid-site",
+      "headline": "Russian strike on Ukrainian aid site kills at least 29; US-mediated talks set for Nov. 10-11",
+      "region": "Europe",
+      "importance": 5,
+      "summary": "A Russian aerial attack on an aid distribution centre and nearby shelter in a village in Ukraine's Zaporizhzhia region killed at least 29 people, with 48 still missing, according to reports on Tuesday. It followed an overnight barrage across the country that also hit power plants. Separately, US envoy Steve Witkoff announced US-mediated Ukraine-Russia talks in Abu Dhabi on Nov. 10-11, which the Kremlin confirmed.",
+      "why_it_matters": "The strike shows the toll on civilians seeking basic aid, and attacks on power plants raise the prospect of outages as winter nears. The Abu Dhabi talks are the next test of whether the war can move toward a settlement.",
+      "background": "Russia's full-scale invasion of Ukraine is in its fifth year. A rare, short humanitarian truce had just ended in neighbouring Kherson before the strike. Diplomatic efforts led by the US were suspended in February because of the war in Iran, and are now set to restart. Ukrainian President Volodymyr Zelensky was also due to visit Berlin on Tuesday for talks with Chancellor Friedrich Merz.",
+      "facts": [
+        { "text": "A Russian strike on an aid site in Ukraine's south killed at least 29 people, with 48 still missing, as of Tuesday.", "refs": ["bed52fd365", "39debc7b0c"] },
+        { "text": "Zelensky said Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions overnight.", "refs": ["586cced2de"] },
+        { "text": "Kyiv officials said at least nine 3,000kg aerial bombs hit the village; Zelensky called the attack 'utterly horrific'.", "refs": ["7584627279"] },
+        { "text": "The attack came hours after a rare ceasefire ended.", "refs": ["6ebb60de6d", "27a64164fb"] },
+        { "text": "Witkoff said the US will mediate Ukraine-Russia talks in Abu Dhabi on Nov. 10-11.", "refs": ["486f26463e", "d2fee2ccc6"] },
+        { "text": "The Kremlin confirmed the talks.", "refs": ["f9fdb33998"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Death toll",
+          "positions": [
+            { "claim": "At least 26 killed, in early reports.", "refs": ["f8f2dc8778", "6ebb60de6d"] },
+            { "claim": "29 killed with 48 missing, per the later AP and NPR reports.", "refs": ["bed52fd365", "586cced2de"] },
+            { "claim": "31 killed with dozens missing, per the later ABC News report.", "refs": ["6536a701fa"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "27a64164fb", "note": "Calls the site a humanitarian hub and links the strike to the end of the truce." },
+        { "ref": "81bbbef227", "note": "Pairs the Zelensky condemnation with the US push for new peace talks." },
+        { "ref": "6ebb60de6d", "note": "Stresses that hopes of progress toward peace were extinguished." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "27a64164fb", "takeaway": "Headline and summary only (paywalled): dozens killed, truce ended a day earlier in Kherson.", "read_full": false },
+        { "ref": "f8f2dc8778", "takeaway": "Early report of at least 26 dead at a school used as an aid centre.", "read_full": false },
+        { "ref": "6ebb60de6d", "takeaway": "Connects the strike to the end of the longest ceasefire of the war.", "read_full": false },
+        { "ref": "7584627279", "takeaway": "Gives the bomb detail and a toll of 29 per Kyiv.", "read_full": false },
+        { "ref": "bed52fd365", "takeaway": "Wire headline with 29 dead and 48 missing.", "read_full": false },
+        { "ref": "586cced2de", "takeaway": "Adds the scale of the overnight drone and missile barrage.", "read_full": false },
+        { "ref": "6536a701fa", "takeaway": "Updated toll of 31.", "read_full": false },
+        { "ref": "81bbbef227", "takeaway": "Headline only: Zelensky's condemnation alongside US peace-talk efforts.", "read_full": false },
+        { "ref": "486f26463e", "takeaway": "Headline only: Witkoff announces trilateral talks in Abu Dhabi.", "read_full": false },
+        { "ref": "d2fee2ccc6", "takeaway": "Explains the talks restart a process suspended in February.", "read_full": false },
+        { "ref": "f9fdb33998", "takeaway": "Headline only: Kremlin confirms the talks.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "binance-heist-north-korea",
+      "headline": "North Korea denies US claim it stole more than $6 billion from Binance",
+      "region": "Asia-Pacific",
+      "importance": 4,
+      "summary": "North Korea rejected US allegations that its hackers stole about $6 billion from the Binance crypto exchange, with Kim Jong Un's sister Kim Yo Jong calling the FBI claim a provocation. Binance said outflows had normalised after customers withdrew about $4.6 billion, and its co-CEO said the company is financially strong. Researchers say the stolen funds were split up and are expected to take months to launder.",
+      "why_it_matters": "Binance holds funds for millions of users worldwide, and a theft of this size tests trust in crypto exchanges. If the US attribution holds, it would also show how much cyber theft funds North Korea's government.",
+      "background": "Binance is one of the world's largest cryptocurrency exchanges. Earlier this week the exchange was hit by a hack described as the largest in crypto history, and the FBI said North Korean hackers were responsible. North Korea has been linked to earlier large crypto thefts, which it has also denied. Blockchain tracing firms are following the stolen tokens across networks.",
+      "facts": [
+        { "text": "North Korea denied involvement, calling the US allegation 'absurd rhetoric' in state media, per Reuters.", "refs": ["781f870cde"] },
+        { "text": "Kim Yo Jong dismissed the FBI claims, and the exchange began reopening withdrawals on more networks.", "refs": ["99e1db94f7"] },
+        { "text": "Customers withdrew $4.6 billion, which Binance said is a net outflow of 2.1% of holdings.", "refs": ["5a55a99961"] },
+        { "text": "Reports put the theft at $6 billion to $6.3 billion.", "refs": ["281025d75e", "fde93fa8c4"] },
+        { "text": "Experts expect North Korean hackers to take months to launder the funds, which were split into small packages.", "refs": ["0eca73811a"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Who stole the funds",
+          "positions": [
+            { "claim": "North Korean hackers were responsible, per the US government and cyber analysts.", "refs": ["fde93fa8c4", "9d5bb64269"] },
+            { "claim": "North Korea denies any role and calls the claim a provocation.", "refs": ["99e1db94f7", "781f870cde"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "2c86a3bb52", "note": "Frames the denial as an unusual bid to shed a rogue-nation image." },
+        { "ref": "5a55a99961", "note": "Leads with customer withdrawals and the size of the outflow." },
+        { "ref": "7ce5fd674d", "note": "Brief headline centred on the denial and the dollar figure." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "5a55a99961", "takeaway": "Focuses on customer withdrawals and Binance's reassurance.", "read_full": false },
+        { "ref": "281025d75e", "takeaway": "Covers the denial and warning that US hostility could affect diplomacy.", "read_full": false },
+        { "ref": "781f870cde", "takeaway": "Reuters wire text on the 'absurd rhetoric' response.", "read_full": false },
+        { "ref": "99e1db94f7", "takeaway": "Names Kim Yo Jong and notes withdrawals reopening.", "read_full": false },
+        { "ref": "fde93fa8c4", "takeaway": "Reports the record $6.3bn figure and US attribution.", "read_full": false },
+        { "ref": "9d5bb64269", "takeaway": "Headline and summary only (paywalled): places the heist in North Korea's history of hacking.", "read_full": false },
+        { "ref": "0eca73811a", "takeaway": "Headline and summary only (paywalled): laundering expected to take months.", "read_full": false },
+        { "ref": "2c86a3bb52", "takeaway": "Headline and summary only (paywalled): the swift rebuttal is unusual for Pyongyang.", "read_full": false },
+        { "ref": "7ce5fd674d", "takeaway": "Headline only (paywalled).", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "agoa-south-africa-rwanda",
+      "headline": "US to remove South Africa and Rwanda from AGOA duty-free trade program",
+      "region": "Africa",
+      "importance": 4,
+      "summary": "The Trump administration said it will cut South Africa and Rwanda from the African Growth and Opportunity Act (AGOA), saying both are breaking the program's rules. South Africa will lose its duty-free benefits from next year. The move comes about a week after the US Treasury sanctioned Rwanda's defence ministry.",
+      "why_it_matters": "AGOA gives duty-free US access to more than 1,800 products, so exporters and workers in both countries face higher costs and possible job losses. US importers of affected goods may also see prices change.",
+      "background": "AGOA is a US program that gives eligible sub-Saharan African countries duty-free access to the US market for many products. It has been a centerpiece of US economic engagement with the region. Relations between Washington and Pretoria have been strained, and the US has recently sanctioned Rwanda's defence ministry. South Africa's government said it had responded constructively to US concerns before the decision.",
+      "facts": [
+        { "text": "The Trump administration said South Africa and Rwanda are breaking the rules of AGOA.", "refs": ["78a1b9a2e7"] },
+        { "text": "South Africa will be removed from the program's duty-free benefits from next year.", "refs": ["14c61edaec"] },
+        { "text": "South Africa's government had 'constructively responded' to US concerns beforehand, per Daily Maverick.", "refs": ["14c61edaec"] },
+        { "text": "The pact gives duty-free access for more than 1,800 products.", "refs": ["869e1941d3"] },
+        { "text": "The decision came barely a week after the US Treasury sanctioned Rwanda's defence ministry.", "refs": ["961347ee66"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "2ea24875ab", "note": "Plain wire headline stating the administration will cut both countries." },
+        { "ref": "14c61edaec", "note": "Asks what happens now for South Africa and stresses its earlier cooperation." },
+        { "ref": "961347ee66", "note": "Links the move to the recent sanctions on Rwanda." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2ea24875ab", "takeaway": "Wire headline on the administration's decision.", "read_full": false },
+        { "ref": "78a1b9a2e7", "takeaway": "Gives the stated reason: rule-breaking under AGOA.", "read_full": false },
+        { "ref": "14c61edaec", "takeaway": "South African angle with expert reaction and the 'constructive response' point.", "read_full": false },
+        { "ref": "869e1941d3", "takeaway": "Explains the scope of the pact and its trade effects.", "read_full": false },
+        { "ref": "961347ee66", "takeaway": "Connects the decision to the Rwanda defence ministry sanctions.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "european-supermarket-fridge-hacks",
+      "headline": "Supermarket fridges and freezers across Europe hit by second suspected cyberattack",
+      "region": "Europe",
+      "importance": 3,
+      "summary": "Supermarket chains in at least seven European countries, including Sweden, the Netherlands, Belgium, Ireland, Luxembourg and Estonia, reported refrigerator and freezer temperatures rising overnight, spoiling food. It is the second such incident in about three weeks after a similar attack in France. Europe and the US military are investigating, and the culprit has not been identified in the coverage.",
+      "why_it_matters": "Internet-connected equipment in shops can be tampered with to cause physical damage and food waste, which can raise costs for stores and shoppers. Axios noted that US supermarkets use similar technology.",
+      "background": "Modern store refrigeration is often connected to the internet so operators can monitor and control it. Last month a defrosting attack hit shops in France. This week's incident spread across multiple countries, prompting questions about who is behind it and why. The incident also highlights how vulnerable supply chains are to cyberattacks.",
+      "facts": [
+        { "text": "Chains in at least seven countries reported cooling unit temperatures rising overnight.", "refs": ["993570a5e9", "6732416b18"] },
+        { "text": "The incident follows a similar attack in France about three weeks earlier.", "refs": ["9de4cdc899", "6732416b18"] },
+        { "text": "The New York Times reported that Europe and the US military are investigating.", "refs": ["2b4b92e06f"] },
+        { "text": "Temperatures in some stores reportedly soared past 100 degrees, per CBS News.", "refs": ["0011cd952c"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "03cfeb7d03", "note": "Asks whether America could be next, putting the focus on US exposure." },
+        { "ref": "ff30951d53", "note": "Focuses on possible culprits and motives." },
+        { "ref": "25f460775b", "note": "Leads with a UK alert angle." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "6732416b18", "takeaway": "Lists the affected countries and links to the earlier French incident.", "read_full": false },
+        { "ref": "9de4cdc899", "takeaway": "Calls it a second reported attack and lists the countries.", "read_full": false },
+        { "ref": "993570a5e9", "takeaway": "Reports chains in seven countries and compares it to the French hack.", "read_full": false },
+        { "ref": "0011cd952c", "takeaway": "Adds the temperature detail.", "read_full": false },
+        { "ref": "2b4b92e06f", "takeaway": "Headline and summary only (paywalled): investigations and supply-chain risk.", "read_full": false },
+        { "ref": "03cfeb7d03", "takeaway": "US-risk angle on connected equipment.", "read_full": false },
+        { "ref": "ff30951d53", "takeaway": "Explainer on possible culprits.", "read_full": false },
+        { "ref": "25f460775b", "takeaway": "Headline only (paywalled): Britain on alert.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "haiti-gang-leader-un-dialogue",
+      "headline": "Powerful Haitian gang leader asks UN for dialogue as clashes with international force intensify",
+      "region": "Americas",
+      "importance": 2,
+      "summary": "One of Haiti's most powerful gang leaders wrote to the UN Secretary-General asking the organization to send a delegation for dialogue and mediation, according to AP reporting. The request comes as clashes between gangs and an international force intensify. Only AP-based items in the digest cover the story, with no reaction from the UN yet in the summaries.",
+      "why_it_matters": "Gang violence has displaced many Haitians and disrupted daily life, so any shift toward talks or deeper fighting affects civilians. Only left-leaning outlets in the digest covered it.",
+      "background": "Armed gangs control large parts of Haiti, including much of the capital. An international force has been deployed to help Haitian police push back. The gang leader's letter asks the UN to mediate rather than fight. The digest's summaries do not say how the UN or the Haitian government responded.",
+      "facts": [
+        { "text": "A powerful Haitian gang leader wrote to the UN Secretary-General requesting a delegation for dialogue and mediation.", "refs": ["269c5f882f"] },
+        { "text": "The gang leader told AP he sent the letter as clashes between gangs and an international force intensify.", "refs": ["b1c6a8def8", "bdfe5762a1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "269c5f882f", "note": "Emphasizes the dialogue request alongside the intensifying clashes." },
+        { "ref": "b1c6a8def8", "note": "Stresses that the gang leader himself told AP about the letter." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "269c5f882f", "takeaway": "Wire report of the letter to the UN seeking mediation.", "read_full": false },
+        { "ref": "bdfe5762a1", "takeaway": "AP headline with the same account.", "read_full": false },
+        { "ref": "b1c6a8def8", "takeaway": "Headline only (paywalled): the leader told AP of the letter.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "cyclone-murasu-andhra-pradesh",
+      "headline": "Cyclone Murasu makes landfall in India's Andhra Pradesh, second cyclone in a week",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "Cyclone Murasu crossed the coast near Ongole in Andhra Pradesh on Tuesday morning, bringing heavy rain to eastern India. It is the second cyclone to hit the area in a week and prompted evacuations of thousands of people. India's weather department said it had weakened into a cyclonic storm and was expected to fade into a deep depression by midnight.",
+      "why_it_matters": "Heavy rain and storm damage can disrupt travel, homes and power for people along the coast. Train services in the state were cancelled or diverted.",
+      "background": "The Bay of Bengal coast of India is regularly struck by cyclones in the October-November season. Authorities evacuate coastal residents before landfall. Murasu follows another cyclone that hit the same region days earlier. The India Meteorological Department (IMD) issues the warnings.",
+      "facts": [
+        { "text": "Cyclone Murasu crossed the coast near Ongole in Andhra Pradesh between 3:30 a.m. and 8:30 a.m. on Tuesday.", "refs": ["ef1e532ca2"] },
+        { "text": "It is the second cyclone to hit the area in a week, and thousands of people were evacuated.", "refs": ["5fbe04c04f"] },
+        { "text": "The IMD said the storm weakened into a cyclonic storm, with a deep depression expected by midnight.", "refs": ["61ac627751"] },
+        { "text": "Trains in Andhra Pradesh were cancelled, diverted or rescheduled.", "refs": ["bb48a3c8cb"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "5b89bdd5c2", "note": "Stresses destruction after landfall." },
+        { "ref": "61ac627751", "note": "Stresses the storm weakening, per the weather department." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "5b89bdd5c2", "takeaway": "Live item on destruction and rainfall warnings.", "read_full": false },
+        { "ref": "5fbe04c04f", "takeaway": "Notes the second cyclone in a week and evacuations.", "read_full": false },
+        { "ref": "ef1e532ca2", "takeaway": "Gives landfall location and timing.", "read_full": false },
+        { "ref": "bb48a3c8cb", "takeaway": "Service list of train disruptions.", "read_full": false },
+        { "ref": "61ac627751", "takeaway": "Live updates quoting the IMD on weakening.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": []
+}

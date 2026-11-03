@@ -1,0 +1,752 @@
+{
+  "stories": [
+    {
+      "id": "scotus-california-ballots",
+      "headline": "Supreme Court rejects Trump administration bid to set aside 20,000 California ballots",
+      "region": "Courts",
+      "importance": 5,
+      "summary": "The Supreme Court declined a Trump administration request to order California election officials to set aside mail ballots from about 20,000 people the administration says are noncitizens. The ruling came the day before the midterms. Separately, Bloomberg reports an appeals court lifted a lower-court order that had limited federal demands on election officials.",
+      "why_it_matters": "The ruling means the disputed California ballots are expected to be counted in the normal way. It also shows how courts are handling last-minute federal efforts to intervene in how states run elections.",
+      "background": "The Justice Department has pressed states over voter eligibility ahead of the 2026 midterms. On Monday the administration asked the Supreme Court on an emergency basis to act on California mail ballots it alleges came from noncitizens. Lower courts had ruled against some of the administration's demands on election officials. The Supreme Court's refusal, according to the BBC, essentially ends the administration's bid to disqualify the ballots in California.",
+      "facts": [
+        {
+          "text": "The Trump administration asked the Supreme Court on Monday to order California election officials to set aside mail ballots from 20,000 people it alleges are noncitizens.",
+          "refs": [
+            "f80b7a5f1a"
+          ]
+        },
+        {
+          "text": "The Supreme Court rejected the request.",
+          "refs": [
+            "f80b7a5f1a",
+            "ceb7929815",
+            "8597eb1bcf",
+            "091b4ae301"
+          ]
+        },
+        {
+          "text": "The BBC reported the ruling essentially ends the administration's bid to disqualify the ballots in California.",
+          "refs": [
+            "8597eb1bcf"
+          ]
+        },
+        {
+          "text": "CNBC reported the request came as the Justice Department appeals the dismissal of a lawsuit over Alaska's Senate election.",
+          "refs": [
+            "ceb7929815"
+          ]
+        },
+        {
+          "text": "Bloomberg reported that a US appeals court halted a judge's order that barred the administration from demanding officials set aside certain ballots or threatening criminal prosecutions around the midterms.",
+          "refs": [
+            "8cd2bea9ce"
+          ]
+        },
+        {
+          "text": "The Hindu reported that another federal judge found the administration's last-minute demands of California election officials violated the Constitution.",
+          "refs": [
+            "12bf2108ed"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "f80b7a5f1a",
+          "note": "Frames it as a rejected request and notes the administration's allegation about noncitizens."
+        },
+        {
+          "ref": "8597eb1bcf",
+          "note": "Stresses the timing on the eve of the midterms and that the ruling effectively ends the bid."
+        },
+        {
+          "ref": "8cd2bea9ce",
+          "note": "Leads with the appeals court lifting a block on federal warnings to election workers, a different angle from the Supreme Court loss."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "f80b7a5f1a",
+          "takeaway": "Straight news account with the administration's claim and the court's rejection.",
+          "read_full": false
+        },
+        {
+          "ref": "ceb7929815",
+          "takeaway": "Adds the link to the Alaska Senate election appeal.",
+          "read_full": false
+        },
+        {
+          "ref": "8597eb1bcf",
+          "takeaway": "Emphasizes the eve-of-election timing and finality.",
+          "read_full": false
+        },
+        {
+          "ref": "091b4ae301",
+          "takeaway": "Live blog wrap-up headline reporting the loss for Trump.",
+          "read_full": false
+        },
+        {
+          "ref": "8cd2bea9ce",
+          "takeaway": "Paywalled; headline and summary only. Covers the appeals court order.",
+          "read_full": false
+        },
+        {
+          "ref": "12bf2108ed",
+          "takeaway": "Reports a separate federal judge ruling against the administration.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "midterms-election-day",
+      "headline": "Election Day arrives with control of Congress at stake after record early voting",
+      "region": "Elections",
+      "importance": 5,
+      "summary": "Americans vote Tuesday in midterm elections that will decide control of the House and Senate. Early voting was high in several states, and outlets say final results could take days. Strategists quoted by the New York Times see Democrats as likely to retake the House, with the Senate more uncertain.",
+      "why_it_matters": "The outcome will shape whether the president faces a Congress controlled by the opposition party for the next two years, affecting budgets, investigations and legislation. Results may not be clear on election night, so early leads can mislead.",
+      "background": "Every House seat and about a third of Senate seats are on the ballot. Polls cited by outlets show voters focused on affordability. The president is not on the ballot, but the contests are widely seen as a verdict on his term. Outlets list Texas, Maine, Iowa, Kansas and Michigan among the notable Senate races. Results begin arriving at 6 p.m. ET from Kentucky and Indiana.",
+      "facts": [
+        {
+          "text": "Results start coming in at 6 p.m. ET from Kentucky and Indiana, NPR reported.",
+          "refs": [
+            "82dffca6d8"
+          ]
+        },
+        {
+          "text": "Strategists in both parties say Democrats are likely to win back the House, while the Senate battle is more complicated, the New York Times reported.",
+          "refs": [
+            "e841ab0945"
+          ]
+        },
+        {
+          "text": "France 24 reported more than 58 million ballots were cast in record early voting.",
+          "refs": [
+            "7eec19af03"
+          ]
+        },
+        {
+          "text": "The Center Square reported 40% of registered voters in Texas cast ballots early, a record, and early turnout in Georgia set a midterm record.",
+          "refs": [
+            "8459107e07",
+            "3780eb173b"
+          ]
+        },
+        {
+          "text": "About 690,526 people voted early in New York City, according to Board of Elections data cited by the Brooklyn Paper.",
+          "refs": [
+            "875df20162"
+          ]
+        },
+        {
+          "text": "Axios reported that the first votes counted Tuesday will probably look redder than the final result, and control of Congress could take days to settle.",
+          "refs": [
+            "8dd6b4aba4"
+          ]
+        },
+        {
+          "text": "AP reported the election comes after a year in which President Trump has tried to interfere in how states run elections and cast doubt on the outcome.",
+          "refs": [
+            "f1bd75d913"
+          ]
+        },
+        {
+          "text": "AP reported the Texas Senate race between Republican Ken Paxton and Democrat James Talarico is unusually competitive.",
+          "refs": [
+            "fb7a09244f"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "e841ab0945",
+          "note": "Leads with the likelihood that Democrats retake the House."
+        },
+        {
+          "ref": "a0875108c6",
+          "note": "Focuses on the surge in early voting and poll observers."
+        },
+        {
+          "ref": "8dd6b4aba4",
+          "note": "Focuses on why early results can mislead and how long counting may take."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "82dffca6d8",
+          "takeaway": "Election Day explainer with poll-closing times.",
+          "read_full": false
+        },
+        {
+          "ref": "e841ab0945",
+          "takeaway": "Paywalled; headline and summary only: House likely to flip, Senate unclear.",
+          "read_full": false
+        },
+        {
+          "ref": "7eec19af03",
+          "takeaway": "Live coverage noting the early-vote total.",
+          "read_full": false
+        },
+        {
+          "ref": "8459107e07",
+          "takeaway": "Texas early-vote record.",
+          "read_full": false
+        },
+        {
+          "ref": "3780eb173b",
+          "takeaway": "Georgia early-vote record.",
+          "read_full": false
+        },
+        {
+          "ref": "875df20162",
+          "takeaway": "Local view of New York City early turnout.",
+          "read_full": false
+        },
+        {
+          "ref": "8dd6b4aba4",
+          "takeaway": "Charted explainer on misleading early returns.",
+          "read_full": false
+        },
+        {
+          "ref": "f1bd75d913",
+          "takeaway": "AP story on Election Day with a focus on observers and election-interference worries.",
+          "read_full": false
+        },
+        {
+          "ref": "fb7a09244f",
+          "takeaway": "AP preview of the Texas Senate race.",
+          "read_full": false
+        },
+        {
+          "ref": "a0875108c6",
+          "takeaway": "AP headline on early voting surge.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "stevens-endorses-rogers",
+      "headline": "Rep. Haley Stevens endorses Republican Mike Rogers in Michigan Senate race, angering Democrats",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "Michigan Democratic Rep. Haley Stevens endorsed Republican Mike Rogers over Democratic nominee Abdul El-Sayed in the Senate race on the eve of the midterms. Many Democrats condemned the move and House leaders were reported to be weighing action. Stevens defended it in a social media post.",
+      "why_it_matters": "Michigan's Senate seat is among the races that could decide control of the Senate, so a late crossover endorsement draws national attention.",
+      "background": "Michigan's open Senate race pits Rogers, a former Republican congressman, against El-Sayed, a Democrat who won his party's nomination. Stevens had earlier been a Democratic Senate contender, and Gov. Gretchen Whitmer endorsed her in July, according to the Washington Examiner. Stevens and El-Sayed had a falling-out during the campaign. On Sunday she withdrew her support for him and backed Rogers.",
+      "facts": [
+        {
+          "text": "Stevens endorsed Republican Mike Rogers over Democrat Abdul El-Sayed in the Michigan Senate race.",
+          "refs": [
+            "d4e822d89c",
+            "1a23cb7e41"
+          ]
+        },
+        {
+          "text": "The endorsement came on the day Stevens was scheduled to appear with El-Sayed in a show of party unity, NewsNation reported.",
+          "refs": [
+            "dc6f32a980"
+          ]
+        },
+        {
+          "text": "Stevens wrote that she concluded El-Sayed is not fit to serve in the Senate.",
+          "refs": [
+            "d4e822d89c",
+            "395a079471"
+          ]
+        },
+        {
+          "text": "Fox News reported House Democratic leaders are considering action against Stevens.",
+          "refs": [
+            "0e7b7bf9d8"
+          ]
+        },
+        {
+          "text": "Vice President JD Vance said the endorsement would give some Michigan voters permission to back Rogers, Fox News reported.",
+          "refs": [
+            "416198de6d"
+          ]
+        },
+        {
+          "text": "The Washington Post reported the El-Sayed campaign had a $2.4 million fundraising day as Stevens endorsed his opponent.",
+          "refs": [
+            "f0aa0218db"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Stevens' fiance influenced the endorsement",
+          "positions": [
+            {
+              "claim": "Stevens said the decision was not made for her by anyone else and called the speculation sexist.",
+              "refs": [
+                "6a388f77d1",
+                "ed8e292813"
+              ]
+            },
+            {
+              "claim": "CNN reported Democratic anger directed at her fiance after the reversal.",
+              "refs": [
+                "5d468b048a"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "1a23cb7e41",
+          "note": "Leads with Democratic fury, quoting a lawmaker's 'despicable betrayal' phrase."
+        },
+        {
+          "ref": "41579910cd",
+          "note": "Presents Stevens as being purged by her own party."
+        },
+        {
+          "ref": "416198de6d",
+          "note": "Leads with the Republican view that the endorsement helps Rogers."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "d4e822d89c",
+          "takeaway": "Reports Stevens' stated rationale.",
+          "read_full": false
+        },
+        {
+          "ref": "395a079471",
+          "takeaway": "Same rationale, from NewsNation.",
+          "read_full": false
+        },
+        {
+          "ref": "1a23cb7e41",
+          "takeaway": "Focus on Democratic backlash.",
+          "read_full": false
+        },
+        {
+          "ref": "dc6f32a980",
+          "takeaway": "Covers El-Sayed's 'go vote' response.",
+          "read_full": false
+        },
+        {
+          "ref": "0e7b7bf9d8",
+          "takeaway": "Focus on House Democratic leaders weighing consequences.",
+          "read_full": false
+        },
+        {
+          "ref": "416198de6d",
+          "takeaway": "Republican reaction from Vance.",
+          "read_full": false
+        },
+        {
+          "ref": "41579910cd",
+          "takeaway": "Sympathetic Free Press take on Stevens; headline and summary only.",
+          "read_full": false
+        },
+        {
+          "ref": "f0aa0218db",
+          "takeaway": "Paywalled; headline only: El-Sayed fundraising.",
+          "read_full": false
+        },
+        {
+          "ref": "6a388f77d1",
+          "takeaway": "Stevens' response to critics.",
+          "read_full": false
+        },
+        {
+          "ref": "ed8e292813",
+          "takeaway": "Stevens rejecting the fiance claim as sexism.",
+          "read_full": false
+        },
+        {
+          "ref": "5d468b048a",
+          "takeaway": "Headline only: Democratic anger toward her fiance.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ex-fbi-case-dismissed",
+      "headline": "Judge dismisses case against two ex-FBI officials accused of lying about Hunter Biden probe",
+      "region": "Courts",
+      "importance": 4,
+      "summary": "Magistrate Judge Zia Faruqui dismissed charges against former FBI officials Nikki Floris and Bradley Benavides, who were accused of lying to Congress about the Hunter Biden investigation. Outlets report the judge said the case lacked probable cause and was rushed ahead of the midterms.",
+      "why_it_matters": "The ruling is a setback for Justice Department prosecutions of figures the president has criticized. It also feeds the debate over whether prosecutions are being timed for political effect.",
+      "background": "Floris and Benavides were FBI officials involved in the investigation of Hunter Biden, the former president's son. The Justice Department charged them with falsely suggesting to Congress that they were unaware of federal investigations around Hunter Biden. Faruqui is a federal magistrate judge in Washington. The department can still choose how to respond to the dismissal.",
+      "facts": [
+        {
+          "text": "Judge Zia Faruqui dismissed the case against Nikki Floris and Bradley Benavides.",
+          "refs": [
+            "4cb38594bc",
+            "029fa8c400"
+          ]
+        },
+        {
+          "text": "NBC reported the judge said the case failed to establish probable cause for the charges.",
+          "refs": [
+            "4cb38594bc"
+          ]
+        },
+        {
+          "text": "The two were accused of falsely suggesting to Congress that they were not aware of federal investigations around Hunter Biden, CBS reported.",
+          "refs": [
+            "871768d874"
+          ]
+        },
+        {
+          "text": "Reuters and CNBC reported the judge indicated the charges were rushed ahead of the midterm election.",
+          "refs": [
+            "40a17acbb7",
+            "029fa8c400"
+          ]
+        },
+        {
+          "text": "AP reported the judge cited 'weaponization' in tossing the charges.",
+          "refs": [
+            "e7688bbdda"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "d234813815",
+          "note": "Reports the judge called the case a rushed, political prosecution."
+        },
+        {
+          "ref": "baa7c1cf67",
+          "note": "Frames the dismissal as another blow to the Justice Department."
+        },
+        {
+          "ref": "871768d874",
+          "note": "Plain account of the allegation and dismissal."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "4cb38594bc",
+          "takeaway": "Straight report with the probable-cause finding.",
+          "read_full": false
+        },
+        {
+          "ref": "029fa8c400",
+          "takeaway": "Notes the judge's remarks on timing.",
+          "read_full": false
+        },
+        {
+          "ref": "d234813815",
+          "takeaway": "Paywalled; headline and summary only.",
+          "read_full": false
+        },
+        {
+          "ref": "871768d874",
+          "takeaway": "Explains the charge against the pair.",
+          "read_full": false
+        },
+        {
+          "ref": "40a17acbb7",
+          "takeaway": "Headline only: DOJ rushed charges before midterms.",
+          "read_full": false
+        },
+        {
+          "ref": "baa7c1cf67",
+          "takeaway": "Paywalled; headline and summary only.",
+          "read_full": false
+        },
+        {
+          "ref": "e7688bbdda",
+          "takeaway": "Headline only: judge cites weaponization.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ny-measles-death",
+      "headline": "New York reports first measles death in more than 30 years",
+      "region": "Health",
+      "importance": 4,
+      "summary": "New York health officials said a child in Lewis County died in connection with the state's measles outbreak, the first measles death in the state in over 30 years. The state has reported 178 cases this year, and Gov. Kathy Hochul tied the death to falling vaccination rates.",
+      "why_it_matters": "Measles spreads easily among unvaccinated people, and falling vaccination rates raise the risk of outbreaks and deaths. Parents should check that children's measles shots are current.",
+      "background": "The US declared measles eliminated in 2000 after maintaining high vaccination rates. Coverage has since dropped below the 95% level needed to prevent outbreaks, The Hindu reported. About four weeks ago Hochul declared a State Disaster Emergency over the outbreak. Lewis County is in northern New York, roughly 400 miles from New York City.",
+      "facts": [
+        {
+          "text": "A child in Lewis County died in connection with the outbreak, New York's first known measles death in over 30 years.",
+          "refs": [
+            "be539ad22d",
+            "bacb7572d4",
+            "d71c79bb11"
+          ]
+        },
+        {
+          "text": "New York has reported 178 measles cases this year.",
+          "refs": [
+            "be539ad22d"
+          ]
+        },
+        {
+          "text": "Hochul said the death reflected eroding vaccination levels.",
+          "refs": [
+            "a95cd5cab0"
+          ]
+        },
+        {
+          "text": "Hochul declared a State Disaster Emergency about four weeks ago, the New York Post reported.",
+          "refs": [
+            "9c56781536"
+          ]
+        },
+        {
+          "text": "Vaccination rates have fallen below the 95% coverage needed to prevent outbreaks, The Hindu reported.",
+          "refs": [
+            "97a89a0ce5"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "d71c79bb11",
+          "note": "Leads with the governor's message about eroded vaccine protections."
+        },
+        {
+          "ref": "9c56781536",
+          "note": "Plain account tied to the disaster emergency."
+        },
+        {
+          "ref": "4c29e867d3",
+          "note": "Attributes the news to Hochul in the headline."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "be539ad22d",
+          "takeaway": "Straight report with the case count.",
+          "read_full": false
+        },
+        {
+          "ref": "bacb7572d4",
+          "takeaway": "Paywalled; summary only.",
+          "read_full": false
+        },
+        {
+          "ref": "d71c79bb11",
+          "takeaway": "Includes Hochul's vaccination message.",
+          "read_full": false
+        },
+        {
+          "ref": "a95cd5cab0",
+          "takeaway": "Paywalled; headline and summary only.",
+          "read_full": false
+        },
+        {
+          "ref": "9c56781536",
+          "takeaway": "Notes the disaster emergency.",
+          "read_full": false
+        },
+        {
+          "ref": "97a89a0ce5",
+          "takeaway": "Adds national vaccination context.",
+          "read_full": false
+        },
+        {
+          "ref": "4c29e867d3",
+          "takeaway": "Reports Hochul's announcement and location.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "florida-learjet-crash",
+      "headline": "Nine killed in Learjet crash in Florida neighborhood; investigators focus on weather",
+      "region": "National",
+      "importance": 3,
+      "summary": "A Learjet 60 on a flight from Austin to the Bahamas crashed into a residential area in Palm Beach County, Florida, killing nine people. Victims include two young children and a 20-year-old co-pilot. The NTSB expects weather to be a major focus.",
+      "why_it_matters": "The NTSB investigation may produce findings about icing and flight safety. For most people this is a regional tragedy.",
+      "background": "The jet crashed Sunday near Cresthaven. The crew reported icing and an overspeed condition before it went down, Fox News reported. The passengers were a Texas family and friends on vacation, per the New York Times. The National Transportation Safety Board is investigating.",
+      "facts": [
+        {
+          "text": "Nine people died when a Learjet 60 crashed in a residential area near Cresthaven in Palm Beach County.",
+          "refs": [
+            "de17635bce",
+            "b578f7b350"
+          ]
+        },
+        {
+          "text": "The crew reported icing and an overspeed condition before the crash, Fox News reported.",
+          "refs": [
+            "b578f7b350"
+          ]
+        },
+        {
+          "text": "The victims include a 20-year-old co-pilot.",
+          "refs": [
+            "e2cd35f280",
+            "d9cf6aaa8d"
+          ]
+        },
+        {
+          "text": "The NTSB expects weather to be a major focus of the investigation, the Wall Street Journal reported.",
+          "refs": [
+            "5e427ed9c3"
+          ]
+        },
+        {
+          "text": "The BBC reported officials said the jet may have broken apart before the crash.",
+          "refs": [
+            "a5ad8811e6"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "b578f7b350",
+          "note": "Leads with the crew's icing and overspeed report."
+        },
+        {
+          "ref": "a5ad8811e6",
+          "note": "Leads with the possibility the jet broke apart."
+        },
+        {
+          "ref": "d9cf6aaa8d",
+          "note": "Focuses on the victims, a Texas family and friends."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "de17635bce",
+          "takeaway": "Victim identification and location.",
+          "read_full": false
+        },
+        {
+          "ref": "b578f7b350",
+          "takeaway": "Adds crew radio report details.",
+          "read_full": false
+        },
+        {
+          "ref": "e2cd35f280",
+          "takeaway": "Headline only: victims include the co-pilot.",
+          "read_full": false
+        },
+        {
+          "ref": "d9cf6aaa8d",
+          "takeaway": "Paywalled; focus on the victims.",
+          "read_full": false
+        },
+        {
+          "ref": "5e427ed9c3",
+          "takeaway": "Paywalled; weather is the focus.",
+          "read_full": false
+        },
+        {
+          "ref": "a5ad8811e6",
+          "takeaway": "Reports officials' early indication of in-air breakup.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-reflecting-pool-speech",
+      "headline": "Trump uses final pre-midterm speech to promote Reflecting Pool renovation",
+      "region": "White House",
+      "importance": 3,
+      "summary": "President Trump delivered his last major speech before the midterms at the Reflecting Pool, spending much of it on the renovation and other Washington projects. Outlets noted he did not focus on cost-of-living concerns.",
+      "why_it_matters": "The speech shows what the president chose to emphasize on the eve of an election that polls suggest favors Democrats.",
+      "background": "The Lincoln Memorial Reflecting Pool renovation, which the Guardian put at $14 million, has been troubled and delayed. Trump has made remaking parts of the capital a priority. The Reflecting Pool was refilled before the speech, per the New York Times.",
+      "facts": [
+        {
+          "text": "Trump gave his final major pre-midterm speech at the Reflecting Pool on Monday.",
+          "refs": [
+            "21f51e274f",
+            "02988ae52f"
+          ]
+        },
+        {
+          "text": "Axios reported he praised the Reflecting Pool project and the new White House helipad.",
+          "refs": [
+            "9dca86bd46"
+          ]
+        },
+        {
+          "text": "The Guardian reported the renovation cost $14 million.",
+          "refs": [
+            "d16ae9b870"
+          ]
+        },
+        {
+          "text": "CNBC reported Trump seemed to acknowledge Democrats had an advantage, saying 'we gave this a very strong shot.'",
+          "refs": [
+            "02988ae52f"
+          ]
+        },
+        {
+          "text": "CBS reported he held up photos of renovation projects rather than address cost of living.",
+          "refs": [
+            "57611b6b2b"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "57611b6b2b",
+          "note": "Emphasizes that he skipped cost-of-living issues."
+        },
+        {
+          "ref": "d24d60923c",
+          "note": "Frames the renovation talk as his closing message."
+        },
+        {
+          "ref": "9dca86bd46",
+          "note": "Describes the speech as a pitch of projects."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "21f51e274f",
+          "takeaway": "Detailed recounting of renovation troubles.",
+          "read_full": false
+        },
+        {
+          "ref": "02988ae52f",
+          "takeaway": "Highlights his acknowledgment of a Democratic edge.",
+          "read_full": false
+        },
+        {
+          "ref": "9dca86bd46",
+          "takeaway": "Lists the projects he promoted.",
+          "read_full": false
+        },
+        {
+          "ref": "d16ae9b870",
+          "takeaway": "Reports the cost.",
+          "read_full": false
+        },
+        {
+          "ref": "57611b6b2b",
+          "takeaway": "Contrasts speech with voter concerns.",
+          "read_full": false
+        },
+        {
+          "ref": "d24d60923c",
+          "takeaway": "Right-leaning outlet presenting it as his closing message.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": []
+}

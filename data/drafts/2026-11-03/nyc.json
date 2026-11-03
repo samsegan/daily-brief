@@ -1,0 +1,170 @@
+{
+  "stories": [
+    {
+      "id": "nyc-election-day-hochul-blakeman",
+      "headline": "New Yorkers vote on Election Day after a surge in early voting",
+      "region": "Citywide",
+      "importance": 5,
+      "summary": "New York City voters go to the polls Tuesday in a governor's race between Democratic Gov. Kathy Hochul and Republican Bruce Blakeman. More than 690,000 people voted early in the city, according to amNY and THE CITY. Attorney general and comptroller are also on the statewide ballot, along with two House seats Democrats hope to flip, according to the Times.",
+      "why_it_matters": "The results will decide who runs the state, which controls much of the city's funding, transit and housing policy. Coverage here comes from outlets on the left and center; no right-leaning outlet in the digest covered the turnout numbers.",
+      "background": "Hochul is seeking a full term as governor and is running against Blakeman, a Republican. Mayor Zohran Mamdani campaigned alongside Hochul and Rep. Alexandria Ocasio-Cortez in Queens on Sunday, the last day of early voting. Early voting opened Oct. 24. THE CITY reports affordability was one of the defining issues of the campaign.",
+      "facts": [
+        { "text": "amNY reported 690,526 New Yorkers voted early in the city, nearly 60% more than in the last governor's race four years ago.", "refs": ["c80c9eb85b"] },
+        { "text": "THE CITY reported more than 690,000 city voters cast ballots since early voting opened Oct. 24, up from more than 432,000 in 2022.", "refs": ["267827942d"] },
+        { "text": "Gothamist reported early voting was lower than in 2025, the mayoral election year, but rose in majority-Black districts.", "refs": ["ea122bb476"] },
+        { "text": "City & State reported Hochul visited Democratic neighborhoods in the city on Sunday while Blakeman went upstate.", "refs": ["50e786843c"] },
+        { "text": "The New York Times said statewide races for governor, attorney general and comptroller top the ticket, and Democratic leaders are focused on two House seats they hope to flip.", "refs": ["453e4d4f7f"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "c80c9eb85b", "note": "Leads with the roughly 60% jump over the last governor's race." },
+        { "ref": "ea122bb476", "note": "Leads with the dip compared with 2025 and the rise in majority-Black districts." },
+        { "ref": "50e786843c", "note": "Treats the final weekend as campaign color, with the three politicians appearing together." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c80c9eb85b", "takeaway": "Turnout story with the early-vote total and the comparison to 2022.", "read_full": false },
+        { "ref": "267827942d", "takeaway": "Election Day preview centered on affordability and the Hochul-Blakeman race.", "read_full": false },
+        { "ref": "ea122bb476", "takeaway": "Compares early turnout with 2025 and looks at where it rose.", "read_full": false },
+        { "ref": "50e786843c", "takeaway": "Campaign trail piece on the last day of early voting.", "read_full": false },
+        { "ref": "453e4d4f7f", "takeaway": "Paywalled; headline and summary only. Election Day guide to the statewide and House races.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mamdani-ice-parking-lots",
+      "headline": "Mamdani threatens to sue ICE over use of city-owned lots",
+      "region": "City Hall",
+      "importance": 4,
+      "summary": "Mayor Zohran Mamdani threatened legal action against federal immigration authorities over reports that ICE agents have used city-owned parking lots to stage operations. amNY reported the lots are in the Bronx and Queens and that he sent a letter on Monday. ICE said, per the Sun's headline, that it will keep \"cleaning up\" the streets.",
+      "why_it_matters": "The dispute is over whether city property can be used for federal immigration enforcement, which affects how immigrant New Yorkers encounter agents near parks and public lots. Coverage splits along lines of lean: left, center and right outlets all ran it, but with different emphasis.",
+      "background": "Earlier this year Mamdani issued an order barring ICE from using city property as staging areas, according to the Times. The new threat follows reports that agents have still been using city lots. Mamdani is the city's mayor and has been at odds with the Trump administration over immigration enforcement. The Department of Homeland Security oversees ICE.",
+      "facts": [
+        { "text": "Mamdani threatened legal action against the Trump administration over ICE's reported use of city-owned parking lots.", "refs": ["f444814a7e", "85ab072445", "e9e7ae01b0", "d6a71abe4f"] },
+        { "text": "Earlier this year Mamdani issued an order barring ICE from using city property as staging areas.", "refs": ["f444814a7e"] },
+        { "text": "amNY reported the lots are in the Bronx and Queens and that Mamdani sent a letter to DHS on Monday.", "refs": ["85ab072445"] },
+        { "text": "Fox News described the agents' use of the lots as alleged.", "refs": ["e9e7ae01b0"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f444814a7e", "note": "Frames it as the mayor invoking his own earlier order against the administration." },
+        { "ref": "4d34018574", "note": "Pairs the threat with the agency's reply that it will keep operating, giving the federal side equal weight." },
+        { "ref": "e9e7ae01b0", "note": "Stresses that the claim is the mayor's and that the use is alleged." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f444814a7e", "takeaway": "Paywalled; headline and summary only. Notes the earlier order.", "read_full": false },
+        { "ref": "85ab072445", "takeaway": "Gives the most detail: Bronx and Queens lots and the Monday letter.", "read_full": false },
+        { "ref": "4d34018574", "takeaway": "Headline only; leads with the agency's response.", "read_full": false },
+        { "ref": "d6a71abe4f", "takeaway": "Headline only; reports the legal threat.", "read_full": false },
+        { "ref": "e9e7ae01b0", "takeaway": "Short summary of the threat and the allegation.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "bronx-teen-frimpong-killing",
+      "headline": "Police seek school records in killing of Bronx teen Javits Frimpong",
+      "region": "Bronx",
+      "importance": 3,
+      "summary": "The NYPD said the 15-year-old, shot dead on a Bronx street last week, had his bag stolen by a stranger as he ran from his killers. Police are looking at several possible motives, and Gothamist's headline says bullying is one. The Daily News headline says police plan to subpoena city schools for records.",
+      "why_it_matters": "The case puts school records and bullying at the center of a homicide investigation, which matters to parents of New York City students. It also concerns the safety of immigrant teens.",
+      "background": "Javits Frimpong was a 15-year-old immigrant who was shot to death in the Bronx last week. NYPD Chief of Detectives Joseph Kenny gave an update on Monday. Police have not named suspects in the digest summaries. Investigators are now asking the city's schools for information.",
+      "facts": [
+        { "text": "NYPD Chief of Detectives Joseph Kenny said Monday that Frimpong's bag was taken by a stranger as he ran from the people who shot him.", "refs": ["e62dfcec4a"] },
+        { "text": "Police said they are looking at several potential motives.", "refs": ["7f50058105"] },
+        { "text": "The NYPD is asking schools for information, and the Daily News reported it will subpoena records on bullying.", "refs": ["7f50058105", "17ddfc87c6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "e62dfcec4a", "note": "Leads with the stolen bag and the chief's description of the teen." },
+        { "ref": "7f50058105", "note": "Leads with the school-records request and bullying as a possible motive." },
+        { "ref": "17ddfc87c6", "note": "Leads with the subpoena of city schools." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e62dfcec4a", "takeaway": "Reports the police update about the stolen bag.", "read_full": false },
+        { "ref": "7f50058105", "takeaway": "Reports police seeking school information and weighing several motives.", "read_full": false },
+        { "ref": "17ddfc87c6", "takeaway": "Headline only; says the NYPD will subpoena schools for bullying records.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mta-conductor-cuts-cbc",
+      "headline": "Budget watchdog says MTA could cut conductors to close future gaps",
+      "region": "Transit",
+      "importance": 3,
+      "summary": "The Citizens Budget Commission released a report on Monday saying the MTA could save billions of dollars a year with reforms, including fewer conductors on subway trains. Gothamist reported the group suggested removing one crew member from fully automated trains.",
+      "why_it_matters": "Proposals to cut staff can affect how subways run and what riders pay. Only the left-leaning and center outlets in the digest covered it, and the report is a proposal, not a decision by the MTA.",
+      "background": "The MTA is the agency that runs the city's subways and buses. The Citizens Budget Commission is a fiscal watchdog group that publishes reports on city and state budgets. It says the MTA's out-year budgets are projected to have shortfalls. Crew sizes are a recurring labor issue at the agency.",
+      "facts": [
+        { "text": "The Citizens Budget Commission published a report Monday on how the MTA could address projected budget holes.", "refs": ["b9ba105bcf", "9e110afa47"] },
+        { "text": "The report recommends eliminating conductors on more subway trains, which amNY said could save billions annually.", "refs": ["b9ba105bcf"] },
+        { "text": "Gothamist reported the report suggests removing one crew member from fully automated trains.", "refs": ["9e110afa47"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "9e110afa47", "note": "Leads with job eliminations." },
+        { "ref": "b9ba105bcf", "note": "Leads with the savings and the budget holes, listing conductor cuts as one of several reforms." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "9e110afa47", "takeaway": "Short summary focused on job cuts for automated trains.", "read_full": false },
+        { "ref": "b9ba105bcf", "takeaway": "Covers the savings and the wider set of reforms.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "bronx-police-shooting-deli",
+      "headline": "Police shoot man after gunfire outside Bronx deli",
+      "region": "Bronx",
+      "importance": 3,
+      "summary": "NYPD officers shot a man Monday afternoon in the Bronx after an exchange of gunfire near Bainbridge Avenue and East 194th Street. Police said the man threatened people inside a deli first, and Gothamist said he is expected to survive.",
+      "why_it_matters": "Police shootings draw review and affect how safe residents feel on their blocks. This was covered across left, center and right outlets, with the Post adding the suspect's name and a nearby daycare.",
+      "background": "Officers from the 52nd Precinct were called to the corner just before 3:30 p.m. Monday after a verbal dispute, according to Assistant Chief Aneudy Castillo as cited by amNY. The Post named the suspect as Victor Soto, 49. Police shootings are reviewed by authorities after the fact.",
+      "facts": [
+        { "text": "Officers from the 52nd Precinct were called to Bainbridge Avenue and East 194th Street just before 3:30 p.m. Monday, according to NYPD Assistant Chief Aneudy Castillo.", "refs": ["c00d21918e"] },
+        { "text": "Police said the man threatened people inside a deli before exchanging gunfire with officers, and he is expected to survive.", "refs": ["a3695f4987"] },
+        { "text": "The New York Post identified the man as Victor Soto, 49, and said the shooting happened near a daycare.", "refs": ["adc2fb6d59"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "c00d21918e", "note": "Calls it a \"wild daylight gun fight\" and centers the police account." },
+        { "ref": "a3695f4987", "note": "Uses a neutral headline and notes the man is expected to survive." },
+        { "ref": "adc2fb6d59", "note": "Emphasizes the suspect's record and the nearby daycare." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c00d21918e", "takeaway": "Gives location, time and the NYPD's account.", "read_full": false },
+        { "ref": "a3695f4987", "takeaway": "Notes the deli threat and the man's condition.", "read_full": false },
+        { "ref": "adc2fb6d59", "takeaway": "Names the suspect and describes the scene inside the deli.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "brooklyn-jewish-school-buses-vandalized",
+      "headline": "Buses serving Jewish schools vandalized with swastikas in Brooklyn",
+      "region": "Brooklyn",
+      "importance": 3,
+      "summary": "Police are investigating swastikas and hateful messages spray-painted on parked buses serving Jewish schools in Williamsburg on Monday morning. The Times reported the NYPD is treating it as a potential hate crime.",
+      "why_it_matters": "Hate crimes against Jewish communities affect safety and security for families and schools. Only a center and a left-leaning outlet covered it in the digest.",
+      "background": "Officers from the 90th Precinct responded to a 911 call just before 10 a.m. on Nov. 2, according to amNY citing law enforcement sources. The buses were parked in Williamsburg. No arrests were reported in the digest summaries.",
+      "facts": [
+        { "text": "The NYPD is investigating graffiti including swastikas on parked Jewish school buses in Brooklyn on Monday morning.", "refs": ["05489bae00", "6cdc3f9556"] },
+        { "text": "Officers from the 90th Precinct responded to a call just before 10 a.m., according to law enforcement sources cited by amNY.", "refs": ["05489bae00"] },
+        { "text": "The Times reported police are investigating it as a potential hate crime.", "refs": ["6cdc3f9556"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "05489bae00", "note": "Calls it an antisemitic graffiti spree and cites law enforcement sources." },
+        { "ref": "6cdc3f9556", "note": "Leads with the buses and the hate-crime investigation." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "05489bae00", "takeaway": "Gives the time, precinct and nature of the graffiti.", "read_full": false },
+        { "ref": "6cdc3f9556", "takeaway": "Paywalled; headline and summary only. Notes the potential hate crime.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": []
+}
