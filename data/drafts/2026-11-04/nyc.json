@@ -1,0 +1,451 @@
+{
+  "stories": [
+    {
+      "id": "hochul-reelected",
+      "headline": "Hochul wins a second full term as governor over Blakeman",
+      "region": "Albany",
+      "importance": 5,
+      "summary": "Gov. Kathy Hochul, a Democrat, defeated Republican Bruce Blakeman, the Nassau County executive, on Tuesday, outlets reported. The Associated Press called the race shortly after polls closed, per City & State. Hochul's running mate, former Council Speaker Adrienne Adams, makes it the first all-woman gubernatorial ticket in the state, amNY reported.",
+      "why_it_matters": "Hochul stays in Albany through 2030, which keeps the state's role in city budgets, transit funding and housing policy in the hands of the same governor. Her relationship with Mayor Mamdani and the left of her party will shape those decisions.",
+      "background": "Hochul became governor in 2021 when Andrew Cuomo resigned, and this was her second election to a full four-year term. Blakeman, the Nassau County executive, was the Republican nominee, and THE CITY described him as backed by President Trump. THE CITY said the race centered on affordability. Adrienne Adams, the former City Council speaker, was Hochul's running mate.",
+      "facts": [
+        {
+          "text": "The Associated Press called the governor's race for Hochul right after polls closed, City & State reported.",
+          "refs": [
+            "d6ce5ea2ce"
+          ]
+        },
+        {
+          "text": "THE CITY reported Hochul won by a double-digit margin and described the race as centered on affordability.",
+          "refs": [
+            "fb0ad8c8c8",
+            "2f5d7eff85"
+          ]
+        },
+        {
+          "text": "amNY reported that Hochul and running mate Adrienne Adams form the first all-woman gubernatorial ticket in New York history.",
+          "refs": [
+            "7231e2da9b"
+          ]
+        },
+        {
+          "text": "PBS NewsHour noted Hochul first took office in 2021 after Andrew Cuomo resigned.",
+          "refs": [
+            "e183872e90"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "8483c87d8b",
+          "note": "Looks ahead to pressure on Hochul from the Democratic Socialists of America in her second term."
+        },
+        {
+          "ref": "ea55c336b2",
+          "note": "Credits voter frustration with President Trump and other Republicans for the result."
+        },
+        {
+          "ref": "48c66b5cdb",
+          "note": "Plain results headline with no interpretation of why she won."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "48c66b5cdb",
+          "takeaway": "Short results story.",
+          "read_full": false
+        },
+        {
+          "ref": "8483c87d8b",
+          "takeaway": "Frames the win around pressure from the left.",
+          "read_full": false
+        },
+        {
+          "ref": "2f5d7eff85",
+          "takeaway": "Election-night story stressing affordability and the margin.",
+          "read_full": false
+        },
+        {
+          "ref": "d6ce5ea2ce",
+          "takeaway": "Brief call of the race.",
+          "read_full": false
+        },
+        {
+          "ref": "7231e2da9b",
+          "takeaway": "Emphasizes the history-making ticket.",
+          "read_full": false
+        },
+        {
+          "ref": "ea55c336b2",
+          "takeaway": "Headline and summary only (paywalled): ties result to anti-Trump sentiment.",
+          "read_full": false
+        },
+        {
+          "ref": "fb0ad8c8c8",
+          "takeaway": "Neighborhood-by-neighborhood vote map.",
+          "read_full": false
+        },
+        {
+          "ref": "e183872e90",
+          "takeaway": "Speech video with short background on how Hochul became governor.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mamdani-ballot-proposals",
+      "headline": "NYC voters approve all five ballot proposals from Mamdani's charter commission",
+      "region": "City Hall",
+      "importance": 5,
+      "summary": "New York City voters approved all five charter proposals on Tuesday's ballot, each with at least 61 percent with nearly all precincts reporting, THE CITY reported. The measures aim to speed up approvals for items such as outdoor dining permits, street safety projects and city contracts. They were put forward by a commission Mayor Zohran Mamdani convened.",
+      "why_it_matters": "The changes are meant to shorten the wait for things like sidewalk dining permits, bike and bus lane projects and city contracts. How much faster things move will depend on how City Hall carries them out.",
+      "background": "The city charter is the city government's rulebook, and changing it requires a public vote. Mamdani, in his first year as mayor, set up a commission whose proposals were advanced in July. The five questions covered outdoor dining, contracts, construction, emergency savings and street projects, per the New York Post. THE CITY and City & State described the results as a win for the mayor.",
+      "facts": [
+        {
+          "text": "All five proposals passed, each with at least 61 percent of the vote with nearly all precincts reporting.",
+          "refs": [
+            "c0f28384f0"
+          ]
+        },
+        {
+          "text": "The proposals were advanced in July by a commission convened by Mayor Mamdani and are aimed at cutting red tape.",
+          "refs": [
+            "962f33366f",
+            "51408a2bbe"
+          ]
+        },
+        {
+          "text": "The topics were outdoor dining, contracts, construction, emergency savings and street projects.",
+          "refs": [
+            "5fe10d8bf8"
+          ]
+        },
+        {
+          "text": "Gothamist and the Daily News highlighted measures to streamline outdoor dining permits and speed up bike and bus lane projects.",
+          "refs": [
+            "d85c0b91e4",
+            "99bdf59dea"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "51408a2bbe",
+          "note": "Calls it a total victory for the mayor, centering the political result."
+        },
+        {
+          "ref": "5fe10d8bf8",
+          "note": "Explainer on what each of the five measures does for New Yorkers."
+        },
+        {
+          "ref": "99bdf59dea",
+          "note": "Lists practical effects: construction, outdoor dining and bike lanes."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "c0f28384f0",
+          "takeaway": "Results with vote shares and the political read for Mamdani.",
+          "read_full": false
+        },
+        {
+          "ref": "51408a2bbe",
+          "takeaway": "Political framing as a win for the mayor.",
+          "read_full": false
+        },
+        {
+          "ref": "5fe10d8bf8",
+          "takeaway": "Explainer of the five questions.",
+          "read_full": false
+        },
+        {
+          "ref": "962f33366f",
+          "takeaway": "Straight results story on the red-tape aim.",
+          "read_full": false
+        },
+        {
+          "ref": "99bdf59dea",
+          "takeaway": "Headline on construction, dining and bike lanes.",
+          "read_full": false
+        },
+        {
+          "ref": "d85c0b91e4",
+          "takeaway": "Early lead story naming the dining and bike lane measures.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "lawler-conley-ny17",
+      "headline": "Lawler concedes NY-17 to Conley as Westchester voting machines delay counting",
+      "region": "Westchester",
+      "importance": 4,
+      "summary": "Republican Rep. Mike Lawler conceded the Hudson Valley 17th District to Democrat Cait Conley, the Post, Gothamist and the Times reported. Gothamist said malfunctioning voting machines in Westchester County delayed ballot scanning, and the Times said he conceded with tens of thousands of votes still uncounted. The Center Square also reported scanner glitches, bomb threats and flooding on Election Day.",
+      "why_it_matters": "Local voters in the Hudson Valley and Westchester commuter belt get a new House member, and Democrats gain a seat they were targeting. The machine problems raise questions about whether the county's counting process can be trusted to be quick.",
+      "background": "Lawler first won NY-17 in 2022, per the Post, and the district was one of the most closely watched swing seats in the state. Conley was his Democratic challenger. On election night, scanner problems in Westchester delayed the count. City & State described the night as a good one for Democrats.",
+      "facts": [
+        {
+          "text": "Lawler conceded to Conley at a gathering in Pearl River on election night.",
+          "refs": [
+            "1a795d113e",
+            "fa112abe67"
+          ]
+        },
+        {
+          "text": "The Times reported he conceded even with tens of thousands of votes still to be counted because of balloting issues in Westchester.",
+          "refs": [
+            "6bcc04c09a"
+          ]
+        },
+        {
+          "text": "Gothamist reported malfunctioning voting machines in Westchester delayed ballot scanning.",
+          "refs": [
+            "1a795d113e"
+          ]
+        },
+        {
+          "text": "The Center Square reported Election Day voting was marked by scanner glitches, bomb threats and flooding.",
+          "refs": [
+            "4fca272a68"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "7416b5a541",
+          "note": "Treats the loss as part of a wider Democratic wave."
+        },
+        {
+          "ref": "1a795d113e",
+          "note": "Puts the voting machine problems in the headline."
+        },
+        {
+          "ref": "fa112abe67",
+          "note": "Describes a concession in a hotly contested race, with no mention of machine trouble in the headline."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "12c50459b0",
+          "takeaway": "Results headline.",
+          "read_full": false
+        },
+        {
+          "ref": "fa112abe67",
+          "takeaway": "Concession story.",
+          "read_full": false
+        },
+        {
+          "ref": "1a795d113e",
+          "takeaway": "Ties the concession to the machine failures.",
+          "read_full": false
+        },
+        {
+          "ref": "7416b5a541",
+          "takeaway": "Wave-election framing.",
+          "read_full": false
+        },
+        {
+          "ref": "6bcc04c09a",
+          "takeaway": "Headline and summary only (paywalled): notes uncounted votes.",
+          "read_full": false
+        },
+        {
+          "ref": "4fca272a68",
+          "takeaway": "Statewide Election Day problems roundup (headline only).",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mamdani-house-slate",
+      "headline": "Mamdani-backed candidates win House seats in New York City",
+      "region": "Bronx",
+      "importance": 3,
+      "summary": "Democratic Socialist Darializa Avila Chevalier won the Bronx's 13th District, along with Ocasio-Cortez and Ritchie Torres in neighboring Bronx races, amNY reported. Gothamist said Mayor Mamdani had endorsed Claire Valdez, Brad Lander and Avila Chevalier, and treated their wins as a sign of his politics' popularity. The Post called it a socialist slate sweeping the night.",
+      "why_it_matters": "New York's delegation in Washington shifts left, which could matter for federal funding fights over transit and housing. It also sets up tests for Hochul and Mamdani within the Democratic Party.",
+      "background": "Mamdani, a democratic socialist, took office as mayor in January. In this cycle he endorsed several challengers for House seats in New York City. Outlets disagreed on how to read the results: Gothamist called it a signal of his popularity, while the Post called it an extreme-left takeover attempt on the Democratic Party.",
+      "facts": [
+        {
+          "text": "Avila Chevalier won the 13th Congressional District; amNY said Ocasio-Cortez and Torres also won Bronx seats.",
+          "refs": [
+            "81e51eb963"
+          ]
+        },
+        {
+          "text": "Mamdani endorsed Claire Valdez, Brad Lander and Avila Chevalier for Congress, Gothamist reported.",
+          "refs": [
+            "e8b9fdda58"
+          ]
+        },
+        {
+          "text": "The Post reported Mamdani's slate of left-wing House candidates won Tuesday night.",
+          "refs": [
+            "3417dd8a67"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "e8b9fdda58",
+          "note": "Presents the wins as showing the popularity of Mamdani's brand of politics."
+        },
+        {
+          "ref": "3417dd8a67",
+          "note": "Uses 'socialist' and 'extreme left' language and frames it as a takeover push."
+        },
+        {
+          "ref": "81e51eb963",
+          "note": "Local Bronx results without political interpretation."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "e8b9fdda58",
+          "takeaway": "Mamdani-centered read.",
+          "read_full": false
+        },
+        {
+          "ref": "3417dd8a67",
+          "takeaway": "Partisan framing of the socialist wave.",
+          "read_full": false
+        },
+        {
+          "ref": "81e51eb963",
+          "takeaway": "Bronx-focused results.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "measles-death-new-york",
+      "headline": "Child dies of measles in upstate outbreak, state's first such death in 30 years",
+      "region": "Statewide",
+      "importance": 4,
+      "summary": "An infant died of measles in Lewis County, the first measles death in New York in 30 years, Gothamist and the Times reported. Gov. Hochul said the death reflects eroding vaccination levels, per the Times. The state is dealing with a large outbreak.",
+      "why_it_matters": "Measles spreads easily among unvaccinated people, and falling vaccination rates raise the risk for babies too young to be vaccinated. New Yorkers can check their family's vaccine records and talk to a doctor.",
+      "background": "Measles was declared eliminated from the U.S. in 2000 thanks to high vaccination rates, which The Hindu says have recently fallen below the 95 percent coverage needed to prevent outbreaks. Hochul declared a state disaster emergency over the outbreak in rural counties in early October, per Fox 5 NY. Lewis County in northern New York is among the affected areas.",
+      "facts": [
+        {
+          "text": "It is the first measles death in New York in 30 years.",
+          "refs": [
+            "900e3469b4",
+            "97a89a0ce5"
+          ]
+        },
+        {
+          "text": "Hochul said the infant's death in Lewis County reflected eroding vaccination levels, the Times reported.",
+          "refs": [
+            "a95cd5cab0"
+          ]
+        },
+        {
+          "text": "Hochul declared a state disaster emergency over the measles outbreak in October.",
+          "refs": [
+            "nyc-w1"
+          ]
+        },
+        {
+          "text": "U.S. vaccination rates have fallen below the 95 percent coverage needed to prevent outbreaks, The Hindu reported.",
+          "refs": [
+            "97a89a0ce5"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "900e3469b4",
+          "note": "Calls the outbreak 'raging', emphasizing its scale."
+        },
+        {
+          "ref": "a95cd5cab0",
+          "note": "Centers Hochul's statement about vaccination levels."
+        },
+        {
+          "ref": "97a89a0ce5",
+          "note": "Puts the death in national vaccination context."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "900e3469b4",
+          "takeaway": "Short item stressing the outbreak's size.",
+          "read_full": false
+        },
+        {
+          "ref": "a95cd5cab0",
+          "takeaway": "Headline and summary only (paywalled): Hochul's comments.",
+          "read_full": false
+        },
+        {
+          "ref": "97a89a0ce5",
+          "takeaway": "National vaccination context.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "brooklyn-jogger-stabbing",
+      "headline": "Brooklyn jogger stabbed on waterfront dies; search for attacker continues",
+      "region": "Brooklyn",
+      "importance": 3,
+      "summary": "Katie Suarez, a jogger stabbed in Brooklyn on Oct. 30, died at NYU Langone Brooklyn, her family announced Tuesday, the Brooklyn Paper reported. The search for the attacker continues. The Daily News reported the death as well.",
+      "why_it_matters": "A killing of a runner on a public waterfront path with no suspect in custody worries people who use Brooklyn's paths, especially after dark.",
+      "background": "Suarez was attacked while running on Oct. 30. The Brooklyn Paper described the attack as shocking and mysterious. Her mother told several outlets she died of her injuries days later. No arrest was reported in the digest.",
+      "facts": [
+        {
+          "text": "Suarez died of her injuries at NYU Langone Brooklyn, her family announced Tuesday.",
+          "refs": [
+            "ac4848cae8",
+            "9fc029ce65"
+          ]
+        },
+        {
+          "text": "She was stabbed on Oct. 30 and police have not announced a suspect, the Brooklyn Paper reported the search continues.",
+          "refs": [
+            "ac4848cae8"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "ac4848cae8",
+          "takeaway": "Details of the death and the continuing search.",
+          "read_full": false
+        },
+        {
+          "ref": "9fc029ce65",
+          "takeaway": "Headline only: reports her death.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "nyc-w1",
+      "url": "https://www.fox5ny.com/news/ny-measles-outbreak-hochul-disaster-emergency-declared",
+      "title": "NY Gov. Hochul declares measles disaster emergency as cases rise in rural counties",
+      "outlet": "Fox 5 NY"
+    }
+  ]
+}

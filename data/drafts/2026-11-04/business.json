@@ -1,0 +1,455 @@
+{
+ "stories": [
+  {
+   "id": "midterms-market-reaction",
+   "headline": "Stocks, bonds and gold react to Democratic sweep of Congress",
+   "region": "Markets",
+   "importance": 5,
+   "summary": "U.S. stock futures fell at first as Democrats won key races, then recovered after President Trump said he would accept the results, according to Bloomberg and the Wall Street Journal. Treasury yields and the dollar fell and gold rose above $4,000 an ounce, Bloomberg reported. Analysts quoted by the Financial Times said divided government reduces policymaking risk.",
+   "why_it_matters": "Lower Treasury yields can feed through to borrowing costs such as mortgages, and a divided Congress may limit new tax and spending changes that markets had been pricing.",
+   "background": "The 2026 midterm elections decided control of Congress, where Republicans held both chambers alongside President Trump. Investors had been watching the vote for its possible effect on taxes, spending, tariffs and the AI-driven stock rally. Markets had already been choppy, with the S&P 500 and Nasdaq lower over the past month. Results came in late Tuesday, so the first market reaction was in overnight futures and Asian and European trading.",
+   "facts": [
+    {
+     "text": "US equity futures rallied, reversing earlier losses, after Democrats won control of Congress and Trump said he would accept the results, Bloomberg reported.",
+     "refs": [
+      "b7df16a971",
+      "7c1d26995c"
+     ]
+    },
+    {
+     "text": "Stock futures slid at first after Democrats won key Senate races; NBC News said the size of the win surprised Wall Street, which had expected a smaller one.",
+     "refs": [
+      "b45f13e8f3",
+      "64dff0a04b"
+     ]
+    },
+    {
+     "text": "Bond yields and the dollar fell on expectations of greater limits on Trump's agenda, Bloomberg reported.",
+     "refs": [
+      "8191aaa37d",
+      "5015117f9b"
+     ]
+    },
+    {
+     "text": "Gold rose above $4,000 an ounce as the dollar and Treasury yields fell, Bloomberg reported.",
+     "refs": [
+      "66a19ecacf"
+     ]
+    },
+    {
+     "text": "Reuters reported that crypto followed stocks higher after the Democratic wins.",
+     "refs": [
+      "7f57f9b888"
+     ]
+    },
+    {
+     "text": "The Financial Times quoted analysts saying divided government reduces policymaking risks.",
+     "refs": [
+      "1f8196de7a"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [
+    {
+     "ref": "64dff0a04b",
+     "note": "Headline stresses the futures drop and 'key midterm election wins' for Democrats."
+    },
+    {
+     "ref": "1f8196de7a",
+     "note": "Headline stresses the rebound and plays down the early losses."
+    },
+    {
+     "ref": "b45f13e8f3",
+     "note": "Frames the result as a 'blue tsunami' threat to the AI boom."
+    }
+   ],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "b7df16a971",
+     "takeaway": "Paywalled summary: futures rebound as uncertainty eases.",
+     "read_full": false
+    },
+    {
+     "ref": "7c1d26995c",
+     "takeaway": "Paywalled live blog: Dow futures reverse initial reaction.",
+     "read_full": false
+    },
+    {
+     "ref": "64dff0a04b",
+     "takeaway": "Headline only: futures tumble on Democratic wins.",
+     "read_full": false
+    },
+    {
+     "ref": "b45f13e8f3",
+     "takeaway": "Ties the move to the AI trade and Wall Street's surprise.",
+     "read_full": false
+    },
+    {
+     "ref": "38b32a7a04",
+     "takeaway": "Reuters headline: futures rise on assessing the sweep.",
+     "read_full": false
+    },
+    {
+     "ref": "afd2195bad",
+     "takeaway": "Paywalled summary: futures rally, Treasurys strengthen.",
+     "read_full": false
+    },
+    {
+     "ref": "1f8196de7a",
+     "takeaway": "Paywalled summary: rebound, divided government lowers policy risk.",
+     "read_full": false
+    },
+    {
+     "ref": "8191aaa37d",
+     "takeaway": "Paywalled markets wrap: stocks and bonds rally, dollar falls.",
+     "read_full": false
+    },
+    {
+     "ref": "66a19ecacf",
+     "takeaway": "Paywalled summary: gold above $4,000.",
+     "read_full": false
+    },
+    {
+     "ref": "5015117f9b",
+     "takeaway": "Paywalled summary: gold gains on softer dollar and yields.",
+     "read_full": false
+    },
+    {
+     "ref": "7f57f9b888",
+     "takeaway": "Headline only: crypto tracks stocks higher.",
+     "read_full": false
+    },
+    {
+     "ref": "46dcaa1a4b",
+     "takeaway": "CNBC says yields fell as investors sought safety in an equity sell-off, an earlier-in-the-night picture.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "binance-hack-north-korea",
+   "headline": "Binance says fake job interviews led to $6.3 billion hack",
+   "region": "Crypto",
+   "importance": 4,
+   "summary": "Binance said Tuesday that an engineer was lured into fake job interviews that began a months-long attack ending in the theft of about $6.3 billion, according to BBC, Axios and NPR. Outlets reported that Binance attributed the attack to North Korean hackers. Binance has said it would reimburse customers who had losses, the New York Times reported.",
+   "why_it_matters": "Customers of large crypto exchanges rely on the exchange covering losses, and the case shows how ordinary job-hunting messages can be used to break into company systems.",
+   "background": "Binance is the world's largest cryptocurrency exchange. Its roughly $6.3 billion loss is described by outlets as the biggest crypto theft on record. North Korean hacking groups have been blamed for earlier large crypto thefts. Binance has now published details of an internal investigation into how the attackers got in.",
+   "facts": [
+    {
+     "text": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus interviews with fake company representatives, Binance said.",
+     "refs": [
+      "5a2163963e",
+      "133cbb4ca5"
+     ]
+    },
+    {
+     "text": "The New York Post reported that the operation began in June and involved ads for tampered software, stolen credentials and fake interviews.",
+     "refs": [
+      "92e6c18f4f"
+     ]
+    },
+    {
+     "text": "Binance said the theft totalled $6.3 billion; the New York Times reported it would reimburse customers who had losses.",
+     "refs": [
+      "45b03551c7",
+      "5966a9243a"
+     ]
+    },
+    {
+     "text": "The Hindu reported customers got their crypto back in about three to four days.",
+     "refs": [
+      "baa0c51058"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [
+    {
+     "ref": "92e6c18f4f",
+     "note": "Leads with North Korean hackers and the scale of the 'heist'."
+    },
+    {
+     "ref": "45b03551c7",
+     "note": "Tells it from the engineer's perspective as a human story."
+    },
+    {
+     "ref": "97d6bd96f6",
+     "note": "Frames the hack as a lesson for crypto custody and investing."
+    }
+   ],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "5a2163963e",
+     "takeaway": "Straight account of Binance's disclosure of the fake interviews.",
+     "read_full": false
+    },
+    {
+     "ref": "92e6c18f4f",
+     "takeaway": "Adds timeline details and the North Korea attribution.",
+     "read_full": false
+    },
+    {
+     "ref": "133cbb4ca5",
+     "takeaway": "Frames it as hackers targeting both sides of the job market.",
+     "read_full": false
+    },
+    {
+     "ref": "45b03551c7",
+     "takeaway": "Narrative of the engineer being duped.",
+     "read_full": false
+    },
+    {
+     "ref": "5966a9243a",
+     "takeaway": "Paywalled summary on customer protections and reimbursement.",
+     "read_full": false
+    },
+    {
+     "ref": "baa0c51058",
+     "takeaway": "Explainer on how Binance recovered quickly.",
+     "read_full": false
+    },
+    {
+     "ref": "97d6bd96f6",
+     "takeaway": "Investor angle on custody.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "earnings-apple-amd-novo",
+   "headline": "Earnings split: AMD and Novo rise, Apple and Shopify fall",
+   "region": "Earnings",
+   "importance": 4,
+   "summary": "AMD stock rose about 8% on third-quarter results as data center revenue nearly doubled, CNBC reported. Novo Nordisk raised its 2026 outlook on Wegovy pill sales, Reuters reported. Apple fell nearly 2% on gross margin and services concerns, and Shopify slid after missing revenue expectations, according to MarketWatch.",
+   "why_it_matters": "Earnings for chip and device makers drive the large technology stocks that dominate many retirement funds, and Apple's memory costs point to higher prices for phones and computers.",
+   "background": "Third-quarter earnings season runs through early November. AI-chip demand has lifted companies like AMD and Nvidia, while a memory chip shortage is raising costs for device makers. Novo Nordisk launched an oral version of its Wegovy weight-loss drug this year after a period of investor disappointment.",
+   "facts": [
+    {
+     "text": "AMD reported better-than-expected third-quarter results driven by AI chip sales, with data center revenue nearly doubling, CNBC reported.",
+     "refs": [
+      "e685f10c5f",
+      "6efe41ce41"
+     ]
+    },
+    {
+     "text": "Apple shares fell nearly 2% Tuesday after investors were disappointed by its gross margin outlook and slowing services revenue growth, MarketWatch reported.",
+     "refs": [
+      "6a415c886b"
+     ]
+    },
+    {
+     "text": "Apple warned of an 'unprecedented' rise in memory chip prices, the Guardian reported.",
+     "refs": [
+      "5fde059d3d"
+     ]
+    },
+    {
+     "text": "Shopify's stock slid after the company missed revenue expectations, MarketWatch reported.",
+     "refs": [
+      "74f570e595"
+     ]
+    },
+    {
+     "text": "Novo Nordisk raised its 2026 outlook as Wegovy pill sales beat forecasts.",
+     "refs": [
+      "06e72a0496",
+      "e14b47af17",
+      "2271590526"
+     ]
+    },
+    {
+     "text": "Nvidia and other Big Tech gains lifted the U.S. market Tuesday despite an Apple drop, AP reported.",
+     "refs": [
+      "7399028b7f",
+      "5d5bbc89a4"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "e685f10c5f",
+     "takeaway": "Results story on AMD's AI-driven beat.",
+     "read_full": false
+    },
+    {
+     "ref": "6efe41ce41",
+     "takeaway": "Reads AMD's results as a sign of real AI revenue.",
+     "read_full": false
+    },
+    {
+     "ref": "6a415c886b",
+     "takeaway": "Analyst reaction to Apple's margin outlook.",
+     "read_full": false
+    },
+    {
+     "ref": "5fde059d3d",
+     "takeaway": "Focuses on Apple's memory cost warning.",
+     "read_full": false
+    },
+    {
+     "ref": "74f570e595",
+     "takeaway": "Shopify revenue miss in a less forgiving market.",
+     "read_full": false
+    },
+    {
+     "ref": "06e72a0496",
+     "takeaway": "Headline only: Novo hikes outlook.",
+     "read_full": false
+    },
+    {
+     "ref": "e14b47af17",
+     "takeaway": "Novo shares jump on pill sales.",
+     "read_full": false
+    },
+    {
+     "ref": "2271590526",
+     "takeaway": "Novo relief for investors.",
+     "read_full": false
+    },
+    {
+     "ref": "7399028b7f",
+     "takeaway": "AP market wrap headline.",
+     "read_full": false
+    },
+    {
+     "ref": "5d5bbc89a4",
+     "takeaway": "ABC copy of AP market wrap.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "global-inflation-oil",
+   "headline": "Euro zone inflation hits 4% as oil eases and central banks tighten",
+   "region": "Inflation",
+   "importance": 4,
+   "summary": "Euro zone inflation rose to 4% in October, the highest in three years and driven by energy prices, CNBC reported, with a European Central Bank rate rise looming. Australia raised rates to an 18-year high on Tuesday, CNBC reported. Oil fell to about $103 on an unconfirmed report of Middle East diplomacy, the Financial Times reported.",
+   "why_it_matters": "Energy-driven inflation raises prices for fuel, food and heating and pushes central banks toward higher interest rates and loan costs.",
+   "background": "Oil prices have risen sharply during the conflict involving Iran, which has raised energy costs worldwide. Central banks that had cut rates are now facing higher inflation. Australia's central bank has raised rates five times this year. Traders are watching whether Trump pursues diplomacy or renewed strikes on Iran after the midterms.",
+   "facts": [
+    {
+     "text": "Euro zone inflation rose to a three-year high, Reuters reported; CNBC put it at 4%, with energy inflation above 20% in October.",
+     "refs": [
+      "e8a05c749c",
+      "9726a247b6"
+     ]
+    },
+    {
+     "text": "The Reserve Bank of Australia raised rates for the fifth time this year, to the highest level since 2008.",
+     "refs": [
+      "67652ec061",
+      "adf32dd643"
+     ]
+    },
+    {
+     "text": "Oil extended its decline to $103 after an unconfirmed report of diplomatic progress in the Middle East, the Financial Times reported.",
+     "refs": [
+      "84f18b7b15"
+     ]
+    },
+    {
+     "text": "Deutsche Bank analysts said oil would face more downward pressure without escalation in the Middle East, the Wall Street Journal reported.",
+     "refs": [
+      "27d01b8e15"
+     ]
+    },
+    {
+     "text": "European gas prices rose after the midterms as traders waited to see if Trump would pursue diplomacy or renewed strikes on Iran, the Wall Street Journal reported.",
+     "refs": [
+      "60d7e36ba6"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "e8a05c749c",
+     "takeaway": "Reuters headline on three-year high.",
+     "read_full": false
+    },
+    {
+     "ref": "9726a247b6",
+     "takeaway": "Adds 4% figure and energy driver.",
+     "read_full": false
+    },
+    {
+     "ref": "67652ec061",
+     "takeaway": "Australian hike in line with forecasts.",
+     "read_full": false
+    },
+    {
+     "ref": "adf32dd643",
+     "takeaway": "Paywalled: highest since the 2008 crisis.",
+     "read_full": false
+    },
+    {
+     "ref": "84f18b7b15",
+     "takeaway": "Paywalled: oil decline on unconfirmed diplomacy.",
+     "read_full": false
+    },
+    {
+     "ref": "27d01b8e15",
+     "takeaway": "Paywalled: analysts see pressure on oil.",
+     "read_full": false
+    },
+    {
+     "ref": "60d7e36ba6",
+     "takeaway": "Paywalled: gas market awaits Iran decision.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "cvs-breakup",
+   "headline": "CVS to split drugstore business from insurer Aetna",
+   "region": "Earnings",
+   "importance": 3,
+   "summary": "CVS plans to separate its drugstore business from its insurance business, the New York Post and CNBC reported Tuesday night and Wednesday. The move would reverse the roughly $78 billion Aetna purchase of 2018.",
+   "why_it_matters": "Changes to how a major pharmacy and insurer is organized could affect drug pricing, store operations and insurance options, though details are not yet reported.",
+   "background": "CVS bought Aetna in 2018 to combine pharmacies, insurance and care services. That vertically integrated model has faced pressure from costs and scrutiny of pharmacy benefit practices. A breakup would undo the strategy.",
+   "facts": [
+    {
+     "text": "CVS is breaking up its healthcare business by splitting pharmacies from insurance, the New York Post reported.",
+     "refs": [
+      "83ebddb90e"
+     ]
+    },
+    {
+     "text": "CNBC reported the move would reverse the roughly $78 billion Aetna acquisition and dismantle the integrated company created in 2018.",
+     "refs": [
+      "389864e7d2"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "83ebddb90e",
+     "takeaway": "Frames it as breaking up the healthcare empire.",
+     "read_full": false
+    },
+    {
+     "ref": "389864e7d2",
+     "takeaway": "Reports the split as a major breakup reversing Aetna.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  }
+ ],
+ "web_refs": []
+}

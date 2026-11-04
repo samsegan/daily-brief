@@ -1,0 +1,709 @@
+{
+  "stories": [
+    {
+      "id": "us-israel-aid-end",
+      "headline": "Trump says US will stop about $4 billion in annual military aid to Israel after this year",
+      "region": "Middle East",
+      "importance": 5,
+      "summary": "President Trump said on Election Day that he and Israeli Prime Minister Benjamin Netanyahu agreed the US will end roughly $4 billion in yearly funding to Israel after 2026, while continuing to sell it weapons. The Wall Street Journal reported that the two governments had discussed phasing out grants but that his remarks point to a much faster timeline. No joint statement was in the digest.",
+      "why_it_matters": "US military grants to Israel are a long-running part of the federal budget and of Middle East security planning. An abrupt end would shift costs and decisions to Israel and make the aid a live issue for the new Congress.",
+      "background": "The US gives Israel about $3.8 billion a year in military aid under a ten-year agreement that runs to 2028. Netanyahu has said publicly that Israel wants to wean itself off that aid over roughly a decade. The US and Israel have been fighting alongside each other in a war against Iran this year, and Israel policy has become a divisive issue inside both US parties. Trump made his announcement as US midterm voting was under way.",
+      "facts": [
+        {
+          "text": "Trump said on Tuesday he made a deal with Netanyahu under which Washington would stop $4bn in annual funding to Israel after this year but keep selling it weapons, Reuters reported.",
+          "refs": [
+            "8f67e42c58"
+          ]
+        },
+        {
+          "text": "Deutsche Welle reported Trump added that Democratic candidates were using US military support for Israel against Republicans in the midterms.",
+          "refs": [
+            "e75e2e57e9"
+          ]
+        },
+        {
+          "text": "The New York Times reported Trump described the arrangement as an agreement reached months ago.",
+          "refs": [
+            "6f138a9e4a"
+          ]
+        },
+        {
+          "text": "The Wall Street Journal reported the US and Israel had discussed phasing out grants, but that Trump's comments suggest it could happen far faster than expected.",
+          "refs": [
+            "a933bc9d5d"
+          ]
+        },
+        {
+          "text": "Former Rep. Marjorie Taylor Greene said the announcement shows 'how bad the polling is' on the issue, The Hill reported.",
+          "refs": [
+            "b4b56adc23"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Timeline and scale of the aid cut",
+          "positions": [
+            {
+              "claim": "Trump said the US will end about $4 billion in annual aid by the end of this year.",
+              "refs": [
+                "8f67e42c58",
+                "f74c15e90c"
+              ]
+            },
+            {
+              "claim": "The Wall Street Journal said earlier US-Israel discussions were about phasing out grants, and Trump's remarks imply a faster pace than expected.",
+              "refs": [
+                "a933bc9d5d"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "9004d9c534",
+          "note": "Frames it as a question about whether Trump will actually cut aid."
+        },
+        {
+          "ref": "6f138a9e4a",
+          "note": "Stresses how fast the politics around Israel have shifted."
+        },
+        {
+          "ref": "f74c15e90c",
+          "note": "Reports it as Trump's claim, attributing the figures to him."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "8f67e42c58",
+          "takeaway": "Reuters wire text with the core claim and the weapons-sales carve-out.",
+          "read_full": false
+        },
+        {
+          "ref": "a933bc9d5d",
+          "takeaway": "Paywalled; headline and summary stress the speed of the cut versus earlier plans.",
+          "read_full": false
+        },
+        {
+          "ref": "6f138a9e4a",
+          "takeaway": "Paywalled; summary places it in the Election Day political context.",
+          "read_full": false
+        },
+        {
+          "ref": "e75e2e57e9",
+          "takeaway": "Short wire-style report adding Trump's remark about Democrats.",
+          "read_full": false
+        },
+        {
+          "ref": "b4b56adc23",
+          "takeaway": "Reaction piece built on a Greene comment.",
+          "read_full": false
+        },
+        {
+          "ref": "f74c15e90c",
+          "takeaway": "Israeli outlet; headline attributes the claim to Trump.",
+          "read_full": false
+        },
+        {
+          "ref": "9004d9c534",
+          "takeaway": "Headline-only explainer framing.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iran-strikes-hormuz",
+      "headline": "US strikes Iran's Qeshm Island; Trump says no immediate plan for more",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "The US carried out limited strikes on Iran's Qeshm Island late Monday, and Iran said it shot down US drones. On Tuesday Trump told the Financial Times the US has no immediate plan to strike Iran but is ready if needed, and later said the war was a factor in Republican midterm losses. Reuters also reported Iran's Revolutionary Guards saying four tankers caught fire after hitting mines near the Strait of Hormuz.",
+      "why_it_matters": "The Strait of Hormuz carries a large share of the world's oil, so fighting or mines there can move fuel prices and shipping costs. The outcome of US-Iran talks affects whether the war resumes.",
+      "background": "The US and Israel have been at war with Iran this year, and a ceasefire and talks, with Qatar as a mediator, have been on and off. Control of shipping through the Strait of Hormuz has been a central dispute. Trump and Vice President JD Vance have said diplomacy is progressing even as strikes continue. The New York Times reported Iranian officials said they could reopen the strait within two days as part of a deal.",
+      "facts": [
+        {
+          "text": "The US launched limited strikes on Qeshm Island late Monday, reportedly targeting surface-to-air missiles used against US assets, hours after Vance voiced optimism about a deal, the Guardian reported.",
+          "refs": [
+            "5904df7092"
+          ]
+        },
+        {
+          "text": "Iran said it shot down US drones after the reported strikes, per the Washington Times headline.",
+          "refs": [
+            "92053fa078"
+          ]
+        },
+        {
+          "text": "Iran's president said a return to war benefits 'no one', The Hindu reported.",
+          "refs": [
+            "e4add7ef02"
+          ]
+        },
+        {
+          "text": "Trump told the Financial Times the US has no immediate plan to strike Iran, saying 'We seem to be getting everything we want'.",
+          "refs": [
+            "877a3d13c4",
+            "9310971dea"
+          ]
+        },
+        {
+          "text": "Reuters reported Iran's IRGC said four tankers were ablaze after hitting mines near the Strait of Hormuz.",
+          "refs": [
+            "05fd2b95a7"
+          ]
+        },
+        {
+          "text": "Trump told Fox News 'a part of it was Iran' when asked about his party's midterm defeat, France 24 reported.",
+          "refs": [
+            "f611a308b8"
+          ]
+        },
+        {
+          "text": "The New York Times reported a Qatari delegation arrived in Tehran Monday and that Iranian officials spoke of progress toward reopening the strait.",
+          "refs": [
+            "4bc81d8467"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether new US strikes on Iran were imminent",
+          "positions": [
+            {
+              "claim": "A report cited by the Times of Israel said the US had plans to strike Iran as early as Wednesday.",
+              "refs": [
+                "c307979c65"
+              ]
+            },
+            {
+              "claim": "Trump told the FT the US has no immediate plan to strike, though it is 'locked and loaded' if needed.",
+              "refs": [
+                "877a3d13c4",
+                "b12f659e0d"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "5904df7092",
+          "note": "Pairs the strikes with Vance's optimism about a deal."
+        },
+        {
+          "ref": "5b6daa9fdd",
+          "note": "Sets the strike against Trump playing down war risks."
+        },
+        {
+          "ref": "0a8c9fab59",
+          "note": "Ties Trump's softer tone to the Democratic midterm win."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "5904df7092",
+          "takeaway": "Detailed account of the strikes and diplomatic backdrop.",
+          "read_full": false
+        },
+        {
+          "ref": "5b6daa9fdd",
+          "takeaway": "Paywalled; headline links the strike to Trump's downplaying of war risk.",
+          "read_full": false
+        },
+        {
+          "ref": "877a3d13c4",
+          "takeaway": "Short wire item on the FT interview.",
+          "read_full": false
+        },
+        {
+          "ref": "05fd2b95a7",
+          "takeaway": "Wire headline on tankers and mines, attributed to the IRGC.",
+          "read_full": false
+        },
+        {
+          "ref": "92053fa078",
+          "takeaway": "Right-leaning outlet leading with Iran's claim of downed drones.",
+          "read_full": false
+        },
+        {
+          "ref": "c307979c65",
+          "takeaway": "Reports a strike-plan claim from an unnamed report.",
+          "read_full": false
+        },
+        {
+          "ref": "0a8c9fab59",
+          "takeaway": "Paywalled; links Trump's remarks to the midterm result.",
+          "read_full": false
+        },
+        {
+          "ref": "f611a308b8",
+          "takeaway": "Reports Trump's admission that Iran was a factor in the vote.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ukraine-aid-site-strike-talks",
+      "headline": "Russian strike on Ukrainian aid site kills at least 31 as US announces Abu Dhabi talks",
+      "region": "Europe",
+      "importance": 5,
+      "summary": "A Russian strike on an aid distribution site and shelter in Komyshuvakha, in southern Ukraine, killed at least 31 people with dozens missing, according to reports. Russia launched a large drone and missile barrage the same night. Hours later the US said peace talks with Russia and Ukraine would resume in Abu Dhabi on Nov. 10-11, which the Kremlin confirmed.",
+      "why_it_matters": "The strike is one of the deadliest on civilians in the war, and the barrage hit Ukraine's power grid ahead of winter. The talks are the first US-mediated round since February.",
+      "background": "Russia has been at war with Ukraine since its 2022 invasion. US-led peace efforts were suspended in February, Axios reported, because of the war in Iran. US envoy Steve Witkoff announced the new round as working-level talks on security arrangements and de-escalation. European leaders such as German Chancellor Friedrich Merz say Russia must show it is serious about a ceasefire.",
+      "facts": [
+        {
+          "text": "NPR reported the death toll had reached 29 with 48 missing; President Zelenskyy said Russia launched 289 drones, 17 ballistic missiles and 59 cruise missiles across nine regions.",
+          "refs": [
+            "586cced2de"
+          ]
+        },
+        {
+          "text": "The Hindu and the Wall Street Journal reported at least 31 dead, with dozens missing at the site in Komyshuvakha.",
+          "refs": [
+            "5fcef13b10",
+            "ed22e83f43"
+          ]
+        },
+        {
+          "text": "Witkoff announced US-mediated Ukraine-Russia talks in Abu Dhabi on Nov. 10-11.",
+          "refs": [
+            "d2fee2ccc6",
+            "3a57525c9a"
+          ]
+        },
+        {
+          "text": "The Kremlin confirmed the talks, The Hindu reported.",
+          "refs": [
+            "a16be6ebf5"
+          ]
+        },
+        {
+          "text": "Merz said Russia must show it is serious about a ceasefire at the talks, Reuters reported.",
+          "refs": [
+            "bc83dd498f"
+          ]
+        },
+        {
+          "text": "Reuters reported Russia bombarded Ukraine's power grid before the talks.",
+          "refs": [
+            "f6412fe7f6"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Death toll at the aid site",
+          "positions": [
+            {
+              "claim": "29 dead and 48 missing, per NPR's earlier count.",
+              "refs": [
+                "586cced2de"
+              ]
+            },
+            {
+              "claim": "At least 31 dead with dozens missing, per later reports.",
+              "refs": [
+                "5fcef13b10",
+                "ed22e83f43"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "5587df1bbe",
+          "note": "Pairs the strike with the announcement that talks resume."
+        },
+        {
+          "ref": "586cced2de",
+          "note": "Leads with the toll and Zelenskyy's note that the barrage coincided with US elections."
+        },
+        {
+          "ref": "ed22e83f43",
+          "note": "Straight casualty report centered on the aid center."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "586cced2de",
+          "takeaway": "Toll plus scale of the overnight barrage.",
+          "read_full": false
+        },
+        {
+          "ref": "ed22e83f43",
+          "takeaway": "Paywalled; headline and summary on casualties and missing.",
+          "read_full": false
+        },
+        {
+          "ref": "5587df1bbe",
+          "takeaway": "Paywalled; links the attack to the resumed talks.",
+          "read_full": false
+        },
+        {
+          "ref": "5fcef13b10",
+          "takeaway": "Updated toll of 31.",
+          "read_full": false
+        },
+        {
+          "ref": "d2fee2ccc6",
+          "takeaway": "Explains the talks and why they were suspended.",
+          "read_full": false
+        },
+        {
+          "ref": "a16be6ebf5",
+          "takeaway": "Reports the Kremlin's confirmation.",
+          "read_full": false
+        },
+        {
+          "ref": "bc83dd498f",
+          "takeaway": "Wire item with Merz's expectation of Russia.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "spain-transport-minister-resigns",
+      "headline": "Spain's transport minister resigns after train crash that killed 69",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Transport Minister Oscar Puente resigned on Tuesday, six days after a high-speed train collision south of Madrid killed 69 people. Reuters reported Prime Minister Pedro Sanchez then reshuffled his cabinet. The Guardian reported Puente will also not run in the coming election.",
+      "why_it_matters": "Travelers and Spain's rail users will be watching whether the investigation finds safety failures on a national high-speed network. The political fallout comes weeks before a snap vote.",
+      "background": "The collision happened last week south of the capital and is among Europe's worst rail disasters this century. The New York Times described it as the second high-speed rail accident in under a year. Spain declared three days of mourning. Sanchez faces a snap election this month, and the Hindu reported he is trailing in opinion polls.",
+      "facts": [
+        {
+          "text": "Puente handed in his resignation on Tuesday after the crash that killed 69, and said he would not stand in the upcoming election, the Guardian reported.",
+          "refs": [
+            "356afbc924"
+          ]
+        },
+        {
+          "text": "The resignation came six days after the crash, AP reported.",
+          "refs": [
+            "dfe25e5542",
+            "62afef8fff"
+          ]
+        },
+        {
+          "text": "Sanchez reshuffled his cabinet after the minister quit, Reuters reported.",
+          "refs": [
+            "05b046e5b7"
+          ]
+        },
+        {
+          "text": "SCMP reported the crash is a blow to Sanchez ahead of a snap poll this month.",
+          "refs": [
+            "5b86e449c1"
+          ]
+        },
+        {
+          "text": "The Hindu reported the crash and another disaster earlier this year overshadowed the campaign, with Sanchez trailing in polls.",
+          "refs": [
+            "0cc7044d4b"
+          ]
+        },
+        {
+          "text": "Spain declared three days of mourning after the crash, ITV reported.",
+          "refs": [
+            "world-w1"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "356afbc924",
+          "note": "Highlights that Puente also withdrew from the election."
+        },
+        {
+          "ref": "0cc7044d4b",
+          "note": "Focuses on the electoral damage to Sanchez."
+        },
+        {
+          "ref": "9f4eeef306",
+          "note": "Notes this is the second high-speed rail accident in under a year."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "356afbc924",
+          "takeaway": "Resignation detail with the election withdrawal.",
+          "read_full": false
+        },
+        {
+          "ref": "dfe25e5542",
+          "takeaway": "AP wire headline on the six-day timeline.",
+          "read_full": false
+        },
+        {
+          "ref": "05b046e5b7",
+          "takeaway": "Reuters follow-up on the reshuffle.",
+          "read_full": false
+        },
+        {
+          "ref": "0cc7044d4b",
+          "takeaway": "Political angle on polling.",
+          "read_full": false
+        },
+        {
+          "ref": "9f4eeef306",
+          "takeaway": "Paywalled; context on repeated accidents.",
+          "read_full": false
+        },
+        {
+          "ref": "5b86e449c1",
+          "takeaway": "Paywalled; political impact on Sanchez.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "indonesia-wiretap-scandal",
+      "headline": "Indonesia arrests police figures over alleged wiretapping of President Prabowo; chief of staff sacked",
+      "region": "Asia-Pacific",
+      "importance": 4,
+      "summary": "Indonesia detained senior police officials and the president's chief of staff, a former national police chief, over alleged illegal wiretapping of President Prabowo Subianto and others. Prabowo sacked the chief of staff, and the military is deploying more than 20,000 personnel to Jakarta.",
+      "why_it_matters": "It is a rare public clash inside Indonesia's security establishment. The troop deployment in the capital raises concerns about stability and about surveillance of journalists and politicians.",
+      "background": "Prabowo took office as president in 2025 and is allied with former president Joko Widodo. Listyo Sigit Prabowo was national police chief for years and became the president's chief of staff recently. Authorities say the alleged tapping ran from 2025 to this year and covered many figures. A presidential spokesperson said the conduct may amount to treason.",
+      "facts": [
+        {
+          "text": "Suspects are accused of illegally tapping phones of the president, journalists, politicians and business people from 2025 to this year, the Japan Times reported.",
+          "refs": [
+            "d6e4b9cc35"
+          ]
+        },
+        {
+          "text": "Reuters reported Prabowo sacked his chief of staff over the alleged wiretapping.",
+          "refs": [
+            "1dbda5b5f7",
+            "bad868b0cc"
+          ]
+        },
+        {
+          "text": "A presidential spokesperson said the acts may fall into the category of treason, The Hindu reported.",
+          "refs": [
+            "0a98658ef8"
+          ]
+        },
+        {
+          "text": "Indonesia's military is deploying more than 20,000 troops and personnel to Jakarta, ABC reported.",
+          "refs": [
+            "89f4b563a1"
+          ]
+        },
+        {
+          "text": "Nikkei Asia reported three police generals were detained.",
+          "refs": [
+            "3aed0f4f4b"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "7b9fe4938f",
+          "note": "Leads with the military mobilization and a senior official's treason remark."
+        },
+        {
+          "ref": "58980c2f41",
+          "note": "Frames it as one of the biggest police scandals and a test for Prabowo's alliance with Widodo."
+        },
+        {
+          "ref": "d6e4b9cc35",
+          "note": "Focuses on the scope of alleged targets."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "7b9fe4938f",
+          "takeaway": "Paywalled; troop mobilization and treason angle.",
+          "read_full": false
+        },
+        {
+          "ref": "d6e4b9cc35",
+          "takeaway": "Who was arrested and who was targeted.",
+          "read_full": false
+        },
+        {
+          "ref": "1dbda5b5f7",
+          "takeaway": "Reuters headline on the sacking.",
+          "read_full": false
+        },
+        {
+          "ref": "0a98658ef8",
+          "takeaway": "Presidential spokesperson quote.",
+          "read_full": false
+        },
+        {
+          "ref": "58980c2f41",
+          "takeaway": "Paywalled; political fallout.",
+          "read_full": false
+        },
+        {
+          "ref": "89f4b563a1",
+          "takeaway": "Troop deployment detail.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "south-africa-local-elections",
+      "headline": "South Africans vote in local elections seen as a test for the ANC",
+      "region": "Africa",
+      "importance": 3,
+      "summary": "Voters across South Africa's nine provinces cast ballots Wednesday in local elections. The Guardian reported the African National Congress is on course for a bruising result amid anger over water outages and power cuts. Only left-leaning and center outlets are in the digest for this story.",
+      "why_it_matters": "Local governments run water, electricity and refuse services, so results shape daily life. Polls point to hung councils and coalition deals in major cities. Coverage in the ingested set comes from left-leaning and center outlets only, with no right-leaning outlets.",
+      "background": "The ANC has led South Africa since the end of white minority rule in 1994 but lost its national majority in 2024 and now governs in coalition. Local elections are held every five years. Frustration over services, corruption and crime has driven its support down, especially in Gauteng province.",
+      "facts": [
+        {
+          "text": "The Guardian reported the ANC is expected to get less than a third of the vote.",
+          "refs": [
+            "932e5368b9"
+          ]
+        },
+        {
+          "text": "France 24 reported about 30 million people registered to vote across nine provinces.",
+          "refs": [
+            "3e05002dc0"
+          ]
+        },
+        {
+          "text": "DW reported failing public services, corruption and high crime have led to growing frustration among voters.",
+          "refs": [
+            "1db8afc718"
+          ]
+        },
+        {
+          "text": "EWN reported polls predict hung councils and continued coalition rule in Johannesburg and Tshwane.",
+          "refs": [
+            "world-w2"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "932e5368b9",
+          "note": "Leads with ANC anger over services."
+        },
+        {
+          "ref": "00af3f291d",
+          "note": "Frames it as a possible continued decline of the party that ended minority rule."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "932e5368b9",
+          "takeaway": "Service failures and ANC expectations.",
+          "read_full": false
+        },
+        {
+          "ref": "00af3f291d",
+          "takeaway": "AP wire on the ANC's long decline.",
+          "read_full": false
+        },
+        {
+          "ref": "1db8afc718",
+          "takeaway": "DW overview of voter frustrations.",
+          "read_full": false
+        },
+        {
+          "ref": "3e05002dc0",
+          "takeaway": "Registration numbers and Gauteng focus.",
+          "read_full": false
+        },
+        {
+          "ref": "f2da31031b",
+          "takeaway": "Explainer on why the elections matter.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "us-canada-trade-talks",
+      "headline": "Trump says US is close to a trade deal with Canada; Carney says work remains",
+      "region": "Americas",
+      "importance": 3,
+      "summary": "Trump said Tuesday the US is close to a trade deal with Canada, while Prime Minister Mark Carney said progress had been made but work remains. Carney said Washington had dropped some demands. Only center outlets in the digest cover it.",
+      "why_it_matters": "Canada and the US trade huge volumes of goods, so tariff changes affect prices and jobs on both sides. Only center-rated outlets cover this in the digest.",
+      "background": "The US and Canada have been negotiating a trade pact amid US tariffs on Canadian goods. Carney leads Canada's government and has pushed for relief from those tariffs.",
+      "facts": [
+        {
+          "text": "Trump said the US is close to making a trade deal with Canada, and that 'we're going to make a deal with Canada very soon', SCMP reported.",
+          "refs": [
+            "2fd33ecee8",
+            "cb47ee875a"
+          ]
+        },
+        {
+          "text": "Carney said the US is 'asking less and offering more' in the latest round, though major hurdles remain, per the Wall Street Journal.",
+          "refs": [
+            "88a7f5bfea"
+          ]
+        },
+        {
+          "text": "Carney said Washington dropped some demands, SCMP reported.",
+          "refs": [
+            "2fd33ecee8"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "cb47ee875a",
+          "note": "Puts Trump's optimism first, Carney's caution second."
+        },
+        {
+          "ref": "88a7f5bfea",
+          "note": "Leads with Carney's progress comment and the remaining hurdles."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "cb47ee875a",
+          "takeaway": "Wire item contrasting the two leaders' tones.",
+          "read_full": false
+        },
+        {
+          "ref": "88a7f5bfea",
+          "takeaway": "Paywalled; Carney's progress claim.",
+          "read_full": false
+        },
+        {
+          "ref": "2fd33ecee8",
+          "takeaway": "Paywalled; both leaders' comments.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "world-w1",
+      "url": "https://www.itv.com/news/2026-10-29/spain-begins-three-days-of-mourning-after-fatal-toledo-high-speed-train-crash",
+      "title": "Spain begins three days of mourning after high-speed train crash kills at least 69 people",
+      "outlet": "ITV News"
+    },
+    {
+      "id": "world-w2",
+      "url": "https://www.ewn.co.za/2026/10/27/polls-predict-hung-councils-and-coalition-rule-set-to-continue-in-joburg-and-tshwane",
+      "title": "Polls predict hung councils and coalition rule set to continue in Joburg and Tshwane",
+      "outlet": "EWN"
+    }
+  ]
+}

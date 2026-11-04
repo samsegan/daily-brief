@@ -1,0 +1,32 @@
+{
+  "overview": "Democrats won majorities in both the House and the Senate in Tuesday's midterm elections, and also took several governorships, according to AP, CBS News and other outlets. President Trump said he would accept the results. In New York, Gov. Kathy Hochul won a second full term and city voters approved all five ballot proposals from Mayor Mamdani's charter commission. Abroad, Trump said the US will end about $4 billion a year in military aid to Israel after this year, Russia struck a Ukrainian aid site as the US announced talks in Abu Dhabi, and Spain's transport minister resigned after a deadly train crash.",
+  "markets": {
+    "summary": "US stocks were mixed in the latest data: the S&P 500 slipped 0.5% and the Dow 0.4%, while the Nasdaq rose 0.8%. Bloomberg and the Wall Street Journal reported that stock futures dipped as Democratic wins came in, then recovered after Trump said he would accept the results. Treasury yields and the dollar fell and gold rose above $4,000 an ounce, per Bloomberg. Analysts quoted by the Financial Times said a divided government lowers the risk of sweeping policy changes. Oil eased toward $103 a barrel on an unconfirmed report of Middle East diplomacy, and euro zone inflation reached 4%, which keeps rate rises in view.",
+    "movers": [
+      { "symbol": "NASDAQCOM", "why": "Rose 0.8% while the S&P 500 and Dow fell; business reports tied part of the day's tech strength to AMD's earnings, though the digest does not link the index move to one cause." },
+      { "symbol": "DGS10", "why": "The 10-year Treasury yield fell 3 basis points to 4.91%, in line with Bloomberg's report of lower yields after the election results." },
+      { "symbol": "DCOILBRENTEU", "why": "Brent crude fell 3.9% to $123.10 in the latest reading (Oct. 27); the Financial Times reported oil easing on an unconfirmed report of Middle East diplomacy." },
+      { "symbol": "CPIAUCSL", "why": "Annual US inflation read 3.72%, up 0.36 percentage point, the largest jump on the board; the digest does not say what drove it." }
+    ],
+    "concept": {
+      "term": "Divided government",
+      "explanation": "Divided government means one party holds the White House while the other controls at least one chamber of Congress. With both chambers flipping to Democrats while Trump stays president, large tax, spending or regulatory changes become harder to pass, because both sides must agree. Investors often read that as lower policy risk, which analysts cited in explaining the calm market reaction. It reaches your wallet through things like tariffs, taxes and government funding fights: sweeping changes become less likely, but standoffs such as budget deadlines can become more likely."
+    },
+    "watch": [
+      "Fri Nov 6: October jobs report (8:30 a.m. ET)",
+      "Tue Nov 10: October consumer price index (CPI) inflation report",
+      "Early January: new Congress sworn in",
+      "Dec 8-9: Federal Reserve meeting (dates per calendar sites, unconfirmed)"
+    ]
+  },
+  "trending": [
+    { "title": "2026 United States elections", "context": "Midterm results drew large traffic, with Democrats winning both chambers of Congress.", "signal": "wikipedia" },
+    { "title": "Abdul El-Sayed", "context": "The Democrat won Michigan's open Senate seat, and a clip of him confronting a British journalist circulated on Bluesky.", "signal": "wikipedia" },
+    { "title": "Binance hack", "context": "Binance said fake job interviews led to the theft of about $6.3 billion in digital currency.", "signal": "wikipedia_news" },
+    { "title": "Dolores Huerta dies at 96", "context": "The labor activist and farmworker organizer died, Wikipedia's In the News reported.", "signal": "wikipedia_news" },
+    { "title": "Brewers win the World Series", "context": "Milwaukee beat Tampa Bay for the title.", "signal": "wikipedia_news" },
+    { "title": "Maine election results governor", "context": "People searched for results from state and county races on election night.", "signal": "google" },
+    { "title": "Texas Democrats' full control bid", "context": "Posts about Democrats' push in Texas, where they won the governor's race and a Senate seat per reports.", "signal": "bluesky" },
+    { "title": "Political fights over data centers", "context": "A busy Bluesky topic about local and state disputes over data center projects.", "signal": "bluesky" }
+  ]
+}

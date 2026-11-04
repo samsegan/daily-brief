@@ -1,0 +1,832 @@
+{
+  "stories": [
+    {
+      "id": "midterms-democrats-win-congress",
+      "headline": "Democrats win control of both the House and the Senate in the midterms",
+      "region": "Congress",
+      "importance": 5,
+      "summary": "Outlets including CBS News, the Associated Press and PBS NewsHour report that Democrats won majorities in both chambers of Congress in Tuesday's midterm elections. Hakeem Jeffries, the House Democratic leader, is in line to become speaker. The new Congress is sworn in in early January.",
+      "why_it_matters": "Divided government means Republicans can no longer pass bills or confirm nominees on their own for the last two years of Trump's term, and Democrats gain power to investigate the administration.",
+      "background": "All 435 House seats, 35 of 100 Senate seats and 36 governorships were on the ballot. Republicans entered the night with majorities in both chambers, which allowed them to pass a large tax-cut law in 2025. President Trump campaigned heavily and encouraged voters to treat the election as a verdict on him, and exit polls showed concern about the economy and prices. Democrats needed a net gain of three House seats and four Senate seats to take control.",
+      "facts": [
+        {
+          "text": "CBS News projected that Democrats won both the House and the Senate.",
+          "refs": [
+            "eacf9ec3fb"
+          ]
+        },
+        {
+          "text": "PBS NewsHour reported Democrats won the House in addition to the Senate, calling it a rebuke of Republican governance in Washington.",
+          "refs": [
+            "5502bd1473"
+          ]
+        },
+        {
+          "text": "Axios, citing AP projections, said Republicans lost Senate seats in South Carolina, Kansas and Texas as well as House seats nationwide.",
+          "refs": [
+            "bdf10d5d25"
+          ]
+        },
+        {
+          "text": "Democrats are in line to hold the House majority when the new Congress is sworn in on January 3, according to France 24.",
+          "refs": [
+            "2ca9bba621"
+          ]
+        },
+        {
+          "text": "NPR reported Jeffries, who would be the first Black speaker, said voters had sent a message to end extremism and corruption, and has vowed to focus on affordability and holding the administration accountable.",
+          "refs": [
+            "04f2d0ee2f",
+            "bc44141f7d"
+          ]
+        },
+        {
+          "text": "Axios reported Democrats won House districts that Trump carried by double digits.",
+          "refs": [
+            "24bb6d44cf"
+          ]
+        },
+        {
+          "text": "Exact final seat totals were not given in the ingested articles; some races were still being counted.",
+          "refs": [
+            "7b134fd60f"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "fe807ee0f6",
+          "note": "Leads on voters rejecting Trump's agenda and Democratic leverage over him."
+        },
+        {
+          "ref": "40af3f6576",
+          "note": "Leads on inflation and the Iran war as reasons voters punished the GOP."
+        },
+        {
+          "ref": "bdf10d5d25",
+          "note": "Treats it as a GOP wipeout and puts Trump's role as face of the campaign first."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "eacf9ec3fb",
+          "takeaway": "Live-updates page: projects Democratic control of both chambers.",
+          "read_full": false
+        },
+        {
+          "ref": "5502bd1473",
+          "takeaway": "Straight report framing the result as a rebuke of Republican governance.",
+          "read_full": false
+        },
+        {
+          "ref": "bdf10d5d25",
+          "takeaway": "Short wipeout summary naming deep-red Senate losses.",
+          "read_full": false
+        },
+        {
+          "ref": "2ca9bba621",
+          "takeaway": "Looks ahead to what Democrats can do with new powers.",
+          "read_full": false
+        },
+        {
+          "ref": "04f2d0ee2f",
+          "takeaway": "Jeffries' speech and priorities.",
+          "read_full": false
+        },
+        {
+          "ref": "bc44141f7d",
+          "takeaway": "Profile of Jeffries as likely first Black speaker.",
+          "read_full": false
+        },
+        {
+          "ref": "24bb6d44cf",
+          "takeaway": "Notes the size of the Democratic House majority.",
+          "read_full": false
+        },
+        {
+          "ref": "fe807ee0f6",
+          "takeaway": "Headline stresses rejection of Trump's agenda.",
+          "read_full": false
+        },
+        {
+          "ref": "40af3f6576",
+          "takeaway": "Right-leaning outlet, attributes the House result to inflation and the Iran war.",
+          "read_full": false
+        },
+        {
+          "ref": "7b134fd60f",
+          "takeaway": "Results hub noting many seats still to come.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "senate-flips-red-states",
+      "headline": "Democrats flip Senate seats in Texas, North Carolina, Maine, Iowa, Kansas, Ohio and South Carolina",
+      "region": "Congress",
+      "importance": 5,
+      "summary": "Outlets report Democrats took Republican-held Senate seats in at least seven states, including several that Trump won in 2024. Democrats also held Georgia, where Jon Ossoff won reelection, and Michigan, where Abdul El-Sayed won the open seat.",
+      "why_it_matters": "The Senate confirms judges and cabinet officials and can block legislation, so the results shape who gets appointed and what laws pass in the next two years.",
+      "background": "Republicans held a 53-47 Senate majority going into the election, so Democrats needed a net gain of four seats. Open seats in North Carolina (Thom Tillis not running), Michigan and Iowa gave Democrats openings. In Maine, Troy Jackson became the nominee in July after Graham Platner withdrew. In Texas, state Rep. James Talarico faced Attorney General Ken Paxton in what the Guardian called the most expensive race of the cycle.",
+      "facts": [
+        {
+          "text": "Democrat James Talarico defeated Ken Paxton in Texas, which PBS NewsHour described as the first Democratic statewide win in Texas since 1994.",
+          "refs": [
+            "c494305c1c",
+            "b76e7dc147"
+          ]
+        },
+        {
+          "text": "Roy Cooper defeated Michael Whatley in North Carolina, CBS News projected, flipping a seat after Sen. Thom Tillis chose not to run.",
+          "refs": [
+            "27f8e9f1ef"
+          ]
+        },
+        {
+          "text": "Annie Andrews defeated Sen. Darline Graham in South Carolina, a state Trump won three times by double digits, according to PBS and CBS.",
+          "refs": [
+            "6ded222bb5",
+            "a9154f04a7"
+          ]
+        },
+        {
+          "text": "Troy Jackson defeated five-term Sen. Susan Collins in Maine, per NBC News, NPR and AP.",
+          "refs": [
+            "9263f909b8",
+            "0c2e960b05",
+            "2c6ea7b284"
+          ]
+        },
+        {
+          "text": "Josh Turek defeated Rep. Ashley Hinson in Iowa; Axios said the win sealed Democratic control of the Senate.",
+          "refs": [
+            "168f4a52fd",
+            "112526f16e"
+          ]
+        },
+        {
+          "text": "Adam Hamilton defeated Sen. Roger Marshall in Kansas, the first Democratic Senate win there in 94 years, per NPR and AP.",
+          "refs": [
+            "5c403b0086",
+            "2b66703cdb"
+          ]
+        },
+        {
+          "text": "Sherrod Brown defeated Sen. Jon Husted in Ohio, per NBC News and CBS News.",
+          "refs": [
+            "f9231a8eb9",
+            "9051c9f9eb"
+          ]
+        },
+        {
+          "text": "Jon Ossoff won reelection in Georgia, per Reuters and AP.",
+          "refs": [
+            "2c689750c6",
+            "df1224b881"
+          ]
+        },
+        {
+          "text": "Abdul El-Sayed defeated Mike Rogers in Michigan and will be the first Muslim U.S. senator, per the Guardian and France 24.",
+          "refs": [
+            "5bf2f4786a",
+            "8a41b31f6b"
+          ]
+        },
+        {
+          "text": "The Financial Times reported Elon Musk had put about $47 million toward Paxton's campaign.",
+          "refs": [
+            "69544ca44d"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "089fb481c2",
+          "note": "Washington Free Beacon calls El-Sayed's win a radical turn and stresses accusations about his associates; others lead with the historic first."
+        },
+        {
+          "ref": "5bf2f4786a",
+          "note": "Guardian leads on the history of the win and Islamophobic attacks from Republicans."
+        },
+        {
+          "ref": "605e3d9bd4",
+          "note": "Fox News frames Kansas as a historic upset for Republicans, with limited focus on why."
+        },
+        {
+          "ref": "69544ca44d",
+          "note": "FT frames the Texas result as a blow to Elon Musk, who funded Paxton."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "c494305c1c",
+          "takeaway": "Texas result with the statewide-first context.",
+          "read_full": false
+        },
+        {
+          "ref": "b76e7dc147",
+          "takeaway": "Texas win noting Paxton's scandals and the record spending.",
+          "read_full": false
+        },
+        {
+          "ref": "69544ca44d",
+          "takeaway": "Paywalled; headline and summary cover Musk's spending.",
+          "read_full": false
+        },
+        {
+          "ref": "27f8e9f1ef",
+          "takeaway": "North Carolina projection with the Tillis context.",
+          "read_full": false
+        },
+        {
+          "ref": "6ded222bb5",
+          "takeaway": "South Carolina upset report.",
+          "read_full": false
+        },
+        {
+          "ref": "a9154f04a7",
+          "takeaway": "Speech coverage stressing the Trump-state defeat.",
+          "read_full": false
+        },
+        {
+          "ref": "9263f909b8",
+          "takeaway": "Maine projection explaining the Platner replacement.",
+          "read_full": false
+        },
+        {
+          "ref": "0c2e960b05",
+          "takeaway": "Maine result as a major Democratic coup.",
+          "read_full": false
+        },
+        {
+          "ref": "2c6ea7b284",
+          "takeaway": "AP wire on Maine.",
+          "read_full": false
+        },
+        {
+          "ref": "168f4a52fd",
+          "takeaway": "Iowa result as sealing the Senate majority.",
+          "read_full": false
+        },
+        {
+          "ref": "112526f16e",
+          "takeaway": "Iowa projection.",
+          "read_full": false
+        },
+        {
+          "ref": "5c403b0086",
+          "takeaway": "Kansas result in historical terms.",
+          "read_full": false
+        },
+        {
+          "ref": "2b66703cdb",
+          "takeaway": "AP wire on Kansas.",
+          "read_full": false
+        },
+        {
+          "ref": "605e3d9bd4",
+          "takeaway": "Fox News on Kansas, framed as historic Republican upset.",
+          "read_full": false
+        },
+        {
+          "ref": "f9231a8eb9",
+          "takeaway": "Ohio projection.",
+          "read_full": false
+        },
+        {
+          "ref": "9051c9f9eb",
+          "takeaway": "Ohio result noting Husted was appointed.",
+          "read_full": false
+        },
+        {
+          "ref": "2c689750c6",
+          "takeaway": "Reuters on Ossoff's hold in Georgia.",
+          "read_full": false
+        },
+        {
+          "ref": "df1224b881",
+          "takeaway": "AP wire on Ossoff.",
+          "read_full": false
+        },
+        {
+          "ref": "5bf2f4786a",
+          "takeaway": "Michigan result with context on attacks in the race.",
+          "read_full": false
+        },
+        {
+          "ref": "8a41b31f6b",
+          "takeaway": "Michigan result as a left-wing breakthrough.",
+          "read_full": false
+        },
+        {
+          "ref": "089fb481c2",
+          "takeaway": "Right-leaning outlet attacking El-Sayed's associations.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "governors-races-democrats",
+      "headline": "Democrats win governor's races in Texas, Ohio, Georgia, Iowa and Nevada",
+      "region": "Elections",
+      "importance": 4,
+      "summary": "Democrats won several governorships that Republicans held or targeted, including Texas, Ohio, Iowa and Nevada, and held Georgia. Republican Byron Donalds won Florida. Several winners are the first of their group to hold the office in their state.",
+      "why_it_matters": "Governors run state budgets, Medicaid, schools and election administration, so these results affect services and voting rules in some of the largest states.",
+      "background": "Thirty-six governorships were on the ballot. Ohio's Mike DeWine, Georgia's Brian Kemp and Iowa's governor were not on the ballot because of term limits or retirement. Texas Gov. Greg Abbott and Nevada Gov. Joe Lombardo ran for reelection. Many of these races were also tied to national themes such as the cost of living and Trump's standing.",
+      "facts": [
+        {
+          "text": "Gina Hinojosa defeated Gov. Greg Abbott in Texas, becoming the first Latina and first Democratic governor of Texas in more than 30 years, per PBS NewsHour and AP.",
+          "refs": [
+            "b54bf92f54",
+            "04ef1ae77e"
+          ]
+        },
+        {
+          "text": "Amy Acton defeated Vivek Ramaswamy in Ohio, per NBC News and AP.",
+          "refs": [
+            "a65be42d98",
+            "d40eab7a90"
+          ]
+        },
+        {
+          "text": "Keisha Lance Bottoms defeated Rick Jackson in Georgia and is the first Black woman elected governor of a U.S. state, per The Hindu and Daily Maverick (Reuters).",
+          "refs": [
+            "410135c9d8",
+            "4701489824"
+          ]
+        },
+        {
+          "text": "Aaron Ford unseated Gov. Joe Lombardo in Nevada, per NPR and NBC News.",
+          "refs": [
+            "c72325aa12",
+            "5d557aa0a2"
+          ]
+        },
+        {
+          "text": "Rob Sand won Iowa's governor race, the first Democrat elected there since 2006, per CBS News and PBS.",
+          "refs": [
+            "4e68fc1b56",
+            "343e81fe01"
+          ]
+        },
+        {
+          "text": "Republican Byron Donalds, backed by Trump, was elected Florida's first Black governor, per BBC News.",
+          "refs": [
+            "364b5244fc"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "a9a94d55a1",
+          "note": "Fox News frames Ohio as the end of a 20-year GOP hold on the governor's office."
+        },
+        {
+          "ref": "3041586eea",
+          "note": "Daily Caller emphasizes Ramaswamy's spending of more than $80 million."
+        },
+        {
+          "ref": "51a38c2d66",
+          "note": "NPR groups the governors' wins as history-making firsts."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "b54bf92f54",
+          "takeaway": "Texas upset with historical context.",
+          "read_full": false
+        },
+        {
+          "ref": "04ef1ae77e",
+          "takeaway": "AP wire on Hinojosa.",
+          "read_full": false
+        },
+        {
+          "ref": "a65be42d98",
+          "takeaway": "Ohio projection.",
+          "read_full": false
+        },
+        {
+          "ref": "d40eab7a90",
+          "takeaway": "AP wire on Ohio.",
+          "read_full": false
+        },
+        {
+          "ref": "410135c9d8",
+          "takeaway": "Georgia win with candidate context.",
+          "read_full": false
+        },
+        {
+          "ref": "4701489824",
+          "takeaway": "Reuters-sourced Georgia report.",
+          "read_full": false
+        },
+        {
+          "ref": "c72325aa12",
+          "takeaway": "Nevada result.",
+          "read_full": false
+        },
+        {
+          "ref": "5d557aa0a2",
+          "takeaway": "Nevada projection.",
+          "read_full": false
+        },
+        {
+          "ref": "4e68fc1b56",
+          "takeaway": "Iowa projection.",
+          "read_full": false
+        },
+        {
+          "ref": "343e81fe01",
+          "takeaway": "Iowa result noting likely divided government.",
+          "read_full": false
+        },
+        {
+          "ref": "364b5244fc",
+          "takeaway": "Florida result and the historic first.",
+          "read_full": false
+        },
+        {
+          "ref": "a9a94d55a1",
+          "takeaway": "Fox News on Ohio as an end to long GOP control.",
+          "read_full": false
+        },
+        {
+          "ref": "3041586eea",
+          "takeaway": "Right-leaning outlet focusing on campaign cost.",
+          "read_full": false
+        },
+        {
+          "ref": "51a38c2d66",
+          "takeaway": "Roundup of history-making governor winners.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-response-midterm-losses",
+      "headline": "Trump responds to Republican midterm losses",
+      "region": "White House",
+      "importance": 4,
+      "summary": "Outlets report that Trump said he would accept the midterm results and posted about the causes of Republican losses. Accounts differ on what he blamed. Fox News reported he pledged to veto Democratic bills he called insane.",
+      "why_it_matters": "How the president responds to a Democratic Congress affects whether the two sides can pass spending bills and other must-pass legislation.",
+      "background": "Trump made himself the face of the Republican midterm campaign and repeatedly urged voters to act as if he were on the ballot. His approval rating had fallen amid concern about prices and the war with Iran, which has raised gas prices. Democrats now control both chambers and can block his legislation, subpoena officials and review his nominees.",
+      "facts": [
+        {
+          "text": "Reuters, citing the New York Times, reported Trump said he is willing to accept the midterm results.",
+          "refs": [
+            "09175c1347"
+          ]
+        },
+        {
+          "text": "NPR reported Trump posted on Truth Social on Tuesday night blaming others for Republican losses.",
+          "refs": [
+            "c874040411"
+          ]
+        },
+        {
+          "text": "Fox News reported Trump pledged to veto Democratic bills he called insane.",
+          "refs": [
+            "9408173458"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "What Trump blamed for the Republican losses",
+          "positions": [
+            {
+              "claim": "CNN reported he blamed Fox News.",
+              "refs": [
+                "1218adacdc",
+                "019a4172ed"
+              ]
+            },
+            {
+              "claim": "Fox News and the Wall Street Journal reported he said the Iran war and resulting gas prices were partly to blame.",
+              "refs": [
+                "9408173458",
+                "19deb3a6ec"
+              ]
+            },
+            {
+              "claim": "France 24 said he blamed the candidates themselves.",
+              "refs": [
+                "ce85cae513"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "019a4172ed",
+          "note": "CNN stresses that Trump and allied media blamed everything but him."
+        },
+        {
+          "ref": "9408173458",
+          "note": "Fox News leads with the veto pledge and the gas-price explanation."
+        },
+        {
+          "ref": "19deb3a6ec",
+          "note": "WSJ puts the Iran war as a partial cause in the headline."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "09175c1347",
+          "takeaway": "Wire brief on Trump accepting the results.",
+          "read_full": false
+        },
+        {
+          "ref": "c874040411",
+          "takeaway": "Reports Trump lashed out on Truth Social.",
+          "read_full": false
+        },
+        {
+          "ref": "9408173458",
+          "takeaway": "Fox News: veto pledge and gas-price explanation.",
+          "read_full": false
+        },
+        {
+          "ref": "1218adacdc",
+          "takeaway": "CNN: Trump blames Fox News.",
+          "read_full": false
+        },
+        {
+          "ref": "019a4172ed",
+          "takeaway": "CNN: contrasts Trump with MAGA media allies.",
+          "read_full": false
+        },
+        {
+          "ref": "19deb3a6ec",
+          "takeaway": "Paywalled; headline says Iran war partly to blame.",
+          "read_full": false
+        },
+        {
+          "ref": "ce85cae513",
+          "takeaway": "Video summary: Trump says he will accept results and blames candidates.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "scotus-catholic-preschools-colorado",
+      "headline": "Supreme Court hears Catholic preschools' challenge to Colorado program rules",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "The Supreme Court heard arguments Tuesday in a case over Catholic preschools that were excluded from Colorado's state-funded preschool program. CNN and the Wall Street Journal report that the conservative justices appeared sympathetic to the schools. A ruling is pending.",
+      "why_it_matters": "The decision could decide whether religious schools that take public money must follow state anti-discrimination rules on enrolling children of same-sex couples.",
+      "background": "Colorado's universal preschool program requires participating providers to follow a nondiscrimination policy that covers sexual orientation and gender identity. Catholic parishes, represented by the Becket Fund, say the rule forces them to act against their beliefs, and the Tenth Circuit ruled for the state. The case is St. Mary Catholic Parish v. Roy, which the justices agreed to hear in April. The Trump administration's Solicitor General sided with the parishes.",
+      "facts": [
+        {
+          "text": "The Supreme Court heard a challenge by Catholic preschools to their exclusion from a Colorado-funded program, per AP and ABC News.",
+          "refs": [
+            "74b1fa48d5",
+            "20242fbec8"
+          ]
+        },
+        {
+          "text": "The Wall Street Journal reported conservative justices suggested the preschools should be eligible for taxpayer funds without complying with the nondiscrimination rule.",
+          "refs": [
+            "72bfb8fa15"
+          ]
+        },
+        {
+          "text": "CNN reported the court appeared prepared to rule that publicly funded religious schools can reject children of same-sex couples.",
+          "refs": [
+            "88ff75b2aa"
+          ]
+        },
+        {
+          "text": "The Tenth Circuit rejected the preschools' argument, and the U.S. Solicitor General urged the court to stop Colorado's exclusion.",
+          "refs": [
+            "us-w1"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "88ff75b2aa",
+          "note": "CNN centers the effect on children of same-sex couples."
+        },
+        {
+          "ref": "12b98a8ba6",
+          "note": "New York Sun uses the plaintiffs' phrase 'Catholics Need Not Apply' and centers religious exclusion."
+        },
+        {
+          "ref": "72bfb8fa15",
+          "note": "WSJ centers the justices' sympathy for the schools and the funding question."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "74b1fa48d5",
+          "takeaway": "AP wire describing the challenge.",
+          "read_full": false
+        },
+        {
+          "ref": "20242fbec8",
+          "takeaway": "ABC wire on the case coming before the court.",
+          "read_full": false
+        },
+        {
+          "ref": "72bfb8fa15",
+          "takeaway": "Paywalled; focuses on the justices' leanings.",
+          "read_full": false
+        },
+        {
+          "ref": "88ff75b2aa",
+          "takeaway": "Headline focuses on the potential ruling's effect on same-sex couples.",
+          "read_full": false
+        },
+        {
+          "ref": "12b98a8ba6",
+          "takeaway": "Right-leaning outlet framing it as religious exclusion.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "scotus-california-ballot-count",
+      "headline": "Supreme Court rejects Trump bid to intervene in California ballot count",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "The Japan Times reports the Supreme Court acted quickly on the eve of the election to reject an attempt by Trump to intervene in California's ballot count. Only one ingested outlet covers it.",
+      "why_it_matters": "It affects whether California counts ballots from voters the federal government has questioned and shows how the courts are handling election disputes.",
+      "background": "The Justice Department sued to keep California from counting about 20,000 ballots from voters it says are suspected noncitizens. California says voters attest to citizenship under penalty of perjury when they register. A Ninth Circuit panel rejected the department's request, and it was expected to go to the Supreme Court.",
+      "facts": [
+        {
+          "text": "The Japan Times reported the justices acted with remarkable speed to shut down Trump's attempt to intervene in California's ballot count on the eve of the election.",
+          "refs": [
+            "4c8100b69c"
+          ]
+        },
+        {
+          "text": "The Justice Department sought to have California set aside about 20,000 voters' ballots, and the Ninth Circuit rejected the request, per Democracy Docket.",
+          "refs": [
+            "us-w2"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "4c8100b69c",
+          "takeaway": "Single-outlet report: the court's quick refusal; headline says Trump's election-case streak halted.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ballot-measures-abortion-redistricting",
+      "headline": "State ballot measures: abortion rights gain in some states, California rejects billionaire tax",
+      "region": "Elections",
+      "importance": 3,
+      "summary": "Voters in several states decided abortion, redistricting and tax measures. Virginia and Nevada approved abortion-rights amendments, Missouri rejected a ban and Idaho rejected a rights measure. Reports say California voters rejected the billionaire tax.",
+      "why_it_matters": "Abortion access and state taxes in these states now depend on the outcomes, which change what residents can do and pay.",
+      "background": "Since the Supreme Court overturned Roe v. Wade in 2022, abortion rules have been set state by state, often through ballot questions. Missouri voters legalized abortion in 2024, and this year's measure tied a ban to a ban on transgender treatment for minors. California's Proposition 40 proposed a one-time 5% tax on the wealth of people worth over $1 billion, mainly to replace federal health funding cuts.",
+      "facts": [
+        {
+          "text": "Missouri voters rejected a measure that would have re-imposed an abortion ban, NPR reported.",
+          "refs": [
+            "adae4e0562"
+          ]
+        },
+        {
+          "text": "Virginia voters approved an abortion amendment, per the Daily Caller and National Review.",
+          "refs": [
+            "09f3bcdd40",
+            "416c2f6267"
+          ]
+        },
+        {
+          "text": "Nevada approved an amendment protecting abortion until viability, per Decision Desk HQ via The Hill.",
+          "refs": [
+            "69f1e49924"
+          ]
+        },
+        {
+          "text": "Idaho voters rejected a measure to legalize abortion until viability, per The Hill and NBC News.",
+          "refs": [
+            "20f4fc5c4a",
+            "58081b5596"
+          ]
+        },
+        {
+          "text": "California voters rejected Prop 40 and a voter ID requirement, per The Center Square.",
+          "refs": [
+            "4317b334ad"
+          ]
+        },
+        {
+          "text": "AP and France 24 reported voters backed abortion rights and rejected Trump-backed redistricting in ballot measures.",
+          "refs": [
+            "e4cccce6b2",
+            "8dbd102009"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "09f3bcdd40",
+          "note": "Daily Caller emphasizes the Catholic Church's failed campaign."
+        },
+        {
+          "ref": "adae4e0562",
+          "note": "NPR emphasizes that the Missouri ban was coupled with a ban on transgender treatment for minors."
+        },
+        {
+          "ref": "374455f819",
+          "note": "New York Post stresses wealthy residents leaving and spending against Prop 40."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "adae4e0562",
+          "takeaway": "Missouri result with context on the paired measure.",
+          "read_full": false
+        },
+        {
+          "ref": "09f3bcdd40",
+          "takeaway": "Right-leaning outlet on Virginia.",
+          "read_full": false
+        },
+        {
+          "ref": "416c2f6267",
+          "takeaway": "National Review reports Virginia and Missouri as a loss for the pro-life side.",
+          "read_full": false
+        },
+        {
+          "ref": "69f1e49924",
+          "takeaway": "Nevada result.",
+          "read_full": false
+        },
+        {
+          "ref": "20f4fc5c4a",
+          "takeaway": "Idaho result.",
+          "read_full": false
+        },
+        {
+          "ref": "58081b5596",
+          "takeaway": "Idaho result noting the existing ban.",
+          "read_full": false
+        },
+        {
+          "ref": "4317b334ad",
+          "takeaway": "California tax and voter ID outcome.",
+          "read_full": false
+        },
+        {
+          "ref": "374455f819",
+          "takeaway": "Prop 40 early results framing.",
+          "read_full": false
+        },
+        {
+          "ref": "e4cccce6b2",
+          "takeaway": "AP wire on abortion and redistricting measures.",
+          "read_full": false
+        },
+        {
+          "ref": "8dbd102009",
+          "takeaway": "Summary of 145 ballot questions.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "us-w1",
+      "url": "https://becketfund.org/case/st-mary-catholic-parish-v-roy/",
+      "title": "St. Mary Catholic Parish v. Roy",
+      "outlet": "Becket Fund"
+    },
+    {
+      "id": "us-w2",
+      "url": "https://www.democracydocket.com/news-alerts/appeals-court-again-rejects-dojs-bid-to-block-some-california-ballots-setting-up-supreme-court-showdown/",
+      "title": "Appeals court again rejects DOJ's bid to block some California ballots",
+      "outlet": "Democracy Docket"
+    }
+  ]
+}
