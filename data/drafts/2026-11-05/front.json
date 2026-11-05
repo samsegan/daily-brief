@@ -1,0 +1,32 @@
+{
+  "overview": "Democrats won control of Congress in Tuesday's midterm elections, and Vice President JD Vance said the Iran war was the reason Republicans lost. House Speaker Mike Johnson's future and Hakeem Jeffries' path to the speakership are drawing attention. Wall Street rallied after the results, with the Dow up about 3%, while oil stayed near $100 a barrel. Abroad, bomb threats diverted flights across Europe and a hack drew attention to French blood-bank systems.",
+  "markets": {
+    "summary": "US stocks rose after the midterm results. The Dow Jones Industrial Average gained about 3.0% on Wednesday's data, the Nasdaq about 1.4% and the S&P 500 about 0.4% as of its last reading on Nov. 3. Reuters reported that data-center stocks fell even as the broad market rose, tied to concern that Democrats may target AI data centers. The 10-year Treasury yield, which sets the tone for mortgage and business borrowing costs, was 4.95%, up 4 basis points (a basis point is one-hundredth of a percentage point). ADP reported that private employers added 86,000 jobs in October, slightly above expectations. Crude oil stayed near $100 a barrel (WTI), and the 30-year mortgage rate was 7.24% in the latest weekly reading.",
+    "movers": [
+      { "symbol": "DJIA", "why": "Rose about 3% as stocks rallied after Democrats won Congress, according to Reuters and Fox Business." },
+      { "symbol": "NASDAQCOM", "why": "Gained about 1.4%, though Reuters said data-center stocks tumbled on concern about a Democratic crackdown." },
+      { "symbol": "CBBTCUSD", "why": "Bitcoin rose about 4.5%; the digest does not give a single clear cause." },
+      { "symbol": "NIKKEI225", "why": "Fell about 1.4%; the digest does not give a clear cause." }
+    ],
+    "concept": {
+      "term": "Price-weighted index",
+      "explanation": "The Dow Jones Industrial Average adds up the share prices of 30 large companies and divides by a fixed number, so a stock with a high price moves the index more than one with a low price, regardless of the company's size. The S&P 500 instead weights companies by total market value, so the largest firms dominate. That is why the two can move by very different amounts on the same day, as they did this week. It reaches your wallet through retirement funds: many 401(k) index funds track the S&P 500, not the Dow, so the headline Dow number can overstate or understate what your own account did."
+    },
+    "watch": [
+      "Fri Nov 6: October jobs report from the Bureau of Labor Statistics (date per published calendars; confirm with BLS)",
+      "Tue Nov 10: October consumer price index (CPI) inflation report (per published calendars)",
+      "Fri Nov 13: Producer price index (PPI) report (per published calendars)",
+      "Wed Dec 9: next Federal Reserve rate decision; no November meeting is listed"
+    ]
+  },
+  "trending": [
+    { "title": "2026 midterm results", "context": "Wikipedia page views for Senate and House races, Abdul El-Sayed, James Talarico and Jon Ossoff spiked after Tuesday's elections.", "signal": "wikipedia" },
+    { "title": "Crude oil prices", "context": "Google searches rose as WTI crude stayed near $100 a barrel.", "signal": "google" },
+    { "title": "Vance on Iran war, midterms", "context": "Bluesky users are discussing the vice president's comments blaming the Iran war for Republican losses.", "signal": "bluesky" },
+    { "title": "Binance hack", "context": "Wikipedia's news feed lists a theft of about $6.3 billion in digital currency from the exchange Binance.", "signal": "wikipedia_news" },
+    { "title": "Brewers win World Series", "context": "Wikipedia's news feed reports Milwaukee beat Tampa Bay to win the title.", "signal": "wikipedia_news" },
+    { "title": "French blood bank freezers hacked", "context": "Bluesky users are discussing a cyberattack on French blood-bank equipment.", "signal": "bluesky" },
+    { "title": "Dolores Huerta dies at 96", "context": "Wikipedia's news feed reports the death of the labor activist.", "signal": "wikipedia_news" },
+    { "title": "Bomb threats divert European flights", "context": "Bluesky users are discussing flights diverted across Europe after bomb threats.", "signal": "bluesky" }
+  ]
+}

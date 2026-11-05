@@ -1,0 +1,267 @@
+{
+  "stories": [
+    {
+      "id": "hk-joshua-wong-sentenced",
+      "headline": "Hong Kong court sentences activist Joshua Wong to 10 more years under the national security law",
+      "region": "Asia-Pacific",
+      "importance": 5,
+      "summary": "A Hong Kong court sentenced pro-democracy activist Joshua Wong, 30, to 10 years in prison in his second national security case, after he pleaded guilty to conspiracy to collude with foreign forces. The Financial Times reports the sentence pushes his expected release date to 2036. Wong has been in custody since 2020.",
+      "why_it_matters": "The case shows how far Hong Kong's legal environment has changed since 2020, which matters to anyone with business, family or travel ties to the city. It is also a marker for how foreign governments and rights groups may respond to Beijing's security law.",
+      "background": "Joshua Wong rose to prominence as a teenager during the 2014 Umbrella Movement protests for democratic elections in Hong Kong. Beijing imposed a national security law on the city in 2020, after which most of the pro-democracy movement's leaders were jailed or left. Wong has been in prison since 2020 and is the only activist in Hong Kong prosecuted twice under the law, according to The Guardian. Critics say the law has been used to dismantle the opposition, while Hong Kong and Beijing authorities say it restored stability.",
+      "facts": [
+        { "text": "Joshua Wong was sentenced to 10 years in prison in a second case brought under the Beijing-imposed national security law.", "refs": ["cdbb2ad099", "79e2afd271", "98e23cd43b"] },
+        { "text": "The New York Times reports he was accused of conspiracy to collude with foreign forces; The Guardian says he earlier pleaded guilty.", "refs": ["b9d4721635", "551fb86c6f"] },
+        { "text": "Wong is 30 and has been in prison since 2020; the Financial Times says the sentence moves his expected release to 2036.", "refs": ["551fb86c6f", "6121f7cebc"] },
+        { "text": "The BBC says Wong is among hundreds of Hongkongers detained under the law.", "refs": ["79e2afd271"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "cdbb2ad099", "note": "Frames the sentence as part of a crackdown on the pro-democracy movement, citing critics." },
+        { "ref": "79e2afd271", "note": "Centers Wong as the face of the protests and the scale of detentions under the law." },
+        { "ref": "6121f7cebc", "note": "Short, factual headline focused on the sentence and the 2036 release date." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "cdbb2ad099", "takeaway": "Digest summary: sentence for second conviction, with critics' view of the crackdown.", "read_full": false },
+        { "ref": "4363ad215f", "takeaway": "Digest summary: notes Wong has spent most of his adult life in prison.", "read_full": false },
+        { "ref": "551fb86c6f", "takeaway": "Digest summary: age, 2020 custody, only activist prosecuted twice.", "read_full": false },
+        { "ref": "79e2afd271", "takeaway": "Digest summary: places Wong among hundreds detained.", "read_full": false },
+        { "ref": "b9d4721635", "takeaway": "Paywalled; headline and summary only: names the charge.", "read_full": false },
+        { "ref": "6121f7cebc", "takeaway": "Paywalled; headline and summary only: release date of 2036.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "europe-flight-bomb-threats",
+      "headline": "Wave of bomb threats diverts and disrupts flights across Europe",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Bomb threats against passenger flights across Europe on Thursday led several planes to divert or land under military escort. The first reported case was an Aer Lingus flight from Dublin to Rome that landed at a French air base in Evreux with 151 passengers and six crew, the French prime minister's office said. Outlets report between seven and about 15 flights affected so far.",
+      "why_it_matters": "Travellers in Europe may face delays, diversions and extra security checks while the threats continue. Officials and experts have not said who is behind them.",
+      "background": "Bomb threats against aircraft are usually hoaxes but are treated seriously, which can mean diversions, military escorts and airport closures. CBS News reports at least 20 European flights have faced threats in a week, and quotes an expert who calls the pattern unusual and suggestive of \"a very deliberate act.\" The Financial Times reports experts describe the disruptions as a co-ordinated campaign. No group has been named in the digest reporting.",
+      "facts": [
+        { "text": "An Aer Lingus flight from Dublin to Rome was diverted to a French military air base at Evreux, Normandy, after a bomb threat, and landed safely.", "refs": ["78c98f1ba9", "2689a3d9f7"] },
+        { "text": "The French prime minister's office said all 151 passengers and six crew on that flight were safe.", "refs": ["2689a3d9f7"] },
+        { "text": "Several other European flights diverted or landed with a military escort after bomb or security threats.", "refs": ["bc7ef31172"] },
+        { "text": "The Guardian reports a WizzAir service from Milan Malpensa to Warsaw was among those affected, citing Italian agency Ansa.", "refs": ["3284095eed"] },
+        { "text": "CBS News reports experts call the number of hoaxes in a short period unusual.", "refs": ["fb4a2125b0"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many flights have received threats",
+          "positions": [
+            { "claim": "Seven flights diverted across Europe (Telegraph headline).", "refs": ["08aa492b0a"] },
+            { "claim": "Fifteen flights so far today, per The Guardian's live blog; CBS says at least 15, and at least 20 in a week.", "refs": ["3284095eed", "fb4a2125b0"] },
+            { "claim": "Threats on 14 more flights, per the Financial Times.", "refs": ["f3366f6072"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "08aa492b0a", "note": "Counts diversions only." },
+        { "ref": "fb4a2125b0", "note": "Emphasizes hoaxes and an expert's view that it looks deliberate." },
+        { "ref": "f3366f6072", "note": "Emphasizes expert claims of a co-ordinated campaign." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "78c98f1ba9", "takeaway": "Digest summary: Dublin-Rome diversion to a French air base.", "read_full": false },
+        { "ref": "2689a3d9f7", "takeaway": "Digest summary (paywalled): passenger count and Evreux landing.", "read_full": false },
+        { "ref": "bc7ef31172", "takeaway": "Digest summary: several flights diverted or escorted.", "read_full": false },
+        { "ref": "3284095eed", "takeaway": "Digest summary of live blog: 15 flights, WizzAir example.", "read_full": false },
+        { "ref": "fb4a2125b0", "takeaway": "Digest summary: hoax framing and expert comment.", "read_full": false },
+        { "ref": "f3366f6072", "takeaway": "Paywalled; headline and summary only: co-ordinated campaign claim.", "read_full": false },
+        { "ref": "08aa492b0a", "takeaway": "Paywalled; headline only: seven flights.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "south-africa-local-elections",
+      "headline": "ANC support falls sharply in South Africa's municipal elections, early results show",
+      "region": "Africa",
+      "importance": 4,
+      "summary": "South Africans voted in municipal elections on Wednesday, with nearly 30 million eligible, and early results on Thursday suggest a large drop in support for the governing African National Congress compared with 2021. Final results are still to come. Failing services, infrastructure and corruption were key issues.",
+      "why_it_matters": "Municipalities run water, electricity and refuse services, so the outcome affects daily life for residents. The results also signal how stable the national coalition politics around the ANC may be.",
+      "background": "The ANC has led South Africa since the end of apartheid in 1994 but has lost support in recent elections and now governs nationally in coalition. Municipal councils are responsible for local services, which have deteriorated in many cities. Opposition parties contested control of municipalities across the country in this vote.",
+      "facts": [
+        { "text": "Nearly 30 million people were eligible to vote on Wednesday, November 4.", "refs": ["8f316c1998"] },
+        { "text": "About 12 million had voted by 5pm on Wednesday, with Gauteng recording the highest turnout, according to a report on AllAfrica.", "refs": ["dbf2adc0ff"] },
+        { "text": "Reuters reports ANC support fell sharply in early results.", "refs": ["1218f80ee8"] },
+        { "text": "The Financial Times reports early results suggest a huge drop compared with 2021; Bloomberg says modeling based on early results shows the party losing ground.", "refs": ["17406f5251", "5b16ad55ed"] },
+        { "text": "Corruption, failing infrastructure and deteriorating essential services were among the key issues.", "refs": ["8f316c1998"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "e83fbe4fc2", "note": "Headline says the vote could continue the ANC's decline, framing it as a long trend." },
+        { "ref": "8f316c1998", "note": "Centers voters and failing services rather than party standings." },
+        { "ref": "5b16ad55ed", "note": "Focuses on modeling of early results and the ANC's losses." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e83fbe4fc2", "takeaway": "Paywalled; headline only: decline of the ANC.", "read_full": false },
+        { "ref": "1218f80ee8", "takeaway": "Headline only: sharp fall in early results.", "read_full": false },
+        { "ref": "5b16ad55ed", "takeaway": "Paywalled; summary: modeling shows ANC losses.", "read_full": false },
+        { "ref": "17406f5251", "takeaway": "Paywalled; summary: reduced share versus 2021.", "read_full": false },
+        { "ref": "dbf2adc0ff", "takeaway": "Digest summary: turnout figures while results awaited.", "read_full": false },
+        { "ref": "8f316c1998", "takeaway": "Digest summary: voters and service delivery issues.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "france-nationwide-strikes",
+      "headline": "French unions stage nationwide strikes and marches over living costs",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Trade unions in France called strikes and marches for Thursday over wages and the cost of living, extending more than a month of unrest. Hundreds of thousands of protesters are expected, and DW reports about 70,000 police and security officers were deployed. Parliamentary talks on next year's budget remain deadlocked, Bloomberg reports.",
+      "why_it_matters": "Strikes in rail, air traffic, hospitals, schools and postal services can disrupt travel and public services. The unrest is a test for President Emmanuel Macron five months before a presidential election.",
+      "background": "France has seen weeks of protests over rising living costs, including marches in mid-October in which, per the Japan Times, more than half a million people took part, with violence and looting in some places. Unions are now joining together, with five unions in the national day of action per the BBC. The government has not secured agreement on the 2027 budget in parliament.",
+      "facts": [
+        { "text": "Unions representing education, rail, public hospitals and postal services called the strike; about 70,000 police and security officers were deployed.", "refs": ["098081af79"] },
+        { "text": "The New York Times reports more than 220 demonstrations were expected across the country on Thursday.", "refs": ["c0baacab49"] },
+        { "text": "Five unions joined the national day of action, according to the BBC.", "refs": ["ba26403f95"] },
+        { "text": "The protests come five months before a presidential election, and budget talks in parliament are deadlocked.", "refs": ["ef6ae33ee9", "2fcb4f0a4b"] },
+        { "text": "More than half a million people marched across France in mid-October, with violence and looting at some demonstrations.", "refs": ["d93787c072"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "7660d39840", "note": "Emphasizes unions uniting and pressure on Macron's government." },
+        { "ref": "2fcb4f0a4b", "note": "Ties the strikes to the stalled budget." },
+        { "ref": "c0baacab49", "note": "Leads with riots and the prospect of a general strike." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ef6ae33ee9", "takeaway": "Digest summary: expected turnout and election context.", "read_full": false },
+        { "ref": "098081af79", "takeaway": "Digest summary: sectors striking and police deployment.", "read_full": false },
+        { "ref": "7660d39840", "takeaway": "Headline only: unions unite.", "read_full": false },
+        { "ref": "2fcb4f0a4b", "takeaway": "Paywalled; summary: budget impasse.", "read_full": false },
+        { "ref": "d93787c072", "takeaway": "Digest summary: October march numbers.", "read_full": false },
+        { "ref": "c0baacab49", "takeaway": "Paywalled; summary: 220 demonstrations.", "read_full": false },
+        { "ref": "ba26403f95", "takeaway": "Digest summary: five unions join.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "israel-government-formation",
+      "headline": "Israel's president consults parties on who should try to form the next government",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "President Isaac Herzog began meeting party leaders on Wednesday to decide whether Prime Minister Benjamin Netanyahu or rival Gadi Eisenkot gets the first chance to form a coalition after an election in which Netanyahu's bloc lost its majority. Israel's election commission confirmed the results and rejected Netanyahu's fraud claims after auditing 9,069 polling stations, and Herzog accepted the certified results.",
+      "why_it_matters": "Who forms Israel's government shapes its policy on the Iran war and relations with the United States. Until a government is formed, Netanyahu remains in charge of a caretaker administration.",
+      "background": "Israel held a parliamentary election last week in which Netanyahu's religious-nationalist bloc lost its majority in the Knesset. The president decides which lawmaker gets the first chance to form a coalition, based on party recommendations. Netanyahu has alleged fraud and, separately, foreign spending to sway the vote. A web report says the nominee has 28 days to form a government, with a possible extension.",
+      "facts": [
+        { "text": "Herzog began meeting party leaders to decide whether Netanyahu or Eisenkot gets the first chance to form a government.", "refs": ["e0dc61c08c", "5f5694145f"] },
+        { "text": "The Central Elections Committee said it audited 9,069 polling stations and that the results reflect the will of the voters.", "refs": ["12b150e40f"] },
+        { "text": "Herzog accepted the certified results.", "refs": ["42a7e4c059"] },
+        { "text": "Netanyahu cited \"serious suspicions\" of foreign spending to influence the election; the largest Arab-Israeli bloc called the accusations unfounded.", "refs": ["4752ae9d0b"] },
+        { "text": "The consultations were scheduled to run about two days, with the recipient given 28 days to form a government.", "refs": ["world-w1"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the election result is reliable",
+          "positions": [
+            { "claim": "Netanyahu alleged fraud and foreign spending to sway the vote.", "refs": ["4752ae9d0b", "5c520a90cf"] },
+            { "claim": "The election commission said an audit confirmed the results; Herzog accepted them.", "refs": ["12b150e40f", "42a7e4c059"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "25d362a0fd", "note": "Frames it as a coalition showdown facing Netanyahu." },
+        { "ref": "5c520a90cf", "note": "Leads with the commission rejecting Netanyahu's fraud claims." },
+        { "ref": "e0dc61c08c", "note": "Emphasizes Herzog's call for compromise in a polarised country." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "25d362a0fd", "takeaway": "Digest summary: Netanyahu's coalition test.", "read_full": false },
+        { "ref": "5f5694145f", "takeaway": "Paywalled; summary: two days of talks.", "read_full": false },
+        { "ref": "e0dc61c08c", "takeaway": "Digest summary: Herzog urges compromise.", "read_full": false },
+        { "ref": "5c520a90cf", "takeaway": "Digest summary: commission rejects fraud claims.", "read_full": false },
+        { "ref": "12b150e40f", "takeaway": "Digest summary: audit of 9,069 stations.", "read_full": false },
+        { "ref": "42a7e4c059", "takeaway": "Digest summary: Herzog accepts results.", "read_full": false },
+        { "ref": "4752ae9d0b", "takeaway": "Digest summary: foreign spending claim.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "indonesia-wiretap-scandal",
+      "headline": "Indonesia deploys thousands of troops in Jakarta amid wiretapping scandal",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "Indonesia's military deployed more than 20,000 troops to Jakarta after generals were arrested in a wiretapping scandal suspected of targeting President Prabowo Subianto. On Thursday thousands of police and military personnel secured a court appearance by former President Joko Widodo.",
+      "why_it_matters": "A security build-up in the capital and arrests of senior officers raise questions about stability and civilian-military relations in Southeast Asia's largest economy. Only center and left-leaning outlets appear to cover this in the digest.",
+      "background": "Indonesian authorities are investigating a wiretapping scandal involving senior police officers. Three senior generals have been detained, including Gen. Listyo Sigit Prabowo, who had been named chief of staff to the president last month, according to The Hindu. Tensions in Jakarta remain high.",
+      "facts": [
+        { "text": "Indonesia's military deployed over 20,000 troops to Jakarta amid a wiretapping scandal suspected of targeting President Prabowo Subianto.", "refs": ["89f4b563a1"] },
+        { "text": "Three senior generals have been detained, including Gen. Listyo Sigit Prabowo.", "refs": ["b49df9a0e2"] },
+        { "text": "Thousands of police and military personnel were tasked with securing a court appearance by former President Joko Widodo.", "refs": ["3d53b06ca0", "bd4d279722"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "89f4b563a1", "note": "Leads with the troop deployment and the generals' arrest." },
+        { "ref": "b49df9a0e2", "note": "Adds detail on the detained generals." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "89f4b563a1", "takeaway": "Digest summary: deployment and scandal.", "read_full": false },
+        { "ref": "bd4d279722", "takeaway": "Headline only: troops secure trial.", "read_full": false },
+        { "ref": "3d53b06ca0", "takeaway": "Digest summary: Widodo court appearance security.", "read_full": false },
+        { "ref": "b49df9a0e2", "takeaway": "Digest summary: three generals detained.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "south-korea-hormuz-mission",
+      "headline": "South Korea to move anti-piracy unit closer to the Strait of Hormuz",
+      "region": "Middle East",
+      "importance": 3,
+      "summary": "South Korea's defence ministry said it will expand operations of its anti-piracy Cheonghae unit closer to the Strait of Hormuz, including maritime patrol aircraft and an explosive ordnance disposal team. Seoul said it would protect commercial shipping and energy supplies and ruled out military intervention in the conflict. It will seek parliamentary approval, The Guardian reports.",
+      "why_it_matters": "Hormuz carries a large share of the world's oil, so shipping security there affects fuel prices. South Korea imports most of its energy.",
+      "background": "The United States and Iran are at war, which has raised fuel costs and disrupted shipping. The Guardian ties South Korea's move to criticism from President Donald Trump of allies' support for the Iran war. The unit would operate about 650km from the strait under the plan.",
+      "facts": [
+        { "text": "South Korea will deploy maritime patrol aircraft and an explosive ordnance disposal team near the Strait of Hormuz, its defence ministry said Thursday.", "refs": ["46051b9e7f"] },
+        { "text": "Seoul said it would protect shipping and energy supplies and ruled out military intervention.", "refs": ["46051b9e7f"] },
+        { "text": "The plan needs parliamentary approval and would extend the unit's area to about 650km from the strait.", "refs": ["444853f1d6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "444853f1d6", "note": "Links the move to Trump's criticism of allies." },
+        { "ref": "46051b9e7f", "note": "Emphasizes that Seoul is not intervening militarily." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "eeab3e9e7d", "takeaway": "Headline only: expanded anti-piracy operations.", "read_full": false },
+        { "ref": "46051b9e7f", "takeaway": "Digest summary: assets and limits of mission.", "read_full": false },
+        { "ref": "444853f1d6", "takeaway": "Digest summary: parliamentary approval and Trump criticism.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "bc-grizzly-attack",
+      "headline": "Mother and daughter killed in suspected grizzly attack in British Columbia",
+      "region": "Americas",
+      "importance": 2,
+      "summary": "A mother and her 20-year-old daughter, identified by family as Jennifer Balcarras and Selah Reed, were found dead after a suspected grizzly bear attack near Bella Coola on British Columbia's central coast. Conservation officers said more than one bear may have been involved, and a hunt is under way.",
+      "why_it_matters": "Residents and hikers in bear country may see warnings and closures while officers search for the animals.",
+      "background": "The women went missing on a hiking trail minutes from their home in Bella Coola. Search teams found the second woman's body, and authorities confirmed both died. Conservation Officer Service Inspector Jeff Tyre said in a video message that more than one grizzly may have been involved.",
+      "facts": [
+        { "text": "Family members identified the victims as Jennifer Balcarras and her 20-year-old daughter, Selah Reed.", "refs": ["0e26609ef6"] },
+        { "text": "Conservation officers said more than one grizzly may have been involved.", "refs": ["38f848aada", "8fa8c8ed8a"] },
+        { "text": "The women went missing on a hiking trail near their Bella Coola home.", "refs": ["6131d7ead9"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "e626a64017", "note": "Cautious: says evidence suggests an animal may have been involved." },
+        { "ref": "9a07764b2c", "note": "Emphasizes the hunt for the bears." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "0e26609ef6", "takeaway": "Digest summary: victims' names from family.", "read_full": false },
+        { "ref": "8fa8c8ed8a", "takeaway": "Digest summary: possible multiple bears.", "read_full": false },
+        { "ref": "6131d7ead9", "takeaway": "Digest summary: trail near Bella Coola home.", "read_full": false },
+        { "ref": "e626a64017", "takeaway": "Digest summary: cautious on cause.", "read_full": false },
+        { "ref": "9a07764b2c", "takeaway": "Paywalled; summary: hunt under way.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w1", "url": "https://www.i24news.tv/en/news/israel/politics/artc-israeli-president-herzog-to-begin-coalition-consultations-on-wednesday", "title": "Israeli President Herzog to begin coalition consultations on Wednesday", "outlet": "i24NEWS" }
+  ]
+}

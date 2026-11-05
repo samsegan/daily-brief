@@ -1,0 +1,232 @@
+{
+  "stories": [
+    {
+      "id": "democrats-win-congress",
+      "headline": "Democrats projected to win both the House and the Senate in the midterms",
+      "region": "Congress",
+      "importance": 5,
+      "summary": "NBC News and CBS News projected that Democrats won control of both chambers of Congress in Tuesday's midterm elections. Democrats flipped a large number of Republican-held House seats and several Senate seats, including some in Republican-leaning states. Democratic leaders said they would use the majorities to check President Trump, and outlets described the result as setting up two years of possible deadlock.",
+      "why_it_matters": "Divided government means the president's agenda needs Democratic votes in Congress, and Democratic-run committees can now investigate the administration. Spending bills, nominations and oversight of the Iran war are all likely to become more contested.",
+      "background": "Before the election Republicans held the House by a narrow margin and the Senate 53-47, and Democrats needed a net gain of three House seats and four Senate seats for control. The midterms were widely framed as a verdict on President Trump, whose approval rating was low and whose war with Iran, launched with Israel, has run for about nine months. Gas prices and the cost of living were also major issues. Control of the chambers decides which party sets the legislative agenda and chairs committees from January.",
+      "facts": [
+        { "text": "NBC News projected that Democrats won control of both the House and the Senate.", "refs": ["45ff252ca0"] },
+        { "text": "CBS News separately projected a Democratic House majority and a Democratic Senate majority, with several upset wins in red states.", "refs": ["c7e474119e", "46dde36fc0"] },
+        { "text": "CBS News reported Democrats flipped more than two dozen Republican-held House seats.", "refs": ["425c48221c"] },
+        { "text": "Fox News reported Democrats scored seven Senate and 27 House pickups.", "refs": ["4545e3ae88"] },
+        { "text": "The Hindu reported it will be the first time Trump has faced Democratic control of both chambers during a term in the White House.", "refs": ["4af9c82c1d"] },
+        { "text": "Democrats vowed to use the win to rein in Trump, setting up possible deadlock in Washington, according to a wire report carried by Daily Maverick.", "refs": ["0db34d73a3"] },
+        { "text": "Before the election Republicans held the House 218-214 and the Senate 53-47.", "refs": ["us-w1"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many seats Democrats flipped",
+          "positions": [
+            { "claim": "Seven Senate and 27 House pickups.", "refs": ["4545e3ae88"] },
+            { "claim": "Republicans lost seven senators and 30 House districts.", "refs": ["a74713e65f"] },
+            { "claim": "More than two dozen Republican-held House seats flipped.", "refs": ["425c48221c"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "4545e3ae88", "note": "Fox News leads with Republican insiders blaming Trump, putting the intra-party fallout ahead of the Democratic gains." },
+        { "ref": "46dde36fc0", "note": "CBS frames the Senate result as a projection with upset wins in red states, centered on the numbers." },
+        { "ref": "a74713e65f", "note": "The Guardian leads with where Republicans lost, focusing on the scale and geography of the defeat." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "45ff252ca0", "takeaway": "Video segment reporting NBC's projection of both chambers and reaction from Republicans.", "read_full": false },
+        { "ref": "c7e474119e", "takeaway": "Live-update item on the House projection, tying it to Trump's low approval.", "read_full": false },
+        { "ref": "46dde36fc0", "takeaway": "Live-update item on the Senate projection and upset wins.", "read_full": false },
+        { "ref": "425c48221c", "takeaway": "Explainer on which House districts flipped.", "read_full": false },
+        { "ref": "4545e3ae88", "takeaway": "Right-leaning outlet leads with Republicans turning on Trump; gives seat counts.", "read_full": false },
+        { "ref": "a74713e65f", "takeaway": "Visual analysis of key states and trends behind the Republican losses.", "read_full": false },
+        { "ref": "4af9c82c1d", "takeaway": "Summary says this is Trump's first time facing a fully Democratic Congress.", "read_full": false },
+        { "ref": "0db34d73a3", "takeaway": "Wire-based piece on Democrats' vow to rein in Trump and possible deadlock.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "vance-blames-iran-war",
+      "headline": "Vance blames the Iran war for Republican midterm losses; Trump says he would do it again",
+      "region": "White House",
+      "importance": 5,
+      "summary": "Vice President JD Vance wrote a roughly 600-word post on X saying the Iran war was the reason Republicans lost, in one of his sharpest breaks with President Trump. The New York Times reported he did so with Trump's apparent approval. Trump acknowledged the war affected the vote, pointing to high gas prices, but said he would have gone ahead with it anyway.",
+      "why_it_matters": "The war's unpopularity is now a open argument inside the Republican Party, and what Trump does next on Iran will affect gas prices, troop deployments and the Democratic Congress's response.",
+      "background": "The United States and Israel launched a war against Iran roughly nine months ago, and it has continued with efforts to end it so far unsuccessful. Polling before the election showed it was unpopular, including among some Trump supporters. Vance had earlier defended the effort and in a pre-election interview said he would not call it a war. He is widely seen as a possible 2028 presidential candidate.",
+      "facts": [
+        { "text": "Vance wrote in a post on X that \"the reason we lost is the war,\" per Axios.", "refs": ["d0dd8285e3"] },
+        { "text": "The New York Times reported that Vance's critique came with Trump's apparent approval.", "refs": ["deaee30e72"] },
+        { "text": "Trump acknowledged the war affected the midterms, suggesting voters were frustrated by surging gas prices.", "refs": ["05577fe906", "8d09143c0d"] },
+        { "text": "Trump said he would do it again, and CBS reported he said he would have launched the war anyway.", "refs": ["726b5ced05", "7fd4c5e94b"] },
+        { "text": "Iran said the U.S. election results show Americans reject the war, per CBS News.", "refs": ["7fd4c5e94b"] },
+        { "text": "Before the election, Vance told reporters he would not call the Iran fight a war.", "refs": ["us-w2"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Why Republicans lost",
+          "positions": [
+            { "claim": "The Iran war was the reason, per Vance.", "refs": ["d0dd8285e3", "9bae93c166"] },
+            { "claim": "Gas prices were a main factor, per Trump, who defended the war itself.", "refs": ["8d09143c0d", "726b5ced05"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "e8db9958c5", "note": "BBC stresses the break with a sitting president and Vance's balancing act." },
+        { "ref": "9bae93c166", "note": "The Washington Times calls it a mea culpa, presenting it as Vance taking responsibility." },
+        { "ref": "2227cb731a", "note": "AP says Vance is trying to distance himself from the war, stressing his positioning." },
+        { "ref": "d0dd8285e3", "note": "Axios frames it as a step toward 2028 and a bid to claim the MAGA movement." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d0dd8285e3", "takeaway": "Treats the post as a 2028 power play and quotes it directly.", "read_full": false },
+        { "ref": "e8db9958c5", "takeaway": "Calls it one of the sharpest breaks with a sitting president in recent memory.", "read_full": false },
+        { "ref": "deaee30e72", "takeaway": "Paywalled; headline says the break came with Trump's apparent approval.", "read_full": false },
+        { "ref": "7fd4c5e94b", "takeaway": "Live updates: Trump says he would have done it anyway; Iran reacts.", "read_full": false },
+        { "ref": "05577fe906", "takeaway": "Summary says Trump now faces what to do about an unpopular war and cites gas prices.", "read_full": false },
+        { "ref": "8d09143c0d", "takeaway": "Headline reports Trump blaming gas prices for the losses.", "read_full": false },
+        { "ref": "726b5ced05", "takeaway": "Right-leaning outlet reports Trump defending the war and giving little reflection on his role.", "read_full": false },
+        { "ref": "9bae93c166", "takeaway": "Headline only; frames Vance's post as a mea culpa.", "read_full": false },
+        { "ref": "2227cb731a", "takeaway": "Headline only; wire story on Vance distancing himself.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mississippi-senate-too-close",
+      "headline": "Mississippi Senate race too close to call, with no recount procedure",
+      "region": "Elections",
+      "importance": 4,
+      "summary": "Democrat Scott Colom was ahead of Republican Sen. Cindy Hyde-Smith by dozens of votes in the BBC's overnight report, and the race remained unresolved Wednesday as thousands of provisional ballots were counted. The Hill reported Mississippi has no recount procedure, so the result could end up in court. A Colom win would make him the first Black U.S. senator elected in the state since 1875.",
+      "why_it_matters": "The outcome could decide the size of the new Senate Democratic majority and shows how far the Republican losses reached into deep-red states. A court fight would delay a final result.",
+      "background": "Hyde-Smith is the Republican incumbent in a state Trump won by about 23 points in 2024, per pre-election reporting. Colom is a district attorney who won the Democratic nomination in March. Polls before the election showed Hyde-Smith ahead, and an independent, Ty Pinkins, was also on the ballot. Alaska's Senate race was also reported as tight.",
+      "facts": [
+        { "text": "The BBC reported Colom led by dozens of votes.", "refs": ["643d138cd8"] },
+        { "text": "Thousands of provisional ballots were still being counted, the BBC reported.", "refs": ["ce00aa5c10"] },
+        { "text": "CBS News described the race as a toss-up with a razor-thin margin on Wednesday morning.", "refs": ["3b6e020f23"] },
+        { "text": "The Hill reported that Mississippi has no recount procedure and the contest could end up in the courts.", "refs": ["4315041de5"] },
+        { "text": "A Colom victory would make him the first Black U.S. senator elected in Mississippi since 1875, per the BBC.", "refs": ["643d138cd8"] },
+        { "text": "Pre-election polling had Hyde-Smith ahead by about 6 points, with independent Ty Pinkins at 7 percent.", "refs": ["us-w3"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f1e36f960d", "note": "CNN's headline stresses the historic upset potential for the Democrat." },
+        { "ref": "d54621035f", "note": "The New York Sun frames it as Democrats eyeing a takedown of a GOP stronghold." },
+        { "ref": "4315041de5", "note": "The Hill emphasizes the legal uncertainty from the missing recount procedure." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "643d138cd8", "takeaway": "Reports Colom's narrow lead and the historic angle.", "read_full": false },
+        { "ref": "ce00aa5c10", "takeaway": "Video explainer on when to expect results, citing provisional ballots.", "read_full": false },
+        { "ref": "3b6e020f23", "takeaway": "Says the race is unresolved and unexpectedly competitive.", "read_full": false },
+        { "ref": "4315041de5", "takeaway": "Focuses on the absence of a recount procedure and possible court fight.", "read_full": false },
+        { "ref": "f1e36f960d", "takeaway": "Headline only: Dem eyes historic upset; too early to call.", "read_full": false },
+        { "ref": "d54621035f", "takeaway": "Headline only: too close to call, Democrats eye another takedown.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "house-leadership-shakeup",
+      "headline": "Jeffries launches speaker bid as Johnson steps aside and Scalise and Jordan vie to lead House Republicans",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "House Democratic leader Hakeem Jeffries formally launched his bid for speaker in a letter to colleagues, and Politico reported he is expected to face no competition. He would be the first Black speaker. Speaker Mike Johnson told Republicans he will not run for minority leader, and Majority Leader Steve Scalise and Rep. Jim Jordan announced bids for the job.",
+      "why_it_matters": "The people who lead the House set which bills get votes and which investigations start, so these choices shape what Congress does on spending, oversight and the Iran war.",
+      "background": "Republicans held the House majority with Johnson as speaker until Tuesday's election, when Democrats won a majority. Jeffries, of New York, has led the House Democrats as minority leader. Leadership elections inside each party's caucus take place before the new Congress convenes in January, and the full House then votes for speaker.",
+      "facts": [
+        { "text": "Jeffries launched his bid for speaker in a letter to colleagues, per Axios.", "refs": ["1fc13100a1"] },
+        { "text": "Politico reported he is likely to cruise to the speakership with no expected competition.", "refs": ["4e5537e5b1"] },
+        { "text": "AP reported he is poised to be the first Black speaker of the House.", "refs": ["6ba388d9a0"] },
+        { "text": "Johnson told staffers he will not run for minority leader in the new Congress, per CBS News, a source familiar said.", "refs": ["7544f6d162", "12631ae73a"] },
+        { "text": "Scalise and Jordan are both seeking to lead House Republicans.", "refs": ["f25174120b", "d1d1638c82"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "caf4dae946", "note": "Fox News calls the result a midterm massacre in its headline, putting the GOP losses first." },
+        { "ref": "4e5537e5b1", "note": "Politico leads with Jeffries promising dramatic change." },
+        { "ref": "9bf2026773", "note": "The New York Daily News highlights Johnson's exit after a blowout loss." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "1fc13100a1", "takeaway": "Publishes Jeffries' letter launching his bid.", "read_full": false },
+        { "ref": "4e5537e5b1", "takeaway": "Says Jeffries is likely to win easily and promises change.", "read_full": false },
+        { "ref": "6ba388d9a0", "takeaway": "Wire headline on the historic first Black speaker.", "read_full": false },
+        { "ref": "caf4dae946", "takeaway": "Right-leaning outlet notes Jeffries' bid after the GOP losses.", "read_full": false },
+        { "ref": "12631ae73a", "takeaway": "Reports Johnson will step aside as top House Republican.", "read_full": false },
+        { "ref": "7544f6d162", "takeaway": "Reports Johnson told staffers he will not seek minority leader.", "read_full": false },
+        { "ref": "f25174120b", "takeaway": "Says Scalise will announce a bid against Jordan.", "read_full": false },
+        { "ref": "d1d1638c82", "takeaway": "Reports Jordan launching his bid to lead House Republicans.", "read_full": false },
+        { "ref": "9bf2026773", "takeaway": "Headline only on Johnson's decision.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "state-ballot-measures",
+      "headline": "Voters back abortion rights and voter ID in state ballot measures",
+      "region": "Elections",
+      "importance": 3,
+      "summary": "Voters in dozens of states decided nearly 150 statewide ballot measures on Tuesday. Abortion-rights measures passed or were protected in several states including Missouri, Nevada and Virginia, and voter ID measures also passed. ABC News reported voters rejected Trump-backed redistricting measures.",
+      "why_it_matters": "Ballot measures change state law directly, affecting abortion access, voting rules and congressional district maps in the affected states.",
+      "background": "Many states let voters amend their constitutions or pass laws directly. Abortion has been on the ballot in many states since the Supreme Court ended the federal right in 2022. Redistricting fights over congressional maps have grown since President Trump urged states to redraw districts before the midterms.",
+      "facts": [
+        { "text": "ABC News reported abortion-rights advocates won in Missouri, Nevada and Virginia.", "refs": ["88ea3dadfc"] },
+        { "text": "The Guardian reported voters in Nevada, Virginia, Missouri and Idaho passed or strengthened reproductive rights protections.", "refs": ["8e8bc416e6"] },
+        { "text": "NBC News said nearly 150 ballot measures were at stake in more than three dozen states, and NPR counted 146 statewide measures.", "refs": ["dc0ee52e67", "71b3ee8b5c"] },
+        { "text": "The Center Square reported abortion rights and voter ID measures passed.", "refs": ["bf5a574bd8"] },
+        { "text": "Wisconsin voters rejected a measure on freedom of worship during declared emergencies, per Times of Israel.", "refs": ["bab93a68ba"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "416c2f6267", "note": "National Review frames the results as a blow to pro-lifers." },
+        { "ref": "88ea3dadfc", "note": "ABC pairs abortion rights with the rejection of Trump's redistricting." },
+        { "ref": "bf5a574bd8", "note": "The Center Square pairs abortion rights with voter ID passing." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "88ea3dadfc", "takeaway": "Roundup of abortion and redistricting measure results.", "read_full": false },
+        { "ref": "416c2f6267", "takeaway": "Reports Missouri and Virginia backing abortion as a loss for pro-life groups.", "read_full": false },
+        { "ref": "dc0ee52e67", "takeaway": "Takeaways on abortion rights and photo ID.", "read_full": false },
+        { "ref": "71b3ee8b5c", "takeaway": "Overview of 146 measures across many topics.", "read_full": false },
+        { "ref": "8e8bc416e6", "takeaway": "Focuses on reproductive rights wins in four states.", "read_full": false },
+        { "ref": "bf5a574bd8", "takeaway": "Brief on abortion and voter ID passing.", "read_full": false },
+        { "ref": "bab93a68ba", "takeaway": "Headline only on Wisconsin's worship measure.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "el-sayed-wins-michigan-senate",
+      "headline": "Abdul El-Sayed wins Michigan Senate race over Mike Rogers",
+      "region": "Elections",
+      "importance": 3,
+      "summary": "Democrat Abdul El-Sayed, a progressive backed by Bernie Sanders and Alexandria Ocasio-Cortez, won Michigan's open Senate seat over Republican Mike Rogers, according to multiple outlets. Coverage came from both sides, with right-leaning outlets covering it more heavily. Many reports focused on what the win means for the Democratic Party.",
+      "why_it_matters": "The win adds a progressive to a new Democratic Senate majority and signals which wing of the party gained from the midterms, which could shape Democratic priorities.",
+      "background": "El-Sayed, a physician and former Detroit health director, won the Democratic nomination in a contested primary. Rep. Haley Stevens, who lost that primary, endorsed Rogers, the Republican nominee, days before the election. New York City Mayor Zohran Mamdani praised the win.",
+      "facts": [
+        { "text": "El-Sayed won despite Stevens, who lost the Democratic primary, endorsing Rogers at the last minute, per The Hindu.", "refs": ["67e2c157ec"] },
+        { "text": "His candidacy was backed by figures including Sanders and Ocasio-Cortez.", "refs": ["12e5bbc5e4"] },
+        { "text": "Mamdani called the win \"incredibly exciting,\" per Fox News.", "refs": ["6ded3964f1"] },
+        { "text": "The New York Times reported Muslim Americans said the win matters because of the issues he prioritizes, not his faith.", "refs": ["9ec81006cb"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "5000bd35ae", "note": "The Free Press says the win may change the Democratic Party for good and highlights socialism and anger." },
+        { "ref": "5ccbc70529", "note": "The Washington Times centers on his Muslim identity in the victory speech." },
+        { "ref": "12e5bbc5e4", "note": "The Hindu profiles him as a progressive's progress, noting he calls himself a capitalist." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a432a0b121", "takeaway": "Right-leaning outlet notes the win came after Stevens' endorsement of Rogers.", "read_full": false },
+        { "ref": "67e2c157ec", "takeaway": "Reports the victory claim and the Stevens endorsement.", "read_full": false },
+        { "ref": "12e5bbc5e4", "takeaway": "Profile of his progressive politics and backers.", "read_full": false },
+        { "ref": "6ded3964f1", "takeaway": "Reports Mamdani's praise.", "read_full": false },
+        { "ref": "5000bd35ae", "takeaway": "Reports from Detroit on what the win means for the party.", "read_full": false },
+        { "ref": "5ccbc70529", "takeaway": "Headline only on his victory speech.", "read_full": false },
+        { "ref": "9ec81006cb", "takeaway": "Paywalled; headline says the win matters to Muslim Americans for reasons beyond faith.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://kutv.com/news/nation-world/parties-gear-up-for-2026-midterms-as-control-of-congress-up-for-grabs-democrats-republicans-house-senate-election", "title": "Parties gear up for 2026 midterms as control of Congress up for grabs", "outlet": "KUTV" },
+    { "id": "us-w2", "url": "https://abc7news.com/story/vice-president-jd-vance-says-iran-fight-isnt-war-trump-tries-navigate-unpopular-conflict-election-nears/19789369/", "title": "Vance says Iran fight isn't a 'war' as Trump tries to navigate unpopular conflict as election nears", "outlet": "ABC7" },
+    { "id": "us-w3", "url": "https://www.newsweek.com/democrat-in-striking-distance-of-flipping-state-trump-won-by-23-pointspoll-12382515", "title": "Democrat in striking distance of flipping state Trump won by 23 points: poll", "outlet": "Newsweek" }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "stories": [
+    {
+      "id": "pied-a-terre-tax-appeal",
+      "headline": "Appeals court lets Mamdani's second-home tax move forward",
+      "region": "City Hall",
+      "importance": 5,
+      "summary": "The Appellate Division reversed a Staten Island judge's ruling that had ordered the city to redo its rollout of the pied-à-terre tax on high-end second homes. The decision, reported Wednesday, lets Mayor Zohran Mamdani's administration continue collecting the tax while legal challenges go on. Gothamist reports the mayor has said the tax could raise $500 million a year.",
+      "why_it_matters": "The tax is a key piece of the mayor's budget plans, and owners of expensive second homes in the city now face it while the litigation continues. Its revenue estimate matters for city services New Yorkers rely on.",
+      "background": "Mayor Mamdani's administration began rolling out a tax on high-value second homes this year. Homeowners sued, and a Staten Island judge ruled on Sept. 29 that the city had mishandled the rollout, which led to an order to redo it. The city appealed, and the Brooklyn-based appeals court paused that order while it considered the case. Other lawsuits challenging the tax itself are also pending, according to press reports.",
+      "facts": [
+        { "text": "An appeals court reversed a lower-court order that had told the city to redo what the judge called a botched rollout of the pied-à-terre tax.", "refs": ["00f0c93790", "e07c794e28", "a2cc61c56d"] },
+        { "text": "The Appellate Division ruled for the City of New York in a challenge that had been decided against it in Staten Island.", "refs": ["a2cc61c56d", "9674381866"] },
+        { "text": "Gothamist reports Mamdani says the tax could raise $500 million a year.", "refs": ["9674381866"] },
+        { "text": "CNN described the tax as surviving the legal challenge 'for now'.", "refs": ["698119be2f"] },
+        { "text": "The Sept. 29 Staten Island ruling found fault with how the city handled the rollout, not with the tax itself, according to press reports.", "refs": ["nyc-w1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "ba463c81c5", "note": "Frames the ruling as a 'legal win' for Mamdani, centering the mayor." },
+        { "ref": "00f0c93790", "note": "Focuses on the procedural reversal of the botched-rollout finding." },
+        { "ref": "698119be2f", "note": "Stresses the tax survives only 'for now', signaling the fight is not over." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ba463c81c5", "takeaway": "Short report on the appeals court win for the mayor.", "read_full": false },
+        { "ref": "9674381866", "takeaway": "Notes the $500 million a year revenue claim and the homeowner challenge.", "read_full": false },
+        { "ref": "00f0c93790", "takeaway": "Paywalled; summary says the decision reverses the lower-court redo order.", "read_full": false },
+        { "ref": "e07c794e28", "takeaway": "Paywalled; summary calls it a victory on a key piece of the mayor's agenda.", "read_full": false },
+        { "ref": "a2cc61c56d", "takeaway": "Names the Appellate Division and the reversed Staten Island ruling.", "read_full": false },
+        { "ref": "698119be2f", "takeaway": "Headline only; says the tax survives the challenge for now.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ballot-proposals-pass",
+      "headline": "NYC voters approve all five charter ballot proposals",
+      "region": "City Hall",
+      "importance": 5,
+      "summary": "All five proposals on the back of the ballot passed Tuesday, each with at least 61% of the vote, according to THE CITY. They came from Mayor Mamdani's Charter Revision Commission and aim to speed approvals for things like outdoor dining permits, street safety projects, housing and city contracts.",
+      "why_it_matters": "The changes could mean faster bus and bike lanes, simpler outdoor dining permits and quicker housing approvals in your neighborhood. They also hand the mayor a win on his first-year agenda.",
+      "background": "Mamdani's Charter Revision Commission put the 'faster government' measures on the ballot in July. They target red tape in city processes. Supporters say they will speed up projects, while some opponents of street safety projects expect more of them to follow, per Gothamist.",
+      "facts": [
+        { "text": "Voters approved all five ballot proposals, each receiving at least 61% with nearly all precincts reporting.", "refs": ["c0f28384f0", "962f33366f"] },
+        { "text": "The proposals were advanced in July by Mamdani's Charter Revision Commission.", "refs": ["962f33366f", "51408a2bbe"] },
+        { "text": "The measures include streamlining outdoor dining permits and speeding up bike and bus lane projects.", "refs": ["d85c0b91e4", "962f33366f"] },
+        { "text": "Gothamist reports supporters and foes of street safety projects agree more are now on the horizon.", "refs": ["9e88ecc539"] },
+        { "text": "The Mamdani administration has started work on Brooklyn bus and bike lane projects on Atlantic and DeKalb avenues, per the Daily News.", "refs": ["408873d5f2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "51408a2bbe", "note": "Calls it a 'total victory' for the mayor, a political framing." },
+        { "ref": "a11f73d5a4", "note": "Paywalled; headline stresses what it could mean for the mayor's agenda and building faster." },
+        { "ref": "d85c0b91e4", "note": "Focuses on concrete changes: outdoor dining and bike lanes." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c0f28384f0", "takeaway": "Reports the sweep and the 61% minimum.", "read_full": false },
+        { "ref": "51408a2bbe", "takeaway": "Political angle on the mayor's win.", "read_full": false },
+        { "ref": "962f33366f", "takeaway": "Explains what the proposals do.", "read_full": false },
+        { "ref": "a11f73d5a4", "takeaway": "Paywalled; headline and summary only.", "read_full": false },
+        { "ref": "d85c0b91e4", "takeaway": "Highlights dining and bike lane measures.", "read_full": false },
+        { "ref": "9e88ecc539", "takeaway": "Looks ahead to more bus and bike lanes.", "read_full": false },
+        { "ref": "408873d5f2", "takeaway": "Headline only; work begins on Atlantic and DeKalb avenues lanes.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mamdani-hochul-albany",
+      "headline": "After Hochul's re-election, Mamdani urges Democrats to push harder",
+      "region": "Albany",
+      "importance": 4,
+      "summary": "Gov. Kathy Hochul won a second full term over Republican Bruce Blakeman, and the AP called the race minutes after polls closed. On Wednesday Mamdani told the Democratic left to keep its 'foot on the gas'. amNY notes Hochul still holds the keys in Albany.",
+      "why_it_matters": "Whatever the mayor wants from the state, from taxes to funding, still runs through the governor, so how the two work together shapes city policy and budgets.",
+      "background": "Hochul, a Democrat, faced Nassau County Executive Bruce Blakeman, who was backed by President Trump, in a race focused on affordability. Democrats had a strong night across New York and the country. Mamdani is in his first year as mayor and has pushed an affordability agenda, some of which requires state approval.",
+      "facts": [
+        { "text": "Hochul defeated Blakeman for a second full term; the AP called the race right after polls closed.", "refs": ["2f5d7eff85", "d6ce5ea2ce", "c81593e327"] },
+        { "text": "The New York Times summary puts her margin at 20 points; THE CITY describes it as double digits.", "refs": ["99a84cb044", "fb0ad8c8c8"] },
+        { "text": "Mamdani said Wednesday the Democratic left should keep its 'foot on the gas'.", "refs": ["6e769d27a7", "9083536db9", "c9573ef742"] },
+        { "text": "amNY reports Mamdani sees an opening after the sweep but that Hochul still holds the keys in Albany.", "refs": ["8acd212573"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "6e769d27a7", "note": "Leads with Mamdani's victory lap." },
+        { "ref": "8acd212573", "note": "Adds the caveat that the governor controls what Albany does." },
+        { "ref": "99a84cb044", "note": "Paywalled; headline centers on the Democratic surge and Hochul's margin." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2f5d7eff85", "takeaway": "Election-night story with the affordability theme.", "read_full": false },
+        { "ref": "6e769d27a7", "takeaway": "Mamdani's 'foot on the gas' remarks.", "read_full": false },
+        { "ref": "8acd212573", "takeaway": "Ties the sweep to Hochul's power over Albany.", "read_full": false },
+        { "ref": "9083536db9", "takeaway": "National angle on the left's next steps.", "read_full": false },
+        { "ref": "99a84cb044", "takeaway": "Paywalled; headline and summary only.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "carriage-horse-ban",
+      "headline": "Carriage drivers ask Mamdani to veto Central Park horse ban",
+      "region": "City Hall",
+      "importance": 3,
+      "summary": "Horse carriage drivers and advocates gathered at City Hall on Wednesday to ask the mayor to veto Romanch's Law, a City Council bill banning hansom cabs in Central Park. amNY reports Mamdani said he is still signing it. The New York Post says Transit Workers Union members felt left out.",
+      "why_it_matters": "The bill would end a long-running Central Park industry and its jobs, and settles a long-running fight over animal welfare in the city.",
+      "background": "The City Council recently passed Romanch's Law, which would ban horse-drawn carriages in Central Park. The mayor has a chance to sign or veto it at a City Hall hearing. Drivers say they backed him and expected support.",
+      "facts": [
+        { "text": "Drivers, industry representatives and advocates lined up at City Hall on Wednesday asking Mamdani to veto the bill.", "refs": ["a1a81f1ada", "5c712f5ef1"] },
+        { "text": "Mamdani said he is still signing the bill, per amNY.", "refs": ["a1a81f1ada"] },
+        { "text": "The New York Post reports Transit Workers Union members said they felt left in the wind.", "refs": ["5c712f5ef1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "a1a81f1ada", "note": "Leads with drivers' plea and the mayor's decision to sign." },
+        { "ref": "5c712f5ef1", "note": "Emphasizes a sense of betrayal, quoting a driver who thought the mayor stood with them." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a1a81f1ada", "takeaway": "Straight account of the hearing and the mayor's stance.", "read_full": false },
+        { "ref": "5c712f5ef1", "takeaway": "Focus on workers' anger at the mayor.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "street-vendor-crackdown",
+      "headline": "Street vending enforcement is up under Mamdani, Gothamist reports",
+      "region": "City Hall",
+      "importance": 3,
+      "summary": "Gothamist reports enforcement against street vendors has risen sharply this year compared with 2025, despite Mamdani's pledge of support for vendors. Only Gothamist among the outlets in today's digest covers it.",
+      "why_it_matters": "Vendors, many of them immigrants, face fines and confiscations that affect their income. Only one outlet in our sources covers this, so the details are not independently confirmed.",
+      "background": "Street vendors have long worked in a legal gray zone with limited permits. Mamdani campaigned with pledges to support them. Gothamist's report looks at how enforcement is playing out in his first year.",
+      "facts": [
+        { "text": "Street vending enforcement has increased sharply this year compared to 2025, per Gothamist.", "refs": ["fe50bb8ff7"] },
+        { "text": "Gothamist says Mamdani pledged support for vendors.", "refs": ["fe50bb8ff7"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "fe50bb8ff7", "takeaway": "Digest summary only: enforcement is up despite the mayor's pledge.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "sunset-park-fire",
+      "headline": "Six killed in Sunset Park fire, NYT reports",
+      "region": "Brooklyn",
+      "importance": 4,
+      "summary": "The New York Times reports six people were killed and seven injured in a fire that engulfed a two-story building in Sunset Park, Brooklyn. Only the Times headline and summary are available to us, and a web search turned up no other reports yet.",
+      "why_it_matters": "A fire this deadly raises questions about building safety and housing conditions in the neighborhood. Details on the cause have not been reported in our sources.",
+      "background": "Sunset Park is a densely built Brooklyn neighborhood with many low-rise residential and mixed-use buildings. Fire officials typically investigate the cause after such fires. No cause had been reported in the material we could see.",
+      "facts": [
+        { "text": "Six people were killed and seven injured in a fire that engulfed a two-story building in Sunset Park, per the NYT.", "refs": ["61a32eef98"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "61a32eef98", "takeaway": "Paywalled; headline and summary only.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "nyc-w1", "url": "https://keyt.com/news/2026/09/29/new-york-judge-orders-city-to-scrap-mamdanis-rollout-of-tax-on-second-homes/", "title": "New York judge orders city to scrap Mamdani's rollout of tax on second homes", "outlet": "KEYT" }
+  ]
+}

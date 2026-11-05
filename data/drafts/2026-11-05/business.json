@@ -1,0 +1,165 @@
+{
+  "stories": [
+    {
+      "id": "stocks-rally-democratic-sweep",
+      "headline": "Stocks rise and Treasury yields fall after Democrats win Congress",
+      "region": "Markets",
+      "importance": 5,
+      "summary": "U.S. stocks rose on Wednesday after Democrats won control of Congress in Tuesday's midterms, with market data showing the Dow up about 3% and the Nasdaq up about 1.4%. Reporting attributes the move to investor expectations of political gridlock and tighter fiscal discipline, which also pushed Treasury yields to multi-week lows and lifted gold. Technology and AI-linked shares lagged, and Reuters reported S&P 500 futures steady on Thursday with the Nasdaq trailing on chip weakness.",
+      "why_it_matters": "Lower Treasury yields can eventually ease borrowing costs such as mortgage rates, which sit near 7.2%. Gains in the stock market also flow through to retirement accounts, though some analysts warn the rally may be getting ahead of itself.",
+      "background": "Voters elected a new Congress on Tuesday, and outlets across the spectrum report that Democrats won both chambers while President Trump remains in office. Investors have historically viewed divided government as a brake on big new spending and policy swings. The 10-year Treasury yield had been near 5%, a level that has weighed on stocks and housing. Some right-leaning outlets also flag possible Democratic scrutiny of Wall Street, crypto, prediction markets and AI data centers.",
+      "facts": [
+        { "text": "Reuters reported that Wall Street ended higher after Democrats won Congress, while data center stocks tumbled.", "refs": ["38b32a7a04"] },
+        { "text": "The Wall Street Journal and the New York Times both reported stocks rising as investors anticipated gridlock in Washington.", "refs": ["afd2195bad", "1a955dc22b"] },
+        { "text": "The Wall Street Journal reported Treasury and European bond yields fell as markets priced in fiscal restraint, and that gold rose to a two-week high on a softer dollar and lower yields.", "refs": ["866cb1e8bd", "053e7128b2"] },
+        { "text": "Reuters reported the Canadian dollar hit a seven-week high on the election result.", "refs": ["4ea0d585f3"] },
+        { "text": "The Wall Street Journal reported AI stocks continued to weaken globally on Thursday.", "refs": ["c0ffa991e3"] },
+        { "text": "CNBC reported that Jim Cramer cautioned investors may be reading too much into the post-election rally.", "refs": ["5d82b1f1fd"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "a4d6f8f284", "note": "Fox Business frames the rally around the Democratic sweep itself." },
+        { "ref": "65414cf3b7", "note": "The New York Post leads with the risk of a Democratic crackdown on Wall Street, crypto and AI." },
+        { "ref": "97a37684b1", "note": "The Financial Times emphasizes a bet that the result empowers moderates, and plays down sector losers." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "38b32a7a04", "takeaway": "Wire recap of the close; headline only in the digest, with data center stocks as the notable loser.", "read_full": false },
+        { "ref": "afd2195bad", "takeaway": "Paywalled; summary says stocks surged on the blue wave.", "read_full": false },
+        { "ref": "1a955dc22b", "takeaway": "Paywalled; summary ties the gain to expected gridlock.", "read_full": false },
+        { "ref": "866cb1e8bd", "takeaway": "Paywalled; summary on bond yields falling on fiscal-restraint hopes.", "read_full": false },
+        { "ref": "5d82b1f1fd", "takeaway": "Caution from a market commentator that the rally may be overdone.", "read_full": false },
+        { "ref": "65414cf3b7", "takeaway": "Summary focuses on possible regulatory targets under Democrats.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "data-center-ballot-backlash",
+      "headline": "Voters reject data centers at the ballot box; AI firms offer concessions",
+      "region": "AI",
+      "importance": 5,
+      "summary": "Voters in dozens of places approved restrictions or bans on AI data centers in Tuesday's elections, outlets report, and data center stocks fell. On Thursday OpenAI pledged to pay for the power its data centers use and to protect ratepayers, while Axios reported the industry is offering cash and concessions to win over local communities.",
+      "why_it_matters": "Data centers can raise local electricity demand and bills, so the votes show where residents are pushing back. Limits on construction could slow the AI buildout that has driven much of the stock market's recent gains.",
+      "background": "AI companies have been building large data centers, a buildout Axios puts at about $10 trillion. Local concerns include power prices, water use and land. Several outlets say the issue helped Democrats in some races. Analysts quoted by CNBC and the Wall Street Journal's summary suggest large firms such as Amazon and Microsoft could benefit from a shakeout among smaller operators.",
+      "facts": [
+        { "text": "The New York Post reported that voters rejected data centers in nearly 50 ballot initiatives, while Axios put the tally at 43 to 1 against the industry; the two outlets count differently.", "refs": ["4f198ee5de", "1fc1b5bd01"] },
+        { "text": "The Japan Times reported that voters in dozens of U.S. cities approved restrictions or outright bans on data centers.", "refs": ["38bb43b5c4"] },
+        { "text": "Fox Business and Reuters both reported that data center stocks fell on fears of new restrictions.", "refs": ["e07a5556ac", "38b32a7a04"] },
+        { "text": "CNBC reported OpenAI pledged to seek community input, publish construction plans and protect ratepayers.", "refs": ["aad71b78f1"] },
+        { "text": "Axios reported that the industry is repackaging the buildout, including calling data centers 'compute campuses', and offering concessions.", "refs": ["1fc1b5bd01"] },
+        { "text": "CNBC reported the results could raise the value of existing AI capacity while adding pressure on debt-funded 'neocloud' companies.", "refs": ["79a194e2e3"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How lopsided the ballot results were",
+          "positions": [
+            { "claim": "Nearly 50 anti-data-center initiatives passed.", "refs": ["4f198ee5de"] },
+            { "claim": "Voters sided against the industry 43 to 1 in ballot measures.", "refs": ["1fc1b5bd01"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "4f198ee5de", "note": "Leads with a setback for Elon Musk and other 'tech bigwigs'." },
+        { "ref": "fd34247f98", "note": "Ties the backlash to Democratic wins in key races." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "4f198ee5de", "takeaway": "Summary stresses the scale of the vote and the blow to tech leaders.", "read_full": false },
+        { "ref": "aad71b78f1", "takeaway": "Covers OpenAI's ratepayer pledge.", "read_full": false },
+        { "ref": "1fc1b5bd01", "takeaway": "Focuses on the industry's rebrand and concessions.", "read_full": false },
+        { "ref": "fd34247f98", "takeaway": "Says data centers lost overwhelmingly where explicitly on the ballot.", "read_full": false },
+        { "ref": "26b11e2ffd", "takeaway": "Paywalled; summary says Big Tech giants may benefit from a shakeout.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "earnings-chips-snap-rheinmetall",
+      "headline": "Qualcomm, Snap and Rheinmetall fall on earnings; Arm forecasts higher",
+      "region": "Earnings",
+      "importance": 4,
+      "summary": "Qualcomm fell about 7% after a weak earnings forecast, which it tied to a memory shortage weighing on smartphone sales. Snap dropped more than 10% after missing on revenue and daily users, and Germany's Rheinmetall fell about 17% after cutting its 2026 sales target for a second time. Arm, by contrast, forecast third-quarter revenue above estimates.",
+      "why_it_matters": "Rising memory costs can make phones and other devices more expensive. The mixed results show that investors are now sorting AI winners from losers rather than buying the sector as a whole.",
+      "background": "Earnings season reports how companies did over the last quarter and what they expect next. Qualcomm makes chips for phones. Arm licenses chip designs. Snap runs the Snapchat app. Rheinmetall is a German defense contractor whose growth depends on government orders.",
+      "facts": [
+        { "text": "CNBC reported Qualcomm stock fell 7% after better-than-expected results but a weak forecast, with a memory shortage weighing on smartphone sales.", "refs": ["bde8dbc2e8"] },
+        { "text": "MarketWatch reported Qualcomm faces the loss of Apple's business and higher memory costs.", "refs": ["eca2812520"] },
+        { "text": "CNBC reported Snap fell over 10% after missing on third-quarter revenue and daily active users.", "refs": ["12e7db00c3"] },
+        { "text": "Reuters reported Arm forecast third-quarter revenue above estimates on AI spending.", "refs": ["d8e26df5ce"] },
+        { "text": "CNBC and the Financial Times reported Rheinmetall shares fell 17% after it cut its 2026 outlook, citing delays to a German military order including the Boxer vehicle.", "refs": ["51906e696a", "c5b350a6f9"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "bde8dbc2e8", "takeaway": "Focuses on the weak guidance and memory shortage.", "read_full": false },
+        { "ref": "eca2812520", "takeaway": "Adds the loss of Apple's business as a second pressure.", "read_full": false },
+        { "ref": "12e7db00c3", "takeaway": "Short earnings recap of Snap's miss.", "read_full": false },
+        { "ref": "d8e26df5ce", "takeaway": "Wire headline on Arm's above-estimate forecast.", "read_full": false },
+        { "ref": "51906e696a", "takeaway": "Reports the second outlook cut in three months.", "read_full": false },
+        { "ref": "c5b350a6f9", "takeaway": "Paywalled; summary ties the cut to the Boxer order delay.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "cvs-split",
+      "headline": "CVS Health plans to split off its pharmacy chain",
+      "region": "Earnings",
+      "importance": 3,
+      "summary": "CVS Health announced plans to separate its retail pharmacy chain from its insurance and benefits businesses, which include Aetna and Caremark. The New York Times reports the breakup is planned for 2028.",
+      "why_it_matters": "CVS is one of the largest U.S. healthcare companies, so a split could affect pharmacies, drug benefits and insurance. Outlets have not yet reported what it means for store closures or prices.",
+      "background": "CVS grew into a conglomerate by combining drugstores, the insurer Aetna and the pharmacy benefit manager Caremark. The Guardian describes it as the largest U.S. healthcare conglomerate, valued at $117 billion. CNBC reports analysts think a roughly two-year turnaround has left the pharmacy business strong enough to stand alone.",
+      "facts": [
+        { "text": "The Guardian and CNN reported CVS will split into two companies, separating the pharmacy chain from the insurance and benefits units.", "refs": ["6950dade11", "09fbef0c39"] },
+        { "text": "The New York Times reported the breakup is planned for 2028, with insurance and pharmacy benefits kept together.", "refs": ["78864a689d"] },
+        { "text": "CNBC reported analysts say the pharmacy unit may now be strong enough to stand alone.", "refs": ["729869828c"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "78864a689d", "note": "Frames the split as the end of a bigger-is-better era." },
+        { "ref": "729869828c", "note": "Frames it as a sensible move after a turnaround." },
+        { "ref": "c6e019dade", "note": "Fox Business asks about drug prices, store closures and competition." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "6950dade11", "takeaway": "Explains what separates from what.", "read_full": false },
+        { "ref": "78864a689d", "takeaway": "Paywalled; gives 2028 timing.", "read_full": false },
+        { "ref": "729869828c", "takeaway": "Analyst view on why now.", "read_full": false },
+        { "ref": "c6e019dade", "takeaway": "Headline only; focuses on consumer impact questions.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "jobs-trade-fed-global-rates",
+      "headline": "ADP shows 86,000 jobs added; trade deficit stays high as ECB and BOE lean toward hikes",
+      "region": "Economy",
+      "importance": 4,
+      "summary": "ADP reported private employers added 86,000 jobs in October, slightly above expectations, and Reuters reported the September trade deficit narrowed slightly with imports at a record high. Abroad, euro zone inflation rose to 4% and a European Central Bank hike looks nearly certain, while the Bank of England is expected to raise rates on Thursday, pushing the pound to its strongest in a decade. At the Fed, a White House panel delayed a hearing on Governor Lisa Cook to Dec. 14.",
+      "why_it_matters": "Steady hiring with high inflation keeps interest rates elevated, which affects mortgage and loan costs. Tariffs have not shrunk the trade gap, according to the New York Times.",
+      "background": "ADP is a payroll processor whose monthly report is an early read on the labor market ahead of the government's jobs data. The market data shows the Fed funds rate at 3.88% and U.S. CPI inflation at 3.72%, with unemployment at 4.2%. President Trump tried to fire Fed governor Lisa Cook in August 2025; CNBC reports the Supreme Court blocked that in June for now. Energy prices tied to the war in Iran have pushed inflation up in Europe.",
+      "facts": [
+        { "text": "CNBC reported private companies added 86,000 jobs in October, slightly higher than expected, according to ADP.", "refs": ["b04a2bbd77", "b076f49189"] },
+        { "text": "Reuters reported the U.S. trade deficit narrowed slightly in September while imports hit a record high.", "refs": ["d3b7dd1f44"] },
+        { "text": "The New York Times reported the deficit has stayed high despite President Trump's efforts to reduce it with tariffs.", "refs": ["52827dee30"] },
+        { "text": "CNBC reported euro zone inflation reached 4% in October, the first time in three years, driven by energy; Reuters said an ECB rate hike looks nearly certain.", "refs": ["9726a247b6", "e8a05c749c"] },
+        { "text": "Bloomberg and the Guardian reported the pound hit its highest level since the 2016 Brexit vote, with Bloomberg citing expectations of a Bank of England hike.", "refs": ["678851dd9a", "8f628657ea"] },
+        { "text": "CNBC reported a White House panel delayed the hearing on Fed governor Lisa Cook to Dec. 14.", "refs": ["13bd99edd9", "efdacfc58a"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "a543dee653", "note": "Fox Business stresses the report beat expectations." },
+        { "ref": "b04a2bbd77", "note": "CNBC stresses that hiring held steady with gains across sectors." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "b04a2bbd77", "takeaway": "ADP jobs recap with the 86,000 figure.", "read_full": false },
+        { "ref": "d3b7dd1f44", "takeaway": "Wire headline on the narrowing deficit and record imports.", "read_full": false },
+        { "ref": "52827dee30", "takeaway": "Paywalled; ties the deficit to tariff policy.", "read_full": false },
+        { "ref": "9726a247b6", "takeaway": "Euro zone inflation and energy drivers.", "read_full": false },
+        { "ref": "8f628657ea", "takeaway": "Pound at a ten-year high after a dollar fall.", "read_full": false },
+        { "ref": "13bd99edd9", "takeaway": "Gives the Dec. 14 date and the Supreme Court background.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": []
+}
