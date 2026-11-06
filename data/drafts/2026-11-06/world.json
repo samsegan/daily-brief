@@ -1,0 +1,243 @@
+{
+  "stories": [
+    {
+      "id": "europe-flight-bomb-hoaxes",
+      "headline": "Hoax bomb threats disrupt dozens of flights across Europe",
+      "region": "Europe",
+      "importance": 5,
+      "summary": "A second wave of bomb threats on Thursday targeted dozens of passenger flights in Europe, causing unplanned landings and fighter-jet escorts. Authorities have found no explosives and officials have called the threats hoaxes. More threats were reported on Friday, and no source has been publicly identified.",
+      "why_it_matters": "Travelers in Europe may face diversions and delays while authorities treat each threat as real. Airlines and governments are weighing how to respond to repeated hoaxes.",
+      "background": "Bomb threats against flights are routinely treated as real until searched, which forces diversions, inspections and sometimes military escorts. An initial wave earlier this week was followed by a larger one on Thursday that touched several countries. Officials have described the threats as malicious hoaxes. The BBC reported there is no hard evidence so far linking them to Russia, Iran or any proxy groups.",
+      "facts": [
+        { "text": "Bomb threats targeted more than a dozen flights in Europe on Thursday, leading to emergency landings and military escorts in some cases, and no hazardous materials were found, AP reported.", "refs": ["1d0e04506b", "dd87cf4a03"] },
+        { "text": "Reuters described Thursday's wave as a dramatic escalation after an initial wave earlier in the week, with fighter jets escorting or intercepting some planes.", "refs": ["8641702099"] },
+        { "text": "The Guardian reported at least 35 planes searched or diverted this week, and a Tarom flight from Prague to Bucharest was among the latest believed affected.", "refs": ["72ce0af5d0"] },
+        { "text": "The BBC reported there is no hard evidence so far linking the threats to Russia, Iran or proxy groups.", "refs": ["413516c6ba"] },
+        { "text": "The New York Times reported more threats on Friday and said officials had not reported finding any explosives.", "refs": ["9a7c7f38f7"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "413516c6ba", "note": "Focuses on who might be responsible and stresses the lack of evidence tying it to any state." },
+        { "ref": "c2fdb95684", "note": "Leads with the scale of disruption and fighter jets scrambled." },
+        { "ref": "3cf2fe4e83", "note": "Explainer angle on what airlines and passengers go through when a threat is received." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "dd87cf4a03", "takeaway": "Wire report: scale of Thursday's threats and the official's 'malicious' hoax description.", "read_full": false },
+        { "ref": "413516c6ba", "takeaway": "Analysis of possible culprits; cautious about attribution.", "read_full": false },
+        { "ref": "8641702099", "takeaway": "Reuters report on the escalation, with escorts and interceptions.", "read_full": false },
+        { "ref": "72ce0af5d0", "takeaway": "Live blog with the running tally of affected flights.", "read_full": false },
+        { "ref": "9a7c7f38f7", "takeaway": "Paywalled: summary only, notes Friday threats and airspace anxiety.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "paraguay-president-resigns-bank-collapse",
+      "headline": "Paraguay's president resigns after digital bank collapse freezes savings",
+      "region": "Americas",
+      "importance": 5,
+      "summary": "Santiago Peña resigned on Thursday after the collapse of Ueno Bank, which left millions of people's accounts frozen. Prosecutors said he is under criminal investigation and will seek charges. Thousands protested outside Congress.",
+      "why_it_matters": "Depositors in Paraguay are cut off from their savings, and the country's reputation with foreign investors is shaken. A Trump ally leaving office also matters for US ties in the region.",
+      "background": "Paraguay is a fast-growing South American economy that has attracted investors and built close ties with the United States. Peña, a rightwing president, led a government that the Guardian says authorised Ueno Bank to expand its operations sharply before it failed. The collapse froze accounts and set off the country's worst financial crisis in decades, according to the New York Times. Congress moved toward impeachment as protests grew.",
+      "facts": [
+        { "text": "Peña resigned on Thursday after the bank collapse; the Guardian reported millions of people's savings were frozen.", "refs": ["fa785fffce"] },
+        { "text": "Paraguayan prosecutors announced Peña is under criminal investigation and said they will seek charges, PBS reported.", "refs": ["521e5c15ff"] },
+        { "text": "Thousands of Paraguayans gathered outside Congress on Thursday to protest, The Hindu reported.", "refs": ["691c918de7"] },
+        { "text": "Peña apologized for failing to prevent the country's worst financial crisis in decades, the New York Times reported.", "refs": ["3689cabd76"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "fa785fffce", "note": "Emphasizes ordinary savers and the administration's role in letting the bank expand." },
+        { "ref": "9bfe021d1b", "note": "Headline stresses the fall of a Trump ally." },
+        { "ref": "9df6b32c72", "note": "Headline focuses on the shock to a fast-growing economy that investors liked." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "fa785fffce", "takeaway": "Details the savings freeze and the government's role in the bank's growth.", "read_full": false },
+        { "ref": "521e5c15ff", "takeaway": "Covers the criminal investigation and resignation timeline.", "read_full": false },
+        { "ref": "691c918de7", "takeaway": "Focuses on street protests outside Congress.", "read_full": false },
+        { "ref": "9bfe021d1b", "takeaway": "Paywalled: headline frames Peña as a Trump ally.", "read_full": false },
+        { "ref": "9df6b32c72", "takeaway": "Paywalled: summary stresses investor and US-ties angle.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "france-cost-of-living-protests",
+      "headline": "Hundreds of thousands join French cost-of-living strikes and protests",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Unions, teachers and transport workers struck and marched across France on Thursday over wages and prices. Outlets reported largely peaceful marches with clashes and tear gas in some cities. The government is also struggling to pass a budget.",
+      "why_it_matters": "Strikes can disrupt transport and services in France, and the pressure on the government affects whether it can pass a budget.",
+      "background": "French unions and left-wing groups have been protesting rising living costs for weeks. Thursday was the largest day of action, with hundreds of events nationwide. President Emmanuel Macron's government is trying to push a budget through parliament. Unions said prices are rising while wages and pensions are not.",
+      "facts": [
+        { "text": "The interior ministry gave a final estimate of more than half a million people across 193 events, Bloomberg reported.", "refs": ["b109d7d085"] },
+        { "text": "Protests were largely peaceful but there were reports of escalation in Paris, DW reported.", "refs": ["a3f177690d"] },
+        { "text": "Main unions said 'everything is going up except wages and pensions,' NBC reported.", "refs": ["4bf05d6318"] },
+        { "text": "Teachers, transport employees and other union workers walked off the job, and police used tear gas as they cleared protesters, CBS reported.", "refs": ["2013a7cf75", "23cf1f7973"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many people took part",
+          "positions": [
+            { "claim": "About 600,000, according to the interior ministry; unions said the number was far higher.", "refs": ["ba26403f95"] },
+            { "claim": "An estimated 270,000 nationwide.", "refs": ["91ad2845b9"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "91ad2845b9", "note": "Frames it as left-wing groups' mobilization pressuring Macron, with the lowest crowd figure." },
+        { "ref": "4bf05d6318", "note": "Leads with clashes and riot police." },
+        { "ref": "a3f177690d", "note": "Stresses cost-of-living anger and that protests were largely peaceful." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ba26403f95", "takeaway": "Gives the ministry and union turnout figures side by side.", "read_full": false },
+        { "ref": "a3f177690d", "takeaway": "Cost-of-living focus, mostly peaceful.", "read_full": false },
+        { "ref": "4bf05d6318", "takeaway": "Focus on clashes and tear gas.", "read_full": false },
+        { "ref": "91ad2845b9", "takeaway": "Political-pressure angle; 270,000 estimate.", "read_full": false },
+        { "ref": "b109d7d085", "takeaway": "Paywalled: summary gives final ministry count and budget context.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "israel-eisenkot-government-formation",
+      "headline": "Eisenkot gains majority backing to try to form Israel's next government",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "After the October 27 election, 67 lawmakers recommended Gadi Eisenkot to form a government and 46 recommended Prime Minister Benjamin Netanyahu. President Isaac Herzog said he will announce his choice on Sunday, November 8.",
+      "why_it_matters": "Who leads Israel's next government will shape policy on the war, security and domestic politics. Outcomes depend on coalition arithmetic still being settled.",
+      "background": "Israel held a general election on October 27. Under Israeli procedure, the president consults party leaders, then asks one lawmaker to try to build a majority coalition. Eisenkot is the main opposition rival to Netanyahu. Reports say Arab-party seats grew after outrage over Netanyahu's policies.",
+      "facts": [
+        { "text": "Herzog said he will announce on Sunday, Nov. 8, whom he will task with forming a government.", "refs": ["dbcc24f902", "224e6e44a1"] },
+        { "text": "46 lawmakers recommended Netanyahu and 67 backed Eisenkot, France 24 reported.", "refs": ["224e6e44a1"] },
+        { "text": "The Hindu reported Eisenkot also received a recommendation from a key lawmaker from the Israeli-Arab minority and that a religious party dropped Netanyahu.", "refs": ["effca7c57f"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "b4dcd993f8", "note": "Leads with Herzog's undecided position and Eisenkot's endorsements." },
+        { "ref": "9b8e410e09", "note": "Emphasizes the role of Arab lists in Eisenkot's backing." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "b4dcd993f8", "takeaway": "Herzog still undecided; Eisenkot's 67 endorsements.", "read_full": false },
+        { "ref": "58fb0e32b6", "takeaway": "Short wire report on the Sunday decision pledge.", "read_full": false },
+        { "ref": "effca7c57f", "takeaway": "Notes religious party dropping Netanyahu.", "read_full": false },
+        { "ref": "224e6e44a1", "takeaway": "Gives the recommendation counts.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "hong-kong-macau-security-sentences",
+      "headline": "Joshua Wong gets 10 more years in Hong Kong; Macau jails ex-lawmaker Au Kam San for 12.5 years",
+      "region": "Asia-Pacific",
+      "importance": 4,
+      "summary": "A Hong Kong court sentenced activist Joshua Wong to 10 more years under the national security law. On Friday a Macau court gave former lawmaker Au Kam San 12 years and six months in the city's first national security trial. These are two separate cases.",
+      "why_it_matters": "The sentences show how national security laws are being applied to political activists in both Chinese-ruled cities, affecting freedom of speech and assembly there.",
+      "background": "Hong Kong's national security law was imposed by Beijing in 2020, and Wong, 30, is already serving a term of four years and eight months from the city's biggest national security case. He is the only activist prosecuted twice under the law. Macau widened its national security laws in 2023. Au Kam San co-organized annual Tiananmen vigils that were once tolerated there.",
+      "facts": [
+        { "text": "Wong was sentenced to 10 years after earlier pleading guilty in a second national security case, the Guardian reported.", "refs": ["551fb86c6f"] },
+        { "text": "Critics say the case reflects the crackdown on Hong Kong's pro-democracy movement, NPR reported.", "refs": ["cdbb2ad099"] },
+        { "text": "Rep. John Moolenaar, chair of the House Select Committee on China, called Wong a 'hero' and condemned the sentence.", "refs": ["29168b6543"] },
+        { "text": "Au Kam San was sentenced to 12 years and six months for 'subversion against the political power of the state,' the BBC reported.", "refs": ["1fa742f063", "171fa26b48"] },
+        { "text": "Au is the first person convicted under Macau's national security laws widened in 2023, The Hindu reported.", "refs": ["70f1dc3533"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "29168b6543", "note": "Leads with a US Republican lawmaker's condemnation." },
+        { "ref": "cdbb2ad099", "note": "Stresses critics' view of a crackdown on the democracy movement." },
+        { "ref": "3a51d05c42", "note": "Notes that the vigils Au organized were previously tolerated." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "551fb86c6f", "takeaway": "Details Wong's second prosecution.", "read_full": false },
+        { "ref": "cdbb2ad099", "takeaway": "Includes critics' view of the crackdown.", "read_full": false },
+        { "ref": "29168b6543", "takeaway": "US political reaction.", "read_full": false },
+        { "ref": "1fa742f063", "takeaway": "Straight report of the Macau sentence.", "read_full": false },
+        { "ref": "70f1dc3533", "takeaway": "Gives the 2023 law context for the Macau case.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-russia-ukraine-deal-claim",
+      "headline": "Trump says Ukraine deal could involve 'all of Europe' after meeting Russian envoy",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "President Trump said a deal on Ukraine might involve all of Europe and indicated he had met a Kremlin envoy at the White House. Separately, the death toll from Monday's Russian strike on an aid distribution point in Zaporizhzhia region rose to 53, per the governor.",
+      "why_it_matters": "A deal affecting Ukraine and wider European security could change the terms of the war and Europe's defense. The Hindu reported Europeans fear being sidelined.",
+      "background": "Russia has fought a full-scale invasion of Ukraine for years, and the US has pushed peace talks. Trump has said he is close to an agreement with Putin. Ukraine and its European allies want a say in any settlement. No details of the proposed deal were reported in these outlets.",
+      "facts": [
+        { "text": "Trump said, 'There's going to be an agreement. It's going to be a big agreement, and it's going to involve more than Ukraine,' the Kyiv Independent reported.", "refs": ["d3e8363c5c"] },
+        { "text": "The New York Times reported Trump indicated he met a Kremlin envoy hosted at the White House on Thursday.", "refs": ["f781f078a8"] },
+        { "text": "The Hindu wrote the comments will fuel European fears that Trump is pivoting toward the Kremlin.", "refs": ["75b5318c4e"] },
+        { "text": "The death toll from Russia's strike on an aid point in Zaporizhzhia region reached 53, the governor said, per Reuters.", "refs": ["e2822f9feb", "0649eb1ccb"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "df1fb8b83d", "note": "Headline says Trump 'teases' a deal, relaying his claim." },
+        { "ref": "e0f2492835", "note": "Headline says Trump and Putin 'plot' a deal, implying secrecy." },
+        { "ref": "75b5318c4e", "note": "Emphasizes European fears of a deal unfavorable to Ukraine." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d3e8363c5c", "takeaway": "Quotes Trump's claim and notes talks ahead.", "read_full": false },
+        { "ref": "f781f078a8", "takeaway": "Paywalled: summary says Trump met a senior Russian official.", "read_full": false },
+        { "ref": "75b5318c4e", "takeaway": "Adds European concern.", "read_full": false },
+        { "ref": "0649eb1ccb", "takeaway": "Death toll in Komyshuvakha strike rises to 53.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "british-doctor-ebola-congo",
+      "headline": "British doctor with Ebola evacuated from Congo to London",
+      "region": "Africa",
+      "importance": 3,
+      "summary": "A British doctor who tested positive for Ebola in Congo was evacuated to a London hospital. The UK government said the risk to the British public is low.",
+      "why_it_matters": "The case shows how a large outbreak in Africa can reach other countries, though UK officials say public risk is low.",
+      "background": "An Ebola outbreak in Africa has spread widely across the continent and, according to the New York Times, has killed more than 5,000 people. Health workers are among those exposed while treating patients. The British patient was moved to the UK for treatment on Thursday.",
+      "facts": [
+        { "text": "The UK government said the British man being treated in Congo would be evacuated to Britain.", "refs": ["cf5e79d45b"] },
+        { "text": "AP and Reuters reported the doctor was taken to a London hospital.", "refs": ["f72a6c56b6", "065053383d"] },
+        { "text": "The government said risk to the British public is low, and the outbreak has killed more than 5,000 people, the New York Times reported.", "refs": ["acfedb7255"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "cf5e79d45b", "note": "Describes a 'British man' being treated and evacuated." },
+        { "ref": "f72a6c56b6", "note": "Identifies him as a doctor and focuses on arrival in London." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "cf5e79d45b", "takeaway": "Government announcement of evacuation.", "read_full": false },
+        { "ref": "f72a6c56b6", "takeaway": "Doctor's arrival at London hospital.", "read_full": false },
+        { "ref": "acfedb7255", "takeaway": "Paywalled: adds low-risk statement and outbreak toll.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nigeria-court-atiku-candidacy",
+      "headline": "Nigerian court voids Atiku's candidacy and removes opposition ADC leadership",
+      "region": "Africa",
+      "importance": 3,
+      "summary": "A Nigerian Federal High Court nullified Atiku Abubakar's candidacy for the 2027 election and removed the ADC party's leadership and candidates. Atiku said he will appeal and seek a stay.",
+      "why_it_matters": "If upheld, the ruling would bar a major challenger to the ruling APC from fielding candidates, shaping voters' options.",
+      "background": "The African Democratic Congress (ADC) is a major opposition challenger to the ruling All Progressives Congress. Atiku Abubakar is a leading presidential contender. The ruling came two months before the election, according to ABC. Appeals could change the outcome.",
+      "facts": [
+        { "text": "The judgement, if upheld, means the ADC is barred from fielding candidates in upcoming general elections, per Premium Times via AllAfrica.", "refs": ["ad88514ff7"] },
+        { "text": "The BBC reported the high court sacked the ADC leadership.", "refs": ["85f5fe53c7"] },
+        { "text": "Atiku said he will appeal, and his campaign council disputed the ruling's legal basis and will seek interim relief.", "refs": ["2c2b31166a"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "d0219fba19", "note": "Stresses timing, complicating the electoral process two months out." },
+        { "ref": "85f5fe53c7", "note": "Emphasizes the candidate cannot stand and the party leadership was removed." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ad88514ff7", "takeaway": "Details the ruling's reach to all ADC candidates.", "read_full": false },
+        { "ref": "d0219fba19", "takeaway": "Election timing focus.", "read_full": false },
+        { "ref": "2c2b31166a", "takeaway": "Atiku's appeal and stay request.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": []
+}

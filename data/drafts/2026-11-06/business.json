@@ -1,0 +1,533 @@
+{
+  "stories": [
+    {
+      "id": "tech-stock-rout",
+      "headline": "Tech stocks drop sharply, pushing the Nasdaq into a correction",
+      "region": "Markets",
+      "importance": 5,
+      "summary": "US tech shares fell steeply on Thursday, with the Nasdaq closing in correction territory, and the selling spread to Asia on Friday. Outlets tied the drop to investor worries about the AI sector after Democratic midterm wins. Nasdaq futures pointed higher Friday morning.",
+      "why_it_matters": "Tech shares make up a large part of many 401(k)s and index funds, so a fall like this shows up in retirement account balances.",
+      "background": "Technology and AI-related companies have driven much of the stock market's gains in recent years, fueled by heavy spending on data centers and chips. Stocks had risen after Tuesday's midterm elections, in which Democrats won control of Congress. On Thursday investors sold tech shares heavily. A correction means an index has fallen at least 10% from its recent peak.",
+      "facts": [
+        {
+          "text": "The Nasdaq composite closed in correction territory in what the WSJ called the market's worst day since last April's tariff turmoil.",
+          "refs": [
+            "c1f584eaad"
+          ]
+        },
+        {
+          "text": "The AP reported the S&P 500 fell 4.4%; the NY Post reported the Nasdaq fell 5.1%.",
+          "refs": [
+            "4d8b28b4ed",
+            "8833458727"
+          ]
+        },
+        {
+          "text": "NPR reported investors feared a Democratic Congress and states would crack down on AI and data centers.",
+          "refs": [
+            "84abf3b6ae"
+          ]
+        },
+        {
+          "text": "Bloomberg reported selling by trend-following systematic funds amplified the drop in the Nasdaq 100.",
+          "refs": [
+            "1fbb71752d"
+          ]
+        },
+        {
+          "text": "Asian tech stocks including SK Hynix, Samsung, SoftBank and TSMC fell on Friday, per CNBC.",
+          "refs": [
+            "4fbe774712"
+          ]
+        },
+        {
+          "text": "Bloomberg reported Taiwan authorized its stabilization fund and imposed short-selling limits after its benchmark entered bear-market territory.",
+          "refs": [
+            "7411cd4fa3",
+            "322a45d274"
+          ]
+        },
+        {
+          "text": "Reuters reported Nasdaq futures rose Friday as chip stocks stabilized.",
+          "refs": [
+            "0d2f87a3ae"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "How much market value was lost",
+          "positions": [
+            {
+              "claim": "About $2.5 trillion wiped from the stock market, per CNN and the WSJ headline.",
+              "refs": [
+                "d376253bff",
+                "c1f584eaad"
+              ]
+            },
+            {
+              "claim": "About $2 trillion, per NPR's headline.",
+              "refs": [
+                "84abf3b6ae"
+              ]
+            },
+            {
+              "claim": "$2.3 trillion in the Nasdaq 100, per Bloomberg; CNBC counted $1 trillion lost by the Magnificent 7.",
+              "refs": [
+                "1fbb71752d",
+                "2572ccceab"
+              ]
+            }
+          ]
+        },
+        {
+          "topic": "What caused the sell-off",
+          "positions": [
+            {
+              "claim": "Fear of an AI and data-center crackdown after Democratic wins.",
+              "refs": [
+                "84abf3b6ae",
+                "efee15f338"
+              ]
+            },
+            {
+              "claim": "A broader 'AI reality check', with the midterms one factor among AI and politics uncertainty.",
+              "refs": [
+                "c1f584eaad",
+                "5ed649db20"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "84abf3b6ae",
+          "note": "Puts the Democratic election result at the center as the trigger."
+        },
+        {
+          "ref": "c1f584eaad",
+          "note": "Frames it as a market-driven 'AI reality check', with the election secondary."
+        },
+        {
+          "ref": "7cf6e7f992",
+          "note": "Turns to the effect on 401(k) savers."
+        },
+        {
+          "ref": "8833458727",
+          "note": "Stresses Democratic wins as a threat to data centers."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "84abf3b6ae",
+          "takeaway": "Explains the political fear behind the drop.",
+          "read_full": false
+        },
+        {
+          "ref": "c1f584eaad",
+          "takeaway": "Headline and summary only (paywalled): market-side framing.",
+          "read_full": false
+        },
+        {
+          "ref": "4d8b28b4ed",
+          "takeaway": "AP wire headline with the S&P 500 percentage.",
+          "read_full": false
+        },
+        {
+          "ref": "8833458727",
+          "takeaway": "Gives the Nasdaq percentage and ties it to data-center policy.",
+          "read_full": false
+        },
+        {
+          "ref": "4fbe774712",
+          "takeaway": "Follows the sell-off into Asian chip stocks.",
+          "read_full": false
+        },
+        {
+          "ref": "1fbb71752d",
+          "takeaway": "Headline and summary only (paywalled): focuses on systematic funds.",
+          "read_full": false
+        },
+        {
+          "ref": "7411cd4fa3",
+          "takeaway": "Headline and summary only (paywalled): Taiwan's response.",
+          "read_full": false
+        },
+        {
+          "ref": "0d2f87a3ae",
+          "takeaway": "Reuters headline on Friday's futures rebound.",
+          "read_full": false
+        },
+        {
+          "ref": "d376253bff",
+          "takeaway": "Headline only: dollar loss figure.",
+          "read_full": false
+        },
+        {
+          "ref": "2572ccceab",
+          "takeaway": "Headline and summary: statistics on losses.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "rate-decisions-boe-fed",
+      "headline": "Bank of England raises rates; Fed expected to follow in December",
+      "region": "Fed",
+      "importance": 4,
+      "summary": "The Bank of England raised its key rate on Thursday for the first time in over three years and warned inflation would climb. In the US, the Fed held rates last week and is widely expected to raise them in December, per the NYT. The US October jobs report is due Friday.",
+      "why_it_matters": "Higher rates raise borrowing costs for mortgages and loans, while paying more on savings.",
+      "background": "Energy prices rose after the Iran war began, adding to inflation pressure in many economies. Central banks that had been cutting or holding rates have been weighing hikes. The Bank of England last held its rate at its September meeting. The Federal Reserve met in late October and left rates unchanged.",
+      "facts": [
+        {
+          "text": "The Bank of England raised interest rates for the first time in more than three years, the NYT reported, and warned inflation would climb to about 5% next year.",
+          "refs": [
+            "70456ad975"
+          ]
+        },
+        {
+          "text": "The Japan Times reported policymakers said inflation pressure from months of high energy prices required a rise now.",
+          "refs": [
+            "2bd09848e6"
+          ]
+        },
+        {
+          "text": "The BBC said most analysts had expected the increase.",
+          "refs": [
+            "127db0d325"
+          ]
+        },
+        {
+          "text": "The NYT reported the Fed held rates at its meeting last week and is widely expected to raise them in December.",
+          "refs": [
+            "756a1319b7"
+          ]
+        },
+        {
+          "text": "New York Fed President John Williams said now is the appropriate time to accumulate more information on the policy stance, per Bloomberg.",
+          "refs": [
+            "48ee1ad698"
+          ]
+        },
+        {
+          "text": "The WSJ is covering the US October jobs report, due Friday.",
+          "refs": [
+            "0f1132f461"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "New Bank of England rate level",
+          "positions": [
+            {
+              "claim": "Rates rose from 3.75% to 4%, per the BBC.",
+              "refs": [
+                "127db0d325"
+              ]
+            },
+            {
+              "claim": "CNBC's summary refers to a key rate of 4.25%.",
+              "refs": [
+                "5303a7848a"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "5303a7848a",
+          "note": "Leads with the inflation warning of near 5%."
+        },
+        {
+          "ref": "82174d5d65",
+          "note": "Explains the effect on savers and homebuyers."
+        },
+        {
+          "ref": "178c4b4a19",
+          "note": "Looks at how the Democratic sweep could change the US rate path."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "127db0d325",
+          "takeaway": "Straight report with the rate move.",
+          "read_full": false
+        },
+        {
+          "ref": "70456ad975",
+          "takeaway": "Headline and summary only (paywalled).",
+          "read_full": false
+        },
+        {
+          "ref": "5303a7848a",
+          "takeaway": "Focuses on the inflation warning; rate figure differs from the BBC.",
+          "read_full": false
+        },
+        {
+          "ref": "2bd09848e6",
+          "takeaway": "Explains the Bank's reasoning.",
+          "read_full": false
+        },
+        {
+          "ref": "756a1319b7",
+          "takeaway": "Headline and summary only (paywalled): Fed outlook.",
+          "read_full": false
+        },
+        {
+          "ref": "48ee1ad698",
+          "takeaway": "Headline and summary only (paywalled): Williams quote.",
+          "read_full": false
+        },
+        {
+          "ref": "82174d5d65",
+          "takeaway": "Explainer for households.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "oil-weekly-drop",
+      "headline": "Oil heads for a sharp weekly fall on Iran war hopes",
+      "region": "Oil",
+      "importance": 3,
+      "summary": "Oil prices fell below $100 a barrel and were set for a large weekly drop after the US midterms. Traders are weighing the chance of a diplomatic end to the Iran war against the risk of renewed escalation.",
+      "why_it_matters": "Oil prices feed into gasoline, heating and shipping costs, so a sustained fall could ease inflation.",
+      "background": "Oil prices climbed after the Iran war began, adding to inflation in many countries. Energy costs have been a central issue for central banks and voters. Markets have been watching whether Washington changes course on Iran after the midterm elections.",
+      "facts": [
+        {
+          "text": "The WSJ reported oil fell below $100 a barrel, with investors focused on Washington's next move on Iran.",
+          "refs": [
+            "1ecc8119f2"
+          ]
+        },
+        {
+          "text": "Reuters reported oil was set for a sharp weekly drop on hopes of more Mideast crude exports.",
+          "refs": [
+            "fad6547739"
+          ]
+        },
+        {
+          "text": "CNBC said investors weighed the risk of renewed escalation against prospects for a diplomatic breakthrough.",
+          "refs": [
+            "d987cd6c8c"
+          ]
+        },
+        {
+          "text": "Bloomberg reported oil swung as traders assessed de-escalation efforts.",
+          "refs": [
+            "7d2b8a482b"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "fad6547739",
+          "note": "Emphasizes the supply outlook from the Middle East."
+        },
+        {
+          "ref": "d987cd6c8c",
+          "note": "Stresses the two-way risk of escalation or a deal."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "fad6547739",
+          "takeaway": "Reuters headline on supply hopes.",
+          "read_full": false
+        },
+        {
+          "ref": "1ecc8119f2",
+          "takeaway": "Headline and summary only (paywalled).",
+          "read_full": false
+        },
+        {
+          "ref": "d987cd6c8c",
+          "takeaway": "Balances escalation and diplomacy risks.",
+          "read_full": false
+        },
+        {
+          "ref": "7d2b8a482b",
+          "takeaway": "Headline and summary only (paywalled): volatility.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "tesla-cybertruck-wind-down",
+      "headline": "Tesla to wind down Cybertruck production at its Texas factory",
+      "region": "Earnings",
+      "importance": 3,
+      "summary": "Elon Musk said in a post on X that Tesla will wind down Cybertruck production at its Texas factory next year. Musk said the change would make room for the Cybercab robotaxi.",
+      "why_it_matters": "It signals where Tesla is putting its money, and Tesla shares are a large holding in many index funds.",
+      "background": "The Cybertruck, an electric pickup, launched with high expectations. Reuters said it has struggled to win appeal. Tesla has been shifting its focus toward robotaxis and robotics under Musk.",
+      "facts": [
+        {
+          "text": "MarketWatch reported Musk said on X Tesla will wind down Cybertruck production at its Texas Gigafactory next year.",
+          "refs": [
+            "293b8f44fe"
+          ]
+        },
+        {
+          "text": "The BBC reported Musk said the space was for production of Cybercabs, driverless taxis.",
+          "refs": [
+            "af31ad6378"
+          ]
+        },
+        {
+          "text": "The FT reported Musk is shifting focus to robotics and AI.",
+          "refs": [
+            "317679822a"
+          ]
+        },
+        {
+          "text": "CNBC reported Tesla and SpaceX lost over $420 billion in combined market value after the midterms.",
+          "refs": [
+            "2ec5637afe"
+          ]
+        },
+        {
+          "text": "Fox Business reported Democrats vowed new investigations of Musk.",
+          "refs": [
+            "9c6577a9c2"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "80a8b760b5",
+          "note": "Reuters headline stresses the truck struggling to win appeal."
+        },
+        {
+          "ref": "af31ad6378",
+          "note": "BBC says Musk 'appears to signal' an end, leaning on his post."
+        },
+        {
+          "ref": "317679822a",
+          "note": "FT stresses the pivot to robotics and AI."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "293b8f44fe",
+          "takeaway": "Reports Musk's X post.",
+          "read_full": false
+        },
+        {
+          "ref": "af31ad6378",
+          "takeaway": "Explains the Cybercab link.",
+          "read_full": false
+        },
+        {
+          "ref": "317679822a",
+          "takeaway": "Headline and summary only (paywalled): pivot angle.",
+          "read_full": false
+        },
+        {
+          "ref": "80a8b760b5",
+          "takeaway": "Reuters headline only.",
+          "read_full": false
+        },
+        {
+          "ref": "2ec5637afe",
+          "takeaway": "Market value loss after midterms.",
+          "read_full": false
+        },
+        {
+          "ref": "9c6577a9c2",
+          "takeaway": "Headline only: congressional scrutiny; Fox is the only right-leaning outlet.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "wendys-rejects-trian-bid",
+      "headline": "Wendy's rejects $1.4 billion buyout bid and adopts a poison pill",
+      "region": "Deals",
+      "importance": 2,
+      "summary": "Wendy's board rejected a $1.4 billion takeover offer led by Nelson Peltz's Trian and adopted a poison pill plan. The board said the offer substantially undervalues the company, per the NY Post.",
+      "why_it_matters": "It shows how a hostile takeover fight over a major fast-food chain could affect shareholders.",
+      "background": "Trian is an activist investment firm led by billionaire Nelson Peltz. It made an unsolicited offer, joined by another group of investment firms, per CBS. A poison pill makes a hostile takeover more costly for a bidder. The AP said Wendy's is preparing for a hostile campaign.",
+      "facts": [
+        {
+          "text": "Wendy's rejected a $1.4 billion offer from Trian Fund Management, per the NY Post and Reuters.",
+          "refs": [
+            "9ef1eb3427",
+            "11d3496d97"
+          ]
+        },
+        {
+          "text": "The NY Post reported the board unanimously opposed the offer.",
+          "refs": [
+            "9ef1eb3427"
+          ]
+        },
+        {
+          "text": "CBS reported the unsolicited offer came from Trian and another group of investment firms.",
+          "refs": [
+            "929ab18f21"
+          ]
+        },
+        {
+          "text": "The AP reported the company is girding for a hostile takeover campaign.",
+          "refs": [
+            "d12daa2e1b"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "9ef1eb3427",
+          "note": "Quotes Wendy's saying the bid undervalues it."
+        },
+        {
+          "ref": "d12daa2e1b",
+          "note": "Frames it as the start of a hostile campaign."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "9ef1eb3427",
+          "takeaway": "Detailed on the price and board stance.",
+          "read_full": false
+        },
+        {
+          "ref": "11d3496d97",
+          "takeaway": "Reuters headline only.",
+          "read_full": false
+        },
+        {
+          "ref": "d12daa2e1b",
+          "takeaway": "AP headline: hostile campaign angle.",
+          "read_full": false
+        },
+        {
+          "ref": "929ab18f21",
+          "takeaway": "Names the bidders.",
+          "read_full": false
+        },
+        {
+          "ref": "1527deafa5",
+          "takeaway": "Headline only (paywalled).",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": []
+}

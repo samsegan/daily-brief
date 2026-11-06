@@ -1,0 +1,32 @@
+{
+  "overview": "Democrats won the House in Tuesday's midterms, and several outlets report Republicans also lost the Senate, with a Mississippi Senate race still uncounted. A sharp tech sell-off pushed the Nasdaq into a correction, which outlets linked to investor worries about AI after the election. Abroad, hoax bomb threats disrupted dozens of European flights, Paraguay's president resigned after a digital bank collapse, and Israel's president will name who forms the next government on Sunday. In New York, six people died in a Sunset Park house fire where a lithium battery was found.",
+  "markets": {
+    "summary": "US tech stocks fell sharply on Thursday and the Nasdaq closed in correction territory, meaning it is more than 10% below a recent high. The Wall Street Journal called it the market's worst day since last April's tariff turmoil, and outlets tied it to fears that a Democratic Congress and states could crack down on AI and data centers. The selling spread to Asian chip and tech shares on Friday, though Nasdaq futures pointed higher in the morning. Oil slipped below $100 a barrel on hopes of a diplomatic end to the Iran war. The Bank of England raised rates and the Fed is widely expected to do the same in December, per the NYT; the US October jobs report is due Friday. Note that some index figures in the quote table are as of different dates.",
+    "movers": [
+      { "symbol": "NASDAQCOM", "why": "Down 5.52% as tech shares sold off over worries about the AI sector after the midterms." },
+      { "symbol": "DJIA", "why": "Fell 3.44% as the tech-led sell-off spread to the broader market." },
+      { "symbol": "DCOILWTICO", "why": "Slipped to just under $100 a barrel as traders weighed hopes of an Iran diplomatic deal against the risk of escalation; this reading is dated Nov. 3, before the latest moves." },
+      { "symbol": "CBBTCUSD", "why": "Bitcoin fell 5.31%; the digest does not give a cause, though it moved with other risk assets." }
+    ],
+    "concept": {
+      "term": "Market correction",
+      "explanation": "A correction is a drop of 10% or more in a stock index from its recent peak, short of the 20% fall usually called a bear market. Corrections are driven by shifts in expectations, such as worries about a hot sector, rising interest rates or political change, and they are common even in healthy markets. For you, the main effect is on retirement and brokerage accounts that hold index funds; a correction on paper only becomes a loss if you sell, and many investors who keep contributing buy shares at lower prices."
+    },
+    "watch": [
+      "Fri Nov 6: US October jobs report",
+      "Sun Nov 8: Israel's president Isaac Herzog announces who he will task with forming a government",
+      "Tue Nov 10: October consumer price index (CPI) inflation report, per third-party calendars",
+      "Tue Dec 8 to Wed Dec 9: Federal Reserve meeting, where the NYT reports a rate rise is widely expected"
+    ]
+  },
+  "trending": [
+    { "title": "Democrats win House and Senate in the midterms", "context": "Wikipedia's news box reports Democratic majorities in both chambers, and the 2026 elections pages drew hundreds of thousands of views.", "signal": "wikipedia_news" },
+    { "title": "Abdul El-Sayed", "context": "The most-viewed Wikipedia page of the day, in the wake of election results.", "signal": "wikipedia" },
+    { "title": "Nithya Raman", "context": "Viewers sought her page after she was projected to defeat Mayor Karen Bass in Los Angeles.", "signal": "wikipedia" },
+    { "title": "Binance hack", "context": "Wikipedia's news box lists US$6.3 billion in digital currency stolen from the exchange.", "signal": "wikipedia_news" },
+    { "title": "Tesla ends Cybertruck production", "context": "Elon Musk said on X that Tesla will wind down Cybertruck production in Texas next year to make room for the Cybercab.", "signal": "bluesky" },
+    { "title": "Dolores Huerta dies at 96", "context": "The labor activist and farmworker organizer died, per Wikipedia's news box.", "signal": "wikipedia_news" },
+    { "title": "Bomb threats divert European flights", "context": "Hoax threats targeted dozens of flights in a second wave on Thursday.", "signal": "bluesky" },
+    { "title": "Flash flood warning", "context": "A weather-alert search with more than 5,000 searches on Google; the digest does not say where.", "signal": "google" }
+  ]
+}

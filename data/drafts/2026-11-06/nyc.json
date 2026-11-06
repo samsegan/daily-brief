@@ -1,0 +1,159 @@
+{
+  "stories": [
+    {
+      "id": "sunset-park-fire",
+      "headline": "Six die in Sunset Park house fire; a lithium battery was found at the scene",
+      "region": "Brooklyn",
+      "importance": 5,
+      "summary": "A three-alarm fire in a Sunset Park home early Thursday killed six people and injured others. Officials have not named a cause, but a lithium-ion battery was found at the scene, and the mayor raised concerns about electric bikes, per the Times.",
+      "why_it_matters": "If a battery is confirmed as the cause, it would add to a run of deadly e-bike and battery fires, which bears on how the city polices battery sales and storage in homes.",
+      "background": "Fires started by lithium-ion batteries in e-bikes and scooters have been a recurring cause of deaths in New York City in recent years. The city has tried to tighten rules on battery sales and standards. This fire broke out around 1:40 a.m. on 58th Street near Seventh Avenue and drew 230 fire and medical personnel. Mayor Zohran Mamdani is the city's current mayor.",
+      "facts": [
+        { "text": "Six people died in a three-alarm fire at a Sunset Park home on 58th Street near Seventh Avenue that began shortly after 1:40 a.m. Thursday, Nov. 5.", "refs": ["d6a6b8e194", "bca7243573", "385a3186a9"] },
+        { "text": "About 230 fire and emergency medical personnel responded, and the cause was not yet clear, per the BBC.", "refs": ["385a3186a9"] },
+        { "text": "A lithium-ion battery was found at the scene, but officials said the exact cause is unknown.", "refs": ["bca7243573", "2fe556efd8"] },
+        { "text": "Gothamist reported that if a battery is confirmed as the cause, 10 people would have died in battery fires in eight days, counting a similar blaze in the Bronx.", "refs": ["2fe556efd8"] },
+        { "text": "The New York Times called it the deadliest fire in the city this year and said Mayor Zohran Mamdani raised concerns about electric bikes.", "refs": ["61a32eef98"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "d6a6b8e194", "note": "Leads with the death toll and the fire's spread through the building; no cause given." },
+        { "ref": "385a3186a9", "note": "Stresses that the cause is unclear and the scale of the emergency response." },
+        { "ref": "2fe556efd8", "note": "Leads with the battery found at the scene and links it to a pattern of battery fires." },
+        { "ref": "61a32eef98", "note": "Places the fire as the year's deadliest and brings in the mayor's e-bike concerns." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d6a6b8e194", "takeaway": "Local straight account of timing, location and where the fire started.", "read_full": false },
+        { "ref": "385a3186a9", "takeaway": "Short international wire-style summary stressing the unknown cause.", "read_full": false },
+        { "ref": "2fe556efd8", "takeaway": "Connects the battery to the recent Bronx fire and a cumulative death count.", "read_full": false },
+        { "ref": "bca7243573", "takeaway": "Basic report of casualties with the battery noted as unconfirmed.", "read_full": false },
+        { "ref": "61a32eef98", "takeaway": "Paywalled; summary only, adds the mayor's reaction.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "pied-a-terre-tax",
+      "headline": "Court lets the city keep rolling out Mamdani's pied-à-terre tax",
+      "region": "City Hall",
+      "importance": 4,
+      "summary": "A New York appeals court has allowed the city to continue implementing its tax on high-value second homes while a legal challenge proceeds, per the Center Square. Coverage in the digest comes only from two right-leaning outlets.",
+      "why_it_matters": "Owners of expensive second homes in the city may face the surcharge for now, and the outcome affects the revenue Mamdani's administration is counting on. Only right-leaning outlets in the digest covered this, so the framing here is one-sided.",
+      "background": "The pied-à-terre surcharge is part of Mayor Mamdani's plan to raise taxes on wealthy owners. A Staten Island judge earlier blocked the rollout, and homeowners have sued over how properties were identified and owners notified. The appellate court has since let the city proceed while the case continues. Bloomberg Tax reported the tax can proceed for now.",
+      "facts": [
+        { "text": "The Center Square reported that a New York appeals court allowed the rollout of Mayor Mamdani's pied-à-terre tax.", "refs": ["529f6a6875"] },
+        { "text": "The New York Sun described the ruling as giving the plan a new lease on life.", "refs": ["4f6ab74eea"] },
+        { "text": "Bloomberg Tax's headline said the tax can proceed for now, according to the appeals court.", "refs": ["nyc-w1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "4f6ab74eea", "note": "Credits a judge and uses 'tax-the-rich' to characterize the plan, emphasizing the political label." },
+        { "ref": "529f6a6875", "note": "Neutral wording about an appeals court allowing the rollout." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "4f6ab74eea", "takeaway": "Headline only; frames the plan as revived.", "read_full": false },
+        { "ref": "529f6a6875", "takeaway": "Headline only; reports the appeals court allowing rollout.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "prop-3-street-projects",
+      "headline": "Voters approve charter change to speed up bike and bus lane projects",
+      "region": "City Hall",
+      "importance": 3,
+      "summary": "A majority of New Yorkers voted Tuesday for Ballot Proposition 3, a City Charter change meant to shorten approval times for street safety projects and make them harder to challenge in court, per amNY. Street advocates told the outlet projects will finish faster.",
+      "why_it_matters": "Bike lanes, bus lanes and similar street changes could reach your block sooner, with fewer lawsuits able to delay them.",
+      "background": "Street safety projects such as bus and bike lanes have often faced long reviews and legal challenges. A charter revision panel under Mayor Mamdani proposed changes in July to speed them up. The changes went to voters as a ballot question on Nov. 3.",
+      "facts": [
+        { "text": "A majority of voters approved Proposition 3, a change to the City Charter, amNY reported.", "refs": ["250bd3665c"] },
+        { "text": "The measure is designed to shorten approval timelines for street safety projects and make them harder to challenge in court.", "refs": ["250bd3665c"] },
+        { "text": "Streetsblog reported in July that the mayor's charter panel wanted to speed up bike and bus lanes.", "refs": ["nyc-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "250bd3665c", "note": "Frames the result through street advocates' expectations of faster projects and fewer lawsuits." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "250bd3665c", "takeaway": "Single-outlet report relying on street-safety advocates; no opposing view in the summary.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "dsny-driver-charged",
+      "headline": "Sanitation truck driver charged in death of Brooklyn pedestrian",
+      "region": "Brooklyn",
+      "importance": 3,
+      "summary": "Police charged Timothy McVey, 41, a city Sanitation worker from Staten Island, over the Oct. 28 crash in Bath Beach that killed Siobhan Lynch. He is charged with failure to yield to a pedestrian and failure to exercise due care.",
+      "why_it_matters": "The case puts city-vehicle driving and pedestrian safety at crossings in the spotlight.",
+      "background": "Siobhan Lynch was struck and killed by a Department of Sanitation garbage truck in Bath Beach on the evening of Oct. 28. Police investigated for about a week before making an arrest on Wednesday. Charges of this type arise under New York's right-of-way law for pedestrians.",
+      "facts": [
+        { "text": "McVey, 41, of Staten Island, was taken into custody Wednesday.", "refs": ["2e0b79edb1", "d55da08ddb"] },
+        { "text": "He is charged with failure to yield to a pedestrian and failure to exercise due care in the Oct. 28 evening crash, authorities said.", "refs": ["5eedece408", "d55da08ddb"] },
+        { "text": "Police allege Lynch, 30, had the right of way when she was struck.", "refs": ["2e0b79edb1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "d55da08ddb", "note": "Says a worker 'arrested for killing' a woman, emphasizing the city employee." },
+        { "ref": "2e0b79edb1", "note": "Calls the victim 'beloved' and stresses she had the right of way." },
+        { "ref": "5eedece408", "note": "Uses 'allegedly' and lists the specific charges." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d55da08ddb", "takeaway": "Focuses on the DSNY employee and the charge.", "read_full": false },
+        { "ref": "2e0b79edb1", "takeaway": "Adds the victim's right-of-way detail and his age and home borough.", "read_full": false },
+        { "ref": "5eedece408", "takeaway": "Most precise on charges and location.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "heastie-celtics-tickets",
+      "headline": "Report: Assembly Speaker Heastie and staff got free Celtics tickets from a gaming company later given a tax break",
+      "region": "Albany",
+      "importance": 2,
+      "summary": "A New York Post investigation reports that Speaker Carl Heastie and his staff received about $14,000 in Boston Celtics tickets from a gambling company that later won a projected $18 million state tax break. Only the Post covered it in the digest.",
+      "why_it_matters": "It bears on how gifts to Albany leaders relate to tax decisions that affect state revenue.",
+      "background": "Carl Heastie is the Assembly Speaker, one of the most powerful figures in Albany. State lawmakers can accept some gifts under ethics rules. The Post says the company later received a tax break.",
+      "facts": [
+        { "text": "The New York Post reported that Heastie and staffers received luxury Celtics tickets worth about $14,000 from a gaming company.", "refs": ["fa25743518"] },
+        { "text": "The Post says the company later won a projected $18 million in state tax breaks.", "refs": ["fa25743518"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "fa25743518", "note": "Sequences the tickets before the tax break, implying a link the summary does not itself establish." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "fa25743518", "takeaway": "The Post's own investigation; no response from Heastie is in the summary.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "low-level-enforcement-tickets",
+      "headline": "South Bronx and East New York lead city in littering and panhandling tickets",
+      "region": "Bronx",
+      "importance": 2,
+      "summary": "A Gothamist analysis found the South Bronx and East New York receive the most littering and panhandling tickets in the city, and that most tickets citywide are ultimately dismissed.",
+      "why_it_matters": "It shows which neighborhoods bear low-level enforcement and whether the tickets stick.",
+      "background": "Police and other agencies issue summonses for minor offenses such as littering and panhandling. Residents and advocates have debated whether this enforcement improves safety or strains relations with police.",
+      "facts": [
+        { "text": "Gothamist's analysis found the South Bronx and East New York lead the city in littering and panhandling tickets.", "refs": ["8a6a66794c"] },
+        { "text": "Most of the tickets citywide are ultimately dismissed, per Gothamist.", "refs": ["8a6a66794c"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "8a6a66794c", "note": "Includes a student worried low-level enforcement will pit police against residents." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "8a6a66794c", "takeaway": "Gothamist's own data analysis; only one outlet in the digest covered it.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "nyc-w1", "url": "https://news.bloombergtax.com/daily-tax-report/nyc-pied-a-terre-tax-can-proceed-for-now-appeals-court-says", "title": "NYC Pied-a-Terre Tax Can Proceed for Now, Appeals Court Says", "outlet": "Bloomberg Tax" },
+    { "id": "nyc-w2", "url": "https://nyc.streetsblog.org/2026/07/20/mamdanis-charter-panel-wants-to-speed-up-bike-and-bus-lanes-by-33", "title": "Mamdani's charter panel wants to speed up bike and bus lanes", "outlet": "Streetsblog NYC" }
+  ]
+}

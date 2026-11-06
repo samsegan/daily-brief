@@ -1,0 +1,253 @@
+{
+  "stories": [
+    {
+      "id": "democrats-midterm-sweep",
+      "headline": "Democrats win the House by a wide margin in the midterms, and wins keep being called",
+      "region": "Elections",
+      "importance": 5,
+      "summary": "Democrats won control of the House in Tuesday's midterm elections, flipping dozens of Republican-held seats, and more races were called on Thursday in Virginia, North Carolina, Arizona and Ohio. Exit and voter polls point to the economy and prices as a main driver of the result. Several outlets also report that Republicans lost control of the Senate.",
+      "why_it_matters": "A Democratic House gives the party subpoena and oversight power over the administration and a say in spending bills, which shapes what Congress can pass for the next two years.",
+      "background": "Midterm elections are held halfway through a president's term and usually go against the president's party. This year the vote followed a period of high prices and the continuing US war with Iran. Republicans had held the House and Senate since the 2024 election. Votes in some close races are still being counted, which is why seat totals keep rising.",
+      "facts": [
+        { "text": "CBS News counts more than three dozen Republican-held House seats flipped by Democrats, and put the number above 40 in its Thursday breakdown.", "refs": ["425c48221c"] },
+        { "text": "Politico reported new Democratic pickups in North Carolina, Virginia and Arizona on Thursday.", "refs": ["5154312bbd"] },
+        { "text": "The Washington Post reported Democrats won two of three battleground House seats in Virginia.", "refs": ["17f26652b8"] },
+        { "text": "The Guardian's live blog reported Democrats exceeding 250 House seats as more races were called.", "refs": ["5c1a467688"] },
+        { "text": "The AP Voter Poll found Republicans were punished over President Trump's economic policies, and CBS exit polls found economic issues that helped Trump in 2024 weighed on his party this year.", "refs": ["68fa26ace4", "674d753fc5"] },
+        { "text": "Axios, citing exit polls, reported young voters swung strongly back toward Democrats after Trump's 2024 gains with them.", "refs": ["9da50dae2c"] },
+        { "text": "Gina Hinojosa, a Democrat, was elected governor of Texas, the first Democrat in that office in decades according to the AP; Republicans still control the state Senate.", "refs": ["c09ad2d805", "ec653a1459"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "5154312bbd", "note": "Credits the result to voters punishing Trump and the GOP over prices and the Iran war." },
+        { "ref": "50c034c438", "note": "Looks ahead to which newly won Democratic seats will be hardest to defend in 2028, playing down the size of the win." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "425c48221c", "takeaway": "Seat-by-seat breakdown of flips.", "read_full": false },
+        { "ref": "5154312bbd", "takeaway": "Roundup of Thursday's new Democratic pickups, with a cause attributed to prices and the war.", "read_full": false },
+        { "ref": "17f26652b8", "takeaway": "Paywalled; headline only, on Virginia results.", "read_full": false },
+        { "ref": "5c1a467688", "takeaway": "Live blog tracking the growing seat count.", "read_full": false },
+        { "ref": "68fa26ace4", "takeaway": "Voter-poll story linking the result to Trump's economic policies.", "read_full": false },
+        { "ref": "674d753fc5", "takeaway": "Exit-poll analysis of why Democrats won.", "read_full": false },
+        { "ref": "9da50dae2c", "takeaway": "Focuses on the swing among young voters.", "read_full": false },
+        { "ref": "50c034c438", "takeaway": "Right-leaning outlet looking at Democrats' 2028 exposure.", "read_full": false },
+        { "ref": "c09ad2d805", "takeaway": "Wire story on Hinojosa starting her transition in Texas.", "read_full": false },
+        { "ref": "ec653a1459", "takeaway": "Paywalled; summary notes Republican resistance in the Texas Senate.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "newsom-death-row-commutation",
+      "headline": "Newsom commutes California's death sentences to life without parole",
+      "region": "California",
+      "importance": 5,
+      "summary": "California Gov. Gavin Newsom said he is commuting every death sentence in the state to life in prison without parole, which affects 548 people per PBS and the New York Times. CBS reports the move does not repeal the death penalty or stop prosecutors from seeking it in future cases.",
+      "why_it_matters": "It is the largest single commutation of death sentences in modern US history, per NBC, and it ends the possibility of execution for roughly a quarter of the people on death row nationwide.",
+      "background": "California has not carried out an execution in about 20 years. Newsom placed a moratorium on executions in 2019 but left hundreds of people on death row. He leaves office in January 2027 and is widely expected to consider a 2028 presidential run. Death penalty opponents had urged him to commute sentences before leaving, while district attorneys and victims' families opposed it.",
+      "facts": [
+        { "text": "Newsom commuted all death sentences in California to life without the possibility of parole, affecting 548 people.", "refs": ["9344591304", "a7f924f809"] },
+        { "text": "Newsom wrote in an open letter that he would reduce every death sentence in the state, NBC News reported.", "refs": ["ad4fe6bccd"] },
+        { "text": "Newsom said capital punishment is incompatible with California's values, according to the Japan Times.", "refs": ["e6911d6084"] },
+        { "text": "The commutation does not repeal California's death penalty or bar prosecutors from seeking it in future cases.", "refs": ["e5c1ef548a"] },
+        { "text": "Phyllis Loya, whose son Larry Lasater, a police officer, was killed in 2005, spoke emotionally against the commutation, the New York Post reported.", "refs": ["25aae8831b"] },
+        { "text": "Newsom's 2019 moratorium halted executions during his tenure but did not reduce any sentences.", "refs": ["us-w1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "ad4fe6bccd", "note": "Stresses the historic scale of the commutation." },
+        { "ref": "25aae8831b", "note": "Leads with a victim's mother and calls those commuted killers, centering the cost to families." },
+        { "ref": "a7f924f809", "note": "Frames it partly through Newsom's possible presidential run and his moral objection to capital punishment." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "9344591304", "takeaway": "Straight account with the 548 figure and the 2019 moratorium background.", "read_full": false },
+        { "ref": "ad4fe6bccd", "takeaway": "Video report emphasizing the breadth of the order.", "read_full": false },
+        { "ref": "25aae8831b", "takeaway": "Victim-family reaction piece.", "read_full": false },
+        { "ref": "a7f924f809", "takeaway": "Paywalled; summary links the move to Newsom's presidential ambitions.", "read_full": false },
+        { "ref": "e6911d6084", "takeaway": "Short summary quoting Newsom on values.", "read_full": false },
+        { "ref": "e5c1ef548a", "takeaway": "Clarifies the legal limits of the order.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "dhillon-doj-resigns",
+      "headline": "Harmeet Dhillon resigns as head of DOJ Civil Rights Division",
+      "region": "Justice Dept.",
+      "importance": 4,
+      "summary": "Harmeet Dhillon, the assistant attorney general who led the Justice Department's Civil Rights Division, resigned Thursday. Outlets call it the first big-name departure from the administration since the midterms. Reports differ on why she left.",
+      "why_it_matters": "The division enforces federal voting, housing, employment and policing laws, so who leads it and what cases it pursues affects people's civil rights protections.",
+      "background": "Dhillon, a Trump ally and California lawyer, led the division through a large overhaul that shifted its focus toward universities and culture-war issues. Attorney General Todd Blanche announced her resignation on social media. Her exit comes after Republicans lost the House in Tuesday's midterms.",
+      "facts": [
+        { "text": "Dhillon resigned from the Justice Department on Thursday.", "refs": ["11aba10a0a", "f9223d1f80"] },
+        { "text": "Attorney General Todd Blanche announced the resignation in a social media post, saying she had led the division with conviction.", "refs": ["c0de8b300c"] },
+        { "text": "She is the first high-level Justice Department official to leave since the midterm results, per The Guardian.", "refs": ["45375105df"] },
+        { "text": "Under Dhillon the division was overhauled with a focus on universities and culture-war issues, NBC News reported.", "refs": ["d0f5517392"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Why Dhillon left",
+          "positions": [
+            { "claim": "A DOJ source told National Review she resigned after it became clear she would not be considered for promotion.", "refs": ["cd29817c74"] },
+            { "claim": "People familiar with the matter told the New York Times the move followed conflicts with Justice Department leaders, including disagreements over legal strategy in the midterm elections.", "refs": ["1af816ccc6"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "d0f5517392", "note": "Ties the exit to the GOP midterm loss and describes her tenure as a massive overhaul targeting universities." },
+        { "ref": "cd29817c74", "note": "Presents the departure as a career decision, citing a DOJ source on promotion." },
+        { "ref": "a9fcba3f75", "note": "Headline describes a radical overhaul of the division." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d0f5517392", "takeaway": "Links the resignation to the midterm loss.", "read_full": false },
+        { "ref": "45375105df", "takeaway": "Calls her controversial and notes she is the first high-level departure.", "read_full": false },
+        { "ref": "cd29817c74", "takeaway": "Cites a DOJ source on promotion prospects.", "read_full": false },
+        { "ref": "a9fcba3f75", "takeaway": "Paywalled; headline only, focuses on the division overhaul.", "read_full": false },
+        { "ref": "11aba10a0a", "takeaway": "Brief straight report of the resignation.", "read_full": false },
+        { "ref": "f9223d1f80", "takeaway": "Wire report; headline only in digest.", "read_full": false },
+        { "ref": "1af816ccc6", "takeaway": "Paywalled; summary points to internal conflicts over election legal strategy.", "read_full": false },
+        { "ref": "c0de8b300c", "takeaway": "Reports Blanche's announcement.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-arch-blocked",
+      "headline": "Judge blocks construction of Trump's 250-foot arch for 14 days",
+      "region": "Courts",
+      "importance": 4,
+      "summary": "A federal judge issued a 14-day temporary restraining order on construction of the 250-foot triumphal arch President Trump wants near Arlington National Cemetery. It came about an hour after the National Capital Planning Commission approved the plans 8-4. The administration had said work could start within a day of the vote.",
+      "why_it_matters": "The ruling pauses a large federal construction project at a site many people visit and that sits beside a national cemetery, while courts decide whether it can proceed.",
+      "background": "The arch is planned for a traffic circle between the Lincoln Memorial and Arlington National Cemetery. Lawsuits challenge the project, and groups have argued it would be disrespectful to those buried at Arlington. A hearing earlier in the case saw the judge voice worry that work could begin without notice, as with the White House East Wing demolition.",
+      "facts": [
+        { "text": "The National Capital Planning Commission approved the arch plans 8-4 on Thursday after hearing more than 100 public comments.", "refs": ["b45a5c22e5", "2cfe3d5722"] },
+        { "text": "Judge Tanya Chutkan issued a temporary restraining order just over an hour after the vote.", "refs": ["3fc9bc64e7"] },
+        { "text": "The order blocks any construction for 14 days.", "refs": ["7ce978363f", "f5e4a61e7a"] },
+        { "text": "The government told the court in a filing last month that work could begin as early as this week.", "refs": ["431cb51d85"] },
+        { "text": "Judge Chutkan said at an earlier hearing she feared waking up to bulldozers at the site.", "refs": ["us-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "50384a362c", "note": "Leads with the panel's green light and puts the court block second." },
+        { "ref": "f5e4a61e7a", "note": "Leads with the judge's order, calling it a major setback for the project." },
+        { "ref": "3a322e5606", "note": "Pre-vote framing of approval arriving while the project is being challenged in court." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "7ce978363f", "takeaway": "Concise explanation of the 14-day order.", "read_full": false },
+        { "ref": "b45a5c22e5", "takeaway": "Covers the commission vote and public comment.", "read_full": false },
+        { "ref": "2cfe3d5722", "takeaway": "Short wire-style summary of vote and order.", "read_full": false },
+        { "ref": "3fc9bc64e7", "takeaway": "Names the judge and timing of the order.", "read_full": false },
+        { "ref": "431cb51d85", "takeaway": "Paywalled; headline and summary only, notes the government's filing.", "read_full": false },
+        { "ref": "50384a362c", "takeaway": "Emphasizes the approval, with details of the site.", "read_full": false },
+        { "ref": "f5e4a61e7a", "takeaway": "Emphasizes the court setback.", "read_full": false },
+        { "ref": "3a322e5606", "takeaway": "Paywalled; preview headline only.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mississippi-senate-too-close",
+      "headline": "Mississippi Senate race still undecided as ballots are counted",
+      "region": "Elections",
+      "importance": 4,
+      "summary": "The Senate race between Democrat Scott Colom and Republican Sen. Cindy Hyde-Smith had not been called as of Thursday, with thousands of provisional ballots still being counted. The New York Times reports Colom holds a slim lead, and CNN and CNBC report a growing fight over how ballots are counted and a likely legal challenge.",
+      "why_it_matters": "A single seat can decide which party controls the Senate, so the outcome affects what judges and laws get approved nationally.",
+      "background": "Mississippi is a heavily Republican state that Trump won by a wide margin, and polls before the election showed Hyde-Smith ahead. Colom, a district attorney, ran a competitive race. Mail ballots received after Election Day are being counted under a rule the Supreme Court upheld, which the campaigns are watching closely.",
+      "facts": [
+        { "text": "Thousands of provisional ballots were still being counted on Thursday, per the BBC.", "refs": ["ce00aa5c10"] },
+        { "text": "The New York Times reports a Democratic challenger has a slim lead and that lawyers and campaign officials are watching the count.", "refs": ["bf66ff33ea"] },
+        { "text": "CBS News called the race a toss-up with a razor-thin margin.", "refs": ["3b6e020f23"] },
+        { "text": "CNBC reported the outcome could depend on mail ballots received after Election Day, whose legality the Supreme Court upheld.", "refs": ["636451bb4b"] },
+        { "text": "The Washington Post reported that Mississippi has no recount law, raising the question of what happens in a near tie.", "refs": ["b80db81dac"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "1e011f4862", "note": "Headline stresses that the race could end up in court." },
+        { "ref": "980b887a7f", "note": "Stresses a growing dispute over the counting process." },
+        { "ref": "b80db81dac", "note": "Focuses on the lack of a recount law and what that means for a close result." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ce00aa5c10", "takeaway": "Explains when results are expected.", "read_full": false },
+        { "ref": "bf66ff33ea", "takeaway": "Paywalled; summary on scrutiny of the vote count and Colom's slim lead.", "read_full": false },
+        { "ref": "3b6e020f23", "takeaway": "Calls the race a toss-up.", "read_full": false },
+        { "ref": "636451bb4b", "takeaway": "Previews a legal fight over late mail ballots.", "read_full": false },
+        { "ref": "1e011f4862", "takeaway": "Right-leaning outlet: headline says it could head to court.", "read_full": false },
+        { "ref": "980b887a7f", "takeaway": "Headline only; fight over ballot counting is growing.", "read_full": false },
+        { "ref": "b80db81dac", "takeaway": "Paywalled; headline on the missing recount law.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "hegseth-impeachment-threat",
+      "headline": "Hegseth vows to stay as impeachment threats grow",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "Defense Secretary Pete Hegseth said he is not leaving the Pentagon despite calls from Democrats and some Republicans to impeach him over the Iran war, and posted a defiant video. Fox News reports he also urged Congress to approve $350 billion for the military. President Trump is sticking with him, per the Washington Times.",
+      "why_it_matters": "The outcome affects who runs the military during an ongoing war, and shows how a Democratic House could use its power after the midterms.",
+      "background": "Rep. Thomas Massie, a Kentucky Republican, introduced eight articles of impeachment against Hegseth in September, including claims he broke the War Powers Resolution by continuing hostilities in Iran without authorization. Democrats led by Rep. Yassamin Ansari introduced a separate resolution in April. A Republican-controlled House was unlikely to advance either, but Democrats won the House in this week's election, which takes effect with the new Congress.",
+      "facts": [
+        { "text": "Hegseth said he is not leaving the Pentagon despite calls for his impeachment.", "refs": ["7639da44c7"] },
+        { "text": "Fox News reported Hegseth asked Congress for $350 billion in military funding and said he would fight the impeachment push.", "refs": ["3df76de3e0"] },
+        { "text": "NBC News reported many lawmakers, including some Republicans, have criticized his handling of the Iran war.", "refs": ["451e5fc8ee"] },
+        { "text": "Democrats have filed articles of impeachment against cabinet members and are also expected to target Trump, NewsNation reported.", "refs": ["b6bd63bbf0"] },
+        { "text": "Massie's articles accuse Hegseth of violating the War Powers Resolution, among other charges; the allegations have not been adjudicated.", "refs": ["us-w3"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "3df76de3e0", "note": "Leads with Hegseth's funding demand and says he fires back at the Democratic push." },
+        { "ref": "046548e224", "note": "Stresses that the threat is bipartisan and tied to the Iran war." },
+        { "ref": "100a1b8a34", "note": "Says his video adds fuel to the impeachment fight." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3df76de3e0", "takeaway": "Hegseth's side: funding request and vow to fight.", "read_full": false },
+        { "ref": "7639da44c7", "takeaway": "Headline only; reports he is staying.", "read_full": false },
+        { "ref": "b6bd63bbf0", "takeaway": "Explainer on cabinet members that could face impeachment.", "read_full": false },
+        { "ref": "451e5fc8ee", "takeaway": "Reports the defiant tone and criticism including from Republicans.", "read_full": false },
+        { "ref": "046548e224", "takeaway": "Video report on bipartisan threats.", "read_full": false },
+        { "ref": "100a1b8a34", "takeaway": "Headline only; focuses on the video's effect.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "raman-wins-la-mayor",
+      "headline": "Nithya Raman defeats Karen Bass to become Los Angeles mayor",
+      "region": "Elections",
+      "importance": 3,
+      "summary": "City Council member Nithya Raman, a democratic socialist, defeated incumbent Mayor Karen Bass in the Los Angeles mayoral race, per Reuters, the BBC, NBC and CBS projections. The BBC notes New York and Los Angeles, the country's two largest cities, will both be led by democratic socialists.",
+      "why_it_matters": "Los Angeles residents will get a new city administration shaped by Raman's housing and public-spending priorities, as the city prepares to host the 2028 Olympics.",
+      "background": "Raman, 45, was the first Democratic Socialists of America-affiliated member of the LA City Council. Bass, 73, was the incumbent. Raman is reported to be bringing in veteran City Hall figures to help build her administration.",
+      "facts": [
+        { "text": "Raman defeated Bass, per Reuters, the BBC and projections by NBC News and CBS News.", "refs": ["f73f872a0f", "c9f02ed29f", "518d5e5eef", "204eb13dc1"] },
+        { "text": "The New York Times describes Raman as 45 and Bass as 73.", "refs": ["4dde6177e5"] },
+        { "text": "Raman is tapping City Hall veterans and former aides to an ex-mayor for her administration, the New York Post reported.", "refs": ["8d723e2582"] },
+        { "text": "Los Angeles is preparing to host the 2028 Olympics.", "refs": ["c7eb19c6bf"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "756bbce458", "note": "Calls it a generational upset." },
+        { "ref": "c28aaf0f8d", "note": "Headline labels her a socialist and asks who she is." },
+        { "ref": "c7eb19c6bf", "note": "Highlights her Indian birth and the global angle." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f73f872a0f", "takeaway": "Wire report of the upset; headline only.", "read_full": false },
+        { "ref": "c9f02ed29f", "takeaway": "Notes both biggest US cities will have democratic socialist mayors.", "read_full": false },
+        { "ref": "518d5e5eef", "takeaway": "Projection with transition plans.", "read_full": false },
+        { "ref": "204eb13dc1", "takeaway": "Projection placed in the context of Democratic wins nationwide.", "read_full": false },
+        { "ref": "4dde6177e5", "takeaway": "Paywalled; summary calls it a success for a new generation of progressives.", "read_full": false },
+        { "ref": "756bbce458", "takeaway": "Paywalled; headline and summary only.", "read_full": false },
+        { "ref": "c28aaf0f8d", "takeaway": "Profile with emphasis on her socialism.", "read_full": false },
+        { "ref": "8d723e2582", "takeaway": "Reports on her staffing picks.", "read_full": false },
+        { "ref": "c7eb19c6bf", "takeaway": "India-angle coverage.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://www.themarshallproject.org/2026/09/10/newsom-california-death-penalty-execution", "title": "Newsom and the California death penalty", "outlet": "The Marshall Project" },
+    { "id": "us-w2", "url": "https://news.bloomberglaw.com/us-law-week/judge-says-she-fears-waking-up-to-bulldozers-in-trump-arch-case", "title": "Judge Says She Fears Waking Up to Bulldozers in Trump Arch Case", "outlet": "Bloomberg Law" },
+    { "id": "us-w3", "url": "https://www.stripes.com/theaters/us/2026-09-15/republican-massie-moves-to-impeach-hegseth-22864402.html", "title": "Republican Massie moves to impeach Hegseth", "outlet": "Stars and Stripes" }
+  ]
+}
