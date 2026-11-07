@@ -1,0 +1,308 @@
+{
+  "stories": [
+    {
+      "id": "iran-strikes-and-talks",
+      "headline": "US carries out new limited strikes on Iran as Tehran weighs mediators' proposals",
+      "region": "Middle East",
+      "importance": 5,
+      "summary": "President Trump said the US military carried out a new round of what he called minor strikes on Iran on Friday, aimed at an air defense system. Iranian media reported explosions on Qeshm Island near the Strait of Hormuz. Separately, officials said Iran is reviewing mediators' proposals that touch on its nuclear program.",
+      "why_it_matters": "The fighting and the threat to shipping in the Gulf and the Strait of Hormuz can affect oil prices and the safety of commercial shipping. A deal on the nuclear program and the strait would be a step toward ending the conflict.",
+      "background": "The US and Iran are in an active conflict that has centered on Iran's nuclear program and shipping through the Strait of Hormuz, a key route for oil. Qatar is the lead mediator, and earlier proposals have included reopening the strait in stages alongside nuclear talks. Iran has long refused to discuss parts of its nuclear program, which is why reports that it is now reviewing proposals on the subject stand out. Earlier this week a prior US attack on Iran was made public, and voters' views of the war were part of coverage of the US midterm elections.",
+      "facts": [
+        { "text": "Trump said the US military carried out a new round of limited strikes on Iran on Friday, targeting an air defense system, and described them as minor.", "refs": ["8acdf42e10", "7cb902d2b3", "fb30c972df"] },
+        { "text": "Iranian state media reported two explosions on Qeshm Island, near the Strait of Hormuz; Tasnim news agency said two missiles struck the island.", "refs": ["7cb902d2b3", "a1e0c5b1b0"] },
+        { "text": "Officials told several outlets Iran is reviewing proposals focused on its nuclear program; The Hindu cited regional officials as saying mediators and Iran have discussed a possible bridge deal to pave the way for further talks.", "refs": ["b6f7371990", "5e2c709fd4", "5b5dcc0bf8"] },
+        { "text": "A diplomat told The Japan Times that Tehran is showing willingness to discuss nuclear issues that were previously off the table.", "refs": ["257e4c29b8"] },
+        { "text": "A Greek-owned tanker, the Velos Sapphire, was struck in the Gulf on Nov. 5 and a seafarer was killed, according to the ship's operator; Iran said two other vessels were on fire.", "refs": ["1839e653c8", "d756763c4b", "911c501eda"] },
+        { "text": "The Guardian reported that Qatar is trying to persuade Tehran to let UN nuclear inspectors visit bombed nuclear sites, and that the Strait of Hormuz could reopen as part of that plan.", "refs": ["6da1f10b9d"] }
+      ],
+      "disputed": [
+        {
+          "topic": "What was hit and what happened on Qeshm Island",
+          "positions": [
+            { "claim": "Trump said US forces destroyed a small anti-aircraft device in minutes.", "refs": ["87f3033a5d", "3906b13897"] },
+            { "claim": "Iranian media said two missiles hit Qeshm Island, and Iran claimed it downed a US drone over the island.", "refs": ["a1e0c5b1b0", "563096f8f8"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "fb30c972df", "note": "Repeats Trump's word 'minor' in the headline and leads with his description of the strikes." },
+        { "ref": "6da1f10b9d", "note": "Leads with the diplomatic track, a Qatari plan tying the strait to inspections." },
+        { "ref": "7cb902d2b3", "note": "Ties the strikes to the US election results and says voters punished the war." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "8acdf42e10", "takeaway": "Reports Trump's announcement and the parallel diplomatic push.", "read_full": false },
+        { "ref": "fb30c972df", "takeaway": "Headline and summary: Trump's 'minor strikes' alongside Iranian reports of missiles.", "read_full": false },
+        { "ref": "7cb902d2b3", "takeaway": "Summary only (paywalled): strikes in the context of the midterms.", "read_full": false },
+        { "ref": "a1e0c5b1b0", "takeaway": "Headline only: relays Tasnim's report of two missiles on Qeshm.", "read_full": false },
+        { "ref": "563096f8f8", "takeaway": "Headline only: Iran's claim of downing a US drone.", "read_full": false },
+        { "ref": "b6f7371990", "takeaway": "Headline only: Iran reviewing nuclear proposals, per officials.", "read_full": false },
+        { "ref": "5e2c709fd4", "takeaway": "Summary: mediators and Iran discussed a possible bridge deal.", "read_full": false },
+        { "ref": "5b5dcc0bf8", "takeaway": "Headline only: cites its own sources on Iran reviewing proposals.", "read_full": false },
+        { "ref": "257e4c29b8", "takeaway": "Summary: a diplomat describes new Iranian flexibility on nuclear issues.", "read_full": false },
+        { "ref": "6da1f10b9d", "takeaway": "Summary: Qatari plan for inspections and a possible Hormuz reopening.", "read_full": false },
+        { "ref": "87f3033a5d", "takeaway": "Summary quotes Trump on the anti-aircraft device.", "read_full": false },
+        { "ref": "3906b13897", "takeaway": "Headline only: carries Trump's description of the target.", "read_full": false },
+        { "ref": "1839e653c8", "takeaway": "Summary names the tanker and cites the operator's statement.", "read_full": false },
+        { "ref": "d756763c4b", "takeaway": "Headline only: suspected missile attack killed a seafarer.", "read_full": false },
+        { "ref": "911c501eda", "takeaway": "Summary: frames the tanker attack as Iran stepping up attacks on shipping.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "kyiv-missile-strikes",
+      "headline": "Russian missiles hit Kyiv and energy sites ahead of talks in Abu Dhabi",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Russia struck Kyiv and the surrounding region with missiles and drones overnight, hitting energy facilities and a major bridge, according to Ukrainian authorities. At least one person was reported killed and several wounded. Ukraine is preparing for new talks with Russia and the US.",
+      "why_it_matters": "Strikes on power and fuel infrastructure affect heating and electricity for civilians heading into winter. The talks could shape whether the fighting slows.",
+      "background": "Russia invaded Ukraine in 2022 and the war has continued since, with Russia repeatedly targeting Ukrainian power and gas infrastructure. Ukraine has struck back at Russian oil facilities. Outlets say Russia recently stepped up air strikes. The US has been involved in diplomacy, and the latest round of trilateral talks with Russia and the US is expected in Abu Dhabi.",
+      "facts": [
+        { "text": "Ballistic missiles damaged Kyiv's Northern Bridge on Friday night; Mayor Vitali Klitschko said five people were injured in the city, including a 14-year-old girl.", "refs": ["7fe2e33fef"] },
+        { "text": "Overnight Friday to Saturday, missile and drone attacks on Kyiv and its region targeted energy infrastructure and killed at least one person and wounded eight, authorities said.", "refs": ["774b036d4e", "ff4e26fcde"] },
+        { "text": "Russia said it hit targets in and around Kyiv in what it described as a massive overnight strike.", "refs": ["a70b6d1405"] },
+        { "text": "President Zelensky accused Moscow of trying to push Ukraine into a blackout ahead of the talks in Abu Dhabi.", "refs": ["cf75f49855"] },
+        { "text": "Bloomberg reported damage to Naftogaz facilities.", "refs": ["ff4e26fcde"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Number of wounded",
+          "positions": [
+            { "claim": "At least five wounded, per AP and ABC.", "refs": ["f8b3a7b0e4", "b163a2a21b"] },
+            { "claim": "At least six injured, per the Kyiv Independent headline; eight wounded and one dead across Kyiv and the region, per authorities cited by France 24.", "refs": ["7fe2e33fef", "774b036d4e"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "7fe2e33fef", "note": "Leads with the missiles and the human toll in the city, including a child." },
+        { "ref": "cf75f49855", "note": "Puts the strikes in the context of the upcoming talks and Zelensky's blackout charge." },
+        { "ref": "ff4e26fcde", "note": "Emphasizes damage to energy company Naftogaz and the civilian death." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "7fe2e33fef", "takeaway": "Local reporting with mayor's casualty figures and bridge damage.", "read_full": false },
+        { "ref": "a70b6d1405", "takeaway": "Headline only: relays Russia's account of the strike.", "read_full": false },
+        { "ref": "774b036d4e", "takeaway": "Summary: energy targets, one killed and eight wounded per authorities.", "read_full": false },
+        { "ref": "cf75f49855", "takeaway": "Summary: bridge and energy hit, ties to Abu Dhabi talks.", "read_full": false },
+        { "ref": "ff4e26fcde", "takeaway": "Summary only (paywalled): energy facilities and civilian casualties.", "read_full": false },
+        { "ref": "f8b3a7b0e4", "takeaway": "Wire headline and summary: five wounded, talks upcoming.", "read_full": false },
+        { "ref": "b163a2a21b", "takeaway": "Same AP wire story, headline only.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "europe-bomb-hoaxes",
+      "headline": "Wave of hoax bomb threats hits European flights and Irish newsrooms",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "At least 20 flights in Europe received hoax bomb threats within hours, and several newsrooms in Ireland were evacuated after false threats. The Irish government said it appears to be a coordinated campaign. European security agencies are reportedly examining whether the threats originated in Russia.",
+      "why_it_matters": "Travelers may face diversions and delays, and aviation authorities say any change in procedures will take a long time.",
+      "background": "Hoax bomb threats against airlines are not new, but officials and experts describe this wave as unusual in volume and timing. The threats have been sent by email to airlines and media organizations. They come amid other security incidents in Europe, including a cyberattack on supermarket refrigeration systems reported by The New York Times. European governments have been urging public resilience and stockpiling.",
+      "facts": [
+        { "text": "At least 20 European flights dealt with bomb threats within hours, and one expert told CBS the pattern suggests 'a very deliberate act'.", "refs": ["fb4a2125b0"] },
+        { "text": "Ireland said the threats to Irish media outlets and European airlines are probably part of a coordinated campaign.", "refs": ["a0e3033170", "7aba9e69b4"] },
+        { "text": "The Financial Times reported that European security agencies are probing whether the hoaxes started in Russia, with a working hypothesis of pro-Kremlin activists or hacking groups.", "refs": ["6c6a9f7345"] },
+        { "text": "CNBC reported that analysts see in-flight targeting as aviation's weakest point and that procedure changes would be slow.", "refs": ["b2a34a4295"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "fb4a2125b0", "note": "Leads with the scale of flights affected and an expert's view that it is deliberate." },
+        { "ref": "6c6a9f7345", "note": "Leads with the possible Russian origin, framed as a working hypothesis." },
+        { "ref": "b2a34a4295", "note": "Focuses on why aviation authorities struggle to respond." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "fb4a2125b0", "takeaway": "Summary: scale of flights affected and expert comment.", "read_full": false },
+        { "ref": "a0e3033170", "takeaway": "Summary only (paywalled): Ireland's coordinated-campaign view.", "read_full": false },
+        { "ref": "7aba9e69b4", "takeaway": "Summary: hoaxes by email, Irish government assessment.", "read_full": false },
+        { "ref": "6c6a9f7345", "takeaway": "Summary only (paywalled): Russia-origin hypothesis.", "read_full": false },
+        { "ref": "b2a34a4295", "takeaway": "Summary: why the threats are hard for aviation authorities to contain.", "read_full": false },
+        { "ref": "86da21d157", "takeaway": "Summary only (paywalled): broader unease over cyberattacks and threats.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "paraguay-pena-impeached",
+      "headline": "Paraguay's Senate removes President Peña over Ueno Bank collapse; he is placed under house arrest",
+      "region": "Americas",
+      "importance": 4,
+      "summary": "Paraguay's Senate removed President Santiago Peña on Friday over the collapse of Ueno Bank, which left millions of customers unable to reach their money. Vice President Pedro Alliana was sworn in as president. Outlets report Peña was then placed under house arrest on suspicion of breach of trust.",
+      "why_it_matters": "Frozen accounts, pension funds and health care funds affect ordinary Paraguayans directly. The case tests how the country handles a banking failure tied to its government.",
+      "background": "Ueno Bank, a digital bank, was seized by regulators earlier this week, freezing customer accounts. Peña was a shareholder in the bank's parent company until 2025, according to AP-based reporting, and the central bank chief he appointed resigned at his request. Protesters gathered outside Congress and opposition lawmakers pursued impeachment. Peña offered to resign, but lawmakers went ahead with the process, which removes protections former presidents enjoy.",
+      "facts": [
+        { "text": "The Senate removed Peña; France 24 reported the vote was unanimous.", "refs": ["9b83bc8558", "7cc72387c2", "96b06a9ea0"] },
+        { "text": "Pedro Alliana was sworn in as president.", "refs": ["8907579a58", "64a1e16198"] },
+        { "text": "Peña was placed under house arrest shortly after, on suspicion of breach of trust, per SCMP.", "refs": ["e21e4393c7", "bc466f090c", "02e43596c2"] },
+        { "text": "Peña had asked for a 72-hour extension to prepare his defense after being served a 15-page indictment, the Hindu reported, citing his post on X.", "refs": ["017e3f92ee"] },
+        { "text": "Public pension and health care funds are also tied up, DW reported.", "refs": ["7cc72387c2"] },
+        { "text": "Regulators seized Ueno Bank earlier this week; Peña was a shareholder in its parent company until 2025.", "refs": ["world-w1"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Share of Paraguayans locked out of their savings",
+          "positions": [
+            { "claim": "Nearly half of Paraguayans, per France 24.", "refs": ["9b83bc8558"] },
+            { "claim": "About 60% of the country, per The Guardian headline.", "refs": ["d94247d118"] }
+          ]
+        },
+        {
+          "topic": "Whether Peña was impeached or resigned",
+          "positions": [
+            { "claim": "Peña offered to resign, but lawmakers proceeded with impeachment.", "refs": ["64dd63425e", "9b83bc8558"] },
+            { "claim": "Peña skipped the trial and was removed by the Senate, per ABC.", "refs": ["2ce1b00d88"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "6711a37a18", "note": "Stresses the speed of the arrest, minutes after removal." },
+        { "ref": "9555efad41", "note": "Explainer approach focused on how the bank failure toppled the president." },
+        { "ref": "2ce1b00d88", "note": "Focuses on Peña's absence from the trial." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "9b83bc8558", "takeaway": "Summary: unanimous removal and house arrest.", "read_full": false },
+        { "ref": "7cc72387c2", "takeaway": "Summary: ousted, frozen accounts and funds.", "read_full": false },
+        { "ref": "96b06a9ea0", "takeaway": "Headline only: Senate votes to impeach.", "read_full": false },
+        { "ref": "8907579a58", "takeaway": "Headline only: Alliana sworn in.", "read_full": false },
+        { "ref": "64a1e16198", "takeaway": "Summary: Alliana became president Friday.", "read_full": false },
+        { "ref": "e21e4393c7", "takeaway": "Summary only (paywalled): house arrest on suspicion of breach of trust.", "read_full": false },
+        { "ref": "bc466f090c", "takeaway": "Headline only: Reuters on house arrest after impeachment.", "read_full": false },
+        { "ref": "02e43596c2", "takeaway": "Headline only: AP on house arrest.", "read_full": false },
+        { "ref": "017e3f92ee", "takeaway": "Summary: Peña's request for extra time.", "read_full": false },
+        { "ref": "d94247d118", "takeaway": "Summary: protests and the 60% figure.", "read_full": false },
+        { "ref": "64dd63425e", "takeaway": "Summary: resignation offer versus impeachment.", "read_full": false },
+        { "ref": "6711a37a18", "takeaway": "Headline only (paywalled): arrest minutes after ouster.", "read_full": false },
+        { "ref": "9555efad41", "takeaway": "Summary: explainer on how the bank collapse unfolded.", "read_full": false },
+        { "ref": "2ce1b00d88", "takeaway": "Summary: Peña skipped the Senate trial.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "tanzania-lissu-sentenced",
+      "headline": "Tanzanian opposition leader Tundu Lissu cleared of treason, sentenced to four years for incitement",
+      "region": "Africa",
+      "importance": 4,
+      "summary": "A Tanzanian court on Friday acquitted opposition leader Tundu Lissu of treason but sentenced him to four years in prison for incitement. The conviction relates to statements before the October 2025 presidential election. Avoiding a treason conviction means he avoided a possible death sentence.",
+      "why_it_matters": "The case is a gauge of political freedom and the treatment of opposition figures in Tanzania after a disputed election.",
+      "background": "Lissu leads the opposition and has been detained since April last year, according to the BBC. His treason trial followed Tanzania's disputed presidential election in October 2025 and a deadly crackdown on protests. He says the charges are politically motivated.",
+      "facts": [
+        { "text": "The court acquitted Lissu of treason, finding prosecutors had not proven he intended to intimidate the government, and sentenced him to four years for inciting people to disrupt last year's election.", "refs": ["a6aa382b99", "da4b1f5394"] },
+        { "text": "Lissu has been detained since April last year and says the charges are politically motivated.", "refs": ["a3c55c34d0"] },
+        { "text": "Lissu condemned the incitement conviction, which he said was not among the charges he faced, according to DW via AllAfrica.", "refs": ["8e220a9efb"] },
+        { "text": "The election was disputed and followed by a deadly crackdown, RFI reported.", "refs": ["9eb084f54a"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "a3c55c34d0", "note": "Leads with both outcomes and includes Lissu's claim of political motivation." },
+        { "ref": "efa47b7ae0", "note": "Focuses on the four-year sentence and the pre-election statements." },
+        { "ref": "8e220a9efb", "note": "Highlights Lissu's objection that incitement was not a charge." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a6aa382b99", "takeaway": "Wire story: sentence and treason acquittal reasoning.", "read_full": false },
+        { "ref": "da4b1f5394", "takeaway": "Headline only: Reuters on the verdict.", "read_full": false },
+        { "ref": "a3c55c34d0", "takeaway": "Summary: context on detention and his political-motive claim.", "read_full": false },
+        { "ref": "8e220a9efb", "takeaway": "Summary: DW report with Lissu's objection.", "read_full": false },
+        { "ref": "9eb084f54a", "takeaway": "Summary: RFI report on the election and crackdown.", "read_full": false },
+        { "ref": "efa47b7ae0", "takeaway": "Summary only (paywalled): incitement conviction over pre-election remarks.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "new-zealand-election-close",
+      "headline": "New Zealand election too close to call as Opportunity Party emerges as possible kingmaker",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "Early results in New Zealand's election show the governing National-led coalition and Labour neck-and-neck, and neither bloc is on track for a majority. Bloomberg reported that the centrist Opportunity Party could play a kingmaker role and is on track to enter parliament for the first time.",
+      "why_it_matters": "The outcome decides who governs and may take days of coalition talks to settle.",
+      "background": "New Zealand elects its parliament by proportional representation, so coalitions are usual. Strict election-day rules limit political reporting while voting is under way.",
+      "facts": [
+        { "text": "Early counts showed the two main parties near deadlocked, and AP said the result was too close to call.", "refs": ["f73c92de14", "18d6cd6b5d"] },
+        { "text": "With about half the votes counted, projections showed both blocs might need the Opportunity Party, Bloomberg reported.", "refs": ["9a53d6e32c"] },
+        { "text": "The Hindu said the vote remained too close to call on Nov. 7, with minor parties, including a rising Opportunity Party, weighing in.", "refs": ["19d8e6f2b2"] },
+        { "text": "The Guardian said polls showed no coalition expected to secure a majority of seats.", "refs": ["bf47260ffe"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "9a53d6e32c", "note": "Emphasizes the Opportunity Party as kingmaker." },
+        { "ref": "18d6cd6b5d", "note": "Plain 'too close to call' framing." },
+        { "ref": "738a2e3b8f", "note": "Mentions New Zealand's election-day reporting restrictions." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f73c92de14", "takeaway": "Headline only: early count deadlocked.", "read_full": false },
+        { "ref": "9a53d6e32c", "takeaway": "Summary only (paywalled): kingmaker role for Opportunity.", "read_full": false },
+        { "ref": "18d6cd6b5d", "takeaway": "Headline only: AP says too close to call.", "read_full": false },
+        { "ref": "19d8e6f2b2", "takeaway": "Summary: results trickling in, minor parties.", "read_full": false },
+        { "ref": "bf47260ffe", "takeaway": "Summary: live coverage, no majority expected.", "read_full": false },
+        { "ref": "738a2e3b8f", "takeaway": "Summary: half counted and reporting rules.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "malaysia-najib-house-arrest",
+      "headline": "Malaysia's king says Najib house-arrest order must be respected as attorney general seeks delay",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "Malaysian former prime minister Najib Razak's move to house arrest was put on hold on Friday after a court order allowed it. On Saturday the king warned that challenging his order could amount to defying his decree, while the attorney general defended the delay.",
+      "why_it_matters": "The dispute tests the limits of the king's pardon power against the government's legal office.",
+      "background": "Najib, a former prime minister, has been in jail since 2022 after a conviction in a corruption case. King Sultan Ibrahim granted him a conditional pardon in September, which allowed house arrest once a fine was paid. Najib's party announced it paid the fine, and a court issued an order allowing the transfer, his lawyer said.",
+      "facts": [
+        { "text": "The king granted Najib a conditional pardon in September, and his party paid the fine, a condition for house arrest.", "refs": ["e5350e9459", "8b54ced6c6"] },
+        { "text": "A court order allowing the transfer was issued, according to his lawyer, but the transfer was put on hold.", "refs": ["8b54ced6c6", "130986793a"] },
+        { "text": "The king said there was no ambiguity about his pardon and warned that challenging it could amount to defying his authority; the attorney general's office had called for a delay.", "refs": ["7b8e46bb3c", "5312f30f02"] },
+        { "text": "The attorney general defended halting the order despite the palace warning.", "refs": ["ccd98473d8"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "e5350e9459", "note": "Leads with the fine paid, as a step toward house arrest." },
+        { "ref": "130986793a", "note": "Leads with Najib staying in prison after the hold." },
+        { "ref": "7b8e46bb3c", "note": "Leads with the king's insistence of no ambiguity." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e5350e9459", "takeaway": "Summary: fine paid, pardon in September.", "read_full": false },
+        { "ref": "8b54ced6c6", "takeaway": "Summary: court order, per his lawyer.", "read_full": false },
+        { "ref": "130986793a", "takeaway": "Headline only: house arrest put on hold.", "read_full": false },
+        { "ref": "7b8e46bb3c", "takeaway": "Summary only (paywalled): king says no ambiguity.", "read_full": false },
+        { "ref": "5312f30f02", "takeaway": "Headline only: Reuters on king's warning.", "read_full": false },
+        { "ref": "ccd98473d8", "takeaway": "Headline only: attorney general defends halt.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "yemen-taiz-market-strike",
+      "headline": "Airstrikes on a Yemeni market kill at least 30, with blame disputed",
+      "region": "Middle East",
+      "importance": 3,
+      "summary": "Airstrikes on a market in al-Waziyah in Yemen's Taiz province killed at least 30 people and wounded 15, according to a Houthi health ministry spokesperson. The Houthis blamed Saudi airstrikes, while government forces and local authorities disputed that.",
+      "why_it_matters": "It is a reminder that civilians in Yemen continue to be killed in a conflict that often gets less attention.",
+      "background": "Yemen has been split for years between the Houthi movement, which controls the north and the capital, and the internationally recognized government backed by Saudi Arabia. Taiz province has seen intense fighting. Claims about casualties from areas under Houthi control come mostly from Houthi sources.",
+      "facts": [
+        { "text": "A Houthi health ministry spokesperson, Anees Alsabahi, told Houthi-run Al Masirah TV that at least 30 were killed and 15 wounded in the strikes on the al-Waziyah market.", "refs": ["959742056a", "d8c4597c23"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Who attacked the market",
+          "positions": [
+            { "claim": "Houthis blamed Saudi airstrikes.", "refs": ["78cf161095"] },
+            { "claim": "Government forces and local authorities rejected that and accused the Houthis of indiscriminate fire.", "refs": ["78cf161095"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "d8c4597c23", "note": "Headline attributes the toll to the Houthis." },
+        { "ref": "78cf161095", "note": "Presents both sides' accounts of responsibility." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d8c4597c23", "takeaway": "Headline only: toll attributed to Houthis.", "read_full": false },
+        { "ref": "959742056a", "takeaway": "Summary: names the Houthi spokesperson and location.", "read_full": false },
+        { "ref": "78cf161095", "takeaway": "Summary: includes the disputed blame.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [{"id":"world-w1","url":"https://mynews13.com/fl/orlando/ap-top-news/2026/11/03/paraguay-seizes-major-digital-bank-tied-to-president-leaving-millions-of-customers-in-limbo","title":"Paraguay seizes major digital bank tied to president, leaving millions of customers in limbo","outlet":"AP via Spectrum News 13"}]
+}

@@ -1,0 +1,4840 @@
+{
+ "date": "2026-11-07",
+ "generated_at": "2026-11-07T11:41:44Z",
+ "ingested_at": "2026-11-07T11:38:44Z",
+ "overview": "Democrats won majorities in both the House and the Senate in Tuesday's midterm elections, according to Wikipedia's news summary, and President Trump replaced chief of staff Susie Wiles with adviser Stephen Miller, the AP and CBS reported. Global stocks fell sharply this week as investors questioned heavy spending on artificial intelligence, while the October jobs report came in stronger than forecast. Abroad, bomb threats diverted flights across Europe, and New Zealand voted in a general election.",
+ "sections": [
+  {
+   "id": "us",
+   "title": "United States",
+   "stories": [
+    {
+     "id": "miller-chief-of-staff",
+     "headline": "Trump names Stephen Miller White House chief of staff, replacing Susie Wiles",
+     "region": "White House",
+     "importance": 5,
+     "summary": "President Trump said Friday that Stephen Miller, his top immigration adviser, will become White House chief of staff, replacing Susie Wiles. The move came days after Republicans lost the midterms. Democrats criticized the pick, and Sen. Thom Tillis, a Republican, said Trump should rethink it.",
+     "why_it_matters": "The chief of staff runs the White House and shapes what the president hears, so this choice signals how the administration plans to deal with a Democratic-led Congress, including on immigration policy.",
+     "background": "Susie Wiles became the first woman to serve as White House chief of staff when Trump returned to office. Stephen Miller has been a close Trump adviser for years and is known as the main architect of the administration's immigration crackdown. The change follows midterm elections in which Democrats won the House majority, per the coverage. Tillis is a Republican senator from North Carolina who has criticized Trump advisers before.",
+     "facts": [
+      {
+       "text": "Trump confirmed that Wiles will step down and Miller will replace her; Trump said 'I wanted to make a change.'",
+       "refs": [
+        "533775c3cf",
+        "b43fe65246"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "Miller has led the administration's immigration and mass-deportation policies and has been their public face.",
+       "refs": [
+        "533775c3cf",
+        "9696c6da06"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "Sen. Thom Tillis (R-N.C.) called Miller 'the worst of all possible choices' and said Trump 'needs to rethink' the decision.",
+       "refs": [
+        "148291b876"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Democratic lawmakers criticized the appointment, using terms such as 'hatemonger' and 'xenophobe', per the Guardian.",
+       "refs": [
+        "9496121a3a"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The Hill reported the pick sets up a contentious two years with the incoming Democratic House majority.",
+       "refs": [
+        "5e342cdc28"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "b493ccc932",
+       "note": "Ties the change to the GOP's midterm defeat in the headline."
+      },
+      {
+       "ref": "b43fe65246",
+       "note": "Uses Trump's own explanation and the word 'installs'; plays down the reaction."
+      },
+      {
+       "ref": "148291b876",
+       "note": "Leads with a Republican senator's objection, stressing intra-party dissent."
+      },
+      {
+       "ref": "9496121a3a",
+       "note": "Emphasizes bipartisan criticism and calls the appointment 'dangerous' in the headline."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "b493ccc932",
+       "kind": "article",
+       "source_id": "ap",
+       "outlet": "Associated Press",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVHdReU5NTkhUSUdyRGlEeFF3YVVOaW9PMjdJOUtSd2YwdEpzUUM5WmhtRlJ1NFNrekdLZjM3Y0RSeTIwQ0xwQW5xaHJhUnFrSlhHZm1HZmdzcjFlZzcydHVhV3dLQ1U4X21vakg3a01ONi1VREdFc1pJMVB2S3JXVEN4clJyR182NnBBSG9WcWQtQXNpSVQzQw?oc=5",
+       "title": "Stephen Miller replaces Susie Wiles as Trump's White House chief of staff after GOP's midterm defeat",
+       "published_at": "2026-11-07T01:37:00Z",
+       "read_full": false,
+       "takeaway": "AP news story linking the change to the midterm loss (headline and link only)."
+      },
+      {
+       "id": "b43fe65246",
+       "kind": "article",
+       "source_id": "cbs",
+       "outlet": "CBS News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles/",
+       "title": "Trump installs Stephen Miller as chief of staff, replacing Susie Wiles",
+       "published_at": "2026-11-07T01:40:50Z",
+       "read_full": false,
+       "takeaway": "CBS report built around Trump's stated reason."
+      },
+      {
+       "id": "533775c3cf",
+       "kind": "article",
+       "source_id": "guardian",
+       "outlet": "The Guardian",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+       "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+       "published_at": "2026-11-07T01:38:06Z",
+       "read_full": false,
+       "takeaway": "Guardian news report centered on Miller's immigration role."
+      },
+      {
+       "id": "9496121a3a",
+       "kind": "article",
+       "source_id": "guardian",
+       "outlet": "The Guardian",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react",
+       "title": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff",
+       "published_at": "2026-11-07T10:00:08Z",
+       "read_full": false,
+       "takeaway": "Guardian roundup of Democratic and some Republican reaction."
+      },
+      {
+       "id": "9696c6da06",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/11/06/us/politics/stephen-miller-white-house-chief-staff.html",
+       "title": "What to Know About Stephen Miller, Trump’s New Chief of Staff",
+       "published_at": "2026-11-07T02:56:14Z",
+       "read_full": false,
+       "takeaway": "NYT explainer on Miller (paywalled, summary only)."
+      },
+      {
+       "id": "148291b876",
+       "kind": "article",
+       "source_id": "thehill",
+       "outlet": "The Hill",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://thehill.com/homenews/administration/6205824-tillis-slams-trump-miller-hire/",
+       "title": "Tillis says Miller is 'worst of all possible choices' for chief of staff role",
+       "published_at": "2026-11-07T04:12:52Z",
+       "read_full": false,
+       "takeaway": "The Hill on Tillis's criticism."
+      },
+      {
+       "id": "5e342cdc28",
+       "kind": "article",
+       "source_id": "thehill",
+       "outlet": "The Hill",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://thehill.com/homenews/administration/6205475-trump-miller-promotion-democrats-majority/",
+       "title": "Trump sends 'clear message' to Democrats with Miller promotion",
+       "published_at": "2026-11-07T11:00:00Z",
+       "read_full": false,
+       "takeaway": "The Hill analysis of the message to the incoming Democratic majority."
+      }
+     ],
+     "lean_counts": {
+      "left": 4,
+      "center": 1,
+      "right": 0,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "mississippi-senate-race",
+     "headline": "Mississippi Senate race between Hyde-Smith and Colom still undecided",
+     "region": "Elections",
+     "importance": 5,
+     "summary": "Days after the midterms, Democrat Scott Colom and Republican Sen. Cindy Hyde-Smith remain separated by a razor-thin margin, with provisional and mail ballots still being reported. Lawyers for both campaigns are preparing for a possible legal fight. Mississippi has no automatic statewide recount.",
+     "why_it_matters": "Control of a Senate seat in a state Democrats haven't won since 1982 hangs on a handful of ballots, and the dispute over voter rolls and ballot counting could affect who gets to vote and how quickly results are certified.",
+     "background": "Hyde-Smith is the Republican incumbent in a state that has not elected a Democratic senator since 1982. Colom, a Democratic prosecutor, mounted a competitive challenge, and independent Ty Pinkins also ran. Mississippi's counting of provisional ballots is slow and decentralized, per NPR. Early-count reports put the two within tens of votes.",
+     "facts": [
+      {
+       "text": "The NYT and CBS reported Colom held a slim lead as more provisional and mail ballots were reported.",
+       "refs": [
+        "9ec6d71ebd",
+        "3b6e020f23"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "NPR reported that no one knows how many ballots are still outstanding, and described Mississippi's process as among the slowest and most decentralized in the country.",
+       "refs": [
+        "0ca137083b"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Axios reported scrutiny of a voter-roll cleanup after some voters said they had problems casting ballots.",
+       "refs": [
+        "a04ea90910"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The BBC reported that lawyers for both campaigns are preparing for a possible legal battle.",
+       "refs": [
+        "28a83dbba6"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Ty Pinkins told CNBC he aimed to boost Colom's vote and avoided campaigning in heavily Black areas.",
+       "refs": [
+        "1ce43c6ffa"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Mississippi has no automatic or candidate-initiated statewide recount law, per Democracy Docket.",
+       "refs": [
+        "us-w1"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "3b6e020f23",
+       "note": "Calls the race 'still a toss-up' while noting the Democrat's slim lead."
+      },
+      {
+       "ref": "a04ea90910",
+       "note": "Focuses on voter-roll problems rather than the horse race."
+      },
+      {
+       "ref": "10749848c2",
+       "note": "Frames it as an upset threat, stressing how unlikely Colom's run looked beforehand."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "3b6e020f23",
+       "kind": "article",
+       "source_id": "cbs",
+       "outlet": "CBS News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/",
+       "title": "Mississippi Senate race still a toss-up; Democrat holds slim lead",
+       "published_at": "2026-11-06T23:13:42Z",
+       "read_full": false,
+       "takeaway": "CBS status report on the lead."
+      },
+      {
+       "id": "1ce43c6ffa",
+       "kind": "article",
+       "source_id": "cnbc",
+       "outlet": "CNBC",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cnbc.com/2026/11/06/mississippi-senate-ty-pinkins-colom-hyde-smith.html",
+       "title": "Mississippi Senate: Longshot Ty Pinkins says he aimed to spoil Hyde-Smith, boost Colom vote",
+       "published_at": "2026-11-06T19:44:33Z",
+       "read_full": false,
+       "takeaway": "CNBC on Pinkins's role."
+      },
+      {
+       "id": "0ca137083b",
+       "kind": "article",
+       "source_id": "npr",
+       "outlet": "NPR",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
+       "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+       "published_at": "2026-11-06T19:50:14Z",
+       "read_full": false,
+       "takeaway": "NPR explainer on the slow ballot process."
+      },
+      {
+       "id": "9ec6d71ebd",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/11/06/us/elections/colom-hyde-smith-mississippi-senate-race.html",
+       "title": "Colom Leads Hyde-Smith in Mississippi Senate Race After Latest Vote Report",
+       "published_at": "2026-11-06T23:15:05Z",
+       "read_full": false,
+       "takeaway": "NYT on the latest vote report (paywalled, summary only)."
+      },
+      {
+       "id": "a04ea90910",
+       "kind": "article",
+       "source_id": "axios",
+       "outlet": "Axios",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.axios.com/2026/11/06/mississippi-colom-hyde-smith-inactive-voter-registrations",
+       "title": "Colom and Hyde-Smith's razor-thin Senate race spotlights Mississippi's voter rolls",
+       "published_at": "2026-11-06T20:26:01Z",
+       "read_full": false,
+       "takeaway": "Axios on voter rolls and access."
+      },
+      {
+       "id": "28a83dbba6",
+       "kind": "article",
+       "source_id": "bbc",
+       "outlet": "BBC News",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.bbc.co.uk/news/articles/cwj0llvqqm72o?at_medium=RSS&at_campaign=rss",
+       "title": "Razor-tight Mississippi Senate race sparks ballot battle - could there be a recount?",
+       "published_at": "2026-11-06T22:22:51Z",
+       "read_full": false,
+       "takeaway": "BBC on recount and legal-battle prospects."
+      },
+      {
+       "id": "10749848c2",
+       "kind": "article",
+       "source_id": "thehill",
+       "outlet": "The Hill",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://thehill.com/homenews/senate/6205607-hyde-smith-colom-mississippi-senate/",
+       "title": "How Scott Colom turned his Mississippi Senate race into a nail-biter",
+       "published_at": "2026-11-07T00:08:20Z",
+       "read_full": false,
+       "takeaway": "The Hill on how Colom made it competitive."
+      },
+      {
+       "id": "us-w1",
+       "kind": "web",
+       "source_id": "",
+       "outlet": "Democracy Docket",
+       "lean": "unrated",
+       "paywalled": false,
+       "url": "https://www.democracydocket.com/news-alerts/mississippi-has-no-recount-law-heres-how-a-battle-over-its-senate-nail-biter-might-play-out/",
+       "title": "Mississippi has no recount law",
+       "published_at": "",
+       "read_full": true,
+       "takeaway": ""
+      }
+     ],
+     "lean_counts": {
+      "left": 4,
+      "center": 3,
+      "right": 0,
+      "unrated": 1
+     }
+    },
+    {
+     "id": "hegseth-impeachment-push",
+     "headline": "Hegseth faces growing impeachment push and bipartisan scrutiny after midterms",
+     "region": "Congress",
+     "importance": 4,
+     "summary": "Defense Secretary Pete Hegseth posted a defiant video as an effort to impeach him over his handling of the Iran war grows. Incoming Democrats plan to target him, and some Republicans have also criticized him. Trump has said Hegseth is doing 'a very good job'.",
+     "why_it_matters": "The outcome affects who leads the military during an active conflict with Iran and how Congress oversees war powers.",
+     "background": "The US is in a war with Iran, which Hegseth has championed. Rep. Thomas Massie, a Kentucky Republican who lost his primary, has said he will reintroduce articles of impeachment in the lame-duck session. House Democrats also introduced articles earlier this year. Democrats won the House majority in this week's midterms.",
+     "facts": [
+      {
+       "text": "Hegseth posted a new video striking a defiant tone and vowing to finish the Iran war.",
+       "refs": [
+        "451e5fc8ee",
+        "cb56c22456",
+        "a8dfa9ec00"
+       ],
+       "outlet_count": 3
+      },
+      {
+       "text": "France 24 reported that Republicans are blaming the Iran war for their election losses and that Trump has stood by Hegseth.",
+       "refs": [
+        "36a09abd57"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Massie said he will reintroduce impeachment articles when Congress returns for the lame-duck session, per ABC affiliates.",
+       "refs": [
+        "us-w2"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The NYT reported an impeachment push could put Hegseth in a standoff with both Democrats and Republicans.",
+       "refs": [
+        "2f056fa1c4"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "451e5fc8ee",
+       "note": "Stresses Hegseth's tone and notes Republican critics too."
+      },
+      {
+       "ref": "a8dfa9ec00",
+       "note": "Frames it as Hegseth vowing to finish the war, playing down the impeachment threat."
+      },
+      {
+       "ref": "36a09abd57",
+       "note": "Emphasizes pressure after the Republican 'rout'."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "cb56c22456",
+       "kind": "article",
+       "source_id": "cnn",
+       "outlet": "CNN",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRGpKbEV0QzNBV1V5ZHZCWHREVjBUcFhJQUQ2ZDNPcG53SGgzQ2NyX2Rlelg3UWJaTllQUGVnSklCNjVfVjB4VUozaUw5UDdqU2k4QlpLa0xUY1owT3FPb1dUUmJsbENqNmxWOGFMMjJpSWtwM1hvZ3lobXZyQzYzZDVGZk5wRGpPNVJDeHpmZzlGNU5aemxz?oc=5",
+       "title": "Defiant Pete Hegseth posts new video as effort to impeach him grows",
+       "published_at": "2026-11-06T12:17:08Z",
+       "read_full": false,
+       "takeaway": "CNN on the growing effort (headline and link only)."
+      },
+      {
+       "id": "451e5fc8ee",
+       "kind": "article",
+       "source_id": "nbc",
+       "outlet": "NBC News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.nbcnews.com/politics/trump-administration/secretary-pete-hegseth-defiant-tone-impeachment-threat-thomas-massie-rcna607788",
+       "title": "Pete Hegseth strikes defiant tone in face of impeachment threat",
+       "published_at": "2026-11-06T04:10:01Z",
+       "read_full": false,
+       "takeaway": "NBC on Hegseth's response and GOP critics."
+      },
+      {
+       "id": "2f056fa1c4",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/11/06/us/politics/hegseth-trump-iran-war.html",
+       "title": "Hegseth Faces Impeachment Effort and Bipartisan Scrutiny After Midterm Elections",
+       "published_at": "2026-11-06T21:27:47Z",
+       "read_full": false,
+       "takeaway": "NYT on bipartisan scrutiny (paywalled, summary only)."
+      },
+      {
+       "id": "36a09abd57",
+       "kind": "article",
+       "source_id": "france24",
+       "outlet": "France 24",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.france24.com/en/video/20261106-pressure-mounts-on-us-defence-chief-hegseth-after-republican-election-rout",
+       "title": "Pressure mounts on US Defence chief Hegseth after Republican election rout",
+       "published_at": "2026-11-06T16:45:03Z",
+       "read_full": false,
+       "takeaway": "France 24 on pressure after the election."
+      },
+      {
+       "id": "a8dfa9ec00",
+       "kind": "article",
+       "source_id": "telegraph",
+       "outlet": "The Telegraph",
+       "lean": "lean_right",
+       "paywalled": true,
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXZXTEY1dGdHdU1JWjVuQk9XTTVsOS1KVjFBLTRYVlo5WkZWSnp0dGg2WmotbXVHOVJyQTZyc0Y2TWUydmJDS3pBQWxQVXRmcmdEd0p3em5XamloMXp0M3d2UWUtVGt6YllaUTdvYjFWYUhyam0zSzRKYzRCWW91WDlma3lTaFlWcFdORGJNZ0wwRHdQcmdWaFRzQlM5a1ZueDZsZHVpMTd0bFhp?oc=5",
+       "title": "Defiant Hegseth vows to finish Iran war",
+       "published_at": "2026-11-06T12:46:00Z",
+       "read_full": false,
+       "takeaway": "Telegraph (paywalled): headline stresses his vow to finish the war."
+      },
+      {
+       "id": "us-w2",
+       "kind": "web",
+       "source_id": "",
+       "outlet": "KATV",
+       "lean": "unrated",
+       "paywalled": false,
+       "url": "https://katv.com/news/nation-world/massie-says-he-will-reintroduce-impeachment-articles-against-hegseth-after-midterms-defense-secretary-congress-mike-johnson-hakeem-jeffries-president-trump-rrt",
+       "title": "Massie says he will reintroduce impeachment articles against Hegseth after midterms",
+       "published_at": "",
+       "read_full": true,
+       "takeaway": ""
+      }
+     ],
+     "lean_counts": {
+      "left": 3,
+      "center": 1,
+      "right": 1,
+      "unrated": 1
+     }
+    },
+    {
+     "id": "doj-resignations",
+     "headline": "Senior Justice Department officials resign, including head of 'grand conspiracy' probe office",
+     "region": "Courts",
+     "importance": 4,
+     "summary": "Jason Reding Quiñones, U.S. attorney for the Southern District of Florida, resigned, the second senior Justice Department departure since the midterms. His office oversaw an investigation into officials involved in earlier probes of Trump. Coverage counts three DOJ officials leaving.",
+     "why_it_matters": "The departures raise questions about the future of politically charged federal investigations and about DOJ leadership going into a Democratic-led Congress.",
+     "background": "The so-called 'grand conspiracy' investigation looks at federal law enforcement officials who took part in prior investigations of Trump. It has been run out of the Southern District of Florida and, per CBS, has had internal disputes. The resignations follow the Republican losses in this week's midterms.",
+     "facts": [
+      {
+       "text": "Quiñones resigned as U.S. attorney for the Southern District of Florida.",
+       "refs": [
+        "ab58eb0490",
+        "20de9a1184",
+        "225501990d"
+       ],
+       "outlet_count": 3
+      },
+      {
+       "text": "The Hindu called it the second senior DOJ departure since the midterms.",
+       "refs": [
+        "5873a0ac81"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The NYT said more departures are expected, including the head of the national security division.",
+       "refs": [
+        "20de9a1184"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "CNN counted three DOJ officials resigning since the midterm losses.",
+       "refs": [
+        "1d945dbb86"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "20de9a1184",
+       "note": "Calls the probe the 'centerpiece of Trump's revenge campaign', a loaded characterization."
+      },
+      {
+       "ref": "ab58eb0490",
+       "note": "Stresses internal disputes within the inquiry."
+      },
+      {
+       "ref": "5873a0ac81",
+       "note": "Neutral wording describing it as an election conspiracy probe."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "ab58eb0490",
+       "kind": "article",
+       "source_id": "cbs",
+       "outlet": "CBS News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cbsnews.com/news/doj-jason-reding-quinones-resigns-grand-conspiracy-probe/",
+       "title": "DOJ official resigns amid questions about \"grand conspiracy\" probe",
+       "published_at": "2026-11-06T23:19:54Z",
+       "read_full": false,
+       "takeaway": "CBS on abrupt resignation and internal disputes."
+      },
+      {
+       "id": "1d945dbb86",
+       "kind": "article",
+       "source_id": "cnn",
+       "outlet": "CNN",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSlowMUczYjZyV2d0VmhKQjhYaHdkZkY1MEwwQ3E2VVVtZ3Q2Uy1iVm1nSmZOeGVncmZ6amZiTGdmSEtvZ1ZUSkp3TGJKRzZDZnJUR216WktPT09Yakpqay1RZHg1WHF4TVBVejlZRkVlRVNQbmR2LXpnSTNjdUtWYXdJdl9tWC1FbWs3aE9wU2NaS3h4SDUyUk1nbW5QTmM?oc=5",
+       "title": "Three Justice Department officials, including man behind Trump’s ‘grand conspiracy’ probe, resign since brutal midterm losses",
+       "published_at": "2026-11-06T15:21:29Z",
+       "read_full": false,
+       "takeaway": "CNN on three departures (headline and link only)."
+      },
+      {
+       "id": "225501990d",
+       "kind": "article",
+       "source_id": "nbc",
+       "outlet": "NBC News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.nbcnews.com/politics/justice-department/trump-doj-appointee-led-grand-conspiracy-probe-trump-foes-resigns-rcna607839",
+       "title": "Top DOJ officials resign after midterm landslide, including head of ‘grand conspiracy’ investigation",
+       "published_at": "2026-11-06T15:59:49Z",
+       "read_full": false,
+       "takeaway": "NBC on the resignation of the probe's head."
+      },
+      {
+       "id": "20de9a1184",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/11/06/us/politics/jason-reding-quinones-resigns.html",
+       "title": "U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns",
+       "published_at": "2026-11-06T18:38:12Z",
+       "read_full": false,
+       "takeaway": "NYT (paywalled, summary only) on expected further exits."
+      },
+      {
+       "id": "5873a0ac81",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/news/international/us-attorney-whose-office-oversaw-trumps-election-conspiracy-probe-resigns/article71675394.ece",
+       "title": "U.S. Attorney whose office oversaw Trump's election conspiracy probe resigns",
+       "published_at": "2026-11-06T17:01:23Z",
+       "read_full": false,
+       "takeaway": "The Hindu on the second departure."
+      }
+     ],
+     "lean_counts": {
+      "left": 4,
+      "center": 1,
+      "right": 0,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "california-ballots-suit",
+     "headline": "Justice Department drops suit over 20,000 California ballots",
+     "region": "Courts",
+     "importance": 3,
+     "summary": "The Justice Department asked to dismiss its own lawsuit that sought to make California set aside about 20,000 ballots it alleged came from noncitizens. The Supreme Court had already ruled against the administration's effort, per the NYT and The Hill.",
+     "why_it_matters": "The ballots will be counted, so those voters' choices stand in California's results.",
+     "background": "The administration sued California to stop it from counting ballots it said were cast by noncitizens. California officials count mail ballots over several days after Election Day. The Supreme Court rejected the effort before the election, per the NYT.",
+     "facts": [
+      {
+       "text": "The DOJ moved Friday to dismiss its suit against California.",
+       "refs": [
+        "f20198aa6a",
+        "4f9a40dc4f",
+        "7bcbc97a95"
+       ],
+       "outlet_count": 3
+      },
+      {
+       "text": "The suit sought to force election officials to set aside about 20,000 ballots.",
+       "refs": [
+        "4f9a40dc4f",
+        "f20198aa6a"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "The Supreme Court had rejected the effort before Election Day, per the NYT.",
+       "refs": [
+        "94dee30a24"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "f20198aa6a",
+       "note": "Says 'alleged noncitizen ballots', keeping the administration's claim attributed."
+      },
+      {
+       "ref": "4f9a40dc4f",
+       "note": "Calls them 'disputed' ballots and mentions the earlier Supreme Court loss."
+      },
+      {
+       "ref": "94dee30a24",
+       "note": "Describes an 'effort to set aside' mail-in ballots that was rejected."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "7bcbc97a95",
+       "kind": "article",
+       "source_id": "ap",
+       "outlet": "Associated Press",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZGFjVjRiVjQ3UVh4U0NDVG1wWjdscjlGdEZ0TEZNdmNTVXBlR1l3SWdlRlJFYzRvLTFsUHdaQkFPNEI0SDQ2c0loSnN3ZTNHRk4xbC1NVENNU2FUcGlNd3djNnlZcG1FTmltdjJmN2w1ZEZabHdtVjZWZS1DQUY3Y2VzczlPWHowOW1FZjh1N0I3TnROaFFqTHNtUGVwV2RUa2tKYkxpdjdqZzA3cXkw?oc=5",
+       "title": "US Justice Department drops bid to force California to set aside disputed ballots",
+       "published_at": "2026-11-07T03:41:00Z",
+       "read_full": false,
+       "takeaway": "AP report (headline and link only)."
+      },
+      {
+       "id": "f20198aa6a",
+       "kind": "article",
+       "source_id": "cbs",
+       "outlet": "CBS News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cbsnews.com/news/justice-department-drops-lawsuit-california-ballots-alleged-noncitizens/",
+       "title": "DOJ dropping suit over alleged noncitizen ballots",
+       "published_at": "2026-11-07T01:39:00Z",
+       "read_full": false,
+       "takeaway": "CBS short news report."
+      },
+      {
+       "id": "94dee30a24",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/11/06/us/elections/justice-dept-dismisses-california-suit.html",
+       "title": "Justice Dept. Dismisses Suit Against California Over 20,000 Ballots",
+       "published_at": "2026-11-07T04:09:32Z",
+       "read_full": false,
+       "takeaway": "NYT (paywalled, summary only)."
+      },
+      {
+       "id": "4f9a40dc4f",
+       "kind": "article",
+       "source_id": "thehill",
+       "outlet": "The Hill",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://thehill.com/blogs/ballot-box/6205747-doj-dismisses-california-ballot-lawsuit/",
+       "title": "DOJ dismisses lawsuit over California's 20,000 disputed ballots",
+       "published_at": "2026-11-07T02:32:58Z",
+       "read_full": false,
+       "takeaway": "The Hill with Supreme Court context."
+      }
+     ],
+     "lean_counts": {
+      "left": 3,
+      "center": 1,
+      "right": 0,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "trump-arch-blocked",
+     "headline": "Judge blocks work on Trump's arch minutes after federal panel approves it",
+     "region": "Courts",
+     "importance": 3,
+     "summary": "Judge Tanya Chutkan issued a temporary restraining order barring work on the 250-foot triumphal arch for 14 days, just after the National Capital Planning Commission approved it 8-4. The White House launched a website promoting the project the next morning.",
+     "why_it_matters": "The ruling pauses a major construction project near Arlington National Cemetery while courts weigh challenges from veterans, a historian and local governments.",
+     "background": "Trump proposed a monumental arch in Washington near Arlington National Cemetery. The planning commission previously gave preliminary approval, and Chutkan had earlier required the administration to give notice before any work. Veterans and an architectural historian sued, and D.C. and Virginia filed a separate suit, per a search report.",
+     "facts": [
+      {
+       "text": "Chutkan's TRO prohibits work for 14 days.",
+       "refs": [
+        "3fc9bc64e7",
+        "52a071f899"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "The commission approved the arch 8-4.",
+       "refs": [
+        "3fc9bc64e7"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The administration had hoped to begin construction as early as this week.",
+       "refs": [
+        "d1ee3736db"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The White House promoted the project with a new website.",
+       "refs": [
+        "52a071f899",
+        "9c5499efb3"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "Chutkan consolidated the cases and ordered notice of any commission decision, per the Inquirer.",
+       "refs": [
+        "us-w3"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "34585a5971",
+       "note": "Gives the 250-foot size and says the judge 'quickly' blocked it."
+      },
+      {
+       "ref": "9c5499efb3",
+       "note": "Pairs the court block with the 'glitzy' website, pointing at the push to promote it."
+      },
+      {
+       "ref": "01a983ad74",
+       "note": "Folds it into a morning newsletter next to jobs-report news, treating it as one item."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "9c5499efb3",
+       "kind": "article",
+       "source_id": "ap",
+       "outlet": "Associated Press",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcE53V1VUQ2NnWFhoeEI4c2hJdnFaTTROeTB4MGNvR0ZHQWZNMWw3Z3FuMEEwRl9FOFB3YmJxVFU3X0hvMEN6dHRielp3V21qMk8wWkcyRjJsWjJ4dWNzY0tkbm1HWWRySmVkSldhemJ4RUpERzViMktYMWpDUzg0ZWVLem80NjVZekItRUxlQ3lYMUQxRzR2THdCNzg?oc=5",
+       "title": "Trump’s arch is blocked for now, but a glitzy new website highlights the plans",
+       "published_at": "2026-11-06T18:52:00Z",
+       "read_full": false,
+       "takeaway": "AP (headline and link only)."
+      },
+      {
+       "id": "34585a5971",
+       "kind": "article",
+       "source_id": "cbs",
+       "outlet": "CBS News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cbsnews.com/news/trump-arch-approval-national-capital-planning-commission/",
+       "title": "Judge blocks construction on Trump's 250-foot arch for now",
+       "published_at": "2026-11-06T14:27:33Z",
+       "read_full": false,
+       "takeaway": "CBS on the approval and block."
+      },
+      {
+       "id": "01a983ad74",
+       "kind": "article",
+       "source_id": "npr",
+       "outlet": "NPR",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
+       "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
+       "published_at": "2026-11-06T12:24:52Z",
+       "read_full": false,
+       "takeaway": "NPR newsletter item."
+      },
+      {
+       "id": "d1ee3736db",
+       "kind": "article",
+       "source_id": "bbc",
+       "outlet": "BBC News",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+       "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+       "published_at": "2026-11-06T15:30:42Z",
+       "read_full": false,
+       "takeaway": "BBC on the administration's timeline."
+      },
+      {
+       "id": "52a071f899",
+       "kind": "article",
+       "source_id": "pbs",
+       "outlet": "PBS NewsHour",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.pbs.org/newshour/politics/trumps-triumphal-arch-is-blocked-for-now-but-a-new-website-highlights-the-plans",
+       "title": "Trump's triumphal arch is blocked for now, but a new website highlights the plans",
+       "published_at": "2026-11-06T20:36:43Z",
+       "read_full": false,
+       "takeaway": "PBS on the website and TRO."
+      },
+      {
+       "id": "3fc9bc64e7",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/news/international/key-federal-panel-approves-trumps-arch-while-it-is-being-challenged-in-court/article71673086.ece",
+       "title": "Federal judge orders 14-day delay on any work beginning on Trump’s monumental arch",
+       "published_at": "2026-11-06T10:04:41Z",
+       "read_full": false,
+       "takeaway": "The Hindu on the TRO and 8-4 vote."
+      },
+      {
+       "id": "us-w3",
+       "kind": "web",
+       "source_id": "",
+       "outlet": "Philadelphia Inquirer",
+       "lean": "unrated",
+       "paywalled": false,
+       "url": "https://www.inquirer.com/news/nation-world/trump-arch-washington-judge-order-notification-deadlines-chutkan-20261102.html",
+       "title": "Judge orders notification deadlines on Trump arch",
+       "published_at": "",
+       "read_full": true,
+       "takeaway": ""
+      }
+     ],
+     "lean_counts": {
+      "left": 3,
+      "center": 3,
+      "right": 0,
+      "unrated": 1
+     }
+    },
+    {
+     "id": "white-house-armed-arrest",
+     "headline": "Secret Service arrests armed man near White House who said voices told him to kill Trump",
+     "region": "White House",
+     "importance": 3,
+     "summary": "The Secret Service arrested Ronny Yordrix Guanipa Chrinos, a Venezuelan man, near the White House Thursday after officers found weapons in his vehicle. Officials said he told them voices in his head urged him to come to Washington and kill the president.",
+     "why_it_matters": "It is a security incident near the president, and coverage differs in how much it emphasizes the suspect's immigration status versus his reported mental state.",
+     "background": "The Secret Service protects the president and patrols the White House area. DHS said the man was in the country illegally. Officers found three weapons in the vehicle, per CBS.",
+     "facts": [
+      {
+       "text": "Officers found three weapons in the suspect's vehicle.",
+       "refs": [
+        "b97c28aed7"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The suspect said he heard voices telling him to kill Trump, per US officials.",
+       "refs": [
+        "7a5fda256c",
+        "7164580660"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "The Secret Service said he was taken into custody and charged.",
+       "refs": [
+        "7ca22d3b5d"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "DHS said he is a Venezuelan in the country illegally.",
+       "refs": [
+        "7164580660",
+        "865cb83ab7"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "f0ad89d61a",
+       "note": "Leads with 'Venezuelan migrant' and an 'assassination threat'."
+      },
+      {
+       "ref": "7164580660",
+       "note": "Leads with the voices the man described."
+      },
+      {
+       "ref": "7ca22d3b5d",
+       "note": "Neutral 'man in custody' wording; no nationality in the headline."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "b97c28aed7",
+       "kind": "article",
+       "source_id": "cbs",
+       "outlet": "CBS News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cbsnews.com/news/armed-man-arrested-near-white-house-secret-service-trump/",
+       "title": "Armed man arrested near White House planned to kill Trump, DHS says",
+       "published_at": "2026-11-07T01:32:00Z",
+       "read_full": false,
+       "takeaway": "CBS cites DHS on the alleged plan."
+      },
+      {
+       "id": "7164580660",
+       "kind": "article",
+       "source_id": "nbc",
+       "outlet": "NBC News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.nbcnews.com/news/us-news/venezuelan-man-said-voices-told-kill-trump-arrested-white-house-dhs-sa-rcna607943",
+       "title": "Venezuelan man who said voices told him to kill Trump is arrested near White House",
+       "published_at": "2026-11-07T00:30:59Z",
+       "read_full": false,
+       "takeaway": "NBC text report citing DHS."
+      },
+      {
+       "id": "865cb83ab7",
+       "kind": "article",
+       "source_id": "nbc",
+       "outlet": "NBC News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.nbcnews.com/nightly-news/video/armed-man-arrested-near-white-house-for-allegedly-threatening-trump-273036357851",
+       "title": "Armed man arrested near White House for allegedly threatening Trump",
+       "published_at": "2026-11-06T23:53:14Z",
+       "read_full": false,
+       "takeaway": "NBC video report on the arsenal and threat."
+      },
+      {
+       "id": "7ca22d3b5d",
+       "kind": "article",
+       "source_id": "guardian",
+       "outlet": "The Guardian",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump",
+       "title": "Man in custody after being found in vehicle near White House with guns",
+       "published_at": "2026-11-07T00:31:59Z",
+       "read_full": false,
+       "takeaway": "Guardian names the suspect."
+      },
+      {
+       "id": "7a5fda256c",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/news/international/secret-service-arrests-man-near-white-house-after-he-said-he-heard-voices-telling-him-to-kill-trump/article71677332.ece",
+       "title": "Secret Service arrests man near White House after he said he heard voices telling him to kill Trump",
+       "published_at": "2026-11-07T05:10:35Z",
+       "read_full": false,
+       "takeaway": "The Hindu on the suspect's account of voices."
+      },
+      {
+       "id": "f0ad89d61a",
+       "kind": "article",
+       "source_id": "fox",
+       "outlet": "Fox News",
+       "lean": "right",
+       "paywalled": false,
+       "url": "https://www.foxnews.com/us/secret-service-arrests-armed-venezuelan-migrant-near-white-house-alleged-trump-assassination-threat",
+       "title": "Secret Service arrests armed Venezuelan migrant near White House over alleged Trump assassination threat",
+       "published_at": "2026-11-06T21:18:15Z",
+       "read_full": false,
+       "takeaway": "Fox emphasizes immigration status and the threat."
+      }
+     ],
+     "lean_counts": {
+      "left": 3,
+      "center": 1,
+      "right": 1,
+      "unrated": 0
+     }
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "World",
+   "stories": [
+    {
+     "id": "iran-strikes-and-talks",
+     "headline": "US carries out new limited strikes on Iran as Tehran weighs mediators' proposals",
+     "region": "Middle East",
+     "importance": 5,
+     "summary": "President Trump said the US military carried out a new round of what he called minor strikes on Iran on Friday, aimed at an air defense system. Iranian media reported explosions on Qeshm Island near the Strait of Hormuz. Separately, officials said Iran is reviewing mediators' proposals that touch on its nuclear program.",
+     "why_it_matters": "The fighting and the threat to shipping in the Gulf and the Strait of Hormuz can affect oil prices and the safety of commercial shipping. A deal on the nuclear program and the strait would be a step toward ending the conflict.",
+     "background": "The US and Iran are in an active conflict that has centered on Iran's nuclear program and shipping through the Strait of Hormuz, a key route for oil. Qatar is the lead mediator, and earlier proposals have included reopening the strait in stages alongside nuclear talks. Iran has long refused to discuss parts of its nuclear program, which is why reports that it is now reviewing proposals on the subject stand out. Earlier this week a prior US attack on Iran was made public, and voters' views of the war were part of coverage of the US midterm elections.",
+     "facts": [
+      {
+       "text": "Trump said the US military carried out a new round of limited strikes on Iran on Friday, targeting an air defense system, and described them as minor.",
+       "refs": [
+        "8acdf42e10",
+        "7cb902d2b3",
+        "fb30c972df"
+       ],
+       "outlet_count": 3
+      },
+      {
+       "text": "Iranian state media reported two explosions on Qeshm Island, near the Strait of Hormuz; Tasnim news agency said two missiles struck the island.",
+       "refs": [
+        "7cb902d2b3",
+        "a1e0c5b1b0"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "Officials told several outlets Iran is reviewing proposals focused on its nuclear program; The Hindu cited regional officials as saying mediators and Iran have discussed a possible bridge deal to pave the way for further talks.",
+       "refs": [
+        "b6f7371990",
+        "5e2c709fd4",
+        "5b5dcc0bf8"
+       ],
+       "outlet_count": 3
+      },
+      {
+       "text": "A diplomat told The Japan Times that Tehran is showing willingness to discuss nuclear issues that were previously off the table.",
+       "refs": [
+        "257e4c29b8"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "A Greek-owned tanker, the Velos Sapphire, was struck in the Gulf on Nov. 5 and a seafarer was killed, according to the ship's operator; Iran said two other vessels were on fire.",
+       "refs": [
+        "1839e653c8",
+        "d756763c4b",
+        "911c501eda"
+       ],
+       "outlet_count": 3
+      },
+      {
+       "text": "The Guardian reported that Qatar is trying to persuade Tehran to let UN nuclear inspectors visit bombed nuclear sites, and that the Strait of Hormuz could reopen as part of that plan.",
+       "refs": [
+        "6da1f10b9d"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [
+      {
+       "topic": "What was hit and what happened on Qeshm Island",
+       "positions": [
+        {
+         "claim": "Trump said US forces destroyed a small anti-aircraft device in minutes.",
+         "refs": [
+          "87f3033a5d",
+          "3906b13897"
+         ]
+        },
+        {
+         "claim": "Iranian media said two missiles hit Qeshm Island, and Iran claimed it downed a US drone over the island.",
+         "refs": [
+          "a1e0c5b1b0",
+          "563096f8f8"
+         ]
+        }
+       ]
+      }
+     ],
+     "framing": [
+      {
+       "ref": "fb30c972df",
+       "note": "Repeats Trump's word 'minor' in the headline and leads with his description of the strikes."
+      },
+      {
+       "ref": "6da1f10b9d",
+       "note": "Leads with the diplomatic track, a Qatari plan tying the strait to inspections."
+      },
+      {
+       "ref": "7cb902d2b3",
+       "note": "Ties the strikes to the US election results and says voters punished the war."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "fb30c972df",
+       "kind": "article",
+       "source_id": "cnbc",
+       "outlet": "CNBC",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+       "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
+       "published_at": "2026-11-07T07:37:36Z",
+       "read_full": false,
+       "takeaway": "Headline and summary: Trump's 'minor strikes' alongside Iranian reports of missiles."
+      },
+      {
+       "id": "b6f7371990",
+       "kind": "article",
+       "source_id": "nydailynews",
+       "outlet": "New York Daily News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PRHVlMmFfYWV1SWJzbk93N3I2d0xTR014S1JXQmNQRm1UMTlVLVppVXczTHJlZXBmWWl5ZmIyTTNBUy14VDhjd1VFX18tc1c0VFlONnFNTUJCYjlzOVUwU20wRHVzMFFCUk9DLU04YnJvR0VTY19yYk5WRE16QQ?oc=5",
+       "title": "Iran is reviewing proposals focusing on Tehran’s nuclear program, officials say",
+       "published_at": "2026-11-06T22:46:29Z",
+       "read_full": false,
+       "takeaway": "Headline only: Iran reviewing nuclear proposals, per officials."
+      },
+      {
+       "id": "8acdf42e10",
+       "kind": "article",
+       "source_id": "guardian",
+       "outlet": "The Guardian",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
+       "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+       "published_at": "2026-11-07T03:07:01Z",
+       "read_full": false,
+       "takeaway": "Reports Trump's announcement and the parallel diplomatic push."
+      },
+      {
+       "id": "6da1f10b9d",
+       "kind": "article",
+       "source_id": "guardian",
+       "outlet": "The Guardian",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+       "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+       "published_at": "2026-11-07T07:00:04Z",
+       "read_full": false,
+       "takeaway": "Summary: Qatari plan for inspections and a possible Hormuz reopening."
+      },
+      {
+       "id": "911c501eda",
+       "kind": "article",
+       "source_id": "dw",
+       "outlet": "Deutsche Welle",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-all-1573-rdf",
+       "title": "Iran war: Gulf tanker attacked, 1 seaferer killed",
+       "published_at": "2026-11-06T17:47:00Z",
+       "read_full": false,
+       "takeaway": "Summary: frames the tanker attack as Iran stepping up attacks on shipping."
+      },
+      {
+       "id": "a1e0c5b1b0",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVljNk9VX0xKSElKQjgwMVhnLVpzdmZMTE9YMW5Eb0FpdFpkb0tkczBNZkh1eWFyLU5VanpKU3VGd21EUk52bGc3ZDN4UVd2UFhHM3VReWVUa2kxTVQ3TlJ5UkRFbmdYQzAxTVF0bldhS1BIYjhIOWx4RVU3UnZiMkRORW5nUHJERUQzeTdoSE1kRzlmYVduLVhUbzkzMVFNX1pqb0I2YXZpT1FJRW00alBCWXQydmc?oc=5",
+       "title": "Two missiles strike Iran's Qeshm Island, Tasnim news agency says",
+       "published_at": "2026-11-06T23:04:12Z",
+       "read_full": false,
+       "takeaway": "Headline only: relays Tasnim's report of two missiles on Qeshm."
+      },
+      {
+       "id": "d756763c4b",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQlB2Sm9vTXA4Rlp1QWxROTNzaUJ5TG0teEFKRWs1cmY3VFZkZXd6RlVzQmxNTGcxcmwyMG9SOUZlRVdKS0o2V08xbzdaRW5sbGNBTDdpRUduU0xsQUV3czAybnlIU0FPQUs1ZFR1RE41U3BpZXhIeHFYeEI1b2RRamRWQnhpOUVESHM2TENjNS1XUQ?oc=5",
+       "title": "Seafarer killed in suspected missile attack on tanker in Gulf",
+       "published_at": "2026-11-06T14:17:12Z",
+       "read_full": false,
+       "takeaway": "Headline only: suspected missile attack killed a seafarer."
+      },
+      {
+       "id": "7cb902d2b3",
+       "kind": "article",
+       "source_id": "scmp",
+       "outlet": "South China Morning Post",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.scmp.com/news/world/middle-east/article/3373633/trump-confirms-fresh-iran-strikes-days-after-voters-punish-war-polls",
+       "title": "Trump confirms fresh Iran strikes days after voters punish war at polls",
+       "published_at": "2026-11-07T04:25:50Z",
+       "read_full": false,
+       "takeaway": "Summary only (paywalled): strikes in the context of the midterms."
+      },
+      {
+       "id": "5e2c709fd4",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/news/international/iran-reviewing-proposals-on-tehrans-nuclear-programme-officials/article71677167.ece",
+       "title": "Iran reviewing proposals on Tehran’s nuclear programme: Officials",
+       "published_at": "2026-11-07T01:25:49Z",
+       "read_full": false,
+       "takeaway": "Summary: mediators and Iran discussed a possible bridge deal."
+      },
+      {
+       "id": "1839e653c8",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/news/international/sailor-killed-in-gulf-as-iran-says-tankers-on-fire/article71676046.ece",
+       "title": "Sailor killed in Gulf as Iran says tankers on fire",
+       "published_at": "2026-11-06T19:10:32Z",
+       "read_full": false,
+       "takeaway": "Summary names the tanker and cites the operator's statement."
+      },
+      {
+       "id": "87f3033a5d",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/news/international/us-military-carries-out-fresh-targeted-strikes-on-iran-as-tehran-weighs-mediators-proposals/article71677274.ece",
+       "title": "U.S. military carries out fresh targeted strikes on Iran as Tehran weighs mediator's proposals",
+       "published_at": "2026-11-07T04:20:23Z",
+       "read_full": false,
+       "takeaway": "Summary quotes Trump on the anti-aircraft device."
+      },
+      {
+       "id": "257e4c29b8",
+       "kind": "article",
+       "source_id": "japantimes",
+       "outlet": "The Japan Times",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.japantimes.co.jp/news/2026/11/07/world/politics/us-iran-deal-nuclear/",
+       "title": "U.S. and Iran edge closer to deal with nuclear issue back in play",
+       "published_at": "2026-11-06T23:37:00Z",
+       "read_full": false,
+       "takeaway": "Summary: a diplomat describes new Iranian flexibility on nuclear issues."
+      },
+      {
+       "id": "5b5dcc0bf8",
+       "kind": "article",
+       "source_id": "timesofisrael",
+       "outlet": "The Times of Israel",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeURhZXFTM3ZuNDdjZlFBWUlRU0p5aFRtLWNJczNhdGdneVpOektNM1pzV2l6M1A4WjRMelpVTmU3QzJ6cVU1RDMxUUp5MGF4TVBwaFVqV3p4LVByZjBWaml6SmhtLXkxMVNqeElPRF9id2tSN0RWY0FkcHNtR0R3T2R0TUEtM2RpMXlUWXBhNEoyMUFnOXp1d3ZzeXhJLW9nWENLRnA4eFh1NU1qdW1qcEowMTRFMTJ1MXJqR2cwRkRGeUhxTm1oOV9saENQbmtmYjkwcjlJQW1XYmM?oc=5",
+       "title": "Iran reviewing proposals to curb nuke program after long refusing to discuss issue — sources to ToI",
+       "published_at": "2026-11-06T15:36:34Z",
+       "read_full": false,
+       "takeaway": "Headline only: cites its own sources on Iran reviewing proposals."
+      },
+      {
+       "id": "3906b13897",
+       "kind": "article",
+       "source_id": "timesofisrael",
+       "outlet": "The Times of Israel",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcGg2eHNFcW9FRTJ4eEFxXzBVR0U4Y3RRUDNuRjhCcWQxVW52LUliR1hKS293NnRQQ2N1SlpscjhyR0lFaEN1TldGdm5IY0otSzF2N3BsVzNoLUF4RG1YREMxVzBJWFJTcGtzNFVzWVpHQS1FTUt1VEJZOWNCNmJKZnVtclA2OGUwX1J4cjlHTWNlMU5FamFDWWpmYjZFdFRrZHo1cktNZ0kyVmV4Vk5NQlJONnVOMmc1RzB0WHhZX3plTUlKeWdpSXVabGE5Z0V1Q0xJMHBwTQ?oc=5",
+       "title": "Trump says US launched ‘minor’ strikes on Iran targeting ‘a little bit of an anti-aircraft device’",
+       "published_at": "2026-11-07T02:31:36Z",
+       "read_full": false,
+       "takeaway": "Headline only: carries Trump's description of the target."
+      },
+      {
+       "id": "563096f8f8",
+       "kind": "article",
+       "source_id": "timesofisrael",
+       "outlet": "The Times of Israel",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa2RoQVVWYjR5OG51UjVZdTlsQW54UDNVcW1ZZVVVU0dGS1N3TzRQMl9tM1hHZVNJSGZDb25Fd0laeHhmRWdLUXRFeU5PbzFXc1N5Q0QtRHNLV0gwdFFWdUVGcmI0RUZWQk8zQXNKS1JMOFJlQllZVVluMXlWeUtyWTdFWW1SdmZsaGRDT2RROGg1dEt3NVpxV2JxZmc0SU5QUHlmcg?oc=5",
+       "title": "Iran claims it downed US drone over Hormuz’s Qeshm Island",
+       "published_at": "2026-11-06T15:33:47Z",
+       "read_full": false,
+       "takeaway": "Headline only: Iran's claim of downing a US drone."
+      }
+     ],
+     "lean_counts": {
+      "left": 3,
+      "center": 6,
+      "right": 0,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "kyiv-missile-strikes",
+     "headline": "Russian missiles hit Kyiv and energy sites ahead of talks in Abu Dhabi",
+     "region": "Europe",
+     "importance": 4,
+     "summary": "Russia struck Kyiv and the surrounding region with missiles and drones overnight, hitting energy facilities and a major bridge, according to Ukrainian authorities. At least one person was reported killed and several wounded. Ukraine is preparing for new talks with Russia and the US.",
+     "why_it_matters": "Strikes on power and fuel infrastructure affect heating and electricity for civilians heading into winter. The talks could shape whether the fighting slows.",
+     "background": "Russia invaded Ukraine in 2022 and the war has continued since, with Russia repeatedly targeting Ukrainian power and gas infrastructure. Ukraine has struck back at Russian oil facilities. Outlets say Russia recently stepped up air strikes. The US has been involved in diplomacy, and the latest round of trilateral talks with Russia and the US is expected in Abu Dhabi.",
+     "facts": [
+      {
+       "text": "Ballistic missiles damaged Kyiv's Northern Bridge on Friday night; Mayor Vitali Klitschko said five people were injured in the city, including a 14-year-old girl.",
+       "refs": [
+        "7fe2e33fef"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Overnight Friday to Saturday, missile and drone attacks on Kyiv and its region targeted energy infrastructure and killed at least one person and wounded eight, authorities said.",
+       "refs": [
+        "774b036d4e",
+        "ff4e26fcde"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "Russia said it hit targets in and around Kyiv in what it described as a massive overnight strike.",
+       "refs": [
+        "a70b6d1405"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "President Zelensky accused Moscow of trying to push Ukraine into a blackout ahead of the talks in Abu Dhabi.",
+       "refs": [
+        "cf75f49855"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Bloomberg reported damage to Naftogaz facilities.",
+       "refs": [
+        "ff4e26fcde"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [
+      {
+       "topic": "Number of wounded",
+       "positions": [
+        {
+         "claim": "At least five wounded, per AP and ABC.",
+         "refs": [
+          "f8b3a7b0e4",
+          "b163a2a21b"
+         ]
+        },
+        {
+         "claim": "At least six injured, per the Kyiv Independent headline; eight wounded and one dead across Kyiv and the region, per authorities cited by France 24.",
+         "refs": [
+          "7fe2e33fef",
+          "774b036d4e"
+         ]
+        }
+       ]
+      }
+     ],
+     "framing": [
+      {
+       "ref": "7fe2e33fef",
+       "note": "Leads with the missiles and the human toll in the city, including a child."
+      },
+      {
+       "ref": "cf75f49855",
+       "note": "Puts the strikes in the context of the upcoming talks and Zelensky's blackout charge."
+      },
+      {
+       "ref": "ff4e26fcde",
+       "note": "Emphasizes damage to energy company Naftogaz and the civilian death."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "f8b3a7b0e4",
+       "kind": "article",
+       "source_id": "abc",
+       "outlet": "ABC News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://abcnews.com/International/wireStory/missiles-target-kyiv-injure-5-ukraine-prepares-talks-137937211",
+       "title": "Missiles target Kyiv and wound 5 as Ukraine prepares for talks with Russia and the US",
+       "published_at": "2026-11-07T09:42:17Z",
+       "read_full": false,
+       "takeaway": "Wire headline and summary: five wounded, talks upcoming."
+      },
+      {
+       "id": "b163a2a21b",
+       "kind": "article",
+       "source_id": "ap",
+       "outlet": "Associated Press",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSEJTUU1HSllBRS1hYUxLTGNzSGpQdEwzQVgyUnBnRmdUN1dRdmtUaGxMb2lEVHh2MjBOaUVfQk5Ed0tnaUduaFFxcXhPdnhRa1lCTFNRQjRUWk5URDhJeFVENWNJUUVEUnd4V0J0bDFpY3Z5Y09jc3NpRS0zZk5RVHBHNVlxM0Q0RGFXSExYN1YyRm5CeHdEZ3ZCUFJVV1VT?oc=5",
+       "title": "Missiles target Kyiv and wound 5 as Ukraine prepares for talks with Russia and the US",
+       "published_at": "2026-11-07T10:25:00Z",
+       "read_full": false,
+       "takeaway": "Same AP wire story, headline only."
+      },
+      {
+       "id": "ff4e26fcde",
+       "kind": "article",
+       "source_id": "bloomberg",
+       "outlet": "Bloomberg",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.bloomberg.com/news/articles/2026-11-07/kyiv-faces-russian-missile-barrage-hits-saratov-oil-refinery",
+       "title": "Kyiv Faces Russian Missile Barrage, Naftogaz Facilities Damaged",
+       "published_at": "2026-11-07T09:21:06Z",
+       "read_full": false,
+       "takeaway": "Summary only (paywalled): energy facilities and civilian casualties."
+      },
+      {
+       "id": "cf75f49855",
+       "kind": "article",
+       "source_id": "dw",
+       "outlet": "Deutsche Welle",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-rdf",
+       "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+       "published_at": "2026-11-07T09:21:00Z",
+       "read_full": false,
+       "takeaway": "Summary: bridge and energy hit, ties to Abu Dhabi talks."
+      },
+      {
+       "id": "774b036d4e",
+       "kind": "article",
+       "source_id": "france24",
+       "outlet": "France 24",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us",
+       "title": "Russia hits Kyiv and surrounding region in massive overnight strike",
+       "published_at": "2026-11-07T08:08:44Z",
+       "read_full": false,
+       "takeaway": "Summary: energy targets, one killed and eight wounded per authorities."
+      },
+      {
+       "id": "a70b6d1405",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkpxUWQ1cUFXSEJhbTI5OFNqVGZNOUFIb3ZoY3lZWmdEUHNYMHYwWXowdnNQZ1dlcWJ3dDF5engyV0VaaG1XUEVia2oyTjNJTEgwYUI3VHhCaml6RTdZMEQwbm9YZ1BTcUZjekdhOHhwQ2gwcFI5YkpJcTV2YUQ3WjVWampRdS1SZk5JQXA0WW04OV9ZMzNQcklSTDhIS2IxT3I4OE14VkRBN0huQzhmdktR?oc=5",
+       "title": "Russia says it hit targets in and around Kyiv in massive overnight strike",
+       "published_at": "2026-11-07T07:31:00Z",
+       "read_full": false,
+       "takeaway": "Headline only: relays Russia's account of the strike."
+      },
+      {
+       "id": "7fe2e33fef",
+       "kind": "article",
+       "source_id": "kyivindependent",
+       "outlet": "The Kyiv Independent",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://kyivindependent.com/russian-ballistic-missiles-slam-kyiv-after-zelensky-warns-of-mass-attack/",
+       "title": "Russian ballistic missiles slam Kyiv, damage Northern Bridge, injure at least 6 people",
+       "published_at": "2026-11-06T22:04:00Z",
+       "read_full": false,
+       "takeaway": "Local reporting with mayor's casualty figures and bridge damage."
+      }
+     ],
+     "lean_counts": {
+      "left": 3,
+      "center": 4,
+      "right": 0,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "europe-bomb-hoaxes",
+     "headline": "Wave of hoax bomb threats hits European flights and Irish newsrooms",
+     "region": "Europe",
+     "importance": 4,
+     "summary": "At least 20 flights in Europe received hoax bomb threats within hours, and several newsrooms in Ireland were evacuated after false threats. The Irish government said it appears to be a coordinated campaign. European security agencies are reportedly examining whether the threats originated in Russia.",
+     "why_it_matters": "Travelers may face diversions and delays, and aviation authorities say any change in procedures will take a long time.",
+     "background": "Hoax bomb threats against airlines are not new, but officials and experts describe this wave as unusual in volume and timing. The threats have been sent by email to airlines and media organizations. They come amid other security incidents in Europe, including a cyberattack on supermarket refrigeration systems reported by The New York Times. European governments have been urging public resilience and stockpiling.",
+     "facts": [
+      {
+       "text": "At least 20 European flights dealt with bomb threats within hours, and one expert told CBS the pattern suggests 'a very deliberate act'.",
+       "refs": [
+        "fb4a2125b0"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Ireland said the threats to Irish media outlets and European airlines are probably part of a coordinated campaign.",
+       "refs": [
+        "a0e3033170",
+        "7aba9e69b4"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "The Financial Times reported that European security agencies are probing whether the hoaxes started in Russia, with a working hypothesis of pro-Kremlin activists or hacking groups.",
+       "refs": [
+        "6c6a9f7345"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "CNBC reported that analysts see in-flight targeting as aviation's weakest point and that procedure changes would be slow.",
+       "refs": [
+        "b2a34a4295"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "fb4a2125b0",
+       "note": "Leads with the scale of flights affected and an expert's view that it is deliberate."
+      },
+      {
+       "ref": "6c6a9f7345",
+       "note": "Leads with the possible Russian origin, framed as a working hypothesis."
+      },
+      {
+       "ref": "b2a34a4295",
+       "note": "Focuses on why aviation authorities struggle to respond."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "fb4a2125b0",
+       "kind": "article",
+       "source_id": "cbs",
+       "outlet": "CBS News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cbsnews.com/news/europe-flights-airlines-hoax-bomb-threats/",
+       "title": "Hoax bomb threats affect at least 20 European flights within hours",
+       "published_at": "2026-11-06T17:18:40Z",
+       "read_full": false,
+       "takeaway": "Summary: scale of flights affected and expert comment."
+      },
+      {
+       "id": "b2a34a4295",
+       "kind": "article",
+       "source_id": "cnbc",
+       "outlet": "CNBC",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
+       "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
+       "published_at": "2026-11-07T09:01:57Z",
+       "read_full": false,
+       "takeaway": "Summary: why the threats are hard for aviation authorities to contain."
+      },
+      {
+       "id": "a0e3033170",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html",
+       "title": "Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says",
+       "published_at": "2026-11-06T20:07:48Z",
+       "read_full": false,
+       "takeaway": "Summary only (paywalled): Ireland's coordinated-campaign view."
+      },
+      {
+       "id": "86da21d157",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
+       "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
+       "published_at": "2026-11-07T10:32:52Z",
+       "read_full": false,
+       "takeaway": "Summary only (paywalled): broader unease over cyberattacks and threats."
+      },
+      {
+       "id": "6c6a9f7345",
+       "kind": "article",
+       "source_id": "ft",
+       "outlet": "Financial Times",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.ft.com/content/0845687f-1f74-4bbf-88c9-5c6b031c7f20?syn-25a6b1a6=1",
+       "title": "European security agencies probe whether bomb hoaxes started in Russia",
+       "published_at": "2026-11-07T05:00:33Z",
+       "read_full": false,
+       "takeaway": "Summary only (paywalled): Russia-origin hypothesis."
+      },
+      {
+       "id": "7aba9e69b4",
+       "kind": "article",
+       "source_id": "france24",
+       "outlet": "France 24",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.france24.com/en/europe-bomb-hoaxes-widen",
+       "title": "Europe bomb hoaxes widen",
+       "published_at": "2026-11-06T21:22:24Z",
+       "read_full": false,
+       "takeaway": "Summary: hoaxes by email, Irish government assessment."
+      }
+     ],
+     "lean_counts": {
+      "left": 3,
+      "center": 2,
+      "right": 0,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "paraguay-pena-impeached",
+     "headline": "Paraguay's Senate removes President Peña over Ueno Bank collapse; he is placed under house arrest",
+     "region": "Americas",
+     "importance": 4,
+     "summary": "Paraguay's Senate removed President Santiago Peña on Friday over the collapse of Ueno Bank, which left millions of customers unable to reach their money. Vice President Pedro Alliana was sworn in as president. Outlets report Peña was then placed under house arrest on suspicion of breach of trust.",
+     "why_it_matters": "Frozen accounts, pension funds and health care funds affect ordinary Paraguayans directly. The case tests how the country handles a banking failure tied to its government.",
+     "background": "Ueno Bank, a digital bank, was seized by regulators earlier this week, freezing customer accounts. Peña was a shareholder in the bank's parent company until 2025, according to AP-based reporting, and the central bank chief he appointed resigned at his request. Protesters gathered outside Congress and opposition lawmakers pursued impeachment. Peña offered to resign, but lawmakers went ahead with the process, which removes protections former presidents enjoy.",
+     "facts": [
+      {
+       "text": "The Senate removed Peña; France 24 reported the vote was unanimous.",
+       "refs": [
+        "9b83bc8558",
+        "7cc72387c2",
+        "96b06a9ea0"
+       ],
+       "outlet_count": 3
+      },
+      {
+       "text": "Pedro Alliana was sworn in as president.",
+       "refs": [
+        "8907579a58",
+        "64a1e16198"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "Peña was placed under house arrest shortly after, on suspicion of breach of trust, per SCMP.",
+       "refs": [
+        "e21e4393c7",
+        "bc466f090c",
+        "02e43596c2"
+       ],
+       "outlet_count": 3
+      },
+      {
+       "text": "Peña had asked for a 72-hour extension to prepare his defense after being served a 15-page indictment, the Hindu reported, citing his post on X.",
+       "refs": [
+        "017e3f92ee"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Public pension and health care funds are also tied up, DW reported.",
+       "refs": [
+        "7cc72387c2"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Regulators seized Ueno Bank earlier this week; Peña was a shareholder in its parent company until 2025.",
+       "refs": [
+        "world-w1"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [
+      {
+       "topic": "Share of Paraguayans locked out of their savings",
+       "positions": [
+        {
+         "claim": "Nearly half of Paraguayans, per France 24.",
+         "refs": [
+          "9b83bc8558"
+         ]
+        },
+        {
+         "claim": "About 60% of the country, per The Guardian headline.",
+         "refs": [
+          "d94247d118"
+         ]
+        }
+       ]
+      },
+      {
+       "topic": "Whether Peña was impeached or resigned",
+       "positions": [
+        {
+         "claim": "Peña offered to resign, but lawmakers proceeded with impeachment.",
+         "refs": [
+          "64dd63425e",
+          "9b83bc8558"
+         ]
+        },
+        {
+         "claim": "Peña skipped the trial and was removed by the Senate, per ABC.",
+         "refs": [
+          "2ce1b00d88"
+         ]
+        }
+       ]
+      }
+     ],
+     "framing": [
+      {
+       "ref": "6711a37a18",
+       "note": "Stresses the speed of the arrest, minutes after removal."
+      },
+      {
+       "ref": "9555efad41",
+       "note": "Explainer approach focused on how the bank failure toppled the president."
+      },
+      {
+       "ref": "2ce1b00d88",
+       "note": "Focuses on Peña's absence from the trial."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "2ce1b00d88",
+       "kind": "article",
+       "source_id": "abc",
+       "outlet": "ABC News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://abcnews.com/International/wireStory/paraguays-pea-loses-top-aides-impeachment-trial-resumes-137913219",
+       "title": "Peña skips Senate impeachment trial as Paraguay reels from Ueno bank collapse",
+       "published_at": "2026-11-06T17:38:24Z",
+       "read_full": false,
+       "takeaway": "Summary: Peña skipped the Senate trial."
+      },
+      {
+       "id": "02e43596c2",
+       "kind": "article",
+       "source_id": "ap",
+       "outlet": "Associated Press",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaDFVTWxqNmxoN1JVVzVfSVdkQ1hSOXFmbkxBUnk3Y3FFaFZMZ3RFU1R1eUFiZTlUWG5Vdk9NU2NrRF9LSHVlaklHTUlpS2ZWMXRuNnRBb0JacVkxTEhpdmVTRlRKSDlQUWpZU3ZwVjVES2VCZU9WbGVWdXZRNVlRaGZadUYtTXRBVzZrbWhLQUFDb1oxTlF0MEpBRFlubEhVNmJvcnNLRW1zdEhqdmEwc3FTbGpJMXVHSGNYRmRfUkpiWFhGa3NHUnVxeG0?oc=5",
+       "title": "Ousted Paraguayan president placed under house arrest after bank collapse",
+       "published_at": "2026-11-07T02:14:00Z",
+       "read_full": false,
+       "takeaway": "Headline only: AP on house arrest."
+      },
+      {
+       "id": "d94247d118",
+       "kind": "article",
+       "source_id": "guardian",
+       "outlet": "The Guardian",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+       "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+       "published_at": "2026-11-07T01:55:11Z",
+       "read_full": false,
+       "takeaway": "Summary: protests and the 60% figure."
+      },
+      {
+       "id": "7cc72387c2",
+       "kind": "article",
+       "source_id": "dw",
+       "outlet": "Deutsche Welle",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf",
+       "title": "Paraguay: President Santiago Pena under house arrest over bank crisis",
+       "published_at": "2026-11-06T23:23:00Z",
+       "read_full": false,
+       "takeaway": "Summary: ousted, frozen accounts and funds."
+      },
+      {
+       "id": "9b83bc8558",
+       "kind": "article",
+       "source_id": "france24",
+       "outlet": "France 24",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis",
+       "title": "Paraguay places ousted president Peña under house arrest after bank collapse",
+       "published_at": "2026-11-07T06:18:38Z",
+       "read_full": false,
+       "takeaway": "Summary: unanimous removal and house arrest."
+      },
+      {
+       "id": "96b06a9ea0",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTEZGTXdqZzI2U0M5aVZQb2FnNXk0VS1tWFlfci1fd1AyYnRYOUxQSElRUkxnM0RsNl9HZWkwb2pla2FxMXBRWF9zZ2o4amgwcGZrWnZxaHpvd0VBUDlSWk9tU1NfNTdFb0t5WVF4Q0pvZFZZdkRUcmh6ZEJXMmtnb2gzYVEwVXl6dWVQZDB1UVdfd2JDSXoxMWpR?oc=5",
+       "title": "Paraguay Senate votes to impeach President Peña",
+       "published_at": "2026-11-06T22:19:50Z",
+       "read_full": false,
+       "takeaway": "Headline only: Senate votes to impeach."
+      },
+      {
+       "id": "8907579a58",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeldCbTBsWG5XTElfREZndWV5MnZGX0ppbFdNcmZwNUpnMjBMWGFPcmVzWEhlOTk3dnBFYjYxNnlwZm9TaUl2cjJDeXVBLWhFejJqbUhvVzduQ3RzTVlFTWEtUDBFRU1jdjljQ1RmSnZ6aVBfUzNDLVUySGFLaU9vYWxqQmRqWDUtcDNkaXRqclhKNVIwam9KZjRoNHRFdmx1ajVjQWR5cG15UQ?oc=5",
+       "title": "Paraguay's Alliana sworn in as president after Peña impeachment",
+       "published_at": "2026-11-06T23:37:59Z",
+       "read_full": false,
+       "takeaway": "Headline only: Alliana sworn in."
+      },
+      {
+       "id": "bc466f090c",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjV6S0FNdm9aN3JPcUdrX0p3Y3pOZFlRZTVRUzlwTXpwWmFDenpqam51UFBrY2xjTDdCVUlDQ3B6NHdoMjNWWlgtU0N4cWhHUGluUnljcE1lSFZhUHpIVExodGs5OU42WUxfSHBqa0ZnLVk2SVQ0OGhkd2tsWUlfb1p2cEI4dl9yQU5jLWJGSnNZcEdXWXhDakVFWlZCaExOWnZvNUdVZUVhVTlNaHluYndwUVVqc0JOR1E?oc=5",
+       "title": "Paraguay ex-president Peña placed under house arrest after impeachment",
+       "published_at": "2026-11-06T23:37:37Z",
+       "read_full": false,
+       "takeaway": "Headline only: Reuters on house arrest after impeachment."
+      },
+      {
+       "id": "e21e4393c7",
+       "kind": "article",
+       "source_id": "scmp",
+       "outlet": "South China Morning Post",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.scmp.com/news/world/americas/article/3373623/paraguays-president-pena-impeached-over-ueno-banking-crisis-placed-under-house-arrest",
+       "title": "Paraguay’s President Pena impeached over Ueno banking crisis, placed under house arrest",
+       "published_at": "2026-11-06T23:41:08Z",
+       "read_full": false,
+       "takeaway": "Summary only (paywalled): house arrest on suspicion of breach of trust."
+      },
+      {
+       "id": "017e3f92ee",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/news/international/paraguay-president-santiago-pena-requests-extra-three-days-to-prepare-impeachment-defence/article71674857.ece",
+       "title": "Paraguay President Santiago Pena requests extra three days to prepare impeachment defence",
+       "published_at": "2026-11-06T14:10:00Z",
+       "read_full": false,
+       "takeaway": "Summary: Peña's request for extra time."
+      },
+      {
+       "id": "64dd63425e",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/news/international/paraguayan-president-pena-impeached-over-banking-crisis/article71676251.ece",
+       "title": "Paraguayan President Pena impeached over banking crisis",
+       "published_at": "2026-11-06T23:16:54Z",
+       "read_full": false,
+       "takeaway": "Summary: resignation offer versus impeachment."
+      },
+      {
+       "id": "9555efad41",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/news/international/how-a-bank-collapse-in-paraguay-brought-down-the-countrys-president-explained/article71677767.ece",
+       "title": "How a bank collapse in Paraguay brought down the country’s President | Explained",
+       "published_at": "2026-11-07T10:27:26Z",
+       "read_full": false,
+       "takeaway": "Summary: explainer on how the bank collapse unfolded."
+      },
+      {
+       "id": "64a1e16198",
+       "kind": "article",
+       "source_id": "japantimes",
+       "outlet": "The Japan Times",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.japantimes.co.jp/news/2026/11/07/world/politics/paraguay-president-santiago-pena-impeached/",
+       "title": "Crisis-hit Paraguay impeaches president and replaces him with VP",
+       "published_at": "2026-11-07T01:23:00Z",
+       "read_full": false,
+       "takeaway": "Summary: Alliana became president Friday."
+      },
+      {
+       "id": "6711a37a18",
+       "kind": "article",
+       "source_id": "telegraph",
+       "outlet": "The Telegraph",
+       "lean": "lean_right",
+       "paywalled": true,
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc21qZWVLcjRmeHdibFpSNE13b3FaMThhSTcteU52MlJLbmlldG9zVC05bzFxYnBfQ3RjUHZqUXY5VUFyNEFtTS1zcjNvNE5pcmxhdW12MW4xX0ZwRG1rQ0ZTUWVtX3hOQU5SbEJBM1JRRXhSZVpuUmZGU084M2lfOUw5TUh4dWllYUxiMzhNTnF3LWIwUnRNRU8zLUNvVEV3UHNXWHZ4Zw?oc=5",
+       "title": "Paraguay president arrested minutes after being ousted",
+       "published_at": "2026-11-07T04:45:00Z",
+       "read_full": false,
+       "takeaway": "Headline only (paywalled): arrest minutes after ouster."
+      },
+      {
+       "id": "world-w1",
+       "kind": "web",
+       "source_id": "",
+       "outlet": "AP via Spectrum News 13",
+       "lean": "unrated",
+       "paywalled": false,
+       "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/11/03/paraguay-seizes-major-digital-bank-tied-to-president-leaving-millions-of-customers-in-limbo",
+       "title": "Paraguay seizes major digital bank tied to president, leaving millions of customers in limbo",
+       "published_at": "",
+       "read_full": true,
+       "takeaway": ""
+      }
+     ],
+     "lean_counts": {
+      "left": 3,
+      "center": 6,
+      "right": 1,
+      "unrated": 1
+     }
+    },
+    {
+     "id": "tanzania-lissu-sentenced",
+     "headline": "Tanzanian opposition leader Tundu Lissu cleared of treason, sentenced to four years for incitement",
+     "region": "Africa",
+     "importance": 4,
+     "summary": "A Tanzanian court on Friday acquitted opposition leader Tundu Lissu of treason but sentenced him to four years in prison for incitement. The conviction relates to statements before the October 2025 presidential election. Avoiding a treason conviction means he avoided a possible death sentence.",
+     "why_it_matters": "The case is a gauge of political freedom and the treatment of opposition figures in Tanzania after a disputed election.",
+     "background": "Lissu leads the opposition and has been detained since April last year, according to the BBC. His treason trial followed Tanzania's disputed presidential election in October 2025 and a deadly crackdown on protests. He says the charges are politically motivated.",
+     "facts": [
+      {
+       "text": "The court acquitted Lissu of treason, finding prosecutors had not proven he intended to intimidate the government, and sentenced him to four years for inciting people to disrupt last year's election.",
+       "refs": [
+        "a6aa382b99",
+        "da4b1f5394"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "Lissu has been detained since April last year and says the charges are politically motivated.",
+       "refs": [
+        "a3c55c34d0"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Lissu condemned the incitement conviction, which he said was not among the charges he faced, according to DW via AllAfrica.",
+       "refs": [
+        "8e220a9efb"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The election was disputed and followed by a deadly crackdown, RFI reported.",
+       "refs": [
+        "9eb084f54a"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "a3c55c34d0",
+       "note": "Leads with both outcomes and includes Lissu's claim of political motivation."
+      },
+      {
+       "ref": "efa47b7ae0",
+       "note": "Focuses on the four-year sentence and the pre-election statements."
+      },
+      {
+       "ref": "8e220a9efb",
+       "note": "Highlights Lissu's objection that incitement was not a charge."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "a6aa382b99",
+       "kind": "article",
+       "source_id": "abc",
+       "outlet": "ABC News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://abcnews.com/International/wireStory/tanzania-opposition-leader-lissu-sentenced-4-years-incitement-137905667",
+       "title": "Tanzania opposition leader Lissu sentenced to 4 years for incitement, acquitted of treason",
+       "published_at": "2026-11-06T14:24:38Z",
+       "read_full": false,
+       "takeaway": "Wire story: sentence and treason acquittal reasoning."
+      },
+      {
+       "id": "efa47b7ae0",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/11/06/world/africa/tanzanias-opposition-leader-gets-a-four-year-sentence.html",
+       "title": "Tanzania’s Opposition Leader Gets a Four-Year Sentence",
+       "published_at": "2026-11-06T17:36:38Z",
+       "read_full": false,
+       "takeaway": "Summary only (paywalled): incitement conviction over pre-election remarks."
+      },
+      {
+       "id": "8e220a9efb",
+       "kind": "article",
+       "source_id": "allafrica",
+       "outlet": "AllAfrica",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://allafrica.com/stories/202611060330.html",
+       "title": "Tanzania: Opposition Leader Tundu Lissu Jailed for Four Years",
+       "published_at": "2026-11-06T12:39:33Z",
+       "read_full": false,
+       "takeaway": "Summary: DW report with Lissu's objection."
+      },
+      {
+       "id": "9eb084f54a",
+       "kind": "article",
+       "source_id": "allafrica",
+       "outlet": "AllAfrica",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://allafrica.com/stories/202611060310.html",
+       "title": "Tanzania: Tanzania Opposition Leader Lissu Cleared of Treason but Jailed for Incitement",
+       "published_at": "2026-11-06T12:28:44Z",
+       "read_full": false,
+       "takeaway": "Summary: RFI report on the election and crackdown."
+      },
+      {
+       "id": "a3c55c34d0",
+       "kind": "article",
+       "source_id": "bbc",
+       "outlet": "BBC News",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
+       "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+       "published_at": "2026-11-06T14:57:08Z",
+       "read_full": false,
+       "takeaway": "Summary: context on detention and his political-motive claim."
+      },
+      {
+       "id": "da4b1f5394",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPelRUVV93MFlvLWszOUVkTWtGVlM0Q0J1Q0RjSk5OLTZldnJsSHltTVNUSl9SaGtmTjNsbUdIcWxOYXhqYXlUTnM5MGVxbElMbHg4Y0l1SzNXcmN0YmpRdEJ4UHVTQ3JFNnQ4SG9LWGh1dVRRNmJxcTkwWUpOZGtVcjJXdktzOFlpSVg4VjltZjAtNW02UGZ1bkRueU5rSHJuWnZmcjFn?oc=5",
+       "title": "Tanzanian opposition leader cleared of treason, sentenced for incitement",
+       "published_at": "2026-11-06T15:56:11Z",
+       "read_full": false,
+       "takeaway": "Headline only: Reuters on the verdict."
+      }
+     ],
+     "lean_counts": {
+      "left": 2,
+      "center": 3,
+      "right": 0,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "new-zealand-election-close",
+     "headline": "New Zealand election too close to call as Opportunity Party emerges as possible kingmaker",
+     "region": "Asia-Pacific",
+     "importance": 3,
+     "summary": "Early results in New Zealand's election show the governing National-led coalition and Labour neck-and-neck, and neither bloc is on track for a majority. Bloomberg reported that the centrist Opportunity Party could play a kingmaker role and is on track to enter parliament for the first time.",
+     "why_it_matters": "The outcome decides who governs and may take days of coalition talks to settle.",
+     "background": "New Zealand elects its parliament by proportional representation, so coalitions are usual. Strict election-day rules limit political reporting while voting is under way.",
+     "facts": [
+      {
+       "text": "Early counts showed the two main parties near deadlocked, and AP said the result was too close to call.",
+       "refs": [
+        "f73c92de14",
+        "18d6cd6b5d"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "With about half the votes counted, projections showed both blocs might need the Opportunity Party, Bloomberg reported.",
+       "refs": [
+        "9a53d6e32c"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The Hindu said the vote remained too close to call on Nov. 7, with minor parties, including a rising Opportunity Party, weighing in.",
+       "refs": [
+        "19d8e6f2b2"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The Guardian said polls showed no coalition expected to secure a majority of seats.",
+       "refs": [
+        "bf47260ffe"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "9a53d6e32c",
+       "note": "Emphasizes the Opportunity Party as kingmaker."
+      },
+      {
+       "ref": "18d6cd6b5d",
+       "note": "Plain 'too close to call' framing."
+      },
+      {
+       "ref": "738a2e3b8f",
+       "note": "Mentions New Zealand's election-day reporting restrictions."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "18d6cd6b5d",
+       "kind": "article",
+       "source_id": "ap",
+       "outlet": "Associated Press",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYVZ6SS13ZlhVYVFPcXFkeXljMDY3M1dXTWNfZHVGb3Y4NXU4ZWw3SU5HSXRlMkRJNVUzcWVxRXhOZUVmeTNHblM3Wnd3MzYyNExaMWNKTXgxWWowb0VmTVFwT05CajhMV0d5ZGE5ZGtSV3ZZdXlidUc4dFpveG9XQnBldFQ2c2syWHY5MXZWaUd5Q0VHRmlmM3ZiYmVtTjlUUkJXR3hLckRpcjhCUFE?oc=5",
+       "title": "Early count in New Zealand’s election suggests result too close to call",
+       "published_at": "2026-11-07T08:21:00Z",
+       "read_full": false,
+       "takeaway": "Headline only: AP says too close to call."
+      },
+      {
+       "id": "9a53d6e32c",
+       "kind": "article",
+       "source_id": "bloomberg",
+       "outlet": "Bloomberg",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.bloomberg.com/news/articles/2026-11-07/counting-begins-in-new-zealand-election-that-s-too-close-to-call",
+       "title": "New Zealand Election Kingmaker Emerges With 50% of Vote Counted",
+       "published_at": "2026-11-07T06:08:21Z",
+       "read_full": false,
+       "takeaway": "Summary only (paywalled): kingmaker role for Opportunity."
+      },
+      {
+       "id": "bf47260ffe",
+       "kind": "article",
+       "source_id": "guardian",
+       "outlet": "The Guardian",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
+       "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
+       "published_at": "2026-11-07T11:24:50Z",
+       "read_full": false,
+       "takeaway": "Summary: live coverage, no majority expected."
+      },
+      {
+       "id": "738a2e3b8f",
+       "kind": "article",
+       "source_id": "dw",
+       "outlet": "Deutsche Welle",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-half-the-votes-counted/a-79883056?maca=en-rss-en-all-1573-rdf",
+       "title": "New Zealand election too close to call with half the votes counted",
+       "published_at": "2026-11-07T09:35:00Z",
+       "read_full": false,
+       "takeaway": "Summary: half counted and reporting rules."
+      },
+      {
+       "id": "f73c92de14",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVElubklwMDN2WWExQ2RadnZ4bnJFRTFOUHlXY0lkUzdaOXBkOGdLeTh1RUxYYzJMZEdkYzJMUHhtZWRISFd1WEgyWTNCMnU2R1NnR1Q2dm93Q2JWSktlSm1kU3hqUU1HQUF4NjB6NUotNFgzMWZNLTg0a1YzQjV5M1dVcVFQd1p3c2UtTHY3MDQxa0REZXc?oc=5",
+       "title": "New Zealand election early count shows two main parties near deadlocked",
+       "published_at": "2026-11-06T18:01:00Z",
+       "read_full": false,
+       "takeaway": "Headline only: early count deadlocked."
+      },
+      {
+       "id": "19d8e6f2b2",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/news/international/new-zealand-vote-still-too-close-to-call-as-results-trickle-in/article71677647.ece",
+       "title": "New Zealand vote still too close to call as results trickle in",
+       "published_at": "2026-11-07T08:31:58Z",
+       "read_full": false,
+       "takeaway": "Summary: results trickling in, minor parties."
+      }
+     ],
+     "lean_counts": {
+      "left": 3,
+      "center": 3,
+      "right": 0,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "malaysia-najib-house-arrest",
+     "headline": "Malaysia's king says Najib house-arrest order must be respected as attorney general seeks delay",
+     "region": "Asia-Pacific",
+     "importance": 3,
+     "summary": "Malaysian former prime minister Najib Razak's move to house arrest was put on hold on Friday after a court order allowed it. On Saturday the king warned that challenging his order could amount to defying his decree, while the attorney general defended the delay.",
+     "why_it_matters": "The dispute tests the limits of the king's pardon power against the government's legal office.",
+     "background": "Najib, a former prime minister, has been in jail since 2022 after a conviction in a corruption case. King Sultan Ibrahim granted him a conditional pardon in September, which allowed house arrest once a fine was paid. Najib's party announced it paid the fine, and a court issued an order allowing the transfer, his lawyer said.",
+     "facts": [
+      {
+       "text": "The king granted Najib a conditional pardon in September, and his party paid the fine, a condition for house arrest.",
+       "refs": [
+        "e5350e9459",
+        "8b54ced6c6"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "A court order allowing the transfer was issued, according to his lawyer, but the transfer was put on hold.",
+       "refs": [
+        "8b54ced6c6",
+        "130986793a"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "The king said there was no ambiguity about his pardon and warned that challenging it could amount to defying his authority; the attorney general's office had called for a delay.",
+       "refs": [
+        "7b8e46bb3c",
+        "5312f30f02"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "The attorney general defended halting the order despite the palace warning.",
+       "refs": [
+        "ccd98473d8"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "e5350e9459",
+       "note": "Leads with the fine paid, as a step toward house arrest."
+      },
+      {
+       "ref": "130986793a",
+       "note": "Leads with Najib staying in prison after the hold."
+      },
+      {
+       "ref": "7b8e46bb3c",
+       "note": "Leads with the king's insistence of no ambiguity."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "130986793a",
+       "kind": "article",
+       "source_id": "ap",
+       "outlet": "Associated Press",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMm5tanF0cml5SUE3cVJuUE9ZTG10Tk1YNUdSS1pSRUNGQUVWMVpQcHE0SGdWVWxkUW1mM244amhndy11blJnZ3Nzb055bmJ0Y0I2dnpqaUJDUzFmRXdkcFBLU0hOTnVKck95RWZVNzNQaHZGWHFJWlpoRjF3YjMySmlTQURzeXFYMUQ5U1dFOEY4eWRnZEZYLTdXWDJpeEFfOEE?oc=5",
+       "title": "Former Malaysian leader Najib stays in prison after house arrest is put on hold",
+       "published_at": "2026-11-06T13:13:00Z",
+       "read_full": false,
+       "takeaway": "Headline only: house arrest put on hold."
+      },
+      {
+       "id": "ccd98473d8",
+       "kind": "article",
+       "source_id": "ap",
+       "outlet": "Associated Press",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTkNNQnFhb0tVWjhDWnpDN1VKbTRsdjQ0al9BbnVwd196cjRhVEJ5RXFfakVRbHJqNWRBR1RVWWJraVdkX3FZRXdxb3dseVFhZWtqaUEyVGg2QVY2a1Z3RW1PSTJ3MGl5ZHNEZnM3aEp5LVhyUnFtckRwRFlSWl8zcGFYY0pZOTBOd0ZnQ0lMM3VZaFZRNTdndmQ5aFhCdHgx?oc=5",
+       "title": "Malaysia attorney-general defends move to halt Najib's house arrest order despite palace warning",
+       "published_at": "2026-11-07T08:22:00Z",
+       "read_full": false,
+       "takeaway": "Headline only: attorney general defends halt."
+      },
+      {
+       "id": "7b8e46bb3c",
+       "kind": "article",
+       "source_id": "bloomberg",
+       "outlet": "Bloomberg",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.bloomberg.com/news/articles/2026-11-07/former-malaysia-pm-najib-s-house-arrest-delayed-pending-review",
+       "title": "Malaysian King Says No Ambiguity on Najib’s Home Detention Order",
+       "published_at": "2026-11-07T03:36:07Z",
+       "read_full": false,
+       "takeaway": "Summary only (paywalled): king says no ambiguity."
+      },
+      {
+       "id": "8b54ced6c6",
+       "kind": "article",
+       "source_id": "dailymaverick",
+       "outlet": "Daily Maverick",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.dailymaverick.co.za/article/2026-11-06-malaysia-ex-pm-najib-razak-set-for-house-arrest-after-party-pays-fine-to/",
+       "title": "Malaysia ex-PM Najib Razak set for house arrest after party pays fine to",
+       "published_at": "2026-11-06T10:29:45Z",
+       "read_full": false,
+       "takeaway": "Summary: court order, per his lawyer."
+      },
+      {
+       "id": "5312f30f02",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVmhJT1FjMmprRFN3MXVHQnFZWXJMNjhRc2JROUJTZ05vWnpLMTdjOWFwbzUwMTF1dlg1YWY5YWlObGtzVFpFSU1INFdwZFBOT1NtcnpDZURIZF8zX2laNjFjazNPczJ3dmI2YVJPMGx5VWIwemxZN1dyLXdWajY3UG44Zzg2T3hmMTdVM1VCSFJpNm91ZjhwUGtUUWVzbjRCcG1VWkdueFFSRm1uSmg0NU9tdGRrUmNMcmV4NU1JMW9UQk12V2lDNTBCaDhUdw?oc=5",
+       "title": "Malaysia's king warns against challenging his order allowing house arrest for ex-PM Najib",
+       "published_at": "2026-11-07T06:46:00Z",
+       "read_full": false,
+       "takeaway": "Headline only: Reuters on king's warning."
+      },
+      {
+       "id": "e5350e9459",
+       "kind": "article",
+       "source_id": "japantimes",
+       "outlet": "The Japan Times",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.japantimes.co.jp/news/2026/11/06/asia-pacific/crime-legal/najib-pays-house-arrest-fine/",
+       "title": "Jailed Malaysian ex-PM Najib pays fine, meeting condition for house arrest",
+       "published_at": "2026-11-06T08:49:00Z",
+       "read_full": false,
+       "takeaway": "Summary: fine paid, pardon in September."
+      }
+     ],
+     "lean_counts": {
+      "left": 2,
+      "center": 3,
+      "right": 0,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "yemen-taiz-market-strike",
+     "headline": "Airstrikes on a Yemeni market kill at least 30, with blame disputed",
+     "region": "Middle East",
+     "importance": 3,
+     "summary": "Airstrikes on a market in al-Waziyah in Yemen's Taiz province killed at least 30 people and wounded 15, according to a Houthi health ministry spokesperson. The Houthis blamed Saudi airstrikes, while government forces and local authorities disputed that.",
+     "why_it_matters": "It is a reminder that civilians in Yemen continue to be killed in a conflict that often gets less attention.",
+     "background": "Yemen has been split for years between the Houthi movement, which controls the north and the capital, and the internationally recognized government backed by Saudi Arabia. Taiz province has seen intense fighting. Claims about casualties from areas under Houthi control come mostly from Houthi sources.",
+     "facts": [
+      {
+       "text": "A Houthi health ministry spokesperson, Anees Alsabahi, told Houthi-run Al Masirah TV that at least 30 were killed and 15 wounded in the strikes on the al-Waziyah market.",
+       "refs": [
+        "959742056a",
+        "d8c4597c23"
+       ],
+       "outlet_count": 2
+      }
+     ],
+     "disputed": [
+      {
+       "topic": "Who attacked the market",
+       "positions": [
+        {
+         "claim": "Houthis blamed Saudi airstrikes.",
+         "refs": [
+          "78cf161095"
+         ]
+        },
+        {
+         "claim": "Government forces and local authorities rejected that and accused the Houthis of indiscriminate fire.",
+         "refs": [
+          "78cf161095"
+         ]
+        }
+       ]
+      }
+     ],
+     "framing": [
+      {
+       "ref": "d8c4597c23",
+       "note": "Headline attributes the toll to the Houthis."
+      },
+      {
+       "ref": "78cf161095",
+       "note": "Presents both sides' accounts of responsibility."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "d8c4597c23",
+       "kind": "article",
+       "source_id": "ap",
+       "outlet": "Associated Press",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ29uc0tzMWxmM2ZTVWxyb2UwakhsVmVyTU5BWlFQNzVyTG9GYlFzWHl6QWR2NnFVM2pJc3F0OWdJQmRIdm9GekdzNWM2NU1DblJENUEydlRlbk5KZDE0dURyMDB5UG4xNmdMMnZrZ1VvZ0hIRml6QVZwR1RMZm03QUpSaF85ZGVDRXFmeXdvcjFBXzFDOHc?oc=5",
+       "title": "Airstrikes on a market in southwestern Yemen kill at least 30, Houthis say",
+       "published_at": "2026-11-06T17:24:00Z",
+       "read_full": false,
+       "takeaway": "Headline only: toll attributed to Houthis."
+      },
+      {
+       "id": "78cf161095",
+       "kind": "article",
+       "source_id": "france24",
+       "outlet": "France 24",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market",
+       "title": "Yemen: 30 dead in strikes on Taiz market",
+       "published_at": "2026-11-07T09:37:16Z",
+       "read_full": false,
+       "takeaway": "Summary: includes the disputed blame."
+      },
+      {
+       "id": "959742056a",
+       "kind": "article",
+       "source_id": "thehindu",
+       "outlet": "The Hindu",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.thehindu.com/news/international/airstrikes-on-market-in-southwestern-yemen-kill-at-least-20-houthis-say/article71674991.ece",
+       "title": "Airstrikes on market in southwestern Yemen kill at least 30, Houthis say",
+       "published_at": "2026-11-06T17:24:28Z",
+       "read_full": false,
+       "takeaway": "Summary: names the Houthi spokesperson and location."
+      }
+     ],
+     "lean_counts": {
+      "left": 1,
+      "center": 2,
+      "right": 0,
+      "unrated": 0
+     }
+    }
+   ]
+  },
+  {
+   "id": "business",
+   "title": "Business & Markets",
+   "stories": [
+    {
+     "id": "ai-stock-selloff-midterms",
+     "headline": "Global stocks fall as AI shares sell off after Democrats win Congress",
+     "region": "Markets",
+     "importance": 5,
+     "summary": "US technology stocks fell sharply on Thursday, with the Nasdaq entering a correction, and the losses spread to Asian and European markets on Friday. Outlets tie the move to doubts about heavy AI spending and to fears that a Democratic Congress will curb data-center growth. US stocks partly recovered Friday, with the Nasdaq up and the Dow slightly lower.",
+     "why_it_matters": "Many 401(k)s and index funds are heavily weighted toward the big tech and AI companies, so a drop in those shares can show up directly in retirement balances. If the AI spending slowdown continues, it could also weigh on corporate investment and hiring.",
+     "background": "Over the past two years, a few large technology companies and AI developers have driven much of the stock market's gains, spending heavily on chips and data centers. Questions about whether that spending will pay off had been building for months. Data centers also became a campaign issue because of their effect on local electricity bills. Democrats won control of Congress in Tuesday's midterm elections, and investors began pricing in more regulation and oversight of AI and big tech.",
+     "facts": [
+      {
+       "text": "The S&P 500 closed down 4.36% in the latest data (Thursday, Nov. 5), and the Nikkei 225 fell 5.96% on Friday, according to the market quote table used for the brief.",
+       "refs": [
+        "cd3e75a722",
+        "037f4509cc"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "Deutsche Welle reported European shares fell after sharp losses in Asia and on Wall Street, citing doubts over large AI investments and fears of curbs after the Democratic midterm win.",
+       "refs": [
+        "037f4509cc"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "CBS News said the Thursday rout was driven by concerns about a possible slowdown in data-center construction and pushed the Nasdaq into a correction.",
+       "refs": [
+        "30539f3879"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Bloomberg put the week's global losses at $5.7 trillion; The Guardian said Apple, Tesla and Nvidia together shed about $1 trillion in one session.",
+       "refs": [
+        "030184be1c",
+        "9f19b7bb3f"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "The Wall Street Journal reported US stocks ended Friday mixed after strong jobs data and a modest AI rebound that did not settle investor nerves.",
+       "refs": [
+        "3c53da0ec1"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Reuters, as carried by The Star (Malaysia), reported data-center stocks fell and renewable-energy shares rose after the Democratic sweep.",
+       "refs": [
+        "business-w1"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "OpenAI's CFO told CNBC the company will keep expanding its data centers despite the election result.",
+       "refs": [
+        "4729f8fa01",
+        "45f0f48bd7"
+       ],
+       "outlet_count": 2
+      },
+      {
+       "text": "The Wall Street Journal reported stock-picking hedge funds unwound positions last month at the fastest rate in over a decade.",
+       "refs": [
+        "4cb074f43f"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "efbd16d645",
+       "note": "Fox Business headline puts the election first (\"blue wave rocks Wall Street\"), tying the losses to the political result."
+      },
+      {
+       "ref": "8b48cf50d5",
+       "note": "The Guardian asks whether an AI bubble is bursting, emphasizing valuation worries over the political trigger."
+      },
+      {
+       "ref": "af4f88110d",
+       "note": "Fox Business calls it a post-midterm \"whiplash\", stressing the swing in both directions."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "030184be1c",
+       "kind": "article",
+       "source_id": "bloomberg",
+       "outlet": "Bloomberg",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.bloomberg.com/news/articles/2026-11-06/ai-s-wild-week-has-wall-street-hunting-for-fresh-escape-routes",
+       "title": "Wall Street Grapples With $5.7 Trillion Rout as AI Bets Unwind",
+       "published_at": "2026-11-06T21:23:32Z",
+       "read_full": false,
+       "takeaway": "Headline and summary only (paywalled): sizes the rout at $5.7 trillion."
+      },
+      {
+       "id": "30539f3879",
+       "kind": "article",
+       "source_id": "cbs",
+       "outlet": "CBS News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cbsnews.com/news/stocks-tech-sell-off-nasdaq-correction-dow/",
+       "title": "Stocks rebound after tech selloff that pushed Nasdaq into correction",
+       "published_at": "2026-11-06T21:32:02Z",
+       "read_full": false,
+       "takeaway": "Explains the Nasdaq correction and the Friday bounce."
+      },
+      {
+       "id": "4729f8fa01",
+       "kind": "article",
+       "source_id": "cnbc",
+       "outlet": "CNBC",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html",
+       "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
+       "published_at": "2026-11-06T22:25:58Z",
+       "read_full": false,
+       "takeaway": "Reports the OpenAI CFO's comments on continuing data-center spending."
+      },
+      {
+       "id": "cd3e75a722",
+       "kind": "article",
+       "source_id": "guardian",
+       "outlet": "The Guardian",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+       "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+       "published_at": "2026-11-06T21:23:54Z",
+       "read_full": false,
+       "takeaway": "Global stock moves tied to AI worries after the Democratic win."
+      },
+      {
+       "id": "9f19b7bb3f",
+       "kind": "article",
+       "source_id": "guardian",
+       "outlet": "The Guardian",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
+       "title": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
+       "published_at": "2026-11-06T17:04:41Z",
+       "read_full": false,
+       "takeaway": "Video summary giving the roughly $1 trillion single-session loss."
+      },
+      {
+       "id": "8b48cf50d5",
+       "kind": "article",
+       "source_id": "guardian",
+       "outlet": "The Guardian",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.theguardian.com/technology/2026/nov/06/us-tech-stock-ai-bubble-bursting-market-meltdown-explainer",
+       "title": "US tech stock rout: is the AI bubble bursting?",
+       "published_at": "2026-11-06T16:09:18Z",
+       "read_full": false,
+       "takeaway": "Explainer on whether the AI bubble is bursting."
+      },
+      {
+       "id": "037f4509cc",
+       "kind": "article",
+       "source_id": "dw",
+       "outlet": "Deutsche Welle",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-all-1573-rdf",
+       "title": "European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets",
+       "published_at": "2026-11-06T09:29:00Z",
+       "read_full": false,
+       "takeaway": "Summary-level account of the sell-off reaching Europe, with two causes named."
+      },
+      {
+       "id": "45f0f48bd7",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRFVIUW5SSGZmTGw2cnZmN0tEbE5zWGZVekdqazlncUFkSVo2Q3ZOMFlyS2xEbHY3NVhOalJzeFRCTWIxR2xydFdUaVQxZ3RMbk9yRzN1UEt6VnZHd0FycnVPTVhhWmx6QUhHeF92MVVqWFpQYWdaVEpia1c1Qk5qYXFpYTRWS3JMUkV6eXFUM1drV1RqdDJ3VkNKb3lELWhwbl9DU1Z5V0h3d3pHNmxIcWZQd3o3aV8yUU1OSkdmTF9KVENvRU5XQ0MyYV9UX0NsUEEyTA?oc=5",
+       "title": "OpenAI to press ahead with data-center expansion despite midterm sweep, CFO tells CNBC",
+       "published_at": "2026-11-06T18:06:47Z",
+       "read_full": false,
+       "takeaway": "Headline only: Reuters on the same OpenAI statement."
+      },
+      {
+       "id": "3c53da0ec1",
+       "kind": "article",
+       "source_id": "wsj",
+       "outlet": "The Wall Street Journal",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-after-jobs-data-muted-ai-rebound-945344f6?mod=rss_markets_main",
+       "title": "U.S. Stocks Mixed After Jobs Data, Muted AI Rebound",
+       "published_at": "2026-11-06T22:01:00Z",
+       "read_full": false,
+       "takeaway": "Headline and summary only (paywalled): Friday close mixed."
+      },
+      {
+       "id": "4cb074f43f",
+       "kind": "article",
+       "source_id": "wsj",
+       "outlet": "The Wall Street Journal",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.wsj.com/finance/investing/hedge-funds-dump-positions-and-cut-staff-as-selloff-deepens-7eb14493?mod=rss_markets_main",
+       "title": "Hedge Funds Dump Positions and Cut Staff as Selloff Deepens",
+       "published_at": "2026-11-06T02:10:00Z",
+       "read_full": false,
+       "takeaway": "Headline and summary only (paywalled): hedge-fund selling."
+      },
+      {
+       "id": "efbd16d645",
+       "kind": "article",
+       "source_id": "foxbusiness",
+       "outlet": "Fox Business",
+       "lean": "lean_right",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0ME40WkhDUExkVXpUYzRORHl1Yjc0UEZSYkhLUnoyQzhqN25RY25ObVh6cVlPVzVVVU9VZE91RVVIX0pqUEFGQWUyUjhHRXdCSVoxSnFXdXJFVXc?oc=5",
+       "title": "Midterm blue wave rocks Wall Street",
+       "published_at": "2026-11-07T01:02:56Z",
+       "read_full": false,
+       "takeaway": "Headline only: frames the sell-off as a political result."
+      },
+      {
+       "id": "af4f88110d",
+       "kind": "article",
+       "source_id": "foxbusiness",
+       "outlet": "Fox Business",
+       "lean": "lean_right",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13T001OVNNcWdaSHB3bzhreHI0U3VOSHd2N1NKNlFRYUFYQkpneG53QTIyeGltTl9hWWtpVTF3c3JXeXpFMTliejludmlnblJJUUNzQUNmVllvVGs?oc=5",
+       "title": "A closer look at Wall Street’s post-midterm whiplash",
+       "published_at": "2026-11-07T01:57:49Z",
+       "read_full": false,
+       "takeaway": "Headline only: post-midterm swings."
+      },
+      {
+       "id": "business-w1",
+       "kind": "web",
+       "source_id": "",
+       "outlet": "The Star (Reuters)",
+       "lean": "unrated",
+       "paywalled": false,
+       "url": "https://www.thestar.com.my/tech/tech-news/2026/11/05/ai-data-center-stocks-slide-renewables-rally-after-democratic-us-midterm-sweep",
+       "title": "AI data-center stocks slide, renewables rally after Democratic US midterm sweep",
+       "published_at": "",
+       "read_full": false,
+       "takeaway": "Reuters via The Star: data-center stocks fell and renewables rose after the sweep."
+      }
+     ],
+     "lean_counts": {
+      "left": 4,
+      "center": 3,
+      "right": 1,
+      "unrated": 1
+     }
+    },
+    {
+     "id": "october-jobs-report",
+     "headline": "US employers add 165,000 jobs in October, well above forecasts",
+     "region": "Jobs",
+     "importance": 4,
+     "summary": "The Labor Department said employers added 165,000 jobs in October and the unemployment rate slipped to 4.1%. Economists had expected far fewer jobs. The Financial Times said the data reinforces expectations that the Federal Reserve will raise interest rates.",
+     "why_it_matters": "A stronger job market is good for workers, but it can keep the Fed from cutting rates, which affects mortgage, car-loan and credit-card costs.",
+     "background": "The monthly jobs report from the Bureau of Labor Statistics is one of the main gauges of the US economy. The Federal Reserve has a dual mandate of maximum employment and stable prices, so hiring and inflation data shape its rate decisions. Markets have been jumpy about the economy this week because of the AI-stock sell-off, which made the report more closely watched than usual.",
+     "facts": [
+      {
+       "text": "Payrolls rose by 165,000 in October after an upwardly revised 60,000 gain in September, the Bureau of Labor Statistics said.",
+       "refs": [
+        "3f7e9e55fb"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "CNBC said forecasters expected 59,000 jobs and an unemployment rate of 4.2%; the rate fell to 4.1%.",
+       "refs": [
+        "1376493524"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "August and September were revised up by a combined 84,000 jobs, PBS NewsHour reported.",
+       "refs": [
+        "3db1c09ba1"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The Financial Times reported the hiring rebound reinforces expectations the Fed will raise rates.",
+       "refs": [
+        "68d9ad3862"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The New York Times reported that white-collar industries most exposed to AI kept adding jobs in October, though weakly.",
+       "refs": [
+        "b5aaaaec64"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "3f7e9e55fb",
+       "note": "New York Post calls the result a surprise and \"strong\", stressing the beat."
+      },
+      {
+       "ref": "3db1c09ba1",
+       "note": "PBS NewsHour pairs the report with AI-bubble concerns, putting the data in the market context."
+      },
+      {
+       "ref": "68d9ad3862",
+       "note": "Financial Times leads with the implication for Fed rate increases."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "1376493524",
+       "kind": "article",
+       "source_id": "cnbc",
+       "outlet": "CNBC",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+       "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+       "published_at": "2026-11-06T16:06:59Z",
+       "read_full": false,
+       "takeaway": "Gives forecasts alongside the result."
+      },
+      {
+       "id": "b5aaaaec64",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/11/06/business/economy/ai-jobs-layoffs.html",
+       "title": "A.I. Was Supposed to Come for Our Jobs. So Far, Evidence Is Mixed.",
+       "published_at": "2026-11-06T16:02:34Z",
+       "read_full": false,
+       "takeaway": "Headline and summary only (paywalled): AI's effect on jobs is mixed so far."
+      },
+      {
+       "id": "68d9ad3862",
+       "kind": "article",
+       "source_id": "ft",
+       "outlet": "Financial Times",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
+       "title": "US economy outstrips forecasts to add 165,000 jobs in October",
+       "published_at": "2026-11-06T22:16:13Z",
+       "read_full": false,
+       "takeaway": "Headline and summary only (paywalled): rate-hike angle."
+      },
+      {
+       "id": "3db1c09ba1",
+       "kind": "article",
+       "source_id": "pbs",
+       "outlet": "PBS NewsHour",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.pbs.org/newshour/show/what-to-know-about-a-better-than-expected-jobs-report-amid-ai-bubble-concerns",
+       "title": "What to know about a better-than-expected jobs report amid AI bubble concerns",
+       "published_at": "2026-11-06T23:45:56Z",
+       "read_full": false,
+       "takeaway": "Summary of revisions and AI-bubble context."
+      },
+      {
+       "id": "3f7e9e55fb",
+       "kind": "article",
+       "source_id": "nypost",
+       "outlet": "New York Post",
+       "lean": "lean_right",
+       "paywalled": false,
+       "url": "https://nypost.com/2026/11/06/business/us-employers-add-165k-jobs-in-strong-october-unemployment-dips/",
+       "title": "US employers surprisingly add 165K jobs in strong October, unemployment dips",
+       "published_at": "2026-11-06T14:50:14Z",
+       "read_full": false,
+       "takeaway": "Reports the headline figure and the September revision."
+      }
+     ],
+     "lean_counts": {
+      "left": 2,
+      "center": 2,
+      "right": 1,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "tesla-ends-cybertruck",
+     "headline": "Tesla to end Cybertruck production in mid-2027 to make room for Cybercab",
+     "region": "Earnings",
+     "importance": 3,
+     "summary": "Elon Musk said Tesla will wind down Cybertruck production at its Texas factory around the middle of 2027 and shift capacity to the Cybercab robotaxi. Outlets pointed to weak demand for the truck.",
+     "why_it_matters": "It signals Tesla is putting its future on self-driving taxis rather than its most expensive pickup, which matters for owners of the truck and for investors in a heavily held stock.",
+     "background": "Tesla unveiled the Cybertruck, a stainless-steel electric pickup, in 2019 and began deliveries in 2023. It has been polarizing and sold below early expectations. Tesla has said its long-term plan rests on autonomous vehicles, including the Cybercab, a two-seat driverless taxi.",
+     "facts": [
+      {
+       "text": "Musk said Tesla will end Cybertruck production in mid-2027 to increase production of its Cybercab autonomous ride-share vehicle.",
+       "refs": [
+        "2a57a88ac8",
+        "1e75e8a337",
+        "af31ad6378"
+       ],
+       "outlet_count": 3
+      },
+      {
+       "text": "NPR said production at Gigafactory Texas will wind down mid-next year and gave insufficient demand as the likely cause.",
+       "refs": [
+        "d64271f3df"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Musk announced the plan in a post, per Nikkei Asia's headline.",
+       "refs": [
+        "cf71941acd"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "94b4a6a570",
+       "note": "Deutsche Welle calls the truck a \"flop\", emphasizing failure."
+      },
+      {
+       "ref": "dd198d9fe1",
+       "note": "Fox Business leads with the Texas factory and Cybercab, stressing the plan over the product's performance."
+      },
+      {
+       "ref": "d64271f3df",
+       "note": "NPR puts weak demand at the center."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "1e75e8a337",
+       "kind": "article",
+       "source_id": "cbs",
+       "outlet": "CBS News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cbsnews.com/news/tesla-ending-cybertruck-production-next-year/",
+       "title": "Musk says Tesla will end Cybertruck production next year",
+       "published_at": "2026-11-06T20:57:20Z",
+       "read_full": false,
+       "takeaway": "Short report of Musk's statement."
+      },
+      {
+       "id": "d64271f3df",
+       "kind": "article",
+       "source_id": "npr",
+       "outlet": "NPR",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.npr.org/2026/11/06/nx-s1-6032607/the-cybertrucks-cause-of-death-insufficient-demand",
+       "title": "The Cybertruck's 'cause of death?' Insufficient demand",
+       "published_at": "2026-11-06T22:22:20Z",
+       "read_full": false,
+       "takeaway": "Explains demand as the reason."
+      },
+      {
+       "id": "2a57a88ac8",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/11/06/business/tesla-cybertruck-production.html",
+       "title": "Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab",
+       "published_at": "2026-11-06T17:38:29Z",
+       "read_full": false,
+       "takeaway": "Summary only (paywalled): production stops mid-2027 for the Cybercab."
+      },
+      {
+       "id": "af31ad6378",
+       "kind": "article",
+       "source_id": "bbc",
+       "outlet": "BBC News",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+       "published_at": "2026-11-06T21:49:50Z",
+       "read_full": false,
+       "takeaway": "Notes Musk only appeared to signal the end."
+      },
+      {
+       "id": "94b4a6a570",
+       "kind": "article",
+       "source_id": "dw",
+       "outlet": "Deutsche Welle",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-all-1573-rdf",
+       "title": "Tesla to 'wind down' production of flop Cybertruck",
+       "published_at": "2026-11-06T17:10:00Z",
+       "read_full": false,
+       "takeaway": "Calls the truck a flop and mentions regulatory limits."
+      },
+      {
+       "id": "cf71941acd",
+       "kind": "article",
+       "source_id": "nikkei",
+       "outlet": "Nikkei Asia",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdl9OcVRWZ195eUxQT0ppejBQcGo1UndadU1sZGFoam1iR25GMTNLZlZOMXhTNHRUbUItNTdDWk84VElrdmVjN3FsOXRjemstWTJjZ0x6ZWJjYWhmUFVqVVBEbFp1NHlnWTQzd2JLbWd1WXlLMHpQRW1nZnAtMzJ3aGRleTl2cmJZMGE2UUhRNlJLQWR0UGxTdXFsZmxvOUk2X3lfNk9HZ3JEYlREWGc?oc=5",
+       "title": "Tesla to wind down Cybertruck production in mid-2027, Musk tweets",
+       "published_at": "2026-11-06T15:39:00Z",
+       "read_full": false,
+       "takeaway": "Headline only (paywalled): Musk posted the news."
+      },
+      {
+       "id": "dd198d9fe1",
+       "kind": "article",
+       "source_id": "foxbusiness",
+       "outlet": "Fox Business",
+       "lean": "lean_right",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS3I2RHZ3c3ZoMmNway13ZGMxOVk1TFNKYlBld2phSm9fUkJsS3NmaU42dkJLMW1fc0FuYU1uaDlzcnBtckIxbXE1d0ZPR3lacWdHaU5pREhfSjYxZXZuMzJFdTVEX0c2Z3JnVlIyU3YtdnczWVlaNkQxMHlvaUc2THBLWkJBQ1AwVGJJNEJxbHVkemlKOGxhZG42eEU4eEkzRkdDc1Q4TmR0M0JxM3JTQ0VHNXZLeDjSAbwBQVVfeXFMTjJlU0VIYUh2Y0hLdWJnSzJyUjhLdTBZejY4QjBPRUNtRFZhc1doTTNWYTJ3R2p0SmxTZEZmdzFsaHpYMTJNSVgxUjZEZE5yLXEwOXg2azZ3RXZRMlJaY25Fby1MTXFDT2JQdF9nLW40by1MR3hnb1IxTnp2VW5WdHJLNHE4SER6SjZiUnNBalF4ejA1YlBDNVNJUDljNHpUTXpzMU83YTNnb0syM2JKZXRMVUVMbmVPV2hya0E?oc=5",
+       "title": "Tesla to wind down Cybertruck production at Texas factory next year to make room for Cybercab",
+       "published_at": "2026-11-06T20:57:00Z",
+       "read_full": false,
+       "takeaway": "Headline only: Texas factory and Cybercab."
+      }
+     ],
+     "lean_counts": {
+      "left": 3,
+      "center": 3,
+      "right": 1,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "anthropic-ipo-valuation",
+     "headline": "Anthropic IPO plans face investor doubts over a $1.5 trillion valuation",
+     "region": "IPO",
+     "importance": 3,
+     "summary": "Reports differ on whether the Claude maker will hold to a $1.5 trillion target after the tech sell-off. The Financial Times said it intends to list before Thanksgiving, while CNBC and the Wall Street Journal said investors are skeptical of that price. Separately, Reuters reported OpenAI raised $11 billion at a $1.25 trillion valuation, citing a source.",
+     "why_it_matters": "Large AI listings can affect index funds and the pace of AI investment, and a lower price would suggest investors are cooling on the sector.",
+     "background": "Anthropic and OpenAI are two of the leading AI developers, and both have been valued in the hundreds of billions to over a trillion dollars in private funding. An initial public offering would let ordinary investors buy shares for the first time. This week's tech rout has made the pricing harder to predict.",
+     "facts": [
+      {
+       "text": "The Financial Times reported Anthropic intends to list before Thanksgiving despite the sell-off, targeting a $1.5 trillion valuation.",
+       "refs": [
+        "6800a6c7d0"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "CNBC said investors are bracing for a valuation below $1.5 trillion, calling it a \"stretch\".",
+       "refs": [
+        "9819550d7b"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The Wall Street Journal reported major investors are skeptical Anthropic can reach that valuation; some say October results could soften the blow.",
+       "refs": [
+        "2a29e8b569"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Reuters reported, citing a source, that OpenAI received $11 billion in funding at a $1.25 trillion valuation.",
+       "refs": [
+        "b2c8e093f0"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [
+      {
+       "topic": "Whether Anthropic will hold a $1.5 trillion valuation target",
+       "positions": [
+        {
+         "claim": "Anthropic is pressing ahead with a $1.5 trillion target, per the Financial Times.",
+         "refs": [
+          "6800a6c7d0"
+         ]
+        },
+        {
+         "claim": "Investors expect a lower valuation and call the target a stretch, per CNBC and the Wall Street Journal.",
+         "refs": [
+          "9819550d7b",
+          "2a29e8b569"
+         ]
+        }
+       ]
+      }
+     ],
+     "framing": [
+      {
+       "ref": "d110d51390",
+       "note": "New York Post says the IPO timing is \"threatened\" by an AI backlash and rout, emphasizing risk."
+      },
+      {
+       "ref": "6800a6c7d0",
+       "note": "Financial Times leads with the company pressing ahead, playing down investor doubts."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "9819550d7b",
+       "kind": "article",
+       "source_id": "cnbc",
+       "outlet": "CNBC",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
+       "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
+       "published_at": "2026-11-06T21:07:07Z",
+       "read_full": false,
+       "takeaway": "Investor skepticism about valuation."
+      },
+      {
+       "id": "6800a6c7d0",
+       "kind": "article",
+       "source_id": "ft",
+       "outlet": "Financial Times",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
+       "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
+       "published_at": "2026-11-06T21:00:09Z",
+       "read_full": false,
+       "takeaway": "Headline and summary only (paywalled): company intends to list."
+      },
+      {
+       "id": "b2c8e093f0",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdlpNRm5XVy11c3hLY0NRdjh2T3VmOE1LOWQ2LXlvcFhmZlFJYkQya3N3QWxud2UteUZpWVlCTXVHUXZZTjIwRlVQaUhqOGhyM2lDaDJTSGcxMnE5MzhOZ1NHYlJIc1p5bHRxaVZjZDd4MFY2RWMtRkNlYkhSVkdpMlRBWi1PYUNmZGNydXZnOTZFMTFoOHR0azBpUlU1aHpVdFA4dlhCV0dDNm91VE0xSVg0bXZhcF9jaVAzcXYzaldOdw?oc=5",
+       "title": "OpenAI gets $11 billion funding at $1.25 trillion valuation, source says",
+       "published_at": "2026-11-06T23:19:47Z",
+       "read_full": false,
+       "takeaway": "Headline only: OpenAI funding round."
+      },
+      {
+       "id": "2a29e8b569",
+       "kind": "article",
+       "source_id": "wsj",
+       "outlet": "The Wall Street Journal",
+       "lean": "center",
+       "paywalled": true,
+       "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b?mod=rss_markets_main",
+       "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5 Trillion Valuation",
+       "published_at": "2026-11-06T04:36:00Z",
+       "read_full": false,
+       "takeaway": "Headline and summary only (paywalled): skeptical investors, some optimism."
+      },
+      {
+       "id": "d110d51390",
+       "kind": "article",
+       "source_id": "nypost",
+       "outlet": "New York Post",
+       "lean": "lean_right",
+       "paywalled": false,
+       "url": "https://nypost.com/2026/11/05/business/anthropics-ipo-timing-threatened-by-ai-backlash-historic-tech-rout/",
+       "title": "Anthropic’s IPO timing threatened by AI backlash, historic tech rout",
+       "published_at": "2026-11-06T00:09:37Z",
+       "read_full": false,
+       "takeaway": "Stresses threats to timing from the rout."
+      }
+     ],
+     "lean_counts": {
+      "left": 1,
+      "center": 3,
+      "right": 1,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "democrats-ai-trade-agenda",
+     "headline": "Democrats plan AI bills and tariff challenges for when they take Congress",
+     "region": "Trade",
+     "importance": 3,
+     "summary": "Reuters reported Democrats are planning many AI bills once they control Congress, and the New York Post, citing a report, said they plan to fight President Trump's Canada tariffs. CBS News projected Democrats won the Senate.",
+     "why_it_matters": "Possible AI rules and tariff fights could affect tech companies' costs, and the price of imported goods for households.",
+     "background": "Democrats won Tuesday's midterm elections. The new Congress takes office in January. Trump's tariffs are largely set by executive action, so Congress has limited levers, such as votes that need some Republican support. Investors have worried that a Democratic Congress will bring more scrutiny of tech and AI companies.",
+     "facts": [
+      {
+       "text": "CBS News projected Democrats picked up the seats needed to control the Senate, with several upset wins in red states.",
+       "refs": [
+        "46dde36fc0"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Reuters reported Democrats are planning a flood of AI bills.",
+       "refs": [
+        "2bb48ea4a7"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The New York Post, citing a report, said Democrats plan to fight Trump's Canada tariffs from January, hoping to win some Republicans.",
+       "refs": [
+        "1180bef336"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Fox News said a progressive group's 182-page blueprint names Tesla, Apple, Amazon and OpenAI as possible investigation targets.",
+       "refs": [
+        "bccac697d6"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "70d91f2256",
+       "note": "Fox Business frames Democratic control as raising AI regulation concerns."
+      },
+      {
+       "ref": "2bb48ea4a7",
+       "note": "Reuters describes the plan neutrally as legislation."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "46dde36fc0",
+       "kind": "article",
+       "source_id": "cbs",
+       "outlet": "CBS News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+       "title": "Democrats win Senate control — live updates",
+       "published_at": "2026-11-06T23:24:00Z",
+       "read_full": false,
+       "takeaway": "Live updates on the Senate projection."
+      },
+      {
+       "id": "2bb48ea4a7",
+       "kind": "article",
+       "source_id": "reuters",
+       "outlet": "Reuters",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSW1qclJEWjVTQTNNU0hWWndTVFlOWFpNY1RqQ1I5Z0F2anRxTE5IQnlTTDhjeU9uUGV2anlLaVBfMFdPc0k5eDJVTVk4VTlVbnVZX0VwVnBEMnhHX19fTGRvX2NrQnNJeGN5MzBBaXBLb3d3Y25JdHpjSXFQMENoa01vNk0yLXVLRVBGZjlHLVFuUmI0QWp5aFBBRzRUSDdNMkpCQ1lJVExIei0zVFFiY0x2eVBPcFJ3d2NCeGN6REF0dw?oc=5",
+       "title": "Democrats planning flood of AI bills when they take control of Congress",
+       "published_at": "2026-11-06T21:56:42Z",
+       "read_full": false,
+       "takeaway": "Headline only: AI bills."
+      },
+      {
+       "id": "70d91f2256",
+       "kind": "article",
+       "source_id": "foxbusiness",
+       "outlet": "Fox Business",
+       "lean": "lean_right",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55bFRQeGZjRE5xdThFOFJTenZfVkhSRzNWSDVpMUdiWi1yRnFIRXVhZ3ZWVlFXZHJKUFVoMkc5OVdlR2N0Y2FWWVhOT1VvZW1hZjg3WHFYUUxIOFU?oc=5",
+       "title": "Democrat control of Congress raises AI regulation concerns",
+       "published_at": "2026-11-06T22:36:18Z",
+       "read_full": false,
+       "takeaway": "Headline only: regulation worries."
+      },
+      {
+       "id": "1180bef336",
+       "kind": "article",
+       "source_id": "nypost",
+       "outlet": "New York Post",
+       "lean": "lean_right",
+       "paywalled": false,
+       "url": "https://nypost.com/2026/11/06/business/democrats-plan-to-fight-trumps-canada-tariffs-once-theyre-back-in-control-of-congress-report/",
+       "title": "Democrats plan to fight Trump’s Canada tariffs once they’re back in control of Congress: report",
+       "published_at": "2026-11-06T23:17:18Z",
+       "read_full": false,
+       "takeaway": "Second-hand report of tariff plans."
+      },
+      {
+       "id": "bccac697d6",
+       "kind": "article",
+       "source_id": "fox",
+       "outlet": "Fox News",
+       "lean": "right",
+       "paywalled": false,
+       "url": "https://www.foxnews.com/politics/progressive-groups-182-page-blueprint-maps-potential-dem-investigations-trump-corporate-allies",
+       "title": "Progressive group's 182-page blueprint maps out potential Dem investigations into Trump, corporate allies",
+       "published_at": "2026-11-06T13:35:56Z",
+       "read_full": false,
+       "takeaway": "Summary of an activist blueprint, from a right-leaning outlet."
+      }
+     ],
+     "lean_counts": {
+      "left": 1,
+      "center": 1,
+      "right": 3,
+      "unrated": 0
+     }
+    }
+   ]
+  },
+  {
+   "id": "nyc",
+   "title": "New York City",
+   "stories": [
+    {
+     "id": "nyc-fire-deaths",
+     "headline": "NYC fire deaths have nearly doubled this year after a deadly Brooklyn blaze",
+     "region": "Brooklyn",
+     "importance": 5,
+     "summary": "The New York Times reported that 86 people have died in NYC fires this year, nearly double the earlier toll, after a Brooklyn fire this week that killed six. The Daily News reported the City Council will hold an emergency hearing on deadly lithium-ion battery fires.",
+     "why_it_matters": "Fire deaths are rising citywide, and the Council hearing may lead to new rules on e-bike and other lithium-ion batteries.",
+     "background": "Lithium-ion batteries in e-bikes and scooters have been linked to fatal fires in New York in recent years. The Times says this week's Brooklyn fire renewed questions about whether e-bike batteries played a role in the rising toll. The City Council is the body that holds oversight hearings and passes local fire-safety laws. The FDNY investigates the cause of each fire.",
+     "facts": [
+      {
+       "text": "The Times reported that 86 people have died in New York City fires so far this year, nearly double the prior-year toll.",
+       "refs": [
+        "3a34103382"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "A Brooklyn fire this week killed six people, according to the Times, and it raised questions about whether e-bike batteries played a role.",
+       "refs": [
+        "3a34103382"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The Daily News reported that deadly lithium-ion battery fires led the City Council to schedule an emergency hearing.",
+       "refs": [
+        "b77a14bff5"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The Daily News reported that one victim of the Brooklyn fire was the wife of a Chinese immigrant, and that their daughter was missing.",
+       "refs": [
+        "33487c12f5"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "b77a14bff5",
+       "kind": "article",
+       "source_id": "nydailynews",
+       "outlet": "New York Daily News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNUI2Yi1yXzk0aWJkVi0xWkhqd2FIUEQzbU16NGxJd3VDc2FFd3NDeHB5MHVQbVVSam1HakQyckdSdnh5aTdwOGpwMm1helVuTXh4UGZGWmd0R0hnSGZBbGtiWld6WUlHWU1oek9wb0dHZlBjbHp6Q19SMkVpSkF1VDRidEQtWWl6aks2cUpVVWtDdXRlUjVYZzRkWElCZU0za3pXcWdxYV9VWjg?oc=5",
+       "title": "Deadly lithium-ion battery fires spur NYC Council to hold emergency hearing",
+       "published_at": "2026-11-07T01:51:58Z",
+       "read_full": false,
+       "takeaway": "Headline only: Council response to battery fires."
+      },
+      {
+       "id": "33487c12f5",
+       "kind": "article",
+       "source_id": "nydailynews",
+       "outlet": "New York Daily News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTm1VbjE4T0s2cmFwcUgtNFZhelJDUWZaX1ladEJhc0p4Rk1xZjBoeVVvLVowRzNxMlIteGl6QWVGd1ZHUjdnNUZURjhmNi1EdG1LZW9JaTFLZjFHR2hCRDg5c0x1eHN6dnNINm5PRElxT2gwc21oQWxHTlUtZUhWdkxoZ25zclFDZnFrNUhSMjhBZG93UDRYck1qbGJsMm1qeVBzQzBSUmNTb1h2QVZqSjhQSXlvRlFVMmFtWW5vNWEwTlBQTW56NGF5cl9tUWJlVVE?oc=5",
+       "title": "Brooklyn blaze that killed 6 devastates Chinese immigrant, leaving wife dead and daughter missing",
+       "published_at": "2026-11-06T21:17:52Z",
+       "read_full": false,
+       "takeaway": "Headline only: human story of one family in the Brooklyn blaze."
+      },
+      {
+       "id": "3a34103382",
+       "kind": "article",
+       "source_id": "nyt",
+       "outlet": "The New York Times",
+       "lean": "lean_left",
+       "paywalled": true,
+       "url": "https://www.nytimes.com/2026/11/06/nyregion/nyc-fire-deaths.html",
+       "title": "86 Deaths and Counting: N.Y.C. Fire Fatalities Have Nearly Doubled This Year",
+       "published_at": "2026-11-07T00:01:39Z",
+       "read_full": false,
+       "takeaway": "Citywide toll and the e-bike battery question (paywalled; summary only)."
+      }
+     ],
+     "lean_counts": {
+      "left": 2,
+      "center": 0,
+      "right": 0,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "nyc-east-harlem-shooting",
+     "headline": "Two killed in shooting at East Harlem senior center",
+     "region": "Manhattan",
+     "importance": 4,
+     "summary": "Gothamist, citing the NYPD, reported that a home health aide and an elderly man were killed in a shooting at the Gaylord White Senior Center on East 104th Street on Thursday evening. The Daily News described the victims as an ailing man and his home health aide.",
+     "why_it_matters": "A shooting at a senior center affects a community facility that older residents rely on, and the NYPD investigation is ongoing.",
+     "background": "The Gaylord White Senior Center is on East 104th Street in East Harlem. Police responded to a call there Thursday evening. The two outlets are the only ones in this digest covering it, and both lean left.",
+     "facts": [
+      {
+       "text": "Police responded to a call at the Gaylord White Senior Center on East 104th Street on Thursday evening, per Gothamist.",
+       "refs": [
+        "3eabfc7dc8"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Gothamist, citing the NYPD, reported that a health aide and an elderly man were killed.",
+       "refs": [
+        "3eabfc7dc8"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "The Daily News called it a double murder of an ailing East Harlem man and his home health aide.",
+       "refs": [
+        "98bff0c612"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [
+      {
+       "ref": "3eabfc7dc8",
+       "note": "Attributes the account to the NYPD and names the senior center."
+      },
+      {
+       "ref": "98bff0c612",
+       "note": "Calls it a 'double murder' and stresses the victims' frailty."
+      }
+     ],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "3eabfc7dc8",
+       "kind": "article",
+       "source_id": "gothamist",
+       "outlet": "Gothamist",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://gothamist.com/news/manhattan-shooting-kills-2-people-in-east-harlem-nypd-says",
+       "title": "Health aide, elderly man killed in East Harlem senior center shooting, per NYPD",
+       "published_at": "2026-11-06T23:14:00Z",
+       "read_full": false,
+       "takeaway": "Attributes the account to the NYPD; location focus."
+      },
+      {
+       "id": "98bff0c612",
+       "kind": "article",
+       "source_id": "nydailynews",
+       "outlet": "New York Daily News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeE1uMVAxRDFMalEzdnMxN01zaTNBU2NLaF9COW5yYmZkbDMxUi0yckFRbk5OcU5CT2M3WWItTWxaTG5LSGtPMjlEU1dFdnJMYlYxaVJ3TDkyRTBwdlVjZ3cyaE1oLTN3Qkd2XzZqQUhQSTNQUHdMNlhSeHB1TDNWdTVpSHhKRVJ1b2JOQkNpNVhCelRKb0NOa2FYbnJUaTdKQm1hRjk1amNpN0k?oc=5",
+       "title": "Ailing East Harlem man and home health aide killed in grisly double murder",
+       "published_at": "2026-11-06T13:06:17Z",
+       "read_full": false,
+       "takeaway": "Headline frames it as a double murder of two vulnerable victims."
+      }
+     ],
+     "lean_counts": {
+      "left": 2,
+      "center": 0,
+      "right": 0,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "nyc-queens-dwi-baby",
+     "headline": "Queens driver indicted in death of 1-year-old",
+     "region": "Queens",
+     "importance": 3,
+     "summary": "A Queens grand jury indicted Elvin Rivera, 57, of Flushing on manslaughter and impaired-driving charges for allegedly running a stop sign and killing a 1-year-old boy last month, per the Queens DA as reported by amNY. Gothamist reported the indictment says he was on cocaine and THC.",
+     "why_it_matters": "The case shows how prosecutors handle impaired-driving deaths at neighborhood intersections.",
+     "background": "The boy was struck at Murray Street and 32nd Avenue in Murray Hill, Queens. The Queens District Attorney's office announced the indictment after an arraignment in Queens Supreme Court. An indictment is an accusation, not a finding of guilt.",
+     "facts": [
+      {
+       "text": "A Queens grand jury indicted Elvin Rivera, 57, on manslaughter, driving while ability impaired and other charges, per amNY.",
+       "refs": [
+        "e79ef231b4"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "He was arraigned Friday in Queens Supreme Court, per amNY.",
+       "refs": [
+        "e79ef231b4"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Gothamist reported the DA's office says the driver was on cocaine and THC.",
+       "refs": [
+        "00857e0e1c"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "00857e0e1c",
+       "kind": "article",
+       "source_id": "gothamist",
+       "outlet": "Gothamist",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://gothamist.com/news/intoxicated-queens-driver-killed-baby-after-running-stop-sign-indictment-says",
+       "title": "Intoxicated Queens driver killed baby after running stop sign, indictment says",
+       "published_at": "2026-11-06T21:29:29Z",
+       "read_full": false,
+       "takeaway": "Adds the substances the DA alleges."
+      },
+      {
+       "id": "e79ef231b4",
+       "kind": "article",
+       "source_id": "amny",
+       "outlet": "amNY",
+       "lean": "center",
+       "paywalled": false,
+       "url": "https://qns.com/2026/11/flushing-man-indicted-manslaughter-dwi-killing-boy-murray-hill/",
+       "title": "Flushing man indicted on manslaughter, DWI charges for allegedly killing 1-year-old boy in Murray Hill: DA",
+       "published_at": "2026-11-06T21:40:29Z",
+       "read_full": false,
+       "takeaway": "Charges and arraignment details from the DA."
+      }
+     ],
+     "lean_counts": {
+      "left": 1,
+      "center": 1,
+      "right": 0,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "nyc-penn-station-msg",
+     "headline": "Federal Penn Station plan would require buying theater attached to Madison Square Garden",
+     "region": "Manhattan",
+     "importance": 3,
+     "summary": "Gothamist reported that the Trump administration is moving ahead with a new Penn Station design that would require buying the theater attached to the west side of Madison Square Garden. Its headline says the plan could send taxpayer money to a new venue for MSG owner James Dolan.",
+     "why_it_matters": "The plan affects the future of one of the busiest rail hubs in the country and how public money is spent.",
+     "background": "The federal government and Amtrak took over the Penn Station rebuild from the MTA and state. Earlier reporting found by search said the plan keeps the Garden in place while replacing its theater with a new train hall space. The price paid to Dolan's company has been reported as unconfirmed.",
+     "facts": [
+      {
+       "text": "The federal government's plan would require purchase of a theater attached to the west side of Madison Square Garden, per Gothamist.",
+       "refs": [
+        "0f46187f02"
+       ],
+       "outlet_count": 1
+      },
+      {
+       "text": "Search results from outlets such as West Side Spirit describe Halmar as chosen by Amtrak for an $8 billion Penn Station rebuild with MSG not required to move.",
+       "refs": [
+        "nyc-w1"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "0f46187f02",
+       "kind": "article",
+       "source_id": "gothamist",
+       "outlet": "Gothamist",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://gothamist.com/news/amtraks-penn-station-plan-could-funnel-taxpayer-money-to-new-venue-for-james-dolan",
+       "title": "Amtrak's Penn Station plan could funnel taxpayer money to new venue for James Dolan",
+       "published_at": "2026-11-06T21:34:00Z",
+       "read_full": false,
+       "takeaway": "Gothamist's own reporting, summary only; focuses on money flowing to Dolan."
+      },
+      {
+       "id": "nyc-w1",
+       "kind": "web",
+       "source_id": "",
+       "outlet": "West Side Spirit",
+       "lean": "unrated",
+       "paywalled": false,
+       "url": "https://www.westsidespirit.com/news/halmar-tapped-by-amtrak-for-8-billion-penn-station-redo-msg-won-t-have-to-move-EF5869035",
+       "title": "Halmar Tapped by Amtrak for $8 Billion Penn Station Redo; MSG Won't Have to Move",
+       "published_at": "",
+       "read_full": true,
+       "takeaway": ""
+      }
+     ],
+     "lean_counts": {
+      "left": 1,
+      "center": 0,
+      "right": 0,
+      "unrated": 1
+     }
+    },
+    {
+     "id": "nyc-hochul-taxes",
+     "headline": "Hochul signals shift on tax hikes after re-election win",
+     "region": "Albany",
+     "importance": 3,
+     "summary": "The Daily News reported that Gov. Kathy Hochul signaled a shift on whether to raise taxes after her re-election victory. Only the headline was available, so details are not confirmed here.",
+     "why_it_matters": "Tax decisions in Albany affect city budgets and what New Yorkers pay. Only one outlet in this digest covered it.",
+     "background": "Hochul won re-election this week, according to the Daily News headline. State tax levels are set in the state budget. The city depends on Albany for tax authority and aid.",
+     "facts": [
+      {
+       "text": "The Daily News reported that Hochul signaled a shift on the question of tax hikes after her re-election win.",
+       "refs": [
+        "1c6075a7ce"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "1c6075a7ce",
+       "kind": "article",
+       "source_id": "nydailynews",
+       "outlet": "New York Daily News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaHRLVUloZ0RRTlhTb0R4RHRmNGV1VHdHOEV6b2NodVBYQ0JKVW5GTTZrZ1BRRzJfcDdmQ0NaWlFvQmNEVFh0N1R2UW5hcHRvMldMZEo1TjdzMWFKTmpnR2duaDRHUDAtXzE4aHZqMll4TlU4a3gxbWtrMzREeEhuOUd4SmI2NjlxTXpMMVhuc2xvelVDdnpvUmpCQjlpQklOUjB2eXA5WC1xZF81RFlXRnc1bk1vNWYxREhqMGR0Q2MwUVdMazFybExFRVYxWGM1Z2tMZVJyLWJrTll6VnJyUjZB?oc=5",
+       "title": "After big re-election win, NY Gov. Hochul signals shift on question of tax hikes",
+       "published_at": "2026-11-06T22:25:21Z",
+       "read_full": false,
+       "takeaway": "Headline only; single-outlet."
+      }
+     ],
+     "lean_counts": {
+      "left": 1,
+      "center": 0,
+      "right": 0,
+      "unrated": 0
+     }
+    },
+    {
+     "id": "nyc-2k-childcare",
+     "headline": "City moves to register childcare providers after delays threatened 2-K rollout",
+     "region": "City Hall",
+     "importance": 3,
+     "summary": "The Daily News reported that the city is moving quickly to register childcare providers after delays threatened Mayor Mamdani's 2-K rollout. Only the headline was available.",
+     "why_it_matters": "Parents of two-year-olds depend on providers being registered for the program to start on time. Only the Daily News covered it here.",
+     "background": "2-K is Mayor Zohran Mamdani's plan for free childcare for two-year-olds. Providers must be registered with the city to take part. The Daily News says delays had put the rollout at risk.",
+     "facts": [
+      {
+       "text": "The Daily News reported that the city is moving quickly to register childcare providers after delays threatened the 2-K rollout.",
+       "refs": [
+        "e433dbacf4"
+       ],
+       "outlet_count": 1
+      }
+     ],
+     "disputed": [],
+     "framing": [],
+     "left_out": [],
+     "social": "",
+     "refs": [
+      {
+       "id": "e433dbacf4",
+       "kind": "article",
+       "source_id": "nydailynews",
+       "outlet": "New York Daily News",
+       "lean": "lean_left",
+       "paywalled": false,
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeWlEa3U5WFhadVQ0TFdsYTktQ2NOZnZfSU1KM1BmaXdqSERxNWhYem1WdGpLTHU1OGxpZTBFeDlocEktc05kOXh0TG1yY1o4elNkX2tnNlh1ZDd0STBKZWNJeThZcHI4TWN0Y2dURTlHTG9JR0lYWC1mRXFlUHJaTWQ1NzF4M09obWhJNTUzRzZidjZwMGNndHo3dHBmU1hGSVZYdlhkaEVpbFJiQjA2aGJuaE9pcmpKWVFuN1NoYU1rc1d1aXhOLVRNQzR5Z2c?oc=5",
+       "title": "NYC moves quickly to register childcare providers after delays threatened Mamdani's 2-K rollout",
+       "published_at": "2026-11-06T21:40:51Z",
+       "read_full": false,
+       "takeaway": "Headline only; single-outlet."
+      }
+     ],
+     "lean_counts": {
+      "left": 1,
+      "center": 0,
+      "right": 0,
+      "unrated": 0
+     }
+    }
+   ]
+  }
+ ],
+ "markets": {
+  "summary": "Wall Street had a rough week. Tech stocks fell hard on Thursday, with the Nasdaq slipping into a correction (a drop of 10% or more from a recent high), and the selloff spread to Asia and Europe on Friday. Coverage in the Guardian, Deutsche Welle and the Financial Times tied the move to doubts about huge AI investments and to investor worries about how a Democratic Congress might treat the sector. Bloomberg put the week's losses at about $5.7 trillion. Stocks steadied somewhat on Friday after the Labor Department reported that employers added 165,000 jobs in October, well above the roughly 59,000 analysts expected, and the unemployment rate dipped to 4.1%. The FT noted that strong hiring reinforces expectations the Federal Reserve could raise interest rates, which is another pressure on richly priced stocks.",
+  "movers": [
+   {
+    "symbol": "NIKKEI225",
+    "name": "Nikkei 225",
+    "why": "Japan's Nikkei fell about 6% on Friday, dragged down by chip stocks as the AI selloff reached Asia, per WSJ reporting."
+   },
+   {
+    "symbol": "SP500",
+    "name": "S&P 500",
+    "why": "The S&P 500 fell about 4.4% in the latest reading in the data (Nov. 5), the day the tech rout began on Wall Street."
+   },
+   {
+    "symbol": "DGS2",
+    "name": "2-year Treasury yield",
+    "why": "The 2-year Treasury yield fell 12 basis points (0.12 percentage point) in the latest reading; the coverage we have doesn't give a clear cause."
+   }
+  ],
+  "concept": {
+   "term": "Nonfarm payrolls",
+   "explanation": "It is the government's monthly count of how many jobs employers added, excluding farms, and it comes out on the first Friday of most months. It moves with business confidence and hiring demand, and markets watch it because strong job growth can keep the Fed from cutting interest rates, or push it toward raising them. That matters to your wallet because the Fed's rate decisions feed through to mortgage, car and credit card rates, and a surprise in either direction can swing stock prices that sit inside most retirement accounts."
+  },
+  "watch": [
+   "Tue Nov 10: October consumer price index (inflation) report, 8:30 a.m. ET",
+   "Wed Nov 11: Veterans Day observances",
+   "Fri Nov 13: Producer price index for October",
+   "Before Thanksgiving (Nov 26): Anthropic's planned IPO, per the Financial Times",
+   "Wed Dec 9: Federal Reserve rate decision (date per third-party calendars; confirm with the Fed)"
+  ],
+  "quotes": [
+   {
+    "symbol": "SP500",
+    "name": "S&P 500",
+    "group": "us_stocks",
+    "unit": "points",
+    "blurb": "500 of the largest US companies. The standard scoreboard for the US stock market.",
+    "last": 7353.73,
+    "previous": 7688.62,
+    "month_ago": 7818.93,
+    "as_of": "2026-11-05",
+    "provider": "fred"
+   },
+   {
+    "symbol": "NASDAQCOM",
+    "name": "Nasdaq Composite",
+    "group": "us_stocks",
+    "unit": "points",
+    "blurb": "Heavy on tech companies, so it swings harder than the S&P 500 on tech news.",
+    "last": 24579.42,
+    "previous": 24315.0,
+    "month_ago": 27538.69,
+    "as_of": "2026-11-06",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DJIA",
+    "name": "Dow Jones Industrial Average",
+    "group": "us_stocks",
+    "unit": "points",
+    "blurb": "30 big, established US companies. The oldest and most quoted index, but narrow.",
+    "last": 51285.73,
+    "previous": 51523.06,
+    "month_ago": 51179.87,
+    "as_of": "2026-11-06",
+    "provider": "fred"
+   },
+   {
+    "symbol": "NIKKEI225",
+    "name": "Nikkei 225",
+    "group": "world_stocks",
+    "unit": "points",
+    "blurb": "Japan's main stock index.",
+    "last": 57434.77,
+    "previous": 61077.9,
+    "month_ago": 70035.71,
+    "as_of": "2026-11-06",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DFF",
+    "name": "Fed funds rate",
+    "group": "rates",
+    "unit": "percent",
+    "blurb": "The overnight rate the Federal Reserve targets. Every other US interest rate keys off it.",
+    "last": 3.88,
+    "previous": 3.88,
+    "month_ago": 3.88,
+    "as_of": "2026-11-05",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DGS2",
+    "name": "2-year Treasury yield",
+    "group": "rates",
+    "unit": "percent",
+    "blurb": "What the US government pays to borrow for 2 years. Moves with expectations for Fed rate changes.",
+    "last": 4.46,
+    "previous": 4.58,
+    "month_ago": 4.79,
+    "as_of": "2026-11-05",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DGS10",
+    "name": "10-year Treasury yield",
+    "group": "rates",
+    "unit": "percent",
+    "blurb": "The government's 10-year borrowing cost. Mortgage rates and company borrowing costs follow it.",
+    "last": 4.84,
+    "previous": 4.9,
+    "month_ago": 5.27,
+    "as_of": "2026-11-05",
+    "provider": "fred"
+   },
+   {
+    "symbol": "MORTGAGE30US",
+    "name": "30-year mortgage rate",
+    "group": "rates",
+    "unit": "percent",
+    "blurb": "Freddie Mac's weekly average for a 30-year fixed mortgage.",
+    "last": 7.18,
+    "previous": 7.24,
+    "month_ago": 7.28,
+    "as_of": "2026-11-05",
+    "provider": "fred"
+   },
+   {
+    "symbol": "CPIAUCSL",
+    "name": "Inflation (CPI, year over year)",
+    "group": "economy",
+    "unit": "percent",
+    "blurb": "How much consumer prices rose over the past year. The Fed aims for about 2%.",
+    "last": 3.7172508442689933,
+    "previous": 3.353016322755642,
+    "month_ago": 3.353016322755642,
+    "as_of": "2026-09-01",
+    "provider": "fred"
+   },
+   {
+    "symbol": "UNRATE",
+    "name": "Unemployment rate",
+    "group": "economy",
+    "unit": "percent",
+    "blurb": "Share of people looking for work who can't find it. From the monthly jobs report.",
+    "last": 4.1,
+    "previous": 4.2,
+    "month_ago": 4.2,
+    "as_of": "2026-10-01",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DCOILWTICO",
+    "name": "Crude oil (WTI)",
+    "group": "commodities",
+    "unit": "usd",
+    "blurb": "US oil price per barrel. Feeds into gas prices and inflation.",
+    "last": 99.64,
+    "previous": 100.06,
+    "month_ago": 97.89,
+    "as_of": "2026-11-03",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DCOILBRENTEU",
+    "name": "Crude oil (Brent)",
+    "group": "commodities",
+    "unit": "usd",
+    "blurb": "The global oil benchmark. Jumps on Middle East and Russia supply news.",
+    "last": 107.03,
+    "previous": 107.39,
+    "month_ago": 135.51,
+    "as_of": "2026-11-03",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DHHNGSP",
+    "name": "Natural gas (Henry Hub)",
+    "group": "commodities",
+    "unit": "usd",
+    "blurb": "US natural gas price at the Henry Hub in Louisiana, per million BTU. Drives heating and electricity bills.",
+    "last": 2.63,
+    "previous": 2.54,
+    "month_ago": 2.9,
+    "as_of": "2026-11-03",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DTWEXBGS",
+    "name": "US dollar index (broad)",
+    "group": "currencies",
+    "unit": "points",
+    "blurb": "The Fed's index of the dollar against the currencies of US trading partners. Up means a stronger dollar.",
+    "last": 121.6656,
+    "previous": 121.7361,
+    "month_ago": 120.9693,
+    "as_of": "2026-10-30",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DEXUSEU",
+    "name": "Euro (USD per EUR)",
+    "group": "currencies",
+    "unit": "fx_rate",
+    "blurb": "Dollars per euro. Up means the euro strengthened against the dollar.",
+    "last": 1.1163,
+    "previous": 1.1165,
+    "month_ago": 1.1345,
+    "as_of": "2026-10-30",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DEXJPUS",
+    "name": "Japanese yen (JPY per USD)",
+    "group": "currencies",
+    "unit": "fx_rate",
+    "blurb": "Yen per dollar. Up means a weaker yen.",
+    "last": 157.47,
+    "previous": 157.83,
+    "month_ago": 157.25,
+    "as_of": "2026-10-30",
+    "provider": "fred"
+   },
+   {
+    "symbol": "DEXCHUS",
+    "name": "Chinese yuan (CNY per USD)",
+    "group": "currencies",
+    "unit": "fx_rate",
+    "blurb": "Yuan per dollar. Beijing manages it closely, so moves are a policy signal.",
+    "last": 6.6538,
+    "previous": 6.6604,
+    "month_ago": 6.7045,
+    "as_of": "2026-10-30",
+    "provider": "fred"
+   },
+   {
+    "symbol": "CBBTCUSD",
+    "name": "Bitcoin",
+    "group": "crypto",
+    "unit": "usd",
+    "blurb": "The largest cryptocurrency. Trades around the clock and swings far more than stocks.",
+    "last": 75860.14,
+    "previous": 76152.52,
+    "month_ago": 83239.49,
+    "as_of": "2026-11-06",
+    "provider": "fred"
+   }
+  ]
+ },
+ "trending": [
+  {
+   "title": "Stephen Miller named chief of staff",
+   "context": "Trump replaced Susie Wiles with Miller after the midterm losses, and people are looking up who he is.",
+   "signal": "wikipedia"
+  },
+  {
+   "title": "2026 United States elections",
+   "context": "Democrats won a majority in both chambers of Congress, according to Wikipedia's news summary.",
+   "signal": "wikipedia_news"
+  },
+  {
+   "title": "Russell Brand",
+   "context": "Searches and posts are up around the comedian's trial on rape and assault charges.",
+   "signal": "wikipedia"
+  },
+  {
+   "title": "Kimi Antonelli",
+   "context": "He became the youngest ever Formula One world champion.",
+   "signal": "wikipedia_news"
+  },
+  {
+   "title": "New Zealand general election",
+   "context": "New Zealanders voted and early counts were close, so people are following the result.",
+   "signal": "bluesky"
+  },
+  {
+   "title": "Bomb threats divert European flights",
+   "context": "Several flights in Europe were diverted after bomb threats.",
+   "signal": "bluesky"
+  },
+  {
+   "title": "Paraguay's president resigns",
+   "context": "Santiago Peña stepped down, and people are asking what comes next for the country.",
+   "signal": "bluesky"
+  },
+  {
+   "title": "Alabama vs. LSU",
+   "context": "College football fans are searching for the game.",
+   "signal": "google"
+  }
+ ],
+ "signals": [
+  {
+   "signal": "google",
+   "title": "luka doncic comments dirk nowitzki",
+   "url": "https://www.google.com/search?q=luka+doncic+comments+dirk+nowitzki",
+   "detail": "1000+ searches",
+   "related": [
+    {
+     "title": "Lakers’ Luka Doncic calls out NBA mentor: ‘He don’t even call’",
+     "url": "https://sports.yahoo.com/articles/lakers-luka-doncic-calls-nba-051949870.html",
+     "outlet": "Yahoo Sports"
+    },
+    {
+     "title": "Lakers’ Luka Doncic Declared Better Than Dirk Nowitzki by Former NBA Star",
+     "url": "https://www.si.com/nba/lakers/onsi/lakers-luka-doncic-declared-better-than-dirk-nowitzki-by-former-nba-star",
+     "outlet": "Sports Illustrated"
+    },
+    {
+     "title": "He said: \"Thank you, Dirk. But he doesn't even call. …",
+     "url": "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/07/he-said-thank-you-dirk-but-he-doesnt-even-call/92658948007/",
+     "outlet": "HoopsHype"
+    }
+   ]
+  },
+  {
+   "signal": "google",
+   "title": "will estes donnie wahlberg boston blue",
+   "url": "https://www.google.com/search?q=will+estes+donnie+wahlberg+boston+blue",
+   "detail": "1000+ searches",
+   "related": [
+    {
+     "title": "'Boston Blue': Why Will Estes Was 'Terrified' to Play Jamie Reagan Again",
+     "url": "https://www.tvinsider.com/1302253/boston-blue-will-estes-jamie-reagan-danny-donnie-wahlberg-blue-bloods-interview/",
+     "outlet": "TV Insider"
+    },
+    {
+     "title": "Boston Blue Season 2, Episode 5: Jamie Reagan Returns — Will Estes Interview Video",
+     "url": "https://www.tvline.com/2310002/boston-blue-season-2-episode-5-jamie-reagan-returns-will-estes-interview-video/",
+     "outlet": "TVLine"
+    },
+    {
+     "title": "Donnie Wahlberg and Blue Bloods Brother Will Estes Settle a ‘Beef’ as They Reunite in Boston Blue Clip (Exclusive)",
+     "url": "https://people.com/will-estes-reunites-donnie-wahlberg-boston-blue-clip-exclusive-12238364",
+     "outlet": "People.com"
+    }
+   ]
+  },
+  {
+   "signal": "google",
+   "title": "leeds united",
+   "url": "https://www.google.com/search?q=leeds+united",
+   "detail": "100+ searches",
+   "related": [
+    {
+     "title": "Leeds United vs Tottenham Hotspur: Premier League preview, team news, stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cq33x0rvmjret",
+     "outlet": "BBC"
+    },
+    {
+     "title": "Leeds vs Tottenham LIVE! Premier League updates, news, prediction and line-ups",
+     "url": "https://www.skysports.com/football/live-blog/13592869/leeds-vs-tottenham-live-premier-league-updates-news-prediction-and-line-ups",
+     "outlet": "Sky Sports"
+    },
+    {
+     "title": "Team News: Injury updates on Calvert-Lewin, Okafor & Stach",
+     "url": "https://www.leedsunited.com/en/news/team-news-injury-updates-on-calvert-lewin-okafor-and-stach",
+     "outlet": "Leeds United | Official Website - Leeds United"
+    }
+   ]
+  },
+  {
+   "signal": "google",
+   "title": "ihsa football scores",
+   "url": "https://www.google.com/search?q=ihsa+football+scores",
+   "detail": "200+ searches",
+   "related": [
+    {
+     "title": "IHSA football playoffs: Get the scores from 2nd-round games in Class 8A to 1A",
+     "url": "https://www.chicagotribune.com/2026/11/06/ihsa-state-football-playoff-pairings-schedule/",
+     "outlet": "Chicago Tribune"
+    },
+    {
+     "title": "Illinois High School Football Final Scores - November 6",
+     "url": "https://sports.yahoo.com/articles/illinois-high-school-football-final-063359107.html",
+     "outlet": "Yahoo Sports"
+    },
+    {
+     "title": "IHSA playoff predictions: Second-round picks for Peoria-area high school football teams",
+     "url": "https://www.pjstar.com/story/sports/high-school/football/2026/11/05/football-predictions-how-we-see-ihsa-second-round-for-peoria-area-high-school-games/92564715007/",
+     "outlet": "Peoria Journal Star"
+    }
+   ]
+  },
+  {
+   "signal": "google",
+   "title": "jehovah's witnesses and blood transfusions",
+   "url": "https://www.google.com/search?q=jehovah%27s+witnesses+and+blood+transfusions",
+   "detail": "100+ searches",
+   "related": [
+    {
+     "title": "Jehovah's Witness rules on blood transfusions have changed, but it's too late for my brother",
+     "url": "https://www.bbc.com/news/articles/cx5ynly549njo",
+     "outlet": "BBC"
+    },
+    {
+     "title": "Jehovahs Witnesses Relax Blood Rules After Texas Man Dies",
+     "url": "https://suaragarut.id/en/witnesses-relax-blood-rules",
+     "outlet": "SuaraGarut.ID"
+    }
+   ]
+  },
+  {
+   "signal": "google",
+   "title": "alabama vs lsu",
+   "url": "https://www.google.com/search?q=alabama+vs+lsu",
+   "detail": "1000+ searches",
+   "related": [
+    {
+     "title": "Alabama's Ryan Coleman-Williams among trio to return vs. LSU",
+     "url": "https://www.espn.com/college-football/story/_/id/50401690/alabama-ryan-coleman-williams-trio-return-vs-lsu",
+     "outlet": "ESPN"
+    },
+    {
+     "title": "Can Alabama vs. LSU last as a premier college football rivalry?",
+     "url": "https://www.nytimes.com/athletic/7754316/2026/11/05/alabama-lsu-football-rivalry-sec-schedule/",
+     "outlet": "The New York Times"
+    },
+    {
+     "title": "Casagrande: Monster weekend means wildly different things for Alabama, Auburn",
+     "url": "https://www.al.com/sports/2026/11/casagrande-monster-weekend-means-wildly-different-things-for-alabama-auburn.html",
+     "outlet": "AL.com"
+    }
+   ]
+  },
+  {
+   "signal": "google",
+   "title": "dp world tour",
+   "url": "https://www.google.com/search?q=dp+world+tour",
+   "detail": "100+ searches",
+   "related": [
+    {
+     "title": "Is this really the end of LIV, and what's next for some the world's best golfers?",
+     "url": "https://www.espn.com/golf/story/_/id/50390018/liv-golf-liquidation-next-bryson-dechambeau-jon-rahm",
+     "outlet": "ESPN"
+    },
+    {
+     "title": "LIV Golf is dead ... but it changed golf forever",
+     "url": "https://sports.yahoo.com/golf/article/liv-golf-is-dead--but-it-changed-golf-forever-164353197.html",
+     "outlet": "Yahoo Sports"
+    },
+    {
+     "title": "Report: DPWT informs Bryson DeChambeau he’s got full status for 2027, if he wants it",
+     "url": "https://www.golfchannel.com/dp-world-tour/news/report-dpwt-informs-bryson-dechambeau-hes-got-full-status-for-2027-if-he-wants-it",
+     "outlet": "Golf Channel"
+    }
+   ]
+  },
+  {
+   "signal": "google",
+   "title": "wrongful death lawyer",
+   "url": "https://www.google.com/search?q=wrongful+death+lawyer",
+   "detail": "100+ searches",
+   "related": [
+    {
+     "title": "Lindsay Clancy’s Doctors Use Her Lawyer’s Statement to Push for a Lawsuit Against Them to Be Dropped",
+     "url": "https://www.yahoo.com/news/us/articles/lindsay-clancy-doctors-her-lawyer-214909986.html",
+     "outlet": "Yahoo"
+    },
+    {
+     "title": "Lindsay Clancy doctors make emergency bid to derail ex Patrick's $1m lawsuit",
+     "url": "https://www.the-sun.com/news/17263755/lindsay-clancy-doctors-derail-patrick-civil-lawsuit/",
+     "outlet": "The Sun"
+    },
+    {
+     "title": "Family plans $75M suit after 18-year-old killed in Newnan police chase",
+     "url": "https://www.fox5atlanta.com/news/family-teen-killed-newnan-police-make-announcement",
+     "outlet": "FOX 5 Atlanta"
+    }
+   ]
+  },
+  {
+   "signal": "google",
+   "title": "amal clooney suede coat outfit",
+   "url": "https://www.google.com/search?q=amal+clooney+suede+coat+outfit",
+   "detail": "100+ searches",
+   "related": [
+    {
+     "title": "Amal Clooney brings back the ultimate suede jacket for fall during stylish night out with George Clooney",
+     "url": "https://www.yahoo.com/entertainment/celebrity/fashion/articles/amal-clooney-brings-back-ultimate-173139262.html",
+     "outlet": "Yahoo"
+    },
+    {
+     "title": "Amal Clooney doubles up on suede in hip-high boots for NYC night with George Clooney",
+     "url": "https://pagesix.com/2026/11/06/style/amal-clooney-goes-suede-on-suede-in-thigh-high-boots-for-night-with-george-clooney/",
+     "outlet": "Page Six"
+    },
+    {
+     "title": "Amal Clooney Ticks off Every Fall Style Classic at the Theater",
+     "url": "https://www.vogue.com/article/amal-clooney-ticks-off-every-fall-style-classic-at-the-theater",
+     "outlet": "Vogue"
+    }
+   ]
+  },
+  {
+   "signal": "google",
+   "title": "colorado",
+   "url": "https://www.google.com/search?q=colorado",
+   "detail": "100+ searches",
+   "related": [
+    {
+     "title": "Midterm 'blue tsunami' drowns Colorado GOP",
+     "url": "https://www.kunc.org/news/2026-11-06/midterm-blue-tsunami-drowns-colorado-gop",
+     "outlet": "KUNC"
+    },
+    {
+     "title": "Polis on Democrats’ big night, CoCo and why he hopes mercy will be his legacy",
+     "url": "https://www.cpr.org/2026/11/05/polis-on-democratic-wins-and-legacy/",
+     "outlet": "Colorado Public Radio"
+    },
+    {
+     "title": "Colorado Republicans chairman speaks on GOP losses, rebuilding party",
+     "url": "https://www.9news.com/article/news/politics/colorado-gop-chairman-republican-losses-rebuilding-party/73-f73bdc6e-2cf9-43ea-abe0-b48cfae59963",
+     "outlet": "9News"
+    }
+   ]
+  },
+  {
+   "signal": "wikipedia",
+   "title": "Russell Brand",
+   "url": "https://en.wikipedia.org/wiki/Russell_Brand",
+   "detail": "507,816 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia",
+   "title": "Abdul El-Sayed",
+   "url": "https://en.wikipedia.org/wiki/Abdul_El-Sayed",
+   "detail": "437,069 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia",
+   "title": "Stephen Miller",
+   "url": "https://en.wikipedia.org/wiki/Stephen_Miller",
+   "detail": "220,230 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia",
+   "title": "2026 United States elections",
+   "url": "https://en.wikipedia.org/wiki/2026_United_States_elections",
+   "detail": "219,097 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia",
+   "title": "Jon Ossoff",
+   "url": "https://en.wikipedia.org/wiki/Jon_Ossoff",
+   "detail": "211,594 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia",
+   "title": ".xyz",
+   "url": "https://en.wikipedia.org/wiki/.xyz",
+   "detail": "209,858 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia",
+   "title": ".xxx",
+   "url": "https://en.wikipedia.org/wiki/.xxx",
+   "detail": "199,678 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia",
+   "title": "Nithya Raman",
+   "url": "https://en.wikipedia.org/wiki/Nithya_Raman",
+   "detail": "184,633 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia",
+   "title": "James Talarico",
+   "url": "https://en.wikipedia.org/wiki/James_Talarico",
+   "detail": "171,286 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia",
+   "title": "Scene (2026 film)",
+   "url": "https://en.wikipedia.org/wiki/Scene_%282026_film%29",
+   "detail": "159,862 views",
+   "related": []
+  },
+  {
+   "signal": "wikipedia_news",
+   "title": "In the United States, the Democratic Party wins a majority in both the House of Representatives and the Senate in the midterm elections .",
+   "url": "https://en.wikipedia.org/wiki/2026_United_States_elections",
+   "detail": "Wikipedia · In the news",
+   "related": [
+    {
+     "title": "2026 United States elections",
+     "url": "https://en.wikipedia.org/wiki/2026_United_States_elections",
+     "outlet": "Wikipedia"
+    },
+    {
+     "title": "Democratic Party (United States)",
+     "url": "https://en.wikipedia.org/wiki/Democratic_Party_(United_States)",
+     "outlet": "Wikipedia"
+    },
+    {
+     "title": "United States House of Representatives",
+     "url": "https://en.wikipedia.org/wiki/United_States_House_of_Representatives",
+     "outlet": "Wikipedia"
+    },
+    {
+     "title": "United States Senate",
+     "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+     "outlet": "Wikipedia"
+    }
+   ]
+  },
+  {
+   "signal": "wikipedia_news",
+   "title": "In motorsport , Kimi Antonelli becomes the youngest ever winner of the Formula One World Championship.",
+   "url": "https://en.wikipedia.org/wiki/2026_Formula_One_World_Championship",
+   "detail": "Wikipedia · In the news",
+   "related": [
+    {
+     "title": "2026 Formula One World Championship",
+     "url": "https://en.wikipedia.org/wiki/2026_Formula_One_World_Championship",
+     "outlet": "Wikipedia"
+    },
+    {
+     "title": "Motorsport",
+     "url": "https://en.wikipedia.org/wiki/Motorsport",
+     "outlet": "Wikipedia"
+    },
+    {
+     "title": "Kimi Antonelli",
+     "url": "https://en.wikipedia.org/wiki/Kimi_Antonelli",
+     "outlet": "Wikipedia"
+    }
+   ]
+  },
+  {
+   "signal": "wikipedia_news",
+   "title": "The Polish Constitutional Tribunal crisis escalates with the suspension of tribunal head Bogdan Święczkowski and deputy head Bartłomiej Sochański by judge Anna Korwin-Piotrowska .",
+   "url": "https://en.wikipedia.org/wiki/Constitutional_Tribunal_(Poland)",
+   "detail": "Wikipedia · In the news",
+   "related": [
+    {
+     "title": "Constitutional Tribunal (Poland)",
+     "url": "https://en.wikipedia.org/wiki/Constitutional_Tribunal_(Poland)",
+     "outlet": "Wikipedia"
+    },
+    {
+     "title": "2026 Polish Constitutional Tribunal crisis",
+     "url": "https://en.wikipedia.org/wiki/2026_Polish_Constitutional_Tribunal_crisis",
+     "outlet": "Wikipedia"
+    },
+    {
+     "title": "Bogdan Święczkowski",
+     "url": "https://en.wikipedia.org/wiki/Bogdan_%C5%9Awi%C4%99czkowski",
+     "outlet": "Wikipedia"
+    },
+    {
+     "title": "Bartłomiej Sochański",
+     "url": "https://en.wikipedia.org/wiki/Bart%C5%82omiej_Socha%C5%84ski",
+     "outlet": "Wikipedia"
+    },
+    {
+     "title": "Anna Korwin-Piotrowska",
+     "url": "https://en.wikipedia.org/wiki/Anna_Korwin-Piotrowska",
+     "outlet": "Wikipedia"
+    }
+   ]
+  },
+  {
+   "signal": "bluesky",
+   "title": "New Zealand votes in general election",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cd9e77152281",
+   "detail": "1,651 posts",
+   "related": []
+  },
+  {
+   "signal": "bluesky",
+   "title": "Russell Brand trial",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/b80b825eec91",
+   "detail": "3,887 posts",
+   "related": []
+  },
+  {
+   "signal": "bluesky",
+   "title": "Vehicles women actually like meme",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c7bf721b2616",
+   "detail": "7,093 posts",
+   "related": []
+  },
+  {
+   "signal": "bluesky",
+   "title": "Flamingo missiles reportedly hit Oryol",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/c4deeac6e96b",
+   "detail": "168 posts",
+   "related": []
+  },
+  {
+   "signal": "bluesky",
+   "title": "Films watched more than six times",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/105480a5b405",
+   "detail": "2,863 posts",
+   "related": []
+  },
+  {
+   "signal": "bluesky",
+   "title": "Ocarina of Time remake release",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/fb7b005a5b87",
+   "detail": "6,837 posts",
+   "related": []
+  },
+  {
+   "signal": "bluesky",
+   "title": "Veterans Day observances",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/35b37521dc87",
+   "detail": "102 posts",
+   "related": []
+  },
+  {
+   "signal": "bluesky",
+   "title": "Authors share books with newcomers",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/a852932ad52d",
+   "detail": "1,348 posts",
+   "related": []
+  },
+  {
+   "signal": "bluesky",
+   "title": "Apple launches touchscreen MacBook Pro",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/cba3b27f69a3",
+   "detail": "127 posts",
+   "related": []
+  },
+  {
+   "signal": "bluesky",
+   "title": "Ancient cannabis in Siberian tomb",
+   "url": "https://bsky.app/profile/did:plc:qrz3lhbyuxbeilrc6nekdqme/feed/3e2a5c364767",
+   "detail": "153 posts",
+   "related": []
+  }
+ ],
+ "sources": [
+  {
+   "id": "nyt",
+   "name": "The New York Times",
+   "lean": "lean_left",
+   "paywalled": true
+  },
+  {
+   "id": "wsj",
+   "name": "The Wall Street Journal",
+   "lean": "center",
+   "paywalled": true
+  },
+  {
+   "id": "wapo",
+   "name": "The Washington Post",
+   "lean": "lean_left",
+   "paywalled": true
+  },
+  {
+   "id": "ap",
+   "name": "Associated Press",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "reuters",
+   "name": "Reuters",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "npr",
+   "name": "NPR",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "cnn",
+   "name": "CNN",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "cbs",
+   "name": "CBS News",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "abc",
+   "name": "ABC News",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "nbc",
+   "name": "NBC News",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "pbs",
+   "name": "PBS NewsHour",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "politico",
+   "name": "Politico",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "thehill",
+   "name": "The Hill",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "axios",
+   "name": "Axios",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "newsnation",
+   "name": "NewsNation",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "fox",
+   "name": "Fox News",
+   "lean": "right",
+   "paywalled": false
+  },
+  {
+   "id": "nypost",
+   "name": "New York Post",
+   "lean": "lean_right",
+   "paywalled": false
+  },
+  {
+   "id": "washexaminer",
+   "name": "Washington Examiner",
+   "lean": "lean_right",
+   "paywalled": false
+  },
+  {
+   "id": "washtimes",
+   "name": "The Washington Times",
+   "lean": "lean_right",
+   "paywalled": false
+  },
+  {
+   "id": "nationalreview",
+   "name": "National Review",
+   "lean": "right",
+   "paywalled": false
+  },
+  {
+   "id": "dispatch",
+   "name": "The Dispatch",
+   "lean": "lean_right",
+   "paywalled": true
+  },
+  {
+   "id": "freepress",
+   "name": "The Free Press",
+   "lean": "lean_right",
+   "paywalled": false
+  },
+  {
+   "id": "freebeacon",
+   "name": "Washington Free Beacon",
+   "lean": "right",
+   "paywalled": false
+  },
+  {
+   "id": "dailycaller",
+   "name": "The Daily Caller",
+   "lean": "right",
+   "paywalled": false
+  },
+  {
+   "id": "centersquare",
+   "name": "The Center Square",
+   "lean": "lean_right",
+   "paywalled": false
+  },
+  {
+   "id": "bloomberg",
+   "name": "Bloomberg",
+   "lean": "lean_left",
+   "paywalled": true
+  },
+  {
+   "id": "cnbc",
+   "name": "CNBC",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "marketwatch",
+   "name": "MarketWatch",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "foxbusiness",
+   "name": "Fox Business",
+   "lean": "lean_right",
+   "paywalled": false
+  },
+  {
+   "id": "ft",
+   "name": "Financial Times",
+   "lean": "center",
+   "paywalled": true
+  },
+  {
+   "id": "economist",
+   "name": "The Economist",
+   "lean": "lean_left",
+   "paywalled": true
+  },
+  {
+   "id": "telegraph",
+   "name": "The Telegraph",
+   "lean": "lean_right",
+   "paywalled": true
+  },
+  {
+   "id": "bbc",
+   "name": "BBC News",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "guardian",
+   "name": "The Guardian",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "dw",
+   "name": "Deutsche Welle",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "france24",
+   "name": "France 24",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "nikkei",
+   "name": "Nikkei Asia",
+   "lean": "center",
+   "paywalled": true
+  },
+  {
+   "id": "scmp",
+   "name": "South China Morning Post",
+   "lean": "center",
+   "paywalled": true
+  },
+  {
+   "id": "japantimes",
+   "name": "The Japan Times",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "thehindu",
+   "name": "The Hindu",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "timesofisrael",
+   "name": "The Times of Israel",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "kyivindependent",
+   "name": "The Kyiv Independent",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "dailymaverick",
+   "name": "Daily Maverick",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "allafrica",
+   "name": "AllAfrica",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "gothamist",
+   "name": "Gothamist",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "thecity",
+   "name": "THE CITY",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "cityandstate",
+   "name": "City & State NY",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "nydailynews",
+   "name": "New York Daily News",
+   "lean": "lean_left",
+   "paywalled": false
+  },
+  {
+   "id": "amny",
+   "name": "amNY",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "brooklynpaper",
+   "name": "Brooklyn Paper",
+   "lean": "center",
+   "paywalled": false
+  },
+  {
+   "id": "nysun",
+   "name": "The New York Sun",
+   "lean": "right",
+   "paywalled": false
+  }
+ ],
+ "stats": {
+  "outlets": 51,
+  "articles": 1962,
+  "clusters": 200,
+  "failed_fetches": 2,
+  "stories": 26,
+  "facts": 103,
+  "corroborated_facts": 29
+ },
+ "usage": {
+  "total_tokens": 3113291,
+  "cost_usd": 2.06,
+  "parts": [
+   {
+    "label": "session",
+    "since": "2026-11-07T11:38:11.826Z",
+    "until": "2026-11-07T11:41:42.871Z",
+    "total_tokens": 3113291,
+    "cost_usd": 2.06,
+    "models": [
+     {
+      "model": "claude-sonnet-5-5",
+      "requests": 47,
+      "tokens": {
+       "input": 97,
+       "cache_write_5m": 294153,
+       "cache_write_1h": 45388,
+       "cache_read": 2723539,
+       "output": 50114,
+       "web_searches": 10
+      },
+      "cost_usd": 2.063
+     }
+    ]
+   }
+  ]
+ }
+}

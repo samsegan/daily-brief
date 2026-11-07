@@ -1,0 +1,638 @@
+{
+  "stories": [
+    {
+      "id": "miller-chief-of-staff",
+      "headline": "Trump names Stephen Miller White House chief of staff, replacing Susie Wiles",
+      "region": "White House",
+      "importance": 5,
+      "summary": "President Trump said Friday that Stephen Miller, his top immigration adviser, will become White House chief of staff, replacing Susie Wiles. The move came days after Republicans lost the midterms. Democrats criticized the pick, and Sen. Thom Tillis, a Republican, said Trump should rethink it.",
+      "why_it_matters": "The chief of staff runs the White House and shapes what the president hears, so this choice signals how the administration plans to deal with a Democratic-led Congress, including on immigration policy.",
+      "background": "Susie Wiles became the first woman to serve as White House chief of staff when Trump returned to office. Stephen Miller has been a close Trump adviser for years and is known as the main architect of the administration's immigration crackdown. The change follows midterm elections in which Democrats won the House majority, per the coverage. Tillis is a Republican senator from North Carolina who has criticized Trump advisers before.",
+      "facts": [
+        {
+          "text": "Trump confirmed that Wiles will step down and Miller will replace her; Trump said 'I wanted to make a change.'",
+          "refs": [
+            "533775c3cf",
+            "b43fe65246"
+          ]
+        },
+        {
+          "text": "Miller has led the administration's immigration and mass-deportation policies and has been their public face.",
+          "refs": [
+            "533775c3cf",
+            "9696c6da06"
+          ]
+        },
+        {
+          "text": "Sen. Thom Tillis (R-N.C.) called Miller 'the worst of all possible choices' and said Trump 'needs to rethink' the decision.",
+          "refs": [
+            "148291b876"
+          ]
+        },
+        {
+          "text": "Democratic lawmakers criticized the appointment, using terms such as 'hatemonger' and 'xenophobe', per the Guardian.",
+          "refs": [
+            "9496121a3a"
+          ]
+        },
+        {
+          "text": "The Hill reported the pick sets up a contentious two years with the incoming Democratic House majority.",
+          "refs": [
+            "5e342cdc28"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "b493ccc932",
+          "note": "Ties the change to the GOP's midterm defeat in the headline."
+        },
+        {
+          "ref": "b43fe65246",
+          "note": "Uses Trump's own explanation and the word 'installs'; plays down the reaction."
+        },
+        {
+          "ref": "148291b876",
+          "note": "Leads with a Republican senator's objection, stressing intra-party dissent."
+        },
+        {
+          "ref": "9496121a3a",
+          "note": "Emphasizes bipartisan criticism and calls the appointment 'dangerous' in the headline."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "b493ccc932",
+          "takeaway": "AP news story linking the change to the midterm loss (headline and link only).",
+          "read_full": false
+        },
+        {
+          "ref": "533775c3cf",
+          "takeaway": "Guardian news report centered on Miller's immigration role.",
+          "read_full": false
+        },
+        {
+          "ref": "b43fe65246",
+          "takeaway": "CBS report built around Trump's stated reason.",
+          "read_full": false
+        },
+        {
+          "ref": "9696c6da06",
+          "takeaway": "NYT explainer on Miller (paywalled, summary only).",
+          "read_full": false
+        },
+        {
+          "ref": "148291b876",
+          "takeaway": "The Hill on Tillis's criticism.",
+          "read_full": false
+        },
+        {
+          "ref": "9496121a3a",
+          "takeaway": "Guardian roundup of Democratic and some Republican reaction.",
+          "read_full": false
+        },
+        {
+          "ref": "5e342cdc28",
+          "takeaway": "The Hill analysis of the message to the incoming Democratic majority.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mississippi-senate-race",
+      "headline": "Mississippi Senate race between Hyde-Smith and Colom still undecided",
+      "region": "Elections",
+      "importance": 5,
+      "summary": "Days after the midterms, Democrat Scott Colom and Republican Sen. Cindy Hyde-Smith remain separated by a razor-thin margin, with provisional and mail ballots still being reported. Lawyers for both campaigns are preparing for a possible legal fight. Mississippi has no automatic statewide recount.",
+      "why_it_matters": "Control of a Senate seat in a state Democrats haven't won since 1982 hangs on a handful of ballots, and the dispute over voter rolls and ballot counting could affect who gets to vote and how quickly results are certified.",
+      "background": "Hyde-Smith is the Republican incumbent in a state that has not elected a Democratic senator since 1982. Colom, a Democratic prosecutor, mounted a competitive challenge, and independent Ty Pinkins also ran. Mississippi's counting of provisional ballots is slow and decentralized, per NPR. Early-count reports put the two within tens of votes.",
+      "facts": [
+        {
+          "text": "The NYT and CBS reported Colom held a slim lead as more provisional and mail ballots were reported.",
+          "refs": [
+            "9ec6d71ebd",
+            "3b6e020f23"
+          ]
+        },
+        {
+          "text": "NPR reported that no one knows how many ballots are still outstanding, and described Mississippi's process as among the slowest and most decentralized in the country.",
+          "refs": [
+            "0ca137083b"
+          ]
+        },
+        {
+          "text": "Axios reported scrutiny of a voter-roll cleanup after some voters said they had problems casting ballots.",
+          "refs": [
+            "a04ea90910"
+          ]
+        },
+        {
+          "text": "The BBC reported that lawyers for both campaigns are preparing for a possible legal battle.",
+          "refs": [
+            "28a83dbba6"
+          ]
+        },
+        {
+          "text": "Ty Pinkins told CNBC he aimed to boost Colom's vote and avoided campaigning in heavily Black areas.",
+          "refs": [
+            "1ce43c6ffa"
+          ]
+        },
+        {
+          "text": "Mississippi has no automatic or candidate-initiated statewide recount law, per Democracy Docket.",
+          "refs": [
+            "us-w1"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "3b6e020f23",
+          "note": "Calls the race 'still a toss-up' while noting the Democrat's slim lead."
+        },
+        {
+          "ref": "a04ea90910",
+          "note": "Focuses on voter-roll problems rather than the horse race."
+        },
+        {
+          "ref": "10749848c2",
+          "note": "Frames it as an upset threat, stressing how unlikely Colom's run looked beforehand."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "0ca137083b",
+          "takeaway": "NPR explainer on the slow ballot process.",
+          "read_full": false
+        },
+        {
+          "ref": "a04ea90910",
+          "takeaway": "Axios on voter rolls and access.",
+          "read_full": false
+        },
+        {
+          "ref": "28a83dbba6",
+          "takeaway": "BBC on recount and legal-battle prospects.",
+          "read_full": false
+        },
+        {
+          "ref": "3b6e020f23",
+          "takeaway": "CBS status report on the lead.",
+          "read_full": false
+        },
+        {
+          "ref": "9ec6d71ebd",
+          "takeaway": "NYT on the latest vote report (paywalled, summary only).",
+          "read_full": false
+        },
+        {
+          "ref": "10749848c2",
+          "takeaway": "The Hill on how Colom made it competitive.",
+          "read_full": false
+        },
+        {
+          "ref": "1ce43c6ffa",
+          "takeaway": "CNBC on Pinkins's role.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "hegseth-impeachment-push",
+      "headline": "Hegseth faces growing impeachment push and bipartisan scrutiny after midterms",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "Defense Secretary Pete Hegseth posted a defiant video as an effort to impeach him over his handling of the Iran war grows. Incoming Democrats plan to target him, and some Republicans have also criticized him. Trump has said Hegseth is doing 'a very good job'.",
+      "why_it_matters": "The outcome affects who leads the military during an active conflict with Iran and how Congress oversees war powers.",
+      "background": "The US is in a war with Iran, which Hegseth has championed. Rep. Thomas Massie, a Kentucky Republican who lost his primary, has said he will reintroduce articles of impeachment in the lame-duck session. House Democrats also introduced articles earlier this year. Democrats won the House majority in this week's midterms.",
+      "facts": [
+        {
+          "text": "Hegseth posted a new video striking a defiant tone and vowing to finish the Iran war.",
+          "refs": [
+            "451e5fc8ee",
+            "cb56c22456",
+            "a8dfa9ec00"
+          ]
+        },
+        {
+          "text": "France 24 reported that Republicans are blaming the Iran war for their election losses and that Trump has stood by Hegseth.",
+          "refs": [
+            "36a09abd57"
+          ]
+        },
+        {
+          "text": "Massie said he will reintroduce impeachment articles when Congress returns for the lame-duck session, per ABC affiliates.",
+          "refs": [
+            "us-w2"
+          ]
+        },
+        {
+          "text": "The NYT reported an impeachment push could put Hegseth in a standoff with both Democrats and Republicans.",
+          "refs": [
+            "2f056fa1c4"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "451e5fc8ee",
+          "note": "Stresses Hegseth's tone and notes Republican critics too."
+        },
+        {
+          "ref": "a8dfa9ec00",
+          "note": "Frames it as Hegseth vowing to finish the war, playing down the impeachment threat."
+        },
+        {
+          "ref": "36a09abd57",
+          "note": "Emphasizes pressure after the Republican 'rout'."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "451e5fc8ee",
+          "takeaway": "NBC on Hegseth's response and GOP critics.",
+          "read_full": false
+        },
+        {
+          "ref": "cb56c22456",
+          "takeaway": "CNN on the growing effort (headline and link only).",
+          "read_full": false
+        },
+        {
+          "ref": "a8dfa9ec00",
+          "takeaway": "Telegraph (paywalled): headline stresses his vow to finish the war.",
+          "read_full": false
+        },
+        {
+          "ref": "36a09abd57",
+          "takeaway": "France 24 on pressure after the election.",
+          "read_full": false
+        },
+        {
+          "ref": "2f056fa1c4",
+          "takeaway": "NYT on bipartisan scrutiny (paywalled, summary only).",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "doj-resignations",
+      "headline": "Senior Justice Department officials resign, including head of 'grand conspiracy' probe office",
+      "region": "Courts",
+      "importance": 4,
+      "summary": "Jason Reding Qui\u00f1ones, U.S. attorney for the Southern District of Florida, resigned, the second senior Justice Department departure since the midterms. His office oversaw an investigation into officials involved in earlier probes of Trump. Coverage counts three DOJ officials leaving.",
+      "why_it_matters": "The departures raise questions about the future of politically charged federal investigations and about DOJ leadership going into a Democratic-led Congress.",
+      "background": "The so-called 'grand conspiracy' investigation looks at federal law enforcement officials who took part in prior investigations of Trump. It has been run out of the Southern District of Florida and, per CBS, has had internal disputes. The resignations follow the Republican losses in this week's midterms.",
+      "facts": [
+        {
+          "text": "Qui\u00f1ones resigned as U.S. attorney for the Southern District of Florida.",
+          "refs": [
+            "ab58eb0490",
+            "20de9a1184",
+            "225501990d"
+          ]
+        },
+        {
+          "text": "The Hindu called it the second senior DOJ departure since the midterms.",
+          "refs": [
+            "5873a0ac81"
+          ]
+        },
+        {
+          "text": "The NYT said more departures are expected, including the head of the national security division.",
+          "refs": [
+            "20de9a1184"
+          ]
+        },
+        {
+          "text": "CNN counted three DOJ officials resigning since the midterm losses.",
+          "refs": [
+            "1d945dbb86"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "20de9a1184",
+          "note": "Calls the probe the 'centerpiece of Trump's revenge campaign', a loaded characterization."
+        },
+        {
+          "ref": "ab58eb0490",
+          "note": "Stresses internal disputes within the inquiry."
+        },
+        {
+          "ref": "5873a0ac81",
+          "note": "Neutral wording describing it as an election conspiracy probe."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "1d945dbb86",
+          "takeaway": "CNN on three departures (headline and link only).",
+          "read_full": false
+        },
+        {
+          "ref": "225501990d",
+          "takeaway": "NBC on the resignation of the probe's head.",
+          "read_full": false
+        },
+        {
+          "ref": "5873a0ac81",
+          "takeaway": "The Hindu on the second departure.",
+          "read_full": false
+        },
+        {
+          "ref": "20de9a1184",
+          "takeaway": "NYT (paywalled, summary only) on expected further exits.",
+          "read_full": false
+        },
+        {
+          "ref": "ab58eb0490",
+          "takeaway": "CBS on abrupt resignation and internal disputes.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "california-ballots-suit",
+      "headline": "Justice Department drops suit over 20,000 California ballots",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "The Justice Department asked to dismiss its own lawsuit that sought to make California set aside about 20,000 ballots it alleged came from noncitizens. The Supreme Court had already ruled against the administration's effort, per the NYT and The Hill.",
+      "why_it_matters": "The ballots will be counted, so those voters' choices stand in California's results.",
+      "background": "The administration sued California to stop it from counting ballots it said were cast by noncitizens. California officials count mail ballots over several days after Election Day. The Supreme Court rejected the effort before the election, per the NYT.",
+      "facts": [
+        {
+          "text": "The DOJ moved Friday to dismiss its suit against California.",
+          "refs": [
+            "f20198aa6a",
+            "4f9a40dc4f",
+            "7bcbc97a95"
+          ]
+        },
+        {
+          "text": "The suit sought to force election officials to set aside about 20,000 ballots.",
+          "refs": [
+            "4f9a40dc4f",
+            "f20198aa6a"
+          ]
+        },
+        {
+          "text": "The Supreme Court had rejected the effort before Election Day, per the NYT.",
+          "refs": [
+            "94dee30a24"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "f20198aa6a",
+          "note": "Says 'alleged noncitizen ballots', keeping the administration's claim attributed."
+        },
+        {
+          "ref": "4f9a40dc4f",
+          "note": "Calls them 'disputed' ballots and mentions the earlier Supreme Court loss."
+        },
+        {
+          "ref": "94dee30a24",
+          "note": "Describes an 'effort to set aside' mail-in ballots that was rejected."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "f20198aa6a",
+          "takeaway": "CBS short news report.",
+          "read_full": false
+        },
+        {
+          "ref": "4f9a40dc4f",
+          "takeaway": "The Hill with Supreme Court context.",
+          "read_full": false
+        },
+        {
+          "ref": "7bcbc97a95",
+          "takeaway": "AP report (headline and link only).",
+          "read_full": false
+        },
+        {
+          "ref": "94dee30a24",
+          "takeaway": "NYT (paywalled, summary only).",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-arch-blocked",
+      "headline": "Judge blocks work on Trump's arch minutes after federal panel approves it",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "Judge Tanya Chutkan issued a temporary restraining order barring work on the 250-foot triumphal arch for 14 days, just after the National Capital Planning Commission approved it 8-4. The White House launched a website promoting the project the next morning.",
+      "why_it_matters": "The ruling pauses a major construction project near Arlington National Cemetery while courts weigh challenges from veterans, a historian and local governments.",
+      "background": "Trump proposed a monumental arch in Washington near Arlington National Cemetery. The planning commission previously gave preliminary approval, and Chutkan had earlier required the administration to give notice before any work. Veterans and an architectural historian sued, and D.C. and Virginia filed a separate suit, per a search report.",
+      "facts": [
+        {
+          "text": "Chutkan's TRO prohibits work for 14 days.",
+          "refs": [
+            "3fc9bc64e7",
+            "52a071f899"
+          ]
+        },
+        {
+          "text": "The commission approved the arch 8-4.",
+          "refs": [
+            "3fc9bc64e7"
+          ]
+        },
+        {
+          "text": "The administration had hoped to begin construction as early as this week.",
+          "refs": [
+            "d1ee3736db"
+          ]
+        },
+        {
+          "text": "The White House promoted the project with a new website.",
+          "refs": [
+            "52a071f899",
+            "9c5499efb3"
+          ]
+        },
+        {
+          "text": "Chutkan consolidated the cases and ordered notice of any commission decision, per the Inquirer.",
+          "refs": [
+            "us-w3"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "34585a5971",
+          "note": "Gives the 250-foot size and says the judge 'quickly' blocked it."
+        },
+        {
+          "ref": "9c5499efb3",
+          "note": "Pairs the court block with the 'glitzy' website, pointing at the push to promote it."
+        },
+        {
+          "ref": "01a983ad74",
+          "note": "Folds it into a morning newsletter next to jobs-report news, treating it as one item."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "3fc9bc64e7",
+          "takeaway": "The Hindu on the TRO and 8-4 vote.",
+          "read_full": false
+        },
+        {
+          "ref": "01a983ad74",
+          "takeaway": "NPR newsletter item.",
+          "read_full": false
+        },
+        {
+          "ref": "34585a5971",
+          "takeaway": "CBS on the approval and block.",
+          "read_full": false
+        },
+        {
+          "ref": "d1ee3736db",
+          "takeaway": "BBC on the administration's timeline.",
+          "read_full": false
+        },
+        {
+          "ref": "52a071f899",
+          "takeaway": "PBS on the website and TRO.",
+          "read_full": false
+        },
+        {
+          "ref": "9c5499efb3",
+          "takeaway": "AP (headline and link only).",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "white-house-armed-arrest",
+      "headline": "Secret Service arrests armed man near White House who said voices told him to kill Trump",
+      "region": "White House",
+      "importance": 3,
+      "summary": "The Secret Service arrested Ronny Yordrix Guanipa Chrinos, a Venezuelan man, near the White House Thursday after officers found weapons in his vehicle. Officials said he told them voices in his head urged him to come to Washington and kill the president.",
+      "why_it_matters": "It is a security incident near the president, and coverage differs in how much it emphasizes the suspect's immigration status versus his reported mental state.",
+      "background": "The Secret Service protects the president and patrols the White House area. DHS said the man was in the country illegally. Officers found three weapons in the vehicle, per CBS.",
+      "facts": [
+        {
+          "text": "Officers found three weapons in the suspect's vehicle.",
+          "refs": [
+            "b97c28aed7"
+          ]
+        },
+        {
+          "text": "The suspect said he heard voices telling him to kill Trump, per US officials.",
+          "refs": [
+            "7a5fda256c",
+            "7164580660"
+          ]
+        },
+        {
+          "text": "The Secret Service said he was taken into custody and charged.",
+          "refs": [
+            "7ca22d3b5d"
+          ]
+        },
+        {
+          "text": "DHS said he is a Venezuelan in the country illegally.",
+          "refs": [
+            "7164580660",
+            "865cb83ab7"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "f0ad89d61a",
+          "note": "Leads with 'Venezuelan migrant' and an 'assassination threat'."
+        },
+        {
+          "ref": "7164580660",
+          "note": "Leads with the voices the man described."
+        },
+        {
+          "ref": "7ca22d3b5d",
+          "note": "Neutral 'man in custody' wording; no nationality in the headline."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "f0ad89d61a",
+          "takeaway": "Fox emphasizes immigration status and the threat.",
+          "read_full": false
+        },
+        {
+          "ref": "865cb83ab7",
+          "takeaway": "NBC video report on the arsenal and threat.",
+          "read_full": false
+        },
+        {
+          "ref": "7164580660",
+          "takeaway": "NBC text report citing DHS.",
+          "read_full": false
+        },
+        {
+          "ref": "7ca22d3b5d",
+          "takeaway": "Guardian names the suspect.",
+          "read_full": false
+        },
+        {
+          "ref": "b97c28aed7",
+          "takeaway": "CBS cites DHS on the alleged plan.",
+          "read_full": false
+        },
+        {
+          "ref": "7a5fda256c",
+          "takeaway": "The Hindu on the suspect's account of voices.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "us-w1",
+      "url": "https://www.democracydocket.com/news-alerts/mississippi-has-no-recount-law-heres-how-a-battle-over-its-senate-nail-biter-might-play-out/",
+      "title": "Mississippi has no recount law",
+      "outlet": "Democracy Docket"
+    },
+    {
+      "id": "us-w2",
+      "url": "https://katv.com/news/nation-world/massie-says-he-will-reintroduce-impeachment-articles-against-hegseth-after-midterms-defense-secretary-congress-mike-johnson-hakeem-jeffries-president-trump-rrt",
+      "title": "Massie says he will reintroduce impeachment articles against Hegseth after midterms",
+      "outlet": "KATV"
+    },
+    {
+      "id": "us-w3",
+      "url": "https://www.inquirer.com/news/nation-world/trump-arch-washington-judge-order-notification-deadlines-chutkan-20261102.html",
+      "title": "Judge orders notification deadlines on Trump arch",
+      "outlet": "Philadelphia Inquirer"
+    }
+  ]
+}

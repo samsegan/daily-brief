@@ -1,0 +1,177 @@
+{
+  "stories": [
+    {
+      "id": "ai-stock-selloff-midterms",
+      "headline": "Global stocks fall as AI shares sell off after Democrats win Congress",
+      "region": "Markets",
+      "importance": 5,
+      "summary": "US technology stocks fell sharply on Thursday, with the Nasdaq entering a correction, and the losses spread to Asian and European markets on Friday. Outlets tie the move to doubts about heavy AI spending and to fears that a Democratic Congress will curb data-center growth. US stocks partly recovered Friday, with the Nasdaq up and the Dow slightly lower.",
+      "why_it_matters": "Many 401(k)s and index funds are heavily weighted toward the big tech and AI companies, so a drop in those shares can show up directly in retirement balances. If the AI spending slowdown continues, it could also weigh on corporate investment and hiring.",
+      "background": "Over the past two years, a few large technology companies and AI developers have driven much of the stock market's gains, spending heavily on chips and data centers. Questions about whether that spending will pay off had been building for months. Data centers also became a campaign issue because of their effect on local electricity bills. Democrats won control of Congress in Tuesday's midterm elections, and investors began pricing in more regulation and oversight of AI and big tech.",
+      "facts": [
+        { "text": "The S&P 500 closed down 4.36% in the latest data (Thursday, Nov. 5), and the Nikkei 225 fell 5.96% on Friday, according to the market quote table used for the brief.", "refs": ["cd3e75a722", "037f4509cc"] },
+        { "text": "Deutsche Welle reported European shares fell after sharp losses in Asia and on Wall Street, citing doubts over large AI investments and fears of curbs after the Democratic midterm win.", "refs": ["037f4509cc"] },
+        { "text": "CBS News said the Thursday rout was driven by concerns about a possible slowdown in data-center construction and pushed the Nasdaq into a correction.", "refs": ["30539f3879"] },
+        { "text": "Bloomberg put the week's global losses at $5.7 trillion; The Guardian said Apple, Tesla and Nvidia together shed about $1 trillion in one session.", "refs": ["030184be1c", "9f19b7bb3f"] },
+        { "text": "The Wall Street Journal reported US stocks ended Friday mixed after strong jobs data and a modest AI rebound that did not settle investor nerves.", "refs": ["3c53da0ec1"] },
+        { "text": "Reuters, as carried by The Star (Malaysia), reported data-center stocks fell and renewable-energy shares rose after the Democratic sweep.", "refs": ["business-w1"] },
+        { "text": "OpenAI's CFO told CNBC the company will keep expanding its data centers despite the election result.", "refs": ["4729f8fa01", "45f0f48bd7"] },
+        { "text": "The Wall Street Journal reported stock-picking hedge funds unwound positions last month at the fastest rate in over a decade.", "refs": ["4cb074f43f"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "efbd16d645", "note": "Fox Business headline puts the election first (\"blue wave rocks Wall Street\"), tying the losses to the political result." },
+        { "ref": "8b48cf50d5", "note": "The Guardian asks whether an AI bubble is bursting, emphasizing valuation worries over the political trigger." },
+        { "ref": "af4f88110d", "note": "Fox Business calls it a post-midterm \"whiplash\", stressing the swing in both directions." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "cd3e75a722", "takeaway": "Global stock moves tied to AI worries after the Democratic win.", "read_full": false },
+        { "ref": "037f4509cc", "takeaway": "Summary-level account of the sell-off reaching Europe, with two causes named.", "read_full": false },
+        { "ref": "30539f3879", "takeaway": "Explains the Nasdaq correction and the Friday bounce.", "read_full": false },
+        { "ref": "030184be1c", "takeaway": "Headline and summary only (paywalled): sizes the rout at $5.7 trillion.", "read_full": false },
+        { "ref": "9f19b7bb3f", "takeaway": "Video summary giving the roughly $1 trillion single-session loss.", "read_full": false },
+        { "ref": "3c53da0ec1", "takeaway": "Headline and summary only (paywalled): Friday close mixed.", "read_full": false },
+        { "ref": "4729f8fa01", "takeaway": "Reports the OpenAI CFO's comments on continuing data-center spending.", "read_full": false },
+        { "ref": "45f0f48bd7", "takeaway": "Headline only: Reuters on the same OpenAI statement.", "read_full": false },
+        { "ref": "4cb074f43f", "takeaway": "Headline and summary only (paywalled): hedge-fund selling.", "read_full": false },
+        { "ref": "efbd16d645", "takeaway": "Headline only: frames the sell-off as a political result.", "read_full": false },
+        { "ref": "af4f88110d", "takeaway": "Headline only: post-midterm swings.", "read_full": false },
+        { "ref": "8b48cf50d5", "takeaway": "Explainer on whether the AI bubble is bursting.", "read_full": false },
+        { "ref": "business-w1", "takeaway": "Reuters via The Star: data-center stocks fell and renewables rose after the sweep.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "october-jobs-report",
+      "headline": "US employers add 165,000 jobs in October, well above forecasts",
+      "region": "Jobs",
+      "importance": 4,
+      "summary": "The Labor Department said employers added 165,000 jobs in October and the unemployment rate slipped to 4.1%. Economists had expected far fewer jobs. The Financial Times said the data reinforces expectations that the Federal Reserve will raise interest rates.",
+      "why_it_matters": "A stronger job market is good for workers, but it can keep the Fed from cutting rates, which affects mortgage, car-loan and credit-card costs.",
+      "background": "The monthly jobs report from the Bureau of Labor Statistics is one of the main gauges of the US economy. The Federal Reserve has a dual mandate of maximum employment and stable prices, so hiring and inflation data shape its rate decisions. Markets have been jumpy about the economy this week because of the AI-stock sell-off, which made the report more closely watched than usual.",
+      "facts": [
+        { "text": "Payrolls rose by 165,000 in October after an upwardly revised 60,000 gain in September, the Bureau of Labor Statistics said.", "refs": ["3f7e9e55fb"] },
+        { "text": "CNBC said forecasters expected 59,000 jobs and an unemployment rate of 4.2%; the rate fell to 4.1%.", "refs": ["1376493524"] },
+        { "text": "August and September were revised up by a combined 84,000 jobs, PBS NewsHour reported.", "refs": ["3db1c09ba1"] },
+        { "text": "The Financial Times reported the hiring rebound reinforces expectations the Fed will raise rates.", "refs": ["68d9ad3862"] },
+        { "text": "The New York Times reported that white-collar industries most exposed to AI kept adding jobs in October, though weakly.", "refs": ["b5aaaaec64"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "3f7e9e55fb", "note": "New York Post calls the result a surprise and \"strong\", stressing the beat." },
+        { "ref": "3db1c09ba1", "note": "PBS NewsHour pairs the report with AI-bubble concerns, putting the data in the market context." },
+        { "ref": "68d9ad3862", "note": "Financial Times leads with the implication for Fed rate increases." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3f7e9e55fb", "takeaway": "Reports the headline figure and the September revision.", "read_full": false },
+        { "ref": "1376493524", "takeaway": "Gives forecasts alongside the result.", "read_full": false },
+        { "ref": "3db1c09ba1", "takeaway": "Summary of revisions and AI-bubble context.", "read_full": false },
+        { "ref": "68d9ad3862", "takeaway": "Headline and summary only (paywalled): rate-hike angle.", "read_full": false },
+        { "ref": "b5aaaaec64", "takeaway": "Headline and summary only (paywalled): AI's effect on jobs is mixed so far.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "tesla-ends-cybertruck",
+      "headline": "Tesla to end Cybertruck production in mid-2027 to make room for Cybercab",
+      "region": "Earnings",
+      "importance": 3,
+      "summary": "Elon Musk said Tesla will wind down Cybertruck production at its Texas factory around the middle of 2027 and shift capacity to the Cybercab robotaxi. Outlets pointed to weak demand for the truck.",
+      "why_it_matters": "It signals Tesla is putting its future on self-driving taxis rather than its most expensive pickup, which matters for owners of the truck and for investors in a heavily held stock.",
+      "background": "Tesla unveiled the Cybertruck, a stainless-steel electric pickup, in 2019 and began deliveries in 2023. It has been polarizing and sold below early expectations. Tesla has said its long-term plan rests on autonomous vehicles, including the Cybercab, a two-seat driverless taxi.",
+      "facts": [
+        { "text": "Musk said Tesla will end Cybertruck production in mid-2027 to increase production of its Cybercab autonomous ride-share vehicle.", "refs": ["2a57a88ac8", "1e75e8a337", "af31ad6378"] },
+        { "text": "NPR said production at Gigafactory Texas will wind down mid-next year and gave insufficient demand as the likely cause.", "refs": ["d64271f3df"] },
+        { "text": "Musk announced the plan in a post, per Nikkei Asia's headline.", "refs": ["cf71941acd"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "94b4a6a570", "note": "Deutsche Welle calls the truck a \"flop\", emphasizing failure." },
+        { "ref": "dd198d9fe1", "note": "Fox Business leads with the Texas factory and Cybercab, stressing the plan over the product's performance." },
+        { "ref": "d64271f3df", "note": "NPR puts weak demand at the center." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2a57a88ac8", "takeaway": "Summary only (paywalled): production stops mid-2027 for the Cybercab.", "read_full": false },
+        { "ref": "1e75e8a337", "takeaway": "Short report of Musk's statement.", "read_full": false },
+        { "ref": "af31ad6378", "takeaway": "Notes Musk only appeared to signal the end.", "read_full": false },
+        { "ref": "d64271f3df", "takeaway": "Explains demand as the reason.", "read_full": false },
+        { "ref": "cf71941acd", "takeaway": "Headline only (paywalled): Musk posted the news.", "read_full": false },
+        { "ref": "94b4a6a570", "takeaway": "Calls the truck a flop and mentions regulatory limits.", "read_full": false },
+        { "ref": "dd198d9fe1", "takeaway": "Headline only: Texas factory and Cybercab.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "anthropic-ipo-valuation",
+      "headline": "Anthropic IPO plans face investor doubts over a $1.5 trillion valuation",
+      "region": "IPO",
+      "importance": 3,
+      "summary": "Reports differ on whether the Claude maker will hold to a $1.5 trillion target after the tech sell-off. The Financial Times said it intends to list before Thanksgiving, while CNBC and the Wall Street Journal said investors are skeptical of that price. Separately, Reuters reported OpenAI raised $11 billion at a $1.25 trillion valuation, citing a source.",
+      "why_it_matters": "Large AI listings can affect index funds and the pace of AI investment, and a lower price would suggest investors are cooling on the sector.",
+      "background": "Anthropic and OpenAI are two of the leading AI developers, and both have been valued in the hundreds of billions to over a trillion dollars in private funding. An initial public offering would let ordinary investors buy shares for the first time. This week's tech rout has made the pricing harder to predict.",
+      "facts": [
+        { "text": "The Financial Times reported Anthropic intends to list before Thanksgiving despite the sell-off, targeting a $1.5 trillion valuation.", "refs": ["6800a6c7d0"] },
+        { "text": "CNBC said investors are bracing for a valuation below $1.5 trillion, calling it a \"stretch\".", "refs": ["9819550d7b"] },
+        { "text": "The Wall Street Journal reported major investors are skeptical Anthropic can reach that valuation; some say October results could soften the blow.", "refs": ["2a29e8b569"] },
+        { "text": "Reuters reported, citing a source, that OpenAI received $11 billion in funding at a $1.25 trillion valuation.", "refs": ["b2c8e093f0"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Anthropic will hold a $1.5 trillion valuation target",
+          "positions": [
+            { "claim": "Anthropic is pressing ahead with a $1.5 trillion target, per the Financial Times.", "refs": ["6800a6c7d0"] },
+            { "claim": "Investors expect a lower valuation and call the target a stretch, per CNBC and the Wall Street Journal.", "refs": ["9819550d7b", "2a29e8b569"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "d110d51390", "note": "New York Post says the IPO timing is \"threatened\" by an AI backlash and rout, emphasizing risk." },
+        { "ref": "6800a6c7d0", "note": "Financial Times leads with the company pressing ahead, playing down investor doubts." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "6800a6c7d0", "takeaway": "Headline and summary only (paywalled): company intends to list.", "read_full": false },
+        { "ref": "9819550d7b", "takeaway": "Investor skepticism about valuation.", "read_full": false },
+        { "ref": "2a29e8b569", "takeaway": "Headline and summary only (paywalled): skeptical investors, some optimism.", "read_full": false },
+        { "ref": "b2c8e093f0", "takeaway": "Headline only: OpenAI funding round.", "read_full": false },
+        { "ref": "d110d51390", "takeaway": "Stresses threats to timing from the rout.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "democrats-ai-trade-agenda",
+      "headline": "Democrats plan AI bills and tariff challenges for when they take Congress",
+      "region": "Trade",
+      "importance": 3,
+      "summary": "Reuters reported Democrats are planning many AI bills once they control Congress, and the New York Post, citing a report, said they plan to fight President Trump's Canada tariffs. CBS News projected Democrats won the Senate.",
+      "why_it_matters": "Possible AI rules and tariff fights could affect tech companies' costs, and the price of imported goods for households.",
+      "background": "Democrats won Tuesday's midterm elections. The new Congress takes office in January. Trump's tariffs are largely set by executive action, so Congress has limited levers, such as votes that need some Republican support. Investors have worried that a Democratic Congress will bring more scrutiny of tech and AI companies.",
+      "facts": [
+        { "text": "CBS News projected Democrats picked up the seats needed to control the Senate, with several upset wins in red states.", "refs": ["46dde36fc0"] },
+        { "text": "Reuters reported Democrats are planning a flood of AI bills.", "refs": ["2bb48ea4a7"] },
+        { "text": "The New York Post, citing a report, said Democrats plan to fight Trump's Canada tariffs from January, hoping to win some Republicans.", "refs": ["1180bef336"] },
+        { "text": "Fox News said a progressive group's 182-page blueprint names Tesla, Apple, Amazon and OpenAI as possible investigation targets.", "refs": ["bccac697d6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "70d91f2256", "note": "Fox Business frames Democratic control as raising AI regulation concerns." },
+        { "ref": "2bb48ea4a7", "note": "Reuters describes the plan neutrally as legislation." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "46dde36fc0", "takeaway": "Live updates on the Senate projection.", "read_full": false },
+        { "ref": "2bb48ea4a7", "takeaway": "Headline only: AI bills.", "read_full": false },
+        { "ref": "1180bef336", "takeaway": "Second-hand report of tariff plans.", "read_full": false },
+        { "ref": "bccac697d6", "takeaway": "Summary of an activist blueprint, from a right-leaning outlet.", "read_full": false },
+        { "ref": "70d91f2256", "takeaway": "Headline only: regulation worries.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "business-w1", "url": "https://www.thestar.com.my/tech/tech-news/2026/11/05/ai-data-center-stocks-slide-renewables-rally-after-democratic-us-midterm-sweep", "title": "AI data-center stocks slide, renewables rally after Democratic US midterm sweep", "outlet": "The Star (Reuters)" }
+  ]
+}

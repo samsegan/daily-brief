@@ -1,0 +1,32 @@
+{
+  "overview": "Democrats won majorities in both the House and the Senate in Tuesday's midterm elections, according to Wikipedia's news summary, and President Trump replaced chief of staff Susie Wiles with adviser Stephen Miller, the AP and CBS reported. Global stocks fell sharply this week as investors questioned heavy spending on artificial intelligence, while the October jobs report came in stronger than forecast. Abroad, bomb threats diverted flights across Europe, and New Zealand voted in a general election.",
+  "markets": {
+    "summary": "Wall Street had a rough week. Tech stocks fell hard on Thursday, with the Nasdaq slipping into a correction (a drop of 10% or more from a recent high), and the selloff spread to Asia and Europe on Friday. Coverage in the Guardian, Deutsche Welle and the Financial Times tied the move to doubts about huge AI investments and to investor worries about how a Democratic Congress might treat the sector. Bloomberg put the week's losses at about $5.7 trillion. Stocks steadied somewhat on Friday after the Labor Department reported that employers added 165,000 jobs in October, well above the roughly 59,000 analysts expected, and the unemployment rate dipped to 4.1%. The FT noted that strong hiring reinforces expectations the Federal Reserve could raise interest rates, which is another pressure on richly priced stocks.",
+    "movers": [
+      { "symbol": "NIKKEI225", "why": "Japan's Nikkei fell about 6% on Friday, dragged down by chip stocks as the AI selloff reached Asia, per WSJ reporting." },
+      { "symbol": "SP500", "why": "The S&P 500 fell about 4.4% in the latest reading in the data (Nov. 5), the day the tech rout began on Wall Street." },
+      { "symbol": "DGS2", "why": "The 2-year Treasury yield fell 12 basis points (0.12 percentage point) in the latest reading; the coverage we have doesn't give a clear cause." }
+    ],
+    "concept": {
+      "term": "Nonfarm payrolls",
+      "explanation": "It is the government's monthly count of how many jobs employers added, excluding farms, and it comes out on the first Friday of most months. It moves with business confidence and hiring demand, and markets watch it because strong job growth can keep the Fed from cutting interest rates, or push it toward raising them. That matters to your wallet because the Fed's rate decisions feed through to mortgage, car and credit card rates, and a surprise in either direction can swing stock prices that sit inside most retirement accounts."
+    },
+    "watch": [
+      "Tue Nov 10: October consumer price index (inflation) report, 8:30 a.m. ET",
+      "Wed Nov 11: Veterans Day observances",
+      "Fri Nov 13: Producer price index for October",
+      "Before Thanksgiving (Nov 26): Anthropic's planned IPO, per the Financial Times",
+      "Wed Dec 9: Federal Reserve rate decision (date per third-party calendars; confirm with the Fed)"
+    ]
+  },
+  "trending": [
+    { "title": "Stephen Miller named chief of staff", "context": "Trump replaced Susie Wiles with Miller after the midterm losses, and people are looking up who he is.", "signal": "wikipedia" },
+    { "title": "2026 United States elections", "context": "Democrats won a majority in both chambers of Congress, according to Wikipedia's news summary.", "signal": "wikipedia_news" },
+    { "title": "Russell Brand", "context": "Searches and posts are up around the comedian's trial on rape and assault charges.", "signal": "wikipedia" },
+    { "title": "Kimi Antonelli", "context": "He became the youngest ever Formula One world champion.", "signal": "wikipedia_news" },
+    { "title": "New Zealand general election", "context": "New Zealanders voted and early counts were close, so people are following the result.", "signal": "bluesky" },
+    { "title": "Bomb threats divert European flights", "context": "Several flights in Europe were diverted after bomb threats.", "signal": "bluesky" },
+    { "title": "Paraguay's president resigns", "context": "Santiago Peña stepped down, and people are asking what comes next for the country.", "signal": "bluesky" },
+    { "title": "Alabama vs. LSU", "context": "College football fans are searching for the game.", "signal": "google" }
+  ]
+}

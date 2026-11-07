@@ -1,0 +1,257 @@
+{
+ "stories": [
+  {
+   "id": "nyc-fire-deaths",
+   "headline": "NYC fire deaths have nearly doubled this year after a deadly Brooklyn blaze",
+   "region": "Brooklyn",
+   "importance": 5,
+   "summary": "The New York Times reported that 86 people have died in NYC fires this year, nearly double the earlier toll, after a Brooklyn fire this week that killed six. The Daily News reported the City Council will hold an emergency hearing on deadly lithium-ion battery fires.",
+   "why_it_matters": "Fire deaths are rising citywide, and the Council hearing may lead to new rules on e-bike and other lithium-ion batteries.",
+   "background": "Lithium-ion batteries in e-bikes and scooters have been linked to fatal fires in New York in recent years. The Times says this week's Brooklyn fire renewed questions about whether e-bike batteries played a role in the rising toll. The City Council is the body that holds oversight hearings and passes local fire-safety laws. The FDNY investigates the cause of each fire.",
+   "facts": [
+    {
+     "text": "The Times reported that 86 people have died in New York City fires so far this year, nearly double the prior-year toll.",
+     "refs": [
+      "3a34103382"
+     ]
+    },
+    {
+     "text": "A Brooklyn fire this week killed six people, according to the Times, and it raised questions about whether e-bike batteries played a role.",
+     "refs": [
+      "3a34103382"
+     ]
+    },
+    {
+     "text": "The Daily News reported that deadly lithium-ion battery fires led the City Council to schedule an emergency hearing.",
+     "refs": [
+      "b77a14bff5"
+     ]
+    },
+    {
+     "text": "The Daily News reported that one victim of the Brooklyn fire was the wife of a Chinese immigrant, and that their daughter was missing.",
+     "refs": [
+      "33487c12f5"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "3a34103382",
+     "takeaway": "Citywide toll and the e-bike battery question (paywalled; summary only).",
+     "read_full": false
+    },
+    {
+     "ref": "b77a14bff5",
+     "takeaway": "Headline only: Council response to battery fires.",
+     "read_full": false
+    },
+    {
+     "ref": "33487c12f5",
+     "takeaway": "Headline only: human story of one family in the Brooklyn blaze.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "nyc-east-harlem-shooting",
+   "headline": "Two killed in shooting at East Harlem senior center",
+   "region": "Manhattan",
+   "importance": 4,
+   "summary": "Gothamist, citing the NYPD, reported that a home health aide and an elderly man were killed in a shooting at the Gaylord White Senior Center on East 104th Street on Thursday evening. The Daily News described the victims as an ailing man and his home health aide.",
+   "why_it_matters": "A shooting at a senior center affects a community facility that older residents rely on, and the NYPD investigation is ongoing.",
+   "background": "The Gaylord White Senior Center is on East 104th Street in East Harlem. Police responded to a call there Thursday evening. The two outlets are the only ones in this digest covering it, and both lean left.",
+   "facts": [
+    {
+     "text": "Police responded to a call at the Gaylord White Senior Center on East 104th Street on Thursday evening, per Gothamist.",
+     "refs": [
+      "3eabfc7dc8"
+     ]
+    },
+    {
+     "text": "Gothamist, citing the NYPD, reported that a health aide and an elderly man were killed.",
+     "refs": [
+      "3eabfc7dc8"
+     ]
+    },
+    {
+     "text": "The Daily News called it a double murder of an ailing East Harlem man and his home health aide.",
+     "refs": [
+      "98bff0c612"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [
+    {
+     "ref": "3eabfc7dc8",
+     "note": "Attributes the account to the NYPD and names the senior center."
+    },
+    {
+     "ref": "98bff0c612",
+     "note": "Calls it a 'double murder' and stresses the victims' frailty."
+    }
+   ],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "3eabfc7dc8",
+     "takeaway": "Attributes the account to the NYPD; location focus.",
+     "read_full": false
+    },
+    {
+     "ref": "98bff0c612",
+     "takeaway": "Headline frames it as a double murder of two vulnerable victims.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "nyc-queens-dwi-baby",
+   "headline": "Queens driver indicted in death of 1-year-old",
+   "region": "Queens",
+   "importance": 3,
+   "summary": "A Queens grand jury indicted Elvin Rivera, 57, of Flushing on manslaughter and impaired-driving charges for allegedly running a stop sign and killing a 1-year-old boy last month, per the Queens DA as reported by amNY. Gothamist reported the indictment says he was on cocaine and THC.",
+   "why_it_matters": "The case shows how prosecutors handle impaired-driving deaths at neighborhood intersections.",
+   "background": "The boy was struck at Murray Street and 32nd Avenue in Murray Hill, Queens. The Queens District Attorney's office announced the indictment after an arraignment in Queens Supreme Court. An indictment is an accusation, not a finding of guilt.",
+   "facts": [
+    {
+     "text": "A Queens grand jury indicted Elvin Rivera, 57, on manslaughter, driving while ability impaired and other charges, per amNY.",
+     "refs": [
+      "e79ef231b4"
+     ]
+    },
+    {
+     "text": "He was arraigned Friday in Queens Supreme Court, per amNY.",
+     "refs": [
+      "e79ef231b4"
+     ]
+    },
+    {
+     "text": "Gothamist reported the DA's office says the driver was on cocaine and THC.",
+     "refs": [
+      "00857e0e1c"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "e79ef231b4",
+     "takeaway": "Charges and arraignment details from the DA.",
+     "read_full": false
+    },
+    {
+     "ref": "00857e0e1c",
+     "takeaway": "Adds the substances the DA alleges.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "nyc-penn-station-msg",
+   "headline": "Federal Penn Station plan would require buying theater attached to Madison Square Garden",
+   "region": "Manhattan",
+   "importance": 3,
+   "summary": "Gothamist reported that the Trump administration is moving ahead with a new Penn Station design that would require buying the theater attached to the west side of Madison Square Garden. Its headline says the plan could send taxpayer money to a new venue for MSG owner James Dolan.",
+   "why_it_matters": "The plan affects the future of one of the busiest rail hubs in the country and how public money is spent.",
+   "background": "The federal government and Amtrak took over the Penn Station rebuild from the MTA and state. Earlier reporting found by search said the plan keeps the Garden in place while replacing its theater with a new train hall space. The price paid to Dolan's company has been reported as unconfirmed.",
+   "facts": [
+    {
+     "text": "The federal government's plan would require purchase of a theater attached to the west side of Madison Square Garden, per Gothamist.",
+     "refs": [
+      "0f46187f02"
+     ]
+    },
+    {
+     "text": "Search results from outlets such as West Side Spirit describe Halmar as chosen by Amtrak for an $8 billion Penn Station rebuild with MSG not required to move.",
+     "refs": [
+      "nyc-w1"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "0f46187f02",
+     "takeaway": "Gothamist's own reporting, summary only; focuses on money flowing to Dolan.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "nyc-hochul-taxes",
+   "headline": "Hochul signals shift on tax hikes after re-election win",
+   "region": "Albany",
+   "importance": 3,
+   "summary": "The Daily News reported that Gov. Kathy Hochul signaled a shift on whether to raise taxes after her re-election victory. Only the headline was available, so details are not confirmed here.",
+   "why_it_matters": "Tax decisions in Albany affect city budgets and what New Yorkers pay. Only one outlet in this digest covered it.",
+   "background": "Hochul won re-election this week, according to the Daily News headline. State tax levels are set in the state budget. The city depends on Albany for tax authority and aid.",
+   "facts": [
+    {
+     "text": "The Daily News reported that Hochul signaled a shift on the question of tax hikes after her re-election win.",
+     "refs": [
+      "1c6075a7ce"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "1c6075a7ce",
+     "takeaway": "Headline only; single-outlet.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  },
+  {
+   "id": "nyc-2k-childcare",
+   "headline": "City moves to register childcare providers after delays threatened 2-K rollout",
+   "region": "City Hall",
+   "importance": 3,
+   "summary": "The Daily News reported that the city is moving quickly to register childcare providers after delays threatened Mayor Mamdani's 2-K rollout. Only the headline was available.",
+   "why_it_matters": "Parents of two-year-olds depend on providers being registered for the program to start on time. Only the Daily News covered it here.",
+   "background": "2-K is Mayor Zohran Mamdani's plan for free childcare for two-year-olds. Providers must be registered with the city to take part. The Daily News says delays had put the rollout at risk.",
+   "facts": [
+    {
+     "text": "The Daily News reported that the city is moving quickly to register childcare providers after delays threatened the 2-K rollout.",
+     "refs": [
+      "e433dbacf4"
+     ]
+    }
+   ],
+   "disputed": [],
+   "framing": [],
+   "left_out": [],
+   "coverage": [
+    {
+     "ref": "e433dbacf4",
+     "takeaway": "Headline only; single-outlet.",
+     "read_full": false
+    }
+   ],
+   "social": ""
+  }
+ ],
+ "web_refs": [
+  {
+   "id": "nyc-w1",
+   "url": "https://www.westsidespirit.com/news/halmar-tapped-by-amtrak-for-8-billion-penn-station-redo-msg-won-t-have-to-move-EF5869035",
+   "title": "Halmar Tapped by Amtrak for $8 Billion Penn Station Redo; MSG Won't Have to Move",
+   "outlet": "West Side Spirit"
+  }
+ ]
+}
