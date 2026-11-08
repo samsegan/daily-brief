@@ -1,0 +1,29 @@
+{
+  "overview": "Democrats won majorities in both the House and Senate in Tuesday's midterm elections, according to Wikipedia's news summary, and coverage this weekend turns to what that means for the White House and Congress. Overseas, a mass shooting in Kraków's Main Square left six people dead, Paraguay's president was removed from office amid a banking crisis, and Israeli politics is in flux over efforts to form a government. Markets had a rough week as a technology selloff and a steep drop in Japanese stocks weighed on investors.",
+  "markets": {
+    "summary": "U.S. stocks were mixed in the latest data: the S&P 500 fell 4.36% on its most recent reading (Nov. 5), while the Nasdaq rose 1.09% and the Dow slipped 0.46% a day later. Reporting links the pressure to a selloff in artificial-intelligence and tech shares after the midterms, and Japan's Nikkei dropped nearly 6% in a day. Bond yields fell as investors moved toward safer assets: the 10-year Treasury yield eased to 4.84% and the 30-year mortgage rate to 7.18%. Oil stays near $100 a barrel for U.S. crude, which keeps pressure on inflation, last measured at 3.72% a year.",
+    "movers": [
+      { "symbol": "NIKKEI225", "why": "Fell nearly 6% in a day, extending a drop of about 18% over the past month; coverage points to the global tech selloff." },
+      { "symbol": "SP500", "why": "Dropped 4.36% on its latest reading, with reporting tying the slide to the unwinding of the AI trade after the midterms." },
+      { "symbol": "DGS2", "why": "The 2-year Treasury yield fell 12 basis points as investors bought safer government debt; the digest does not give a single clear cause." }
+    ],
+    "concept": {
+      "term": "Basis point",
+      "explanation": "A basis point is one-hundredth of a percentage point, so a 12-basis-point drop in a yield means it fell from, say, 4.58% to 4.46%. Traders use the term because small moves in interest rates matter a lot when applied to trillions of dollars of debt. Changes in yields flow into your wallet through mortgage rates, car loans and credit-card rates, which tend to follow Treasury yields up and down."
+    },
+    "watch": [
+      "Wed Nov 11: Veterans Day; U.S. bond markets are closed and federal offices shut",
+      "This week: October inflation data (CPI) is expected, though one preview suggests the release schedule should be checked",
+      "This week: speeches from several Federal Reserve officials, including Kansas City Fed President George"
+    ]
+  },
+  "trending": [
+    { "title": "Kraków Main Square shooting", "context": "Six people were killed and 15 injured in a shooting in the Polish city, according to Wikipedia's news summary.", "signal": "wikipedia_news" },
+    { "title": "Paraguay president removed", "context": "Santiago Peña was impeached and replaced by Vice President Pedro Alliana amid a banking crisis involving Ueno Bank.", "signal": "wikipedia_news" },
+    { "title": "Midterm election aftermath", "context": "Bluesky users are discussing the results and what Democratic majorities mean for Congress.", "signal": "bluesky" },
+    { "title": "Russell Brand verdict", "context": "Thousands of Bluesky posts react to the court verdict in the comedian's case.", "signal": "bluesky" },
+    { "title": "Kimi Antonelli F1 champion", "context": "He became the youngest-ever Formula One world champion, per Wikipedia's news summary.", "signal": "wikipedia_news" },
+    { "title": "Gas prices", "context": "People are searching for gas prices with crude oil still near $100 a barrel.", "signal": "google" },
+    { "title": "COP31 climate summit", "context": "Bluesky users are discussing the climate talks under way in Antalya, Turkey.", "signal": "bluesky" }
+  ]
+}

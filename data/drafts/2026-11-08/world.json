@@ -1,0 +1,283 @@
+{
+  "stories": [
+    {
+      "id": "israel-eisenkot-mandate",
+      "headline": "Israel's president tasks Netanyahu rival Gadi Eisenkot with forming a government",
+      "region": "Middle East",
+      "importance": 5,
+      "summary": "President Isaac Herzog on Saturday chose former military chief Gadi Eisenkot, the strongest rival of Prime Minister Benjamin Netanyahu, to try to form Israel's next government after an inconclusive election. Eisenkot has up to six weeks to assemble a coalition, and he has so far declined to join forces with Arab parties whose support would give him a majority.",
+      "why_it_matters": "A change of leader in Israel would affect the war and ceasefire diplomacy, relations with Washington and the region, and who sets security policy for years. The coalition math is hard, so the outcome is still open.",
+      "background": "Israel held an election that produced no clear winner. Netanyahu's Likud won the most seats of any single party, but his religious-nationalist bloc fell short of a majority. Under Israeli law the president picks the lawmaker he judges most likely to build a coalition after consulting party leaders. Herzog said factions with 67 of 120 Knesset seats recommended Eisenkot and 46 recommended Netanyahu. The nominee gets 28 days, extendable by 14.",
+      "facts": [
+        { "text": "Herzog chose Gadi Eisenkot on Saturday to try to form a new government.", "refs": ["f97205f289", "d88bdbb084"] },
+        { "text": "Eisenkot is a former army chief of staff and Netanyahu's strongest rival, and will have up to six weeks to form a coalition.", "refs": ["d88bdbb084", "006f8a73da"] },
+        { "text": "Eisenkot has declined to join forces with Arab parties, with whose support he would have a majority of seats.", "refs": ["5e1b0dbbda"] },
+        { "text": "Herzog said factions totalling 67 of the 120 Knesset members recommended Eisenkot and 46 recommended Netanyahu.", "refs": ["world-w1"] },
+        { "text": "Times of Israel described the path to a coalition as fraught.", "refs": ["4432bd216a"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "0175d4b0e3", "note": "Stresses the inconclusive election and Eisenkot's hope of cobbling together a coalition." },
+        { "ref": "645f3de402", "note": "Frames the pick as a setback for Netanyahu." },
+        { "ref": "4432bd216a", "note": "Leads with the obstacles Eisenkot faces rather than the nomination itself." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f97205f289", "takeaway": "Wire report on the nomination; headline only in the digest.", "read_full": false },
+        { "ref": "d88bdbb084", "takeaway": "Short report confirming the Saturday choice.", "read_full": false },
+        { "ref": "5e1b0dbbda", "takeaway": "Adds that Eisenkot has refused to partner with Arab parties.", "read_full": false },
+        { "ref": "4432bd216a", "takeaway": "Emphasizes the difficult road to a coalition (headline only).", "read_full": false },
+        { "ref": "645f3de402", "takeaway": "Paywalled; headline calls it a setback for Netanyahu.", "read_full": false },
+        { "ref": "0175d4b0e3", "takeaway": "Paywalled; summary notes the inconclusive election.", "read_full": false },
+        { "ref": "006f8a73da", "takeaway": "Paywalled explainer; summary gives the six-week window.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "yemen-saudi-houthi-escalation",
+      "headline": "Saudi strike near Sanaa kills dozens, then missiles damage Aramco tower in Riyadh",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "Houthi health officials said a Saudi air strike on a village near Sanaa on Saturday killed at least 33 people, mostly women and children. On Sunday Saudi Arabia said it intercepted missiles aimed at Riyadh's financial district, and falling debris damaged an Aramco administrative building with no injuries reported.",
+      "why_it_matters": "A renewed Saudi-Houthi exchange threatens civilians in Yemen and puts Gulf oil infrastructure and shipping back at risk, which can affect fuel prices.",
+      "background": "Yemen's Iran-backed Houthi movement controls Sanaa and has fought a Saudi-led coalition that backs the internationally recognized government for years. Saudi Arabia hosts the headquarters of Aramco, the state oil giant. The Houthis have periodically fired missiles and drones at Saudi territory. Saudi Arabia had not commented on the Saturday strike in early reports.",
+      "facts": [
+        { "text": "The Houthi-run Health Ministry said airstrikes near Sanaa killed 33 people; the Houthis blamed Saudi Arabia, which had not commented.", "refs": ["53b4375315", "b3534df0c8", "ae3b2d1d1a"] },
+        { "text": "Saudi Arabia's Energy Ministry said an Aramco administrative building in Riyadh was damaged by falling debris after an attempted attack, with no injuries.", "refs": ["29158b4195", "4ea67965d9"] },
+        { "text": "France 24 reported the coalition intercepted two ballistic missiles headed for the financial district.", "refs": ["682a9e6d20"] },
+        { "text": "Syria denied reports that it would send thousands of troops to Yemen and Saudi Arabia, while saying military cooperation with the Saudis could expand.", "refs": ["0532e49ddf", "6850554429"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Death toll from the Saturday strike",
+          "positions": [
+            { "claim": "At least 22 killed and 30 wounded, per an early Houthi health ministry statement.", "refs": ["e8f61a3604"] },
+            { "claim": "At least 33 killed, per the later Houthi health ministry figure.", "refs": ["53b4375315", "ae3b2d1d1a"] }
+          ]
+        },
+        {
+          "topic": "Who attacked the Riyadh tower",
+          "positions": [
+            { "claim": "Saudi officials described an attempted attack with debris causing damage.", "refs": ["4ea67965d9"] },
+            { "claim": "Witnesses cited by Times of Israel and WSJ attribute the strike to the Houthis.", "refs": ["0bdbded143", "ac0108d3af"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "e8f61a3604", "note": "Leads with the civilian toll near Sanaa, citing a Houthi official." },
+        { "ref": "ac0108d3af", "note": "Leads with the damage to an iconic Saudi tower and the Houthi attack." },
+        { "ref": "682a9e6d20", "note": "Presents the Riyadh attack as following the deadly Saudi strikes." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e8f61a3604", "takeaway": "AP-style report with early Houthi casualty figures.", "read_full": false },
+        { "ref": "ae3b2d1d1a", "takeaway": "Raises toll to 33 and notes homes hit in al-Shariya.", "read_full": false },
+        { "ref": "b3534df0c8", "takeaway": "Notes Saudi Arabia has not commented.", "read_full": false },
+        { "ref": "53b4375315", "takeaway": "Reuters headline with the 33 toll.", "read_full": false },
+        { "ref": "4ea67965d9", "takeaway": "Reuters headline on the Aramco building damage.", "read_full": false },
+        { "ref": "29158b4195", "takeaway": "Summary only (paywalled) with the Energy Ministry statement.", "read_full": false },
+        { "ref": "0bdbded143", "takeaway": "Attributes the attack to the Houthis per witnesses (headline only).", "read_full": false },
+        { "ref": "ac0108d3af", "takeaway": "Paywalled; summary calls it the Houthis' latest attack on the capital.", "read_full": false },
+        { "ref": "682a9e6d20", "takeaway": "Live-blog summary linking the Riyadh attack to the Saturday strike.", "read_full": false },
+        { "ref": "0532e49ddf", "takeaway": "Syria denies sending troops to Yemen.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "krakow-shooting",
+      "headline": "Six killed in Krakow market square shooting; Poland opens terrorism probe",
+      "region": "Europe",
+      "importance": 5,
+      "summary": "A 24-year-old gunman with a semi-automatic rifle opened fire from a car near Krakow's Main Square on Saturday, killing six people and wounding more than a dozen before police shot and wounded him. Poland launched a terrorism investigation and declared two days of mourning after three more bodies were found at the suspect's home.",
+      "why_it_matters": "Mass shootings are rare in Poland, and the attack's far-right motive is raising security and political tension in a country already on edge over threats linked to Russia.",
+      "background": "Krakow's Main Square is one of Europe's busiest tourist and market areas. Poland has strict gun laws and has seen few mass killings. Authorities said the suspect was fascinated by far-right ideologies. Prime Minister Donald Tusk is leading the government's response.",
+      "facts": [
+        { "text": "Six people were killed after a gunman opened fire in Krakow's Main Square area; he was shot by police and taken to hospital.", "refs": ["79c28aee4d", "f50d287e94"] },
+        { "text": "Authorities said the 24-year-old suspect used a semi-automatic rifle and was fascinated by far-right ideologies; Poland launched a terrorism probe.", "refs": ["16842677b5"] },
+        { "text": "Police confirmed the bodies found at the suspect's home were his parents and sister.", "refs": ["9237abf9d0"] },
+        { "text": "A Briton was among the dead, and Poland's defence minister called the attack an act of terror.", "refs": ["f50d287e94"] },
+        { "text": "Poland began two days of mourning, and Tusk called on politicians not to exploit the incident.", "refs": ["9237abf9d0", "f7b41dc14b"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Number of wounded",
+          "positions": [
+            { "claim": "15 wounded, per the Hindu and AP-based reports.", "refs": ["5c2583750b", "c7bd76bbcb"] },
+            { "claim": "16 wounded, per the Guardian.", "refs": ["f50d287e94"] },
+            { "claim": "17 wounded including two police officers and the gunman, per the Hindu.", "refs": ["da850801db"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "79c28aee4d", "note": "Early framing focused on the toll and the gunman being shot." },
+        { "ref": "f50d287e94", "note": "Leads with the British victim and the suspect's ultra-nationalist views." },
+        { "ref": "f7b41dc14b", "note": "Highlights Tusk's call not to politicize the attack." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "79c28aee4d", "takeaway": "Paywalled; early report with six dead.", "read_full": false },
+        { "ref": "16842677b5", "takeaway": "Reports terror probe and suspect profile.", "read_full": false },
+        { "ref": "f50d287e94", "takeaway": "Adds British victim and minister's terror label.", "read_full": false },
+        { "ref": "9237abf9d0", "takeaway": "Mourning and identification of the bodies at the suspect's home.", "read_full": false },
+        { "ref": "f7b41dc14b", "takeaway": "Paywalled; summary quotes Tusk's appeal.", "read_full": false },
+        { "ref": "5c2583750b", "takeaway": "Notes the three bodies and far-right views.", "read_full": false },
+        { "ref": "da850801db", "takeaway": "Gives a wounded count of 17 including the gunman.", "read_full": false },
+        { "ref": "c7bd76bbcb", "takeaway": "AP: Poles mourn rare mass killing.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ukraine-strikes-abu-dhabi-talks",
+      "headline": "Russian strikes hit Ukraine's power grid ahead of Abu Dhabi talks",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Russian missiles and drones hit Kyiv-region energy facilities and a major bridge, wounding at least nine people. More than 600,000 customers were left without power, Ukrainian authorities said. Russian, Ukrainian and US delegations are due to meet in Abu Dhabi on Tuesday, and Russia is sending a higher-level team than before.",
+      "why_it_matters": "Winter attacks on power can mean outages and cold for millions of Ukrainians, and the talks are the clearest current chance of movement toward ending the war.",
+      "background": "Russia invaded Ukraine in 2022 and has repeatedly targeted the energy system before winter. The US is mediating talks that have stalled for months. Deputy Foreign Minister Sergei Ryabkov will join the Russian delegation for the first time. Germany's defence minister said Berlin cannot supply more Patriot systems for now.",
+      "facts": [
+        { "text": "Strikes hit a major bridge and energy facilities in the Kyiv region; President Zelenskyy accused Moscow of trying to push Ukraine into a blackout.", "refs": ["cf75f49855"] },
+        { "text": "Ukraine's Energy Ministry said a massive attack plunged five regions into darkness.", "refs": ["ece1cecac6"] },
+        { "text": "More than 600,000 people were left without power, authorities said.", "refs": ["6e0792b84c"] },
+        { "text": "Deputy Foreign Minister Ryabkov will join Russia's delegation to the Abu Dhabi talks for the first time.", "refs": ["bac04a4d8a", "fd3fd26956"] },
+        { "text": "Germany's Boris Pistorius said Germany cannot provide more Patriot systems for now.", "refs": ["64073f87c3"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "cf75f49855", "note": "Casts the strikes as pressure ahead of the talks, quoting Zelenskyy." },
+        { "ref": "fd3fd26956", "note": "Leads with Russia's upgraded delegation as a sign of openness." },
+        { "ref": "34f329dcc6", "note": "Wire-style focus on casualties while Ukraine prepares for talks." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "cf75f49855", "takeaway": "Strikes on Kyiv region and Zelenskyy quote.", "read_full": false },
+        { "ref": "e6afdaa46c", "takeaway": "Nine wounded and grid damage before talks.", "read_full": false },
+        { "ref": "fd3fd26956", "takeaway": "Paywalled; Russia upgrades delegation.", "read_full": false },
+        { "ref": "bac04a4d8a", "takeaway": "Names Ryabkov joining talks.", "read_full": false },
+        { "ref": "6e0792b84c", "takeaway": "600,000 without power.", "read_full": false },
+        { "ref": "64073f87c3", "takeaway": "Germany on Patriot supplies.", "read_full": false },
+        { "ref": "34f329dcc6", "takeaway": "Wire summary headline on casualties and talks.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "new-zealand-election-deadlock",
+      "headline": "New Zealand election too close to call; weeks of coalition talks ahead",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "With more than 95 percent of votes counted, National and Labour were separated by fewer than 4,000 votes and neither bloc has a clear majority. Minor parties had strong results, and official results will not be known until special votes are counted later this month.",
+      "why_it_matters": "Who governs New Zealand will set economic and cost-of-living policy, and the smaller parties now hold the balance of power.",
+      "background": "New Zealand uses a proportional system that usually requires coalitions. Prime Minister Christopher Luxon's National leads a centre-right government, and Chris Hipkins leads Labour. Special votes, including overseas ballots, can shift seat totals. The campaign was dominated by economic concerns.",
+      "facts": [
+        { "text": "Fewer than 4,000 votes separated National and Labour with over 95% counted.", "refs": ["eab8637502"] },
+        { "text": "Preliminary results showed the right-wing bloc slightly ahead with no clear winner.", "refs": ["d9fb5d2e71", "ca86107b9a"] },
+        { "text": "Official results are not expected until later this month after special votes are counted, so the government's shape may take weeks to settle.", "refs": ["eab8637502", "ebdfed9765"] },
+        { "text": "Smaller parties achieved some of their best-ever results.", "refs": ["39e3fe0a95"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "ca86107b9a", "note": "Emphasizes the conservative bloc's slim lead." },
+        { "ref": "d9fb5d2e71", "note": "Stresses the too-close result and voters turning to minor parties." },
+        { "ref": "39e3fe0a95", "note": "Frames the night as a punishment of the two major parties." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "eab8637502", "takeaway": "Neck-and-neck count and timeline for official results.", "read_full": false },
+        { "ref": "ca86107b9a", "takeaway": "Headline highlights conservative lead.", "read_full": false },
+        { "ref": "d9fb5d2e71", "takeaway": "Paywalled; summary on minor parties.", "read_full": false },
+        { "ref": "39e3fe0a95", "takeaway": "Paywalled; majors punished.", "read_full": false },
+        { "ref": "ebdfed9765", "takeaway": "Weeks of uncertainty.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "paraguay-pena-ousted-ueno",
+      "headline": "Paraguay's Senate removes President Peña; he is charged over Ueno Bank collapse",
+      "region": "Americas",
+      "importance": 4,
+      "summary": "Paraguay's Senate impeached and removed President Santiago Peña on Friday over the collapse of Ueno Bank. Prosecutors charged him and former Central Bank chief Carlos Carvallo, and a judge ordered him held before trial.",
+      "why_it_matters": "Nearly three million customers were locked out of their accounts, and a sitting president's removal and detention is a rare shock for Paraguay's institutions and economy.",
+      "background": "Regulators seized Ueno Bank, which had close ties to Peña's administration. Prosecutors allege breach of trust and other offenses. The Senate impeached Peña rather than accept an offer to resign, per France 24. He was first placed under house arrest and later moved to a military facility for his safety.",
+      "facts": [
+        { "text": "The Senate voted to impeach and remove Peña after the bank collapse.", "refs": ["d74c8db696", "26553ff84c"] },
+        { "text": "Prosecutors ordered the arrest of Peña and former Central Bank chief Carvallo over alleged breach of trust tied to Ueno Bank.", "refs": ["7072e2d522"] },
+        { "text": "A judge ordered Peña held before trial.", "refs": ["a9c3c9167d"] },
+        { "text": "Nearly three million customers were locked out of their accounts.", "refs": ["26553ff84c"] },
+        { "text": "NYT reports the charges include using his office to enrich himself.", "refs": ["fb901f126d"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "a41907c82a", "note": "Focuses on the banking crisis hitting millions of savers." },
+        { "ref": "fb901f126d", "note": "Leads with corruption and self-enrichment charges." },
+        { "ref": "26553ff84c", "note": "Highlights that the Senate rejected his resignation offer." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "7072e2d522", "takeaway": "Arrest order for Peña and Carvallo.", "read_full": false },
+        { "ref": "d74c8db696", "takeaway": "Removal and house arrest.", "read_full": false },
+        { "ref": "a41907c82a", "takeaway": "Savers locked out.", "read_full": false },
+        { "ref": "fb901f126d", "takeaway": "Paywalled; corruption charges.", "read_full": false },
+        { "ref": "26553ff84c", "takeaway": "Impeachment rather than resignation.", "read_full": false },
+        { "ref": "a9c3c9167d", "takeaway": "Judge orders pretrial detention.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "south-africa-anc-local-elections",
+      "headline": "South Africa's ANC heads for its worst-ever local election result",
+      "region": "Africa",
+      "importance": 3,
+      "summary": "Near-final results show the African National Congress with its lowest vote share ever in local elections, with voters blaming it for poor municipal services such as water and electricity shortages. Many councils are hung, so coalition talks will decide who runs the big cities.",
+      "why_it_matters": "Municipal services like water and power affect daily life, and coalition deals in major cities will determine who is accountable for fixing them.",
+      "background": "The ANC has governed South Africa since 1994. It fell to 45.6 percent in the 2021 local elections. Reports during counting put it near 32 percent this time, with the Democratic Alliance next, and the DA expected to win an outright majority only in Cape Town. The electoral commission was expected to announce final results on Sunday.",
+      "facts": [
+        { "text": "Near-final results show the ANC's lowest-ever vote percentage, with the party blamed for shoddy municipal services.", "refs": ["8d4ce62d62"] },
+        { "text": "Reuters reported the ANC battered by losses ahead of coalition talks.", "refs": ["866316f2e8"] },
+        { "text": "In provisional counts the ANC was near a third of the vote, with the DA at about 24.6 percent.", "refs": ["world-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "8d4ce62d62", "note": "Emphasizes service failures behind the ANC's decline." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "8d4ce62d62", "takeaway": "Worst-ever ANC result, service delivery blamed.", "read_full": false },
+        { "ref": "866316f2e8", "takeaway": "Reuters headline on ANC losses and coalition talks.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "pope-leo-south-america-tour",
+      "headline": "Pope Leo, weeks after cancer surgery, urges unity in Uruguay and heads to Argentina",
+      "region": "Americas",
+      "importance": 2,
+      "summary": "Pope Leo XIV drew about 40,000 people to a Mass in Uruguay on the second day of a 12-day tour of Uruguay, Argentina and Peru, about three weeks after lung cancer surgery. He urged Catholics to be bridge builders and spoke about access to healthcare, then headed to Argentina, where tensions with President Javier Milei loom.",
+      "why_it_matters": "The tour tests the pope's health and signals the Church's stance on austerity and inequality in a region where Catholics are a large share of the population.",
+      "background": "Leo XIV is the first US-born pope. Uruguay is South America's most secular country. Argentina's Church is committed to social justice, which sits at odds with Milei's libertarian policies, per the NYT.",
+      "facts": [
+        { "text": "More than 40,000 gathered for Leo's Mass in Uruguay.", "refs": ["3e9f4f83c0", "bf565a693b"] },
+        { "text": "The tour comes about three weeks after surgery for lung cancer.", "refs": ["ee46e0e3e9", "1b2b2fe232"] },
+        { "text": "He spoke about access to healthcare in Uruguay.", "refs": ["56b980e6e6"] },
+        { "text": "NYT and Reuters describe tensions ahead in Argentina involving President Milei.", "refs": ["d5a2eae5b1", "739b1dd043"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "56b980e6e6", "note": "Highlights the call for universal healthcare." },
+        { "ref": "e087d4bd90", "note": "A lighter angle: the ode to mate and calls for fraternity." },
+        { "ref": "d5a2eae5b1", "note": "Focuses on the Church's clash with Milei." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3e9f4f83c0", "takeaway": "Attendance and Uruguay's secularism.", "read_full": false },
+        { "ref": "56b980e6e6", "takeaway": "Healthcare remarks.", "read_full": false },
+        { "ref": "e087d4bd90", "takeaway": "Mate ode and bridge-building.", "read_full": false },
+        { "ref": "d5a2eae5b1", "takeaway": "Paywalled; Argentina tensions.", "read_full": false },
+        { "ref": "739b1dd043", "takeaway": "Reuters: Milei tensions over austerity and Iran.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w1", "url": "https://aljazeera.com/news/2026/11/6/israels-herzog-to-name-candidate-to-form-government-on-sunday", "title": "Israel's President Herzog to name candidate to form government on Sunday", "outlet": "Al Jazeera" },
+    { "id": "world-w2", "url": "https://www.ewn.co.za/local-elections-2026-da-surges-anc-slides-and-metros-face-massive-coalition-test/", "title": "Local Elections 2026: DA surges, ANC slides and metros face massive coalition test", "outlet": "EWN" }
+  ]
+}

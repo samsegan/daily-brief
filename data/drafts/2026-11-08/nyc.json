@@ -1,0 +1,114 @@
+{
+  "stories": [
+    {
+      "id": "ice-bronx-shelter-names",
+      "headline": "Federal judge orders city to give ICE names of Bronx shelter residents",
+      "region": "City Hall",
+      "importance": 5,
+      "summary": "A federal judge ruled on Nov. 7 that the Mamdani administration must give Immigration and Customs Enforcement the names of residents of a Bronx shelter, according to the Daily News and Gothamist. Gothamist reports the city had argued against the request. The digest summaries do not say whether the city will appeal.",
+      "why_it_matters": "The ruling bears on how far the city's shelter system can shield residents' information from federal immigration agents. Only left-leaning outlets in the digest covered it, so there is no right-leaning account to compare.",
+      "background": "New York City has sanctuary laws that limit local cooperation with federal immigration enforcement. A federal judge in Brooklyn dismissed a Trump administration suit challenging those laws in mid-October, as reported by several outlets. Mayor Zohran Mamdani has said ICE cannot enter city property without a judicial warrant. The new ruling concerns a request for shelter residents' names, a separate dispute from the sanctuary-law suit.",
+      "facts": [
+        { "text": "A federal judge ruled that New York City must give ICE the names of residents of a Bronx shelter.", "refs": ["005f8b5bc0", "894ccdce44"] },
+        { "text": "Gothamist describes the ruling as directed at the Mamdani administration, and says the city had argued against the request.", "refs": ["894ccdce44"] },
+        { "text": "A federal judge in Brooklyn dismissed the Trump administration's lawsuit against the city's sanctuary laws in October, a separate case.", "refs": ["nyc-w1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "005f8b5bc0", "note": "Headline says NYC 'must give' ICE the names, putting the court order first." },
+        { "ref": "894ccdce44", "note": "Headline names the Mamdani administration as the party ordered to comply." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "005f8b5bc0", "takeaway": "Headline only in the digest: reports the ruling.", "read_full": false },
+        { "ref": "894ccdce44", "takeaway": "Headline and short summary: notes the city argued against the request.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "brooklyn-jogger-suspect-doe",
+      "headline": "Arrest in Brooklyn jogger killing raises questions about Education Dept. vetting",
+      "region": "Brooklyn",
+      "importance": 4,
+      "summary": "The New York Post reports that an ex-NYPD officer who works as an elementary school educator was arrested in the killing of a jogger on a Brooklyn footpath. The Post also reports that Department of Education insiders are criticizing the agency's vetting of staff. Details come from the Post's reporting alone in the digest.",
+      "why_it_matters": "The case puts attention on how the city screens school employees who work with children. Only the Post covered the arrest in the digest, and other outlets' accounts were not available.",
+      "background": "Katie Suarez, 28, was stabbed in the neck while jogging on a Belt Parkway waterfront path in Bath Beach, Brooklyn, on Oct. 30 and later died. Police described the attack as apparently random. As of earlier reports, no suspect had been named and a reward of $10,000 had been offered. The arrest reported by the Post came after those reports.",
+      "facts": [
+        { "text": "The Post reports that an ex-NYPD officer and current elementary school educator was arrested in the killing of the jogger.", "refs": ["094550b483"] },
+        { "text": "The Post reports that Department of Education insiders are criticizing what it calls a broken vetting system after a teacher's aide was arrested.", "refs": ["12ed1589a6"] },
+        { "text": "Suarez was stabbed on a Belt Parkway bike path in Bath Beach on Oct. 30 and died days later; police said the attack appeared random.", "refs": ["nyc-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "094550b483", "note": "Emphasizes the suspect's police and military background and his demeanor in custody." },
+        { "ref": "12ed1589a6", "note": "Frames the arrest as a failure of Department of Education hiring checks, citing unnamed insiders." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "094550b483", "takeaway": "Summary only: describes the arrest and the suspect's background.", "read_full": false },
+        { "ref": "12ed1589a6", "takeaway": "Summary only: relays anonymous insiders' criticism of vetting.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nyc-fire-deaths-ebike",
+      "headline": "NYC fire deaths have nearly doubled this year after Sunset Park blaze",
+      "region": "Brooklyn",
+      "importance": 4,
+      "summary": "A Nov. 5 fire in a Sunset Park row house killed six people and injured nine, and the New York Times reports the city's fire deaths this year reached 86, nearly double last year's pace. Investigators are examining whether lithium-ion batteries played a role; the cause has not been confirmed. Mayor Mamdani has cited about 400 e-bike-related fires this year.",
+      "why_it_matters": "Fire deaths at this level affect anyone living in older or crowded housing, and charging e-bike batteries indoors is a common risk. The cause of the Sunset Park fire is still under investigation.",
+      "background": "Lithium-ion batteries in e-bikes and scooters have been a recurring cause of deadly fires in the city, and the FDNY has tied several deaths this year to them. A separate Bronx fire in the Patterson Houses on Oct. 28 killed three. Sunset Park is a densely populated Brooklyn neighborhood with many multi-family homes.",
+      "facts": [
+        { "text": "The Times reports 86 fire deaths in the city this year, nearly double the prior year, after a Brooklyn fire that killed six people.", "refs": ["3a34103382"] },
+        { "text": "The Sunset Park fire killed six people and injured nine, according to reports by ABC7 and Scripps.", "refs": ["nyc-w3", "nyc-w4"] },
+        { "text": "Two lithium-ion batteries were found at the scene and investigators are determining whether they played a role.", "refs": ["nyc-w3"] },
+        { "text": "Mayor Mamdani cited about 400 e-bike-related fires in the city so far this year, per NY1.", "refs": ["nyc-w4"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3a34103382", "takeaway": "Paywalled; headline and summary only: leads with the year-over-year toll and the battery question.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ny-midterm-aftermath",
+      "headline": "After midterms, Hochul weighs her next move as Republicans and the left take stock",
+      "region": "Albany",
+      "importance": 3,
+      "summary": "Gov. Kathy Hochul won re-election convincingly, but the Times reports she is not discussing higher office. Democrats widened their hold on the state Legislature, while the Post reports Staten Island Republicans, including Rep. Nicole Malliotakis, held on. The Times says state Republicans have been blaming one another for their losses, and the Post reports the Democratic Socialists of America claimed credit for the results in a Manhattan rally.",
+      "why_it_matters": "Larger Democratic majorities in Albany shape state budget, housing and transit decisions that reach New York City. Accounts here come from the Times, a left-leaning outlet, and the Post, a right-leaning one, which stress different winners.",
+      "background": "Hochul faced a Republican challenger in the Nov. 3 midterms, in which Democrats won control of the House and Senate nationally, per the Post. In New York, Democrats expanded their control of the Legislature. Mayor Zohran Mamdani, elected last year, and the DSA are part of the party's left wing. The New York Sun reports Hochul and Mamdani marked the Democratic gains in Puerto Rico.",
+      "facts": [
+        { "text": "The Times reports Hochul won convincingly and is not publicly discussing a run for higher office.", "refs": ["f8b9e52ece"] },
+        { "text": "The Post reports Staten Island Republican candidates won while Democrats widened their control of the state Legislature.", "refs": ["d089ef2e29"] },
+        { "text": "The Times reports that leading state Republicans blamed each other for the party's losses.", "refs": ["bb5e57c1db"] },
+        { "text": "The Post reports the DSA held a Manhattan rally on Saturday claiming credit for the results and demanding new Democratic leadership in Congress unless its priorities are backed.", "refs": ["e306535da7"] },
+        { "text": "The Sun reports that Hochul and Mamdani celebrated Democratic gains in Puerto Rico.", "refs": ["aad8056548"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f8b9e52ece", "note": "Centers on Hochul's victory and her silence about 2028." },
+        { "ref": "d089ef2e29", "note": "Highlights Staten Island Republican wins as a rejection of one-party rule." },
+        { "ref": "e306535da7", "note": "Presents the DSA rally as a boast and a demand on Democratic leaders." },
+        { "ref": "aad8056548", "note": "Notes the leaders celebrating away from the city." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f8b9e52ece", "takeaway": "Paywalled; summary only: Hochul's win and reticence.", "read_full": false },
+        { "ref": "bb5e57c1db", "takeaway": "Paywalled; summary only: GOP infighting after losses.", "read_full": false },
+        { "ref": "d089ef2e29", "takeaway": "Summary: Staten Island Republicans survived the Democratic wave.", "read_full": false },
+        { "ref": "e306535da7", "takeaway": "Summary: DSA victory lap and demands.", "read_full": false },
+        { "ref": "aad8056548", "takeaway": "Headline only: Hochul and Mamdani in Puerto Rico.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "nyc-w1", "url": "https://www.6sqft.com/federal-judge-rejects-trump-challenge-to-nyc-sanctuary-laws/", "title": "Federal judge rejects Trump challenge to NYC sanctuary laws", "outlet": "6sqft" },
+    { "id": "nyc-w2", "url": "https://www.amny.com/news/jogger-stabbed-brooklyn-dies-11032026/", "title": "Jogger stabbed in Brooklyn dies", "outlet": "amNY" },
+    { "id": "nyc-w3", "url": "https://abc7ny.com/post/6-dead-3-alarm-fire-tears-sunset-park-home-brooklyn/20017265/", "title": "6 people killed after 3-alarm fire destroys Sunset Park home, injures residents and firefighters", "outlet": "ABC7 New York" },
+    { "id": "nyc-w4", "url": "https://ny1.com/nyc/all-boroughs/news/2026/11/06/fatal-brooklyn-fire-renews-concerns-over-e-bike-batteries", "title": "Fatal Brooklyn fire renews concerns over e-bike batteries", "outlet": "NY1" }
+  ]
+}

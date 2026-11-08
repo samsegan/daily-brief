@@ -1,0 +1,197 @@
+{
+  "stories": [
+    {
+      "id": "democrats-midterm-sweep",
+      "headline": "Democrats win Congress; Senate Republicans weigh delaying leadership vote",
+      "region": "Congress",
+      "importance": 5,
+      "summary": "Democrats won House and Senate majorities in Tuesday's midterm elections, though a few races were still uncalled on Saturday. House Democratic leaders said they will start the new Congress focused on health care and ending the Iran war, while several Senate Republicans are pushing to delay next week's party leadership elections.",
+      "why_it_matters": "A Democratic Congress can investigate the administration and block or reshape its legislative agenda, with health care costs and the Iran war named as early priorities.",
+      "background": "The 2026 midterms were the first national test of voters' views of President Trump's second term. Democrats needed to flip chambers held by Republicans; coverage describes a broad swing that included gains among Latino, young and independent voters. The new Congress is sworn in on Jan. 3. Senate Republican leader John Thune faces questions about the party's performance, and some colleagues want a review of the results before leaders are chosen.",
+      "facts": [
+        { "text": "Democrats won sizable House and Senate majorities in the 2026 midterms, but exact margins were unclear because some races had not been projected as of Friday.", "refs": ["e28a56bd61"] },
+        { "text": "The Hindu reported that Democrats flipped both chambers, winning net seats in key battlegrounds and some Republican strongholds.", "refs": ["39a96e4200"] },
+        { "text": "House Democratic leaders said health care and ending the Iran war are early priorities when the new Congress is sworn in on Jan. 3.", "refs": ["be10c6677d", "88b75ccda6"] },
+        { "text": "Bloomberg reported that several Senate Republicans want to delay next week's leadership elections, which could open the door to a challenge to John Thune.", "refs": ["730b504645"] },
+        { "text": "The Washington Times reported Senate Republicans want a midterm review before leadership elections.", "refs": ["daed02dd85"] },
+        { "text": "NPR reported that Americans under 30 voted decisively for Democrats, reversing some of the Republican gains with young voters in 2024.", "refs": ["cec675fa2d"] },
+        { "text": "The Hill reported that Hispanic voters helped Democrats, diminishing gains Trump made with Latino men, citing exit polling from BSP.", "refs": ["94a852a830"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "e28a56bd61", "note": "Leads with Democratic majorities while stressing that some races remain uncalled." },
+        { "ref": "daed02dd85", "note": "Leads with Republican infighting and a possible post-mortem rather than the Democratic win." },
+        { "ref": "88b75ccda6", "note": "Looks ahead to the Democratic agenda on health care and Iran." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e28a56bd61", "takeaway": "Explains where House and Senate results stand and which races are uncalled.", "read_full": false },
+        { "ref": "39a96e4200", "takeaway": "Before-and-after comparison of Senate, House and governor shifts, from digest summary.", "read_full": false },
+        { "ref": "88b75ccda6", "takeaway": "AP wire on House Democrats' early priorities, via ABC.", "read_full": false },
+        { "ref": "730b504645", "takeaway": "Paywalled; headline and summary on the push to delay Senate GOP leadership elections.", "read_full": false },
+        { "ref": "daed02dd85", "takeaway": "Headline only: Senate Republicans want a midterm autopsy before leadership votes.", "read_full": false },
+        { "ref": "cec675fa2d", "takeaway": "Analysis of Gen Z voters' shift toward Democrats.", "read_full": false },
+        { "ref": "94a852a830", "takeaway": "Focuses on Latino voters and the Congressional Hispanic Caucus.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "miller-chief-of-staff",
+      "headline": "Stephen Miller becomes White House chief of staff Monday",
+      "region": "White House",
+      "importance": 5,
+      "summary": "President Trump named deputy chief of staff Stephen Miller to replace Susie Wiles as White House chief of staff, effective Monday, Nov. 9. The move came days after Republican midterm losses, and some House Republicans reacted angrily, according to Fox News. Miller has pledged his devotion to the president, per The Guardian.",
+      "why_it_matters": "Miller has driven the administration's immigration crackdown, so his promotion signals that policy is likely to continue, and Democrats say they are preparing for a fight over it.",
+      "background": "Miller has been among Trump's longest-serving aides and the main architect of his immigration policies in both terms. Susie Wiles, the first woman to serve as chief of staff, is moving to Trump's political operation, according to the White House announcement. The change follows the midterms, in which voters gave Democrats control of Congress.",
+      "facts": [
+        { "text": "Trump named Stephen Miller the 33rd White House chief of staff, replacing Susie Wiles, effective Monday, Nov. 9.", "refs": ["us-w1", "1f0d38e570"] },
+        { "text": "CBS News reported Miller has driven Trump's most controversial immigration policies during both administrations.", "refs": ["1f0d38e570"] },
+        { "text": "Fox News reported House Republicans expressed shock and anger at the promotion after the party's midterm losses.", "refs": ["957a59dfd2", "81850aaf7b"] },
+        { "text": "The Guardian reported Miller pledged 'total devotion' to the president.", "refs": ["1e8aa65b18"] },
+        { "text": "The Washington Post reported Democrats are gearing up for a fight on immigration after their midterm win and Miller's promotion.", "refs": ["d038fe73ea"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "957a59dfd2", "note": "Leads with Republican critics' anger in the House." },
+        { "ref": "82a79116ef", "note": "Frames the pick as a rebuke of the midterm results and a doubling-down on Trumpism." },
+        { "ref": "65e9cbe238", "note": "Profiles Miller's governing style, contrasting him with Wiles." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "957a59dfd2", "takeaway": "Focuses on GOP House critics.", "read_full": false },
+        { "ref": "82a79116ef", "takeaway": "Week-in-politics piece reading the pick as defiance of midterm results.", "read_full": false },
+        { "ref": "1f0d38e570", "takeaway": "Explainer on Miller's immigration record and the Monday start date.", "read_full": false },
+        { "ref": "1e8aa65b18", "takeaway": "Reports Miller's loyalty pledge and fears of a harder immigration line.", "read_full": false },
+        { "ref": "65e9cbe238", "takeaway": "Profile of Miller's views on presidential power.", "read_full": false },
+        { "ref": "8142fb3e38", "takeaway": "Paywalled; summary says Miller intends to continue the immigration agenda despite the election.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-doj-probe-democrats",
+      "headline": "Trump asks Justice Department to investigate Democrats over alleged threats",
+      "region": "White House",
+      "importance": 4,
+      "summary": "On Saturday President Trump said he ordered the Justice Department to look into Democrats he accused of threatening administration officials and Republican donors, calling it 'extortion'. The Hill reported the remarks came as some Democrats call for impeaching Republican officials. CNBC reported he singled out Sen. Elissa Slotkin.",
+      "why_it_matters": "A presidential call for investigating political opponents raises questions about DOJ independence just as Democrats prepare to take over congressional oversight.",
+      "background": "Democrats won control of Congress this week and have discussed oversight of the administration, including possible impeachment of cabinet officials. Slotkin, a Michigan Democrat, said in January that she was under a Justice Department investigation over a video in which Democratic lawmakers urged troops to refuse illegal orders. Trump's latest statement did not come with details on any specific alleged crime in the digest summaries.",
+      "facts": [
+        { "text": "Trump said he asked the Justice Department to 'look into' Democrats he accused of threatening people, calling it 'extortion at the highest level'.", "refs": ["724fb6045f"] },
+        { "text": "The Hill reported the remarks concerned Democrats calling for impeachment of Republican officials.", "refs": ["724fb6045f"] },
+        { "text": "CNBC reported Trump singled out Sen. Elissa Slotkin.", "refs": ["5f3d954f04"] },
+        { "text": "Bloomberg and Fox News reported Trump said the targets of the alleged threats include administration officials and Republican donors.", "refs": ["420587b7be", "5f160fb181"] },
+        { "text": "Slotkin said in January that she was the subject of a DOJ investigation tied to a video about illegal orders.", "refs": ["us-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "5f160fb181", "note": "Presents it as an order to investigate alleged threats against officials." },
+        { "ref": "420587b7be", "note": "Says Trump threatened Democrats over their plans to probe his team." },
+        { "ref": "724fb6045f", "note": "Ties the order to impeachment calls against cabinet officials." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "5f160fb181", "takeaway": "Reports it as an order to investigate alleged threats against officials.", "read_full": false },
+        { "ref": "420587b7be", "takeaway": "Paywalled; summary says Trump 'blasted' Democrats over planned probes.", "read_full": false },
+        { "ref": "724fb6045f", "takeaway": "Links the request to impeachment talk and quotes Trump.", "read_full": false },
+        { "ref": "5f3d954f04", "takeaway": "Highlights that Trump named Slotkin.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "golf-course-judge-inquiry",
+      "headline": "Judge to appoint ex-prosecutor to probe whether Trump lawyers misled court on golf course",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "U.S. District Judge Ana Reyes said Saturday she intends to appoint a former U.S. attorney in Washington to investigate whether administration officials misled the court about plans for the East Potomac golf course. The administration plans to close the course Nov. 15 to build a championship-level course, PBS reported.",
+      "why_it_matters": "It tests whether courts can hold government lawyers to account for statements they make in litigation, and it affects a public park in Washington.",
+      "background": "The administration plans to close East Potomac Golf Course and park and rebuild it. Reyes has been handling a lawsuit over the project. Late last month she said she would appoint a special master to examine whether Interior and Justice Department officials made misrepresentations, according to local reports. The reported core question is whether lawyers told the court no plans existed while Trump publicly announced a closing date.",
+      "facts": [
+        { "text": "Judge Ana Reyes said Saturday she intends to name a former Washington U.S. attorney who served in Trump's first term to investigate whether she was purposely misled.", "refs": ["6b7e23271e", "7bed623694"] },
+        { "text": "The administration plans to close the course and park on Nov. 15 to build a 'world class, championship-level' course, PBS reported.", "refs": ["d7987518bc"] },
+        { "text": "CNN reported the inquiry concerns possible ethical violations by administration lawyers.", "refs": ["57459b8630"] },
+        { "text": "Reyes said on Oct. 30 she would appoint a special master and gave DOJ five days to object, according to Fox 5 DC.", "refs": ["us-w3"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "6b7e23271e", "note": "Describes a special master examining whether Trump lawyers purposely misled the judge." },
+        { "ref": "d7987518bc", "note": "Neutral wire framing that includes the Nov. 15 closure plan." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "6b7e23271e", "takeaway": "Details the judge's stated intent and the first-term background of the likely appointee.", "read_full": false },
+        { "ref": "d7987518bc", "takeaway": "AP-style report with the closure date and project description.", "read_full": false },
+        { "ref": "57459b8630", "takeaway": "Headline only: expects a pick to investigate ethical violations.", "read_full": false },
+        { "ref": "7bed623694", "takeaway": "Paywalled; summary says Reyes wrote she intends to choose a former D.C. U.S. attorney.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "dana-white-press-secretary",
+      "headline": "Trump offers press secretary job to UFC chief Dana White",
+      "region": "White House",
+      "importance": 3,
+      "summary": "President Trump said Saturday he offered the White House press secretary job to UFC CEO Dana White. White said he will meet with Trump on Monday over the offer, according to AP and NPR.",
+      "why_it_matters": "The press secretary is the administration's main daily voice to reporters, a role CBS says has been largely vacant since August.",
+      "background": "Karoline Leavitt stepped aside as press secretary in August, and the role has been largely vacant since, per CBS News. White is a longtime Trump friend and ally and the head of the UFC. Trump made the comments at the same time as other announcements, including the chief of staff change.",
+      "facts": [
+        { "text": "Trump said he offered Dana White the White House press secretary job.", "refs": ["96d8b36dd2", "3b8092eeb9"] },
+        { "text": "White said he will meet Trump on Monday over the offer.", "refs": ["3b8092eeb9", "3242f4814f"] },
+        { "text": "The role has been largely vacant since Karoline Leavitt stepped aside in August, CBS reported.", "refs": ["96d8b36dd2"] },
+        { "text": "The Daily Caller reported White reportedly declined, while the Washington Examiner reported White answered reporters' questions at a London boxing event.", "refs": ["8cb177a1b6", "b95f684152"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Dana White has declined the job",
+          "positions": [
+            { "claim": "The Daily Caller reported White reportedly declines.", "refs": ["8cb177a1b6"] },
+            { "claim": "AP and NPR reported White said he will meet Trump Monday about the offer.", "refs": ["3242f4814f", "3b8092eeb9"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "8cb177a1b6", "note": "Headline stresses that White reportedly declines." },
+        { "ref": "3b8092eeb9", "note": "Headline stresses that a Monday meeting is planned." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "96d8b36dd2", "takeaway": "Reports Trump's offer and the vacancy since August.", "read_full": false },
+        { "ref": "3b8092eeb9", "takeaway": "NPR carrying AP: White to meet Trump Monday.", "read_full": false },
+        { "ref": "8cb177a1b6", "takeaway": "Reports White reportedly declined.", "read_full": false },
+        { "ref": "b95f684152", "takeaway": "Covers White's comments to reporters in London.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "doj-drops-california-ballot-suit",
+      "headline": "Justice Department drops suit over disputed California ballots",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "The Justice Department moved to dismiss its own lawsuit that sought to stop California from counting about 20,000 ballots it said went to noncitizens. PBS reported the move came days after Republican midterm losses and about a week before a hearing at which a special master was to assess the list.",
+      "why_it_matters": "The ballots can now be counted in California without the federal challenge, which affects close races there.",
+      "background": "The DOJ sued California alleging that roughly 20,000 ballots were cast by noncitizens and asked a court to force the state to set them aside. A special master was scheduled to evaluate the accuracy of the government's list at a hearing about a week from now. The department has now asked to dismiss the case.",
+      "facts": [
+        { "text": "The Justice Department moved to dismiss its own lawsuit seeking to stop California from counting about 20,000 ballots it alleged went to noncitizens.", "refs": ["f20198aa6a", "5acd7f3196"] },
+        { "text": "The move came about a week before a scheduled hearing at which a special master was to evaluate the accuracy of the list.", "refs": ["5acd7f3196"] },
+        { "text": "The Washington Times reported the DOJ dropped the lawsuit.", "refs": ["54c816ab14"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f20198aa6a", "note": "Says DOJ is 'dropping suit over alleged noncitizen ballots'." },
+        { "ref": "5acd7f3196", "note": "Calls the ballots 'disputed' and notes the timing after GOP losses." },
+        { "ref": "54c816ab14", "note": "Says the suit 'tried to block' noncitizen ballots." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f20198aa6a", "takeaway": "Short report on the dismissal motion and the 20,000 ballot figure.", "read_full": false },
+        { "ref": "5acd7f3196", "takeaway": "Adds timing context around the midterms and the special master hearing.", "read_full": false },
+        { "ref": "54c816ab14", "takeaway": "Headline only.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/", "title": "President Trump Names Stephen Miller as 33rd White House Chief of Staff", "outlet": "White House" },
+    { "id": "us-w2", "url": "https://www.pbs.org/newshour/politics/trump-administration-is-investigating-sen-slotkin-for-democrats-video-urging-troops-to-resist-illegal-orders", "title": "Trump administration is investigating Sen. Slotkin for Democrats' video urging troops to resist illegal orders", "outlet": "PBS NewsHour" },
+    { "id": "us-w3", "url": "https://www.fox5dc.com/news/judge-orders-inquiry-doj-over-trump-administrations-east-potomac-golf-course-shutdown-plan", "title": "Judge orders inquiry into DOJ over Trump administration's East Potomac golf course shutdown plan", "outlet": "Fox 5 DC" }
+  ]
+}

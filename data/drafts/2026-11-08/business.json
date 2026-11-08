@@ -1,0 +1,104 @@
+{
+  "stories": [
+    {
+      "id": "ai-stock-selloff-midterms",
+      "headline": "Tech and AI stocks sell off after Democrats win the midterms",
+      "region": "Markets",
+      "importance": 5,
+      "summary": "US stocks fell sharply on Thursday, Nov. 5, led by technology and AI-related shares, after Democratic wins in the midterm elections raised investor worries about tougher scrutiny of AI data-center spending. Market data shows the S&P 500 fell about 4.4% that day, and the Nasdaq rebounded 1.1% on Friday while Japan's Nikkei fell about 6%. Investors are now reassessing AI-heavy positions and looking at out-of-favor markets in Asia.",
+      "why_it_matters": "AI stocks make up a large share of major index funds, so a drop in them hits most retirement accounts. It also signals that investors see policy risk for the AI buildout, which has been a main driver of stock gains.",
+      "background": "AI-related companies have driven much of the stock market's gains in recent years, with firms spending heavily on data centers and often borrowing to pay for it. Before the election, some AI companies had already faced weak earnings reports and higher borrowing costs. Democrats won a majority in both the House and Senate in the Nov. 3 midterms, according to Wikipedia's news summary. Some investors fear that this could mean limits on data-center construction and stricter regulation of AI.",
+      "facts": [
+        { "text": "The S&P 500 fell about 4.4% on Nov. 5, its worst day since April 2025, according to a market-news report.", "refs": ["business-w1"] },
+        { "text": "Reports tied the selloff to fears that a Democratic sweep could bring data-center moratoriums and heavier regulation of AI.", "refs": ["business-w1", "business-w2"] },
+        { "text": "Bloomberg reported that the unwinding of the AI trade after the midterms is pushing investors back toward Chinese and Indian stocks and companies that benefit from easing inflation and trade tensions.", "refs": ["78173ad27f"] },
+        { "text": "Meta sold $25 billion of corporate bonds on Election Day, which Bloomberg said highlights a changing landscape for tech debt.", "refs": ["d45cefdc2d"] },
+        { "text": "Ark Invest CEO Cathie Wood told CNBC there is a 'wall of worry' gripping markets.", "refs": ["d9b89ebe47"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "78173ad27f", "note": "Frames the selloff as a rotation opportunity, focusing on Asian stocks that could benefit." },
+        { "ref": "d9b89ebe47", "note": "Frames the selloff through an investor's contrarian view that worry can be a buying signal." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "78173ad27f", "takeaway": "Headline and summary only (paywalled): the AI slump's effect on Asia trades.", "read_full": false },
+        { "ref": "d45cefdc2d", "takeaway": "Headline and summary only (paywalled): Meta's bond sale and tech debt markets.", "read_full": false },
+        { "ref": "d9b89ebe47", "takeaway": "Headline and summary only: Cathie Wood on the AI selloff.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "october-jobs-report-fed",
+      "headline": "Hiring beats forecasts in October as inflation keeps the Fed in focus",
+      "region": "Fed",
+      "importance": 4,
+      "summary": "US employers added 165,000 jobs in October, well above the roughly 65,000 economists expected, and the unemployment rate dipped to 4.1%, the Associated Press reported. With inflation running well above the Fed's 2% target, traders were reported to expect another quarter-point rate rise at the Fed's December meeting.",
+      "why_it_matters": "Strong hiring is good for job seekers, but it makes it less likely the Fed will cut rates soon, which keeps mortgage and credit-card rates high. The 30-year mortgage rate was 7.18% in the latest weekly reading.",
+      "background": "The Federal Reserve sets a short-term interest rate to try to hold inflation near 2% without causing job losses. Inflation has been rising, with the consumer price index up 3.7% over the year to September. According to the reporting, the Fed raised rates a quarter point in September, its first increase since 2023. The monthly jobs report from the Labor Department is one of the main data points the Fed watches.",
+      "facts": [
+        { "text": "Employers added 165,000 jobs in October, versus about 65,000 expected by economists, and the unemployment rate fell to 4.1%.", "refs": ["business-w3"] },
+        { "text": "Average hourly pay rose 0.4% in October from September, and annual inflation was 3.7% as of September.", "refs": ["business-w3"] },
+        { "text": "About 75% of fed funds futures contracts priced in a quarter-point rate rise at the December meeting, according to CME Group data cited in a market report.", "refs": ["business-w3"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [],
+      "social": ""
+    },
+    {
+      "id": "berkshire-q3-buyback",
+      "headline": "Berkshire Hathaway buys back $9.6 billion of stock as profit falls",
+      "region": "Earnings",
+      "importance": 3,
+      "summary": "Berkshire Hathaway reported third-quarter results on Saturday, Nov. 7. It spent about $9.6 billion repurchasing its own shares, more than double the prior pace, while profit declined. Weaker insurance results and smaller investment gains were cited.",
+      "why_it_matters": "Berkshire is a bellwether and a big holding in many index and retirement funds. Heavy buybacks signal that its management thinks its shares are cheap.",
+      "background": "Berkshire Hathaway is the conglomerate led by Warren Buffett and now run by CEO Greg Abel. It owns insurers such as Geico, railroads, utilities and a large stock portfolio. It reports results quarterly and often holds large amounts of cash, using buybacks only when it thinks the stock is undervalued. Insurance underwriting and investment gains are two main drivers of its profit.",
+      "facts": [
+        { "text": "Berkshire spent about $9.6 billion on share buybacks in the third quarter.", "refs": ["44612f31fc", "0cd5dc65a6", "63307c236c"] },
+        { "text": "Quarterly operating income fell 5.8% from a year earlier, the Financial Times reported, as insurance results slowed.", "refs": ["63307c236c"] },
+        { "text": "The Wall Street Journal reported net income fell 28% as investment gains shrank and insurance profits dropped.", "refs": ["621e350486"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "0cd5dc65a6", "note": "Leads with the buyback more than doubling, then notes earnings declined." },
+        { "ref": "621e350486", "note": "Leads with the profit decline and shrinking investment gains." },
+        { "ref": "44612f31fc", "note": "Stresses that buybacks sped up even though profit fell." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "44612f31fc", "takeaway": "Headline only (summary not in digest): buybacks speed up, profit falls.", "read_full": false },
+        { "ref": "0cd5dc65a6", "takeaway": "Digest summary only: buybacks more than doubled as profits fell.", "read_full": false },
+        { "ref": "63307c236c", "takeaway": "Headline and summary only (paywalled): operating income down 5.8%.", "read_full": false },
+        { "ref": "621e350486", "takeaway": "Headline and summary only (paywalled): net income down 28%.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iran-war-oil-housing",
+      "headline": "Iran war risk keeps oil near $100 and weighs on homebuyers",
+      "region": "",
+      "importance": 2,
+      "summary": "CNBC reported that the risk of the US-Iran conflict escalating remains high despite the Democratic midterm sweep. Crude oil prices remain near $100 a barrel, and the Washington Post ran a piece on how the war has made buying a home harder.",
+      "why_it_matters": "High oil prices feed into gasoline and inflation, and high borrowing costs keep home purchases out of reach for many families. Only left-leaning outlets in this digest covered these angles.",
+      "background": "The US and Iran are in a conflict that has pushed up energy prices and inflation this year. Higher inflation has kept interest rates, and so mortgage rates, elevated. Oil is a major input to consumer prices through fuel and transport costs.",
+      "facts": [
+        { "text": "CNBC reported that the US and Iran are on a collision course as Middle East tensions simmer.", "refs": ["cfb5213c92"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "cfb5213c92", "takeaway": "Digest summary only: escalation risk remains despite the election result.", "read_full": false },
+        { "ref": "4f2c6466ed", "takeaway": "Headline only (paywalled): the war's effect on buying a home.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "business-w1", "url": "https://fortune.com/2026/11/05/tech-stocks-are-suffering-the-biggest-selloff-since-covid-as-investors-see-premature-end-to-ai-datacenter-boom/", "title": "Tech stocks are suffering the biggest selloff since Covid as investors see premature end to AI datacenter boom", "outlet": "Fortune" },
+    { "id": "business-w2", "url": "https://www.adn.com/business-economy/2026/11/05/ai-stock-wipeout-sends-wall-street-tumbling-as-fears-rise-over-data-center-moratoriums-following-democratic-landslide/", "title": "AI stock wipeout sends Wall Street tumbling as fears rise over data center moratoriums following Democratic landslide", "outlet": "Anchorage Daily News" },
+    { "id": "business-w3", "url": "https://abc7news.com/story/us-employers-added-surprising-165000-jobs-october-unemployment-rate-dipped-41/20020018/", "title": "US employers added a surprising 165,000 jobs in October; unemployment rate dipped to 4.1%", "outlet": "ABC7" }
+  ]
+}
