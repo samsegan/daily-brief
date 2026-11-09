@@ -1,0 +1,313 @@
+{
+  "stories": [
+    {
+      "id": "ai-stock-selloff",
+      "headline": "AI stocks stay shaky after the worst day for the S&P 500 since April 2025",
+      "region": "Markets",
+      "importance": 5,
+      "summary": "A selloff in AI and data-center stocks on Thursday Nov. 5 pushed the S&P 500 down about 4.4%, and the market has been unsettled since. US futures rose Monday after a rough week, though Nvidia still unsettled investors, per Reuters. Citi strategists cut US stocks and global tech, and hedge funds sold tech at one of the fastest paces on record, per Bloomberg.",
+      "why_it_matters": "Big tech stocks make up a large share of the S&P 500, so swings in them move many people's 401(k)s and index funds. A lasting AI pullback could also affect investment in data centers and the jobs tied to them.",
+      "background": "Stocks tied to the AI buildout have driven much of the market's gains in recent years. After the Nov. 3 midterm elections, investors began to worry that Democratic gains could bring pauses or moratoriums on data-center construction. That fear, plus concern about financing, set off Thursday's drop, which AP reported as the S&P 500's worst day since the April 2025 tariff selloff. Asian markets, which also fell, mostly rebounded Monday, with South Korean and Taiwanese authorities having stepped in to limit losses, per the Wall Street Journal. China's state-led funds put a record amount into ETFs last week, per Bloomberg.",
+      "facts": [
+        {
+          "text": "AP reported the S&P 500 fell about 4.4% on Thursday, Nov. 5, its worst day since April 2025, in a selloff led by AI and data-center stocks.",
+          "refs": [
+            "business-w1"
+          ]
+        },
+        {
+          "text": "AP and other reports tied the drop to fears that Democratic election gains could lead to moratoriums on data-center construction.",
+          "refs": [
+            "business-w1"
+          ]
+        },
+        {
+          "text": "Reuters reported Wall Street futures rose Monday after a rough week, but that Nvidia unsettled investors.",
+          "refs": [
+            "c22ca9c987"
+          ]
+        },
+        {
+          "text": "Bloomberg reported hedge funds sold global tech stocks at one of the fastest paces on record last week as concerns that political opposition could derail the data-center buildout prompted a reassessment of the AI trade.",
+          "refs": [
+            "317113194b"
+          ]
+        },
+        {
+          "text": "Citi strategists downgraded US stocks and global tech and upgraded European equities because of their lower exposure to AI, per Bloomberg. MarketWatch reported Citi said tech positioning needs to get cleaner before it would return to overweight.",
+          "refs": [
+            "5a9a9bc294",
+            "f832cc9351"
+          ]
+        },
+        {
+          "text": "Morgan Stanley's chief strategist said the correction is entering its final phase but advised waiting before buying the dip, per MarketWatch.",
+          "refs": [
+            "3999a80c0b"
+          ]
+        },
+        {
+          "text": "Asian equities mostly rebounded Monday after steep losses last week, per the Wall Street Journal; Bloomberg reported China's state-led funds bought a record amount of ETFs.",
+          "refs": [
+            "175d6b1b72",
+            "d6885a27a9"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "c22ca9c987",
+          "note": "Reuters headline puts Nvidia at the center of Monday's futures move and calls last week 'rough'."
+        },
+        {
+          "ref": "317113194b",
+          "note": "Bloomberg's headline stresses hedge-fund selling pace and links it to political opposition to data centers."
+        },
+        {
+          "ref": "3999a80c0b",
+          "note": "MarketWatch frames it as a correction near its end, with advice to be patient before buying."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "c22ca9c987",
+          "takeaway": "Reuters wire headline: futures up, Nvidia a worry.",
+          "read_full": false
+        },
+        {
+          "ref": "317113194b",
+          "takeaway": "Bloomberg (summary only): hedge funds dumping tech.",
+          "read_full": false
+        },
+        {
+          "ref": "5a9a9bc294",
+          "takeaway": "Bloomberg (summary only): Citi downgrade of US stocks, upgrade of Europe.",
+          "read_full": false
+        },
+        {
+          "ref": "f832cc9351",
+          "takeaway": "MarketWatch: Citi says sit out global tech for now.",
+          "read_full": false
+        },
+        {
+          "ref": "3999a80c0b",
+          "takeaway": "MarketWatch: Morgan Stanley strategist sees correction nearing its end but urges waiting.",
+          "read_full": false
+        },
+        {
+          "ref": "175d6b1b72",
+          "takeaway": "WSJ (summary only): Asian rebound with fragile sentiment.",
+          "read_full": false
+        },
+        {
+          "ref": "d6885a27a9",
+          "takeaway": "Bloomberg (summary only): record state fund buying in China.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "fed-december-hike-jobs",
+      "headline": "Strong October jobs report keeps a December Fed rate hike in play",
+      "region": "Fed",
+      "importance": 4,
+      "summary": "October payrolls rose by 165,000, well above forecasts, and unemployment fell to 4.1%, according to reports found in search. Markets put about a 78% chance on a quarter-point Fed hike at the Dec. 8-9 meeting, per Reuters as summarized by Kitco. Bloomberg reported gold held a decline as the jobs data fanned December hike bets.",
+      "why_it_matters": "A Fed that is still weighing rate increases keeps mortgage, car and credit-card borrowing costs high. A strong job market helps workers but can push rate cuts further away.",
+      "background": "The Fed raised its benchmark rate in September and held at 3.75% to 4% on Oct. 28, according to reports found in search. Kevin Warsh is the Fed chair and has kept open the option of more hikes while inflation is above the 2% target. Traders had trimmed hike bets amid the AI stock turmoil, and the jobs data reversed part of that. Next data points are October inflation in mid-November and the November jobs report on Dec. 4.",
+      "facts": [
+        {
+          "text": "Payrolls rose 165,000 in October versus roughly 70,000 expected, and unemployment fell to 4.1%, per reports compiled in search.",
+          "refs": [
+            "business-w2"
+          ]
+        },
+        {
+          "text": "Reuters reported markets priced about a 78% chance of a quarter-point hike at the Dec. 8-9 meeting.",
+          "refs": [
+            "business-w3"
+          ]
+        },
+        {
+          "text": "The Fed held its rate at 3.75%-4% on Oct. 28, per the same reports.",
+          "refs": [
+            "business-w2",
+            "business-w3"
+          ]
+        },
+        {
+          "text": "Bloomberg reported gold rose Sunday as oil and the dollar slid and equities rebounded; its link text says gold had held a decline on jobs data fanning December hike bets.",
+          "refs": [
+            "8859b34b74"
+          ]
+        },
+        {
+          "text": "The Washington Post reported that President Trump talked with Warsh but there is no record of it on Warsh's calendar.",
+          "refs": [
+            "3911525d82"
+          ]
+        },
+        {
+          "text": "The WSJ reported US and eurozone government bond yields turned higher as investors refocused on economic data.",
+          "refs": [
+            "92ec23a86e"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "3911525d82",
+          "note": "The Washington Post headline focuses on the lack of a calendar record of a Trump-Warsh conversation, stressing Fed independence questions."
+        },
+        {
+          "ref": "8859b34b74",
+          "note": "Bloomberg frames it through gold and the dollar, treating the jobs data as a rate-hike driver."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "3911525d82",
+          "takeaway": "Washington Post (summary only): the Trump-Warsh contact and the calendar gap.",
+          "read_full": false
+        },
+        {
+          "ref": "8859b34b74",
+          "takeaway": "Bloomberg (summary only): markets wrap on gold, oil and the dollar.",
+          "read_full": false
+        },
+        {
+          "ref": "92ec23a86e",
+          "takeaway": "WSJ (summary only): bond yields rise as focus returns to data.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "berkshire-q3-buybacks",
+      "headline": "Berkshire Hathaway speeds up buybacks as quarterly profit falls",
+      "region": "Earnings",
+      "importance": 3,
+      "summary": "Berkshire Hathaway reported lower third-quarter profit on Saturday and accelerated stock repurchases under CEO Greg Abel, per the New York Post. MarketWatch said the biggest takeaway was weak results at Geico, not the $357 billion cash pile or the buybacks.",
+      "why_it_matters": "Berkshire is widely held in retirement and index funds, so its capital choices and Geico's health matter to many investors. Geico's results also reflect what drivers are paying for car insurance.",
+      "background": "Berkshire is the Omaha-based conglomerate long run by Warren Buffett, with Greg Abel now CEO. It holds a very large cash reserve and has been cautious about buying back stock. Geico is its large auto insurer, whose results have been under pressure from higher claims.",
+      "facts": [
+        {
+          "text": "Berkshire reported lower third-quarter profit on Saturday and sped up its stock repurchases, per the New York Post.",
+          "refs": [
+            "be00748646"
+          ]
+        },
+        {
+          "text": "The New York Post said Abel showed more willingness than Buffett to put the company's cash to use.",
+          "refs": [
+            "be00748646"
+          ]
+        },
+        {
+          "text": "MarketWatch reported Berkshire's cash was $357 billion and called Geico's performance dismal and the quarter's biggest takeaway.",
+          "refs": [
+            "f2b5c0ccf4"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "be00748646",
+          "note": "Leads with buybacks and Abel's use of cash, with falling profit as a qualifier."
+        },
+        {
+          "ref": "f2b5c0ccf4",
+          "note": "Plays down cash and buybacks to focus on Geico."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "be00748646",
+          "takeaway": "NY Post: buyback acceleration and lower profit.",
+          "read_full": false
+        },
+        {
+          "ref": "f2b5c0ccf4",
+          "takeaway": "MarketWatch: Geico is the key weakness.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "tesla-cybertruck-orders",
+      "headline": "Tesla adds a Cybertruck shift to clear orders before ending the line",
+      "region": "Earnings",
+      "importance": 2,
+      "summary": "Reuters reported Musk said Tesla will refund many Cybertruck deposits because demand exceeds production. The New York Post reported Tesla will add a Cybertruck shift to clear orders before dismantling the line next year.",
+      "why_it_matters": "People holding Cybertruck deposits may get refunds, and the change shows Tesla shifting resources toward its Cybercab and AI plans.",
+      "background": "The Cybertruck is Tesla's electric pickup, launched after years of delay. The New York Post described the Cybercab as one of Musk's key bets to turn Tesla into an AI and robotics company.",
+      "facts": [
+        {
+          "text": "Reuters headline: Tesla to refund many Cybertruck deposits as demand exceeds production, Musk says.",
+          "refs": [
+            "5698b82165"
+          ]
+        },
+        {
+          "text": "The New York Post reported Tesla will add a Cybertruck shift to clear orders before dismantling the line next year.",
+          "refs": [
+            "6efbc40ffe"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "5698b82165",
+          "note": "Reuters stresses refunds and demand outrunning supply."
+        },
+        {
+          "ref": "6efbc40ffe",
+          "note": "NY Post stresses the line's planned end and the Cybercab pivot."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "5698b82165",
+          "takeaway": "Reuters: refunds, citing Musk (headline only).",
+          "read_full": false
+        },
+        {
+          "ref": "6efbc40ffe",
+          "takeaway": "NY Post: extra shift, then line dismantled.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "business-w1",
+      "url": "https://www.wsmv.com/2026/11/05/brutal-sell-off-ai-stocks-sends-wall-street-reeling-sp-500-sees-worst-day-since-2025-liberation-day-tariffs/",
+      "title": "A brutal sell-off for AI stocks sends Wall Street reeling",
+      "outlet": "AP via WSMV"
+    },
+    {
+      "id": "business-w2",
+      "url": "https://www.investmentnews.com/fixed-income/october-jobs-report-beats-forecasts-lifting-december-fed-hike-odds/268915",
+      "title": "October jobs report beats forecasts, lifting December Fed hike odds",
+      "outlet": "InvestmentNews"
+    },
+    {
+      "id": "business-w3",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-11-06/fed-seen-sticking-december-rate-hike-after-jobs-data",
+      "title": "Fed seen sticking to December rate hike after jobs data",
+      "outlet": "Reuters via Kitco"
+    }
+  ]
+}

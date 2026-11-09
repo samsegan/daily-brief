@@ -1,0 +1,28 @@
+{
+  "overview": "In the first week after the midterm elections, President Trump said on \"60 Minutes\" that his deportation policy \"might be too tough\", while Stephen Miller takes over as White House chief of staff and Democrats prepare oversight investigations. On Wall Street, a sharp selloff in AI and data-center stocks on Nov. 5 left markets unsettled, and a strong October jobs report kept a possible December Fed rate hike in play. In New York, a former police officer and school aide was charged with murder in the stabbing of a jogger in Brooklyn, and Mayor Mamdani announced $25 million for cold-weather outreach.",
+  "markets": {
+    "summary": "The S&P 500 fell about 4.4% on Nov. 5, its worst day since April 2025, as AI and data-center stocks sold off, according to reports found in search. Quote data for the Nasdaq and Dow comes from Nov. 6 and is not directly comparable with the S&P 500 figure from Nov. 5. Japan's Nikkei 225 also fell sharply. The October jobs report showed 165,000 jobs added and unemployment at 4.1%, per reports found in search. Traders now see a rate hike at the Fed's Dec. 8-9 meeting as likely, which is why short-term Treasury yields (the interest the government pays to borrow for two years) remain above 4%.",
+    "movers": [
+      { "symbol": "SP500", "why": "Fell about 4.4% as AI and data-center stocks sold off, per reports found in search." },
+      { "symbol": "NIKKEI225", "why": "Dropped nearly 6% in a day; the cause is not clear from the sources reviewed, though tech weakness was widespread." },
+      { "symbol": "DGS2", "why": "The 2-year Treasury yield fell 12 basis points; the cause is not stated in the sources reviewed, and the data runs through Nov. 5 and does not yet reflect the jobs report." }
+    ],
+    "concept": {
+      "term": "Share buyback",
+      "explanation": "A buyback is when a company uses its cash to purchase its own stock on the open market. That shrinks the number of shares outstanding, so each remaining share represents a larger slice of the company, which can lift earnings per share and often the stock price. Cash rich companies such as Berkshire Hathaway, which sped up buybacks this quarter, use them when they think the shares are cheap or have no better use for the money. It reaches your wallet through stock prices in retirement and brokerage accounts, but buybacks use money that could have gone to wages, research or dividends."
+    },
+    "watch": [
+      "Wed Nov 11: Veterans Day; US bond markets are closed, stock markets are open",
+      "This week: October inflation (CPI) and producer price (PPI) reports are expected; check BLS for exact dates",
+      "Tue Dec 8 - Wed Dec 9: Federal Reserve rate decision"
+    ]
+  },
+  "trending": [
+    { "title": "SNL Talarico", "context": "Google searches spiked for a Saturday Night Live sketch involving Talarico.", "signal": "google" },
+    { "title": "Kraków Main Square shooting", "context": "Wikipedia's news section lists a shooting in Kraków, Poland that killed six people and injured sixteen.", "signal": "wikipedia_news" },
+    { "title": "Paraguay banking crisis", "context": "Wikipedia reports President Santiago Peña was impeached and replaced by the vice president amid a banking crisis.", "signal": "wikipedia_news" },
+    { "title": "Massie files Hegseth impeachment articles", "context": "Rep. Thomas Massie filed articles of impeachment against Defense Secretary Pete Hegseth, which is drawing discussion on Bluesky.", "signal": "bluesky" },
+    { "title": "Dana White offered press secretary", "context": "Posts discuss a report that the UFC head was offered the White House press secretary job.", "signal": "bluesky" },
+    { "title": "Elizabeth Holmes", "context": "Searches for the Theranos founder rose; the digest does not say why.", "signal": "google" }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "stories": [
+    {
+      "id": "trump-deportation-too-tough",
+      "headline": "Trump says his deportation policy 'might have been too tough' after midterm losses",
+      "region": "White House",
+      "importance": 5,
+      "summary": "In a \"60 Minutes\" interview that aired Sunday, President Trump said his deportation policy \"might be too tough\" in the wake of Republican losses in last week's midterm elections. The Guardian reported he also offered to strike an immigration deal with Democrats. The remarks came as Stephen Miller, the architect of the crackdown, started as chief of staff.",
+      "why_it_matters": "Any softening of deportation enforcement or a bipartisan immigration deal would change risks for immigrant families and employers. Whether the comments lead to policy change is not yet clear.",
+      "background": "Mass deportation has been a defining policy of Trump's second term, run by the Department of Homeland Security and ICE. Democrats won a large House majority and gains elsewhere in the Nov. 3 midterms, and outlets point to immigration enforcement and the economy as factors in voters' choices. Trump has not announced any change to enforcement operations. Miller, who shaped the policy, took over as White House chief of staff on Monday.",
+      "facts": [
+        { "text": "Trump said in a \"60 Minutes\" interview aired Sunday that his deportation policy \"might be too tough,\" according to The New York Times.", "refs": ["99fa79cf19", "000b7d37ca"] },
+        { "text": "France 24 reported the interview came days after Republicans suffered heavy midterm losses.", "refs": ["3090a41282"] },
+        { "text": "Deutsche Welle reported Trump said the policy may be one of the reasons Republicans lost ground.", "refs": ["39d43194f3"] },
+        { "text": "The Guardian reported Trump offered to strike an immigration deal with Democrats.", "refs": ["7e6b058b77"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "000b7d37ca", "note": "Wire-style headline that repeats his quote and ties it to voters, with no judgment added." },
+        { "ref": "99fa79cf19", "note": "Frames it as the crackdown possibly having hurt Republicans in the midterms." },
+        { "ref": "7e6b058b77", "note": "Stresses the contrast with Stephen Miller's promotion and calls the remark an unusual admission of a political liability." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "000b7d37ca", "takeaway": "AP: the straight quote story, headline and link only in the digest.", "read_full": false },
+        { "ref": "99fa79cf19", "takeaway": "NYT (paywalled): focuses on midterm political cost to Republicans.", "read_full": false },
+        { "ref": "7e6b058b77", "takeaway": "Guardian: leads with the tension with Miller's promotion and the offer of a deal.", "read_full": false },
+        { "ref": "39d43194f3", "takeaway": "Deutsche Welle: brief account linking the comment to the midterm results.", "read_full": false },
+        { "ref": "3090a41282", "takeaway": "France 24: plain report of the TV interview and the midterm setback.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "miller-chief-of-staff",
+      "headline": "Stephen Miller starts as White House chief of staff, replacing Susie Wiles",
+      "region": "White House",
+      "importance": 4,
+      "summary": "Stephen Miller, Trump's deputy chief of staff and a leading voice on immigration, is due to begin as chief of staff on Monday. Trump announced the change on Nov. 6, days after the midterms. Deputy chief of staff Richard Walters is leaving ahead of the handover, Fox News reported.",
+      "why_it_matters": "The chief of staff controls access to the president and shapes which policies advance, so the choice signals the direction of the administration's remaining term. Miller's record points to continued emphasis on immigration enforcement.",
+      "background": "Miller has been among Trump's closest aides for years and was a principal designer of the immigration crackdown. Susie Wiles, the previous chief of staff, is moving to Trump's political operation, per reports. The change followed Democratic gains in the midterm elections held on Nov. 3. The chief of staff post does not require Senate confirmation.",
+      "facts": [
+        { "text": "Miller is replacing Susie Wiles as chief of staff; The Hindu described her as the first major White House departure after the Democratic midterm win.", "refs": ["a2c66c0a5f"] },
+        { "text": "Trump announced on Nov. 6 that Miller would take over starting Monday, Nov. 9.", "refs": ["us-w1"] },
+        { "text": "Deputy chief of staff Richard Walters is leaving; Miller called him an \"invaluable member\" who will keep helping the administration from outside, per Fox News.", "refs": ["a7e9b579e4"] },
+        { "text": "Katie Miller, his wife, said she is pausing her podcast to focus on family.", "refs": ["4f9f0e2f9d", "059c704426"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "a7e9b579e4", "note": "Fox frames it as a staff transition, with Miller praising the departing deputy." },
+        { "ref": "a980804afc", "note": "Guardian centers Miller's hardline immigration record and says the promotion horrified many." },
+        { "ref": "4f9f0e2f9d", "note": "The Hill focuses on the family angle, his wife stepping back from her podcast." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a2c66c0a5f", "takeaway": "The Hindu: profile that ties Wiles' exit to the midterm result.", "read_full": false },
+        { "ref": "a7e9b579e4", "takeaway": "Fox News: staff-shuffle angle focused on Walters' exit.", "read_full": false },
+        { "ref": "a980804afc", "takeaway": "Guardian: Miller in his own words, critical of his immigration role.", "read_full": false },
+        { "ref": "4f9f0e2f9d", "takeaway": "The Hill: covers Katie Miller pausing her podcast.", "read_full": false },
+        { "ref": "059c704426", "takeaway": "Washington Examiner: same podcast item with her statement.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "democrats-oversight-doj",
+      "headline": "Trump and Justice Department push back as Democrats prepare investigations",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "AP reported that Trump and the Justice Department are taking a combative stance toward Democrats' oversight plans after the midterms. Trump wrote that investigative requests already made are \"extortion at the highest level, and they should be held accountable.\" Sen. Bernie Sanders separately urged Democrats not to spend all their time investigating the administration.",
+      "why_it_matters": "How aggressively the new House majority uses subpoenas and hearings will shape what the public learns about the administration and what gets done on costs such as health care and groceries. Fights over compliance could end up in court.",
+      "background": "Democrats won control of the House in the Nov. 3 midterms and are set to take committee gavels in January. Party leaders have signaled they will use oversight powers against the administration. Sanders said Democrats should stand up for working-class families, while also saying he is open to impeaching Health Secretary Robert F. Kennedy Jr., per CNN's headline.",
+      "facts": [
+        { "text": "Trump posted that Democrats' investigative requests are \"extortion at the highest level, and they should be held accountable,\" per AP and PBS.", "refs": ["866358ae7c", "1e4e576b08"] },
+        { "text": "AP reported the Justice Department is also taking a combative stance toward Democrats' plans.", "refs": ["4d99f07ca7"] },
+        { "text": "Sanders said Democrats should not spend all their time investigating Trump and should prioritize affordability and working-class families.", "refs": ["1b5dab6d22", "20f4704ce3"] },
+        { "text": "CNN's headline says Sanders is \"absolutely open to\" impeaching RFK Jr.", "refs": ["6293c5436f"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "4d99f07ca7", "note": "Calls the Democratic effort an \"investigative blitz\" and the administration \"defiant,\" emphasizing confrontation." },
+        { "ref": "1b5dab6d22", "note": "Politico leads with Sanders cautioning his own party about overreach." },
+        { "ref": "20f4704ce3", "note": "Fox News' headline stresses Democrats being told not to spend all their time on Trump." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "4d99f07ca7", "takeaway": "ABC/AP: confrontation between Trump, DOJ and incoming Democrats.", "read_full": false },
+        { "ref": "866358ae7c", "takeaway": "PBS: carries Trump's \"extortion\" post.", "read_full": false },
+        { "ref": "1e4e576b08", "takeaway": "The Hindu: reprint of the AP story.", "read_full": false },
+        { "ref": "1b5dab6d22", "takeaway": "Politico: Sanders' warning on priorities.", "read_full": false },
+        { "ref": "20f4704ce3", "takeaway": "Fox News: same Sanders remarks, framed around the investigation limits.", "read_full": false },
+        { "ref": "6293c5436f", "takeaway": "CNN: headline only in the digest, on Sanders and RFK Jr.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "hegseth-impeachment-jeffries",
+      "headline": "Jeffries says he is a 'hard yes' on impeaching Hegseth",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "House Minority Leader Hakeem Jeffries said on ABC's \"This Week\" that he supports Rep. Thomas Massie's effort to impeach Defense Secretary Pete Hegseth. The Pentagon said Hegseth would not be deterred by \"phony investigations,\" per the BBC. The New York Times said a reckoning could come before the new Congress begins.",
+      "why_it_matters": "A bipartisan impeachment push against the Pentagon chief would put pressure on the administration's war and defense policy. A vote in the lame-duck session would show whether any Republicans join.",
+      "background": "Massie, a Kentucky Republican, introduced articles of impeachment against Hegseth in September, accusing him of abusing his powers in leading the US war with Iran, per Scripps News. Jeffries is expected to become House speaker when Democrats take the majority. Congress returns this week for its lame-duck session.",
+      "facts": [
+        { "text": "Jeffries said on ABC's \"This Week\" that he is a \"hard yes\" on impeaching Hegseth and supports Massie's effort.", "refs": ["8d651692f0", "4810e60af3"] },
+        { "text": "The Pentagon said Hegseth would not be deterred by \"phony investigations,\" per the BBC.", "refs": ["4810e60af3"] },
+        { "text": "Massie introduced a 34-page impeachment resolution against Hegseth in September.", "refs": ["us-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "3a9bc4c45a", "note": "Washington Times headline stresses Democratic support for the Massie resolution to oust Hegseth." },
+        { "ref": "b181efd0cc", "note": "NYT casts it as part of Democrats' push for accountability and oversight." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "8d651692f0", "takeaway": "NBC: reports Jeffries' remarks on ABC.", "read_full": false },
+        { "ref": "4810e60af3", "takeaway": "BBC: includes the Pentagon's reply.", "read_full": false },
+        { "ref": "3a9bc4c45a", "takeaway": "Washington Times: headline only, on the Massie resolution and Democratic support.", "read_full": false },
+        { "ref": "b181efd0cc", "takeaway": "NYT (paywalled): summary ties it to oversight plans.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nvidia-huang-spy-probe",
+      "headline": "Nvidia board investigates CEO Jensen Huang's ties to a suspected Chinese intelligence operative",
+      "region": "National security",
+      "importance": 4,
+      "summary": "Nvidia said its board launched an independent investigation after reports that CEO Jensen Huang was the target of a \"foreign intelligence effort.\" The New York Times reported Huang acknowledged Sunday being intimate with a business executive U.S. officials determined worked for Chinese intelligence. Nvidia shares fell about 5%, per CNBC.",
+      "why_it_matters": "Nvidia is a central company in AI chips and U.S.-China technology rivalry, so questions about its leader affect markets and export policy. Investors and retirement funds holding the stock feel moves in its price.",
+      "background": "A New York Times report published Oct. 29 said U.S. intelligence concluded that Alice Huang, an executive at Singapore-based Megaspeed, passed information to Beijing, per web reports. Nvidia said earlier allegations about Megaspeed had been investigated, and Jensen Huang called the claims speculation. Sen. Elizabeth Warren asked Nvidia's board for answers. This past weekend, Huang apologized for an affair, per the Wall Street Journal's summary.",
+      "facts": [
+        { "text": "Nvidia said its board launched an independent investigation, and the stock fell about 5%, per CNBC.", "refs": ["2e104f370e"] },
+        { "text": "Huang acknowledged on Sunday being intimate with an executive U.S. officials determined was working for Chinese intelligence, per the NYT.", "refs": ["6d5898c96f"] },
+        { "text": "The WSJ reported Huang apologized for being unfaithful to his wife.", "refs": ["adba802688"] },
+        { "text": "Bloomberg's headline put the loss in Nvidia's market value at about $200 billion.", "refs": ["29149a936a"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether there was a Chinese spy plot",
+          "positions": [
+            { "claim": "U.S. officials determined the executive worked for Chinese intelligence, per the NYT.", "refs": ["6d5898c96f"] },
+            { "claim": "China dismissed the claims as a smear campaign, per the Washington Times.", "refs": ["312b9bf39b"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "8662a4c5da", "note": "Bloomberg leads with Huang's admission of an affair with a suspected spy." },
+        { "ref": "2e104f370e", "note": "CNBC centers the stock drop and the board's investigation." },
+        { "ref": "37f2b0e73c", "note": "DW stresses implications for the AI race and the company's global standing." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "6d5898c96f", "takeaway": "NYT (paywalled): source of Huang's acknowledgment, headline and summary only.", "read_full": false },
+        { "ref": "2e104f370e", "takeaway": "CNBC: market reaction and the board probe.", "read_full": false },
+        { "ref": "adba802688", "takeaway": "WSJ (paywalled): summary says Huang apologized.", "read_full": false },
+        { "ref": "29149a936a", "takeaway": "Bloomberg (paywalled): headline on the stock dent.", "read_full": false },
+        { "ref": "312b9bf39b", "takeaway": "Washington Times: carries China's denial.", "read_full": false },
+        { "ref": "8662a4c5da", "takeaway": "Bloomberg (paywalled): video page, headline only.", "read_full": false },
+        { "ref": "37f2b0e73c", "takeaway": "Deutsche Welle: explainer on why it matters.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "voters-economic-relief",
+      "headline": "After midterms, Trump and Democrats face pressure to deliver economic relief",
+      "region": "Elections",
+      "importance": 3,
+      "summary": "An AP analysis says voters sent Trump and the new Democratic congressional majority a message to repair an economy hurt by inflation. PBS NewsHour's version says Trump, who maintained the economy is booming, has said since the election he is willing to work with Democrats.",
+      "why_it_matters": "Prices and affordability drive household budgets, and a divided government could either produce compromise or gridlock on them. Lame-duck decisions come first.",
+      "background": "Democrats won the House and made gains elsewhere in the Nov. 3 midterms. Trump had warned during the campaign that a Democratic win would bring a 1929-style economic depression, per PBS. Congress returns this week.",
+      "facts": [
+        { "text": "Trump has maintained the economy is booming and, since his party's loss, has said he is willing to work with Democrats, per PBS NewsHour's version of the AP story.", "refs": ["92ce6f25a3"] },
+        { "text": "AP described the election as a message to repair an economy damaged by inflation.", "refs": ["65c0bffd33"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "c90399c7c7", "note": "Washington Times runs the AP story under the same \"tough choices\" headline." },
+        { "ref": "eea513d5cd", "note": "Axios looks at the Democratic challenge of winning voters in the \"Make America Healthy Again\" movement." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "65c0bffd33", "takeaway": "ABC/AP: voter message on inflation.", "read_full": false },
+        { "ref": "92ce6f25a3", "takeaway": "PBS: adds Trump's economy claims.", "read_full": false },
+        { "ref": "c90399c7c7", "takeaway": "Washington Times: headline only.", "read_full": false },
+        { "ref": "eea513d5cd", "takeaway": "Axios: Democrats and MAHA voters, with tension over RFK Jr.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ai-safety-center-white-house",
+      "headline": "Staff at federal AI safety center asked to report to the White House",
+      "region": "White House",
+      "importance": 2,
+      "summary": "AP sources say officials at the Commerce Department's AI center, known as CAISSI, were recently asked to informally report to a White House office, raising questions about independence. ABC reported the small division has no permanent leader and has stopped publishing its research.",
+      "why_it_matters": "The center is meant to assess the safety of new AI products, so its independence affects how much the public can rely on government evaluations of them.",
+      "background": "CAISSI is the Center for Advancing Innovation and Standards for Super Intelligence, an independent division of the Commerce Department, per PBS. The report is from AP's anonymous sources.",
+      "facts": [
+        { "text": "Officials at CAISSI were recently asked to informally report to an office of the White House, per AP sources.", "refs": ["6a8bccaaa4"] },
+        { "text": "The division has no permanent leader and has stopped publishing its research.", "refs": ["218b61be99"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "6a8bccaaa4", "note": "Attributes to AP sources and names the reporting line." },
+        { "ref": "218b61be99", "note": "ABC emphasizes the lack of leadership and halted research." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "6a8bccaaa4", "takeaway": "PBS: AP report with the organizational detail.", "read_full": false },
+        { "ref": "218b61be99", "takeaway": "ABC: AP version stressing leadership and research gaps.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://www.wunc.org/2026-11-06/stephen-miller-will-replace-susie-wiles-as-trumps-chief-of-staff", "title": "Stephen Miller will replace Susie Wiles as Trump's chief of staff", "outlet": "WUNC" },
+    { "id": "us-w2", "url": "https://www.scrippsnews.com/us-news/thomas-massie-pushes-surprise-impeachment-vote-of-pete-hegseth", "title": "Thomas Massie pushes surprise impeachment vote of Pete Hegseth", "outlet": "Scripps News" }
+  ]
+}

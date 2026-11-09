@@ -1,0 +1,161 @@
+{
+  "stories": [
+    {
+      "id": "brooklyn-jogger-stabbing",
+      "headline": "Ex-officer and school aide charged with murder in Brooklyn jogger's stabbing",
+      "region": "Brooklyn",
+      "importance": 5,
+      "summary": "Katie Suarez, 28, died after being stabbed while jogging on the Brooklyn waterfront, and Sayed Mohassib has been charged with second-degree murder. Mohassib had briefly been a police officer and later worked as a school aide. City lawmakers are now asking the Department of Education about its hiring practices.",
+      "why_it_matters": "The case raises questions about how the city vets people who work around children and about safety on the waterfront paths many New Yorkers use to run and commute.",
+      "background": "Suarez was stabbed while running along the Brooklyn waterfront and spent days on a ventilator before she died, per the NYT. Police arrested Mohassib, who the NYT says worked briefly as a police officer and then as a school aide. Gothamist reports that a suspect has pleaded not guilty. Her organ donation saved four lives, per Gothamist and the Daily News, which cites her brother. amNY reports that officials say the man charged had documented mental health concerns while employed as a teacher's aide.",
+      "facts": [
+        { "text": "Sayed Mohassib was charged with second-degree murder in the stabbing death of Brooklyn jogger Katie Suarez, per Fox News.", "refs": ["3e00d4b8b5"] },
+        { "text": "The New York Times reports Mohassib worked briefly as a police officer and then as a school aide, and that Suarez had been on a ventilator for days before she died.", "refs": ["3fea581b85"] },
+        { "text": "Gothamist reports Suarez, 28, donated organs after the attack and that a suspect has pleaded not guilty to murder.", "refs": ["691ba65d7b"] },
+        { "text": "New York politicians are demanding answers about the Department of Education's hiring practices, per amNY, after reports that Mohassib had documented mental health concerns while employed as a teacher's aide.", "refs": ["33883a437b"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "3e00d4b8b5", "note": "Focuses on the suspect's demeanor and his handcuffed appearance." },
+        { "ref": "33883a437b", "note": "Leads with the political fallout and the school system's hiring." },
+        { "ref": "691ba65d7b", "note": "Centers on the victim and her organ donations rather than the suspect." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3e00d4b8b5", "takeaway": "Summary only: arrest and charge, with emphasis on the suspect's appearance.", "read_full": false },
+        { "ref": "3fea581b85", "takeaway": "Paywalled; summary gives the suspect's work history and the victim's final days.", "read_full": false },
+        { "ref": "33883a437b", "takeaway": "Summary only: DOE hiring questions from city lawmakers.", "read_full": false },
+        { "ref": "691ba65d7b", "takeaway": "Summary only: victim profile, organ donation and the not-guilty plea.", "read_full": false },
+        { "ref": "1b73631a0a", "takeaway": "Headline only: her brother says she was set to race this week and her organs saved four lives.", "read_full": false },
+        { "ref": "c4f45c437b", "takeaway": "Headline only: former NYPD officer and teacher's aide arrested.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mamdani-cold-weather-plan",
+      "headline": "Mamdani announces $25M expansion of NYC's cold-weather response",
+      "region": "City Hall",
+      "importance": 4,
+      "summary": "Mayor Zohran Mamdani is putting $25 million toward an expanded emergency cold-weather response, along with changes to how the city clears snow and ice, per amNY and Gothamist. The money goes to the city's Code Blue outreach plan for people living outside.",
+      "why_it_matters": "It sets what help unsheltered New Yorkers can expect this winter and how quickly streets and sidewalks get cleared after storms.",
+      "background": "Last winter's prolonged cold snap killed New Yorkers outdoors, and the city also struggled to dig out from a major blizzard, per amNY. Code Blue is the city's cold-weather emergency protocol for outreach to people on the street.",
+      "facts": [
+        { "text": "The city said it is investing $25 million in its Code Blue outreach plan, per Gothamist.", "refs": ["2edca5147d"] },
+        { "text": "amNY reports the plan comes with changes to how the city clears snow and ice.", "refs": ["fe2e1f9c88"] },
+        { "text": "amNY ties the announcement to a winter in which New Yorkers died during a prolonged cold snap and residents struggled to dig out from a major blizzard.", "refs": ["fe2e1f9c88"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "2edca5147d", "note": "Frames it as more help coming for people living outside." },
+        { "ref": "fe2e1f9c88", "note": "Frames it as a response to last winter's failures, including snow clearing." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2edca5147d", "takeaway": "Summary only: focuses on outreach to homeless New Yorkers and the $25M.", "read_full": false },
+        { "ref": "fe2e1f9c88", "takeaway": "Summary only: adds the snow and ice clearing changes and last winter's context.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ice-subpoena-bruckner-shelter",
+      "headline": "Federal judge orders city to give ICE names of some Bronx shelter residents",
+      "region": "Bronx",
+      "importance": 4,
+      "summary": "The New York Post reports that U.S. District Judge Lewis Kaplan ruled Friday that the city must comply with an ICE subpoena for identifying information on some male residents of the Bruckner shelter in Mott Haven. Only the Post covered this in the ingested outlets, and searches did not turn up a second report.",
+      "why_it_matters": "If confirmed, the ruling bears on whether shelter residents' personal information is shielded from federal immigration enforcement, and on how far City Hall can resist such requests.",
+      "background": "The Mamdani administration has been at odds with federal immigration authorities. Federal subpoenas for shelter resident information have been reported before, per NBC New York, though that report did not mention the Bruckner shelter. Judge Kaplan sits on the Southern District of New York. This item rests on one outlet's summary, and the details of the order and any city response are not available here.",
+      "facts": [
+        { "text": "The New York Post reports Judge Lewis Kaplan ruled Friday that the city must comply with an ICE subpoena for identifying information on some male residents at the Bruckner shelter in Mott Haven.", "refs": ["71e218395c"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "71e218395c", "takeaway": "Summary only, single outlet: reports the ruling, with a headline that puts it as the Mamdani administration being forced to comply.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ny-election-results",
+      "headline": "Hochul wins by about 20 points; New York's House delegation set at 20 Democrats, 6 Republicans",
+      "region": "Albany",
+      "importance": 3,
+      "summary": "Gothamist reports Gov. Kathy Hochul beat Republican Bruce Blakeman by about 20 points, or 1.2 million votes, in a nationwide Democratic wave. The AP has now called all 26 New York House districts, with Democrat Cait Conley beating Rep. Mike Lawler in the Hudson Valley.",
+      "why_it_matters": "The results shape Albany's agenda and how much leverage New York's Democrats have in Washington.",
+      "background": "Hochul sought re-election against Blakeman, the Nassau County executive. The AP finished calling the state's congressional races. The New York Post separately reports that a Republican candidate, Nolan, is refusing to concede and alleges a stolen election, citing voting machine problems; that is one candidate's claim in a single outlet.",
+      "facts": [
+        { "text": "Gothamist reports Hochul beat Blakeman by about 20 percentage points, or 1.2 million votes.", "refs": ["1b102ff61d"] },
+        { "text": "Gothamist reports the AP has called a winner in all 26 of New York's House districts, giving Democrats 20 seats and Republicans six, with Cait Conley defeating Rep. Mike Lawler.", "refs": ["a4fa7d3657"] },
+        { "text": "The New York Post reports a Republican candidate, Nolan, says they are not conceding and claims the election was stolen, pointing to local voting machine problems.", "refs": ["944163071a"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "1b102ff61d", "note": "Frames the margin as a mandate and asks what voters meant by it." },
+        { "ref": "944163071a", "note": "Leads with a losing Republican's claim of a stolen election after the blue wave." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "1b102ff61d", "takeaway": "Summary only: analysis of Hochul's margin as a repudiation of Trump.", "read_full": false },
+        { "ref": "a4fa7d3657", "takeaway": "Summary only: final House delegation tally.", "read_full": false },
+        { "ref": "944163071a", "takeaway": "Summary only: a candidate's refusal to concede; the claim is unproven in this summary.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ebike-battery-fires-record",
+      "headline": "E-bike battery fires hit a record in NYC this year",
+      "region": "Citywide",
+      "importance": 3,
+      "summary": "THE CITY reports New York has had 406 lithium-ion battery fires so far in 2026, a record. Since the Fire Department began keeping these statistics in 2019, such fires have caused 46 deaths, per the outlet.",
+      "why_it_matters": "These fires hit apartment buildings and are tied to the e-bikes and scooters many delivery workers and commuters rely on.",
+      "background": "Lithium-ion batteries in e-bikes and scooters have been a growing fire risk as the fleet of devices has grown. The FDNY began tracking battery fires in 2019. THE CITY's report says solutions remain elusive despite legislation and laws aimed at the problem.",
+      "facts": [
+        { "text": "THE CITY reports 406 lithium-ion battery fires so far in 2026, a record.", "refs": ["55c5010323"] },
+        { "text": "THE CITY reports such fires have caused 46 deaths since 2019, when the FDNY began keeping these stats.", "refs": ["55c5010323"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "55c5010323", "takeaway": "Summary only, single outlet: record fire count and the lack of effective fixes.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "subway-attempted-rape-arrest",
+      "headline": "Man arrested after attempted rape of elderly woman in Inwood home, found on E train",
+      "region": "Manhattan",
+      "importance": 2,
+      "summary": "Police arrested a homeless man, identified by amNY as 33-year-old Yahiness Holden, in the attempted rape of an elderly woman, per the Daily News, amNY and the Post. Outlets give her age differently. He was found on an E train in Queens, per amNY and the Post.",
+      "why_it_matters": "The case adds to public debate over crime on the subway and the handling of repeat arrests.",
+      "background": "Per amNY, authorities said the attack happened inside the woman's Inwood home and the suspect was later found lying on a northbound E train near Kew Gardens. The Post says he was questioned after taking up too many seats on a Queens train and has 16 prior arrests. Charges are allegations, and the outlets rely on police sources.",
+      "facts": [
+        { "text": "amNY reports 33-year-old Yahiness Holden was arrested and charged with attempting to rape a woman inside her Inwood home, and was found on a northbound E train near Kew Gardens.", "refs": ["1213c53fda"] },
+        { "text": "The New York Post reports the suspect was spotted taking up too many seats on a Queens subway train and was questioned by police, and that he has 16 prior arrests.", "refs": ["40f3977584"] },
+        { "text": "The Daily News headline says a homeless man taking up two subway seats was arrested for attempted rape of an 83-year-old woman.", "refs": ["747cdc800c"] }
+      ],
+      "disputed": [
+        {
+          "topic": "The victim's age",
+          "positions": [
+            { "claim": "83 years old, per the Daily News and New York Post headlines.", "refs": ["747cdc800c", "40f3977584"] },
+            { "claim": "84 years old, per amNY.", "refs": ["1213c53fda"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "747cdc800c", "note": "Leads with the suspect taking up two subway seats and his housing status." },
+        { "ref": "1213c53fda", "note": "Stresses the suspect's lengthy rap sheet and the Inwood home location." },
+        { "ref": "40f3977584", "note": "Stresses his 16 prior arrests with a charged label for the suspect." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "747cdc800c", "takeaway": "Headline only: subway seats, homelessness and the arrest.", "read_full": false },
+        { "ref": "1213c53fda", "takeaway": "Summary only: details of the arrest and the suspect's record, citing police sources.", "read_full": false },
+        { "ref": "40f3977584", "takeaway": "Summary only: how police came to question him on a Queens train.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": []
+}

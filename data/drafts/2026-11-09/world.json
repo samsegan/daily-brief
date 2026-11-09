@@ -1,0 +1,312 @@
+{
+  "stories": [
+    {
+      "id": "israel-eisenkot-mandate",
+      "headline": "Israel's president gives opposition leader Eisenkot first chance to form a government",
+      "region": "Middle East",
+      "importance": 5,
+      "summary": "President Isaac Herzog formally tasked opposition politician Gadi Eisenkot on Sunday evening with forming Israel's next government. Eisenkot now has about six weeks to assemble a coalition that could replace Prime Minister Benjamin Netanyahu. Coverage describes the coalition arithmetic as difficult.",
+      "why_it_matters": "Who governs Israel shapes the war and ceasefire diplomacy in Gaza and the region, and the coalition talks decide whether Netanyahu stays in office.",
+      "background": "Israel's parliament, the Knesset, is split between Netanyahu's bloc and a divided opposition. Under Israeli law the president picks the lawmaker most likely to command a majority and gives that person a set period to build a coalition. Eisenkot is a former military chief of staff who now leads an opposition party. Netanyahu is Israel's longest-serving prime minister. If Eisenkot fails, the mandate can pass to another lawmaker.",
+      "facts": [
+        { "text": "Herzog formally gave Eisenkot the first chance to form the next government on Sunday evening, Nov. 8.", "refs": ["004d340299", "38ba8ee9ee"] },
+        { "text": "Bloomberg reported Eisenkot had the endorsement of 67 members of the Knesset when he was tasked.", "refs": ["420239183b"] },
+        { "text": "France 24 reported Eisenkot has six weeks to put together a coalition.", "refs": ["aeb3abb663"] },
+        { "text": "Bloomberg said he must build a coalition from a divided opposition while drawing allies away from Netanyahu.", "refs": ["843982ac63"] },
+        { "text": "The Times of Israel reported President Trump said Eisenkot and Netanyahu are 'very similar' in policy terms.", "refs": ["41a3c57703"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "843982ac63", "note": "Headline stresses long odds for Eisenkot and Netanyahu's tactical skill." },
+        { "ref": "6637237dce", "note": "Frames the mandate as a step in a move to oust Netanyahu." },
+        { "ref": "41a3c57703", "note": "Leads with Trump's comment that the two men's policies are alike, playing down the change in government." },
+        { "ref": "004d340299", "note": "Presents the mandate as a significant step while noting hard negotiations ahead." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "843982ac63", "takeaway": "Paywalled summary: focuses on how hard coalition-building will be.", "read_full": false },
+        { "ref": "004d340299", "takeaway": "Summary only: reports the formal mandate and the road ahead.", "read_full": false },
+        { "ref": "38ba8ee9ee", "takeaway": "AP wire in ABC: short report of the president's decision.", "read_full": false },
+        { "ref": "6637237dce", "takeaway": "Headline only (paywalled): emphasizes the push to unseat Netanyahu.", "read_full": false },
+        { "ref": "420239183b", "takeaway": "Summary gives the 67-lawmaker endorsement figure.", "read_full": false },
+        { "ref": "aeb3abb663", "takeaway": "Gives the six-week window.", "read_full": false },
+        { "ref": "41a3c57703", "takeaway": "Headline only: relays Trump's comparison of the two men.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "krakow-shooting",
+      "headline": "Gunman who killed six in Krakow's Main Square dies in hospital",
+      "region": "Europe",
+      "importance": 5,
+      "summary": "A 24-year-old gunman opened fire in Krakow's Old Town Main Square on Saturday, killing six people and wounding at least 15, police said. He was shot by police and died in hospital Monday. Poland declared two days of national mourning and officials are treating the attack as terrorism.",
+      "why_it_matters": "Mass shootings are rare in Poland, and the attack comes as political tension over far-right extremism rises ahead of a large nationalist march this week.",
+      "background": "Krakow's Main Square is one of Poland's best-known tourist sites. Poland has strict gun laws and has had few mass shootings. AP and others report the suspect had far-right views, and France 24 says the attack comes ahead of a major nationalist march. Prime Minister Donald Tusk has called on politicians not to exploit the incident.",
+      "facts": [
+        { "text": "Police said the 24-year-old gunman, wearing military-style clothing and a bulletproof vest, drove into the Main Square and opened fire.", "refs": ["529bb8d13c"] },
+        { "text": "Six people were killed and 15 wounded, and the gunman died in hospital on Monday after being shot by police, according to AP.", "refs": ["f27d23bd21", "698ae3566b"] },
+        { "text": "AP reported the gunman had far-right views.", "refs": ["f27d23bd21"] },
+        { "text": "Poland began two days of national mourning.", "refs": ["f659e792d7"] },
+        { "text": "Tusk called on politicians not to exploit the incident, the Financial Times reported.", "refs": ["f7b41dc14b"] },
+        { "text": "CBS reported senior officials described the attack as an 'act of terror'.", "refs": ["85424ca690"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Number of dead and injured",
+          "positions": [
+            { "claim": "Six killed and 15 wounded in the square, per AP and ABC.", "refs": ["698ae3566b"] },
+            { "claim": "Six killed, including a British man, and 16 injured, per The Guardian.", "refs": ["5252d0cff0"] },
+            { "claim": "At least nine dead after shootings in Krakow and another town, per The New York Times; the BBC separately reported three bodies of the suspect's family members found at their home.", "refs": ["48b7a29b11", "3149e58719"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "94dda4c2a9", "note": "Fox's headline and summary focus on the gunman's death and the police shootout, without political context." },
+        { "ref": "f27d23bd21", "note": "AP headline puts the gunman's far-right views up front." },
+        { "ref": "018d389d0e", "note": "France 24 leads with Poland's political divisions and the upcoming nationalist march." },
+        { "ref": "efc84df2be", "note": "Times of Israel headline calls the attack far-right inspired." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "529bb8d13c", "takeaway": "Summary only: details on the attacker and the square.", "read_full": false },
+        { "ref": "f27d23bd21", "takeaway": "AP wire headline with the far-right detail.", "read_full": false },
+        { "ref": "698ae3566b", "takeaway": "AP text via ABC with the casualty counts.", "read_full": false },
+        { "ref": "5252d0cff0", "takeaway": "Summary: adds a British victim and a count of 16 injured.", "read_full": false },
+        { "ref": "48b7a29b11", "takeaway": "Paywalled summary giving a higher death toll across two towns.", "read_full": false },
+        { "ref": "3149e58719", "takeaway": "Summary adds the family members found dead.", "read_full": false },
+        { "ref": "f7b41dc14b", "takeaway": "Headline and summary: Tusk's appeal.", "read_full": false },
+        { "ref": "f659e792d7", "takeaway": "Notes national mourning.", "read_full": false },
+        { "ref": "85424ca690", "takeaway": "Summary relays the terror description.", "read_full": false },
+        { "ref": "94dda4c2a9", "takeaway": "Plain event report.", "read_full": false },
+        { "ref": "018d389d0e", "takeaway": "Political fallout angle.", "read_full": false },
+        { "ref": "efc84df2be", "takeaway": "Headline only; stresses the far-right link.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "houthi-riyadh-aramco",
+      "headline": "Houthi missile attack damages Aramco building in Riyadh as Saudi Arabia turns to Syria",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "Saudi Arabia said it intercepted Houthi missiles aimed at Riyadh on Sunday, and falling debris damaged an Aramco office building in the capital's financial district. Saudi authorities said no one was hurt. Separately, AP reported Syria is preparing to send fighters to support Saudi Arabia against the Houthis.",
+      "why_it_matters": "Strikes on Riyadh's business district and airport raise risks for oil infrastructure, flights and energy prices, and Syrian involvement could widen the conflict.",
+      "background": "The Houthis are an Iran-backed group that controls much of Yemen's north and has been fighting Saudi-backed forces. Bloomberg says a deadly strike on Riyadh's airport about a month ago disrupted travel and cancelled events. Aramco is Saudi Arabia's state oil company. Syria and Saudi Arabia have recently moved closer.",
+      "facts": [
+        { "text": "Saudi authorities said 'falling shrapnel' hit the Aramco building in Riyadh's financial district and no one was hurt.", "refs": ["507618f254"] },
+        { "text": "BBC Verify authenticated footage showing damage to the building.", "refs": ["f17511fbf6"] },
+        { "text": "Saudi civil defence said on Monday danger had passed in Riyadh minutes after an alert, Reuters reported.", "refs": ["de7aac8a01"] },
+        { "text": "AP reported Syria is preparing to send fighters to Saudi Arabia.", "refs": ["6df01a1e5a"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Scale of Syrian military help",
+          "positions": [
+            { "claim": "A Syrian official said an initial force of about 600 special forces fighters is expected in Saudi Arabia within a week.", "refs": ["6d7bc3c9fc"] },
+            { "claim": "Reuters, citing sources, reported Syria is providing military advice and training with a limited number of personnel.", "refs": ["world-w1"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "26ba770d48", "note": "The Daily Caller summary stresses 'minor damage'." },
+        { "ref": "28b921533b", "note": "Bloomberg frames it as a rare strike on a finance hub undermining Saudi plans for normality." },
+        { "ref": "507618f254", "note": "NYT leads with the Saudi statement that no one was hurt." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "507618f254", "takeaway": "Summary gives Saudi account of damage and casualties.", "read_full": false },
+        { "ref": "f17511fbf6", "takeaway": "Verified footage of damage.", "read_full": false },
+        { "ref": "28b921533b", "takeaway": "Economic and security angle.", "read_full": false },
+        { "ref": "26ba770d48", "takeaway": "Brief headline treating damage as minor.", "read_full": false },
+        { "ref": "de7aac8a01", "takeaway": "Follow-up on Monday alert.", "read_full": false },
+        { "ref": "6df01a1e5a", "takeaway": "AP wire on Syrian help.", "read_full": false },
+        { "ref": "6d7bc3c9fc", "takeaway": "Gives the 600-fighter figure from a Syrian official.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "pope-leo-argentina",
+      "headline": "Pope Leo tells Argentina's Milei the economy must serve people",
+      "region": "Americas",
+      "importance": 3,
+      "summary": "Pope Leo XIV arrived in Argentina, the second stop of a 12-day South American tour, and in remarks with President Javier Milei said people should come before the economy. Outlets differ on whether this was a direct or veiled criticism of Milei's austerity policies.",
+      "why_it_matters": "The visit puts the Church's social teaching in public tension with Argentina's budget cuts, which affect pensions and disability support.",
+      "background": "Leo, 71, is the first US-born pope and is touring three South American countries weeks after lung cancer surgery, CBS reported. Argentina is the home country of his predecessor Francis, who never returned during his 12-year papacy. Milei is a libertarian who has cut public spending sharply and is known for brandishing a chainsaw as a symbol. The Catholic Church in Argentina is closely committed to social justice causes.",
+      "facts": [
+        { "text": "Leo was greeted at the Buenos Aires airport by Milei after finishing a visit to Uruguay.", "refs": ["8915290b21"] },
+        { "text": "He said growth must benefit all, and that economic activity should put people first.", "refs": ["dc6ae14a5a", "f9b91d609f"] },
+        { "text": "The Hindu said his call for concern for those affected by illness, dependency and disability was an indirect reference to government cuts to disability aid.", "refs": ["8b93640649"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "27ba2ac4c5", "note": "The Guardian calls it a 'stinging rebuke' of Milei's austerity." },
+        { "ref": "2923ddaee7", "note": "BBC calls it a 'veiled rebuke', stressing indirectness." },
+        { "ref": "f9b91d609f", "note": "PBS leads with the pope's message that people come before the economy, without the word rebuke." },
+        { "ref": "a4acdbed13", "note": "WSJ frames it as a missionary pope versus a chainsaw-wielding populist." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f9b91d609f", "takeaway": "Summary: message and delicate politics of the stop.", "read_full": false },
+        { "ref": "8915290b21", "takeaway": "Video summary: arrival and the pope's health.", "read_full": false },
+        { "ref": "dc6ae14a5a", "takeaway": "Summary: democracy, austerity and the poor.", "read_full": false },
+        { "ref": "8b93640649", "takeaway": "Ties remarks to disability-aid cuts.", "read_full": false },
+        { "ref": "27ba2ac4c5", "takeaway": "Strongest wording of the group.", "read_full": false },
+        { "ref": "2923ddaee7", "takeaway": "Describes the criticism as veiled.", "read_full": false },
+        { "ref": "a4acdbed13", "takeaway": "Paywalled; personality-driven framing.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "anc-local-elections",
+      "headline": "South Africa's ANC records worst-ever result in local elections",
+      "region": "Africa",
+      "importance": 4,
+      "summary": "The African National Congress won about 30 percent of the vote in South Africa's Nov. 4 local elections with 99 percent of ballots counted, its worst showing. President Cyril Ramaphosa said the verdict must be respected, and coalition talks are expected.",
+      "why_it_matters": "Weak results for the governing party mean local councils responsible for water, electricity and services may be run by shaky coalitions.",
+      "background": "The ANC has led South Africa since the end of apartheid in 1994, and was the party of Nelson Mandela. It lost its national majority in 2024 and now governs in a coalition. DW reports voters blamed it for water and electricity shortages. No party won an outright majority in many places, so councils will need coalition deals.",
+      "facts": [
+        { "text": "The ANC received around 30% of the vote with 99% of ballots counted, The Hindu reported.", "refs": ["b8dbc70427"] },
+        { "text": "Ramaphosa said the verdict must be respected, while the ANC's secretary-general called the outcome 'catastrophic', the BBC reported.", "refs": ["c9c241762d"] },
+        { "text": "DW reported voters blame the ANC for water and electricity shortages.", "refs": ["f5001567fd"] },
+        { "text": "Reuters said the result sets up tough coalition talks.", "refs": ["866316f2e8"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "c9c241762d", "note": "BBC quotes party leaders' own harsh descriptions in the headline." },
+        { "ref": "bbdae25d45", "note": "Washington Times, via AP, says the party is 'humbled' and in continued decline." },
+        { "ref": "866316f2e8", "note": "Reuters headline looks ahead to coalition bargaining." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "b8dbc70427", "takeaway": "Gives the vote share and context.", "read_full": false },
+        { "ref": "c9c241762d", "takeaway": "Leadership reactions.", "read_full": false },
+        { "ref": "f5001567fd", "takeaway": "Explains voter grievances.", "read_full": false },
+        { "ref": "866316f2e8", "takeaway": "Headline only: coalition outlook.", "read_full": false },
+        { "ref": "bbdae25d45", "takeaway": "AP wire headline emphasizing decline.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "hasina-passport",
+      "headline": "Ousted Bangladeshi leader Sheikh Hasina asks for a new passport to return",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "Former prime minister Sheikh Hasina has asked Bangladesh's government for a new passport and identity card so she can return from exile in India, according to a letter seen by Reuters. Bangladeshi officials describe her as a convicted criminal, and accounts differ on how the government responded.",
+      "why_it_matters": "A return would reshape Bangladesh's politics and its relations with India, which has not announced a decision on extradition.",
+      "background": "Hasina fled to India in August 2024 after a mass uprising toppled her government, and her passport was cancelled soon after. She has since been convicted in Bangladesh, and the country's Law Minister says an extradition request has been sent to India. Japan Times reports her plan is to return in December.",
+      "facts": [
+        { "text": "Hasina requested a new passport and national identity card in a letter seen by Reuters, her first such communication since fleeing.", "refs": ["7a8182759c"] },
+        { "text": "The Hindu reported her passport was cancelled after she fled in August 2024.", "refs": ["3cfa5567e4"] },
+        { "text": "Bangladesh's Law Minister called her a convicted criminal and said an extradition request was sent to India; India has not announced a decision.", "refs": ["813193966b"] },
+        { "text": "Japan Times reported the request is the clearest step toward a planned December return.", "refs": ["73a44a5365"] }
+      ],
+      "disputed": [
+        {
+          "topic": "The government's response to the passport request",
+          "positions": [
+            { "claim": "Reuters' headline says the government denies the request.", "refs": ["ce042b0ab0"] },
+            { "claim": "The Hindu reports the Foreign Ministry is examining it.", "refs": ["3cfa5567e4"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "121592dbbb", "note": "Reuters frames the request as the clearest sign of a return." },
+        { "ref": "d8096b39ee", "note": "AP says she 'appeals' for the passport, stressing her position as a petitioner." },
+        { "ref": "813193966b", "note": "The Hindu leads with the government's description of her as a convicted criminal." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ce042b0ab0", "takeaway": "Headline only: Reuters exclusive, denial.", "read_full": false },
+        { "ref": "121592dbbb", "takeaway": "Headline only: return signal.", "read_full": false },
+        { "ref": "7a8182759c", "takeaway": "Summary gives letter details.", "read_full": false },
+        { "ref": "73a44a5365", "takeaway": "Notes December plan.", "read_full": false },
+        { "ref": "3cfa5567e4", "takeaway": "Government examining request.", "read_full": false },
+        { "ref": "813193966b", "takeaway": "Extradition angle.", "read_full": false },
+        { "ref": "d8096b39ee", "takeaway": "AP wire headline.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "egypt-train-collision",
+      "headline": "Two passenger trains collide south of Cairo, killing at least seven",
+      "region": "Africa",
+      "importance": 4,
+      "summary": "A train bound for Fayoum crashed into the rear of another train in Egypt's al-Ayyat district, Giza province, on Sunday. Egypt's Health Ministry gave a toll of seven dead and 125 injured. Early reports varied on the number of dead.",
+      "why_it_matters": "Another deadly crash renews questions about the safety of Egypt's railways, which millions of people use daily.",
+      "background": "The crash took place about 32 miles (52 km) south of Cairo. ABC and the NYT note Egypt has a history of deadly rail accidents, with the NYT adding this is despite billions spent on modernization. ABC says the system has a history of mismanagement and poor maintenance.",
+      "facts": [
+        { "text": "A train traveling to Fayoum crashed into the rear of a train heading to Aswan in al-Ayyat district, Giza province.", "refs": ["6e615f7bd5", "61fda0f453"] },
+        { "text": "The Health Ministry put the toll at seven dead and 125 injured, The Hindu and AP reported.", "refs": ["6e615f7bd5", "021079ace8"] },
+        { "text": "DW reported over 50 ambulances were sent.", "refs": ["c439268d5f"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Number killed",
+          "positions": [
+            { "claim": "At least seven dead, per CBS, BBC, CNN and AP.", "refs": ["61fda0f453", "fd082421c3", "021079ace8"] },
+            { "claim": "Four dead in the NYT headline.", "refs": ["ca1ad9d7bc"] },
+            { "claim": "Two dead in ABC's headline.", "refs": ["7820803256"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "ca1ad9d7bc", "note": "NYT puts the crash in the context of past accidents despite modernization spending." },
+        { "ref": "7820803256", "note": "ABC notes mismanagement and poor maintenance; headline count is lower than other reports." },
+        { "ref": "fd082421c3", "note": "BBC sticks to the crash facts." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "61fda0f453", "takeaway": "Location and casualty figures.", "read_full": false },
+        { "ref": "fd082421c3", "takeaway": "Notes derailed carriages.", "read_full": false },
+        { "ref": "021079ace8", "takeaway": "AP wire headline with ministry figures.", "read_full": false },
+        { "ref": "6e615f7bd5", "takeaway": "Attributes figures to Health Ministry.", "read_full": false },
+        { "ref": "ca1ad9d7bc", "takeaway": "Paywalled; historical context.", "read_full": false },
+        { "ref": "7820803256", "takeaway": "Railway safety history.", "read_full": false },
+        { "ref": "c439268d5f", "takeaway": "DW via AllAfrica; emergency response.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ukraine-abu-dhabi-talks",
+      "headline": "Europeans to join US-brokered Ukraine-Russia talks in Abu Dhabi",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "France said European officials will attend this week's US-mediated Russia-Ukraine talks in Abu Dhabi, which NPR describes as the first three-way round since February. The New York Times reports a cease-fire will not be on the table.",
+      "why_it_matters": "Whether Europe has a seat at the table affects what security guarantees and terms any settlement may include for Ukraine and the continent.",
+      "background": "The US has been mediating between Russia and Ukraine in talks held in Abu Dhabi. Ukrainian President Volodymyr Zelenskyy has said he wants European allies involved. In late October the Kremlin said Europeans would not be included, per Al Jazeera.",
+      "facts": [
+        { "text": "France's minister said Europeans will join the Abu Dhabi talks.", "refs": ["0472db3675"] },
+        { "text": "A senior EU official told the Kyiv Independent that the EU, NATO, and the national security advisers of Germany, France and the UK will take part.", "refs": ["69bd4e7924"] },
+        { "text": "The NYT reported the talks resume this week and a cease-fire is not on the agenda.", "refs": ["bd43b206d3"] },
+        { "text": "The Kremlin said on Oct. 28 that European countries were not included in the next round.", "refs": ["world-w2"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Europe's role at the talks",
+          "positions": [
+            { "claim": "France and an EU official say Europeans will attend.", "refs": ["0472db3675", "69bd4e7924"] },
+            { "claim": "Russia has suggested there would be no place for Europeans at the table.", "refs": ["433597c696"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "1891a2a8cc", "note": "NPR frames it as Europe defying Kremlin objections." },
+        { "ref": "9752c58496", "note": "FT frames it as a bid to thwart Russian security demands." },
+        { "ref": "bd43b206d3", "note": "NYT stresses that no cease-fire is expected." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "0472db3675", "takeaway": "Headline only: French announcement.", "read_full": false },
+        { "ref": "433597c696", "takeaway": "Notes Russia's stance.", "read_full": false },
+        { "ref": "1891a2a8cc", "takeaway": "Stresses defiance of Moscow.", "read_full": false },
+        { "ref": "9752c58496", "takeaway": "Paywalled; security-demands angle.", "read_full": false },
+        { "ref": "69bd4e7924", "takeaway": "Names the attending bodies.", "read_full": false },
+        { "ref": "bd43b206d3", "takeaway": "Paywalled; no cease-fire on the table.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w1", "url": "https://www.al-monitor.com/originals/2026/11/syria-aids-saudi-arabia-with-military-advice-and-training-amid-houthi-attacks-sources", "title": "Syria aids Saudi Arabia with military advice and training amid Houthi attacks, sources say", "outlet": "Al-Monitor (Reuters)" },
+    { "id": "world-w2", "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks", "title": "Kremlin says European countries not included in next Ukraine talks", "outlet": "Al Jazeera" }
+  ]
+}
