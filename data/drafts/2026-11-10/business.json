@@ -1,0 +1,165 @@
+{
+  "stories": [
+    {
+      "id": "waller-december-rate-hike",
+      "headline": "Fed's Waller backs a December rate hike and leaves room for a half-point move",
+      "region": "Fed",
+      "importance": 5,
+      "summary": "Federal Reserve Governor Christopher Waller said on Tuesday he supports raising interest rates in December and could back a half-point increase if inflation keeps accelerating. Bloomberg reported the remarks came just hours before the October consumer price report. US stocks had lost momentum after a rebound the day before.",
+      "why_it_matters": "A rate hike would raise borrowing costs for mortgages, car loans and credit cards, and the inflation data due now will help decide how large it is.",
+      "background": "The Fed sets short-term interest rates to balance inflation against jobs. Waller is one of the seven members of its Board of Governors, who vote on rate decisions along with regional bank presidents. Reporting this week describes a policy debate about raising rather than cutting rates, with energy prices cited as a driver of inflation. Other central banks are weighing the same question: the Bank of England's Lombardelli did not rule out a December hike, and the ECB's Martins Kazaks said tightening may be needed if high energy prices persist. The October consumer price index is the next major data point before the Fed's December meeting.",
+      "facts": [
+        { "text": "Waller said he supports a rate increase in December, and said he would support a half-point increase if inflation comes in substantially higher than he expects, to protect the Fed's credibility, according to Bloomberg.", "refs": ["9e74e9c1e1", "0da99bcaff"] },
+        { "text": "CNBC quoted Waller as saying he is \"leaning toward\" a December increase, and that a half-point move would depend on inflation data.", "refs": ["79239226f8"] },
+        { "text": "Reuters reported Waller plans to support at least a quarter-point hike in December.", "refs": ["01ea8df3f0"] },
+        { "text": "MarketWatch said the size of any hike depends on how hot the October consumer price data comes in.", "refs": ["bea7dd2549"] },
+        { "text": "Bloomberg reported a stock market rebound stalled after Waller's remarks, and that gold extended a decline.", "refs": ["52d453c561", "214f01b590"] },
+        { "text": "Reuters reported the dollar steadied after Waller's comments, with inflation data next.", "refs": ["729e9ae1f5"] },
+        { "text": "Bank of England deputy governor Lombardelli told the Guardian she does not rule out a December rate hike, per Reuters.", "refs": ["2fcfe11d06"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "52d453c561", "note": "Frames it as a market story: a stock rebound that ran out of steam." },
+        { "ref": "214f01b590", "note": "Frames it through gold, a decline extended by the hike signal." },
+        { "ref": "bea7dd2549", "note": "Stresses that the half-point option hinges on the coming inflation print." },
+        { "ref": "79239226f8", "note": "Leads with a December hike as the likely outcome, quoting Waller's own wording." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "9e74e9c1e1", "takeaway": "Headline and summary only (paywalled): Waller backs a hike and is open to a larger one.", "read_full": false },
+        { "ref": "52d453c561", "takeaway": "Headline and summary only (paywalled): market wrap on the stalled rebound.", "read_full": false },
+        { "ref": "214f01b590", "takeaway": "Headline and summary only (paywalled): effect on gold.", "read_full": false },
+        { "ref": "79239226f8", "takeaway": "Straight report with Waller's quoted wording and the data dependence.", "read_full": false },
+        { "ref": "01ea8df3f0", "takeaway": "Headline only: at least a quarter-point hike.", "read_full": false },
+        { "ref": "bea7dd2549", "takeaway": "Ties the half-point possibility to the October CPI.", "read_full": false },
+        { "ref": "729e9ae1f5", "takeaway": "Headline only: dollar steady as inflation data looms.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "oil-falls-iran-pipeline",
+      "headline": "Oil falls below $90 as Trump downplays escalation with Iran",
+      "region": "Markets",
+      "importance": 4,
+      "summary": "Reuters reported oil fell below $90 after President Trump downplayed the prospect of escalation with Iran. US stock futures rose and European shares were heading for a record close as the oil drop lifted sentiment. Separately, Saudi state media reported that the East-West oil pipeline was hit in the Medina region.",
+      "why_it_matters": "Oil prices feed into gasoline, heating and shipping costs, and lower energy prices could ease the inflation pressure the Fed and other central banks are weighing.",
+      "background": "Saudi Arabia's East-West pipeline carries crude across the kingdom to the Red Sea, giving it an outlet that avoids the Strait of Hormuz. The Financial Times noted Houthis and Iraqi militias have repeatedly threatened it. Tensions between the US and Iran have driven oil prices in recent months, and energy costs are now a factor in central bank inflation debates in the US, UK and euro area.",
+      "facts": [
+        { "text": "Oil fell below $90 after Trump downplayed the prospect of escalation with Iran, per Reuters.", "refs": ["a06cbb49ac"] },
+        { "text": "S&P 500 and Dow futures climbed as the oil slide lifted sentiment, per Reuters.", "refs": ["858ea94f24"] },
+        { "text": "The Stoxx 600 was on track for its first record close since August as lower oil and a broader recovery lifted stocks, per the Wall Street Journal.", "refs": ["e84f2431be"] },
+        { "text": "Sterling fell as lower oil prices reduced the prospect of a Bank of England rate rise, per the Wall Street Journal.", "refs": ["cd2415782a"] },
+        { "text": "Saudi state media reported the East-West oil pipeline was hit in the Medina region.", "refs": ["c844b7e2c3", "cf1739ad64"] },
+        { "text": "Reuters reported the Canadian dollar underperformed most G10 currencies as oil fell.", "refs": ["3a5e00f469"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "a06cbb49ac", "note": "Credits Trump's remarks on Iran for the price drop." },
+        { "ref": "cf1739ad64", "note": "Frames the pipeline strike as an attack on a vital export route and names Houthi and Iraqi militia threats." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a06cbb49ac", "takeaway": "Headline only: oil down on Trump's de-escalation comments.", "read_full": false },
+        { "ref": "858ea94f24", "takeaway": "Headline only: US futures rise on lower oil.", "read_full": false },
+        { "ref": "e84f2431be", "takeaway": "Headline and summary only (paywalled): European stocks near a record.", "read_full": false },
+        { "ref": "cd2415782a", "takeaway": "Headline and summary only (paywalled): currency effect in the UK.", "read_full": false },
+        { "ref": "c844b7e2c3", "takeaway": "Headline only: pipeline hit per Saudi state media.", "read_full": false },
+        { "ref": "cf1739ad64", "takeaway": "Headline and summary only (paywalled): pipeline attack and militia threats.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "anthropic-ipo-filing",
+      "headline": "Anthropic IPO terms briefly sent to banks, then retracted",
+      "region": "Earnings",
+      "importance": 4,
+      "summary": "Reuters reported that Anthropic's plan for an IPO of nearly $70 billion briefly circulated to banks and was then retracted. MarketWatch said Anthropic sent a copy of a securities filing late Monday for an offering of up to $69.3 billion before saying that was an error. Reuters later reported the latest draft prospectus shows a raise of as much as $64.4 billion.",
+      "why_it_matters": "A listing of this size would be among the largest ever and would let ordinary investors and index funds own a stake in a leading AI developer, so the wobble feeds worries about AI valuations.",
+      "background": "Anthropic is the maker of the Claude AI models and is preparing a public offering widely expected to be one of the largest ever. CNBC reported it released new models on Monday as the IPO buzz builds. The company is working with large investment banks. MarketWatch described the episode as exposing jitters over AI investments.",
+      "facts": [
+        { "text": "Reuters reported an IPO plan of nearly $70 billion briefly circulated to banks and was retracted.", "refs": ["65abed7d93"] },
+        { "text": "MarketWatch, citing reports, said a securities filing for an IPO raising up to $69.3 billion was sent to bankers late Monday before Anthropic said it was an error.", "refs": ["9f181d606d"] },
+        { "text": "Reuters reported the latest draft prospectus shows the IPO raising as much as $64.4 billion.", "refs": ["deaa6d3af7"] },
+        { "text": "CNBC reported Anthropic released new frontier models on Monday as IPO buzz builds.", "refs": ["04830ab848"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How much the IPO would raise",
+          "positions": [
+            { "claim": "Up to $69.3 billion, in the filing sent to bankers by mistake, per MarketWatch.", "refs": ["9f181d606d"] },
+            { "claim": "As much as $64.4 billion, per the latest draft prospectus, per Reuters.", "refs": ["deaa6d3af7"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "04830ab848", "note": "Leads with the model launch and IPO anticipation." },
+        { "ref": "9f181d606d", "note": "Emphasizes the mistake and what it says about investor nerves over AI." },
+        { "ref": "f1ccd77383", "note": "Wry 'please try again' headline treats the episode as a market-open talking point." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "65abed7d93", "takeaway": "Headline only: Reuters exclusive on the retracted plan.", "read_full": false },
+        { "ref": "deaa6d3af7", "takeaway": "Headline only: Reuters exclusive giving the updated $64.4 billion figure.", "read_full": false },
+        { "ref": "9f181d606d", "takeaway": "Reports the mistaken filing and ties it to AI investment jitters.", "read_full": false },
+        { "ref": "04830ab848", "takeaway": "Covers the model release against the IPO backdrop.", "read_full": false },
+        { "ref": "f1ccd77383", "takeaway": "Headline only: Reuters morning market note.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nvidia-huang-congress",
+      "headline": "Nvidia's stock drop and Jensen Huang's future draw scrutiny as Democrats take Congress",
+      "region": "Earnings",
+      "importance": 3,
+      "summary": "CNN, Reuters and the New York Post each ran pieces on Nvidia and CEO Jensen Huang. The Post said Nvidia's stock drop is the start of its problems, with Huang possibly facing trouble when Democrats take control of Congress. The Wall Street Journal's markets newsletter referred to a spy-scandal storm around Nvidia and corporate America bracing for investigations.",
+      "why_it_matters": "Nvidia is a large part of major stock indexes, so company-specific trouble can move retirement accounts and index funds.",
+      "background": "Nvidia makes the chips that power most AI systems, and Huang has led it since its founding. Democrats won control of Congress in the midterm elections, which means new oversight committees. Digest summaries here are thin, and details of the allegations against Nvidia were not available from the headlines and summaries read.",
+      "facts": [
+        { "text": "The New York Post reported Nvidia's stock drop and said Huang could face major trouble when Democrats take control of Congress, quoting a source saying 'No way this guy survives'.", "refs": ["3b6b93a9f1"] },
+        { "text": "CNN asked in a headline whether Nvidia can survive without Huang.", "refs": ["d19e35d114"] },
+        { "text": "Reuters ran a piece headlined that the AI race cannot do without Huang.", "refs": ["89555ce1ab"] },
+        { "text": "The Wall Street Journal referred to a 'spy-scandal storm' around Nvidia.", "refs": ["5f8ecb5450", "05c5fd6248"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "d19e35d114", "note": "Uses the word 'peril' and asks whether Nvidia survives without Huang." },
+        { "ref": "89555ce1ab", "note": "Stresses Huang's importance to the AI industry." },
+        { "ref": "3b6b93a9f1", "note": "Focuses on political risk from Democratic control of Congress." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d19e35d114", "takeaway": "Headline only: survival of Nvidia without Huang.", "read_full": false },
+        { "ref": "89555ce1ab", "takeaway": "Headline only: Huang as central to the AI race.", "read_full": false },
+        { "ref": "3b6b93a9f1", "takeaway": "Summary: stock drop and congressional risk.", "read_full": false },
+        { "ref": "5f8ecb5450", "takeaway": "Headline and summary only (paywalled): mentions the Nvidia spy-scandal.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "boeing-workforce-cut",
+      "headline": "Boeing to cut about 5% of its commercial plane workforce",
+      "region": "Earnings",
+      "importance": 3,
+      "summary": "Boeing said on Monday it will cut about 5% of its commercial airplane workforce through layoffs and attrition. The company said it is moderating the pace of ramping up jet production.",
+      "why_it_matters": "The cuts affect aerospace workers and signal slower aircraft deliveries, which can affect airlines and suppliers.",
+      "background": "Boeing has been working to raise output of its 737 MAX jets after production and quality problems in recent years. The Guardian and New York Times reported the company said production is increasing more slowly than previously expected, so it needs fewer workers.",
+      "facts": [
+        { "text": "Boeing said it will cut about 5% of its commercial plane workforce, through a mix of layoffs and attrition.", "refs": ["eec41a5bd7", "e16fa16419"] },
+        { "text": "The company said production is increasing more slowly than previously expected, per the New York Times.", "refs": ["964c56a14d"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "e16fa16419", "note": "Says Boeing is struggling with production." },
+        { "ref": "eec41a5bd7", "note": "Uses Boeing's wording of moderating the pace of the ramp-up." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e16fa16419", "takeaway": "Headline only: 5% cut amid production struggles.", "read_full": false },
+        { "ref": "eec41a5bd7", "takeaway": "Covers the cut and the layoffs-plus-attrition mix.", "read_full": false },
+        { "ref": "964c56a14d", "takeaway": "Headline and summary only (paywalled): fewer workers needed.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": []
+}

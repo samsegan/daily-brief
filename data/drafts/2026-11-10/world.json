@@ -1,0 +1,284 @@
+{
+  "stories": [
+    {
+      "id": "abu-dhabi-ukraine-talks",
+      "headline": "US-mediated Russia-Ukraine talks resume in Abu Dhabi",
+      "region": "Europe",
+      "importance": 5,
+      "summary": "Negotiators from Russia and Ukraine began two days of US-mediated talks in Abu Dhabi on Tuesday, the first such meeting since February. US envoys Jared Kushner and Steve Witkoff are taking part, and the White House said the focus would be security guarantees. Russia carried out deadly attacks on Ukraine hours before the session, the Guardian reported.",
+      "why_it_matters": "Any deal could change whether the war that has run for more than four years continues, and what security arrangements apply across Europe. Coverage in the digest comes from left and center outlets plus Fox News, and all describe the talks as early-stage.",
+      "background": "Russia invaded Ukraine more than four years ago, and the war has continued since. The United States has acted as mediator under President Trump, using envoys Witkoff and Kushner. The last comparable round of talks was in February. Security guarantees for Ukraine, meaning what protection it would have against another invasion, and disputes over territory are the central issues the outlets list.",
+      "facts": [
+        { "text": "The two-day talks began Tuesday in Abu Dhabi and are the first meeting of this kind since February.", "refs": ["d934113f56", "30a5c026a2", "91a82b5ad1"] },
+        { "text": "The White House said the discussions would focus on security guarantees.", "refs": ["30a5c026a2"] },
+        { "text": "Kushner and Witkoff are the US envoys in the talks, with negotiators from Russia and Ukraine.", "refs": ["375c2c2280", "d0ebb21662"] },
+        { "text": "US officials said they are seeking a \"final end\" to the war, and the Guardian reported the US proposal includes a \"long-term security architecture\" between Moscow and Europe.", "refs": ["799d3791f4"] },
+        { "text": "Fox News reported that the envoys are pushing a NATO-like security guarantee for Ukraine and that territory disputes are on the agenda.", "refs": ["d0ebb21662"] },
+        { "text": "The Guardian reported that Russia launched deadly attacks on Ukraine hours before the talks began.", "refs": ["bf15bf06a4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "375c2c2280", "note": "Leads with the US envoys restarting the process." },
+        { "ref": "d0ebb21662", "note": "Leads with Kushner and the goal of safeguards against another Russian invasion, playing up the US-brokered guarantee." },
+        { "ref": "bf15bf06a4", "note": "Leads with Russian strikes just before the talks, putting the violence ahead of the diplomacy." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "375c2c2280", "takeaway": "Short wire-style report on Kushner and Witkoff resuming talks.", "read_full": false },
+        { "ref": "30a5c026a2", "takeaway": "Straight news report with the White House statement on the focus.", "read_full": false },
+        { "ref": "d934113f56", "takeaway": "Notes the two-day format and that it is the first meeting since February.", "read_full": false },
+        { "ref": "91a82b5ad1", "takeaway": "Ties the talks to Trump's remark last week that a broad deal is possible.", "read_full": false },
+        { "ref": "799d3791f4", "takeaway": "Reports the US aim of a \"final end\" and the proposed security architecture.", "read_full": false },
+        { "ref": "bf15bf06a4", "takeaway": "Live blog that pairs the talks with overnight Russian attacks.", "read_full": false },
+        { "ref": "d0ebb21662", "takeaway": "Fox News focuses on Kushner and a NATO-like guarantee.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-iran-war-oil",
+      "headline": "Trump says new strikes on Iran are unlikely; Brent falls below $90",
+      "region": "Middle East",
+      "importance": 5,
+      "summary": "President Trump said on Monday that a resumption of the war with Iran is unlikely, and oil prices fell. Brent crude dropped below $90 a barrel for the first time since August, according to CNBC and the Guardian. Iran still partly blocks traffic through the Strait of Hormuz, the Hindu reported.",
+      "why_it_matters": "Oil prices feed into fuel and transport costs and into inflation, so a sustained drop would ease pressure on household budgets. The situation remains fragile, with analysts cited by CNBC seeing little chance of a lasting peace deal. Digest coverage is left and center only.",
+      "background": "The United States and Iran have been in a military conflict, with US strikes on Iran and Iranian pressure on shipping through the Strait of Hormuz, a key route for Gulf oil. Attacks on Saudi Arabia and incidents involving tankers have raised concern about supplies, the Wall Street Journal reported. Negotiations involving Qatar are under way, per Axios. Oil traded near $113 in late October, according to the New York Times.",
+      "facts": [
+        { "text": "Trump said on Monday that renewed attacks on Iran are \"highly unlikely\" and said the US is keeping the status quo but is \"locked and loaded\" if things change.", "refs": ["3ac6d44b81"] },
+        { "text": "Axios reported Trump called a renewed campaign \"quite unlikely\" and said it \"doesn't seem to be necessary.\"", "refs": ["eb5a7c87e8"] },
+        { "text": "Brent crude fell below $90 a barrel for the first time since August.", "refs": ["ce843df648", "f49c000f8f"] },
+        { "text": "The benchmark price is down roughly $20 a barrel since late October, when it was around $113, per the New York Times.", "refs": ["1aee93233e"] },
+        { "text": "Iran continues to at least partly block traffic through the Strait of Hormuz.", "refs": ["40a313dd19"] },
+        { "text": "The Wall Street Journal reported that attacks on Saudi Arabia and fresh tanker incidents in the Strait highlighted continuing risks to supplies.", "refs": ["8abb395ced"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Trump said the war is over",
+          "positions": [
+            { "claim": "Guardian headline says Trump called the Iran war \"effectively over.\"", "refs": ["f49c000f8f"] },
+            { "claim": "Axios says Trump stopped short of saying the war was over; CNBC quotes him saying the conflict is \"going to be ending fairly soon.\"", "refs": ["eb5a7c87e8", "ce843df648"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "f49c000f8f", "note": "Headline stresses Trump declaring the war effectively over and markets' relief." },
+        { "ref": "ce843df648", "note": "Pairs de-escalation hopes with analysts doubting a lasting deal." },
+        { "ref": "8abb395ced", "note": "Emphasizes continued Gulf risks despite the price drop." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3ac6d44b81", "takeaway": "Reports Trump's \"highly unlikely\" and \"locked and loaded\" remarks.", "read_full": false },
+        { "ref": "eb5a7c87e8", "takeaway": "Notes Trump stopped short of calling the war over.", "read_full": false },
+        { "ref": "40a313dd19", "takeaway": "Adds that Hormuz traffic is still partly blocked.", "read_full": false },
+        { "ref": "f49c000f8f", "takeaway": "Market story linking the oil drop to Trump's comments.", "read_full": false },
+        { "ref": "ce843df648", "takeaway": "Oil price report with caveats from analysts.", "read_full": false },
+        { "ref": "1aee93233e", "takeaway": "Headline and summary only (paywalled): gives the roughly $20 fall since late October.", "read_full": false },
+        { "ref": "8abb395ced", "takeaway": "Headline and summary only (paywalled): flags Saudi attacks and tanker incidents.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "france-blames-iran-fridge-hack",
+      "headline": "France blames Iran's Revolutionary Guards for supermarket refrigerator cyberattack",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "The French government attributed an October cyberattack that disrupted refrigeration at roughly 700 supermarkets to a cyber unit of Iran's Revolutionary Guards. Foreign Minister Jean-Noel Barrot said he summoned Iran's ambassador and that Paris will seek European action. Iran had not immediately responded, the New York Times reported.",
+      "why_it_matters": "It shows how hacks of everyday systems such as store refrigeration can spoil food and cause fires, and it could lead to new sanctions on Iran. The attribution comes from the French government, and the digest shows no independent confirmation yet.",
+      "background": "In mid-October, a cyberattack caused refrigerator temperatures to climb at hundreds of French stores, spoiling food. Retailers confirmed the incident and the government opened an investigation. France is now publicly attributing it to the cyber arm of Iran's Islamic Revolutionary Guard Corps. The accusation comes while Iran is also in conflict with the United States.",
+      "facts": [
+        { "text": "France's government said an Iranian military hacking unit disrupted refrigeration at roughly 700 grocery and retail locations last month, causing food losses and at least 15 fires, per Axios.", "refs": ["aa8d4bb52e"] },
+        { "text": "Barrot said he summoned the Iranian ambassador.", "refs": ["a28736a96f", "27447a273a"] },
+        { "text": "Barrot said Paris ruled out \"nothing\" in response and will seek European action against Iran.", "refs": ["7530225dd7", "ee5eecffd7"] },
+        { "text": "CNBC reported France described an \"unprecedented campaign\" causing millions of euros in damage, and said France is weighing sanctions.", "refs": ["91d19827d4"] },
+        { "text": "Iran did not immediately respond to the accusation.", "refs": ["a28736a96f"] },
+        { "text": "Retailers including Intermarché, Coopérative U and E.Leclerc confirmed the incident in October, and reports said units were heated to as much as 50C.", "refs": ["world-w5"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "aa8d4bb52e", "note": "Emphasizes physical harm: food losses and fires." },
+        { "ref": "91d19827d4", "note": "Emphasizes cost in euros and possible sanctions." },
+        { "ref": "7530225dd7", "note": "Emphasizes the diplomatic response and deterrence." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "aa8d4bb52e", "takeaway": "Gives the scale: 700 locations and 15 fires.", "read_full": false },
+        { "ref": "7530225dd7", "takeaway": "Reports Barrot's call for European action.", "read_full": false },
+        { "ref": "91d19827d4", "takeaway": "Business angle with damage estimate and sanctions.", "read_full": false },
+        { "ref": "a28736a96f", "takeaway": "Headline and summary only (paywalled): notes the ambassador summons and Iran's lack of response.", "read_full": false },
+        { "ref": "27447a273a", "takeaway": "Headline only: France summons Iran envoy and warns of a response.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "krakow-shooting",
+      "headline": "Krakow gunman who killed six in city square has died in hospital",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "The 24-year-old man who opened fire in a Krakow square, killing six people and wounding at least 15, died in hospital on Monday, police said. Polish authorities opened a terrorism investigation and have described the suspect as holding far-right views. The New York Times reported additional deaths in another town, bringing the total to at least nine.",
+      "why_it_matters": "Mass shootings are rare in Poland, which has strict gun laws, and the attack is prompting questions about extremism and how a licensed sport shooter could carry it out. The motive is still unclear.",
+      "background": "The attack happened on Nov. 7 in Krakow's main square. Police shot and wounded the suspect, a Polish citizen with no criminal record who held a sport-shooting licence, per web reports. Prosecutors say the same person is responsible for three further deaths at a home in Ostrowiec Swietokrzyski. A minister described his views as \"ultranationalistic.\"",
+      "facts": [
+        { "text": "A 24-year-old gunman killed six people and wounded 15 in a Krakow square and died in hospital on Monday, police said.", "refs": ["698ae3566b", "7545189694"] },
+        { "text": "Authorities launched a terrorism investigation.", "refs": ["world-w1"] },
+        { "text": "A Polish minister said the suspect has ultranationalistic views.", "refs": ["world-w3"] },
+        { "text": "The New York Times reported at least nine people dead across Krakow and another town, with the motive unclear.", "refs": ["48b7a29b11"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Death toll",
+          "positions": [
+            { "claim": "Six killed in the Krakow square, per police as reported by AP-based outlets and Al Jazeera.", "refs": ["698ae3566b", "world-w1"] },
+            { "claim": "Nine dead in total, including three found at the suspect's home in another town.", "refs": ["48b7a29b11", "world-w6"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "698ae3566b", "note": "Headline stresses the gunman's far-right views." },
+        { "ref": "48b7a29b11", "note": "Headline stresses that the motive remains unclear and counts a wider toll." },
+        { "ref": "2e1748315b", "note": "Focuses on witness accounts and the national shock." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "698ae3566b", "takeaway": "Wire report with the toll and the suspect's death.", "read_full": false },
+        { "ref": "7545189694", "takeaway": "Short video report on the death in hospital.", "read_full": false },
+        { "ref": "48b7a29b11", "takeaway": "Headline and summary only (paywalled): broader toll and unclear motive.", "read_full": false },
+        { "ref": "2e1748315b", "takeaway": "Headline only (paywalled): witness accounts from tourists and locals.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "china-trade-surplus-1-trillion",
+      "headline": "China's trade surplus tops $1 trillion for a second straight year",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "China said its trade surplus passed $1 trillion for the second year running, with October exports up 35%. Outlets attribute much of the surge to global demand for AI-related hardware such as chips and servers. The figure is likely to add to complaints from trading partners.",
+      "why_it_matters": "A large surplus can mean cheaper imported goods for shoppers but pressure on factories and jobs abroad, and it raises the chance of tariffs and trade disputes. Digest coverage here is left and center; no right-leaning outlets carried it.",
+      "background": "China sells far more goods abroad than it buys, producing a large surplus. Weak domestic spending and a property slump have made its economy lean on overseas demand, per the Japan Times. Trading partners have complained about the volume of cheap Chinese goods. This year the AI boom added demand for Chinese-made chips, servers and networking equipment.",
+      "facts": [
+        { "text": "China said its trade surplus exceeded $1 trillion for a second straight year, with October exports up 35%.", "refs": ["2ec62ef634"] },
+        { "text": "The surge has been driven partly by global demand for AI-related products such as chips, data-centre servers and networking equipment.", "refs": ["bba0e2fcfe"] },
+        { "text": "The Japan Times said the surplus highlights Beijing's reliance on overseas demand given subdued consumption and a property slump.", "refs": ["b5df2a2e8a"] },
+        { "text": "CNBC said the figure may intensify complaints from trading partners and noted calls for Beijing to rebalance trade.", "refs": ["35f61d976c"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "86af88c9c2", "note": "Headline credits the AI boom and the record pace." },
+        { "ref": "b5df2a2e8a", "note": "Frames it as a sign of weak domestic demand in China." },
+        { "ref": "35f61d976c", "note": "Frames it as a trade-friction problem for partners." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2ec62ef634", "takeaway": "AP wire report with the headline figures.", "read_full": false },
+        { "ref": "bba0e2fcfe", "takeaway": "Explains the AI-hardware driver.", "read_full": false },
+        { "ref": "b5df2a2e8a", "takeaway": "Adds Chinese domestic weakness as context.", "read_full": false },
+        { "ref": "35f61d976c", "takeaway": "Highlights trade-partner complaints.", "read_full": false },
+        { "ref": "86af88c9c2", "takeaway": "Headline only: record pace in 10 months.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "south-africa-anc-local-elections",
+      "headline": "South Africa's ANC posts its worst-ever local election result",
+      "region": "Africa",
+      "importance": 3,
+      "summary": "The African National Congress won 30.76% of the vote in South Africa's municipal elections, its weakest showing yet, the electoral commission said. No party won outright in many municipalities, so coalition talks are expected.",
+      "why_it_matters": "Local councils run water, electricity and refuse services, so coalition bargaining affects daily services for residents. Digest coverage is from center outlets only.",
+      "background": "The ANC has led South Africa since the end of apartheid in 1994. Its support has fallen amid corruption, joblessness and infighting, the Hindu reported. The Democratic Alliance (DA) and the uMkhonto weSizwe (MK) party gained ground. Many councils are now run by coalitions.",
+      "facts": [
+        { "text": "The electoral commission said the ANC took 30.76% of votes in municipal elections, its worst-ever performance.", "refs": ["5b2080e55c", "world-w2"] },
+        { "text": "With no party winning outright in many municipalities, coalition talks are expected.", "refs": ["5b2080e55c"] },
+        { "text": "The Hindu attributed the decline to corruption, joblessness and infighting.", "refs": ["892867c480"] },
+        { "text": "Africanews reported the ANC failed to win an outright majority in any metro.", "refs": ["world-w2"] }
+      ],
+      "disputed": [
+        {
+          "topic": "ANC share of the vote",
+          "positions": [
+            { "claim": "30.76%, per the electoral commission as reported by France 24 and Africanews.", "refs": ["5b2080e55c", "world-w2"] },
+            { "claim": "32.5%, with the DA at 22.9% and MK at 9.9%, per Daily Maverick's chart.", "refs": ["086ed121ab"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "5b2080e55c", "note": "Headline stresses the record low." },
+        { "ref": "086ed121ab", "note": "Shows the multi-year slide in a chart." },
+        { "ref": "892867c480", "note": "Explains the causes of the decline." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "5b2080e55c", "takeaway": "Reports the commission's 30.76% figure.", "read_full": false },
+        { "ref": "086ed121ab", "takeaway": "Chart-led piece with different vote shares.", "read_full": false },
+        { "ref": "892867c480", "takeaway": "Explainer on why the ANC slid.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "pope-leo-argentina",
+      "headline": "Pope Leo draws huge crowds in Argentina and urges protection of the vulnerable",
+      "region": "Americas",
+      "importance": 3,
+      "summary": "Pope Leo XIV held a Mass in Buenos Aires that CNN and DW put at 2.5 million people, the largest of his papacy. He urged Argentina to protect vulnerable people under President Javier Milei's austerity measures and met five clergy abuse survivors, per the Vatican.",
+      "why_it_matters": "The pope's remarks put a global moral voice into a debate over how cuts to social services and disability care affect ordinary Argentines. Digest coverage is mostly left-leaning with no right-leaning outlets except the Washington Times on the abuse meeting.",
+      "background": "Leo XIV is on a 12-day Latin America tour, three weeks after lung cancer surgery, per BBC. Argentina is the homeland of his predecessor Francis, who never returned after becoming pope, per the New York Times. Milei has cut public spending, including disability care, per DW.",
+      "facts": [
+        { "text": "Pope Leo told Argentina the economy must benefit all, a message outlets read as a critique of Milei's austerity.", "refs": ["27ba2ac4c5", "d3bb543e1e"] },
+        { "text": "CNN and DW reported about 2.5 million people attended his Mass in Buenos Aires.", "refs": ["22b63a9b2f", "3a8335da21"] },
+        { "text": "The Vatican said he met five abuse survivors for about an hour.", "refs": ["fdf2573379"] },
+        { "text": "He is 71 and on a 12-day tour three weeks after lung cancer surgery.", "refs": ["7e770681b7", "8915290b21"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "27ba2ac4c5", "note": "Calls the remarks a \"stinging rebuke\" of Milei." },
+        { "ref": "d3bb543e1e", "note": "Phrases it as the pope urging protection of the vulnerable, less confrontational." },
+        { "ref": "22b63a9b2f", "note": "Focuses on crowd size." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "27ba2ac4c5", "takeaway": "Leads on the criticism of austerity.", "read_full": false },
+        { "ref": "d3bb543e1e", "takeaway": "Wire report on the call to protect the vulnerable.", "read_full": false },
+        { "ref": "3a8335da21", "takeaway": "Links the crowd to Milei's social cuts.", "read_full": false },
+        { "ref": "22b63a9b2f", "takeaway": "Crowd-size headline.", "read_full": false },
+        { "ref": "fdf2573379", "takeaway": "Details of the meeting with abuse survivors.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "novaya-gazeta-closes",
+      "headline": "Russia's Novaya Gazeta closes its office after eviction",
+      "region": "Europe",
+      "importance": 3,
+      "summary": "Novaya Gazeta, described as Russia's leading independent newspaper, closed its Moscow office after three decades, citing pressure from authorities. BBC reported it was evicted and blocked from receiving donations. Outlets describe it as the last major independent outlet critical of the Kremlin still active in Russia.",
+      "why_it_matters": "It reduces the independent reporting Russian readers can access inside the country. Digest coverage is left and center only.",
+      "background": "Novaya Gazeta was founded in the 1990s and became known for investigations into corruption and human rights abuses. It stopped print publishing in 2022, per a web report. Former staff abroad run Novaya Gazeta Europe. The paper announced its closure on Oct. 30, with a Nov. 9 deadline to leave its office, per Meduza.",
+      "facts": [
+        { "text": "The paper closed its Moscow office after three decades, citing official pressure.", "refs": ["a58339e95d", "3a3dafb626"] },
+        { "text": "BBC reported the outlet was evicted from its offices and blocked from receiving donations.", "refs": ["c30ff4fbaf"] },
+        { "text": "PBS described it as the last major independent media outlet critical of the Kremlin that remained active in Russia.", "refs": ["3a3dafb626"] },
+        { "text": "Amnesty International called the closure a devastating loss for media freedom.", "refs": ["world-w4"] },
+        { "text": "The paper announced its closure on Oct. 30, with a Nov. 9 deadline to leave its office, per Meduza.", "refs": ["world-w7"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "29e375fe00", "note": "Headline calls it Russia's last independent newspaper." },
+        { "ref": "3a3dafb626", "note": "Qualifies it as the last major critical outlet." },
+        { "ref": "c30ff4fbaf", "note": "Leads with the eviction and donation block." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a58339e95d", "takeaway": "Wire report citing official pressure.", "read_full": false },
+        { "ref": "c30ff4fbaf", "takeaway": "Notes eviction and donation block.", "read_full": false },
+        { "ref": "3a3dafb626", "takeaway": "Puts the closure in context as the last major critical outlet.", "read_full": false },
+        { "ref": "29e375fe00", "takeaway": "Headline only: \"last independent newspaper goes dark.\"", "read_full": false }
+      ],
+      "social": "Russian journalists and public figures collected by Meduza mourned the closure; some, including former correspondent Ilya Azar, said they did not believe it is permanent."
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w1", "url": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe", "title": "Poland mourns six killed in attack as authorities launch 'terrorism' probe", "outlet": "Al Jazeera" },
+    { "id": "world-w2", "url": "https://www.africanews.com/2026/11/08/anc-leads-south-africas-local-polls-but-records-all-time-election-low-final-results/", "title": "ANC leads South Africa's local polls but records all-time election low: final results", "outlet": "Africanews" },
+    { "id": "world-w3", "url": "https://www.itv.com/news/2026-11-07/krakow-gunman-who-killed-6-has-far-right-views-authorities-in-poland-say", "title": "Krakow gunman who killed 6 has far-right views, authorities in Poland say", "outlet": "ITV News" },
+    { "id": "world-w4", "url": "https://amnesty.org/en/latest/news/2026/10/russia-closure-of-novaya-gazeta-is-a-devastating-loss-for-embattled-media-freedom/", "title": "Russia: Closure of Novaya Gazeta is a devastating loss for embattled media freedom", "outlet": "Amnesty International" },
+    { "id": "world-w5", "url": "https://aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses", "title": "Hundreds of supermarkets in France hit by 'unprecedented' cyberattack", "outlet": "Al Jazeera" },
+    { "id": "world-w6", "url": "https://en.protothema.gr/2026/11/08/krakow-attack-authorities-investigate-gunmans-motives-as-death-toll-rises-to-nine-including-three-found-at-his-home-videos/", "title": "Krakow attack: authorities investigate gunman's motives as death toll rises to nine", "outlet": "Protothema" },
+    { "id": "world-w7", "url": "https://meduza.io/en/feature/2026/10/30/a-big-bright-lighthouse-has-been-swept-away-by-a-murky-wave-russian-journalists-writers-and-public-figures-react-to-novaya-gazeta-s-closure", "title": "Russian journalists, writers and public figures react to Novaya Gazeta's closure", "outlet": "Meduza" }
+  ]
+}

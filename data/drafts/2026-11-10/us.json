@@ -1,0 +1,228 @@
+{
+  "stories": [
+    {
+      "id": "hegseth-impeachment",
+      "headline": "House faces vote on Massie's bid to impeach Defense Secretary Hegseth",
+      "region": "Congress",
+      "importance": 5,
+      "summary": "Rep. Thomas Massie, a Kentucky Republican, moved on Monday to force a House vote on impeaching Defense Secretary Pete Hegseth over the Iran war. President Trump defended Hegseth, and Hegseth is scheduled to hold a rare Pentagon briefing Tuesday. A vote is expected this week, days after Republicans lost heavily in the midterms.",
+      "why_it_matters": "It would be a rare attempt to impeach a Cabinet member from the president's own party, and it tests how much of the GOP will break with Trump over the Iran war after the midterm losses. Outlets tie the war to higher energy prices and inflation, which affect household budgets.",
+      "background": "Pete Hegseth became defense secretary in 2025 and has rebranded the department as the Department of War. The US has been fighting a war with Iran in 2026, and outlets say it raised energy prices and hurt Republicans in last week's midterms. Massie lost a Trump-backed primary earlier this year and first introduced impeachment articles against Hegseth in September. The new articles accuse Hegseth of waging war without congressional approval and of other misconduct. House Democratic leader Hakeem Jeffries is backing the effort, according to NewsNation.",
+      "facts": [
+        { "text": "Massie moved Monday, Nov. 9, to force a House vote on impeaching Hegseth, France 24 reported.", "refs": ["574f3f796f", "0088f39aad"] },
+        { "text": "The Hindu reports the resolution contains eight articles of impeachment and is backed by lawmakers including Rep. Ro Khanna.", "refs": ["bef4face82"] },
+        { "text": "Reuters reported that a House impeachment vote is expected this week.", "refs": ["f0981cbd81"] },
+        { "text": "Trump called Massie a 'total loser' and said Hegseth should be 'praised, not impeached.'", "refs": ["03031a6cb7", "d81618dc89"] },
+        { "text": "Massie told CNN he sees a 'high probability' Hegseth will not be in the job by the new year.", "refs": ["fb17207cb9"] },
+        { "text": "NewsNation reports the articles accuse Hegseth of waging war without Congress's approval, and that Jeffries backs the effort.", "refs": ["45f1398c13"] },
+        { "text": "Hegseth is set to hold his first Pentagon news briefing since May on Tuesday morning, CBS News reported.", "refs": ["c511d5a56c"] },
+        { "text": "Massie first introduced impeachment articles against Hegseth in September, according to CNN reporting syndicated by local stations.", "refs": ["us-w1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "d81618dc89", "note": "Leads with Trump defending the Pentagon chief and uses his 'praised, not impeached' line in the headline." },
+        { "ref": "0088f39aad", "note": "Frames the effort as an impeachment bid over 'abuse of power' in the Iran war, tied to the midterm defeat." },
+        { "ref": "52a33d7bc1", "note": "Focuses on Hegseth's rare news conference and the looming vote, saying he will fight claims he broke the Constitution and federal law." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "03031a6cb7", "takeaway": "Reports Trump's defense of Hegseth and his attack on Massie.", "read_full": false },
+        { "ref": "fb17207cb9", "takeaway": "Carries Massie's CNN interview predicting Hegseth's exit.", "read_full": false },
+        { "ref": "bef4face82", "takeaway": "Explainer on the eight articles of impeachment.", "read_full": false },
+        { "ref": "0088f39aad", "takeaway": "Connects the impeachment bid to the Iran war and the midterm defeat.", "read_full": false },
+        { "ref": "f0981cbd81", "takeaway": "Reuters report on the expected House vote this week.", "read_full": false },
+        { "ref": "45f1398c13", "takeaway": "Notes Jeffries' backing and what the articles allege.", "read_full": false },
+        { "ref": "d81618dc89", "takeaway": "Fox News leads with Trump's defense of Hegseth.", "read_full": false },
+        { "ref": "52a33d7bc1", "takeaway": "Paywalled; headline and summary only, on the briefing and looming vote.", "read_full": false },
+        { "ref": "c511d5a56c", "takeaway": "Straight report on the Tuesday briefing and expected vote.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "big-bend-border-wall",
+      "headline": "Supreme Court lets Trump administration resume border wall construction in Big Bend",
+      "region": "Courts",
+      "importance": 4,
+      "summary": "The Supreme Court on Monday lifted a lower-court injunction that had halted border wall construction in the Big Bend region of Texas, which includes parts of Big Bend National Park. The environmental groups' lawsuit continues. The administration said it adjusted its plans to preserve the landscape and public access, per the New York Times.",
+      "why_it_matters": "Construction can now proceed in a remote national-park area while the legal challenge plays out, affecting landowners, visitors and the border region's environment. It is also another instance of the justices acting on the emergency docket.",
+      "background": "In early October a federal judge in El Paso, Kathleen Cardone, blocked further construction in Big Bend, finding that the plaintiffs were likely to succeed in arguing the homeland security secretary's waivers of environmental laws exceeded his authority. The administration asked the Supreme Court on Oct. 21 to pause that order, skipping the appeals court. Preservation and environmental groups opposed, warning construction could begin immediately. The Court's order does not end the underlying lawsuit.",
+      "facts": [
+        { "text": "The Supreme Court lifted the injunction against border wall construction in the Big Bend Sector; the environmental groups' lawsuit continues, Fox News reported.", "refs": ["e6ed05b44f"] },
+        { "text": "The administration filed an emergency request in October asking to continue construction while the lawsuit proceeds, NPR reported.", "refs": ["16b14e3a7e"] },
+        { "text": "The Guardian reports the ruling said a law enacted by Congress reflects a preference for border control over environmental and recreational harm.", "refs": ["27ce09cfc5"] },
+        { "text": "The administration said it adjusted construction plans in the park to preserve the landscape and public access, according to the New York Times.", "refs": ["fba2f3fceb"] },
+        { "text": "Judge Kathleen Cardone had issued the preliminary injunction in early October, and the Solicitor General went directly to the Supreme Court on Oct. 21.", "refs": ["us-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "7c19ad0ae5", "note": "Says the Court 'greenlights' the wall and highlights Texas having 'just turned blue.'" },
+        { "ref": "16b14e3a7e", "note": "Neutral procedural wording: construction can continue in west Texas." },
+        { "ref": "27ce09cfc5", "note": "Leads with the Court's reasoning that Congress's law favors border control over environmental harm." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e6ed05b44f", "takeaway": "Describes the ruling as temporary and notes the lawsuit continues.", "read_full": false },
+        { "ref": "7c19ad0ae5", "takeaway": "Short, politically pointed framing of the ruling.", "read_full": false },
+        { "ref": "16b14e3a7e", "takeaway": "Straight account with the emergency-request history.", "read_full": false },
+        { "ref": "27ce09cfc5", "takeaway": "Includes the Court's stated reasoning.", "read_full": false },
+        { "ref": "fba2f3fceb", "takeaway": "Paywalled; summary notes the administration's adjusted plans.", "read_full": false },
+        { "ref": "906529a7bc", "takeaway": "Paywalled; summary says the project was halted by a preservationist challenge.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "senate-gop-leadership",
+      "headline": "Senate Republicans hold leadership vote as faction pushes to delay it after midterm losses",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "Senate Republicans are scheduled to hold leadership elections Tuesday for the next Congress, when they will be in the minority. Axios reported seven GOP senators want the vote delayed and that Majority Leader John Thune is still expected to be re-elected. Meanwhile House Republicans are preparing their own leadership elections.",
+      "why_it_matters": "Who leads each party's caucus shapes what Congress does in the lame-duck session and how Republicans handle being in the minority, including what happens to Trump's remaining priorities.",
+      "background": "John Thune became Senate majority leader in 2025. Republicans lost control of Congress in last week's midterms, and the new Congress begins in January. A group of conservatives wants more time to discuss the losses and to extract a plan for the lame-duck session. Sen. Ron Johnson circulated a letter seeking a delay, according to the Daily Signal. Thune has said he plans to go ahead.",
+      "facts": [
+        { "text": "Seven Republican senators were calling for the leadership elections to be delayed, one promising to walk out rather than vote, Axios reported; it said Thune was still expected to be re-elected.", "refs": ["bfe52dabb2"] },
+        { "text": "Sen. Rick Scott said he will not back Thune without a specific plan for the lame-duck session, Fox News reported.", "refs": ["7b5fdead5d"] },
+        { "text": "The Washington Examiner reports Thune is proceeding with Tuesday's elections despite calls for a post-midterm reckoning.", "refs": ["f8284e6aa2"] },
+        { "text": "The Hill reports House Republicans are preparing to elect a new leadership team as they move into the minority.", "refs": ["67beb161b8"] },
+        { "text": "The Daily Signal reported Sen. Ron Johnson gathered signatures on a letter demanding a delay.", "refs": ["us-w3"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "1edf281ebe", "note": "Calls the GOP's midterm result a 'massacre' and the vote Thune's 'coronation'." },
+        { "ref": "7b5fdead5d", "note": "Centers Rick Scott withholding support and a 'showdown.'" },
+        { "ref": "f8284e6aa2", "note": "Emphasizes that Thune is forging ahead despite the dissent." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "bfe52dabb2", "takeaway": "Counts the senators seeking delay and says Thune is still expected to win.", "read_full": false },
+        { "ref": "7b5fdead5d", "takeaway": "Focuses on Scott's conditions for backing Thune.", "read_full": false },
+        { "ref": "b85afa5540", "takeaway": "Describes conservative demands for a lame-duck agenda.", "read_full": false },
+        { "ref": "67beb161b8", "takeaway": "Covers the parallel House GOP leadership reckoning.", "read_full": false },
+        { "ref": "f8284e6aa2", "takeaway": "Emphasizes Thune pressing ahead with the vote.", "read_full": false },
+        { "ref": "1edf281ebe", "takeaway": "Charged headline on the delay push.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "miller-chief-of-staff",
+      "headline": "Stephen Miller starts as White House chief of staff; Trump holds surprise briefing",
+      "region": "White House",
+      "importance": 4,
+      "summary": "Stephen Miller began work Monday as White House chief of staff, replacing Susie Wiles, after Trump announced the change on Nov. 6. Trump then held an unannounced briefing with UFC chief Dana White, who declined an offer of the press secretary job, and defended Hegseth and Nvidia's Jensen Huang.",
+      "why_it_matters": "Miller, the architect of Trump's immigration crackdown, now runs day-to-day White House operations, which may shape how the administration deals with a Democratic-led House on immigration, spending and oversight.",
+      "background": "Susie Wiles had been chief of staff since Trump's 2025 return to office. Trump announced the swap days after Republicans lost control of Congress. Miller was a deputy chief of staff and is known as the driver of the administration's mass-deportation policy. Reaction was mixed: Vice President Vance congratulated him, while Democrats and some Republicans criticized the choice, per syndicated AP coverage.",
+      "facts": [
+        { "text": "Miller took up the role Monday, replacing Wiles, The Guardian reported.", "refs": ["a889ee13c0"] },
+        { "text": "NPR reported Trump appointed Miller as chief of staff, signaling readiness to confront his opposition.", "refs": ["ba3a2cb1b8"] },
+        { "text": "The Hindu described Wiles as the first major White House casualty of the Democratic win.", "refs": ["a2c66c0a5f"] },
+        { "text": "A GOP lawmaker called the new role a 'mistake,' per a Washington Post headline.", "refs": ["6ea7018112"] },
+        { "text": "Dana White appeared at a White House briefing but declined to be press secretary, BBC and AP reported.", "refs": ["7aa2ed7647", "ef84e35061"] },
+        { "text": "At the briefing Trump said he would stand by Hegseth if impeached, NBC News reported.", "refs": ["6852e70c59"] },
+        { "text": "Trump announced the change Nov. 6; Jeffries and Sen. Andy Kim criticized Miller, while Vance congratulated him.", "refs": ["us-w4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "a889ee13c0", "note": "Labels Miller a 'hardline' aide and stresses his role in the deportation policy." },
+        { "ref": "dc39e2fe80", "note": "Treats the briefing as a surprise spectacle, with takeaways on Dana White and Trump's combative response to the midterms." },
+        { "ref": "6852e70c59", "note": "Leads with Trump defending Hegseth rather than the UFC appearance." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ba3a2cb1b8", "takeaway": "Frames Miller's appointment as Trump signaling confrontation.", "read_full": false },
+        { "ref": "a889ee13c0", "takeaway": "Profiles Miller's immigration role.", "read_full": false },
+        { "ref": "a2c66c0a5f", "takeaway": "Background profile of Miller and Wiles's exit.", "read_full": false },
+        { "ref": "dc39e2fe80", "takeaway": "Five takeaways from the surprise briefing.", "read_full": false },
+        { "ref": "6852e70c59", "takeaway": "Emphasizes Trump's defense of Hegseth.", "read_full": false },
+        { "ref": "7aa2ed7647", "takeaway": "Short item on White's declined offer.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iran-war-trump-remarks",
+      "headline": "Trump says Iran war is militarily 'effectively over' after meeting Qatar's prime minister",
+      "region": "White House",
+      "importance": 3,
+      "summary": "After meeting Qatar's prime minister on Monday, Trump said the war with Iran is militarily 'effectively over,' that it should end 'fairly soon,' and that new strikes are not needed. He said the US is keeping its wartime posture in the region to protect Gulf allies and that there is a 'good chance' of a deal.",
+      "why_it_matters": "A wind-down of the war could ease the energy prices and inflation that outlets link to it, and it bears on US troop deployments and the Hegseth impeachment fight.",
+      "background": "The US and Israel began striking Iran in late February 2026. Qatar has been a main mediator, and earlier reporting describes a Qatar- and Pakistan-mediated memorandum with a ceasefire and a timetable for a final deal. The war and its effects on energy prices have been blamed by outlets for Republicans' midterm losses. Trump has made differing statements about the ceasefire at various points.",
+      "facts": [
+        { "text": "Trump said after meeting Qatar's prime minister that the war is militarily 'effectively over,' per AP.", "refs": ["58092dda7b"] },
+        { "text": "He said the war would end 'fairly soon' and escalation was not needed, The Guardian and CNBC reported.", "refs": ["146fa5ff5a", "1c6ea83eb3"] },
+        { "text": "The Hill reports Trump said the US was maintaining its wartime posture to protect allied Arab and Gulf partners.", "refs": ["7188a1bf9c"] },
+        { "text": "Times of Israel reported Trump saw a 'good chance' a deal can be reached.", "refs": ["89735fa2bd"] },
+        { "text": "Bloomberg's summary says Trump indicated he is keen to pursue diplomacy, with Qatar the main mediator.", "refs": ["ca0e6fcb00"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Status of the war",
+          "positions": [
+            { "claim": "Trump said the war is militarily 'effectively over' and cited destruction of Iran's navy.", "refs": ["1c6ea83eb3"] },
+            { "claim": "NBC News noted Trump's claim that 'we won the war in Iran' came despite ongoing conflict in the region.", "refs": ["6852e70c59"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "7188a1bf9c", "note": "Leads with the lack of coming strikes but notes the wartime posture remains." },
+        { "ref": "146fa5ff5a", "note": "Ties the remarks to concerns about escalation after the midterms." },
+        { "ref": "ca0e6fcb00", "note": "Emphasizes diplomacy and winding down the war." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "58092dda7b", "takeaway": "AP report of Trump's 'effectively over' remark.", "read_full": false },
+        { "ref": "146fa5ff5a", "takeaway": "Frames the remarks around escalation concerns.", "read_full": false },
+        { "ref": "7188a1bf9c", "takeaway": "Notes the continued wartime posture.", "read_full": false },
+        { "ref": "1c6ea83eb3", "takeaway": "Includes Trump's economic argument on Iran.", "read_full": false },
+        { "ref": "89735fa2bd", "takeaway": "Highlights the 'good chance' of a deal.", "read_full": false },
+        { "ref": "ca0e6fcb00", "takeaway": "Paywalled; summary stresses diplomacy.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nvidia-huang-fbi",
+      "headline": "Trump says FBI is reviewing Nvidia CEO Huang's affair with alleged Chinese spy",
+      "region": "White House",
+      "importance": 3,
+      "summary": "Trump said he spoke with Nvidia CEO Jensen Huang and that the FBI is looking into Huang's relationship with Alice Huang, who is suspected of working for Chinese intelligence. Nvidia and Huang were sued by shareholders over their disclosures, and China called the allegations a smear.",
+      "why_it_matters": "The case touches US chip export controls and national security, and it could affect Nvidia, a company central to AI and to many retirement and investment portfolios.",
+      "background": "Nvidia makes the leading chips used for artificial intelligence, and US rules limit sales of advanced chips to China. Huang told employees he had an extramarital affair, and Nvidia is investigating reported allegations that the woman may have worked for Beijing's intelligence services. Huang has lobbied the Trump administration on China sales. China's government rejected the claims as baseless.",
+      "facts": [
+        { "text": "Trump said he spoke with Huang on Monday and asked about the affair, and that the FBI is investigating, BBC reported.", "refs": ["2eeebfe27c"] },
+        { "text": "Nvidia and Huang were sued by shareholders who accuse them of misleading investors, The Guardian reported.", "refs": ["78aa026d0c"] },
+        { "text": "Huang told employees he had been unfaithful to his wife, per The Hindu.", "refs": ["370542d59f"] },
+        { "text": "China dismissed the spy-plot claim as a smear campaign.", "refs": ["71e03061c7"] },
+        { "text": "Nvidia's stock edged higher as investors weighed the possible fallout, CNBC reported.", "refs": ["4d67c69110"] },
+        { "text": "AP and PBS published a 'what we know and don't know' piece saying many questions remain unanswered.", "refs": ["7bfbaac913"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the woman worked for Chinese intelligence",
+          "positions": [
+            { "claim": "Nvidia is investigating reported allegations that she may have been working for Beijing's intelligence services.", "refs": ["319ee19218"] },
+            { "claim": "China's government says the claims are baseless and a smear.", "refs": ["71e03061c7"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "6cdffb6db8", "note": "Uses charged wording such as 'honeytrap' and stresses Huang lobbying Trump on China sales." },
+        { "ref": "4d67c69110", "note": "Treats it mainly as a market story about the stock." },
+        { "ref": "78aa026d0c", "note": "Leads with the shareholder lawsuit and the FBI." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2eeebfe27c", "takeaway": "Leads with Trump's FBI claim.", "read_full": false },
+        { "ref": "78aa026d0c", "takeaway": "Focuses on the shareholder suit.", "read_full": false },
+        { "ref": "6cdffb6db8", "takeaway": "Emphasizes lobbying on chip sales.", "read_full": false },
+        { "ref": "4d67c69110", "takeaway": "Market angle.", "read_full": false },
+        { "ref": "7bfbaac913", "takeaway": "Cautious AP explainer on unknowns.", "read_full": false },
+        { "ref": "71e03061c7", "takeaway": "Reports Beijing's denial.", "read_full": false },
+        { "ref": "319ee19218", "takeaway": "Paywalled; summary notes Huang's admission and Beijing's denial.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://keyt.com/politics/cnn-us-politics/2026/09/15/massie-pushes-surprise-impeachment-vote-of-hegseth-overshadowing-a-democrats-bid-to-impeach-trump/", "title": "Massie pushes surprise impeachment vote of Hegseth", "outlet": "CNN via KEYT" },
+    { "id": "us-w2", "url": "https://www.texastribune.org/2026/10/21/trump-supreme-court-big-bend-border-wall-project/", "title": "Trump administration asks Supreme Court to restart Big Bend border wall project", "outlet": "Texas Tribune" },
+    { "id": "us-w3", "url": "https://dailysignal.com/2026/11/06/senators-slow-gop-leadership-vote", "title": "Senators Try to Slow GOP Leadership Vote", "outlet": "Daily Signal" },
+    { "id": "us-w4", "url": "https://www.deseret.com/politics/2026/11/06/trump-replaces-susie-wiles-with-stephen-miller-as-chief-of-staff-after-gops-midterm-defeat/", "title": "Trump replaces Susie Wiles with Stephen Miller as chief of staff after GOP's midterm defeat", "outlet": "Deseret News" }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "overview": "Democrats won majorities in both the House and the Senate in the midterm elections, according to Wikipedia's news summary, and the aftermath is shaping the day: Republicans are debating a delay to Senate leadership votes, and a House impeachment vote against Defense Secretary Pete Hegseth is expected. The Supreme Court let the administration temporarily resume border construction in Texas' Big Bend area, and California voters rejected a one-time tax on billionaires' wealth. Abroad, U.S. envoys renewed Russia-Ukraine peace talks, France blamed Iran for a cyberattack on supermarket refrigeration, and six people were killed in a shooting in Kraków, Poland. In markets, a Federal Reserve governor's call for a December rate hike came hours before today's inflation report.",
+  "markets": {
+    "summary": "U.S. stocks tried to rebound on Monday but the rally stalled after Fed Governor Christopher Waller said he supports raising interest rates in December and raised the possibility of a half-point increase, according to Bloomberg and CNBC. A rate hike makes borrowing costlier, which tends to weigh on stock prices, and today's October inflation report (the CPI) is the next test of whether the Fed has to keep tightening. Oil fell below $90 a barrel on Tuesday, Reuters reported, after President Trump downplayed the chance of renewed war with Iran; lower oil eases inflation worries. The table's latest readings show the Dow up about 2.2%, the Nasdaq up about 2.7% and Japan's Nikkei up about 2.3% on Monday, while longer-term Treasury yields were near 4.9%. Some series in the table lag by days (the S&P 500 reading is from Nov. 5, and oil data from Nov. 3), so day-over-day comparisons across rows are not like for like.",
+    "movers": [
+      { "symbol": "NASDAQCOM", "why": "Rose about 2.7% on Monday as stocks rebounded, though Bloomberg reported the rally lost steam after Waller's rate-hike comments." },
+      { "symbol": "NIKKEI225", "why": "Gained about 2.3% on Monday but is still down roughly 15% over the past month; the table doesn't say why it moved." },
+      { "symbol": "DGS2", "why": "The 2-year Treasury yield, which tracks expected Fed rate moves, ticked up 5 basis points on Friday's reading to 4.51%, the sort of move rate-hike talk would be expected to cause, though the table gives no cause." }
+    ],
+    "concept": {
+      "term": "Brent crude",
+      "explanation": "Brent is the global benchmark price for oil, based on crude pumped from the North Sea and used to price roughly two-thirds of the world's traded oil; U.S. oil is tracked separately as WTI. It moves with supply decisions by producers, stockpile levels and geopolitical risk, such as tension with Iran, which sits beside key shipping routes. It reaches your wallet through gasoline, diesel and airfares first, and then through the cost of shipping goods, which is why central banks watch oil when judging inflation."
+    },
+    "watch": [
+      "Tue Nov 10: October consumer price index (CPI) inflation report",
+      "Wed Nov 11: Veterans Day; U.S. stock markets are open, while the bond market and federal offices are closed",
+      "Tue-Wed Dec 8-9: Federal Reserve policy meeting, where Waller has said he supports a hike"
+    ]
+  },
+  "trending": [
+    { "title": "Jensen Huang and Nvidia", "context": "Nvidia and its CEO were sued over disclosures tied to a suspected Chinese spy, and China has called the claim a smear, according to The Hindu.", "signal": "wikipedia" },
+    { "title": "Russell Brand", "context": "Searches and page views jumped after reports that the comedian was sentenced in a British court to 10 years in prison for rape and sexual assault.", "signal": "wikipedia" },
+    { "title": "2026 Kraków shooting", "context": "A gunman killed six people and injured sixteen in Kraków's Main Square, and Polish police said he later died in hospital.", "signal": "wikipedia_news" },
+    { "title": "Paraguay's president impeached", "context": "Wikipedia's news box reports President Santiago Peña was impeached and replaced by his vice president amid a banking crisis involving Ueno Bank.", "signal": "wikipedia_news" },
+    { "title": "Hegseth blocks officer promotions", "context": "Discussion on Bluesky about the Defense Secretary, who faces an expected impeachment vote.", "signal": "bluesky" },
+    { "title": "Democrats' congressional priorities", "context": "Bluesky users are debating what the new Democratic majorities should take on first.", "signal": "bluesky" },
+    { "title": "DJIA futures", "context": "Searches for Dow futures were among the biggest on Google as investors waited for the inflation report.", "signal": "google" },
+    { "title": "Are schools closed on Veterans Day", "context": "People are checking school closures ahead of Wednesday's holiday.", "signal": "google" }
+  ]
+}

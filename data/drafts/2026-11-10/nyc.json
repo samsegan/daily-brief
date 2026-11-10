@@ -1,0 +1,159 @@
+{
+  "stories": [
+    {
+      "id": "jogger-murder-school-hiring",
+      "headline": "Mayor orders review of how a school aide charged in a Brooklyn jogger's killing was hired",
+      "region": "Brooklyn",
+      "importance": 5,
+      "summary": "Mayor Zohran Mamdani committed to a full review of how the Department of Education hired Sayed Mohassib, a school aide charged in the death of jogger Katie Suarez. The Department of Education fired Mohassib on Monday. Lawmakers are now asking how background checks missed him.",
+      "why_it_matters": "Parents are asking how adults who work with children are vetted. The review could change how the city screens school staff.",
+      "background": "Katie Suarez was a jogger in Brooklyn who was killed; Sayed Mohassib has been charged in her death. He worked as a paraprofessional (school aide) for the city Department of Education and was at work at a school after the killing. Officials say he had a history of psychiatric issues. Mamdani, who took office in January, has ordered the review, and members of the City Council and state lawmakers have asked for answers about the hiring.",
+      "facts": [
+        { "text": "The Times reported that Mohassib, who worked as an aide at a city school, was fired on Monday, days after he was charged in Suarez's death, and that families at the school were shaken.", "refs": ["afe9878849"] },
+        { "text": "Mamdani committed to a 'full review' of the city schools' hiring of the suspect, the Daily News reported.", "refs": ["3d8ba94467"] },
+        { "text": "Gothamist reported that Mamdani called for an investigation into how Mohassib was hired, and that officials say he had a history of psychiatric issues.", "refs": ["5fdd328130"] },
+        { "text": "The Post, citing unnamed sources, reported that Mohassib went back to work with children at a city school after the killing, and that he previously killed a family pet. This is single-outlet sourcing.", "refs": ["3dce14cc3c"] },
+        { "text": "The New York Sun reported that lawmakers are scrutinizing background-check failures that allowed an accused murderer to teach at a Brooklyn elementary school.", "refs": ["ee76584d41"] },
+        { "text": "amNY reported that city payroll records show Mohassib held a substitute paraprofessional post at the DOE from 2024 to 2026, and that council members are demanding answers about hiring.", "refs": ["nyc-w1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "3dce14cc3c", "note": "Calls the suspect an 'ex-cop' and leads with unnamed-source claims about his behavior after the killing and a past pet's death; emphasizes alarm over his access to children." },
+        { "ref": "afe9878849", "note": "Leads with the effect on families at the school and the firing, treating the hiring review as the main development." },
+        { "ref": "5fdd328130", "note": "Frames the story around the mayor's call for an investigation of the Department of Education's hiring process and mentions the suspect's psychiatric history." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3d8ba94467", "takeaway": "Headline only in the digest: reports the mayor's commitment to a full hiring review.", "read_full": false },
+        { "ref": "afe9878849", "takeaway": "Paywalled; summary notes the firing and the shaken school community.", "read_full": false },
+        { "ref": "3dce14cc3c", "takeaway": "Tabloid account built on unnamed sources about the suspect's past.", "read_full": false },
+        { "ref": "5fdd328130", "takeaway": "Focuses on the mayor's call for a probe and the suspect's reported psychiatric history.", "read_full": false },
+        { "ref": "ee76584d41", "takeaway": "Headline only: focuses on lawmakers' scrutiny of background checks.", "read_full": false },
+        { "ref": "nyc-w1", "takeaway": "Reports on payroll records and politicians' demands about DOE hiring.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mamdani-labor-2028",
+      "headline": "Mamdani confirms talks with union leaders about 2028 as a draft-AOC group launches",
+      "region": "City Hall",
+      "importance": 3,
+      "summary": "Mayor Mamdani acknowledged on Monday that he has been meeting national labor leaders about the 2028 Democratic race, after an Axios report. Separately, a group called Ready for AOC launched a campaign urging Rep. Alexandria Ocasio-Cortez to run for president.",
+      "why_it_matters": "It shows the mayor is spending political capital on national party politics while running the city. A possible Ocasio-Cortez run would also affect her House seat in Queens and the Bronx.",
+      "background": "Mamdani, a democratic socialist, became mayor in January 2026. Ocasio-Cortez, a Queens and Bronx congresswoman, is widely discussed as a possible 2028 presidential or Senate candidate, and she has said she is considering her options. Axios reported on Sunday that Mamdani has been privately encouraging union leaders to back a left-leaning candidate. Mamdani is not eligible to run for president because he was not born in the United States.",
+      "facts": [
+        { "text": "Mamdani said Monday he has been meeting with national labor leaders to discuss the party's political future, amNY and City & State reported.", "refs": ["2318248745", "2deae4ec19"] },
+        { "text": "The Times reported that Mamdani spoke warmly of Ocasio-Cortez but is working on a Plan B in case she decides against running.", "refs": ["4443cf2793"] },
+        { "text": "Axios reported on Sunday, citing anonymous sources, that Mamdani has been meeting union leaders including the flight attendants' union president Sara Nelson, and that Ocasio-Cortez is weighing both a presidential and Senate run. Spokespeople for Mamdani, Nelson and UAW head Shawn Fain did not comment, per Axios.", "refs": ["nyc-w2"] },
+        { "text": "The 'Ready for AOC' group launched Monday, led by progressive activists and union leaders, and said it had collected 4,000 signatures.", "refs": ["aba3155dca"] },
+        { "text": "The Times noted that the 2028 Democratic field could be crowded.", "refs": ["4bcfe6658a", "58eb6f09db"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "4443cf2793", "note": "Emphasizes a 'Plan B' if Ocasio-Cortez does not run, casting the mayor as a strategist." },
+        { "ref": "2deae4ec19", "note": "Stresses that the mayor cannot be president, which presents his involvement as that of a kingmaker." },
+        { "ref": "dac90134f8", "note": "Describes the group as one launching a 'draft' campaign, without discussing Mamdani." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2318248745", "takeaway": "Reports Mamdani's Monday comments on labor meetings and on Ocasio-Cortez.", "read_full": false },
+        { "ref": "2deae4ec19", "takeaway": "Short item confirming the meetings and the mayor's ineligibility.", "read_full": false },
+        { "ref": "4443cf2793", "takeaway": "Paywalled; summary highlights the Plan B angle.", "read_full": false },
+        { "ref": "aba3155dca", "takeaway": "Covers the launch of the Ready for AOC group and its signature count.", "read_full": false },
+        { "ref": "dac90134f8", "takeaway": "Headline only: reports the draft campaign launch.", "read_full": false },
+        { "ref": "nyc-w2", "takeaway": "The original anonymously sourced scoop behind the labor-leader story.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ice-shelter-subpoena-ruling",
+      "headline": "Federal judge orders the city to comply with an ICE subpoena tied to a city shelter",
+      "region": "City Hall",
+      "importance": 4,
+      "summary": "A federal judge ordered Mamdani's administration to comply with a federal subpoena seeking information about migrants with serious criminal records at a city shelter, the Times reported. It is a setback for a mayor who has opposed immigration enforcement.",
+      "why_it_matters": "The ruling tests how far the city's sanctuary policies protect shelter residents' information from federal immigration agents.",
+      "background": "New York has sanctuary laws that limit city cooperation with federal immigration enforcement. Mamdani has been a vocal opponent of ICE and has clashed with the Trump administration over immigration and other issues. The federal government has issued subpoenas to the city about shelters. This ruling concerns a subpoena seeking information about people at a city shelter who have serious criminal records.",
+      "facts": [
+        { "text": "A federal judge ordered Mayor Mamdani to comply with a federal subpoena seeking information about migrants with serious criminal records at a city shelter, the Times reported.", "refs": ["a27f3b4bf7"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a27f3b4bf7", "takeaway": "Paywalled; summary frames the ruling as a setback for the mayor.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nypd-shootings-record-low",
+      "headline": "NYPD reports record-low shootings through October, with an October uptick",
+      "region": "NYPD",
+      "importance": 3,
+      "summary": "The NYPD said 649 people were shot through October, about 100 fewer than the same period in 2025, which was itself a record. Gun violence and felony assaults rose in October, according to the department.",
+      "why_it_matters": "Shootings are a key measure of safety in the city. The October uptick is a figure to watch heading into winter.",
+      "background": "The NYPD publishes monthly crime statistics. It reported record lows for shootings and murders through the first nine months of 2026 as well. The department is led by Commissioner Jessica Tisch, who stayed on under Mamdani. The figures are preliminary and subject to revision.",
+      "facts": [
+        { "text": "Through October, 649 people were shot in the city, compared with 746 in the same stretch of 2025, the NYPD said.", "refs": ["d8c9af5067"] },
+        { "text": "Gun violence and felony assaults ticked up in October, according to the department's statistics.", "refs": ["f0dca4a94c"] },
+        { "text": "The NYPD said in its early October release that shootings, shooting victims and murders were at record lows through September.", "refs": ["nyc-w3"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f0dca4a94c", "note": "Leads with the October uptick in shootings and felony assaults despite the record low." },
+        { "ref": "d8c9af5067", "note": "Leads with the record low and ties it to the police academy graduation." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f0dca4a94c", "takeaway": "Balanced: record low for the year and the October rise.", "read_full": false },
+        { "ref": "d8c9af5067", "takeaway": "Emphasizes the record lows and new graduates.", "read_full": false },
+        { "ref": "nyc-w3", "takeaway": "NYPD press release for the nine-month figures; context only.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "rent-stabilized-auction",
+      "headline": "Rent-stabilized buildings go to auction despite city effort to steer sale",
+      "region": "Housing",
+      "importance": 3,
+      "summary": "Gothamist reported that rent-stabilized buildings were put on the auction block even though city officials tried to steer the sale to an affordable housing developer. The attempt failed.",
+      "why_it_matters": "Tenants in rent-stabilized buildings can face uncertainty when ownership changes. The case shows the limits of what City Hall can do to keep such buildings affordable.",
+      "background": "Rent-stabilized apartments are a large share of the city's housing and are regulated for rent increases. Mamdani campaigned on a rent freeze and on protecting tenants. The city sometimes tries to steer distressed buildings to nonprofit or affordable housing owners. In this case, Gothamist reported that officials tried and could not.",
+      "facts": [
+        { "text": "City officials tried to steer the sale to an affordable housing developer, but the attempt failed, per Gothamist's reporting. This is a single-outlet report.", "refs": ["f9c83c9c26"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f9c83c9c26", "takeaway": "Only outlet in the digest on this; summary only.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "homeless-students-138000",
+      "headline": "138,000 NYC students were homeless last school year, down from a record",
+      "region": "Schools",
+      "importance": 3,
+      "summary": "More than 138,000 New York City public school students experienced homelessness last school year, the Times and Daily News reported. The count fell from a record high, but advocates warned the crisis has probably not eased.",
+      "why_it_matters": "Students without stable housing are more likely to miss school, so the number affects school resources and city housing policy.",
+      "background": "The city counts students who live in shelters, doubled-up with others, or in other temporary housing. The number rose sharply in recent years as migrant families arrived and housing costs climbed. Advocates say the data can lag changes on the ground.",
+      "facts": [
+        { "text": "More than 138,000 city public school students were homeless last school year, the Times and Daily News reported.", "refs": ["d23ae6e689", "367860b8aa"] },
+        { "text": "The number fell from a record high, but advocates said the crisis had probably not eased, per the Times.", "refs": ["d23ae6e689"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d23ae6e689", "takeaway": "Paywalled; summary notes the drop and the advocates' warning.", "read_full": false },
+        { "ref": "367860b8aa", "takeaway": "Headline only: states the 138,000 figure.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "nyc-w1", "url": "https://www.amny.com/news/npc-politicians-doe-brooklyn-joggers-murder/", "title": "Politicians demand answers on DOE hiring after Brooklyn jogger's murder", "outlet": "amNY" },
+    { "id": "nyc-w2", "url": "https://www.axios.com/2026/11/08/scoop-mamdanis-bid-for-2028-kingmaker", "title": "Scoop: Mamdani's bid for 2028 kingmaker", "outlet": "Axios" },
+    { "id": "nyc-w3", "url": "https://nyc.gov/site/nypd/news/PR015/nypd-fewest-shooting-incidents-shooting-victims-murders-recorded-history-for", "title": "NYPD: fewest shooting incidents, shooting victims, murders on record", "outlet": "NYPD" }
+  ]
+}
