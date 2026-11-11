@@ -1,0 +1,32 @@
+{
+  "overview": "House Republicans used a procedural vote on Tuesday to block an effort to impeach Defense Secretary Pete Hegseth, though Democrats, who take control of Congress in January, can try again. Both parties are sorting out who will lead them after the midterms: House Republicans chose Jim Jordan as minority leader, Senate Republicans kept John Thune, and Sen. Bernie Sanders said he will not back Chuck Schumer to lead Senate Democrats. October inflation came in higher than forecast, pushing stocks down and raising expectations that the Federal Reserve will lift interest rates in December. Abroad, Russia and Ukraine held nearly four hours of U.S.-mediated talks in Abu Dhabi, a U.S. soldier was arrested in Britain on suspicion of spying for Russia, and U.S. prosecutors charged three people over alleged Iran-linked attack plots.",
+  "markets": {
+    "summary": "U.S. stocks slipped on Tuesday after the October consumer price index, the government's main inflation gauge, rose 0.4% from September, more than economists expected. Hotter inflation makes it more likely the Federal Reserve raises interest rates at its December meeting, which pushed up Treasury yields (the interest the government pays to borrow) and the dollar, according to Reuters and the Financial Times. The S&P 500 fell 0.38% and the tech-heavy Nasdaq fell 0.74%, with Reuters reporting a deeper selloff in Nvidia as its chief executive faces scrutiny in Washington. Sentiment turned after the close: cloud company CoreWeave reported results that eased worries about a slowdown in artificial-intelligence spending, and stock futures, European shares and Nvidia were higher early Wednesday, according to Reuters and CNBC. Some rows in the quote table lag by a day or more (Treasury yields are from Nov. 9, before the inflation report, and oil from Nov. 3), so they do not all reflect Tuesday's news.",
+    "movers": [
+      { "symbol": "NASDAQCOM", "why": "Fell 0.74% on Tuesday, the most of the three main U.S. indexes, as the inflation report and continued selling in Nvidia weighed on technology shares; it is down about 8% over the past month." },
+      { "symbol": "SP500", "why": "Slipped 0.38% after October inflation topped forecasts and strengthened the case for a Fed rate increase in December." },
+      { "symbol": "NIKKEI225", "why": "Japan's main index rose 2.87% on Tuesday but remains about 12% lower than a month ago; the cause of the one-day jump is unclear from today's coverage." },
+      { "symbol": "CBBTCUSD", "why": "Bitcoin fell 2.38% and is down about 12% in a month; today's coverage gives no specific cause, though riskier assets often weaken when rate increases look more likely." }
+    ],
+    "concept": {
+      "term": "Initial public offering (IPO)",
+      "explanation": "An IPO is the first time a private company sells its shares to the general public on a stock exchange; AI company Anthropic is preparing one that reports say could value it at more than $1 trillion. Banks set the opening price based on how much investors ask to buy, so strong demand lifts the valuation and weak demand or a shaky market can shrink or delay a deal. It reaches your wallet if you buy the shares directly, and indirectly because very large new companies are added to the index funds held in many retirement accounts. A big IPO is also read as a gauge of how much appetite investors have for risk."
+    },
+    "watch": [
+      "Wed Nov 11: Veterans Day; U.S. stock markets are open, while the bond market, banks and federal offices are closed",
+      "Fri Nov 13: October producer price index (wholesale inflation)",
+      "Tue Nov 17: Nvidia quarterly earnings after the market closes; October retail sales",
+      "Tue-Wed Dec 8-9: Federal Reserve policy meeting, where a rate increase is widely expected"
+    ]
+  },
+  "trending": [
+    { "title": "Hegseth impeachment vote", "context": "The most-discussed topic on Bluesky after House Republicans blocked the effort to impeach the defense secretary; a related thread tracks 11 Democrats who missed the vote.", "signal": "bluesky" },
+    { "title": "Push to replace Schumer and Jeffries", "context": "Bluesky users are debating new Democratic leadership after Bernie Sanders said he would not support Chuck Schumer for Senate Democratic leader.", "signal": "bluesky" },
+    { "title": "Jensen Huang", "context": "The Nvidia chief executive's Wikipedia page drew more than 540,000 views as lawmakers of both parties call for investigations into his reported affair with a woman suspected of spying for China.", "signal": "wikipedia" },
+    { "title": "Thomas Massie", "context": "Readers looked up the Kentucky Republican congressman, who features in coverage of the Hegseth impeachment fight.", "signal": "wikipedia" },
+    { "title": "Russell Brand", "context": "The British comedian was sentenced to ten and a half years in prison for rape and sexual assault, CBS News reported.", "signal": "wikipedia" },
+    { "title": "Are banks closed today", "context": "Wednesday is Veterans Day, a federal holiday when most banks close; in Britain and Canada the date is marked as Remembrance Day, which is also trending.", "signal": "google" },
+    { "title": "SS Edmund Fitzgerald", "context": "Nov. 10 was the anniversary of the freighter's 1975 sinking in Lake Superior, which draws readers to its page each year.", "signal": "wikipedia" },
+    { "title": "Stacy Keach", "context": "The stage and screen actor known for the 'Mike Hammer' television series has died at 85, the New York Daily News reported.", "signal": "bluesky" }
+  ]
+}

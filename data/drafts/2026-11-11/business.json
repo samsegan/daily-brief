@@ -1,0 +1,1007 @@
+{
+  "stories": [
+    {
+      "id": "october-cpi-fed-hike-bets",
+      "headline": "October inflation tops forecasts, raising bets on a December Fed rate hike",
+      "region": "Fed",
+      "importance": 5,
+      "summary": "Consumer prices rose 0.4% in October, more than economists expected, the Bureau of Labor Statistics reported Tuesday. Treasury yields and the dollar rose and US stocks fell as traders bet the Federal Reserve will raise interest rates again in December. Fed official Waller plans to back at least a quarter-point increase, and Goldman Sachs added another hike to its forecast.",
+      "why_it_matters": "Prices for food, energy and housing are still climbing, and a further Fed hike would push up the cost of mortgages, car loans and credit card debt.",
+      "background": "The consumer price index is the government's monthly measure of what households pay for goods and services. The Federal Reserve raises its benchmark interest rate to slow borrowing and spending when inflation runs high; that rate stood at 3.88% this week, and a Reuters poll headline describes a December move as raising rates \"once more\". The Fed skipped a move in October, and a Reuters poll taken Oct. 16-20 found every economist surveyed expected an increase in December. The October report arrived shortly after midterm elections in which, The Guardian wrote, Republican losses were widely seen as a rebuke over high prices. The Fed's next decision comes in December.",
+      "facts": [
+        {
+          "text": "The consumer price index rose 0.4% from September to October, above economists' expectations.",
+          "refs": [
+            "4fb60736a8",
+            "d5d03f82fc",
+            "525b331beb"
+          ]
+        },
+        {
+          "text": "The monthly increase was smaller than September's, and gasoline costs fell during October.",
+          "refs": [
+            "4fb60736a8",
+            "8008ccdff6"
+          ]
+        },
+        {
+          "text": "The AP reported that price increases extended beyond gasoline; PBS NewsHour said food and energy drove the rise and housing costs also went up.",
+          "refs": [
+            "f6d6fe6780",
+            "a3f9a8ef5c"
+          ]
+        },
+        {
+          "text": "PBS NewsHour said the country appears headed for an annual inflation rate of about 4% this year.",
+          "refs": [
+            "a3f9a8ef5c"
+          ]
+        },
+        {
+          "text": "The Fed's Waller plans to support at least a quarter-point rate increase in December, Reuters reported.",
+          "refs": [
+            "01ea8df3f0"
+          ]
+        },
+        {
+          "text": "The Fed's Paulson called for gradual rate increases, Reuters reported.",
+          "refs": [
+            "fc2b20c894"
+          ]
+        },
+        {
+          "text": "A Reuters poll of economists published Tuesday found they expect the Fed to raise rates in December.",
+          "refs": [
+            "f864e204f3"
+          ]
+        },
+        {
+          "text": "Goldman Sachs added another rate increase to its Fed forecast after the report.",
+          "refs": [
+            "406dd657b6",
+            "944ec68cca"
+          ]
+        },
+        {
+          "text": "Treasury prices fell after the data; the Financial Times said two-year yields had their largest rise since 2024.",
+          "refs": [
+            "2f867b096a",
+            "453e347e3f"
+          ]
+        },
+        {
+          "text": "The dollar rose to a four-week high against a basket of currencies.",
+          "refs": [
+            "49df4e65ac",
+            "561df445ef"
+          ]
+        },
+        {
+          "text": "US stocks fell on Tuesday after the inflation report.",
+          "refs": [
+            "67ccf82568",
+            "bc44f52ec0"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "How large a December rate increase is in play",
+          "positions": [
+            {
+              "claim": "A quarter-point increase is the base case: Waller said he would back at least a quarter point, and the dollar's rise reflected bets on a 25-basis-point move.",
+              "refs": [
+                "01ea8df3f0",
+                "49df4e65ac"
+              ]
+            },
+            {
+              "claim": "A larger move is on the table: The Washington Post's headline says a Trump-appointed Fed member signaled a big hike, and the Journal's currency report discusses pricing of a half-point move.",
+              "refs": [
+                "d114ade468",
+                "49df4e65ac"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "4fb60736a8",
+          "note": "Stresses that price increases cooled from September and gas got cheaper, and ties the data to Republican midterm losses."
+        },
+        {
+          "ref": "a549cbc072",
+          "note": "Stresses that the number beat forecasts and raised fears of rate hikes."
+        },
+        {
+          "ref": "f6d6fe6780",
+          "note": "Emphasizes that higher prices have spread beyond the gas station."
+        },
+        {
+          "ref": "453e347e3f",
+          "note": "Leads with the bond market reaction rather than household costs."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "4fb60736a8",
+          "takeaway": "Headline and summary only: 0.4% monthly rise, cooler than September, with a midterms angle.",
+          "read_full": false
+        },
+        {
+          "ref": "f6d6fe6780",
+          "takeaway": "Headline only: wire report that inflation ran hotter than expected and broadened beyond gas.",
+          "read_full": false
+        },
+        {
+          "ref": "d5d03f82fc",
+          "takeaway": "Headline and summary only: says the report complicates the Fed's next rate decision.",
+          "read_full": false
+        },
+        {
+          "ref": "8008ccdff6",
+          "takeaway": "Headline and summary only: category breakdown; economists call the level uncomfortably high.",
+          "read_full": false
+        },
+        {
+          "ref": "525b331beb",
+          "takeaway": "Headline only: 0.4% rise, inflation remains high.",
+          "read_full": false
+        },
+        {
+          "ref": "a549cbc072",
+          "takeaway": "Headline only: links the data to rate-hike fears.",
+          "read_full": false
+        },
+        {
+          "ref": "a3f9a8ef5c",
+          "takeaway": "Summary only: focuses on food, energy and housing costs and an annual pace near 4%.",
+          "read_full": false
+        },
+        {
+          "ref": "01ea8df3f0",
+          "takeaway": "Headline only: Waller to back at least a quarter-point hike in December.",
+          "read_full": false
+        },
+        {
+          "ref": "fc2b20c894",
+          "takeaway": "Headline only: Paulson favors gradual hikes.",
+          "read_full": false
+        },
+        {
+          "ref": "f864e204f3",
+          "takeaway": "Headline only: economists polled expect a December hike.",
+          "read_full": false
+        },
+        {
+          "ref": "406dd657b6",
+          "takeaway": "Headline only: Goldman adds a hike to its Fed outlook.",
+          "read_full": false
+        },
+        {
+          "ref": "944ec68cca",
+          "takeaway": "Headline and summary only: explains Goldman's forecast change after the CPI data.",
+          "read_full": false
+        },
+        {
+          "ref": "d114ade468",
+          "takeaway": "Headline only (paywalled): a Trump-appointed Fed member signals a big hike.",
+          "read_full": false
+        },
+        {
+          "ref": "2f867b096a",
+          "takeaway": "Headline and summary only (paywalled): Treasuries slide, two-year yields jump most since 2024.",
+          "read_full": false
+        },
+        {
+          "ref": "453e347e3f",
+          "takeaway": "Headline and summary only (paywalled): yields jump, stocks fall as the case for hikes grows.",
+          "read_full": false
+        },
+        {
+          "ref": "49df4e65ac",
+          "takeaway": "Headline and summary only (paywalled): dollar at a four-week high on hike bets.",
+          "read_full": false
+        },
+        {
+          "ref": "561df445ef",
+          "takeaway": "Headline only: dollar gains on inflation data and Fed officials' comments.",
+          "read_full": false
+        },
+        {
+          "ref": "67ccf82568",
+          "takeaway": "Headline only: wire report that US stocks slipped after the inflation update.",
+          "read_full": false
+        },
+        {
+          "ref": "bc44f52ec0",
+          "takeaway": "Headline and summary only (paywalled): stocks fell on inflation and AI worries.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w1",
+          "takeaway": "Search result summary only: October Reuters poll in which all economists surveyed expected a December hike.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nvidia-huang-spy-probe",
+      "headline": "Lawmakers of both parties seek investigations of Nvidia chief over affair with suspected Chinese spy",
+      "region": "Tech",
+      "importance": 4,
+      "summary": "Republicans and Democrats in Congress are calling for investigations into whether Nvidia chief executive Jensen Huang compromised national security, after he acknowledged an affair with a woman U.S. intelligence has linked to China, The Hill reported. Nvidia has hired an outside law firm to investigate, President Trump said the FBI is looking into the matter, and shareholders have sued the company. Nvidia's shares fell on Monday and Tuesday and were rebounding early Wednesday, ahead of earnings due next week.",
+      "why_it_matters": "Nvidia is one of the most valuable companies in the world and a large holding in index funds and retirement accounts, so uncertainty about its leader reaches ordinary investors. The episode could also lead Congress to tighten the rules on selling advanced AI chips to China.",
+      "background": "Nvidia designs the chips that power most artificial-intelligence systems, and Jensen Huang co-founded the company and has run it since. The United States restricts sales of its most advanced chips to China on national security grounds, and Huang has lobbied President Trump to loosen those limits. Reports in The New York Times and the Financial Times connected a woman named Alice Huang, a former banker who worked for a company called Megaspeed, to Chinese intelligence; she is not related to Jensen Huang. On Sunday he acknowledged an affair with her, according to CNBC. Megaspeed is under U.S. investigation over alleged smuggling of Nvidia chips into China, which it denies, Deutsche Welle reported.",
+      "facts": [
+        {
+          "text": "Jensen Huang acknowledged on Sunday that he had an affair with a woman whom reports in The New York Times and the Financial Times connected to Chinese intelligence, CNBC reported.",
+          "refs": [
+            "cfd647cb34"
+          ]
+        },
+        {
+          "text": "Nvidia hired the law firm Wachtell Lipton to investigate; partner Joon H. Kim, a former acting U.S. attorney, is leading the inquiry.",
+          "refs": [
+            "a663ea367a",
+            "d68f526af6",
+            "a95e79d71c"
+          ]
+        },
+        {
+          "text": "President Trump said the FBI is investigating and that Huang told him he had \"no idea she was a spy.\"",
+          "refs": [
+            "2eeebfe27c",
+            "f3e06f825a",
+            "85c252175e"
+          ]
+        },
+        {
+          "text": "Republicans and Democrats are both calling for investigations but differ on whether the Trump administration is at fault, The Hill reported.",
+          "refs": [
+            "f4468aeef3"
+          ]
+        },
+        {
+          "text": "A shareholder lawsuit filed in California alleges Nvidia and Huang misled investors about the relationship.",
+          "refs": [
+            "78aa026d0c",
+            "ed53b34e2e"
+          ]
+        },
+        {
+          "text": "A senior Republican on the Senate Banking Committee called on Huang to resign, Reuters reported.",
+          "refs": [
+            "f9c60514b5"
+          ]
+        },
+        {
+          "text": "Axios reported, citing multiple sources, that Commerce Secretary Howard Lutnick was sent a highly classified memo warning about the relationship.",
+          "refs": [
+            "d73ecac1b2"
+          ]
+        },
+        {
+          "text": "The New York Times reported that Trump was reminded of intelligence about the relationship before Huang joined him on a trip to Beijing.",
+          "refs": [
+            "fee8b6fa40"
+          ]
+        },
+        {
+          "text": "Lawmakers are pushing bills to restrict AI chip sales to China in response to the allegations.",
+          "refs": [
+            "4bbc008b7f",
+            "fb2db47de4"
+          ]
+        },
+        {
+          "text": "Nvidia shares fell more than 4% on Monday, erasing about $200 billion in market value, and fell further on Tuesday; CNBC reported a rebound of about 5% on Wednesday.",
+          "refs": [
+            "40dee15c6a",
+            "04fc2dffa0",
+            "7befb3377f"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "What the White House knew about the relationship",
+          "positions": [
+            {
+              "claim": "Trump said Huang told him he had no idea the woman was a spy, and the president has denied prior knowledge, according to The New York Times' account of his position.",
+              "refs": [
+                "f3e06f825a",
+                "fee8b6fa40"
+              ]
+            },
+            {
+              "claim": "The New York Times and Axios report that Trump and the commerce secretary were warned about the relationship beforehand.",
+              "refs": [
+                "fee8b6fa40",
+                "d73ecac1b2"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "f4468aeef3",
+          "note": "Emphasizes rare bipartisan agreement on investigating, and the partisan split over Trump's responsibility."
+        },
+        {
+          "ref": "699cd170bc",
+          "note": "Puts 'spy' in quotation marks and stresses a possible congressional crackdown on chip exports."
+        },
+        {
+          "ref": "fee8b6fa40",
+          "note": "Centers on what the president was told, framing the story as a question about the administration."
+        },
+        {
+          "ref": "8ca53cd1ec",
+          "note": "Leads with China's response, which calls a U.S. probe 'McCarthyism'."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "f4468aeef3",
+          "takeaway": "Headline and summary only: both parties want investigations but disagree on Trump's role.",
+          "read_full": false
+        },
+        {
+          "ref": "cfd647cb34",
+          "takeaway": "Headline and summary only: Huang's Sunday admission and the hiring of Wachtell Lipton.",
+          "read_full": false
+        },
+        {
+          "ref": "a663ea367a",
+          "takeaway": "Headline and summary only (paywalled): names Joon H. Kim as leading the company inquiry.",
+          "read_full": false
+        },
+        {
+          "ref": "fee8b6fa40",
+          "takeaway": "Headline and summary only (paywalled): reports Trump was told of the intelligence before a China trip.",
+          "read_full": false
+        },
+        {
+          "ref": "d73ecac1b2",
+          "takeaway": "Headline and summary only: reports a classified warning memo sent to the commerce secretary.",
+          "read_full": false
+        },
+        {
+          "ref": "2eeebfe27c",
+          "takeaway": "Headline and summary only: Trump says the FBI is investigating.",
+          "read_full": false
+        },
+        {
+          "ref": "f3e06f825a",
+          "takeaway": "Headline and summary only: Trump relays Huang's statement that he did not know.",
+          "read_full": false
+        },
+        {
+          "ref": "78aa026d0c",
+          "takeaway": "Headline and summary only: California shareholder lawsuit against Nvidia and Huang.",
+          "read_full": false
+        },
+        {
+          "ref": "f9c60514b5",
+          "takeaway": "Headline only: a senior Senate Banking Republican calls for Huang's resignation.",
+          "read_full": false
+        },
+        {
+          "ref": "4bbc008b7f",
+          "takeaway": "Headline only: lawmakers push China chip rules after the allegations.",
+          "read_full": false
+        },
+        {
+          "ref": "d95ad1c3fe",
+          "takeaway": "Headline and summary only: explains Megaspeed, the U.S. smuggling investigation and its denial.",
+          "read_full": false
+        },
+        {
+          "ref": "40dee15c6a",
+          "takeaway": "Headline and summary only: Monday's share drop of more than 4%.",
+          "read_full": false
+        },
+        {
+          "ref": "04fc2dffa0",
+          "takeaway": "Headline only: the selloff deepened on Tuesday.",
+          "read_full": false
+        },
+        {
+          "ref": "7befb3377f",
+          "takeaway": "Headline and summary only: shares rebound about 5% as investors weigh the fallout.",
+          "read_full": false
+        },
+        {
+          "ref": "699cd170bc",
+          "takeaway": "Headline and summary only: focuses on possible export-control crackdown.",
+          "read_full": false
+        },
+        {
+          "ref": "8ca53cd1ec",
+          "takeaway": "Headline only: reports China's 'McCarthyism' response.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "coreweave-ai-trade-rebound",
+      "headline": "CoreWeave results lift AI stocks after a month-long slide",
+      "region": "Earnings",
+      "importance": 4,
+      "summary": "Cloud-computing company CoreWeave reported third-quarter revenue above forecasts and raised its outlook, sending its shares up about 11% and lifting technology stock futures and European chipmakers on Wednesday. The rebound follows weeks of selling in artificial-intelligence stocks, including a further drop in Nvidia on Tuesday. Nvidia shares were up about 5% early Wednesday, CNBC reported.",
+      "why_it_matters": "AI companies make up a large share of the stock indexes held in retirement accounts, so swings in this group move many people's savings. The Nasdaq is down more than 8% over the past month.",
+      "background": "CoreWeave rents out data centers filled with AI chips and is one of several so-called neocloud companies that have borrowed heavily to expand. Investors have questioned this month whether spending on AI can be sustained, and CNBC reported that money has moved toward defensive sectors such as consumer staples and healthcare. Nvidia, the AI chipmaker, has been under separate pressure: its board opened an independent investigation on Nov. 8 after reports about chief executive Jensen Huang's relationship with an executive suspected of spying for China, and lawmakers from both parties have called for inquiries. Nvidia is due to report its own earnings soon.",
+      "facts": [
+        {
+          "text": "CoreWeave shares rose about 11% after the company raised its outlook.",
+          "refs": [
+            "16dadfebd3"
+          ]
+        },
+        {
+          "text": "CoreWeave's third-quarter revenue beat estimates, and it disclosed $9 billion in planned prepayments, MarketWatch reported.",
+          "refs": [
+            "22aea30bc7"
+          ]
+        },
+        {
+          "text": "US stock futures, led by the Nasdaq, rose after the results.",
+          "refs": [
+            "e5cd125995",
+            "5a1602471c",
+            "374e095ca7"
+          ]
+        },
+        {
+          "text": "European semiconductor shares climbed, and European stocks traded near a record high.",
+          "refs": [
+            "85d525af5a",
+            "8e5199c4ae"
+          ]
+        },
+        {
+          "text": "Nvidia's shares fell further on Tuesday, Reuters reported.",
+          "refs": [
+            "04fc2dffa0"
+          ]
+        },
+        {
+          "text": "Nvidia shares rebounded about 5% on Wednesday ahead of its earnings report, CNBC reported.",
+          "refs": [
+            "7befb3377f"
+          ]
+        },
+        {
+          "text": "Investors have shifted toward defensive sectors such as consumer staples and healthcare as technology stocks lost momentum.",
+          "refs": [
+            "e01cc2bdd3",
+            "17a88325dc"
+          ]
+        },
+        {
+          "text": "A Reuters analysis said market signals suggest it is too soon to conclude the worst of the sell-off is over.",
+          "refs": [
+            "23bc82c346"
+          ]
+        },
+        {
+          "text": "Nvidia's board opened an independent investigation on Nov. 8, and the company's shares fell the following day, according to an ABC station report.",
+          "refs": [
+            "business-w2"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether CoreWeave's results settle concerns about its finances",
+          "positions": [
+            {
+              "claim": "The new prepayment financing eased investors' concerns about its debt, MarketWatch reported.",
+              "refs": [
+                "22aea30bc7"
+              ]
+            },
+            {
+              "claim": "The Wall Street Journal called it a workaround \"for now\" and said the company's plans still depend on capital markets; it also described the results as a mixed signal.",
+              "refs": [
+                "2ab31d1bd8",
+                "0141c4e798"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "16dadfebd3",
+          "note": "Presents the raised outlook as easing fears of an AI slowdown."
+        },
+        {
+          "ref": "2ab31d1bd8",
+          "note": "Plays down the relief, stressing that the financing fix may be temporary."
+        },
+        {
+          "ref": "757a8eed68",
+          "note": "Puts the Nvidia scandal, rather than earnings, at the center of investor caution about AI."
+        },
+        {
+          "ref": "23bc82c346",
+          "note": "Emphasizes that the rebound may not mark the end of the sell-off."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "16dadfebd3",
+          "takeaway": "Headline and summary only: stock up 11% on a raised outlook; neoclouds under scrutiny this month.",
+          "read_full": false
+        },
+        {
+          "ref": "22aea30bc7",
+          "takeaway": "Headline and summary only: revenue beat and $9 billion in prepayments.",
+          "read_full": false
+        },
+        {
+          "ref": "374e095ca7",
+          "takeaway": "Headline only: stocks gain as CoreWeave revives the AI trade.",
+          "read_full": false
+        },
+        {
+          "ref": "e5cd125995",
+          "takeaway": "Headline and summary only (paywalled): futures up on CoreWeave and Anthropic IPO demand.",
+          "read_full": false
+        },
+        {
+          "ref": "5a1602471c",
+          "takeaway": "Headline and summary only (paywalled): Nasdaq futures lead a recovery from Tuesday's rate worries.",
+          "read_full": false
+        },
+        {
+          "ref": "85d525af5a",
+          "takeaway": "Headline and summary only (paywalled): European chip stocks rise.",
+          "read_full": false
+        },
+        {
+          "ref": "8e5199c4ae",
+          "takeaway": "Headline only: European stocks near a record on Siemens and AI optimism.",
+          "read_full": false
+        },
+        {
+          "ref": "2ab31d1bd8",
+          "takeaway": "Headline and summary only (paywalled): the financing approach still needs capital markets.",
+          "read_full": false
+        },
+        {
+          "ref": "0141c4e798",
+          "takeaway": "Summary only (paywalled): refers to a mixed signal from CoreWeave.",
+          "read_full": false
+        },
+        {
+          "ref": "04fc2dffa0",
+          "takeaway": "Headline only: Nvidia's sell-off deepened Tuesday.",
+          "read_full": false
+        },
+        {
+          "ref": "7befb3377f",
+          "takeaway": "Headline and summary only: Nvidia up 5% as investors weigh the effect of the scandal on its business.",
+          "read_full": false
+        },
+        {
+          "ref": "757a8eed68",
+          "takeaway": "Headline only: the scandal adds to investor caution on AI.",
+          "read_full": false
+        },
+        {
+          "ref": "e01cc2bdd3",
+          "takeaway": "Headline and summary only (paywalled): investors move into defensive stocks.",
+          "read_full": false
+        },
+        {
+          "ref": "17a88325dc",
+          "takeaway": "Headline and summary only: defensive sectors gain as tech loses momentum.",
+          "read_full": false
+        },
+        {
+          "ref": "23bc82c346",
+          "takeaway": "Headline only: analysis cautioning that the shake-out may not be over.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w2",
+          "takeaway": "Search result summary only: board probe opened Nov. 8 and the stock fell the next day.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "anthropic-ipo-valuation",
+      "headline": "Anthropic seeks a valuation above $1 trillion in its IPO",
+      "region": "IPO",
+      "importance": 4,
+      "summary": "AI company Anthropic filed an amended registration statement for its initial public offering targeting a valuation of more than $1 trillion. Reported figures range from $1 trillion to $1.4 trillion, and the Financial Times reported that its bankers are preparing to raise the target to $1.5 trillion or more because of investor demand. Nvidia plans to invest $10 billion alongside the offering, The New York Times reported.",
+      "why_it_matters": "CNBC calls the offering historic in size, and its reception is being treated as a test of whether investors still want to pay high prices for AI companies, which weigh heavily in index funds.",
+      "background": "Anthropic is the company that makes the Claude AI models. A company going public files a document called an S-1 with the Securities and Exchange Commission that sets out its finances and, later, the price range for its shares. SiliconANGLE reported in September that a leaked filing showed an $8 billion operating loss alongside rapid revenue growth. The offering comes during a month-long sell-off in AI stocks and while Nvidia, a supplier and planned investor, faces investigations over its chief executive. Anthropic has also opened an offering to individual investors in Australia.",
+      "facts": [
+        {
+          "text": "Anthropic filed an amended S-1 targeting a valuation of $1 trillion or more.",
+          "refs": [
+            "259b06f6f7",
+            "50f67ce92f",
+            "23087db8a2"
+          ]
+        },
+        {
+          "text": "Reuters reported exclusively that the company is eyeing a $1.4 trillion valuation.",
+          "refs": [
+            "deaa6d3af7"
+          ]
+        },
+        {
+          "text": "The Financial Times reported that bankers are preparing to raise the valuation to $1.5 trillion or more after strong investor demand.",
+          "refs": [
+            "ed638bceb0",
+            "0d29205225"
+          ]
+        },
+        {
+          "text": "Nvidia planned to invest $10 billion alongside the offering, the largest of several new commitments from large companies, The New York Times reported.",
+          "refs": [
+            "95c0556e8f"
+          ]
+        },
+        {
+          "text": "Anthropic opened a retail offering in Australia on Wednesday, CNBC reported.",
+          "refs": [
+            "3bbd319f62"
+          ]
+        },
+        {
+          "text": "Traders in perpetual futures are betting the shares will rise on their debut, CNBC reported.",
+          "refs": [
+            "d8530ee65e"
+          ]
+        },
+        {
+          "text": "Demand for the offering was cited among the reasons US stock futures rose on Wednesday.",
+          "refs": [
+            "e5cd125995",
+            "e4e6c2d578"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "The valuation Anthropic is targeting",
+          "positions": [
+            {
+              "claim": "$1 trillion to $1.3 trillion, per Fox Business's account of the amended filing.",
+              "refs": [
+                "50f67ce92f"
+              ]
+            },
+            {
+              "claim": "$1.4 trillion, per Reuters.",
+              "refs": [
+                "deaa6d3af7"
+              ]
+            },
+            {
+              "claim": "$1.5 trillion or more is being prepared by bankers, per the Financial Times.",
+              "refs": [
+                "ed638bceb0"
+              ]
+            }
+          ]
+        },
+        {
+          "topic": "How markets read the valuation",
+          "positions": [
+            {
+              "claim": "The Wall Street Journal attributed part of Tuesday's stock decline to \"a more modest valuation\" for a leading AI company, which its summary did not name.",
+              "refs": [
+                "bc44f52ec0"
+              ]
+            },
+            {
+              "claim": "Bloomberg and the Financial Times described robust demand for the offering and the prospect of a higher valuation as lifting sentiment by Wednesday.",
+              "refs": [
+                "e5cd125995",
+                "e4e6c2d578"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "deaa6d3af7",
+          "note": "Casts the offering as a test of Wall Street's enthusiasm for AI."
+        },
+        {
+          "ref": "95c0556e8f",
+          "note": "Emphasizes the deepening financial ties between Anthropic and Nvidia."
+        },
+        {
+          "ref": "50f67ce92f",
+          "note": "Sticks to the filing and its valuation range."
+        },
+        {
+          "ref": "6ef14878d0",
+          "note": "A commentary headline that stresses risks: insider sales and backing from the company's own suppliers."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "deaa6d3af7",
+          "takeaway": "Headline only: exclusive on a $1.4 trillion target.",
+          "read_full": false
+        },
+        {
+          "ref": "259b06f6f7",
+          "takeaway": "Headline only: amended S-1 targeting $1 trillion.",
+          "read_full": false
+        },
+        {
+          "ref": "50f67ce92f",
+          "takeaway": "Headline only: range of $1 trillion to $1.3 trillion.",
+          "read_full": false
+        },
+        {
+          "ref": "23087db8a2",
+          "takeaway": "Headline only (paywalled): target of more than $1 trillion.",
+          "read_full": false
+        },
+        {
+          "ref": "ed638bceb0",
+          "takeaway": "Headline and summary only (paywalled): bankers preparing to lift the valuation to $1.5 trillion or more.",
+          "read_full": false
+        },
+        {
+          "ref": "0d29205225",
+          "takeaway": "Headline only (paywalled): newsletter repeating the FT's $1.5 trillion report.",
+          "read_full": false
+        },
+        {
+          "ref": "95c0556e8f",
+          "takeaway": "Headline and summary only (paywalled): Nvidia's planned $10 billion investment.",
+          "read_full": false
+        },
+        {
+          "ref": "3bbd319f62",
+          "takeaway": "Headline and summary only: Australian retail offering opens.",
+          "read_full": false
+        },
+        {
+          "ref": "d8530ee65e",
+          "takeaway": "Headline and summary only: futures traders expect a first-day rise.",
+          "read_full": false
+        },
+        {
+          "ref": "bc44f52ec0",
+          "takeaway": "Summary only (paywalled): links Tuesday's stock fall partly to an AI company's valuation.",
+          "read_full": false
+        },
+        {
+          "ref": "e5cd125995",
+          "takeaway": "Summary only (paywalled): cites IPO demand in the futures rally.",
+          "read_full": false
+        },
+        {
+          "ref": "e4e6c2d578",
+          "takeaway": "Summary only (paywalled): cites a possible higher valuation in the tech rebound.",
+          "read_full": false
+        },
+        {
+          "ref": "6ef14878d0",
+          "takeaway": "Commentary, headline and summary only (paywalled): used for framing, not facts.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w3",
+          "takeaway": "Search result title only: September report on a leaked filing showing an $8 billion operating loss.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "oil-gas-prices-iran",
+      "headline": "Gasoline falls below $4 a gallon as oil retreats on Trump's Iran comments",
+      "region": "Energy",
+      "importance": 3,
+      "summary": "The national average price of gasoline fell to $3.98 a gallon on Tuesday, according to AAA, the first time it has been under $4 since July. Oil dropped for two days, with Brent crude falling below $90 a barrel, after President Trump said the war with Iran was \"effectively over\" and pulled back from a threat of further strikes. Oil prices edged up again on Wednesday.",
+      "why_it_matters": "Cheaper fuel lowers costs for drivers and for shipping goods, though the October inflation report showed prices for other essentials still rising.",
+      "background": "Oil and fuel prices have been tied this year to the US conflict with Iran, and gasoline had been above $4 a gallon since July. Crude oil is the main input cost for gasoline, so pump prices tend to follow it with a delay. The Guardian reported that Brent crude, the international benchmark, fell to its lowest level since late August this week. The Wall Street Journal and Bloomberg reported that uncertainty over US-Iran negotiations is still supporting prices.",
+      "facts": [
+        {
+          "text": "US gasoline prices fell below $4 a gallon for the first time since July.",
+          "refs": [
+            "8149be24f6",
+            "4b6f442377",
+            "ad463e971e"
+          ]
+        },
+        {
+          "text": "The national average was $3.98 a gallon, according to AAA, the New York Post reported.",
+          "refs": [
+            "cf7d996d2b"
+          ]
+        },
+        {
+          "text": "Brent crude fell below $90 a barrel.",
+          "refs": [
+            "f49c000f8f",
+            "5c52533207"
+          ]
+        },
+        {
+          "text": "The Guardian reported that the drop followed Trump saying the war on Iran is \"effectively over\"; the Financial Times and Fox Business said he pulled back from a threat to strike Iran.",
+          "refs": [
+            "f49c000f8f",
+            "5c52533207",
+            "cffde755b5"
+          ]
+        },
+        {
+          "text": "Oil rose on Wednesday after a two-day decline.",
+          "refs": [
+            "0779a8d325",
+            "b1d5bfbba5"
+          ]
+        },
+        {
+          "text": "Gasoline costs fell during October even as overall consumer prices rose 0.4%.",
+          "refs": [
+            "4fb60736a8",
+            "4b6f442377"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Why gasoline prices are falling",
+          "positions": [
+            {
+              "claim": "The New York Post's headline links the drop to Trump signaling no strikes on Iran soon.",
+              "refs": [
+                "cf7d996d2b"
+              ]
+            },
+            {
+              "claim": "A Scripps News report before the drop attributed it to seasonal factors that reduce demand.",
+              "refs": [
+                "business-w4"
+              ]
+            }
+          ]
+        },
+        {
+          "topic": "Whether the Iran conflict is ending",
+          "positions": [
+            {
+              "claim": "Trump said the war is \"effectively over\", The Guardian reported.",
+              "refs": [
+                "f49c000f8f"
+              ]
+            },
+            {
+              "claim": "Bloomberg and The Wall Street Journal reported that traders see mixed signals and continued uncertainty over US-Iran negotiations.",
+              "refs": [
+                "0779a8d325",
+                "b1d5bfbba5"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "cf7d996d2b",
+          "note": "Credits Trump's signal on Iran in the headline."
+        },
+        {
+          "ref": "4b6f442377",
+          "note": "Pairs the gas price drop with inflation that it calls stubbornly high."
+        },
+        {
+          "ref": "b1d5bfbba5",
+          "note": "Emphasizes the rebound and lingering Middle East risk rather than the two-day drop."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "8149be24f6",
+          "takeaway": "Headline and summary only: gas below $4 for the first time since July.",
+          "read_full": false
+        },
+        {
+          "ref": "cf7d996d2b",
+          "takeaway": "Headline and summary only: $3.98 per AAA; ties the drop to Trump's Iran signal.",
+          "read_full": false
+        },
+        {
+          "ref": "ad463e971e",
+          "takeaway": "Headline only: gas below $4 for the first time since July.",
+          "read_full": false
+        },
+        {
+          "ref": "4b6f442377",
+          "takeaway": "Headline and summary only: gas is cheaper but the cost of living remains high.",
+          "read_full": false
+        },
+        {
+          "ref": "f49c000f8f",
+          "takeaway": "Headline and summary only: Brent under $90, lowest since late August, after Trump's remarks.",
+          "read_full": false
+        },
+        {
+          "ref": "5c52533207",
+          "takeaway": "Headline and summary only (paywalled): falling crude supported a recovery in global stocks.",
+          "read_full": false
+        },
+        {
+          "ref": "cffde755b5",
+          "takeaway": "Headline only: oil drops as Trump signals restraint on Iran.",
+          "read_full": false
+        },
+        {
+          "ref": "0779a8d325",
+          "takeaway": "Headline and summary only (paywalled): oil climbs after a two-day fall on mixed signals.",
+          "read_full": false
+        },
+        {
+          "ref": "b1d5bfbba5",
+          "takeaway": "Headline and summary only (paywalled): oil ticks higher on negotiation uncertainty.",
+          "read_full": false
+        },
+        {
+          "ref": "4fb60736a8",
+          "takeaway": "Summary only: notes gas costs dipped in October's inflation data.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w4",
+          "takeaway": "Search result summary only: attributes the expected drop to seasonal demand.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "business-w1",
+      "url": "https://wsau.com/2026/10/20/fed-to-skip-october-but-raise-rates-again-in-december-nearly-all-economists-say-reuters-poll/",
+      "title": "Fed to skip October but raise rates again in December, nearly all economists say: Reuters poll",
+      "outlet": "Reuters (via WSAU)"
+    },
+    {
+      "id": "business-w2",
+      "url": "https://abc30.com/story/nvidia-stock-falls-company-opens-probe-ceo-jensen-huang-alleged-affair-chinese-spy/20026775/",
+      "title": "Nvidia stock falls after company opens probe into CEO Jensen Huang",
+      "outlet": "ABC30"
+    },
+    {
+      "id": "business-w3",
+      "url": "https://siliconangle.com/2026/09/29/leaked-anthropic-ipo-filing-reveals-8b-operating-loss-rapid-revenue-growth/",
+      "title": "Leaked Anthropic IPO filing reveals $8B operating loss, rapid revenue growth",
+      "outlet": "SiliconANGLE"
+    },
+    {
+      "id": "business-w4",
+      "url": "https://www.10news.com/politics/economy/gas-is-about-to-drop-below-4-for-the-first-time-since-july",
+      "title": "Gas is about to drop below $4 for the first time since July",
+      "outlet": "Scripps News (via KGTV)"
+    }
+  ]
+}

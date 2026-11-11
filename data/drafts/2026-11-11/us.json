@@ -1,0 +1,1183 @@
+{
+  "stories": [
+    {
+      "id": "hegseth-impeachment-blocked",
+      "headline": "House Republicans block bid to impeach Defense Secretary Hegseth",
+      "region": "Congress",
+      "importance": 5,
+      "summary": "The House voted 211-204 on Tuesday to send Rep. Thomas Massie's impeachment resolution against Defense Secretary Pete Hegseth to the Judiciary Committee, which halts the effort for now. Every Republican except Massie voted to shelve it, CBS News reported. Democrats take control of the House in January and could bring it back.",
+      "why_it_matters": "The resolution accuses the defense secretary of starting the Iran war illegally, so the vote leaves the question of who answers for the war to the Democratic-led Congress that takes over in January.",
+      "background": "Pete Hegseth has been defense secretary since 2025 and has run the US war with Iran this year. Rep. Thomas Massie, a Kentucky Republican who lost a Trump-backed primary and is leaving Congress, first filed impeachment articles against Hegseth in September; House leaders then recessed and the vote slipped until after the Nov. 3 midterms, according to earlier reporting. Massie filed a new eight-article resolution on Monday as a privileged measure, which forces the full House to deal with it. Republicans lost both chambers of Congress in the midterms but keep their House majority until January. The Constitution lets Congress impeach and remove Cabinet secretaries as well as presidents; the House brings the charges, and NPR noted that actually removing Hegseth would be difficult.",
+      "facts": [
+        {
+          "text": "The House voted 211 to 204 to refer the impeachment resolution to the Judiciary Committee, The Hindu reported; the move stops the immediate drive but does not prevent a new attempt next year.",
+          "refs": [
+            "604337f95c",
+            "65b21ddf64"
+          ]
+        },
+        {
+          "text": "Every House Republican except Massie voted to shelve the measure, according to CBS News.",
+          "refs": [
+            "7ee8a07eca"
+          ]
+        },
+        {
+          "text": "Massie's resolution contains eight articles of impeachment.",
+          "refs": [
+            "a77b805c1a",
+            "c71a2733cf",
+            "09c72f49d9"
+          ]
+        },
+        {
+          "text": "The articles accuse Hegseth of illegally starting the war with Iran, directing extrajudicial killings and ignoring laws meant to limit civilian casualties, according to the New York Times' summary of the charges.",
+          "refs": [
+            "3c8b0c2c39"
+          ]
+        },
+        {
+          "text": "At a Pentagon news conference earlier Tuesday, his first in about six months, Hegseth called the effort a \"farce\" and a \"stunt\" and said US military operations were lawful.",
+          "refs": [
+            "fa93e531c0",
+            "a77b805c1a",
+            "320f235ece"
+          ]
+        },
+        {
+          "text": "President Trump welcomed the result and called Hegseth a \"Great American Patriot.\"",
+          "refs": [
+            "fb5573ea53",
+            "863ff41439"
+          ]
+        },
+        {
+          "text": "Rep. Melanie Stansbury, a New Mexico Democrat, said a traffic incident and a police escort kept her and other lawmakers from reaching the Capitol in time to vote, The Hill reported.",
+          "refs": [
+            "fbce7c5019"
+          ]
+        },
+        {
+          "text": "Massie said he would not bring up another resolution to impeach Hegseth, CBS News reported.",
+          "refs": [
+            "276e083545"
+          ]
+        },
+        {
+          "text": "Reuters reported that Democrats may try again after they take control of Congress next year.",
+          "refs": [
+            "65b21ddf64",
+            "fb5573ea53"
+          ]
+        },
+        {
+          "text": "Vice President JD Vance said the impeachment vote \"isn't about Iran\" but about Hegseth's willingness to take on challenges at the Pentagon, Axios reported.",
+          "refs": [
+            "d4e4465d95"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "fb5573ea53",
+          "note": "Adds \"for now\" to the headline, stressing that Democrats can revive the effort in January."
+        },
+        {
+          "ref": "068d8921eb",
+          "note": "Casts it as GOP leaders stopping Massie's push, and uses the administration's title for Hegseth, Secretary of War."
+        },
+        {
+          "ref": "863ff41439",
+          "note": "Leads with Massie's \"sinking ship\" comparison for his own party rather than with the vote."
+        },
+        {
+          "ref": "97a004069c",
+          "note": "Calls the outcome a victory for Hegseth, the administration and Republican leaders."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "604337f95c",
+          "takeaway": "Digest summary only: gives the 211-204 tally and the referral to the Judiciary Committee.",
+          "read_full": false
+        },
+        {
+          "ref": "65b21ddf64",
+          "takeaway": "Reuters wire, summary only: calls the vote a reprieve before Democrats take over and possibly try again.",
+          "read_full": false
+        },
+        {
+          "ref": "7ee8a07eca",
+          "takeaway": "Summary only: reports every Republican but Massie voted to shelve the measure.",
+          "read_full": false
+        },
+        {
+          "ref": "276e083545",
+          "takeaway": "Summary only: reports Massie would not file another resolution.",
+          "read_full": false
+        },
+        {
+          "ref": "09c72f49d9",
+          "takeaway": "Summary only: explainer on the eight articles.",
+          "read_full": false
+        },
+        {
+          "ref": "3c8b0c2c39",
+          "takeaway": "Headline and summary only (paywalled): lists the main charges.",
+          "read_full": false
+        },
+        {
+          "ref": "fa93e531c0",
+          "takeaway": "Summary only: Hegseth's news conference remarks.",
+          "read_full": false
+        },
+        {
+          "ref": "a77b805c1a",
+          "takeaway": "Summary only: Hegseth's 'farce' remark and the eight articles.",
+          "read_full": false
+        },
+        {
+          "ref": "320f235ece",
+          "takeaway": "Summary only: Hegseth vows to fight the charges and defends his handling of the war.",
+          "read_full": false
+        },
+        {
+          "ref": "fb5573ea53",
+          "takeaway": "Summary only: Trump's praise and the chance of a second attempt.",
+          "read_full": false
+        },
+        {
+          "ref": "863ff41439",
+          "takeaway": "Live blog, summary only: Trump's reaction and Massie's criticism of his party.",
+          "read_full": false
+        },
+        {
+          "ref": "fbce7c5019",
+          "takeaway": "Summary only: a Democrat explains why she and others missed the vote.",
+          "read_full": false
+        },
+        {
+          "ref": "d4e4465d95",
+          "takeaway": "Summary only: Vance's defense of Hegseth.",
+          "read_full": false
+        },
+        {
+          "ref": "068d8921eb",
+          "takeaway": "Summary only: explains that the privileged resolution had to be considered by the full House.",
+          "read_full": false
+        },
+        {
+          "ref": "c71a2733cf",
+          "takeaway": "Summary only: Hegseth calls the articles policy disagreements; Massie alleges war powers violations.",
+          "read_full": false
+        },
+        {
+          "ref": "97a004069c",
+          "takeaway": "Summary only: frames the vote as a win for the administration.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w1",
+          "takeaway": "Background from September: Massie's first impeachment filing against Hegseth.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w2",
+          "takeaway": "Background: the House recessed early and the vote was put off until after the elections.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "gop-leaders-jordan-thune",
+      "headline": "House Republicans pick Jim Jordan as leader; Senate GOP keeps Thune",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "House Republicans on Tuesday elected Rep. Jim Jordan of Ohio over Rep. Steve Scalise to lead them in the minority starting in January. Senate Republicans re-elected Sen. John Thune of South Dakota after some colleagues tried to delay the vote. Both will lead the opposition to Democratic majorities in the new Congress.",
+      "why_it_matters": "These are the people who will speak and negotiate for Republicans in Congress for the last two years of Trump's term, on spending, investigations and any deals with the Democratic majorities.",
+      "background": "Republicans lost control of both the House and the Senate in the Nov. 3 midterms, and the new Congress starts in January. House Speaker Mike Johnson said the day after the election that he would not run to lead House Republicans in the minority. Jordan, who chairs the House Judiciary Committee and co-founded the House Freedom Caucus, and Scalise, the current majority leader, both announced bids. In the Senate, a group led by Sens. Ron Johnson and Rick Scott pushed to postpone the leadership vote to discuss the losses first. Thune has been the Senate Republican leader since 2025.",
+      "facts": [
+        {
+          "text": "Jordan defeated Scalise in a closed-door secret ballot of Republicans who will serve in the next Congress.",
+          "refs": [
+            "5ceda6872c",
+            "08720c0520",
+            "013ae40318"
+          ]
+        },
+        {
+          "text": "Fox News described the House vote as narrow.",
+          "refs": [
+            "08720c0520"
+          ]
+        },
+        {
+          "text": "Politico reported it was Jordan's third attempt to lead Republicans on Capitol Hill.",
+          "refs": [
+            "ed2e83230f"
+          ]
+        },
+        {
+          "text": "Speaker Mike Johnson announced the day after Election Day that he would not run for minority leader, CNBC reported.",
+          "refs": [
+            "b6b86d124d",
+            "23a91faa1b"
+          ]
+        },
+        {
+          "text": "Senate Republicans re-elected Thune as their leader after he turned back efforts by some colleagues to delay the election.",
+          "refs": [
+            "67d54bab42",
+            "7bf91fa77a",
+            "d5458ec45d"
+          ]
+        },
+        {
+          "text": "Eight Republican senators had called for a delay, and one said he would walk out rather than vote, Axios reported before the meeting.",
+          "refs": [
+            "bfe52dabb2"
+          ]
+        },
+        {
+          "text": "Senate Republicans held three separate meetings Tuesday after an election that cost them at least seven seats, PBS reported.",
+          "refs": [
+            "03396c5daf"
+          ]
+        },
+        {
+          "text": "Thune said he will not take sides in the 2028 presidential race, Politico reported.",
+          "refs": [
+            "d85f9e3d52"
+          ]
+        },
+        {
+          "text": "House Democrats have not yet voted on their leadership team, PBS reported.",
+          "refs": [
+            "f8a5c73bea"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "7bf91fa77a",
+          "note": "Presents Thune's win as a failed rebellion and calls the midterms a \"historic midterm massacre.\""
+        },
+        {
+          "ref": "9874d6fb6c",
+          "note": "Labels Jordan a MAGA \"fighter\" and the choice a bet."
+        },
+        {
+          "ref": "fa5bb82b08",
+          "note": "Identifies Jordan mainly by his closeness to Trump."
+        },
+        {
+          "ref": "e4a01909cf",
+          "note": "Focuses on Jordan's task of moving the party past the midterm losses."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "5ceda6872c",
+          "takeaway": "Summary only: Jordan beat Scalise in a secret ballot of next year's members.",
+          "read_full": false
+        },
+        {
+          "ref": "08720c0520",
+          "takeaway": "Summary only: calls the vote narrow and Jordan Trump's top defender in Congress.",
+          "read_full": false
+        },
+        {
+          "ref": "013ae40318",
+          "takeaway": "Summary only: calls it a major shakeup.",
+          "read_full": false
+        },
+        {
+          "ref": "ed2e83230f",
+          "takeaway": "Summary only: notes it was Jordan's third try for a top post.",
+          "read_full": false
+        },
+        {
+          "ref": "b6b86d124d",
+          "takeaway": "Summary only: recalls Johnson's decision not to run.",
+          "read_full": false
+        },
+        {
+          "ref": "23a91faa1b",
+          "takeaway": "Summary only: Jordan replaces Johnson as the top House Republican.",
+          "read_full": false
+        },
+        {
+          "ref": "67d54bab42",
+          "takeaway": "Summary only: Thune fought off efforts to delay the vote.",
+          "read_full": false
+        },
+        {
+          "ref": "7bf91fa77a",
+          "takeaway": "Summary only: names Ron Johnson and Rick Scott as leading the push to delay.",
+          "read_full": false
+        },
+        {
+          "ref": "d5458ec45d",
+          "takeaway": "Summary only: Senate Republicans stay the course with Thune.",
+          "read_full": false
+        },
+        {
+          "ref": "bfe52dabb2",
+          "takeaway": "Summary only: counted eight senators seeking a delay before the vote.",
+          "read_full": false
+        },
+        {
+          "ref": "03396c5daf",
+          "takeaway": "Summary only: senators aired frustrations in three meetings; at least seven seats lost.",
+          "read_full": false
+        },
+        {
+          "ref": "d85f9e3d52",
+          "takeaway": "Summary only: Thune on staying neutral for 2028.",
+          "read_full": false
+        },
+        {
+          "ref": "f8a5c73bea",
+          "takeaway": "Summary only: Jeffries on Democratic priorities; Democrats have not yet held leadership votes.",
+          "read_full": false
+        },
+        {
+          "ref": "9874d6fb6c",
+          "takeaway": "Summary only: profile of Jordan's move from insurgent to leader.",
+          "read_full": false
+        },
+        {
+          "ref": "fa5bb82b08",
+          "takeaway": "Summary only: stresses Jordan's Freedom Caucus roots and Trump ties.",
+          "read_full": false
+        },
+        {
+          "ref": "e4a01909cf",
+          "takeaway": "Summary only: looks at what Jordan must do next.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w3",
+          "takeaway": "Background: Jordan and Scalise announced their bids last week.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "sanders-schumer-leader",
+      "headline": "Sanders says he won't back Schumer for Senate majority leader",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "Sen. Bernie Sanders said Tuesday he will not support Sen. Chuck Schumer to lead Senate Democrats in the new Congress, saying it is time for change. Sen. Elissa Slotkin also called for new leadership, and NBC News reported Sen. Chris Van Hollen is considering a challenge. Schumer said he is confident he will be majority leader, and no one has formally entered the race.",
+      "why_it_matters": "Whoever leads the new Senate majority decides which bills, nominations and investigations reach the floor. All the outlets with summaries in today's feed on this story lean left or center, apart from the New York Post's reprint of the Associated Press report.",
+      "background": "Democrats won control of the Senate in the Nov. 3 midterms and will hold at least 54 seats when the new Congress starts in January. Chuck Schumer of New York is the current Senate Democratic leader and is seeking to become majority leader. During the campaign, several Democratic Senate candidates declined to commit to supporting him, according to earlier reporting. Bernie Sanders of Vermont is a leading progressive voice in the Senate, and CBS News called him the most prominent progressive to oppose Schumer so far.",
+      "facts": [
+        {
+          "text": "Sanders said Tuesday he would not support Schumer as Democratic leader in the new Congress.",
+          "refs": [
+            "9f02e65751",
+            "665273818f",
+            "32a880d316"
+          ]
+        },
+        {
+          "text": "Sanders said, \"I like Chuck … but the time is now for change,\" as quoted by the Guardian.",
+          "refs": [
+            "32a880d316",
+            "24de195266"
+          ]
+        },
+        {
+          "text": "Sanders and Sen. Elissa Slotkin both called for new leadership but neither proposed an alternative, NBC News reported.",
+          "refs": [
+            "39515b2f5f"
+          ]
+        },
+        {
+          "text": "Sen. Chris Van Hollen of Maryland is considering challenging Schumer, according to NBC News.",
+          "refs": [
+            "39515b2f5f"
+          ]
+        },
+        {
+          "text": "No one has officially said they will run against Schumer, Politico reported.",
+          "refs": [
+            "9ed510be9d"
+          ]
+        },
+        {
+          "text": "Schumer said he was confident he would become majority leader; Democrats won at least 54 Senate seats.",
+          "refs": [
+            "1b6e910df5"
+          ]
+        },
+        {
+          "text": "Schumer's allies offered support and called for party unity, according to the New York Times.",
+          "refs": [
+            "5c7383d839"
+          ]
+        },
+        {
+          "text": "The Associated Press report, as carried by the New York Post, says a number of incoming Democratic senators have echoed the call for change.",
+          "refs": [
+            "6a48afd0b6"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "94db9d2f9a",
+          "note": "Describes Sanders as the first sitting senator to call for Schumer's \"removal.\""
+        },
+        {
+          "ref": "1b6e910df5",
+          "note": "Headline pairs Schumer's confidence with \"dwindling votes.\""
+        },
+        {
+          "ref": "24de195266",
+          "note": "Calls the demand a \"seismic confrontation\" after the party's election sweep."
+        },
+        {
+          "ref": "5c7383d839",
+          "note": "Says \"a few Democrats\" signaled skepticism and gives weight to allies' calls for unity."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "9f02e65751",
+          "takeaway": "AP wire, headline only: Sanders won't support Schumer.",
+          "read_full": false
+        },
+        {
+          "ref": "665273818f",
+          "takeaway": "Summary only: calls Sanders the most prominent progressive to oppose Schumer so far.",
+          "read_full": false
+        },
+        {
+          "ref": "32a880d316",
+          "takeaway": "Summary only: carries the Sanders quote and says calls for new leadership are growing.",
+          "read_full": false
+        },
+        {
+          "ref": "24de195266",
+          "takeaway": "Summary only: frames it as a major confrontation inside the party.",
+          "read_full": false
+        },
+        {
+          "ref": "39515b2f5f",
+          "takeaway": "Summary only: adds Slotkin's call and Van Hollen's possible challenge.",
+          "read_full": false
+        },
+        {
+          "ref": "9ed510be9d",
+          "takeaway": "Summary only: notes pockets of opposition but no declared rival.",
+          "read_full": false
+        },
+        {
+          "ref": "1b6e910df5",
+          "takeaway": "Video, summary only: Schumer says he expects to be majority leader.",
+          "read_full": false
+        },
+        {
+          "ref": "5c7383d839",
+          "takeaway": "Headline and summary only (paywalled): skeptics are few and allies back Schumer.",
+          "read_full": false
+        },
+        {
+          "ref": "6a48afd0b6",
+          "takeaway": "AP story as carried by the Post, summary only: incoming senators echo Sanders.",
+          "read_full": false
+        },
+        {
+          "ref": "94db9d2f9a",
+          "takeaway": "Headline only: Sanders as the first sitting senator to call for a change.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w4",
+          "takeaway": "Background: Democratic Senate candidates who would not commit to Schumer during the campaign.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iran-linked-plots-indictment",
+      "headline": "US charges three men it calls Iran-backed operatives over attack plots, including one on a UK air base",
+      "region": "Justice Dept",
+      "importance": 4,
+      "summary": "The Justice Department on Tuesday unsealed an indictment charging three men with plotting a series of attacks on Jewish communities in Europe and the United States and a September attack on RAF Fairford, a British base that housed US forces. Prosecutors say one defendant helped direct the base plot while held in a US prison. The charges are allegations that have not been tested in court.",
+      "why_it_matters": "Prosecutors say the plots targeted Jewish communities inside the United States and American troops abroad, and that one was directed from inside a US jail.",
+      "background": "The United States has been fighting a war with Iran this year. RAF Fairford is a British air base that hosted US bombers; after an incident there in September the US withdrew those aircraft. Kata'ib Hizballah is an Iraqi militia backed by Iran, and the Islamic Revolutionary Guard Corps is Iran's elite military force. In May, US prosecutors charged a Kata'ib Hizballah commander, Mohammad Baqer Saad Dawood al-Saadi, with directing attacks on Jewish sites, according to reporting at the time; he is one of the three men named in the new indictment.",
+      "facts": [
+        {
+          "text": "The indictment was unsealed Tuesday and charges three men over alleged Iranian-linked plots, including a September scheme against a Royal Air Force base that housed US personnel and aircraft, Axios reported.",
+          "refs": [
+            "c6b09181af",
+            "bc946550ba"
+          ]
+        },
+        {
+          "text": "The Associated Press reported the men are accused of a campaign of nearly 20 attacks targeting Jewish communities in Europe and the US, along with RAF Fairford.",
+          "refs": [
+            "bc946550ba",
+            "8f76ea0999"
+          ]
+        },
+        {
+          "text": "The defendants are Mohammad Baqer Saad Dawood al-Saadi, Mohsen Mohajeri and Mohammad Ali al-Hassani.",
+          "refs": [
+            "404ff2c25c",
+            "0f35448d2d"
+          ]
+        },
+        {
+          "text": "One of the men helped direct the planned attack on the base while he was in a US prison, according to the indictment as reported by NBC News.",
+          "refs": [
+            "6475fb4a77",
+            "0f35448d2d"
+          ]
+        },
+        {
+          "text": "US Attorney Jamie McDonald said one suspect, arrested in the spring, kept coordinating with his co-defendants in the days before the September plot, PBS reported.",
+          "refs": [
+            "266794cec3"
+          ]
+        },
+        {
+          "text": "The indictment alleges the suspects used vans loaded with fuel to target RAF Fairford, Fox News reported.",
+          "refs": [
+            "cef65275b0"
+          ]
+        },
+        {
+          "text": "The defendants allegedly supported Kata'ib Hizballah and Iran's Islamic Revolutionary Guard Corps, NewsNation reported.",
+          "refs": [
+            "5aa6d6d906"
+          ]
+        },
+        {
+          "text": "The Fairford incident prompted the US to pull out bombers used in operations against Iran, Deutsche Welle reported.",
+          "refs": [
+            "32af864898",
+            "e3d1818b63"
+          ]
+        },
+        {
+          "text": "Separately, the US moved refueling tankers and other aircraft out of RAF Mildenhall after a reported Iran-linked threat.",
+          "refs": [
+            "e3d1818b63",
+            "1659f2dd7a"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "How many attacks the men are accused of",
+          "positions": [
+            {
+              "claim": "Nearly 20 attacks on Jewish communities in Europe and the US, plus the air base plot.",
+              "refs": [
+                "bc946550ba",
+                "8f76ea0999"
+              ]
+            },
+            {
+              "claim": "A plot at the UK air base and attempts at more than a dozen attacks in the US and Europe.",
+              "refs": [
+                "00ad3004ce"
+              ]
+            },
+            {
+              "claim": "Twenty terror attack cases.",
+              "refs": [
+                "5aa6d6d906"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "cef65275b0",
+          "note": "Leads with the threat to US troops and the fuel-packed vans."
+        },
+        {
+          "ref": "bc946550ba",
+          "note": "Leads with the number of men charged and the planned assault on the UK base."
+        },
+        {
+          "ref": "00ad3004ce",
+          "note": "Calls the men \"Iran-backed operatives\" in the headline without attributing the label."
+        },
+        {
+          "ref": "404ff2c25c",
+          "note": "Puts 'Iranian operatives' in quotation marks, marking it as the US government's description."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "c6b09181af",
+          "takeaway": "Summary only: the indictment and the September base scheme.",
+          "read_full": false
+        },
+        {
+          "ref": "bc946550ba",
+          "takeaway": "AP wire, summary only: nearly 20 attacks on Jewish communities plus RAF Fairford.",
+          "read_full": false
+        },
+        {
+          "ref": "8f76ea0999",
+          "takeaway": "Summary only: pairs the charges with a separate UK spying case.",
+          "read_full": false
+        },
+        {
+          "ref": "404ff2c25c",
+          "takeaway": "Summary only: names the three defendants.",
+          "read_full": false
+        },
+        {
+          "ref": "0f35448d2d",
+          "takeaway": "Headline and summary only (paywalled): names the men and notes one is already in jail.",
+          "read_full": false
+        },
+        {
+          "ref": "6475fb4a77",
+          "takeaway": "Summary only: one man allegedly directed the plot from a US prison.",
+          "read_full": false
+        },
+        {
+          "ref": "266794cec3",
+          "takeaway": "Summary only: the US attorney's account of coordination before the plot.",
+          "read_full": false
+        },
+        {
+          "ref": "cef65275b0",
+          "takeaway": "Summary only: details the alleged method at the base.",
+          "read_full": false
+        },
+        {
+          "ref": "5aa6d6d906",
+          "takeaway": "Summary only: the groups the defendants allegedly supported.",
+          "read_full": false
+        },
+        {
+          "ref": "00ad3004ce",
+          "takeaway": "Summary only: counts over a dozen attempted attacks plus the base plot.",
+          "read_full": false
+        },
+        {
+          "ref": "32af864898",
+          "takeaway": "Summary only: links the Fairford incident to the US bomber withdrawal.",
+          "read_full": false
+        },
+        {
+          "ref": "e3d1818b63",
+          "takeaway": "Summary only: US tankers leave a second UK base after a reported threat.",
+          "read_full": false
+        },
+        {
+          "ref": "1659f2dd7a",
+          "takeaway": "Summary only: 13 US aircraft left RAF Mildenhall.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w5",
+          "takeaway": "Background: the May charges against al-Saadi.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "senate-races-mississippi-alaska",
+      "headline": "Two Senate races still uncalled as Mississippi ballot deadlines pass and Alaska count goes to court",
+      "region": "Elections",
+      "importance": 3,
+      "summary": "Democrat Scott Colom extended a narrow lead over Republican Sen. Cindy Hyde-Smith in Mississippi as Tuesday's deadlines for absentee and provisional ballots passed. In Alaska, Democrat Mary Peltola leads Republican Sen. Dan Sullivan by about 2,500 votes with tens of thousands of absentee ballots uncounted, and a judge is weighing a lawsuit from her campaign over absentee ballots.",
+      "why_it_matters": "Democrats already control the next Senate; these two races decide how large their majority is, which affects how easily they can pass bills and confirm or block nominees.",
+      "background": "Democrats won at least 54 Senate seats in the Nov. 3 midterms. Mississippi and Alaska are the two Senate races not yet called, and Republican incumbents trail in both. Mississippi counts mail absentee ballots that arrive after Election Day and gives voters who cast provisional ballots several days to resolve them; both deadlines fell on Tuesday. Alaska counts absentee ballots for days after the election. Before the election, a federal judge dismissed a Justice Department lawsuit that sought to block certification of the Alaska race, according to the Anchorage Daily News.",
+      "facts": [
+        {
+          "text": "Tuesday was Mississippi's deadline for resolving provisional ballots and for receiving mail-in absentee ballots, CNBC reported.",
+          "refs": [
+            "166e0f6b38",
+            "d8fd92c405"
+          ]
+        },
+        {
+          "text": "Colom extended a tight lead over Hyde-Smith, and CBS News rates the race as leaning Democratic.",
+          "refs": [
+            "166e0f6b38",
+            "3b6e020f23"
+          ]
+        },
+        {
+          "text": "Colom told CNN the race is almost over.",
+          "refs": [
+            "181050b01e"
+          ]
+        },
+        {
+          "text": "Peltola's lead over Sullivan grew to 2,517 votes after Monday's count, with tens of thousands of absentee ballots outstanding, Fox News reported.",
+          "refs": [
+            "8c89e47a48"
+          ]
+        },
+        {
+          "text": "A judge is weighing a lawsuit brought by Peltola's campaign over absentee ballots, the Associated Press reported; the New York Post reported the judge expects to decide quickly.",
+          "refs": [
+            "fb6c9ea66c",
+            "f2f5481561"
+          ]
+        },
+        {
+          "text": "Alaska and Mississippi are the two Senate races still too early to call, the New York Post reported.",
+          "refs": [
+            "f2f5481561"
+          ]
+        },
+        {
+          "text": "PBS reported that an unusually high number of absentee and provisional ballots in Mississippi will determine the size of the Democratic majority.",
+          "refs": [
+            "966525820e"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "d8fd92c405",
+          "note": "Says the winner is \"still undetermined\" and does not mention who leads."
+        },
+        {
+          "ref": "166e0f6b38",
+          "note": "Leads with Colom extending his lead."
+        },
+        {
+          "ref": "40a95ddbad",
+          "note": "Focuses on voters' difficulties under what it calls stringent election laws."
+        },
+        {
+          "ref": "f2f5481561",
+          "note": "Leads with the Peltola campaign going to court."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "166e0f6b38",
+          "takeaway": "Summary only: the Tuesday deadlines and Colom's growing lead.",
+          "read_full": false
+        },
+        {
+          "ref": "d8fd92c405",
+          "takeaway": "Headline only: winner undetermined as deadlines arrive.",
+          "read_full": false
+        },
+        {
+          "ref": "3b6e020f23",
+          "takeaway": "Summary only: rates the race as leaning Democratic.",
+          "read_full": false
+        },
+        {
+          "ref": "181050b01e",
+          "takeaway": "Headline only: Colom says the race is nearly over.",
+          "read_full": false
+        },
+        {
+          "ref": "966525820e",
+          "takeaway": "Summary only: Mississippi voters on an unexpectedly close race.",
+          "read_full": false
+        },
+        {
+          "ref": "40a95ddbad",
+          "takeaway": "Headline and summary only (paywalled): ballot rules and voters' struggles.",
+          "read_full": false
+        },
+        {
+          "ref": "8c89e47a48",
+          "takeaway": "Summary only: the Alaska margin and uncounted absentee ballots.",
+          "read_full": false
+        },
+        {
+          "ref": "fb6c9ea66c",
+          "takeaway": "AP wire, headline only: judge weighs the Peltola campaign's lawsuit.",
+          "read_full": false
+        },
+        {
+          "ref": "f2f5481561",
+          "takeaway": "Summary only: the lawsuit and the two uncalled races.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w6",
+          "takeaway": "Background: the earlier Justice Department lawsuit over Alaska's certification.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "epstein-oversight-report",
+      "headline": "House Oversight Republicans' final Epstein report faults Justice Department, urges new witness interviews",
+      "region": "Congress",
+      "importance": 3,
+      "summary": "The Republican-led House Oversight Committee released a 137-page report Tuesday after a 15-month investigation into Jeffrey Epstein. It says the federal government failed his victims for decades, criticizes how the Trump administration has released Epstein records, and urges the Justice Department to interview key witnesses. Democrats say they will continue the inquiry when they take the majority in January.",
+      "why_it_matters": "The report is an official finding from Trump's own party that federal authorities mishandled a major sex-trafficking case, and it sets up more investigations next year. Most of the outlets covering it in today's feed lean left or center.",
+      "background": "Jeffrey Epstein was a convicted sex offender, now dead, whose ties to powerful people have been the subject of years of investigation; the report also covers crimes by his associate Ghislaine Maxwell. Congress passed and President Trump signed the Epstein Files Transparency Act about a year ago, requiring the release of government records on the case. The House Oversight Committee, chaired by Republican Rep. James Comer of Kentucky, has been investigating the government's handling of the case for 15 months. Democrats won the House in the midterms and will run the committee from January.",
+      "facts": [
+        {
+          "text": "The 137-page report was released by the GOP-controlled committee nearly a year after the Epstein Files Transparency Act became law, and criticizes the Trump administration over the release of Epstein records.",
+          "refs": [
+            "c2ec6fd76b",
+            "7dea7537da"
+          ]
+        },
+        {
+          "text": "The investigation lasted 15 months and included interviews with some of Epstein's high-profile associates, CBS News reported.",
+          "refs": [
+            "3b3e46bc3d",
+            "7b01fada01"
+          ]
+        },
+        {
+          "text": "Committee chair James Comer said, \"The federal government has failed the survivors of Jeffrey Epstein and Ghislaine Maxwell's horrific crimes for decades,\" as quoted by CNBC.",
+          "refs": [
+            "97eef23920"
+          ]
+        },
+        {
+          "text": "The report urges the Justice Department to interview or re-interview key witnesses.",
+          "refs": [
+            "97eef23920",
+            "8a9af1572f",
+            "87ed41fa34"
+          ]
+        },
+        {
+          "text": "The report says many survivors and other witnesses told the committee federal authorities never approached or properly questioned them, NBC News reported.",
+          "refs": [
+            "87ed41fa34"
+          ]
+        },
+        {
+          "text": "Democrats said the inquiry into the government's handling of the case is \"just getting started,\" Politico reported.",
+          "refs": [
+            "5145c2b46b"
+          ]
+        },
+        {
+          "text": "Democrats say they will investigate major banks' ties to Epstein once they take the majority, The Hill reported.",
+          "refs": [
+            "2970e364bc"
+          ]
+        },
+        {
+          "text": "A Politico poll found more voters want Democrats to pursue an affordability agenda than to keep investigating Epstein's network.",
+          "refs": [
+            "988f924467"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "7dea7537da",
+          "note": "Headline stresses criticism of the Trump administration over the release of records."
+        },
+        {
+          "ref": "3b3e46bc3d",
+          "note": "Headline stresses \"decades-long failures,\" spreading responsibility across administrations."
+        },
+        {
+          "ref": "5145c2b46b",
+          "note": "Labels it a report from committee Republicans and calls it \"final.\""
+        },
+        {
+          "ref": "2970e364bc",
+          "note": "Looks ahead to Democrats' plans to investigate banks."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "c2ec6fd76b",
+          "takeaway": "AP story, summary only: the report's length, timing and criticism of the records release.",
+          "read_full": false
+        },
+        {
+          "ref": "7dea7537da",
+          "takeaway": "AP wire, headline only: committee criticizes the administration over Epstein records.",
+          "read_full": false
+        },
+        {
+          "ref": "3b3e46bc3d",
+          "takeaway": "Summary only: a 15-month inquiry that found decades of failures.",
+          "read_full": false
+        },
+        {
+          "ref": "7b01fada01",
+          "takeaway": "Summary only: Republican chair's report faults the federal government.",
+          "read_full": false
+        },
+        {
+          "ref": "97eef23920",
+          "takeaway": "Summary only: Comer's statement and the call for witness interviews.",
+          "read_full": false
+        },
+        {
+          "ref": "87ed41fa34",
+          "takeaway": "Summary only: quotes the report on witnesses never questioned.",
+          "read_full": false
+        },
+        {
+          "ref": "8a9af1572f",
+          "takeaway": "Headline only (paywalled): report urges re-interviewing key witnesses.",
+          "read_full": false
+        },
+        {
+          "ref": "5145c2b46b",
+          "takeaway": "Summary only: Democrats say the inquiry will continue.",
+          "read_full": false
+        },
+        {
+          "ref": "2970e364bc",
+          "takeaway": "Summary only: Democrats' plans to look at Epstein's banks.",
+          "read_full": false
+        },
+        {
+          "ref": "988f924467",
+          "takeaway": "Summary only: poll on voters' priorities for Democrats.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "kennedy-arch-lawsuit",
+      "headline": "Nine Kennedy family members ask court to block Trump's arch near Arlington Cemetery",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "Nine members of the Kennedy family asked a federal court in Washington on Monday to stop construction of President Trump's planned 250-foot arch near Arlington National Cemetery. They argue it would cast a shadow on family graves and interrupt the view from the eternal flame at President John F. Kennedy's grave. Trump is visiting the cemetery for Veterans Day on Wednesday.",
+      "why_it_matters": "The case will help decide whether a president can build a large monument beside the national military cemetery over the objections of veterans and families of people buried there.",
+      "background": "Trump has proposed a 250-foot triumphal arch at Memorial Circle, between Arlington National Cemetery and the Lincoln Memorial. Three Vietnam War veterans and an architectural historian sued in February to stop it, arguing it would block a historic view and lacked required approvals, according to earlier reporting. NPR reported in September that the administration planned to begin excavation. President John F. Kennedy's grave at Arlington is marked by an eternal flame, and other Kennedy family graves are nearby.",
+      "facts": [
+        {
+          "text": "Nine Kennedy family members asked a judge to block the 250-foot arch.",
+          "refs": [
+            "daf2fb1fb3",
+            "7f2e24070d",
+            "f7f70602d5"
+          ]
+        },
+        {
+          "text": "The request came in a Monday filing in the US District Court for the District of Columbia, The Hill reported.",
+          "refs": [
+            "c0d6562cc6"
+          ]
+        },
+        {
+          "text": "The filing argues the arch would cast a shadow on Kennedy family graves and disrupt the sightline from the eternal flame, according to the New York Times.",
+          "refs": [
+            "b765a1f912",
+            "7f2e24070d"
+          ]
+        },
+        {
+          "text": "The nine are children and grandchildren of Robert F. Kennedy and Edward M. Kennedy, according to the New York Post's version of the Associated Press report.",
+          "refs": [
+            "b121bdc086"
+          ]
+        },
+        {
+          "text": "Trump is scheduled to visit Arlington National Cemetery on Veterans Day, the New York Times reported.",
+          "refs": [
+            "0ce2336a0d"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the Kennedys filed a new lawsuit or joined an existing one",
+          "positions": [
+            {
+              "claim": "They are seeking to join an existing lawsuit against the arch.",
+              "refs": [
+                "f7f70602d5",
+                "bbe2c9f58d",
+                "c0d6562cc6",
+                "808f2eb053"
+              ]
+            },
+            {
+              "claim": "Headlines at the BBC and NPR say the Kennedys \"sue\" to block the arch.",
+              "refs": [
+                "7f2e24070d",
+                "5eb85bdc90"
+              ]
+            }
+          ]
+        },
+        {
+          "topic": "Which Kennedys are involved",
+          "positions": [
+            {
+              "claim": "Children and grandchildren of Robert F. Kennedy and Edward M. Kennedy.",
+              "refs": [
+                "b121bdc086"
+              ]
+            },
+            {
+              "claim": "Descendants of President John F. Kennedy.",
+              "refs": [
+                "5eb85bdc90"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "b121bdc086",
+          "note": "Calls the project a \"memorial arch\" and gives its height."
+        },
+        {
+          "ref": "808f2eb053",
+          "note": "Calls it a \"large triumphal arch\" in its summary; headline says simply \"Trump's arch.\""
+        },
+        {
+          "ref": "7f2e24070d",
+          "note": "Leads with the shadow on JFK's grave."
+        },
+        {
+          "ref": "0ce2336a0d",
+          "note": "Ties the legal fight to Trump's Veterans Day visit and describes \"growing opposition.\""
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "daf2fb1fb3",
+          "takeaway": "AP wire, summary only: nine family members ask a judge to block the arch.",
+          "read_full": false
+        },
+        {
+          "ref": "7f2e24070d",
+          "takeaway": "Summary only: the shadow argument.",
+          "read_full": false
+        },
+        {
+          "ref": "f7f70602d5",
+          "takeaway": "Summary only: the nine seek to join an existing lawsuit.",
+          "read_full": false
+        },
+        {
+          "ref": "bbe2c9f58d",
+          "takeaway": "Video, summary only: why the family says it would be affected.",
+          "read_full": false
+        },
+        {
+          "ref": "c0d6562cc6",
+          "takeaway": "Summary only: details of the Monday court filing.",
+          "read_full": false
+        },
+        {
+          "ref": "808f2eb053",
+          "takeaway": "Summary only: family members join the legal fight.",
+          "read_full": false
+        },
+        {
+          "ref": "b765a1f912",
+          "takeaway": "Headline and summary only (paywalled): the shadow and sightline arguments.",
+          "read_full": false
+        },
+        {
+          "ref": "b121bdc086",
+          "takeaway": "AP story as carried by the Post, summary only: identifies which branches of the family filed.",
+          "read_full": false
+        },
+        {
+          "ref": "5eb85bdc90",
+          "takeaway": "Summary only: describes the filers as JFK's descendants.",
+          "read_full": false
+        },
+        {
+          "ref": "0ce2336a0d",
+          "takeaway": "Headline and summary only (paywalled): the fight as backdrop to Trump's cemetery visit.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w7",
+          "takeaway": "Background: the veterans' February lawsuit.",
+          "read_full": false
+        },
+        {
+          "ref": "us-w8",
+          "takeaway": "Background: the administration's plan to start excavation.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "us-w1",
+      "url": "https://www.scrippsnews.com/us-news/thomas-massie-pushes-surprise-impeachment-vote-of-pete-hegseth",
+      "title": "Thomas Massie pushes surprise impeachment vote of Pete Hegseth",
+      "outlet": "Scripps News"
+    },
+    {
+      "id": "us-w2",
+      "url": "https://www.nbcboston.com/news/national-international/house-recess-early-hegseth-impeachment-vote-after-november-elections/4015834/",
+      "title": "House recesses early; Hegseth impeachment vote after November elections",
+      "outlet": "NBC Boston"
+    },
+    {
+      "id": "us-w3",
+      "url": "https://spectrumlocalnews.com/columbus/news/2026/11/05/jim-jordan-house-gop-leader",
+      "title": "Jim Jordan to run for House GOP leader",
+      "outlet": "Spectrum News"
+    },
+    {
+      "id": "us-w4",
+      "url": "https://www.washingtonexaminer.com/?p=4505725",
+      "title": "Schumer's prized 2026 recruits won't commit to keeping him as Senate leader",
+      "outlet": "Washington Examiner"
+    },
+    {
+      "id": "us-w5",
+      "url": "https://gvwire.com/2026/05/15/militia-commander-tied-to-iran-plotted-attacks-on-us-jewish-sites-prosecutors/",
+      "title": "Militia commander tied to Iran plotted attacks on US Jewish sites, prosecutors say",
+      "outlet": "GV Wire"
+    },
+    {
+      "id": "us-w6",
+      "url": "https://www.adn.com/politics/2026/11/01/judge-throws-out-trump-ordered-lawsuit-seeking-to-block-certification-of-alaskas-us-senate-race/",
+      "title": "Judge throws out Trump-ordered lawsuit seeking to block certification of Alaska's US Senate race",
+      "outlet": "Anchorage Daily News"
+    },
+    {
+      "id": "us-w7",
+      "url": "https://www.eenews.net/articles/vietnam-war-veterans-sue-to-block-construction-of-trumps-triumphal-arch",
+      "title": "Vietnam War veterans sue to block construction of Trump's triumphal arch",
+      "outlet": "E&E News"
+    },
+    {
+      "id": "us-w8",
+      "url": "https://www.npr.org/2026/09/04/nx-s1-5957459/administration-says-excavation-will-start-on-trumps-arch",
+      "title": "Trump's arch may break ground without final approval. Veterans are trying to stop it",
+      "outlet": "NPR"
+    }
+  ]
+}

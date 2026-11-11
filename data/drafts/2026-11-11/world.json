@@ -1,0 +1,1026 @@
+{
+  "stories": [
+    {
+      "id": "us-soldier-uk-russia-spying-arrest",
+      "headline": "US Army soldier arrested in Britain on suspicion of spying for Russia",
+      "region": "Europe",
+      "importance": 5,
+      "summary": "British police arrested a 41-year-old US Army soldier stationed in the UK on suspicion of espionage linked to Russia, after a joint investigation with the FBI and US military intelligence. He has not been named and is being held in London under the UK's National Security Act. A US official told CBS News he is a senior officer based at the barracks that houses a NATO headquarters.",
+      "why_it_matters": "The suspect is reported to have worked at a NATO rapid-reaction headquarters, so the case raises the question of whether alliance plans were exposed to Russia while the war in Ukraine continues.",
+      "background": "The suspect is a US Army soldier stationed in Britain. A US official told CBS News he is based at Imjin Barracks, which houses the headquarters of NATO's Allied Rapid Reaction Corps. He is being held under the UK's National Security Act, the law Britain uses for cases of alleged spying for foreign states. The investigation was run jointly by British police, the FBI and US military intelligence, and the arrest comes while Russia's war in Ukraine continues and peace talks are under way in Abu Dhabi.",
+      "facts": [
+        {
+          "text": "A 41-year-old US Army soldier was arrested in the UK on suspicion of spying for Russia; authorities have not named him.",
+          "refs": [
+            "e644a99994",
+            "230c611629"
+          ]
+        },
+        {
+          "text": "The arrest followed a joint investigation with the FBI and US military intelligence, and he was in custody pending possible charges, the New York Times reported.",
+          "refs": [
+            "e644a99994"
+          ]
+        },
+        {
+          "text": "He is being detained in London under the UK's National Security Act, according to CNBC.",
+          "refs": [
+            "230c611629"
+          ]
+        },
+        {
+          "text": "FBI Director Kash Patel said a senior US Army soldier based in the UK had been arrested over \"allegations of espionage,\" CBS News reported.",
+          "refs": [
+            "7e05521cdf"
+          ]
+        },
+        {
+          "text": "A US official told CBS News the suspect is a senior officer based at Imjin Barracks, home to the headquarters of NATO's Allied Rapid Reaction Corps.",
+          "refs": [
+            "9d98ae44fe"
+          ]
+        },
+        {
+          "text": "UK authorities said the investigation was not linked to other ongoing counterterrorism investigations.",
+          "refs": [
+            "1ca7c71f33"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the soldier has been charged",
+          "positions": [
+            {
+              "claim": "He was arrested on suspicion and held pending possible charges.",
+              "refs": [
+                "e644a99994",
+                "230c611629"
+              ]
+            },
+            {
+              "claim": "NBC News' headline and summary say he was charged with spying for Russian intelligence agencies.",
+              "refs": [
+                "110345bbb1"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "110345bbb1",
+          "note": "Says \"charged\", going further than outlets that describe an arrest on suspicion."
+        },
+        {
+          "ref": "1ca7c71f33",
+          "note": "Uses the softer \"alleged Russian links\" rather than spying."
+        },
+        {
+          "ref": "2bc27d3fa5",
+          "note": "Puts the suspect's seniority and his NATO unit in the headline."
+        },
+        {
+          "ref": "488a814b9d",
+          "note": "Stresses that these are allegations and that UK police made the arrest."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "e644a99994",
+          "takeaway": "Headline and summary only (paywalled): age, custody status and the joint FBI and military intelligence investigation.",
+          "read_full": false
+        },
+        {
+          "ref": "488a814b9d",
+          "takeaway": "Headline only (paywalled): frames it as allegations of spying for Russia.",
+          "read_full": false
+        },
+        {
+          "ref": "1ca7c71f33",
+          "takeaway": "Notes UK authorities said the case is not tied to other counterterrorism investigations.",
+          "read_full": false
+        },
+        {
+          "ref": "110345bbb1",
+          "takeaway": "Video report whose summary says the soldier was charged.",
+          "read_full": false
+        },
+        {
+          "ref": "7e05521cdf",
+          "takeaway": "Video report built around the FBI director's statement.",
+          "read_full": false
+        },
+        {
+          "ref": "9d98ae44fe",
+          "takeaway": "Cites a US official placing the suspect at Imjin Barracks, the NATO corps headquarters.",
+          "read_full": false
+        },
+        {
+          "ref": "230c611629",
+          "takeaway": "Reports the detention in London under the National Security Act.",
+          "read_full": false
+        },
+        {
+          "ref": "2bc27d3fa5",
+          "takeaway": "Headline only: describes a senior US officer in a NATO unit.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iran-threats-mildenhall-charges",
+      "headline": "US moves aircraft from a second UK base and charges three alleged Iranian operatives",
+      "region": "Middle East",
+      "importance": 5,
+      "summary": "The US Air Force relocated aircraft from RAF Mildenhall in eastern England because of a threat that several outlets reported was linked to Iran. On the same day the Justice Department charged three men it called Iranian operatives over a September incident at another UK base, RAF Fairford, and Treasury Secretary Scott Bessent was reported to have moved to a military base after Iranian threats against his life. Iran's top security official said no talks with Washington are under way.",
+      "why_it_matters": "The reported threats reach beyond the Middle East to bases in Britain and to officials in Washington, and the standoff over the Strait of Hormuz continues to move oil prices.",
+      "background": "The United States and Iran have been at war this year; an interim agreement was reached in June, and Iran says Washington must meet seven conditions from it before the Strait of Hormuz reopens and negotiations resume. The US has since leaned on economic pressure, a campaign led by the Treasury. In late September a security incident at RAF Fairford, a British base hosting US bombers, was followed by the withdrawal of those bombers and by UK charges against two men. RAF Mildenhall hosts US refuelling tankers. Iran has previously denied plotting attacks on officials or people on US soil.",
+      "facts": [
+        {
+          "text": "The US Air Force relocated aircraft from a base in eastern England because of a threat, a US official told the Associated Press.",
+          "refs": [
+            "b685815f95",
+            "1fc97fcbb4"
+          ]
+        },
+        {
+          "text": "CBS News reported the planes left RAF Mildenhall after a reported Iranian threat, just over a month after a security incident at a separate base hosting US aircraft used in the war with Iran.",
+          "refs": [
+            "7aa796a1a6"
+          ]
+        },
+        {
+          "text": "Fox News reported that 13 aircraft left Mildenhall and that the base went to the second-highest military alert level.",
+          "refs": [
+            "1659f2dd7a"
+          ]
+        },
+        {
+          "text": "The Justice Department charged Mohammad Baqer Saad Dawood al-Saadi, Mohsen Mohajeri and Mohammad Ali al-Hassani, described as Iranian operatives, with helping plan and direct the September incident at RAF Fairford; one of them is already in jail.",
+          "refs": [
+            "404ff2c25c",
+            "0f35448d2d"
+          ]
+        },
+        {
+          "text": "US prosecutors also allege the three planned a \"campaign of terror\" against Jewish communities.",
+          "refs": [
+            "32af864898",
+            "89c1a78b3c"
+          ]
+        },
+        {
+          "text": "Treasury Secretary Scott Bessent moved from his Washington-area home to a military base after Iranian threats against his life, according to the New York Times and two people cited by Reuters.",
+          "refs": [
+            "6a049c85b1",
+            "d913b215d7",
+            "5e5f19488b"
+          ]
+        },
+        {
+          "text": "Secretary of State Marco Rubio said he saw no need to resume major combat operations against Iran because economic pressure was working.",
+          "refs": [
+            "e9a64b273a",
+            "f36e76f9c3"
+          ]
+        },
+        {
+          "text": "Iran's top security official said no talks are under way with the US and that Iran will not allow enriched nuclear material to leave the country; oil rose about 1% after the remark.",
+          "refs": [
+            "91c323c27f",
+            "271e402763",
+            "cd71886e4b"
+          ]
+        },
+        {
+          "text": "The US removed its bombers from RAF Fairford in early October after what was described as a suspected terror attack on the base.",
+          "refs": [
+            "world-w5"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Iran is behind plots against US targets",
+          "positions": [
+            {
+              "claim": "US prosecutors say the three charged men acted as Iranian operatives in the Fairford plot.",
+              "refs": [
+                "404ff2c25c",
+                "32af864898"
+              ]
+            },
+            {
+              "claim": "Iran has previously denied plotting to attack officials and people on US soil.",
+              "refs": [
+                "b0b2188c94"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "b685815f95",
+          "note": "Says aircraft were \"relocated\" over an unspecified threat and does not name Iran."
+        },
+        {
+          "ref": "ffccbab604",
+          "note": "Says the Air Force \"evacuates tankers\" and names Iran as the source of the threat."
+        },
+        {
+          "ref": "1659f2dd7a",
+          "note": "Leads with the number of aircraft and says the threat \"raises alarm\"."
+        },
+        {
+          "ref": "028185b6b4",
+          "note": "Presents Bessent as the latest in a series of Trump officials moving onto bases and calls the threat alleged."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "b685815f95",
+          "takeaway": "Wire report sourced to one US official; no country named in the headline.",
+          "read_full": false
+        },
+        {
+          "ref": "1fc97fcbb4",
+          "takeaway": "Carries the AP report, using \"evacuates\" in its headline.",
+          "read_full": false
+        },
+        {
+          "ref": "ffccbab604",
+          "takeaway": "Headline only: attributes the move to an Iran threat and specifies tankers.",
+          "read_full": false
+        },
+        {
+          "ref": "7aa796a1a6",
+          "takeaway": "Names RAF Mildenhall and ties the move to the earlier incident at another base.",
+          "read_full": false
+        },
+        {
+          "ref": "1659f2dd7a",
+          "takeaway": "Gives a count of 13 aircraft and the alert level.",
+          "read_full": false
+        },
+        {
+          "ref": "404ff2c25c",
+          "takeaway": "Names the three men charged over the Fairford incident.",
+          "read_full": false
+        },
+        {
+          "ref": "32af864898",
+          "takeaway": "Adds the alleged plots against Jewish communities and links Fairford to the bomber withdrawal.",
+          "read_full": false
+        },
+        {
+          "ref": "0f35448d2d",
+          "takeaway": "Summary only (paywalled): notes one of the three is already in jail.",
+          "read_full": false
+        },
+        {
+          "ref": "89c1a78b3c",
+          "takeaway": "Headline only: leads with attacks against Jews, then the airbase plot.",
+          "read_full": false
+        },
+        {
+          "ref": "6a049c85b1",
+          "takeaway": "Headline and summary only (paywalled): first report of Bessent's move.",
+          "read_full": false
+        },
+        {
+          "ref": "d913b215d7",
+          "takeaway": "Headline only: confirms the Bessent move through its own sources.",
+          "read_full": false
+        },
+        {
+          "ref": "5e5f19488b",
+          "takeaway": "Summary only (paywalled): carries the two-source account and credits the New York Times.",
+          "read_full": false
+        },
+        {
+          "ref": "b0b2188c94",
+          "takeaway": "Notes Iran's earlier denials of plotting attacks on US soil.",
+          "read_full": false
+        },
+        {
+          "ref": "028185b6b4",
+          "takeaway": "Sets Bessent's move alongside other officials who have relocated.",
+          "read_full": false
+        },
+        {
+          "ref": "e9a64b273a",
+          "takeaway": "Headline only: Rubio's remark that major combat operations are not needed.",
+          "read_full": false
+        },
+        {
+          "ref": "f36e76f9c3",
+          "takeaway": "Live updates summarising Rubio's comment on sanctions.",
+          "read_full": false
+        },
+        {
+          "ref": "91c323c27f",
+          "takeaway": "Headline only: Iran's security chief says no talks with the US.",
+          "read_full": false
+        },
+        {
+          "ref": "271e402763",
+          "takeaway": "Headline only: Iran will keep enriched material in the country.",
+          "read_full": false
+        },
+        {
+          "ref": "cd71886e4b",
+          "takeaway": "Headline only: links a 1% oil rise to the Iranian statement.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ukraine-russia-abu-dhabi-talks",
+      "headline": "Russia and Ukraine hold a second day of US-mediated talks in Abu Dhabi",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Russian, Ukrainian and US delegations met for a second day in Abu Dhabi after nearly four hours of talks on Tuesday. Bloomberg, citing Russian state media, reported that Wednesday's session ended in under two hours. Overnight, a drone attack set off a fire at Russia's Baltic port of Ust-Luga, and the Baltic states briefly issued drone alerts.",
+      "why_it_matters": "The talks are the main channel for ending the war, and strikes on export ports such as Ust-Luga can disrupt energy and grain shipments.",
+      "background": "Russia and Ukraine are at war, and the United States has been mediating three-way talks between them in Abu Dhabi since January 2026. CBS News reported that this round is the first since negotiations were suspended when the war with Iran began. Ukraine's delegation is led by Rustem Umerov, head of its Foreign Intelligence Service. A central question is what security guarantees Ukraine would receive under any deal. Both sides have continued long-range strikes during the talks.",
+      "facts": [
+        {
+          "text": "Russia and Ukraine held nearly four hours of US-mediated talks in Abu Dhabi on Tuesday.",
+          "refs": [
+            "a3e318100b"
+          ]
+        },
+        {
+          "text": "Umerov, who leads Kyiv's delegation, said on social media that a second day had begun with a three-way session, to be followed by a separate meeting with European partners.",
+          "refs": [
+            "790fa46752",
+            "a8f79a8c90",
+            "e46a5ddacc"
+          ]
+        },
+        {
+          "text": "The second day's talks ended after less than two hours, Bloomberg reported, citing Russian state media.",
+          "refs": [
+            "bdaf14d054"
+          ]
+        },
+        {
+          "text": "Secretary of State Marco Rubio said security guarantees for Ukraine must also be acceptable to Russia, the Kyiv Independent reported.",
+          "refs": [
+            "b49b624f0c"
+          ]
+        },
+        {
+          "text": "President Volodymyr Zelenskyy said he was \"happy\" with the US envoys' approach, according to the Guardian.",
+          "refs": [
+            "adef82c376"
+          ]
+        },
+        {
+          "text": "A drone attack caused a fire at the port of Ust-Luga, the regional governor said; Bloomberg's headline reported three people injured.",
+          "refs": [
+            "d6f5cbd881",
+            "9521b6d90a"
+          ]
+        },
+        {
+          "text": "Lithuania, Latvia and Estonia issued and then withdrew alerts urging people to shelter from unidentified drones entering from Russia or Belarus.",
+          "refs": [
+            "061b0784ff",
+            "da2ccda4c6"
+          ]
+        },
+        {
+          "text": "The first three-way talks between the US, Russia and Ukraine took place in Abu Dhabi in January 2026.",
+          "refs": [
+            "world-w6"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "be09198e06",
+          "note": "Opens with \"no sign of progress\" as the round began."
+        },
+        {
+          "ref": "adef82c376",
+          "note": "Highlights Zelenskyy's satisfaction with a change in the US mediators' message."
+        },
+        {
+          "ref": "bdaf14d054",
+          "note": "Emphasizes how short the second day's session was."
+        },
+        {
+          "ref": "b49b624f0c",
+          "note": "Leads with Rubio's point that guarantees must also suit Russia."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "a3e318100b",
+          "takeaway": "Headline only: the length of the first day's talks.",
+          "read_full": false
+        },
+        {
+          "ref": "790fa46752",
+          "takeaway": "Quotes Umerov on the format of day two.",
+          "read_full": false
+        },
+        {
+          "ref": "a8f79a8c90",
+          "takeaway": "Reports Umerov's announcement that day two had started.",
+          "read_full": false
+        },
+        {
+          "ref": "e46a5ddacc",
+          "takeaway": "Headline only: confirms the second day began.",
+          "read_full": false
+        },
+        {
+          "ref": "bdaf14d054",
+          "takeaway": "Summary only (paywalled): day two ended in under two hours, per Russian state media.",
+          "read_full": false
+        },
+        {
+          "ref": "b49b624f0c",
+          "takeaway": "Daily war roundup led by Rubio's comment on guarantees.",
+          "read_full": false
+        },
+        {
+          "ref": "adef82c376",
+          "takeaway": "Live blog centred on Zelenskyy's reaction to the US approach.",
+          "read_full": false
+        },
+        {
+          "ref": "be09198e06",
+          "takeaway": "Notes this is the first three-way round since the Iran war began.",
+          "read_full": false
+        },
+        {
+          "ref": "d6f5cbd881",
+          "takeaway": "Headline only: governor confirms the fire at Ust-Luga.",
+          "read_full": false
+        },
+        {
+          "ref": "9521b6d90a",
+          "takeaway": "Summary only (paywalled): stresses the risk to energy and grain exports.",
+          "read_full": false
+        },
+        {
+          "ref": "061b0784ff",
+          "takeaway": "Carries the Reuters report on the Baltic alerts being withdrawn.",
+          "read_full": false
+        },
+        {
+          "ref": "da2ccda4c6",
+          "takeaway": "Headline only: overnight drone warnings in the Baltics and Finland.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "congo-ebola-11000-cases",
+      "headline": "Congo's Ebola outbreak passes 11,000 confirmed cases",
+      "region": "Africa",
+      "importance": 4,
+      "summary": "Confirmed Ebola cases in the Democratic Republic of Congo have passed 11,000, according to government data, in what the Associated Press calls the country's deadliest outbreak. The UN migration agency said 71 confirmed cases have been detected along transit routes and urged wider surveillance beyond formal crossings.",
+      "why_it_matters": "The outbreak is still growing after almost six months, and cases found along travel routes raise the risk of spread to other regions and neighbouring countries.",
+      "background": "Ebola is a severe viral disease spread through contact with the bodily fluids of infected people. Congo declared this outbreak in mid-May. The World Health Organization has identified the virus as the Bundibugyo strain, for which there is no approved vaccine or treatment, and has called it the largest Ebola outbreak recorded in the country. Authorities have struggled to contain it because of armed conflict and a strained health system.",
+      "facts": [
+        {
+          "text": "Confirmed Ebola cases in Congo surpassed 11,000, government data showed.",
+          "refs": [
+            "fc7dc7fcba",
+            "a3810ebf5b",
+            "cde917a1b0"
+          ]
+        },
+        {
+          "text": "The outbreak was declared in mid-May, and conflict and a health system crisis have hampered containment.",
+          "refs": [
+            "3efa6e4181"
+          ]
+        },
+        {
+          "text": "The International Organization for Migration said 71 confirmed cases have been detected along transit routes since the outbreak began and called for surveillance beyond formal routes.",
+          "refs": [
+            "59c47db69d"
+          ]
+        },
+        {
+          "text": "Congo's health ministry reported 10,668 confirmed cases and 5,198 deaths in figures published days earlier.",
+          "refs": [
+            "world-w1"
+          ]
+        },
+        {
+          "text": "The WHO says the outbreak is caused by the Bundibugyo strain, which has no approved vaccine or treatment.",
+          "refs": [
+            "world-w2"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "fc7dc7fcba",
+          "note": "States the case count and its source without characterising the outbreak."
+        },
+        {
+          "ref": "a3810ebf5b",
+          "note": "Adds that this is Congo's \"deadliest\" outbreak."
+        },
+        {
+          "ref": "59c47db69d",
+          "note": "Focuses on travel routes and the call for wider surveillance rather than the total."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "fc7dc7fcba",
+          "takeaway": "Headline only: the 11,000 milestone, sourced to government data.",
+          "read_full": false
+        },
+        {
+          "ref": "a3810ebf5b",
+          "takeaway": "Headline only: describes the outbreak as Congo's deadliest.",
+          "read_full": false
+        },
+        {
+          "ref": "cde917a1b0",
+          "takeaway": "Carries the AP report; says the government announced the figure Wednesday.",
+          "read_full": false
+        },
+        {
+          "ref": "3efa6e4181",
+          "takeaway": "Gives the mid-May start date and the reasons containment has been difficult.",
+          "read_full": false
+        },
+        {
+          "ref": "59c47db69d",
+          "takeaway": "UN News item on cases detected along transit routes.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "spain-general-strike-housing",
+      "headline": "Spain holds its first general strike in 14 years over housing costs",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Workers across Spain walked out on Wednesday in a nationwide strike called by the main unions to demand more affordable housing and higher pay. The stoppage affected transport and other public services. It comes less than three weeks before a snap national election on November 29.",
+      "why_it_matters": "Housing costs are the central issue in an election that outlets say could bring the far right into government, and the strike disrupted travel and services for residents and visitors.",
+      "background": "Rents and home prices in Spain have risen sharply in recent years, prompting repeated street protests. Spain's two largest unions, CCOO and UGT, called a 24-hour general strike in October over housing and wages. It is the country's first general strike since 2012. Spain votes in a snap general election on November 29, and housing has become the main campaign debate.",
+      "facts": [
+        {
+          "text": "Workers across Spain staged the country's first general strike in 14 years on Wednesday.",
+          "refs": [
+            "eacf8f4a66",
+            "0434155b7b",
+            "1c9d00053d"
+          ]
+        },
+        {
+          "text": "The strike affected transport and other public services, Bloomberg reported.",
+          "refs": [
+            "26211f59f3"
+          ]
+        },
+        {
+          "text": "Unions are protesting rising housing costs and low wages.",
+          "refs": [
+            "1c9d00053d",
+            "663ce4ed90"
+          ]
+        },
+        {
+          "text": "Spain holds a snap national election on November 29.",
+          "refs": [
+            "1c9d00053d",
+            "663ce4ed90"
+          ]
+        },
+        {
+          "text": "Spanish unions called the November 11 strike in October, citing housing and wages.",
+          "refs": [
+            "world-w3",
+            "world-w4"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "0434155b7b",
+          "note": "Presents the strike as a demand that the government solve the housing crisis, and notes the far right could win power."
+        },
+        {
+          "ref": "1c9d00053d",
+          "note": "Says Spain is \"roiled\", stressing disruption, and adds low wages to the grievances."
+        },
+        {
+          "ref": "eacf8f4a66",
+          "note": "Emphasizes public anger over housing."
+        },
+        {
+          "ref": "26211f59f3",
+          "note": "Describes a union-led strike over housing cost and its effect on services."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "eacf8f4a66",
+          "takeaway": "Headline only: first general strike in 14 years, driven by housing anger.",
+          "read_full": false
+        },
+        {
+          "ref": "0434155b7b",
+          "takeaway": "Ties the strike to the election less than three weeks away.",
+          "read_full": false
+        },
+        {
+          "ref": "1c9d00053d",
+          "takeaway": "Headline and summary only (paywalled): housing costs, low wages and the November 29 vote.",
+          "read_full": false
+        },
+        {
+          "ref": "26211f59f3",
+          "takeaway": "Summary only (paywalled): impact on transport and public services.",
+          "read_full": false
+        },
+        {
+          "ref": "663ce4ed90",
+          "takeaway": "Says workers in nearly all industries joined and that housing dominates the campaign.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "israel-knesset-sworn-in-eisenkot",
+      "headline": "Israel's new parliament is sworn in as Eisenkot tries to form a government",
+      "region": "Middle East",
+      "importance": 3,
+      "summary": "Israel's newly elected Knesset was sworn in on Tuesday. Gadi Eisenkot, a former military chief, set out an agenda to reverse policies of Prime Minister Benjamin Netanyahu and proposed an inquiry into the October 7, 2023 attack. He has not yet assembled a governing coalition.",
+      "why_it_matters": "Whether Eisenkot can form a government will decide if Netanyahu's long tenure ends and which direction Israel takes on its courts, its wars and an official inquiry into October 7.",
+      "background": "Israel recently held a national election. According to Deutsche Welle, the new parliament is dominated by critics of Netanyahu, who remains prime minister until a new government is formed. Eisenkot, a former chief of the Israeli military who leads the Yashar party, is trying to assemble a majority coalition. A state inquiry into the failures around the Hamas-led attack of October 7, 2023 has been a long-running demand of opposition parties and victims' families.",
+      "facts": [
+        {
+          "text": "Israel's new parliament was sworn in on Tuesday while Eisenkot worked to forge a government.",
+          "refs": [
+            "c91ab28300",
+            "5b0bb03884"
+          ]
+        },
+        {
+          "text": "Eisenkot unveiled an agenda to reverse Netanyahu's policies.",
+          "refs": [
+            "5b0bb03884"
+          ]
+        },
+        {
+          "text": "Eisenkot proposed an inquiry into October 7 and has yet to form a coalition, although critics of Netanyahu dominate the new Knesset, Deutsche Welle reported.",
+          "refs": [
+            "e98485fc7a"
+          ]
+        },
+        {
+          "text": "Eisenkot said a speech by Netanyahu left him more certain that the prime minister is unfit for office, the Times of Israel reported.",
+          "refs": [
+            "25a477d4ec"
+          ]
+        },
+        {
+          "text": "Eisenkot has said he would use the parliamentary majority opposed to Netanyahu to repeal the judicial overhaul and advance an October 7 inquiry.",
+          "refs": [
+            "world-w7"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "c91ab28300",
+          "note": "Frames the day around the swearing-in and the unfinished coalition effort."
+        },
+        {
+          "ref": "5b0bb03884",
+          "note": "Leads with Eisenkot's plan to reverse Netanyahu's policies."
+        },
+        {
+          "ref": "25a477d4ec",
+          "note": "Puts the personal clash in the headline, quoting Eisenkot's criticism of Netanyahu's speech."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "c91ab28300",
+          "takeaway": "Headline only: swearing-in and Eisenkot's attempt to form a government.",
+          "read_full": false
+        },
+        {
+          "ref": "5b0bb03884",
+          "takeaway": "Headline only: Eisenkot's agenda to undo Netanyahu's policies.",
+          "read_full": false
+        },
+        {
+          "ref": "e98485fc7a",
+          "takeaway": "Reports the proposed October 7 probe and that no coalition exists yet.",
+          "read_full": false
+        },
+        {
+          "ref": "25a477d4ec",
+          "takeaway": "Headline only: Eisenkot's response to Netanyahu's speech.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "el-salvador-haiti-gang-offensive",
+      "headline": "El Salvador says its troops destroyed a Haitian gang's headquarters",
+      "region": "Americas",
+      "importance": 3,
+      "summary": "El Salvador's president, Nayib Bukele, said his military destroyed the headquarters of Haiti's 400 Mawozo gang. The Dominican Republic's president said his government is giving the Salvadoran force logistics and intelligence. Axios reported that State Department officials have raised objections to the operation even though President Trump has backed it.",
+      "why_it_matters": "A foreign army is now fighting gangs inside Haiti with outside backing, which affects the safety of Haitians and could shape migration and security across the Caribbean.",
+      "background": "Haiti is in a gang violence crisis, and 400 Mawozo is one of its best-known gangs. El Salvador's president, Nayib Bukele, sent special forces to Haiti in October after four Salvadoran soldiers went missing in an attack, and the deployment has since grown to about 2,500 troops. Axios reported in late October that President Trump had approved the troop increase. The Washington Post describes the offensive as a political gamble for Bukele ahead of an election.",
+      "facts": [
+        {
+          "text": "Bukele said the headquarters of the 400 Mawozo gang was destroyed by El Salvador's military, the BBC reported.",
+          "refs": [
+            "9a43c86cef",
+            "8cd544d5b8"
+          ]
+        },
+        {
+          "text": "About 2,500 Salvadoran troops are fighting gangs in Haiti, according to the Associated Press.",
+          "refs": [
+            "c510987609"
+          ]
+        },
+        {
+          "text": "The Dominican president said his government backs Bukele and is providing logistics and intelligence.",
+          "refs": [
+            "c510987609",
+            "997143fb4f"
+          ]
+        },
+        {
+          "text": "State Department officials have raised objections to El Salvador's campaign, according to diplomatic notes and sources cited by Axios, and El Salvador issued a formal rebuke on Monday.",
+          "refs": [
+            "c2012605d5"
+          ]
+        },
+        {
+          "text": "El Salvador sent special forces to Haiti in October to help find four soldiers who went missing after coming under attack.",
+          "refs": [
+            "world-w8"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Where the US government stands on the operation",
+          "positions": [
+            {
+              "claim": "President Trump has offered his full support, Axios reported.",
+              "refs": [
+                "c2012605d5",
+                "world-w9"
+              ]
+            },
+            {
+              "claim": "State Department officials have quietly raised objections, according to diplomatic notes and sources cited by Axios.",
+              "refs": [
+                "c2012605d5"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "9a43c86cef",
+          "note": "Attributes the claim of destruction to Bukele rather than stating it outright."
+        },
+        {
+          "ref": "8cd544d5b8",
+          "note": "States as fact that the headquarters was \"blown up\"."
+        },
+        {
+          "ref": "98eb605782",
+          "note": "Casts the offensive as a political gamble tied to an election."
+        },
+        {
+          "ref": "c2012605d5",
+          "note": "Focuses on the rift between El Salvador and the State Department."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "9a43c86cef",
+          "takeaway": "Reports Bukele's claim and the scale of the Salvadoran deployment.",
+          "read_full": false
+        },
+        {
+          "ref": "8cd544d5b8",
+          "takeaway": "Headline only (paywalled): says the headquarters was blown up.",
+          "read_full": false
+        },
+        {
+          "ref": "c2012605d5",
+          "takeaway": "Own reporting on State Department objections and El Salvador's rebuke.",
+          "read_full": false
+        },
+        {
+          "ref": "c510987609",
+          "takeaway": "Carries the AP report on Dominican support and the troop figure.",
+          "read_full": false
+        },
+        {
+          "ref": "997143fb4f",
+          "takeaway": "Headline only: the Dominican president's backing.",
+          "read_full": false
+        },
+        {
+          "ref": "98eb605782",
+          "takeaway": "Headline only (paywalled): the offensive as an election-season gamble for Bukele.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "najib-house-arrest",
+      "headline": "Malaysia's ex-leader Najib Razak leaves prison for house arrest",
+      "region": "Asia-Pacific",
+      "importance": 2,
+      "summary": "Former Malaysian prime minister Najib Razak was moved from prison to his home to serve the rest of his corruption sentence, after a court cleared the last obstacle to a transfer granted through a royal pardon decision. A government minister resigned in protest. Najib still faces a separate 15-year sentence tied to the same scandal.",
+      "why_it_matters": "The case is a test of whether a powerful politician convicted in one of the world's largest financial scandals serves his punishment like anyone else.",
+      "background": "Najib Razak is a former prime minister of Malaysia who was brought down by the 1MDB scandal, in which billions of dollars were looted from a state investment fund. He was convicted of corruption and has been in prison since August 2022. In September, Malaysia's king allowed him to serve the remainder of that sentence under house arrest. Transport Minister Anthony Loke had said he would resign over the decision.",
+      "facts": [
+        {
+          "text": "A Malaysian court cleared the final hurdle for Najib's transfer, and he was moved from prison to house arrest to serve the rest of his graft sentence.",
+          "refs": [
+            "d433119dfa",
+            "f2414ff08a",
+            "782e8bc93a"
+          ]
+        },
+        {
+          "text": "Najib had been behind bars since August 2022 over a conviction linked to the 1MDB fund.",
+          "refs": [
+            "d433119dfa"
+          ]
+        },
+        {
+          "text": "A minister resigned in protest, and Najib still faces a separate 15-year prison sentence, Deutsche Welle reported.",
+          "refs": [
+            "502695b199"
+          ]
+        },
+        {
+          "text": "Malaysia's king allowed Najib in September to serve the rest of his sentence under house arrest.",
+          "refs": [
+            "world-w10"
+          ]
+        },
+        {
+          "text": "Transport Minister Anthony Loke had said he would resign following the pardons board's decision.",
+          "refs": [
+            "world-w11"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "782e8bc93a",
+          "note": "Says he was \"released\" and will serve his sentence \"in his mansion\"."
+        },
+        {
+          "ref": "502695b199",
+          "note": "Balances the return home with the separate 15-year sentence still ahead."
+        },
+        {
+          "ref": "af3344dfb7",
+          "note": "Stresses the restrictions he will live under at home, and calls him corrupt."
+        },
+        {
+          "ref": "d433119dfa",
+          "note": "Sticks to the court procedure."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "d433119dfa",
+          "takeaway": "Court decision and background on the 2022 imprisonment.",
+          "read_full": false
+        },
+        {
+          "ref": "f2414ff08a",
+          "takeaway": "Carries the AP report on the transfer.",
+          "read_full": false
+        },
+        {
+          "ref": "782e8bc93a",
+          "takeaway": "Headline and summary only (paywalled): release to his home.",
+          "read_full": false
+        },
+        {
+          "ref": "502695b199",
+          "takeaway": "Adds the minister's resignation and the separate 15-year sentence.",
+          "read_full": false
+        },
+        {
+          "ref": "af3344dfb7",
+          "takeaway": "Summary only (paywalled): conditions of the house arrest, per a member of his party.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "world-w1",
+      "url": "https://www.wam.ae/en/article/c34wh7d-congo-ebola-deaths-rise-5198-cases-10668",
+      "title": "DR Congo Ebola deaths rise to 5,198, cases to 10,668",
+      "outlet": "WAM"
+    },
+    {
+      "id": "world-w2",
+      "url": "https://who.int/emergencies/disease-outbreak-news/item/2026-DON618",
+      "title": "Disease Outbreak News: Ebola disease, Democratic Republic of the Congo",
+      "outlet": "World Health Organization"
+    },
+    {
+      "id": "world-w3",
+      "url": "https://kuwaittimes.com/article/51196/world/spanish-unions-call-nov-11-general-strike-over-housing-wages/",
+      "title": "Spanish unions call Nov 11 general strike over housing, wages",
+      "outlet": "Kuwait Times"
+    },
+    {
+      "id": "world-w4",
+      "url": "https://www.idealista.com/en/news/legal-advice-in-spain/2026/10/09/917678-spain-general-strike-over-housing-crisis-set-for-11-november",
+      "title": "Spain general strike over housing crisis set for 11 November",
+      "outlet": "Idealista"
+    },
+    {
+      "id": "world-w5",
+      "url": "https://www.ctvnews.ca/world/article/us-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack/",
+      "title": "US Air Force removes all bombers from British air base targeted by a suspected terror attack",
+      "outlet": "CTV News"
+    },
+    {
+      "id": "world-w6",
+      "url": "https://www.ynetnews.com/article/syzipcelbl",
+      "title": "Russia, Ukraine and US hold first trilateral talks on ending war in Abu Dhabi",
+      "outlet": "Ynetnews"
+    },
+    {
+      "id": "world-w7",
+      "url": "https://www.i24news.tv/en/news/israel/politics/artc-eisenkot-vows-to-use-knesset-majority-to-repeal-judicial-overhaul-advance-october-7-inquiry",
+      "title": "Eisenkot vows to use Knesset majority to repeal judicial overhaul, advance October 7 inquiry",
+      "outlet": "i24NEWS"
+    },
+    {
+      "id": "world-w8",
+      "url": "https://www.clickorlando.com/news/world/2026/10/22/el-salvador-deploys-special-forces-to-haiti-to-help-find-4-missing-soldiers-who-came-under-attack/",
+      "title": "El Salvador deploys special forces to Haiti to help find 4 missing soldiers who came under attack",
+      "outlet": "Associated Press via ClickOrlando"
+    },
+    {
+      "id": "world-w9",
+      "url": "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge",
+      "title": "Scoop: Trump blesses El Salvador strongman's troop surge in Haiti",
+      "outlet": "Axios"
+    },
+    {
+      "id": "world-w10",
+      "url": "https://www.ajc.com/news/2026/09/malaysias-king-allows-former-leader-najib-to-serve-rest-of-his-graft-sentence-under-house-arrest/",
+      "title": "Malaysia's king allows former leader Najib to serve rest of his graft sentence under house arrest",
+      "outlet": "Associated Press via AJC"
+    },
+    {
+      "id": "world-w11",
+      "url": "https://www.thevibes.com/index.php/articles/news/127474/loke-to-resign-as-transport-minister-following-pardons-boards-decision",
+      "title": "Loke to resign as transport minister following pardons board's decision",
+      "outlet": "The Vibes"
+    }
+  ]
+}

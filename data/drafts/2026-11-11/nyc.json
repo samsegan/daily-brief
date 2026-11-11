@@ -1,0 +1,194 @@
+{
+  "stories": [
+    {
+      "id": "mamdani-signs-copa",
+      "headline": "Mamdani signs law giving nonprofits the first chance to buy distressed apartment buildings",
+      "region": "City Hall",
+      "importance": 5,
+      "summary": "Mayor Zohran Mamdani on Tuesday signed the Community Opportunity to Purchase Act, known as COPA. The law gives nonprofit housing groups the first opportunity to buy certain distressed and affordable apartment buildings when they come up for sale. An earlier version was vetoed by former Mayor Eric Adams.",
+      "why_it_matters": "The law changes how some troubled rental buildings can be sold, which affects tenants living in them and owners trying to sell. Supporters and opponents disagree about whether it will preserve affordable housing or slow down sales.",
+      "background": "COPA is a City Council bill that requires owners of certain residential buildings to give qualified nonprofit housing organizations a first chance to make an offer before selling on the open market. Brooklyn Paper describes the signing as the end of a six-year legislative fight. A previous version passed the Council and was vetoed by then-Mayor Eric Adams; Mamdani backed a revived version early this year, and the Council passed it in late October. Real estate groups have opposed the measure, and several outlets describe it as controversial.",
+      "facts": [
+        { "text": "Mayor Zohran Mamdani signed the Community Opportunity to Purchase Act into law on Tuesday, Nov. 10.", "refs": ["b9e5101cbe", "e509ae9783", "a200b70ec8"] },
+        { "text": "The law gives nonprofit housing organizations the first opportunity to purchase certain distressed residential buildings.", "refs": ["b9e5101cbe", "e509ae9783"] },
+        { "text": "Brooklyn Paper reported that the law also covers certain affordable apartment buildings and that the bill survived a veto by former Mayor Eric Adams and months of negotiations.", "refs": ["b9e5101cbe"] },
+        { "text": "The City Council passed the bill in late October by a vote of 38-9, according to trade and local reports at the time.", "refs": ["nyc-w1", "nyc-w2"] },
+        { "text": "Mamdani publicly supported reviving the bill in February after Adams' veto.", "refs": ["nyc-w3"] },
+        { "text": "The New York Post reported that COPA is the second bill Mamdani has signed in his 11 months in office.", "refs": ["e509ae9783"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "b9e5101cbe", "note": "Emphasizes nonprofits getting a 'first shot' at 'troubled' buildings and the long legislative fight." },
+        { "ref": "e509ae9783", "note": "Calls the law 'controversial' in its summary and uses 'first dibs', stressing the advantage handed to nonprofits." },
+        { "ref": "416b0d3921", "note": "Labels the measure 'controversial housing legislation' without saying what it does." },
+        { "ref": "a200b70ec8", "note": "Adopts supporters' language, with 'predatory' in quotation marks, presenting the bill as a shield against investors." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "b9e5101cbe", "takeaway": "Headline and feed summary only: signing story that stresses the six-year history and the Adams veto.", "read_full": false },
+        { "ref": "e509ae9783", "takeaway": "Headline and feed summary only: calls the law controversial and notes how few bills the mayor has signed.", "read_full": false },
+        { "ref": "416b0d3921", "takeaway": "Headline only: a live video of the signing, described as controversial.", "read_full": false },
+        { "ref": "a200b70ec8", "takeaway": "Headline only: frames the bill as protection from 'predatory' investors.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "city-budget-new-taxes",
+      "headline": "City budget leans on Wall Street revenue as pressure builds for new taxes",
+      "region": "City Hall",
+      "importance": 4,
+      "summary": "THE CITY reports that the $127 billion city budget is being held up by Wall Street tax revenue while support grows for new taxes. Mayor Zohran Mamdani spoke about a second pied-a-terre tax, according to the New York Sun, and the New York Times reports that Democrats' supermajority in Albany could set up a conflict with Gov. Kathy Hochul over raising taxes. Mamdani is also opening contract talks with District Council 37, the city's largest municipal union.",
+      "why_it_matters": "Decisions on taxes and labor contracts shape what city services cost and who pays for them. Each of these reports comes from a single outlet, so the details rest on that outlet's own reporting.",
+      "background": "Mamdani and the City Council agreed on a $127 billion budget in June for the fiscal year that began July 1. THE CITY reports that the budget balanced with the help of state aid and what it calls fiscal gimmicks. Mamdani campaigned on raising taxes on high earners and corporations, which requires approval from Albany; NYS Focus reported in May that the state budget included a pied-a-terre tax on second homes worth $5 million or more but none of the income or corporate tax increases he sought. The Times describes Gov. Kathy Hochul as a moderate who could face pressure from the Legislature's Democrats on taxes.",
+      "facts": [
+        { "text": "Mayor Mamdani and the City Council agreed on a $127 billion budget in June for the fiscal year that began July 1, THE CITY reported.", "refs": ["4b2d07a94b"] },
+        { "text": "THE CITY reported that the budget was balanced with a large amount of state aid and what the outlet called fiscal gimmicks, and that Wall Street revenue is now supporting it.", "refs": ["4b2d07a94b"] },
+        { "text": "The New York Sun reported that Mamdani discussed a second pied-a-terre tax and said the 'wealthiest city' in the world can afford 'to deliver dignity'.", "refs": ["09c73d3b9b"] },
+        { "text": "The state budget enacted this spring included a pied-a-terre tax on non-primary residences valued at $5 million or more and none of the personal income or corporate tax increases Mamdani had sought, NYS Focus reported in May.", "refs": ["nyc-w4"] },
+        { "text": "The mayor's office said in May that its executive budget assumed $500 million from a tax on second homes valued above $5 million.", "refs": ["nyc-w5"] },
+        { "text": "The New York Times reported that Democratic socialists have expanded their influence in New York and that Democrats' legislative supermajority could lead to a conflict with Gov. Hochul over raising taxes.", "refs": ["bcad2588e2"] },
+        { "text": "Mamdani is beginning contract talks with District Council 37, the city's largest municipal union, whose leader is seeking worker protections against artificial intelligence, the Times reported.", "refs": ["3ef5c9fe38"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "4b2d07a94b", "note": "Says the budget 'floats' on Wall Street cash, stressing dependence on one volatile revenue source." },
+        { "ref": "09c73d3b9b", "note": "Builds the headline on the mayor's own quotes and labels the idea 'Pied-a-Terre Tax 2'." },
+        { "ref": "bcad2588e2", "note": "Poses the tax question as whether Democrats will 'push Hochul to the left'." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "4b2d07a94b", "takeaway": "Headline and feed summary only: fiscal analysis of how the budget balanced and the push for new taxes.", "read_full": false },
+        { "ref": "09c73d3b9b", "takeaway": "Headline only: the mayor's comments on a second pied-a-terre tax.", "read_full": false },
+        { "ref": "bcad2588e2", "takeaway": "Headline and summary only (paywalled): the Albany supermajority and a possible clash with Hochul on taxes.", "read_full": false },
+        { "ref": "3ef5c9fe38", "takeaway": "Headline and summary only (paywalled): DC37 contract talks open, with AI protections on the union's list.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "central-park-rape-arrest",
+      "headline": "Man accused of three Central Park rapes is arrested in Miami",
+      "region": "Manhattan",
+      "importance": 4,
+      "summary": "Dereck Rivera-Deleon, accused of raping a woman in Central Park in October, was taken into custody Tuesday at a Burger King in the Miami area, police said. Police say he will also be charged in two earlier rapes in the park, in 2021 and 2023.",
+      "why_it_matters": "The arrest concerns a series of attacks over five years in the city's most visited park. The charges are allegations that have not been tested in court.",
+      "background": "A woman reported being raped in Central Park in October. Police identified Dereck Rivera-Deleon as the suspect and say they have linked him to two earlier rapes in the park, in 2021 and 2023. He was found in Florida, where Fox News reports he was working at a Burger King in Miami Beach. The NYPD and the U.S. Marshals Service were involved in the search.",
+      "facts": [
+        { "text": "Dereck Rivera-Deleon was taken into custody on Tuesday, Nov. 10, in the Miami area.", "refs": ["2db6123893", "8ff0485027", "d7ab2f7224"] },
+        { "text": "Police said he is accused of raping a woman in Central Park in October and will also be charged in rapes in the park in 2021 and 2023.", "refs": ["2db6123893", "c751f58f84", "9ad51899ac"] },
+        { "text": "He was taken into custody at a Burger King; Fox News reported that he was working at the restaurant in Miami Beach.", "refs": ["2db6123893", "d7ab2f7224"] },
+        { "text": "The New York Times reported that NYPD detectives and the U.S. Marshals apprehended him; Fox News described the arrest as made by local police and U.S. Marshals.", "refs": ["8ff0485027", "d7ab2f7224"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "2db6123893", "note": "Leads with the October case and the Burger King location, and attributes the account to the NYPD." },
+        { "ref": "d7ab2f7224", "note": "Calls him an 'NYC man' and puts all three alleged rapes and the Burger King in the headline." },
+        { "ref": "8ff0485027", "note": "Uses 'detained' and 'accused', and leaves the location detail out of the headline." },
+        { "ref": "c751f58f84", "note": "Stresses the link to two additional rapes and calls the park 'iconic'." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2db6123893", "takeaway": "Headline and feed summary only: names the suspect and the 2021 and 2023 cases, citing police.", "read_full": false },
+        { "ref": "8ff0485027", "takeaway": "Headline and summary only (paywalled): credits NYPD detectives and U.S. Marshals with the arrest.", "read_full": false },
+        { "ref": "d7ab2f7224", "takeaway": "Headline and feed summary only: says he was working at a Miami Beach Burger King when arrested.", "read_full": false },
+        { "ref": "c751f58f84", "takeaway": "Headline only: arrest in Miami and a link to two additional rapes.", "read_full": false },
+        { "ref": "9ad51899ac", "takeaway": "Headline only: national pickup counting three women.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "rikers-ninth-death",
+      "headline": "Rikers detainee found dead, the ninth death in city jail custody this year",
+      "region": "Rikers Island",
+      "importance": 3,
+      "summary": "Cesar Gabriel Medero Curet, 36, was found dead in his bed at a Rikers Island jail on Tuesday morning. He had been held since March awaiting trial on an attempted murder charge. Outlets count his death as the ninth in Department of Correction custody this year.",
+      "why_it_matters": "Deaths in custody are a recurring measure of conditions in the city's jails, and this detainee was awaiting trial and had not been convicted. In the digest only left-leaning and center outlets covered this death.",
+      "background": "Rikers Island is the city's main jail complex, run by the Department of Correction. Deaths in custody are tracked by news outlets, advocates and oversight bodies each year; an advocacy group counted at least 14 in 2025. Medero Curet was arrested on March 7 and, according to THE CITY and amNY, was charged in connection with an assault in the subway.",
+      "facts": [
+        { "text": "Cesar Gabriel Medero Curet, 36, was found dead in his bed on Rikers Island on Tuesday morning, Nov. 10.", "refs": ["788bb142ad", "4db2ddacab", "a4b08e180f"] },
+        { "text": "A correction officer found him at the Robert N. Davoren Center, amNY reported.", "refs": ["4db2ddacab"] },
+        { "text": "He was awaiting trial on an attempted murder charge after a March 7 arrest.", "refs": ["788bb142ad", "7d735a6f0d"] },
+        { "text": "His death is the ninth in city jail custody so far this year; Gothamist describes it as at least the ninth.", "refs": ["788bb142ad", "4db2ddacab", "7d735a6f0d", "a4b08e180f"] },
+        { "text": "The Katal Center, an advocacy group, counted a 14th death in city jail custody in December 2025.", "refs": ["nyc-w6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "788bb142ad", "note": "Leads with the running count of deaths and identifies him as a detainee awaiting trial." },
+        { "ref": "4db2ddacab", "note": "Identifies him first as a 'subway assault suspect'." },
+        { "ref": "7d735a6f0d", "note": "Identifies him by the charge, 'held for attempted murder'." },
+        { "ref": "a4b08e180f", "note": "Adds 'at least' to the count, signaling the tally may be incomplete." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "788bb142ad", "takeaway": "Headline and feed summary only: first report, with the charge and the March 7 arrest date.", "read_full": false },
+        { "ref": "4db2ddacab", "takeaway": "Headline and feed summary only: names the jail building and says a correction officer found him.", "read_full": false },
+        { "ref": "7d735a6f0d", "takeaway": "Headline only: the charge and the ninth-death count.", "read_full": false },
+        { "ref": "a4b08e180f", "takeaway": "Headline and feed summary only: cites officials and says 'at least' the ninth death.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "home-care-wage-settlement",
+      "headline": "Judge finalizes $162 million lost-wages settlement for downstate home care aides",
+      "region": "",
+      "importance": 3,
+      "summary": "A federal judge on Tuesday finalized a $162 million class action settlement covering about 200,000 home care workers in the downstate region, amNY reports. The money is to be paid by Public Partnerships LLC, the company that runs payroll for New York's consumer-directed home care program, over wages workers said were late or wrong.",
+      "why_it_matters": "About 200,000 home aides in New York City, Long Island and Westchester are in line for payments. Only one outlet in the digest reported the final approval.",
+      "background": "New York's Medicaid-funded consumer-directed home care program lets people who need care hire their own aides. Public Partnerships LLC, known as PPL, is the statewide payroll intermediary for the program. Workers sued in federal court, saying PPL paid them late and inaccurately; the Legal Aid Society and the law firm Katz Banks Kumin represent them. The two sides reached a proposed $162 million settlement that received preliminary court approval on July 1.",
+      "facts": [
+        { "text": "A federal judge finalized a $162 million class action settlement on Tuesday, Nov. 10, between Public Partnerships LLC and about 200,000 downstate home care workers, amNY reported.", "refs": ["ef365ddc7a"] },
+        { "text": "The settlement received preliminary approval on July 1, and the Legal Aid Society said then that it would be among the largest lost-wage class action settlements in New York history if finalized.", "refs": ["nyc-w7", "nyc-w8"] },
+        { "text": "The class covers personal assistants paid through PPL who worked in New York City, Long Island and Westchester between March 1, 2025 and April 30, 2026, according to the settlement notice.", "refs": ["nyc-w7", "nyc-w9"] },
+        { "text": "The agreement consists of a $157.5 million payment and a $4.5 million reserve fund, according to reports on the proposed settlement in July.", "refs": ["nyc-w8"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "ef365ddc7a", "note": "Calls the settlement 'historic' in its summary and describes the money as 'lost wages'." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ef365ddc7a", "takeaway": "Headline and feed summary only: the sole ingested report of final approval, with the dollar figure and class size.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "suarez-murder-indictment",
+      "headline": "Grand jury indicts man on murder charge in stabbing of Brooklyn runner Katie Suarez",
+      "region": "Brooklyn",
+      "importance": 3,
+      "summary": "A Brooklyn grand jury indicted Sayed Mohassib, 27, on a second-degree murder charge in the Oct. 30 stabbing death of Katie Suarez, District Attorney Eric Gonzalez announced Tuesday. Prosecutors say Suarez was killed while running on a waterfront path in Bath Beach. Mohassib was arrested Saturday.",
+      "why_it_matters": "The killing of a runner on a public waterfront path drew wide attention in Brooklyn, and the indictment moves the case toward trial. The charge is an allegation; in the digest it was covered by left-leaning and center outlets only.",
+      "background": "Katie Suarez was fatally stabbed on Oct. 30 while jogging along the Brooklyn waterfront in Bath Beach. Police arrested Sayed Mohassib, 27, on Saturday, Nov. 7. Brooklyn Paper identifies him as a teacher's aide. The Brooklyn District Attorney's office, led by Eric Gonzalez, presented the case to a grand jury, which returned the indictment announced Tuesday.",
+      "facts": [
+        { "text": "A grand jury indicted Sayed Mohassib, 27, on a murder charge in the killing of Katie Suarez.", "refs": ["971c488779", "ee3ed28833", "6eb24d0b01"] },
+        { "text": "The charge is second-degree murder, and Brooklyn District Attorney Eric Gonzalez announced the indictment on Tuesday, Brooklyn Paper reported.", "refs": ["971c488779"] },
+        { "text": "Prosecutors say Suarez was stabbed on Oct. 30 on a waterfront running path in Bath Beach.", "refs": ["ee3ed28833", "971c488779"] },
+        { "text": "Mohassib was arrested on Saturday, Gothamist reported.", "refs": ["ee3ed28833"] },
+        { "text": "Brooklyn Paper identified Mohassib as a teacher's aide.", "refs": ["971c488779"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "ee3ed28833", "note": "Plain wording: 'man indicted', with the claims attributed to prosecutors." },
+        { "ref": "971c488779", "note": "Puts the defendant's job as a teacher's aide in the headline and calls the killing 'senseless' in its summary." },
+        { "ref": "6eb24d0b01", "note": "Calls him the 'suspect' and gives the victim's name as Kate rather than Katie." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "971c488779", "takeaway": "Headline and feed summary only: the DA's announcement, the charge and the defendant's occupation.", "read_full": false },
+        { "ref": "ee3ed28833", "takeaway": "Headline and feed summary only: the date, location and arrest day, citing prosecutors.", "read_full": false },
+        { "ref": "6eb24d0b01", "takeaway": "Headline only: grand jury indictment on a murder charge.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "nyc-w1", "url": "https://www.bisnow.com/news/new-york/multifamily/copa-passes-city-council-heads-to-mamdani-s-desk", "title": "COPA Passes City Council, Heads To Mamdani's Desk", "outlet": "Bisnow" },
+    { "id": "nyc-w2", "url": "https://www.brickunderground.com/buy/community-opportunity-purchase-act-copa-passes-nyc-city-council", "title": "Community Opportunity to Purchase Act (COPA) passes NYC City Council", "outlet": "Brick Underground" },
+    { "id": "nyc-w3", "url": "https://politicsny.com/2026/02/18/mamdani-co-signs-comeback-of-nonprofit-property-copa-bill-vetoed-by-adams/", "title": "Mamdani co-signs comeback of nonprofit property COPA bill vetoed by Adams", "outlet": "PoliticsNY" },
+    { "id": "nyc-w4", "url": "https://nysfocus.com/2026/05/27/new-york-state-budget-city-aid-mamdani-hochul", "title": "Mamdani Gets a New York City Bailout, but Not the One He Wanted", "outlet": "New York Focus" },
+    { "id": "nyc-w5", "url": "https://www.nyc.gov/kr/mayors-office/news/2026/05/mayor-zohran-mamdani-releases--124-7-billion-executive-budget-fo", "title": "Mayor Zohran Mamdani releases $124.7 billion executive budget", "outlet": "NYC Mayor's Office" },
+    { "id": "nyc-w6", "url": "https://katalcenter.org/2025/12/man-dies-at-nycs-rikers-island-marking-14th-death-this-year/", "title": "Man dies at NYC's Rikers Island, marking 14th death this year", "outlet": "Katal Center" },
+    { "id": "nyc-w7", "url": "https://legalaidnyc.org/wp-content/uploads/2026/07/260701-calderon-Bench-Release-Copy.pdf", "title": "Calderon v. Public Partnerships: preliminary approval of $162 million settlement (press release)", "outlet": "The Legal Aid Society" },
+    { "id": "nyc-w8", "url": "https://homehealthcarenews.com/2026/07/ppl-proposed-162m-settlement-ny-cdpap-caregivers/", "title": "PPL proposed $162M settlement with New York CDPAP caregivers", "outlet": "Home Health Care News" },
+    { "id": "nyc-w9", "url": "https://legalaidnyc.org/notice/calderon-v-public-partnerships-llc-class-action-settlement-notice/", "title": "Calderon v. Public Partnerships, LLC class action settlement notice", "outlet": "The Legal Aid Society" }
+  ]
+}
