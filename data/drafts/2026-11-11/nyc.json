@@ -1,0 +1,190 @@
+{
+  "stories": [
+    {
+      "id": "mamdani-signs-copa",
+      "headline": "Mamdani signs law giving nonprofits first chance to buy distressed buildings",
+      "region": "City Hall",
+      "importance": 5,
+      "summary": "Mayor Zohran Mamdani on Tuesday signed the Community Opportunity to Purchase Act (COPA), which gives nonprofit housing groups the first opportunity to buy certain distressed and affordable apartment buildings when they go up for sale. The signing ends a fight of about six years that included a veto by former Mayor Eric Adams. Real estate groups have opposed the measure, while supporters describe it as protection against speculative investors.",
+      "why_it_matters": "Tenants in rundown or rent-regulated buildings could see more of them pass to nonprofit owners, while landlords selling such buildings face a new step before a sale. Coverage in the ingest came from center and right-leaning outlets; no left-leaning outlet in the bundle covered the signing.",
+      "background": "COPA requires owners of covered buildings to notify qualified nonprofits before selling, similar to policies in Washington, D.C. and San Francisco, according to industry summaries of the bill. The City Council bill, introduced as Intro 902, went through several rounds of amendments after real estate groups warned it would slow building sales. The landlord group New York Apartment Association testified against it. Brooklyn Paper reports that the bill survived a veto by Mayor Eric Adams and months of negotiation before reaching Mamdani, a democratic socialist who took office in January 2026.",
+      "facts": [
+        { "text": "Mayor Zohran Mamdani signed the Community Opportunity to Purchase Act on Tuesday, Nov. 10.", "refs": ["b9e5101cbe", "e509ae9783"] },
+        { "text": "The law gives nonprofit housing organizations the first opportunity to purchase certain distressed and affordable residential buildings.", "refs": ["b9e5101cbe", "e509ae9783"] },
+        { "text": "Brooklyn Paper reports the legislative fight lasted six years and the bill survived a veto by former Mayor Eric Adams.", "refs": ["b9e5101cbe"] },
+        { "text": "The New York Post reports COPA is only the second bill Mamdani has signed in his 11 months in office.", "refs": ["e509ae9783"] },
+        { "text": "The New York Apartment Association, which represents landlords, submitted testimony opposing the bill.", "refs": ["nyc-w1"] },
+        { "text": "Bisnow reported that the Council narrowed the bill after real estate interests warned it could be a 'death knell' for sales.", "refs": ["nyc-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "b9e5101cbe", "note": "Neutral, descriptive wording: nonprofits get a 'first shot' at 'troubled' buildings." },
+        { "ref": "e509ae9783", "note": "Calls the law 'controversial' and uses the informal 'first dibs', emphasizing advantage to nonprofits." },
+        { "ref": "a200b70ec8", "note": "Adopts supporters' framing: the bill 'shields' housing from 'predatory' investors, in quotation marks." },
+        { "ref": "416b0d3921", "note": "Live-stream headline that labels the measure 'controversial housing legislation' without naming it." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "b9e5101cbe", "takeaway": "Most detailed summary: explains who gets first purchase rights and recounts the six-year fight and Adams veto.", "read_full": false },
+        { "ref": "e509ae9783", "takeaway": "Frames the law as controversial and notes how few bills Mamdani has signed.", "read_full": false },
+        { "ref": "a200b70ec8", "takeaway": "Headline only; describes the law as protection from 'predatory' investors.", "read_full": false },
+        { "ref": "416b0d3921", "takeaway": "Headline only; a live video of the signing.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "rikers-ninth-death-2026",
+      "headline": "Ninth person dies in city jail custody this year after Rikers detainee found dead",
+      "region": "Jails",
+      "importance": 4,
+      "summary": "Cesar Gabriel Medero Curet, 36, was found dead in his bed at Rikers Island's Robert N. Davoren Center on Tuesday morning, Nov. 10. He was awaiting trial on an attempted murder charge. Four outlets report he is the ninth person to die in Department of Correction custody in 2026. No cause of death was reported.",
+      "why_it_matters": "Rikers is now run day to day under a federal court-appointed manager. Each death adds pressure on the city and the court over jail conditions, and on the court-appointed manager overseeing the jails.",
+      "background": "Rikers Island is New York City's main jail complex. After years of violence and deaths, a federal judge, Laura Swain, took the unusual step of putting a court-appointed remediation manager in charge. In January 2026 she named Nicholas Deml, a former Vermont corrections chief, to the role. Fifteen people died in city jail custody in 2025, according to the Queens Eagle.",
+      "facts": [
+        { "text": "Cesar Gabriel Medero Curet, 36, was found dead in his bed on Tuesday morning, Nov. 10.", "refs": ["788bb142ad", "4db2ddacab", "a4b08e180f"] },
+        { "text": "A correction officer found him at the Robert N. Davoren Center on Rikers Island, amNY reported.", "refs": ["4db2ddacab"] },
+        { "text": "He was awaiting trial on an attempted murder charge; THE CITY and amNY report he was arrested in March over an alleged subway assault.", "refs": ["788bb142ad", "4db2ddacab", "7d735a6f0d"] },
+        { "text": "His is the ninth death in Department of Correction custody in 2026.", "refs": ["788bb142ad", "4db2ddacab", "7d735a6f0d", "a4b08e180f"] },
+        { "text": "Federal Judge Laura Swain named Nicholas Deml to take control of Rikers operations as remediation manager in January 2026.", "refs": ["nyc-w3"] },
+        { "text": "Fifteen people died in city jail custody in 2025, according to the Queens Eagle.", "refs": ["nyc-w4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "788bb142ad", "note": "Leads with the yearly toll and marks the death as THE CITY's own scoop." },
+        { "ref": "4db2ddacab", "note": "Identifies the man first as a 'subway assault suspect' before noting the death count." },
+        { "ref": "a4b08e180f", "note": "Says 'at least' the ninth, signaling the count may be incomplete." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "788bb142ad", "takeaway": "Broke the news; gives name, age, charge and arrest date.", "read_full": false },
+        { "ref": "4db2ddacab", "takeaway": "Adds the facility and that a correction officer found him.", "read_full": false },
+        { "ref": "7d735a6f0d", "takeaway": "Headline only; stresses the attempted-murder charge and the ninth death.", "read_full": false },
+        { "ref": "a4b08e180f", "takeaway": "Short item citing officials; frames the count as a minimum.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "central-park-rape-suspect-arrest",
+      "headline": "Suspect in Central Park rapes arrested in Miami area",
+      "region": "Manhattan",
+      "importance": 4,
+      "summary": "NYPD detectives and U.S. Marshals arrested Dereck Rivera-Deleon in the Miami area on Tuesday in connection with an October rape in Central Park. Police say he will also be charged in two earlier rapes in the park, in 2021 and 2023. Outlets report he was working at a Burger King when he was taken into custody.",
+      "why_it_matters": "The arrest links one suspect to three attacks in the city's most visited park over five years, a case that had raised safety worries for park users.",
+      "background": "A woman was raped in Central Park in October, and the NYPD sought a suspect. Police have now connected that attack to two earlier unsolved rapes in the park, from 2021 and 2023. Rivera-Deleon was found in Florida. The case was covered across the spectrum, from local outlets to CNN and Fox News.",
+      "facts": [
+        { "text": "Dereck Rivera-Deleon was taken into custody on Tuesday, Nov. 10, police said.", "refs": ["2db6123893", "8ff0485027"] },
+        { "text": "NYPD detectives and U.S. Marshals made the arrest, according to the New York Times; Fox News says local police were also involved.", "refs": ["8ff0485027", "d7ab2f7224"] },
+        { "text": "He was arrested at a Burger King in the Miami area, where Fox News reports he was working.", "refs": ["2db6123893", "d7ab2f7224"] },
+        { "text": "Police say he will also be charged in two earlier Central Park rapes, in 2021 and 2023.", "refs": ["2db6123893", "c751f58f84", "9ad51899ac"] },
+        { "text": "The most recent attack happened in October.", "refs": ["8ff0485027", "2db6123893"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "c751f58f84", "note": "Emphasizes the 'iconic' park and the link to two more rapes." },
+        { "ref": "d7ab2f7224", "note": "Calls him an 'NYC man' and highlights the Burger King detail." },
+        { "ref": "9ad51899ac", "note": "Plain national framing: a man accused of raping three women." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2db6123893", "takeaway": "Names the suspect and the 2021 and 2023 cases, citing the NYPD.", "read_full": false },
+        { "ref": "8ff0485027", "takeaway": "Summary only (paywalled): credits NYPD detectives and U.S. Marshals.", "read_full": false },
+        { "ref": "d7ab2f7224", "takeaway": "Says he was working at a Miami Beach Burger King when arrested.", "read_full": false },
+        { "ref": "c751f58f84", "takeaway": "Headline only; stresses the link to two additional rapes.", "read_full": false },
+        { "ref": "9ad51899ac", "takeaway": "Headline only; national pickup of the arrest.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mamdani-budget-new-taxes",
+      "headline": "Mamdani floats a second pied-a-terre tax as budget leans on Wall Street revenue",
+      "region": "City Hall",
+      "importance": 3,
+      "summary": "Mayor Mamdani talked up a second pied-a-terre tax on luxury second homes, saying the 'wealthiest city' can afford to 'deliver dignity', according to the New York Sun. THE CITY reports that the city's $127 billion budget depends on Wall Street tax revenue and that support for new taxes is growing. The New York Times asks whether expanded Democratic majorities in Albany will push Gov. Kathy Hochul to raise taxes.",
+      "why_it_matters": "New city taxes on the wealthy need approval from Albany, and the outcome affects whether the mayor can pay for promises such as free child care without cuts elsewhere.",
+      "background": "Mamdani, a democratic socialist, has argued for higher taxes on the wealthy to pay for programs such as free child care. In April 2026 he and Hochul announced the state's first pied-a-terre tax, an annual surcharge on homes worth more than $5 million whose owners live primarily outside the city, projected to raise at least $500 million a year. The City Council and the mayor agreed in June on a $127 billion budget. City taxes generally require approval from the state Legislature and the governor.",
+      "facts": [
+        { "text": "The City Council and Mamdani agreed in June on a $127 billion budget for the fiscal year that began July 1.", "refs": ["4b2d07a94b"] },
+        { "text": "THE CITY reports the budget balanced thanks to a large infusion of state aid and what it calls fiscal gimmicks, and that it now relies on Wall Street revenue.", "refs": ["4b2d07a94b"] },
+        { "text": "Mamdani discussed a 'Pied-a-Terre Tax 2', according to the New York Sun.", "refs": ["09c73d3b9b"] },
+        { "text": "In April 2026 the mayor and Gov. Hochul announced a pied-a-terre surcharge on homes over $5 million whose owners' primary residence is outside the city, which officials projected at $500 million or more a year.", "refs": ["nyc-w5"] },
+        { "text": "The New York Times reports Democratic socialists expanded their influence in New York, potentially setting up a showdown with Hochul over taxes.", "refs": ["bcad2588e2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "4b2d07a94b", "note": "Frames the budget as fragile, floating on Wall Street cash, with new taxes as the next step." },
+        { "ref": "09c73d3b9b", "note": "Leads with the mayor's own 'dignity' language around a new tax on the rich." },
+        { "ref": "bcad2588e2", "note": "Frames the issue as an Albany power struggle between the left and a moderate governor." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "4b2d07a94b", "takeaway": "Budget analysis tying city finances to Wall Street and tax debates.", "read_full": false },
+        { "ref": "09c73d3b9b", "takeaway": "Headline only; quotes Mamdani pitching a second pied-a-terre tax.", "read_full": false },
+        { "ref": "bcad2588e2", "takeaway": "Summary only (paywalled): Albany supermajority and possible clash with Hochul over taxes.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "council-veterans-package",
+      "headline": "Council set to vote Thursday on property tax break for disabled veterans",
+      "region": "City Council",
+      "importance": 3,
+      "summary": "The City Council is expected on Thursday, Nov. 12, to approve a package of veterans' bills announced on Veterans Day, including one that would exempt some of the most severely disabled veterans from property taxes on their homes. The Council is also scheduled to vote on Int. 928, which would make an LGBTQ liaison a permanent position in the Department of Veterans' Services.",
+      "why_it_matters": "Some disabled veteran homeowners could stop paying city property taxes entirely, and the liaison bill would make an existing outreach role permanent.",
+      "background": "Property tax breaks for veterans in New York are set by state law, which lets localities such as the city adopt them. The state has authorized exemptions for certain disabled veterans. The Council, led by Speaker Julie Menin, announced a three-bill veterans package on Wednesday to mark Veterans Day. Both items come from single outlets' reporting.",
+      "facts": [
+        { "text": "The Council is expected to approve legislation on Thursday that would exempt some of the city's most severely disabled veterans from property taxes on their homes, amNY reports.", "refs": ["a600eb2b25"] },
+        { "text": "The bill is part of a three-bill veterans package announced Wednesday for Veterans Day.", "refs": ["a600eb2b25"] },
+        { "text": "A spokesperson for Speaker Julie Menin said the Council will vote Nov. 12 on Int. 928, creating a permanent LGBTQ liaison in the Department of Veterans' Services.", "refs": ["d56b1ae56c"] },
+        { "text": "New York State has authorized property tax exemptions for certain disabled veterans.", "refs": ["nyc-w6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "a600eb2b25", "note": "Leads with the benefit to disabled veterans' wallets." },
+        { "ref": "d56b1ae56c", "note": "Focuses on LGBTQ veterans and the sponsor's identity." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a600eb2b25", "takeaway": "Reports the expected Thursday vote on the property tax exemption.", "read_full": false },
+        { "ref": "d56b1ae56c", "takeaway": "Syndicated from Gay City News; covers the LGBTQ liaison bill.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "katie-suarez-indictment",
+      "headline": "Grand jury indicts man in killing of Brooklyn jogger Katie Suarez",
+      "region": "Brooklyn",
+      "importance": 3,
+      "summary": "A Brooklyn grand jury indicted Sayed Mohassib, 27, on a second-degree murder charge in the Oct. 30 stabbing death of jogger Katie Suarez on a waterfront path in Bath Beach, District Attorney Eric Gonzalez announced Tuesday. Local lawmakers and residents are calling for better lighting and safety along the Shore Parkway Greenway.",
+      "why_it_matters": "The case has prompted calls to improve lighting and safety on a heavily used south Brooklyn running and bike path.",
+      "background": "Katie Suarez, 28, was stabbed while running along the path near Shore Parkway and Bay 17th Street on Oct. 30. Police arrested Mohassib, who Brooklyn Paper describes as a teacher's aide, on Saturday, Nov. 7. The indictment, announced by Brooklyn District Attorney Eric Gonzalez, moves the case toward trial. Coverage came from local outlets.",
+      "facts": [
+        { "text": "Sayed Mohassib, 27, was indicted on a second-degree murder charge, Brooklyn District Attorney Eric Gonzalez announced Tuesday.", "refs": ["971c488779", "6eb24d0b01", "ee3ed28833"] },
+        { "text": "Prosecutors say he killed Suarez on Oct. 30 along a waterfront running path in Bath Beach; he was arrested Saturday.", "refs": ["ee3ed28833"] },
+        { "text": "Brooklyn Paper reports Mohassib worked as a teacher's aide.", "refs": ["971c488779"] },
+        { "text": "Local lawmakers and community members called for better lighting and safety on the Shore Parkway Greenway after the killing.", "refs": ["81ad3454cc"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "971c488779", "note": "Leads with the suspect's job as a teacher's aide." },
+        { "ref": "ee3ed28833", "note": "Straight legal framing: indictment for a 'stabbing murder'." },
+        { "ref": "6eb24d0b01", "note": "Focuses on the grand jury step; uses the name 'Kate'." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "971c488779", "takeaway": "Cites the DA's announcement and the charge.", "read_full": false },
+        { "ref": "ee3ed28833", "takeaway": "Gives the date, location and arrest timing.", "read_full": false },
+        { "ref": "6eb24d0b01", "takeaway": "Headline only; reports the indictment.", "read_full": false },
+        { "ref": "81ad3454cc", "takeaway": "Follows up with calls for greenway lighting and safety.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "nyc-w1", "url": "https://housingny.substack.com/p/release-nyaa-submits-testimony-opposing", "title": "Release: NYAA Submits Testimony Opposing COPA", "outlet": "New York Apartment Association" },
+    { "id": "nyc-w2", "url": "https://www.bisnow.com/news/new-york/multifamily/community-building-purchase-proposal-watered-down-after-cre-warned-death-knell-132146", "title": "After Real Estate Warned Of 'Death Knell,' City Council Waters Down COPA Bill", "outlet": "Bisnow" },
+    { "id": "nyc-w3", "url": "https://correctionalnews.com/2026/01/27/federal-judge-names-nicholas-deml-to-take-control-of-rikers-island-operations/", "title": "Federal Judge Names Nicholas Deml to Take Control of Rikers Island Operations", "outlet": "Correctional News" },
+    { "id": "nyc-w4", "url": "https://queenseagle.com/all/2025/12/22/detainees-death-after-allergic-reaction-pushes-rikers-toll-to-15-this-year", "title": "Detainee’s death after allergic reaction pushes Rikers toll to 15 this year", "outlet": "Queens Eagle" },
+    { "id": "nyc-w5", "url": "https://www.nyc.gov/mayors-office/news/2026/04/mayor-mamdani--governor-hochul-announce-state-s-first-pied-a-ter.html", "title": "Mayor Mamdani, Governor Hochul announce state's first pied-à-terre tax", "outlet": "NYC Mayor's Office" },
+    { "id": "nyc-w6", "url": "https://news.bloombergtax.com/daily-tax-report-state/new-york-authorizes-certain-disabled-veterans-property-tax-exemption", "title": "New York Authorizes Certain Disabled Veterans Property Tax Exemption", "outlet": "Bloomberg Tax" }
+  ]
+}

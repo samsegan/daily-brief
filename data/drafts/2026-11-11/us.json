@@ -1,0 +1,317 @@
+{
+  "stories": [
+    {
+      "id": "hegseth-impeachment-blocked",
+      "headline": "House Republicans block Massie's bid to impeach Defense Secretary Hegseth",
+      "region": "Congress",
+      "importance": 5,
+      "summary": "The House voted 211-204 on Tuesday to send Rep. Thomas Massie's impeachment resolution against Defense Secretary Pete Hegseth to the Judiciary Committee, which halts the effort for now. President Trump welcomed the result. Democrats, who take control of Congress in January, could bring impeachment up again.",
+      "why_it_matters": "The articles concern how the US entered and is fighting the war with Iran and other military strikes, so the vote is a test of whether Congress will check the Pentagon's use of force. With Democrats taking both chambers in January, the question of Hegseth's future is likely to return.",
+      "background": "Pete Hegseth has led the Pentagon since 2025, and the US has been at war with Iran in 2026. Rep. Thomas Massie, a Kentucky Republican who lost a Trump-backed primary this year and is retiring, first moved to impeach Hegseth in September. His eight articles accuse Hegseth of starting the Iran war illegally, directing extrajudicial killings and ignoring rules meant to limit civilian deaths. Because the resolution was privileged, the House had to act on it, and Republican leaders chose a procedural vote rather than an up-or-down impeachment vote. Democrats won both chambers in last week's midterm elections and take over in January.",
+      "facts": [
+        { "text": "The House voted 211-204 on Tuesday to send the impeachment resolution to the Judiciary Committee, which halts the immediate drive but does not stop Democrats from reviving it after January.", "refs": ["604337f95c", "45f1398c13"] },
+        { "text": "Every House Republican except Massie voted to spare Hegseth, CBS News reported.", "refs": ["7ee8a07eca"] },
+        { "text": "NPR reported the House had been on course for a floor vote on impeachment Wednesday before Republicans used the procedural vote.", "refs": ["fae1353b4c"] },
+        { "text": "Trump welcomed the outcome and called Hegseth a 'Great American Patriot'.", "refs": ["fb5573ea53", "863ff41439"] },
+        { "text": "Rep. Melanie Stansbury (D-N.M.) said she and other lawmakers could not reach the Capitol in time to vote because of a traffic incident and a police escort.", "refs": ["fbce7c5019"] },
+        { "text": "The eight articles accuse Hegseth of illegally starting the war with Iran, directing extrajudicial killings and ignoring laws meant to minimize civilian casualties.", "refs": ["3c8b0c2c39", "09c72f49d9"] },
+        { "text": "At his first news conference in six months, Hegseth called the impeachment effort a 'farce' and a 'stunt' and said it was about 'policy disagreements'.", "refs": ["fa93e531c0", "4ca796e8c4", "86962b3127"] },
+        { "text": "A former Hegseth spokesman called on him to resign and said he should be impeached, CNN reported.", "refs": ["72b00905cc"] },
+        { "text": "Massie first moved to impeach Hegseth over the Iran war in September.", "refs": ["us-w1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "068d8921eb", "note": "Fox News frames it as GOP leaders stopping one member, 'Massie's' push, rather than a party-wide vote." },
+        { "ref": "fb5573ea53", "note": "BBC adds 'for now', stressing that the effort can return under a Democratic House." },
+        { "ref": "863ff41439", "note": "The Guardian leads with Massie's 'sinking ship' jab at his own party." },
+        { "ref": "461dd128f4", "note": "The Center Square uses the administration's 'War Secretary' title and says Republicans 'kill' the attempt, emphasizing finality." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "604337f95c", "takeaway": "Gives the 211-204 tally and explains the referral to the Judiciary Committee.", "read_full": false },
+        { "ref": "45f1398c13", "takeaway": "Short vote story with the 211-204 count.", "read_full": false },
+        { "ref": "7ee8a07eca", "takeaway": "Notes Massie was the only Republican to vote against blocking the measure.", "read_full": false },
+        { "ref": "fae1353b4c", "takeaway": "Explains how the procedural vote preempted Wednesday's planned impeachment vote.", "read_full": false },
+        { "ref": "fb5573ea53", "takeaway": "Leads with Trump's praise for Hegseth and the chance of a new attempt next year.", "read_full": false },
+        { "ref": "863ff41439", "takeaway": "Live blog featuring Trump's reaction and Massie's criticism of the GOP.", "read_full": false },
+        { "ref": "fbce7c5019", "takeaway": "Reports Democrats who missed the vote because of a traffic delay.", "read_full": false },
+        { "ref": "3c8b0c2c39", "takeaway": "Headline and summary only (paywalled): explainer on the charges.", "read_full": false },
+        { "ref": "09c72f49d9", "takeaway": "Walks through the eight articles.", "read_full": false },
+        { "ref": "fa93e531c0", "takeaway": "Covers Hegseth's defiant Pentagon briefing before the vote.", "read_full": false },
+        { "ref": "4ca796e8c4", "takeaway": "Video of Hegseth calling the effort a farce.", "read_full": false },
+        { "ref": "86962b3127", "takeaway": "Hegseth casts the push as policy disagreement.", "read_full": false },
+        { "ref": "72b00905cc", "takeaway": "Interview with Hegseth's former spokesman urging resignation.", "read_full": false },
+        { "ref": "068d8921eb", "takeaway": "Vote story centered on GOP leaders and Massie.", "read_full": false },
+        { "ref": "461dd128f4", "takeaway": "Brief vote story from a right-leaning outlet.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "gop-picks-jordan-thune",
+      "headline": "Republicans pick Jim Jordan to lead House GOP and keep John Thune in the Senate",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "House Republicans on Tuesday chose Rep. Jim Jordan of Ohio over Rep. Steve Scalise to lead them as the minority party in the next Congress. Senate Republicans re-elected John Thune as their leader after rejecting a push by some senators to delay the vote. Both parties are reorganizing after Republicans lost control of both chambers in the midterms.",
+      "why_it_matters": "These leaders will decide how Republicans respond to a Democratic Congress during the last two years of Trump's term, including on spending deals, investigations and any impeachment efforts.",
+      "background": "Republicans lost both the House and the Senate in the Nov. 3 midterm elections, and will be in the minority when the new Congress starts in January. House Speaker Mike Johnson said the day after the election that he would not run for minority leader. Jim Jordan, chairman of the House Judiciary Committee, co-founded the hardline Freedom Caucus and is a close Trump ally; he had sought to lead House Republicans twice before. John Thune of South Dakota has led Senate Republicans for the past two years.",
+      "facts": [
+        { "text": "Jordan defeated Majority Leader Steve Scalise in a secret ballot of Republicans who will serve in the next Congress.", "refs": ["013ae40318", "5ceda6872c", "08720c0520"] },
+        { "text": "Fox News described the secret ballot as narrow.", "refs": ["08720c0520"] },
+        { "text": "Speaker Mike Johnson announced the day after Election Day that he would not run for minority leader.", "refs": ["b6b86d124d"] },
+        { "text": "Jordan, 62, is a founding member of the House Freedom Caucus and a close ally of President Trump.", "refs": ["fa5bb82b08", "9874d6fb6c"] },
+        { "text": "Politico reported it was Jordan's third attempt to lead Republicans on Capitol Hill.", "refs": ["ed2e83230f"] },
+        { "text": "Senate Republicans re-elected Thune after Sens. Ron Johnson and Rick Scott pushed to delay the leadership election.", "refs": ["7bf91fa77a", "67d54bab42", "cd94fedf80"] },
+        { "text": "Axios reported that eight Republican senators had called for the leadership vote to be delayed.", "refs": ["bfe52dabb2"] },
+        { "text": "PBS reported that Republicans lost at least seven Senate seats in the election.", "refs": ["03396c5daf"] },
+        { "text": "Thune said he would not take sides in the 2028 presidential race.", "refs": ["d85f9e3d52"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "7bf91fa77a", "note": "Fox News stresses a failed 'rebellion' and calls the election a 'historic midterm massacre'." },
+        { "ref": "fa5bb82b08", "note": "NPR leads with Jordan as a 'close Trump ally'." },
+        { "ref": "9874d6fb6c", "note": "Axios frames the pick as a bet on a MAGA 'fighter'." },
+        { "ref": "89bfc662cb", "note": "The Daily Caller ties the result to Mike Johnson stepping aside rather than to the election loss." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "013ae40318", "takeaway": "Calls it a major shakeup and names Scalise as the loser.", "read_full": false },
+        { "ref": "5ceda6872c", "takeaway": "Notes the secret ballot and Jordan's Judiciary role.", "read_full": false },
+        { "ref": "08720c0520", "takeaway": "Describes the vote as narrow and Jordan as Trump's top defender in Congress.", "read_full": false },
+        { "ref": "b6b86d124d", "takeaway": "Combined story on both leadership votes with Johnson's exit.", "read_full": false },
+        { "ref": "fa5bb82b08", "takeaway": "Profile-style piece on Jordan's Freedom Caucus roots.", "read_full": false },
+        { "ref": "9874d6fb6c", "takeaway": "Analysis of Jordan's move from insurgent to leader.", "read_full": false },
+        { "ref": "ed2e83230f", "takeaway": "Notes this was Jordan's third bid.", "read_full": false },
+        { "ref": "7bf91fa77a", "takeaway": "Focuses on conservative senators' failed push to delay the Thune vote.", "read_full": false },
+        { "ref": "67d54bab42", "takeaway": "Short report on Thune fending off the delay effort.", "read_full": false },
+        { "ref": "cd94fedf80", "takeaway": "Straight report on Thune's re-election.", "read_full": false },
+        { "ref": "bfe52dabb2", "takeaway": "Preview counting senators who wanted a delay.", "read_full": false },
+        { "ref": "03396c5daf", "takeaway": "Describes Senate Republicans venting in three meetings.", "read_full": false },
+        { "ref": "d85f9e3d52", "takeaway": "Thune's comments on staying out of the 2028 race.", "read_full": false },
+        { "ref": "89bfc662cb", "takeaway": "Right-leaning report quoting Jordan's warnings about Democratic legislation.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "sanders-opposes-schumer",
+      "headline": "Bernie Sanders says he won't back Chuck Schumer as Senate Democratic leader",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "Sen. Bernie Sanders said Tuesday he will not support Chuck Schumer to lead Senate Democrats in the new Congress, saying 'the time is now for change.' No one has formally challenged Schumer, though Sen. Chris Van Hollen is considering it. Schumer said he is confident he will become majority leader.",
+      "why_it_matters": "Whoever leads the new Democratic Senate majority will set its agenda on spending, investigations and Trump's nominees for the next two years.",
+      "background": "Democrats won control of the Senate in the Nov. 3 midterms, with at least 54 seats according to The Guardian. Chuck Schumer of New York is the current Democratic leader and is seeking to become majority leader. Some progressives, a major union and some newly elected senators want new leadership. Sanders, an independent from Vermont, caucuses with the Democrats and is a leading progressive.",
+      "facts": [
+        { "text": "Sanders said Tuesday he would not support Schumer, saying 'the time is now for change'.", "refs": ["9f02e65751", "24de195266", "32a880d316"] },
+        { "text": "NBC News reported that Sanders and Sen. Elissa Slotkin called for new leadership but neither proposed an alternative, and that Sen. Chris Van Hollen of Maryland is considering a challenge.", "refs": ["39515b2f5f"] },
+        { "text": "Politico reported Van Hollen is not closing the door on challenging Schumer and is also eyeing a 2028 presidential run.", "refs": ["31141406b4"] },
+        { "text": "Schumer expressed confidence he would become majority leader.", "refs": ["1b6e910df5"] },
+        { "text": "The machinists union called on Schumer to step aside as leader.", "refs": ["50db255f03", "08f24f043e"] },
+        { "text": "The New York Times reported that Schumer's allies offered support and called for party unity.", "refs": ["5c7383d839"] },
+        { "text": "The Washington Post reported activists and some colleagues aim to block both Schumer and House Democratic leader Hakeem Jeffries from leading.", "refs": ["b424f60aad"] },
+        { "text": "The New York Post reported that a number of incoming Democratic senators have echoed Sanders's call.", "refs": ["6a48afd0b6"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Sanders is the first senator to break with Schumer",
+          "positions": [
+            { "claim": "The New York Sun's headline calls Sanders the first sitting senator to call for Schumer's removal.", "refs": ["94db9d2f9a"] },
+            { "claim": "NBC News reported that Sen. Elissa Slotkin had also called for new leadership, and CBS described Sanders as the most prominent progressive to oppose Schumer.", "refs": ["39515b2f5f", "665273818f"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "24de195266", "note": "PBS calls it a 'seismic confrontation' after the party's midterm win." },
+        { "ref": "f0d5f708b5", "note": "The Washington Times stresses that the rebellion 'lacks a champion' to challenge Schumer." },
+        { "ref": "94db9d2f9a", "note": "The New York Sun frames Sanders's move as a call for Schumer's 'removal'." },
+        { "ref": "5c7383d839", "note": "The New York Times describes Sanders as one of 'a few' skeptics, putting the dissent in proportion." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "9f02e65751", "takeaway": "Wire report of Sanders's statement.", "read_full": false },
+        { "ref": "24de195266", "takeaway": "Republishes the AP story with the 'time for change' quote.", "read_full": false },
+        { "ref": "32a880d316", "takeaway": "Puts Sanders's move among growing calls for new leadership.", "read_full": false },
+        { "ref": "39515b2f5f", "takeaway": "Adds Slotkin and Van Hollen and notes there is no rival candidate yet.", "read_full": false },
+        { "ref": "31141406b4", "takeaway": "Van Hollen keeping options open.", "read_full": false },
+        { "ref": "1b6e910df5", "takeaway": "Video of Schumer saying he is confident.", "read_full": false },
+        { "ref": "50db255f03", "takeaway": "Union letter asking Schumer to step aside.", "read_full": false },
+        { "ref": "08f24f043e", "takeaway": "Right-leaning report on the union's call.", "read_full": false },
+        { "ref": "5c7383d839", "takeaway": "Headline and summary only (paywalled): notes support from Schumer allies.", "read_full": false },
+        { "ref": "b424f60aad", "takeaway": "Headline only (paywalled): effort targets both Democratic leaders.", "read_full": false },
+        { "ref": "6a48afd0b6", "takeaway": "Wire-based story noting incoming senators' support for change.", "read_full": false },
+        { "ref": "94db9d2f9a", "takeaway": "Headline only: casts Sanders as first to seek Schumer's removal.", "read_full": false },
+        { "ref": "665273818f", "takeaway": "Calls Sanders the most prominent progressive opponent so far.", "read_full": false },
+        { "ref": "f0d5f708b5", "takeaway": "Headline only: focuses on the lack of a challenger.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "epstein-oversight-report",
+      "headline": "House Oversight report says federal government failed Epstein's victims for decades",
+      "region": "Congress",
+      "importance": 3,
+      "summary": "The Republican-led House Oversight Committee released a 137-page final report on its 15-month Epstein investigation, faulting the federal government's handling of the case over decades. It urges the Justice Department to reinterview key witnesses and criticizes the Trump administration's release of Epstein records. Democrats, who will run the committee in January, say their inquiry is just starting.",
+      "why_it_matters": "The report puts on the record that survivors say federal investigators never questioned them, and it sets up further investigations, including of banks, once Democrats take over committees in January.",
+      "background": "Jeffrey Epstein was a convicted sex offender whose associates included many powerful people. Public pressure to release government files on him led Congress to pass, and President Trump to sign, the Epstein Files Transparency Act nearly a year ago. The House Oversight Committee, chaired by Rep. James Comer (R-Ky.), interviewed many of Epstein's associates. In September Comer introduced a bill aimed at tactics used to silence victims, saying the government had failed them.",
+      "facts": [
+        { "text": "The committee released a 137-page report nearly a year after the Epstein Files Transparency Act became law.", "refs": ["c2ec6fd76b"] },
+        { "text": "The report followed a 15-month investigation and faulted the federal government for decades of failing to hold Epstein accountable.", "refs": ["7b01fada01", "3b3e46bc3d"] },
+        { "text": "Chairman James Comer said the federal government 'has failed the survivors' of Epstein's and Ghislaine Maxwell's crimes for decades.", "refs": ["97eef23920", "d6ef0366b9"] },
+        { "text": "The report says many survivors and other witnesses told the committee they were never approached or properly questioned by federal authorities.", "refs": ["87ed41fa34"] },
+        { "text": "The committee called on the Justice Department to reinterview key witnesses.", "refs": ["8a9af1572f", "97eef23920"] },
+        { "text": "The report criticizes the Trump administration over its release of Epstein records, the AP reported.", "refs": ["7dea7537da"] },
+        { "text": "Democrats said the inquiry is 'just getting started' and plan to examine banks tied to Epstein once they hold majorities in January.", "refs": ["5145c2b46b", "2970e364bc"] },
+        { "text": "A Politico poll found more voters want Democrats to pursue an affordability agenda than to keep investigating Epstein.", "refs": ["988f924467"] },
+        { "text": "In September, Comer unveiled legislation he said would close human-trafficking loopholes exposed by the Epstein case.", "refs": ["us-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "7dea7537da", "note": "AP leads with the committee's criticism of the Trump administration." },
+        { "ref": "a95fae2988", "note": "The Washington Times emphasizes that 'the feds' failed victims 'at every turn', putting the focus on past federal failures." },
+        { "ref": "d6ef0366b9", "note": "The Daily Caller presents it as Republicans' 'long-awaited' report." },
+        { "ref": "f7bb1f6051", "note": "NBC News centers the Justice Department's handling of the case." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c2ec6fd76b", "takeaway": "Wire-based story with the report's length and context.", "read_full": false },
+        { "ref": "7b01fada01", "takeaway": "Describes the report as faulting decades of federal failure.", "read_full": false },
+        { "ref": "3b3e46bc3d", "takeaway": "Notes interviews with Epstein's high-powered associates.", "read_full": false },
+        { "ref": "97eef23920", "takeaway": "Quotes Comer and the call to reinterview witnesses.", "read_full": false },
+        { "ref": "d6ef0366b9", "takeaway": "Summarizes the report's findings for a right-leaning audience.", "read_full": false },
+        { "ref": "87ed41fa34", "takeaway": "Quotes the report on survivors never being questioned.", "read_full": false },
+        { "ref": "8a9af1572f", "takeaway": "Headline only (paywalled): focuses on reinterviewing witnesses.", "read_full": false },
+        { "ref": "7dea7537da", "takeaway": "Wire story stressing criticism of the administration.", "read_full": false },
+        { "ref": "5145c2b46b", "takeaway": "Adds Democrats' plan to keep investigating.", "read_full": false },
+        { "ref": "2970e364bc", "takeaway": "Previews Democratic probes of Epstein's banks.", "read_full": false },
+        { "ref": "988f924467", "takeaway": "Poll on voter priorities for Democrats.", "read_full": false },
+        { "ref": "a95fae2988", "takeaway": "Headline only: federal failures 'at every turn'.", "read_full": false },
+        { "ref": "f7bb1f6051", "takeaway": "TV segment on the report's criticism of the Justice Department.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "kennedys-sue-over-trump-arch",
+      "headline": "Kennedy family members ask court to block Trump's arch near Arlington Cemetery",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "Nine members of the Kennedy family asked a federal judge in Washington to block construction of President Trump's planned 250-foot arch near Arlington National Cemetery. They argue it would cast a shadow over family graves and disrupt the view from John F. Kennedy's eternal flame. The filing joins an existing lawsuit as Trump visits the cemetery for Veterans Day.",
+      "why_it_matters": "The case is one of several testing whether the president can build a large monument on federal land near a national cemetery without approval from Congress or full environmental review.",
+      "background": "President Trump has proposed a roughly 250-foot triumphal arch in the Washington area, near Arlington National Cemetery, where President John F. Kennedy and other Kennedy family members are buried. Earlier this year, Vietnam War veterans and an architectural historian sued to stop it, saying Congress had not approved it. Arlington County, Virginia, also sued, arguing the administration skipped required environmental reviews. The Kennedy relatives are asking to join one of these existing cases.",
+      "facts": [
+        { "text": "Nine Kennedy family members asked a judge to block the 250-foot arch.", "refs": ["daf2fb1fb3", "7f2e24070d", "f7f70602d5"] },
+        { "text": "The request was filed Monday in the US District Court for the District of Columbia and joins an existing lawsuit.", "refs": ["c0d6562cc6", "bbe2c9f58d"] },
+        { "text": "The plaintiffs are children and grandchildren of Robert F. Kennedy and Edward M. Kennedy, the New York Post reported.", "refs": ["b121bdc086"] },
+        { "text": "The filing argues the arch would shadow Kennedy family graves and disrupt the sightline from the eternal flame at JFK's grave.", "refs": ["b765a1f912", "7f2e24070d"] },
+        { "text": "Trump is visiting Arlington National Cemetery on Veterans Day as the legal fight over the arch grows.", "refs": ["0ce2336a0d"] },
+        { "text": "Vietnam War veterans and Arlington County had already filed separate lawsuits against the arch.", "refs": ["us-w3", "us-w4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "b121bdc086", "note": "The New York Post uses the neutral 'memorial arch' and specifies which branches of the family filed." },
+        { "ref": "b765a1f912", "note": "The New York Times says the arch would 'mar' the J.F.K. gravesite, foregrounding the family's grievance." },
+        { "ref": "bbe2c9f58d", "note": "NBC puts 'triumphal' in quotation marks, highlighting the monument's character." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "daf2fb1fb3", "takeaway": "Wire report on the nine relatives' request.", "read_full": false },
+        { "ref": "7f2e24070d", "takeaway": "Focuses on the shadow over JFK's grave.", "read_full": false },
+        { "ref": "f7f70602d5", "takeaway": "Notes the relatives seek to join an existing suit.", "read_full": false },
+        { "ref": "c0d6562cc6", "takeaway": "Gives the court and filing date.", "read_full": false },
+        { "ref": "bbe2c9f58d", "takeaway": "TV segment on why the family says it is harmed.", "read_full": false },
+        { "ref": "b121bdc086", "takeaway": "Identifies the plaintiffs' branches of the family.", "read_full": false },
+        { "ref": "b765a1f912", "takeaway": "Headline and summary only (paywalled): the sightline argument.", "read_full": false },
+        { "ref": "0ce2336a0d", "takeaway": "Headline and summary only (paywalled): ties the fight to Trump's Veterans Day visit.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mississippi-alaska-senate-counts",
+      "headline": "Democrats lead narrowly as Mississippi and Alaska Senate counts near the end",
+      "region": "Elections",
+      "importance": 3,
+      "summary": "Ballot deadlines passed Tuesday in Mississippi, where Democrat Scott Colom holds a narrow lead over Sen. Cindy Hyde-Smith. In Alaska, Democrat Mary Peltola's lead over Sen. Dan Sullivan grew to about 2,500 votes, and a judge is weighing a lawsuit from her campaign over absentee ballots. They are the last two Senate races not yet called.",
+      "why_it_matters": "The two races will decide how large the new Democratic Senate majority is, which affects how easily it can pass bills and confirm or block nominees.",
+      "background": "Democrats won control of the Senate in the Nov. 3 midterms, but races in Mississippi and Alaska remain too close to call. Mississippi rarely has close statewide races, and a large number of absentee and provisional ballots is still being processed. In Alaska, counting of absentee ballots continues; earlier this month a federal judge dismissed a Justice Department lawsuit that sought to delay certification of the state's Senate race and separate certain ballots.",
+      "facts": [
+        { "text": "Tuesday was the deadline in Mississippi for provisional ballots to be resolved and for mail-in absentee ballots to arrive, and Colom extended his lead.", "refs": ["166e0f6b38"] },
+        { "text": "CBS News rated the Mississippi race as leaning Democratic, with Colom holding a narrow lead.", "refs": ["3b6e020f23"] },
+        { "text": "PBS reported that an unusually high number of absentee and provisional ballots will decide the race and the size of the Democratic Senate majority.", "refs": ["966525820e"] },
+        { "text": "Colom said the people of Mississippi 'have chosen a new direction'.", "refs": ["4366777826"] },
+        { "text": "Peltola's lead over Sullivan grew to 2,517 votes after Monday's count, with tens of thousands of absentee ballots still uncounted, Fox News reported.", "refs": ["8c89e47a48"] },
+        { "text": "A judge is weighing a lawsuit by Peltola's campaign over absentee ballots and predicted a quick decision.", "refs": ["fb6c9ea66c", "f2f5481561"] },
+        { "text": "A federal judge on Nov. 1 dismissed a Justice Department lawsuit seeking to delay certification of Alaska's Senate race and separate ballots.", "refs": ["us-w5"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "3b6e020f23", "note": "CBS emphasizes that the race 'leans Democratic' in a deep-red state." },
+        { "ref": "d8fd92c405", "note": "The Washington Times stresses that the winner is 'still undetermined'." },
+        { "ref": "f2f5481561", "note": "The New York Post highlights the judge's expectation of a quick ruling on Peltola's suit." },
+        { "ref": "40a95ddbad", "note": "The New York Times focuses on how strict election laws made voting harder." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "166e0f6b38", "takeaway": "Explains Tuesday's ballot deadlines and Colom's lead.", "read_full": false },
+        { "ref": "3b6e020f23", "takeaway": "Race rating and state of the count.", "read_full": false },
+        { "ref": "966525820e", "takeaway": "Voters' reactions and the ballot backlog.", "read_full": false },
+        { "ref": "4366777826", "takeaway": "Colom's confident comments.", "read_full": false },
+        { "ref": "d8fd92c405", "takeaway": "Headline only: the result is still undetermined.", "read_full": false },
+        { "ref": "40a95ddbad", "takeaway": "Headline and summary only (paywalled): difficulties voters faced.", "read_full": false },
+        { "ref": "8c89e47a48", "takeaway": "Gives Peltola's vote margin and the uncounted absentee ballots.", "read_full": false },
+        { "ref": "fb6c9ea66c", "takeaway": "Wire report on the Peltola campaign's lawsuit.", "read_full": false },
+        { "ref": "f2f5481561", "takeaway": "Notes the judge expects to rule quickly.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "california-billionaire-tax-fails",
+      "headline": "California voters reject one-time tax on billionaires' wealth",
+      "region": "Elections",
+      "importance": 3,
+      "summary": "California voters rejected Proposition 40, which would have imposed a one-time 5% tax on the wealth of residents worth more than $1 billion. The measure split Democrats and drew record opposition spending, much of it from the tech industry. Supporters had seen it as a model for wealth taxes elsewhere.",
+      "why_it_matters": "The result shows that even in a strongly Democratic year and state, voters turned down a direct tax on the very rich, which is likely to shape whether other states or Congress try similar taxes.",
+      "background": "A wealth tax charges people on the value of what they own, such as company shares, rather than only on income. Prop 40 would have charged billionaires 5% once, on most of their wealth. Major tech figures funded a large campaign against it, while some Democrats and progressives backed it. The vote took place in the Nov. 3 election, in which Democrats won control of Congress.",
+      "facts": [
+        { "text": "Prop 40 would have imposed a one-time 5% tax on the wealth of Californians with a net worth above $1 billion, including company shares.", "refs": ["e10cbab3af", "d6e2db18b4", "4e4289fecb"] },
+        { "text": "NBC News and CBS News projected that the measure failed.", "refs": ["c87d3a828e", "29011e4a1b"] },
+        { "text": "Early returns posted Nov. 4 showed about 55% of voters against the measure.", "refs": ["us-w6"] },
+        { "text": "The proposal divided Democrats in California and nationally.", "refs": ["d6e2db18b4", "c87d3a828e"] },
+        { "text": "CBS News reported the campaign broke spending records for a tax measure in California.", "refs": ["29011e4a1b"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How much the opposition campaign spent",
+          "positions": [
+            { "claim": "The Guardian reported tech's biggest names put $425 million into defeating the tax.", "refs": ["1017054ad6"] },
+            { "claim": "IBTimes reported opponents raised about $389 million, against about $33 million for supporters.", "refs": ["us-w7"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "281d819360", "note": "Fox Business calls it a 'blow to progressives' that failed 'despite blue wave'." },
+        { "ref": "1017054ad6", "note": "The Guardian focuses on tech billionaires' money and 'playbook' in defeating it." },
+        { "ref": "fa8feb2c78", "note": "The Washington Times describes the tax as 'pioneering', stressing its novelty." },
+        { "ref": "9747d6fb19", "note": "The New York Times frames the loss as a setback for the broader progressive agenda." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e10cbab3af", "takeaway": "Plain explanation of what the measure would have done.", "read_full": false },
+        { "ref": "d6e2db18b4", "takeaway": "Stresses the split among Democrats.", "read_full": false },
+        { "ref": "4e4289fecb", "takeaway": "Short explainer of the 5% tax.", "read_full": false },
+        { "ref": "c87d3a828e", "takeaway": "Projection story citing the barrage of attack ads.", "read_full": false },
+        { "ref": "29011e4a1b", "takeaway": "Projection with the record spending.", "read_full": false },
+        { "ref": "1017054ad6", "takeaway": "Examines the tech industry's $425 million opposition campaign.", "read_full": false },
+        { "ref": "281d819360", "takeaway": "Headline only: setback for progressives.", "read_full": false },
+        { "ref": "fa8feb2c78", "takeaway": "Headline only: emphasizes the first-of-its-kind tax.", "read_full": false },
+        { "ref": "9747d6fb19", "takeaway": "Headline and summary only (paywalled): political implications.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://abcnews4.com/news/nation-world/gop-republican-rep-thomas-massie-moves-to-impeach-defense-secretary-pete-hegseth-over-iran-war-hostilities-1973-war-powers-resolution-congressional-approval-president-trump-administration", "title": "GOP Rep. Thomas Massie moves to impeach Pete Hegseth over Iran war", "outlet": "ABC News 4" },
+    { "id": "us-w2", "url": "https://dailysignal.com/2026/09/03/government-failed-the-victims-james-comer-unveils-plan-to-close-epstein-era-human-trafficking-loopholes", "title": "'Government Failed the Victims': James Comer Unveils Plan to Close Epstein-Era Human Trafficking Loopholes", "outlet": "The Daily Signal" },
+    { "id": "us-w3", "url": "https://www.eenews.net/articles/vietnam-war-veterans-sue-to-block-construction-of-trumps-triumphal-arch", "title": "Vietnam War veterans sue to block construction of Trump's triumphal arch", "outlet": "E&E News" },
+    { "id": "us-w4", "url": "https://www.fox5dc.com/news/arlington-county-files-lawsuit-stop-trumps-triumphal-arch", "title": "Arlington County files lawsuit to stop trump's triumphal arch", "outlet": "FOX 5 DC" },
+    { "id": "us-w5", "url": "https://www.alaskasnewssource.com/2026/11/01/court-dismisses-doj-lawsuit-attempting-delay-election-certification-separate-ballots/", "title": "Court dismisses DOJ lawsuit attempting to delay election certification, separate ballots", "outlet": "Alaska's News Source" },
+    { "id": "us-w6", "url": "https://www.kqed.org/elections/results/california/proposition-40", "title": "Proposition 40", "outlet": "KQED" },
+    { "id": "us-w7", "url": "https://www.ibtimes.co.uk/california-billionaire-tax-proposition-40-defeat-1830960", "title": "California Voters Reject Prop 40 Billionaire Tax After Seven Moguls Fled With $540 Billion in Wealth", "outlet": "IBTimes UK" }
+  ]
+}
