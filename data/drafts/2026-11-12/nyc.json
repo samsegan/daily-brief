@@ -1,0 +1,785 @@
+{
+  "stories": [
+    {
+      "id": "flatbush-building-collapse",
+      "headline": "Flatbush building collapses beside construction site; deaths confirmed as search continues",
+      "region": "Brooklyn",
+      "importance": 5,
+      "summary": "A three-story building in Flatbush, Brooklyn, collapsed Wednesday afternoon into an excavated construction site next door, killing at least two people and injuring more than a dozen, city officials said. Later reports Thursday morning put the death toll at three, four or five as rescuers kept searching the rubble. Officials said the cause is under investigation.",
+      "why_it_matters": "People were killed and injured, children among them, inside a building that housed both apartments and businesses, and the collapse raises questions about how the city protects buildings that sit next to excavation and demolition work.",
+      "background": "The building stood near the intersection of Flatbush and Bedford Avenues, at the edge of a lot where a one-story building had been torn down for a construction project. It collapsed at around 4 p.m. Wednesday and fell into the neighboring excavation, trapping people inside. It held apartments and a variety of businesses. Mayor Zohran Mamdani and the fire commissioner briefed reporters at the scene, and firefighters worked through the night to reach people in the wreckage. NewsNation reported that the neighboring construction site was cited in April and that the company admitted the violation and paid a $10,000 penalty.",
+      "facts": [
+        {
+          "text": "A three-story building in Brooklyn's Flatbush neighborhood collapsed Wednesday afternoon next to a construction site.",
+          "refs": [
+            "de30b93eeb",
+            "33604caf57",
+            "020851b8f2",
+            "7149bcf16e",
+            "0ca049db9c"
+          ]
+        },
+        {
+          "text": "City officials said at least two people were killed.",
+          "refs": [
+            "020851b8f2",
+            "33604caf57",
+            "de30b93eeb",
+            "abedf8988b",
+            "65bad857c4"
+          ]
+        },
+        {
+          "text": "The building stood at the edge of a lot where a one-story building had been demolished for a construction project, and it fell into the neighboring excavation site.",
+          "refs": [
+            "eb7ffa3672",
+            "de30b93eeb",
+            "f8e39ddff3"
+          ]
+        },
+        {
+          "text": "The collapse happened at around 4 p.m. near the intersection of Flatbush and Bedford Avenues.",
+          "refs": [
+            "f8e39ddff3",
+            "fcb7dfb256"
+          ]
+        },
+        {
+          "text": "Children were among the injured, according to city authorities.",
+          "refs": [
+            "de30b93eeb",
+            "fcb7dfb256"
+          ]
+        },
+        {
+          "text": "Several people were trapped, and firefighters dug through the rubble to free them; at least one survivor was pulled out.",
+          "refs": [
+            "de30b93eeb",
+            "65bad857c4",
+            "0de3b4c908"
+          ]
+        },
+        {
+          "text": "Mayor Zohran Mamdani and the fire commissioner gave an update at the scene, and the cause of the collapse is under investigation.",
+          "refs": [
+            "ddb76a8387",
+            "f8e39ddff3"
+          ]
+        },
+        {
+          "text": "The building held apartments and a variety of businesses.",
+          "refs": [
+            "b25ed1b6a9",
+            "aeb9bd42d7"
+          ]
+        },
+        {
+          "text": "NewsNation reported that the neighboring site was cited in April and that, according to records, the company admitted the violation and paid a $10,000 penalty.",
+          "refs": [
+            "20ae669ff1"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "How many people died (the count rose through Thursday morning as the search continued)",
+          "positions": [
+            {
+              "claim": "At least two, per city officials.",
+              "refs": [
+                "020851b8f2",
+                "33604caf57",
+                "0ca049db9c"
+              ]
+            },
+            {
+              "claim": "A third body was recovered.",
+              "refs": [
+                "f3b7f1f901"
+              ]
+            },
+            {
+              "claim": "Four dead.",
+              "refs": [
+                "fcb7dfb256"
+              ]
+            },
+            {
+              "claim": "At least five confirmed dead.",
+              "refs": [
+                "163f10e5cf"
+              ]
+            }
+          ]
+        },
+        {
+          "topic": "How many people were injured",
+          "positions": [
+            {
+              "claim": "More than 10 sent to hospital, per city officials.",
+              "refs": [
+                "020851b8f2"
+              ]
+            },
+            {
+              "claim": "At least 17 injured, per city authorities; the New York Times described 17 as critically injured.",
+              "refs": [
+                "de30b93eeb",
+                "f8e39ddff3",
+                "0ca049db9c"
+              ]
+            },
+            {
+              "claim": "At least 23 injured, seven of them children.",
+              "refs": [
+                "fcb7dfb256"
+              ]
+            },
+            {
+              "claim": "Four in critical condition in hospital.",
+              "refs": [
+                "7149bcf16e"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "163f10e5cf",
+          "note": "Leads with the highest death count and the scale of the rescue operation."
+        },
+        {
+          "ref": "fcb7dfb256",
+          "note": "Puts the number of injured children in the headline."
+        },
+        {
+          "ref": "33604caf57",
+          "note": "Keeps to the officially confirmed minimum and attributes it to officials."
+        },
+        {
+          "ref": "20ae669ff1",
+          "note": "Turns to accountability, pointing at the neighboring site's earlier citation."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "cd081f19ad",
+          "takeaway": "Headline only: at least two killed, more than a dozen hospitalized.",
+          "read_full": false
+        },
+        {
+          "ref": "ddb76a8387",
+          "takeaway": "Summary only: video of the mayor's and fire commissioner's update; calls it a partial collapse.",
+          "read_full": false
+        },
+        {
+          "ref": "eb7ffa3672",
+          "takeaway": "Summary only: describes the demolished one-story building on the adjoining lot.",
+          "read_full": false
+        },
+        {
+          "ref": "abedf8988b",
+          "takeaway": "Headline and summary only (paywalled): explainer citing officials on the deaths.",
+          "read_full": false
+        },
+        {
+          "ref": "0ca049db9c",
+          "takeaway": "Headline and summary only (paywalled): live coverage; says at least 17 were critically injured.",
+          "read_full": false
+        },
+        {
+          "ref": "b25ed1b6a9",
+          "takeaway": "Headline only (paywalled): notes the building also housed businesses.",
+          "read_full": false
+        },
+        {
+          "ref": "aeb9bd42d7",
+          "takeaway": "Headline and summary only (paywalled): onlookers waiting at the site for news of rescues.",
+          "read_full": false
+        },
+        {
+          "ref": "de30b93eeb",
+          "takeaway": "Summary only: two dead and at least 17 injured, including children, per city authorities.",
+          "read_full": false
+        },
+        {
+          "ref": "f8e39ddff3",
+          "takeaway": "Summary only: gives the time of the collapse and says the cause is under investigation.",
+          "read_full": false
+        },
+        {
+          "ref": "163f10e5cf",
+          "takeaway": "Headline and summary only: reports at least five confirmed dead.",
+          "read_full": false
+        },
+        {
+          "ref": "33604caf57",
+          "takeaway": "Summary only: at least two killed, per officials; search described as dangerous.",
+          "read_full": false
+        },
+        {
+          "ref": "0de3b4c908",
+          "takeaway": "Summary only: video of a survivor pulled from the rubble.",
+          "read_full": false
+        },
+        {
+          "ref": "fcb7dfb256",
+          "takeaway": "Headline and summary only: four dead and at least 23 injured, seven of them children; gives the intersection.",
+          "read_full": false
+        },
+        {
+          "ref": "020851b8f2",
+          "takeaway": "Summary only: at least two killed and more than 10 hospitalized, per city officials.",
+          "read_full": false
+        },
+        {
+          "ref": "7149bcf16e",
+          "takeaway": "Summary only: at least two dead, four critical in hospital.",
+          "read_full": false
+        },
+        {
+          "ref": "65bad857c4",
+          "takeaway": "Headline only: wire report of two killed and people trapped.",
+          "read_full": false
+        },
+        {
+          "ref": "f3b7f1f901",
+          "takeaway": "Headline only: third body recovered.",
+          "read_full": false
+        },
+        {
+          "ref": "796ca965ac",
+          "takeaway": "Summary only: a husband's account of his wife's call from inside the rubble.",
+          "read_full": false
+        },
+        {
+          "ref": "20ae669ff1",
+          "takeaway": "Headline and summary only: the neighboring site's April citation and $10,000 penalty.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "frimpong-shooting-arrest",
+      "headline": "17-year-old charged with murder in shooting of Bronx student Javits Frimpong, 15",
+      "region": "Bronx",
+      "importance": 4,
+      "summary": "Police arrested a 17-year-old and charged him with murder in the killing of Javits Frimpong, a 15-year-old who was shot on Oct. 29 while walking to school in the Bronx. Frimpong had moved to New York from Ghana a little over a year earlier. The arrest came about two weeks after the shooting.",
+      "why_it_matters": "A student was killed on a weekday morning walk to school, and both the victim and the person charged are minors. The case has drawn attention to gun violence among teenagers in the city.",
+      "background": "Javits Frimpong was a 15-year-old student at DreamYard Preparatory School in the Bronx. He was shot in the stomach near Crotona Park on the morning of Oct. 29 as he walked to school, and he died of his injuries. He had come to New York from Ghana just over a year before. In the days after the shooting, his father told reporters he believed bullying at school may have been connected to the killing. Gothamist reported in June that at least 18 teenagers had been arrested in gun homicides in the city since January.",
+      "facts": [
+        {
+          "text": "A 17-year-old was arrested and charged with murder in Frimpong's death.",
+          "refs": [
+            "326e5e7280",
+            "72947c2cda",
+            "a47e4c5d2f"
+          ]
+        },
+        {
+          "text": "The NYPD announced the arrest, according to Gothamist.",
+          "refs": [
+            "5a5f0e906a"
+          ]
+        },
+        {
+          "text": "Frimpong was shot in the stomach on Oct. 29 near Crotona Park as he walked to DreamYard Preparatory School.",
+          "refs": [
+            "5a5f0e906a"
+          ]
+        },
+        {
+          "text": "Frimpong was 15 and had moved to New York from Ghana just over a year before he was killed.",
+          "refs": [
+            "a47e4c5d2f",
+            "72947c2cda",
+            "1088c3840d"
+          ]
+        },
+        {
+          "text": "Frimpong's father said after the shooting that he believed school bullying may have been tied to his son's death.",
+          "refs": [
+            "nyc-w1",
+            "nyc-w2"
+          ]
+        },
+        {
+          "text": "Gothamist reported on June 3 that at least 18 teenagers had been arrested for gun homicides in New York City since January.",
+          "refs": [
+            "nyc-w3"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "5a5f0e906a",
+          "note": "Attributes the arrest to the NYPD and stresses that the boy was walking to school."
+        },
+        {
+          "ref": "72947c2cda",
+          "note": "Leads with the murder charge and calls the victim an 'NYC student'; the summary notes he was a Ghanaian immigrant."
+        },
+        {
+          "ref": "326e5e7280",
+          "note": "Puts the victim's immigrant background and the suspect's age in the headline."
+        },
+        {
+          "ref": "a47e4c5d2f",
+          "note": "Sets the ages of the victim and the suspect side by side and focuses on the victim's life story."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "5a5f0e906a",
+          "takeaway": "Summary only: arrest attributed to the NYPD, with the date, location and school.",
+          "read_full": false
+        },
+        {
+          "ref": "326e5e7280",
+          "takeaway": "Headline only: a 17-year-old arrested for murder.",
+          "read_full": false
+        },
+        {
+          "ref": "72947c2cda",
+          "takeaway": "Summary only: a 17-year-old faces a murder charge; victim described as a Ghanaian immigrant.",
+          "read_full": false
+        },
+        {
+          "ref": "1088c3840d",
+          "takeaway": "Headline only: wire report of a teen arrested in the killing of a Ghanaian student.",
+          "read_full": false
+        },
+        {
+          "ref": "a47e4c5d2f",
+          "takeaway": "Headline and summary only (paywalled): profile-style account of the victim alongside the arrest.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w1",
+          "takeaway": "Search result only: earlier report on the father linking the shooting to school bullying.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w2",
+          "takeaway": "Search result only: Ghanaian outlet's report of the father's belief that bullying led to the shooting.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w3",
+          "takeaway": "Search result only: June count of teenagers arrested in gun homicides.",
+          "read_full": false
+        }
+      ],
+      "social": "A vigil was held for Frimpong in the Bronx and public figures posted tributes, according to TheGrio; Ghanaian outlets have followed the case closely."
+    },
+    {
+      "id": "council-surveillance-pricing-ban",
+      "headline": "City Council set to vote on ban on 'surveillance pricing'",
+      "region": "City Hall",
+      "importance": 4,
+      "summary": "The City Council was scheduled to vote Thursday on a bill that would bar businesses from using customers' personal data and algorithms to charge different people different prices for the same goods or services. The New York Times reported that the measure is expected to pass. The bill is sponsored by Council Speaker Julie Menin.",
+      "why_it_matters": "If the bill becomes law, a store or app in the city could not use what it knows about you, such as your location or shopping history, to set the price you personally are shown.",
+      "background": "Surveillance pricing means setting an individual customer's price using personal data and an algorithm, so that two people can be charged different amounts for the same item. Speaker Julie Menin and Majority Leader Shaun Abreu introduced Council legislation on dynamic and surveillance pricing in May, and the bill covering surveillance pricing is Introduction 891. The Council held a hearing on the legislation in June. Separately, state lawmakers in Albany voted in June to ban surveillance pricing statewide, a measure Bloomberg Government reported drew industry objections.",
+      "facts": [
+        {
+          "text": "The City Council was scheduled to vote Thursday on legislation barring businesses from using consumers' personal data and algorithms to charge different prices for the same goods and services.",
+          "refs": [
+            "c0c0c41ae3",
+            "ebe39ef829"
+          ]
+        },
+        {
+          "text": "The New York Times reported that the Council is expected to pass the ban.",
+          "refs": [
+            "ebe39ef829"
+          ]
+        },
+        {
+          "text": "The bill is sponsored by Council Speaker Julie Menin and is numbered Introduction 891.",
+          "refs": [
+            "c0c0c41ae3",
+            "nyc-w4",
+            "nyc-w5"
+          ]
+        },
+        {
+          "text": "The Council held a committee hearing on the dynamic and surveillance pricing legislation in June.",
+          "refs": [
+            "nyc-w6"
+          ]
+        },
+        {
+          "text": "State lawmakers voted in June to ban surveillance pricing statewide; digital price tags were not banned.",
+          "refs": [
+            "nyc-w7"
+          ]
+        },
+        {
+          "text": "The privacy group EPIC testified in support of the city bill, and the business group Partnership for New York City also submitted testimony.",
+          "refs": [
+            "nyc-w8",
+            "nyc-w9"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "ebe39ef829",
+          "note": "Headline describes a ban on 'variable prices' in general and presents passage as all but settled."
+        },
+        {
+          "ref": "c0c0c41ae3",
+          "note": "Headline addresses the shopper directly and stresses the use of personal data rather than price variation itself."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "ebe39ef829",
+          "takeaway": "Headline and summary only (paywalled): says the Council is expected to pass the ban.",
+          "read_full": false
+        },
+        {
+          "ref": "c0c0c41ae3",
+          "takeaway": "Summary only: explains what the bill prohibits and who sponsors it.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w4",
+          "takeaway": "Search result only: Council announcement of the bills' introduction by Menin and Abreu.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w5",
+          "takeaway": "Search result only: bill tracker entry for Introduction 891.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w6",
+          "takeaway": "Search result only: Council release on the June hearing.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w7",
+          "takeaway": "Search result only: public radio report on the state Legislature's June vote.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w8",
+          "takeaway": "Search result only: advocacy group's testimony in favor.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w9",
+          "takeaway": "Search result only: business group's testimony on the bill.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "paraprofessional-pay-court-fight",
+      "headline": "Council and Mamdani clash in court over $10,000 payments to school paraprofessionals",
+      "region": "Schools",
+      "importance": 3,
+      "summary": "The New York Post reported that the City Council criticized Mayor Zohran Mamdani in the ongoing court fight over a law giving school paraprofessionals $10,000 payments. The Mamdani administration sued in August to block the law, which the Council passed.",
+      "why_it_matters": "The outcome decides whether thousands of classroom aides, among the lowest-paid school employees, receive $10,000, and whether the Council can set city workers' pay by law. In today's digest only the right-leaning New York Post covered the latest turn.",
+      "background": "Paraprofessionals are classroom aides who often work with students with disabilities. The City Council passed a law giving them $10,000 payments, and it took effect on Aug. 19. The Mamdani administration sued the same day; according to The 74, the suit argues the law is unlawful because it bypasses collective bargaining between the city and the union. Outlets describe the money differently: the Post calls it a raise, while The 74 and NY1 call it a bonus.",
+      "facts": [
+        {
+          "text": "The New York Post reported on Nov. 11 that the City Council criticized the mayor in the legal dispute over the payments.",
+          "refs": [
+            "061ca85165"
+          ]
+        },
+        {
+          "text": "Paraprofessionals earn as little as $32,000 a year for full-time work, and city public schools have nearly 2,000 vacancies in the job, according to the Post.",
+          "refs": [
+            "061ca85165"
+          ]
+        },
+        {
+          "text": "The law providing the $10,000 payments took effect on Aug. 19, and the Mamdani administration sued over it that day.",
+          "refs": [
+            "nyc-w10",
+            "nyc-w11",
+            "nyc-w12"
+          ]
+        },
+        {
+          "text": "The administration's lawsuit argues the law is unlawful because it bypasses the collective bargaining process, The 74 reported.",
+          "refs": [
+            "nyc-w12"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "061ca85165",
+          "takeaway": "Headline and summary only: frames the payments as raises and the Council as on the attack; cites pay and vacancy figures.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w10",
+          "takeaway": "Search result only: August report that the pay measure became law as City Hall promised a challenge.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w11",
+          "takeaway": "Search result only: August report on the administration's lawsuit.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w12",
+          "takeaway": "Search result only: August report describing the suit's collective-bargaining argument.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "crown-heights-landlord-record",
+      "headline": "THE CITY: New owner of troubled Brooklyn buildings praised by Mamdani has his own violations record",
+      "region": "Brooklyn",
+      "importance": 3,
+      "summary": "THE CITY reported that Mark Schwartz, the landlord who took over three long-neglected rent-stabilized buildings in Brooklyn in a transfer Mayor Zohran Mamdani celebrated, has what the outlet called a 'dismal' record of violations. The buildings previously belonged to Rubin Dukler, who appeared repeatedly on the city's worst-landlord list.",
+      "why_it_matters": "The city has presented transfers like this one as a way to rescue tenants from neglected buildings, so the new owner's track record bears on whether conditions actually improve. This is one outlet's own reporting.",
+      "background": "The Mamdani administration announced in September that three distressed rent-stabilized buildings in Crown Heights, with 88 homes in total, had been sold to a new owner. The previous owner, Rubin Dukler, was a regular on the city's worst-landlord list. The buyer, Mark Schwartz, is also the mayor of Teaneck, New Jersey. Search results describing the deal say the tenants' union reached an agreement with Schwartz on repairs with tenant oversight. The real-estate outlet Bisnow wrote at the time that the city's exact role in the sale was unclear.",
+      "facts": [
+        {
+          "text": "THE CITY reported that Mark Schwartz has a 'dismal' record of violations.",
+          "refs": [
+            "6fc7d05ebf"
+          ]
+        },
+        {
+          "text": "Mayor Mamdani celebrated the transfer of three long-neglected rent-stabilized Brooklyn buildings from Rubin Dukler to Schwartz.",
+          "refs": [
+            "6fc7d05ebf",
+            "nyc-w13",
+            "nyc-w14"
+          ]
+        },
+        {
+          "text": "Dukler made frequent appearances on the city's worst-landlord list.",
+          "refs": [
+            "6fc7d05ebf",
+            "nyc-w13"
+          ]
+        },
+        {
+          "text": "Schwartz is the mayor of Teaneck, New Jersey.",
+          "refs": [
+            "6fc7d05ebf",
+            "nyc-w14"
+          ]
+        },
+        {
+          "text": "The three buildings are in Crown Heights, and the city announced the transfer in September.",
+          "refs": [
+            "nyc-w13"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "6fc7d05ebf",
+          "takeaway": "Headline and summary only: the outlet's own reporting on the new owner's violations record.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w13",
+          "takeaway": "Search result only: the city's September announcement presenting the transfer as a win for tenants.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w14",
+          "takeaway": "Search result only: trade report on the transfer that noted the city's role was unclear.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "council-disabled-veterans-tax",
+      "headline": "Council expected to exempt some severely disabled veterans from property taxes",
+      "region": "City Hall",
+      "importance": 3,
+      "summary": "The City Council was expected to approve legislation Thursday that would exempt some of the city's most severely disabled military veterans from property taxes on their homes. The measure is part of a three-bill veterans package the Council announced Wednesday for Veterans Day.",
+      "why_it_matters": "Qualifying disabled veterans who own their homes in the city would stop paying property tax on them.",
+      "background": "New York offers veterans partial property tax exemptions, and a state law now lets local governments choose to grant a full exemption on the primary home of veterans with a 100 percent service-connected disability. Each locality has to vote to adopt it. Port Chester, in Westchester County, was reported in August to be the first municipality in the state to do so. The City Council's bill would apply the idea in New York City.",
+      "facts": [
+        {
+          "text": "The City Council was expected to vote Thursday on legislation exempting some severely disabled veterans from property taxes on their homes.",
+          "refs": [
+            "a600eb2b25",
+            "ffe21ffd56"
+          ]
+        },
+        {
+          "text": "The bill is part of a package of three veterans' measures the Council announced Wednesday for Veterans Day.",
+          "refs": [
+            "a600eb2b25"
+          ]
+        },
+        {
+          "text": "Port Chester became the first municipality in New York to approve a 100 percent property tax exemption for disabled veterans, News 12 reported.",
+          "refs": [
+            "nyc-w15"
+          ]
+        },
+        {
+          "text": "State lawmakers passed a bill in 2025 allowing a property tax exemption for fully disabled veterans.",
+          "refs": [
+            "nyc-w16"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "a600eb2b25",
+          "note": "Says the Council is 'poised to eliminate' the tax, stressing the benefit to veterans."
+        },
+        {
+          "ref": "ffe21ffd56",
+          "note": "Plainer wording: a vote on a 'tax exemption'."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "a600eb2b25",
+          "takeaway": "Summary only: describes the exemption and the three-bill Veterans Day package.",
+          "read_full": false
+        },
+        {
+          "ref": "ffe21ffd56",
+          "takeaway": "Headline only: reports the scheduled vote.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w15",
+          "takeaway": "Search result only: report on Port Chester adopting the exemption first.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w16",
+          "takeaway": "Search result only: 2025 report on the state bill's passage.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "nyc-w1",
+      "url": "https://www.nbcnewyork.com/bronx/school-bullying-may-be-tied-to-15-year-olds-nyc-shooting-death-father-says/6565190/",
+      "title": "School bullying may be tied to 15-year-old's NYC shooting death, father says",
+      "outlet": "NBC New York"
+    },
+    {
+      "id": "nyc-w2",
+      "url": "https://www.graphic.com.gh/news/general-news/dad-believes-bullying-led-to-son-being-shot-and-killed-on-way-to-school-in-the-bronx.html",
+      "title": "Dad believes bullying led to son being shot and killed on way to school in the Bronx",
+      "outlet": "Graphic Online"
+    },
+    {
+      "id": "nyc-w3",
+      "url": "https://tollbit.gothamist.com/news/nypd-arrests-another-teen-murder-suspect-amid-surge-in-minors-charged-with-gun-violence",
+      "title": "NYPD arrests another teen murder suspect amid surge in minors charged with gun violence",
+      "outlet": "Gothamist"
+    },
+    {
+      "id": "nyc-w4",
+      "url": "https://council.nyc.gov/press/nyc-council-speaker-julie-menin-and-majority-shaun-leader-abreu-introduce-legislation-to-protect-new-yorkers-from-dynamic-and-surveillance-pricing",
+      "title": "NYC Council Speaker Julie Menin and Majority Leader Shaun Abreu introduce legislation to protect New Yorkers from dynamic and surveillance pricing",
+      "outlet": "New York City Council"
+    },
+    {
+      "id": "nyc-w5",
+      "url": "https://intro.nyc/0891-2026+",
+      "title": "NYC Council Introduction 891",
+      "outlet": "intro.nyc"
+    },
+    {
+      "id": "nyc-w6",
+      "url": "https://council.nyc.gov/press/nyc-council-holds-hearing-on-legislation-to-protect-new-yorkers-from-dynamic-and-surveillance-pricing",
+      "title": "NYC Council holds hearing on legislation to protect New Yorkers from dynamic and surveillance pricing",
+      "outlet": "New York City Council"
+    },
+    {
+      "id": "nyc-w7",
+      "url": "https://www.wamc.org/2026-06-08/ny-lawmakers-vote-to-ban-surveillance-pricing-but-digital-price-tags-survive",
+      "title": "NY lawmakers vote to ban 'surveillance pricing,' but digital price tags survive",
+      "outlet": "WAMC"
+    },
+    {
+      "id": "nyc-w8",
+      "url": "https://epic.org/epic-testifies-in-support-of-nyc-surveillance-pricing-ban/",
+      "title": "EPIC testifies in support of NYC surveillance pricing ban",
+      "outlet": "EPIC"
+    },
+    {
+      "id": "nyc-w9",
+      "url": "https://pfnyc.org/news/partnership-testimony-on-surveillance-pricing",
+      "title": "Partnership testimony on surveillance pricing",
+      "outlet": "Partnership for New York City"
+    },
+    {
+      "id": "nyc-w10",
+      "url": "https://www.chalkbeat.org/newyork/2026/08/19/nyc-paraprofessionals-10000-pay-bump-law-mamdani/",
+      "title": "NYC paraprofessionals' $10,000 pay bump becomes law as City Hall vows a legal challenge",
+      "outlet": "Chalkbeat"
+    },
+    {
+      "id": "nyc-w11",
+      "url": "https://ny1.com/nyc/all-boroughs/education/2026/08/19/mamdani-administration-sues-over--10-000-paraprofessional-bonuses",
+      "title": "Mamdani administration sues over $10,000 paraprofessional bonuses",
+      "outlet": "NY1"
+    },
+    {
+      "id": "nyc-w12",
+      "url": "https://www.the74million.org/article/nyc-mayor-sues-city-council-over-law-giving-10000-bonuses-to-paraprofessionals/",
+      "title": "NYC mayor sues City Council over law giving $10,000 bonuses to paraprofessionals",
+      "outlet": "The 74"
+    },
+    {
+      "id": "nyc-w13",
+      "url": "https://www.nyc.gov/mayors-office/news/2026/09/mamdani-administration-celebrates-transfer-of-three-crown-height",
+      "title": "Mamdani administration celebrates transfer of three Crown Heights buildings",
+      "outlet": "NYC Mayor's Office"
+    },
+    {
+      "id": "nyc-w14",
+      "url": "https://www.bisnow.com/news/new-york/multifamily/mamdani-administration-applauds-transfer-of-3-distressed-rent-stabilized-buildings",
+      "title": "Mamdani Administration Applauds Transfer Of 3 Distressed Rent-Stabilized Buildings",
+      "outlet": "Bisnow"
+    },
+    {
+      "id": "nyc-w15",
+      "url": "https://longisland.news12.com/port-chester-becomes-first-municipality-in-new-york-to-approve-100-property-tax-exemption-for-disabled-veterans",
+      "title": "Port Chester becomes first municipality in New York to approve 100% property tax exemption for disabled veterans",
+      "outlet": "News 12"
+    },
+    {
+      "id": "nyc-w16",
+      "url": "https://politicsny.com/2025/06/24/queens-lawmakers-applaud-passage-of-property-tax-exemption-bill-for-fully-disabled-veterans/",
+      "title": "Queens lawmakers applaud passage of property tax exemption bill for fully disabled veterans",
+      "outlet": "PoliticsNY"
+    }
+  ]
+}

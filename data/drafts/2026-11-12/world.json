@@ -1,0 +1,1303 @@
+{
+  "stories": [
+    {
+      "id": "ukraine-talks-prisoner-swap-moscow",
+      "headline": "Russia and Ukraine agree to a large prisoner swap; US envoys go on to Moscow to meet Putin",
+      "region": "Europe",
+      "importance": 5,
+      "summary": "Two days of US-mediated talks in Abu Dhabi ended Wednesday with Russia and Ukraine agreeing to a large exchange of prisoners of war but no wider agreement on ending the war. US envoys Steve Witkoff and Jared Kushner arrived in Moscow on Thursday to meet Vladimir Putin and are due to see Volodymyr Zelensky afterward. Zelensky said on Thursday that new restrictions on the Starshield satellite service are hampering Ukraine's forces along the front.",
+      "why_it_matters": "The swap would bring prisoners home on both sides, but the talks did not produce a ceasefire, so the fighting and the strikes on Ukraine's power grid continue heading into winter. The outcome also shapes how much Europe and the US will keep spending on the war and on their own defense.",
+      "background": "Russia's full-scale invasion of Ukraine is nearly five years old. The Trump administration has been mediating direct talks between the two sides, led by envoy Steve Witkoff and the president's son-in-law Jared Kushner; an earlier round in Abu Dhabi this year also produced a prisoner exchange without a broader settlement. Russia wants the talks to cover European security arrangements, while Ukraine says progress depends on how the US deals with Moscow. Separately, Ukraine has complained since mid-October that SpaceX's military satellite service, Starshield, has been throttled for its forces. Leaders of more than 40 European countries are meeting in Dublin on Thursday to discuss the continent's security.",
+      "facts": [
+        {
+          "text": "Russia and Ukraine agreed to a large exchange of prisoners of war, both sides said Wednesday, as two days of US-mediated talks in Abu Dhabi ended without a major breakthrough on ending the war.",
+          "refs": [
+            "80c59341a8",
+            "4259b432de",
+            "92bb27b8c3"
+          ]
+        },
+        {
+          "text": "Ukrainian negotiator Rustem Umerov described the agreed exchange as \"large-scale\" and said negotiators were returning to their capitals to finalize details.",
+          "refs": [
+            "92bb27b8c3",
+            "25e751a2c8"
+          ]
+        },
+        {
+          "text": "US envoys Jared Kushner and Steve Witkoff arrived in Moscow on Thursday for talks with Russian President Vladimir Putin.",
+          "refs": [
+            "c0b8c3e6a1",
+            "c6a88938b5",
+            "5a4a64ad8a"
+          ]
+        },
+        {
+          "text": "Zelensky said Ukrainian units had recorded new and significant disruptions to the Starshield satellite service in recent days along the entire front line, and said this was helping Russia carry out more accurate strikes.",
+          "refs": [
+            "21ebcc86fa",
+            "9077d04a6f"
+          ]
+        },
+        {
+          "text": "Zelensky said progress in the peace talks depends on the US approach to Russia.",
+          "refs": [
+            "7e4b955960"
+          ]
+        },
+        {
+          "text": "Russia struck six major power substations on Nov. 11, causing outages across Ukraine, the Kyiv Independent reported.",
+          "refs": [
+            "25e751a2c8"
+          ]
+        },
+        {
+          "text": "Leaders from more than 40 European countries gathered in Dublin on Thursday for a European Political Community summit focused on the continent's security.",
+          "refs": [
+            "85c1caff13",
+            "d09e865f9c"
+          ]
+        },
+        {
+          "text": "France said the EU will approve more sanctions on Russia on Monday.",
+          "refs": [
+            "51ec63b922"
+          ]
+        },
+        {
+          "text": "The New York Times reported that US envoys urged Russia to include Europe in the talks, as the Kremlin seeks discussions on European security structures.",
+          "refs": [
+            "c05c6e3d3d"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "When the US envoys will meet Zelensky",
+          "positions": [
+            {
+              "claim": "Kushner and Witkoff will travel to Dublin later on Thursday to meet Zelensky, per the BBC.",
+              "refs": [
+                "c6a88938b5"
+              ]
+            },
+            {
+              "claim": "US negotiators meet Putin on Thursday and Zelensky on Friday, per NPR.",
+              "refs": [
+                "bbb154b9ce"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "80c59341a8",
+          "note": "Pairs the swap with the lack of any major breakthrough in the same headline."
+        },
+        {
+          "ref": "f0f08037a5",
+          "note": "Leads with Trump's envoys reaching Moscow and calls the swap the largest of the war."
+        },
+        {
+          "ref": "92bb27b8c3",
+          "note": "Headline presents the swap as the outcome of the talks without mentioning what was not agreed."
+        },
+        {
+          "ref": "1332d1f1f6",
+          "note": "Puts Ukraine's satellite restrictions ahead of the diplomacy in Moscow."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "80c59341a8",
+          "takeaway": "Wire headline only: swap agreed, no major breakthrough.",
+          "read_full": false
+        },
+        {
+          "ref": "4259b432de",
+          "takeaway": "Runs the AP account; summary gives the swap and the lack of progress on ending the war.",
+          "read_full": false
+        },
+        {
+          "ref": "92bb27b8c3",
+          "takeaway": "Summary focuses on Umerov's announcement and next steps for negotiators.",
+          "read_full": false
+        },
+        {
+          "ref": "25e751a2c8",
+          "takeaway": "Daily roundup from Kyiv: swap, substation strikes and other war developments.",
+          "read_full": false
+        },
+        {
+          "ref": "c0b8c3e6a1",
+          "takeaway": "Headline only: envoys arrive in Moscow for talks with Putin.",
+          "read_full": false
+        },
+        {
+          "ref": "c6a88938b5",
+          "takeaway": "Summary adds that the envoys go on to Dublin to meet Zelensky.",
+          "read_full": false
+        },
+        {
+          "ref": "5a4a64ad8a",
+          "takeaway": "Live page; summary notes the Moscow visit follows the Abu Dhabi round.",
+          "read_full": false
+        },
+        {
+          "ref": "bbb154b9ce",
+          "takeaway": "Summary lays out the envoys' schedule: Putin Thursday, Zelensky Friday.",
+          "read_full": false
+        },
+        {
+          "ref": "21ebcc86fa",
+          "takeaway": "Summary reports Zelensky's account of Starshield disruptions across the front.",
+          "read_full": false
+        },
+        {
+          "ref": "9077d04a6f",
+          "takeaway": "Summary quotes Zelensky on the restrictions helping Russian strikes.",
+          "read_full": false
+        },
+        {
+          "ref": "7e4b955960",
+          "takeaway": "Headline only: Zelensky ties progress to the US approach to Russia.",
+          "read_full": false
+        },
+        {
+          "ref": "c05c6e3d3d",
+          "takeaway": "Headline and summary only (paywalled): US push to bring Europe into the talks.",
+          "read_full": false
+        },
+        {
+          "ref": "85c1caff13",
+          "takeaway": "Summary of the Dublin summit of more than 40 European leaders.",
+          "read_full": false
+        },
+        {
+          "ref": "d09e865f9c",
+          "takeaway": "Wire explainer on the Dublin summit; summary only.",
+          "read_full": false
+        },
+        {
+          "ref": "51ec63b922",
+          "takeaway": "Headline only: France says EU sanctions vote is set for Monday.",
+          "read_full": false
+        },
+        {
+          "ref": "f0f08037a5",
+          "takeaway": "Headline only: emphasizes the envoys' arrival and the size of the swap.",
+          "read_full": false
+        },
+        {
+          "ref": "1332d1f1f6",
+          "takeaway": "Headline and summary only (paywalled): ties satellite limits to trouble intercepting Russian drones.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w1",
+          "takeaway": "Search result previewing the Nov. 10-11 Abu Dhabi round led by Witkoff and Kushner.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w2",
+          "takeaway": "Search result on an earlier Abu Dhabi round this year that produced a 314-prisoner exchange.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w3",
+          "takeaway": "Search result from October: Zelensky said the satellite system remained restricted.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w4",
+          "takeaway": "Search result from October: Ukraine said Starshield throttling hampered its defense.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "gaza-nasser-hospital-strike",
+      "headline": "Israeli airstrike on Gaza's Nasser Hospital kills at least six, health officials say",
+      "region": "Middle East",
+      "importance": 5,
+      "summary": "An Israeli airstrike hit Nasser Hospital in southern Gaza overnight, killing at least six people, including a surgeon, according to Gaza's health ministry. Israel said it carried out a precise strike on a Hamas commander and a command center operating inside the hospital complex. Hamas called the strike an attack on a civilian medical facility.",
+      "why_it_matters": "Nasser is the largest hospital in southern Gaza, and the strike comes while a ceasefire described as increasingly fragile is in place. In this digest the story was carried by left-leaning and center outlets; no right-leaning outlet covered it.",
+      "background": "Nasser Hospital is the largest hospital in southern Gaza and, according to a doctor quoted by the Guardian, one of the few medical facilities still operating in the territory. It has been hit before during the war between Israel and Hamas, including strikes in 2025 that prompted United Nations calls for an investigation. Israel says Hamas uses the hospital complex for military purposes; Hamas describes it as a civilian medical facility. Casualty figures in Gaza come from the health ministry, which is run by Hamas, and from rescue services. A ceasefire is in effect, though Deutsche Welle describes it as increasingly fragile.",
+      "facts": [
+        {
+          "text": "Gaza's health ministry said an Israeli airstrike on Nasser Hospital in southern Gaza killed at least six people.",
+          "refs": [
+            "3c9b846ae5",
+            "a4ccb33b3d",
+            "b8bb9c4cda",
+            "74eb17e07c"
+          ]
+        },
+        {
+          "text": "A surgeon was among the dead, according to health authorities.",
+          "refs": [
+            "39b7babe27",
+            "7cf80c14f9",
+            "9818514c6a"
+          ]
+        },
+        {
+          "text": "Israel said it was targeting a Hamas commander and other militants, and described a Hamas operational hub inside the hospital.",
+          "refs": [
+            "39b7babe27",
+            "65322d5aee",
+            "96303b6917"
+          ]
+        },
+        {
+          "text": "Israel said the target was the commander of Hamas's Khan Younis Brigade, the Times of Israel reported.",
+          "refs": [
+            "b978e0727e"
+          ]
+        },
+        {
+          "text": "Witnesses said a missile hit a building containing surgical wards and intensive care units, the BBC reported.",
+          "refs": [
+            "b8bb9c4cda"
+          ]
+        },
+        {
+          "text": "Hamas called the strike \"a heinous crime targeting a civilian medical facility,\" according to the New York Times.",
+          "refs": [
+            "0dd288438c"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "What the hospital was being used for",
+          "positions": [
+            {
+              "claim": "Israeli authorities said Hamas had set up a command center in the hospital complex and that the strike targeted a commander there.",
+              "refs": [
+                "0dd288438c",
+                "9818514c6a",
+                "65322d5aee"
+              ]
+            },
+            {
+              "claim": "Hamas said the strike hit a civilian medical facility; health authorities said medical staff and patients were among the dead.",
+              "refs": [
+                "0dd288438c",
+                "96303b6917"
+              ]
+            }
+          ]
+        },
+        {
+          "topic": "How many people were wounded",
+          "positions": [
+            {
+              "claim": "At least a dozen, per the health ministry as cited by CBS News.",
+              "refs": [
+                "a4ccb33b3d"
+              ]
+            },
+            {
+              "claim": "About 20 or more, per rescuers cited by the New York Times and the Palestinian news agency cited by the Guardian.",
+              "refs": [
+                "0dd288438c",
+                "7cf80c14f9"
+              ]
+            },
+            {
+              "claim": "Dozens, per NPR.",
+              "refs": [
+                "39b7babe27"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "7cf80c14f9",
+          "note": "Names the surgeon among the dead in the headline and does not mention Israel's stated target."
+        },
+        {
+          "ref": "6afb2892d2",
+          "note": "Leads with the Israeli military targeting a top Hamas commander; the death toll comes second and as \"said killed.\""
+        },
+        {
+          "ref": "65322d5aee",
+          "note": "Puts both the deaths and Israel's description of a Hamas hub in the headline."
+        },
+        {
+          "ref": "b8bb9c4cda",
+          "note": "Attributes the toll to the health ministry and describes the dead as Palestinians."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "3c9b846ae5",
+          "takeaway": "Summary gives the toll, attributed to the health ministry.",
+          "read_full": false
+        },
+        {
+          "ref": "a4ccb33b3d",
+          "takeaway": "Summary gives six dead and at least a dozen wounded, noting the ministry is Hamas-controlled.",
+          "read_full": false
+        },
+        {
+          "ref": "b8bb9c4cda",
+          "takeaway": "Summary adds witness accounts of which hospital building was hit.",
+          "read_full": false
+        },
+        {
+          "ref": "74eb17e07c",
+          "takeaway": "Wire headline only: six killed, per health authorities.",
+          "read_full": false
+        },
+        {
+          "ref": "39b7babe27",
+          "takeaway": "Summary gives both the surgeon's death and Israel's stated target.",
+          "read_full": false
+        },
+        {
+          "ref": "7cf80c14f9",
+          "takeaway": "Summary centers on the victims, including a surgeon and patients awaiting surgery.",
+          "read_full": false
+        },
+        {
+          "ref": "9818514c6a",
+          "takeaway": "Summary gives Israel's command-center claim alongside the Palestinian toll and notes the fragile ceasefire.",
+          "read_full": false
+        },
+        {
+          "ref": "65322d5aee",
+          "takeaway": "Headline and summary only (paywalled): Israel's \"hub\" description and the health authorities' toll.",
+          "read_full": false
+        },
+        {
+          "ref": "96303b6917",
+          "takeaway": "Video summary: Israel calls it a precise strike; ministry says staff and patients died.",
+          "read_full": false
+        },
+        {
+          "ref": "b978e0727e",
+          "takeaway": "Headline only: identifies the target as the Khan Younis Brigade commander, per Israel.",
+          "read_full": false
+        },
+        {
+          "ref": "6afb2892d2",
+          "takeaway": "Headline only: leads with the Israeli military's target.",
+          "read_full": false
+        },
+        {
+          "ref": "0dd288438c",
+          "takeaway": "Headline and summary only (paywalled): rescuers' toll plus the Israeli and Hamas statements.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w13",
+          "takeaway": "Search result on UN calls for a probe after deadly strikes on the same hospital in 2025.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "spain-general-strike-housing",
+      "headline": "Spain holds its first general strike in 14 years over housing costs; clashes follow in Barcelona and Madrid",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Workers across Spain walked off the job Wednesday in a 24-hour general strike called by the main unions over housing costs and the cost of living, the country's first in 14 years. Large evening protests followed in Madrid and Barcelona, where some protesters clashed with police. The strike comes less than three weeks before a snap election on Nov. 29.",
+      "why_it_matters": "Rents and home prices have become the central issue in an election that could change Spain's government, and the turnout is being read as a measure of public anger. Housing affordability is a pressure point in many countries, not only Spain.",
+      "background": "Rising rents and stagnant wages have become central issues in Spain, and protests over housing have been building for weeks. In early October a housing march in Barcelona ended in clashes with police, and the government approved urgent housing measures the next day. The housing crisis led to a snap general election being called for Nov. 29, in which Socialist Prime Minister Pedro Sanchez is expected to face a strong challenge from the right. The country's main unions called Wednesday's strike over housing and the cost of living.",
+      "facts": [
+        {
+          "text": "Spain held its first general strike in 14 years on Wednesday, a 24-hour stoppage over housing costs.",
+          "refs": [
+            "24a1e9f2a9",
+            "bee1387129",
+            "3bf8fbf35e",
+            "f54eab20ad"
+          ]
+        },
+        {
+          "text": "The strike was called by the country's main unions over housing and the high cost of living.",
+          "refs": [
+            "23565797d1"
+          ]
+        },
+        {
+          "text": "Clashes between protesters and police broke out in the evening in Barcelona, and protests spread across Madrid and Barcelona.",
+          "refs": [
+            "23565797d1",
+            "e99b8a3d6a",
+            "0880e473f1"
+          ]
+        },
+        {
+          "text": "Protesters in Barcelona set fires and launched fireworks at riot police on Paseo de Gracia, Fox News reported.",
+          "refs": [
+            "bee3ea5289"
+          ]
+        },
+        {
+          "text": "Unions said the strike was mostly peaceful, France 24 reported.",
+          "refs": [
+            "f54eab20ad"
+          ]
+        },
+        {
+          "text": "A snap election is set for Nov. 29.",
+          "refs": [
+            "00c7ae7f95",
+            "0880e473f1"
+          ]
+        },
+        {
+          "text": "The right-wing opposition is expected to defeat Prime Minister Pedro Sanchez in the election, according to the Hindu's report.",
+          "refs": [
+            "0880e473f1"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "How many people took part",
+          "positions": [
+            {
+              "claim": "Four million workers, about one-fifth of the workforce, according to unions.",
+              "refs": [
+                "f54eab20ad"
+              ]
+            },
+            {
+              "claim": "Millions joined the strike, per the Guardian and CNN.",
+              "refs": [
+                "24a1e9f2a9",
+                "bee1387129"
+              ]
+            },
+            {
+              "claim": "Tens of thousands took part, per the BBC.",
+              "refs": [
+                "23565797d1"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "24a1e9f2a9",
+          "note": "Emphasizes the scale of participation and the cause; no mention of violence in the headline."
+        },
+        {
+          "ref": "bee3ea5289",
+          "note": "Leads with fires and clashes with police; the housing grievance is absent from the headline."
+        },
+        {
+          "ref": "23565797d1",
+          "note": "Leads with the Barcelona clashes and puts participation in the thousands."
+        },
+        {
+          "ref": "00c7ae7f95",
+          "note": "Frames the day as a response to the housing crisis, with strike and night protests given equal weight."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "24a1e9f2a9",
+          "takeaway": "Summary stresses high participation and the coming election in which the far right could gain power.",
+          "read_full": false
+        },
+        {
+          "ref": "bee1387129",
+          "takeaway": "Headline only: millions strike amid anger over housing.",
+          "read_full": false
+        },
+        {
+          "ref": "3bf8fbf35e",
+          "takeaway": "Headline and summary only (paywalled): rents and stagnant wages as campaign issues.",
+          "read_full": false
+        },
+        {
+          "ref": "f54eab20ad",
+          "takeaway": "Summary gives the unions' four-million figure and says the day was mostly peaceful until evening.",
+          "read_full": false
+        },
+        {
+          "ref": "23565797d1",
+          "takeaway": "Summary focuses on Barcelona clashes and says tens of thousands took part.",
+          "read_full": false
+        },
+        {
+          "ref": "e99b8a3d6a",
+          "takeaway": "Wire headline only: protests in Madrid and Barcelona with clashes.",
+          "read_full": false
+        },
+        {
+          "ref": "0880e473f1",
+          "takeaway": "Summary reads the rallies as a gauge of discontent before the snap election.",
+          "read_full": false
+        },
+        {
+          "ref": "bee3ea5289",
+          "takeaway": "Summary concentrates on fires and fireworks aimed at riot police in Barcelona.",
+          "read_full": false
+        },
+        {
+          "ref": "00c7ae7f95",
+          "takeaway": "Summary ties the strike and night protests to the housing crisis and the Nov. 29 vote.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w5",
+          "takeaway": "Search result from Oct. 6 on an earlier Barcelona housing protest that ended in clashes.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w6",
+          "takeaway": "Search result: Spain approved urgent housing measures after that night of unrest.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ebola-congo-kenya",
+      "headline": "Congo's Ebola outbreak passes 11,000 cases as Kenya discharges its last patient",
+      "region": "Africa",
+      "importance": 4,
+      "summary": "The Ebola outbreak in the Democratic Republic of Congo has passed 11,000 cases and 5,387 deaths, and the medical charity Doctors Without Borders (MSF) said Thursday it is still out of control six months on. Kenya, which had nine confirmed cases, discharged its last patient on Wednesday and began a 42-day countdown to being declared free of the virus.",
+      "why_it_matters": "This is the deadliest Ebola outbreak Congo has recorded, and it has already crossed borders. Kenya's progress suggests neighbors can contain imported cases, but MSF says the source outbreak is not under control.",
+      "background": "Ebola is a severe and often fatal viral disease. Congo declared its 17th outbreak in May, though experts believe the virus was circulating weeks or months earlier. Authorities have struggled to contain it because of armed conflict and a health system in crisis. A small number of cases reached neighboring countries, including Kenya, which now starts a 42-day count toward being declared Ebola-free if no new cases appear.",
+      "facts": [
+        {
+          "text": "Congo's Ebola outbreak has passed 11,000 cases and is the country's deadliest.",
+          "refs": [
+            "a3810ebf5b",
+            "3efa6e4181",
+            "9c435ab5cb"
+          ]
+        },
+        {
+          "text": "The outbreak has caused 5,387 deaths, the Hindu reported.",
+          "refs": [
+            "9c435ab5cb"
+          ]
+        },
+        {
+          "text": "MSF said the outbreak is still out of control after six months, that many cases are likely being missed and that transmission inside hospitals is widespread in some areas.",
+          "refs": [
+            "013d6ceb23",
+            "2e6dd05cd3"
+          ]
+        },
+        {
+          "text": "MSF said large sums of international aid are not reaching the front line, according to RFI.",
+          "refs": [
+            "7c57b11344"
+          ]
+        },
+        {
+          "text": "Kenya discharged its last Ebola patient and began a 42-day countdown to being declared free of the disease, provided no new cases are recorded.",
+          "refs": [
+            "3dfaf43153",
+            "90dc2babde",
+            "933ca87e15"
+          ]
+        },
+        {
+          "text": "Kenya had nine confirmed cases.",
+          "refs": [
+            "5830e11bb8"
+          ]
+        },
+        {
+          "text": "The Committee to Protect Journalists said attacks and threats against journalists in Congo have risen, driven in part by a backlash against reporting on the outbreak.",
+          "refs": [
+            "7adb168f5f"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "90dc2babde",
+          "note": "Presents Kenya's discharge as a major milestone."
+        },
+        {
+          "ref": "013d6ceb23",
+          "note": "Leads with MSF's warning that the Congo outbreak remains out of control."
+        },
+        {
+          "ref": "07737be4d5",
+          "note": "Treats Kenya's countdown as evidence that African countries have largely stopped spread from Congo."
+        },
+        {
+          "ref": "a3810ebf5b",
+          "note": "Leads with the case count and the label of Congo's deadliest outbreak."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "a3810ebf5b",
+          "takeaway": "Wire headline only: 11,000 cases in Congo's deadliest outbreak.",
+          "read_full": false
+        },
+        {
+          "ref": "3efa6e4181",
+          "takeaway": "Summary cites conflict and a health system crisis as reasons containment has failed.",
+          "read_full": false
+        },
+        {
+          "ref": "9c435ab5cb",
+          "takeaway": "Summary gives the death toll and says the virus likely emerged before May.",
+          "read_full": false
+        },
+        {
+          "ref": "013d6ceb23",
+          "takeaway": "Headline only: MSF says the outbreak is out of control.",
+          "read_full": false
+        },
+        {
+          "ref": "2e6dd05cd3",
+          "takeaway": "Summary adds MSF's points on missed cases and hospital transmission.",
+          "read_full": false
+        },
+        {
+          "ref": "7c57b11344",
+          "takeaway": "Summary focuses on MSF's claim that aid money is not reaching the front line.",
+          "read_full": false
+        },
+        {
+          "ref": "3dfaf43153",
+          "takeaway": "Headline only: Kenya releases last patient and starts the 42-day count.",
+          "read_full": false
+        },
+        {
+          "ref": "90dc2babde",
+          "takeaway": "Summary explains the 42-day condition.",
+          "read_full": false
+        },
+        {
+          "ref": "933ca87e15",
+          "takeaway": "Video summary: the patient recovered and 11 people in quarantine were also released.",
+          "read_full": false
+        },
+        {
+          "ref": "5830e11bb8",
+          "takeaway": "Summary gives Kenya's nine confirmed cases against Congo's continuing outbreak.",
+          "read_full": false
+        },
+        {
+          "ref": "07737be4d5",
+          "takeaway": "Headline and summary only (paywalled): Kenya as evidence neighbors have contained imported cases.",
+          "read_full": false
+        },
+        {
+          "ref": "7adb168f5f",
+          "takeaway": "Press-freedom group's statement on attacks on reporters covering the outbreak.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w7",
+          "takeaway": "Search result from Nov. 3: Kenya had released five patients with two still in hospital.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "europe-hoax-bomb-threats-schools",
+      "headline": "Hoax bomb threats hit schools in Italy, the UK and Ireland after a wave of threats against flights",
+      "region": "Europe",
+      "importance": 3,
+      "summary": "Schools across Italy were evacuated Wednesday after bomb threats that authorities treated as hoaxes, and similar threats reached schools in Scotland, Northern Ireland and Ireland. Italian Prime Minister Giorgia Meloni said there was no sign of concrete danger and that the threats were meant to spread alarm. Reuters cited a report of more Italian school evacuations on Thursday.",
+      "why_it_matters": "No bombs have been found, but the threats have emptied classrooms and disrupted flights for thousands of people. Authorities have not publicly identified who is behind them.",
+      "background": "Europe has seen a run of hoax bomb alerts in recent weeks, including against passenger flights, alongside cyberattacks. In early November an anonymous email claiming to come from Iran's Revolutionary Guards was sent to hundreds of Italian schools; Italian authorities have not confirmed who sent it. Some outlets describe the pattern as possible hybrid warfare, meaning disruption short of armed attack. Authorities in Italy, the UK and Ireland say there appears to be no risk to the public.",
+      "facts": [
+        {
+          "text": "Hoax bomb alerts were sent to schools in Italy, the UK and Ireland on Wednesday.",
+          "refs": [
+            "e9be113938",
+            "c57d9b9b4f",
+            "19d8f8a7d5"
+          ]
+        },
+        {
+          "text": "More than 6,000 Italian schools received a threat, the BBC reported.",
+          "refs": [
+            "c57d9b9b4f"
+          ]
+        },
+        {
+          "text": "Meloni said there was no indication of any \"concrete danger\" and that the threats appeared aimed at generating alarm.",
+          "refs": [
+            "19d8f8a7d5",
+            "5965f6865b",
+            "8c3d7e9cf7"
+          ]
+        },
+        {
+          "text": "Authorities in Italy, Scotland and Northern Ireland said there appeared to be no risk to the public.",
+          "refs": [
+            "c57d9b9b4f"
+          ]
+        },
+        {
+          "text": "At least 20 flights in Europe were affected by hoax bomb threats within hours, CBS News reported.",
+          "refs": [
+            "fb4a2125b0"
+          ]
+        },
+        {
+          "text": "Several Italian schools were evacuated after further bomb warnings on Thursday, Reuters said, citing a report.",
+          "refs": [
+            "d0477917be"
+          ]
+        },
+        {
+          "text": "An email claiming to be from Iran's Revolutionary Guards targeted 271 Italian schools in early November, International Business Times UK reported.",
+          "refs": [
+            "world-w8"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "How many Italian schools were evacuated",
+          "positions": [
+            {
+              "claim": "More than 300 schools were evacuated, per the Hindu's report.",
+              "refs": [
+                "19d8f8a7d5"
+              ]
+            },
+            {
+              "claim": "Thousands of schools were evacuated, per France 24.",
+              "refs": [
+                "8c3d7e9cf7"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "60cc588aa4",
+          "note": "Labels the threats \"hybrid warfare\" in the headline."
+        },
+        {
+          "ref": "c57d9b9b4f",
+          "note": "Calls it a suspected hoax and stresses that authorities see no public risk."
+        },
+        {
+          "ref": "c3b7150890",
+          "note": "Leads with Meloni's statement that the threats are meant to spread fear."
+        },
+        {
+          "ref": "fb4a2125b0",
+          "note": "Focuses on the flights and an expert's view that the pattern looks deliberate."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "e9be113938",
+          "takeaway": "Headline only: hoax alerts in three countries, described as the latest disruption.",
+          "read_full": false
+        },
+        {
+          "ref": "c57d9b9b4f",
+          "takeaway": "Summary gives the 6,000-school figure and officials' reassurance.",
+          "read_full": false
+        },
+        {
+          "ref": "19d8f8a7d5",
+          "takeaway": "Summary gives the 300-plus evacuations and Meloni's statement.",
+          "read_full": false
+        },
+        {
+          "ref": "5965f6865b",
+          "takeaway": "Wire headline only: Meloni says the threats aim to spread fear.",
+          "read_full": false
+        },
+        {
+          "ref": "8c3d7e9cf7",
+          "takeaway": "Video summary: thousands of schools evacuated; links the threats to earlier hoaxes.",
+          "read_full": false
+        },
+        {
+          "ref": "fb4a2125b0",
+          "takeaway": "Summary covers the flight threats and an expert calling them deliberate.",
+          "read_full": false
+        },
+        {
+          "ref": "d0477917be",
+          "takeaway": "Headline only: more evacuations reported Thursday.",
+          "read_full": false
+        },
+        {
+          "ref": "60cc588aa4",
+          "takeaway": "Video summary places the school threats within a wider run of hoaxes and cyberattacks.",
+          "read_full": false
+        },
+        {
+          "ref": "c3b7150890",
+          "takeaway": "Headline only: carries Meloni's statement.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w8",
+          "takeaway": "Search result on the Nov. 2 email to 271 Italian schools; sender unverified.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "indonesia-vice-president-resigns",
+      "headline": "Indonesia's vice president, son of former leader Jokowi, resigns over school credentials",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "Indonesian Vice President Gibran Rakabuming Raka formally submitted his resignation on Thursday after court rulings found that the education documents he filed to run for office did not meet election requirements. Gibran, 39, is the eldest son of former President Joko Widodo. President Prabowo Subianto must now settle on a successor.",
+      "why_it_matters": "The resignation ends the alliance between Indonesia's current president and his predecessor that brought the government to office. Who replaces Gibran will show how much power Prabowo now holds on his own.",
+      "background": "Gibran Rakabuming Raka, 39, is the eldest son of former President Joko Widodo, known as Jokowi. His place as vice president was a symbol of the partnership between Jokowi and Prabowo Subianto that carried Prabowo into the presidency. Last month the Constitutional Court and the Supreme Court ruled that documents he submitted about his overseas schooling did not meet election requirements, and calls for him to step down grew. Parliament had been preparing to take up his position when he resigned.",
+      "facts": [
+        {
+          "text": "Gibran handed his resignation to parliament on Thursday.",
+          "refs": [
+            "16bcc99835",
+            "2aaa4cc1e7",
+            "544a776a8e",
+            "b8707b231f"
+          ]
+        },
+        {
+          "text": "The Constitutional Court and the Supreme Court ruled last month that documents Gibran submitted about his overseas education did not meet election requirements.",
+          "refs": [
+            "412da1193a",
+            "be8c73e4dd"
+          ]
+        },
+        {
+          "text": "Gibran had filed a certificate saying his overseas education was equivalent to an Indonesian vocational high school, the Japan Times reported.",
+          "refs": [
+            "e4f11178be"
+          ]
+        },
+        {
+          "text": "Joko Widodo voiced support for Prabowo as his son resigned.",
+          "refs": [
+            "2aaa4cc1e7",
+            "16bcc99835"
+          ]
+        },
+        {
+          "text": "Prabowo said the resignation was \"for greater good,\" Nikkei Asia reported.",
+          "refs": [
+            "aa535573f1"
+          ]
+        },
+        {
+          "text": "Three political sources told Reuters on Wednesday that Gibran had resigned, a day before the formal submission.",
+          "refs": [
+            "145137ae80"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "544a776a8e",
+          "note": "Casts the resignation as Prabowo consolidating power."
+        },
+        {
+          "ref": "e4f11178be",
+          "note": "Calls it a diploma scandal and identifies Gibran by his father."
+        },
+        {
+          "ref": "3a057f68b8",
+          "note": "Uses the more neutral wording that his eligibility and credentials were questioned."
+        },
+        {
+          "ref": "b8707b231f",
+          "note": "Looks ahead to Prabowo's choice of successor."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "16bcc99835",
+          "takeaway": "Headline only: resignation delivered to parliament as Jokowi backs Prabowo.",
+          "read_full": false
+        },
+        {
+          "ref": "2aaa4cc1e7",
+          "takeaway": "Carries the Reuters report; summary says the move ends days of speculation.",
+          "read_full": false
+        },
+        {
+          "ref": "544a776a8e",
+          "takeaway": "Headline and summary only (paywalled): the end of the Prabowo-Jokowi alliance.",
+          "read_full": false
+        },
+        {
+          "ref": "b8707b231f",
+          "takeaway": "Headline and summary only (paywalled): the succession question facing Prabowo.",
+          "read_full": false
+        },
+        {
+          "ref": "412da1193a",
+          "takeaway": "Summary explains the two court rulings on his documents.",
+          "read_full": false
+        },
+        {
+          "ref": "be8c73e4dd",
+          "takeaway": "Wire summary: resignation follows rulings disputing his credentials.",
+          "read_full": false
+        },
+        {
+          "ref": "3a057f68b8",
+          "takeaway": "Wire headline only.",
+          "read_full": false
+        },
+        {
+          "ref": "e4f11178be",
+          "takeaway": "Summary describes the certificate Gibran filed in place of a diploma.",
+          "read_full": false
+        },
+        {
+          "ref": "aa535573f1",
+          "takeaway": "Headline only (paywalled): Prabowo's comment on the resignation.",
+          "read_full": false
+        },
+        {
+          "ref": "145137ae80",
+          "takeaway": "Headline only: early report of the resignation from three political sources.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w9",
+          "takeaway": "Search result from Nov. 2: Supreme Court ruling renewed calls for Gibran to step down.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w10",
+          "takeaway": "Search result from Nov. 10: parliament was preparing to decide on Gibran's position.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "russia-ambassador-darchiev-dies",
+      "headline": "Russia's ambassador to the United States, Alexander Darchiev, dies at 66",
+      "region": "Europe",
+      "importance": 2,
+      "summary": "Russia's Foreign Ministry announced Wednesday that Alexander Darchiev, Moscow's ambassador to Washington, had died at 66. The first statement said he died suddenly and gave no cause; the ministry later attributed the death to a chronic illness. No successor has been named in the coverage.",
+      "why_it_matters": "Darchiev was Moscow's main diplomatic channel in Washington while the two governments negotiate over the war in Ukraine. His death leaves that post empty during active talks.",
+      "background": "Alexander Darchiev was a long-time diplomat who took up the Washington post in early 2025, as relations between the Kremlin and the Trump White House warmed. He had earlier served as Russia's ambassador to Canada. Fox News described his assignment as leading a rapprochement with the Trump administration. His death was announced the same day US-mediated talks between Russia and Ukraine ended in Abu Dhabi.",
+      "facts": [
+        {
+          "text": "Russia's Foreign Ministry announced the death of Ambassador Alexander Darchiev at age 66.",
+          "refs": [
+            "b74db5d52b",
+            "3653acd5d7",
+            "602505b9b8",
+            "b8cfd3d839"
+          ]
+        },
+        {
+          "text": "The ministry's statement on Telegram said he died \"suddenly\" on Nov. 11 and did not give a cause of death, the Hill reported.",
+          "refs": [
+            "602505b9b8"
+          ]
+        },
+        {
+          "text": "The ministry later said he died of a chronic illness.",
+          "refs": [
+            "564743db1e",
+            "c336afdb5a"
+          ]
+        },
+        {
+          "text": "He died in Moscow, according to the Washington Post.",
+          "refs": [
+            "c336afdb5a"
+          ]
+        },
+        {
+          "text": "Darchiev had been ambassador in Washington since early 2025.",
+          "refs": [
+            "564743db1e",
+            "626cb14bd7",
+            "world-w11"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "602505b9b8",
+          "note": "Stresses that the death was sudden."
+        },
+        {
+          "ref": "c336afdb5a",
+          "note": "Leads with the ministry's stated cause, a chronic illness, and the location."
+        },
+        {
+          "ref": "b8cfd3d839",
+          "note": "Summary highlights his role in Putin's outreach to the Trump administration."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "b74db5d52b",
+          "takeaway": "Wire headline only: death announced by the Foreign Ministry.",
+          "read_full": false
+        },
+        {
+          "ref": "3653acd5d7",
+          "takeaway": "Headline only: attributes the news to the ministry.",
+          "read_full": false
+        },
+        {
+          "ref": "602505b9b8",
+          "takeaway": "Summary quotes the ministry's \"suddenly\" and notes no cause was given.",
+          "read_full": false
+        },
+        {
+          "ref": "b8cfd3d839",
+          "takeaway": "Summary says Putin appointed him to lead a rapprochement with the Trump administration.",
+          "read_full": false
+        },
+        {
+          "ref": "564743db1e",
+          "takeaway": "Summary reports the ministry's chronic-illness explanation.",
+          "read_full": false
+        },
+        {
+          "ref": "c336afdb5a",
+          "takeaway": "Headline only (paywalled): died in Moscow of a chronic illness, per the ministry.",
+          "read_full": false
+        },
+        {
+          "ref": "626cb14bd7",
+          "takeaway": "Headline and summary only (paywalled): places his 2025 appointment in the warming of ties.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w11",
+          "takeaway": "Reference entry on his career, including the 2025 appointment and earlier Canada post.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "pope-leo-peru-homecoming",
+      "headline": "Pope Leo XIV returns to Peru, where he spent two decades, and is met by large crowds",
+      "region": "Americas",
+      "importance": 2,
+      "summary": "Pope Leo XIV arrived in Lima on Wednesday to begin a visit to Peru, the country where he worked for two decades as a missionary and bishop and holds citizenship. He called Peru his homeland and was received by President Keiko Fujimori. The visit, the last stop of a three-country Latin American tour, includes Chiclayo, the city where he served as bishop.",
+      "why_it_matters": "The visit is a national event in Peru and shows the personal ties between the leader of the world's 1.4 billion Catholics and Latin America. In this digest it was covered by left-leaning and center outlets only.",
+      "background": "Leo XIV, 71, leads the world's 1.4 billion Catholics. Before his election he spent about two decades in Peru as a missionary and later as bishop of the northern city of Chiclayo, and he became a Peruvian citizen. Peru is the final leg of a three-nation Latin American trip. The New York Times noted that he was welcomed by President Keiko Fujimori, whose father's policies he had protested.",
+      "facts": [
+        {
+          "text": "Pope Leo XIV arrived in Lima on Wednesday and called Peru his \"homeland.\"",
+          "refs": [
+            "7df3180556",
+            "8a5003bcf6",
+            "2088fdcafe"
+          ]
+        },
+        {
+          "text": "An estimated 3 million people greeted him in Lima at the start of a six-day visit, Deutsche Welle reported.",
+          "refs": [
+            "8a5003bcf6"
+          ]
+        },
+        {
+          "text": "He spent two decades in Peru as a missionary and bishop and is a Peruvian citizen.",
+          "refs": [
+            "8a5003bcf6",
+            "22fc8ba649",
+            "2088fdcafe"
+          ]
+        },
+        {
+          "text": "He was met by President Keiko Fujimori, according to the New York Times.",
+          "refs": [
+            "22fc8ba649"
+          ]
+        },
+        {
+          "text": "The visit includes Chiclayo, his former home.",
+          "refs": [
+            "0c7155dfb7",
+            "6b535a0e10"
+          ]
+        },
+        {
+          "text": "Peru is the last leg of a three-nation Latin American tour for the 71-year-old pope.",
+          "refs": [
+            "2088fdcafe"
+          ]
+        },
+        {
+          "text": "The official itinerary lists Lima, Chiclayo, Cusco and Pucallpa, according to Peru's state news agency Andina.",
+          "refs": [
+            "world-w12"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "22fc8ba649",
+          "note": "Frames the return around his past in Peru, including his opposition to the president's father."
+        },
+        {
+          "ref": "0f0a785fda",
+          "note": "Presents the arrival as a national celebration."
+        },
+        {
+          "ref": "2088fdcafe",
+          "note": "Calls him the \"Peruvian pope\" and stresses the mood of the welcome."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "7df3180556",
+          "takeaway": "Summary leads with his \"homeland\" remark on arrival in Lima.",
+          "read_full": false
+        },
+        {
+          "ref": "8a5003bcf6",
+          "takeaway": "Summary gives the crowd estimate and the length of the visit.",
+          "read_full": false
+        },
+        {
+          "ref": "2088fdcafe",
+          "takeaway": "Video summary: nostalgic return at the end of a three-nation tour.",
+          "read_full": false
+        },
+        {
+          "ref": "22fc8ba649",
+          "takeaway": "Headline and summary only (paywalled): the meeting with Fujimori and his history in Peru.",
+          "read_full": false
+        },
+        {
+          "ref": "0c7155dfb7",
+          "takeaway": "Wire summary on the welcome in Chiclayo.",
+          "read_full": false
+        },
+        {
+          "ref": "6b535a0e10",
+          "takeaway": "Wire headline only: Chiclayo claims him as its own.",
+          "read_full": false
+        },
+        {
+          "ref": "0f0a785fda",
+          "takeaway": "Wire headline only: return described as a national celebration.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w12",
+          "takeaway": "Search result from Peru's state news agency on the cities in the itinerary.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "world-w1",
+      "url": "https://www.latintimes.com/us-mediate-russia-ukraine-talks-abu-dhabi-600870",
+      "title": "US to mediate Russia-Ukraine talks in Abu Dhabi",
+      "outlet": "Latin Times"
+    },
+    {
+      "id": "world-w2",
+      "url": "https://www.tovima.com/world/us-ukraine-and-russia-agree-on-314-prisoner-exchange/amp",
+      "title": "US, Ukraine and Russia Agree on 314-Prisoner Exchange",
+      "outlet": "To Vima"
+    },
+    {
+      "id": "world-w3",
+      "url": "https://www.axios.com/2026/10/17/zelensky-starlink-elon-musk-trump",
+      "title": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
+      "outlet": "Axios"
+    },
+    {
+      "id": "world-w4",
+      "url": "https://www.denvergazette.com/2026/10/15/ukraine-says-spacexs-starshield-throttling-hampers-defense/",
+      "title": "Ukraine says SpaceX's Starshield throttling hampers defense",
+      "outlet": "Denver Gazette"
+    },
+    {
+      "id": "world-w5",
+      "url": "https://www.euronews.com/2026/10/06/barcelona-housing-protest-erupts-into-clashes-as-barricades-burn",
+      "title": "Barcelona housing protest erupts into clashes as barricades burn",
+      "outlet": "Euronews"
+    },
+    {
+      "id": "world-w6",
+      "url": "https://www.irishnews.com/news/world/spain-approves-new-urgent-housing-measures-after-night-of-unrest-in-barcelona-SDRKM4LPWNMQDH6V6NU6RN3OAU/",
+      "title": "Spain approves new urgent housing measures after night of unrest in Barcelona",
+      "outlet": "The Irish News"
+    },
+    {
+      "id": "world-w7",
+      "url": "https://www.cp24.com/news/world/2026/11/03/kenya-releases-5-ebola-patients-after-negative-tests-as-2-remain-hospitalized/",
+      "title": "Kenya releases 5 Ebola patients after negative tests as 2 remain hospitalized",
+      "outlet": "CP24"
+    },
+    {
+      "id": "world-w8",
+      "url": "https://www.ibtimes.co.uk/rome-school-evacuated-after-bomb-threat-email-claiming-irans-guards-targets-271-schools-1829999",
+      "title": "Rome School Evacuated After Bomb Threat as Email Claiming to be From Iran's Guards Targets 271 Schools",
+      "outlet": "International Business Times UK"
+    },
+    {
+      "id": "world-w9",
+      "url": "https://www.thejakartapost.com/indonesia/2026/11/02/supreme-court-ruling-renews-calls-for-gibran-to-step-down",
+      "title": "Supreme Court ruling renews calls for Gibran to step down",
+      "outlet": "The Jakarta Post"
+    },
+    {
+      "id": "world-w10",
+      "url": "https://www.thejakartapost.com/indonesia/2026/11/10/ministers-leave-psi-as-house-sets-to-decide-on-gibran",
+      "title": "Ministers leave PSI as House sets to decide on Gibran",
+      "outlet": "The Jakarta Post"
+    },
+    {
+      "id": "world-w11",
+      "url": "https://en.wikipedia.org/wiki/Alexander_Darchiev",
+      "title": "Alexander Darchiev",
+      "outlet": "Wikipedia"
+    },
+    {
+      "id": "world-w12",
+      "url": "https://andina.pe/ingles/noticia-pope-leo-xiv-in-peru-when-will-he-visit-chiclayo-cusco-and-pucallpa-1092627.aspx",
+      "title": "Pope Leo XIV in Peru: When will he visit Chiclayo, Cusco, and Pucallpa?",
+      "outlet": "Andina"
+    },
+    {
+      "id": "world-w13",
+      "url": "https://dppa.dfs.un.org/en/node/212289",
+      "title": "Gaza: UN calls for probe following deadly strikes on Nasser Hospital",
+      "outlet": "United Nations"
+    }
+  ]
+}

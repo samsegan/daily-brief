@@ -1,0 +1,209 @@
+{
+  "stories": [
+    {
+      "id": "nvidia-leadership-markets",
+      "headline": "Nvidia shares fall again as board weighs CEO Jensen Huang's future, pulling AI stocks and futures lower",
+      "region": "Markets",
+      "importance": 5,
+      "summary": "Nvidia shares fell in premarket trading Thursday as its board met to decide whether founder and chief executive Jensen Huang stays in the job, according to Reuters and Bloomberg. Nasdaq and S&P 500 futures dropped and most Asian markets declined, while European shares rose. Megaspeed, the Singapore company at the center of the reports about Huang, issued its first public statement.",
+      "why_it_matters": "Nvidia is one of the largest holdings in index funds and retirement accounts, so a sharp move in its shares shows up in most people's savings. It is also the main supplier of the chips behind the artificial-intelligence boom that has driven much of the stock market's gains.",
+      "background": "Nvidia designs the chips used to train and run most artificial-intelligence systems, and Jensen Huang has led it since founding it. On Nov. 8 the company's board said it was opening an independent investigation after news reports that Huang had been the target of a foreign intelligence effort; the reports center on a former executive of Megaspeed, a Singapore company that has been a large buyer of Nvidia chips. The board said then that it had no reason to believe national security or company secrets were compromised, and Huang said he supported the investigation and would cooperate. Megaspeed has denied wrongdoing and China has denied the spying claim. Nvidia is due to report quarterly results on Nov. 17, and House committee chairs have asked Huang for a closed-door briefing the next day.",
+      "facts": [
+        { "text": "Nasdaq and S&P 500 futures fell Thursday morning as Nvidia shares dropped; the Wall Street Journal put the Nasdaq futures decline at about 1%.", "refs": ["ec3480dead", "2bbf18fcf5", "d31112cc5c"] },
+        { "text": "Nvidia's board was meeting to decide on Huang's future after reports of two extramarital affairs, Reuters reported; Bloomberg said the board was weighing whether to remove him.", "refs": ["cf0e4fab18", "d28b6a0224", "84cdfb5b92"] },
+        { "text": "Stocks were broadly lower in Asia, though some Chinese shares gained on bets that domestic chip suppliers could take business from Nvidia, the Wall Street Journal reported. The AP described world shares as mixed.", "refs": ["8366ef9e7c", "171c506a95"] },
+        { "text": "European stock indexes rose; Reuters reported that the STOXX 600 hit a record high.", "refs": ["18c9123a98", "2cb0dd90f1"] },
+        { "text": "Megaspeed issued its first public statement on Thursday since the reports emerged, MarketWatch reported.", "refs": ["d774370e47"] },
+        { "text": "Reuters reported that Megaspeed has links to a store in rural Australia, which it said raises new questions.", "refs": ["960ed289f6"] },
+        { "text": "The investment bank Baird cut its price target on Nvidia, citing supply-chain concerns, Fox Business reported.", "refs": ["144e0d02ea"] },
+        { "text": "Nvidia's board announced the independent investigation on Nov. 8, to be overseen by a committee of independent directors with outside counsel, and Huang remained chief executive while it ran.", "refs": ["business-w1", "business-w2"] },
+        { "text": "Before this week's declines the stock was already about 22% below its October peak, Dow Jones reported on Nov. 9.", "refs": ["business-w2"] },
+        { "text": "Nvidia's quarterly results are due Nov. 17, nine days after the probe was announced.", "refs": ["business-w3", "business-w4"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Huang's relationship is a security matter or a private one",
+          "positions": [
+            { "claim": "Elon Musk and other Silicon Valley figures described it as a personal lapse and not a security failure, the New York Times reported.", "refs": ["0d614d490a"] },
+            { "claim": "A former FBI agent told Fox Business that Silicon Valley is \"a center for espionage\" and pointed to the case as a warning.", "refs": ["17840aac27"] },
+            { "claim": "Nvidia's board said when it opened the probe that it had no reason to believe national security or company secrets were compromised.", "refs": ["business-w1"] }
+          ]
+        },
+        {
+          "topic": "Why European shares rose",
+          "positions": [
+            { "claim": "Investors rotated out of AI stocks, which helps a region with few big technology companies, the Wall Street Journal reported.", "refs": ["2cb0dd90f1"] },
+            { "claim": "Reuters attributed the record high to strong company earnings and easing tensions in the Middle East.", "refs": ["18c9123a98"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "2bbf18fcf5", "note": "Calls it a \"leadership crisis\" and leads with the share drop." },
+        { "ref": "171c506a95", "note": "Uses the milder \"troubles\" and stresses that markets were mixed, not uniformly down." },
+        { "ref": "17840aac27", "note": "Calls it a \"spy scandal\" and puts the espionage risk first, not the market reaction." },
+        { "ref": "0d614d490a", "note": "Leads with the tech figures who are standing by Huang." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ec3480dead", "takeaway": "Headline only: ties the fall in U.S. futures to the turbulence at Nvidia.", "read_full": false },
+        { "ref": "cf0e4fab18", "takeaway": "Headline only: Asian suppliers are planning for a possible Nvidia without Huang.", "read_full": false },
+        { "ref": "d28b6a0224", "takeaway": "Reuters story with a summary saying the board is meeting on Huang's future.", "read_full": false },
+        { "ref": "2bbf18fcf5", "takeaway": "Headline and summary only (paywalled): live markets coverage led by Nvidia's drop.", "read_full": false },
+        { "ref": "8366ef9e7c", "takeaway": "Headline and summary only (paywalled): Asian markets lower, some Chinese chip names up.", "read_full": false },
+        { "ref": "d31112cc5c", "takeaway": "Headline and summary only (paywalled): Nvidia interrupts a rally in AI stocks.", "read_full": false },
+        { "ref": "171c506a95", "takeaway": "Headline only: AP's global markets wrap, mixed session.", "read_full": false },
+        { "ref": "84cdfb5b92", "takeaway": "Headline and summary only (paywalled newsletter): says the board is weighing ousting the CEO.", "read_full": false },
+        { "ref": "d774370e47", "takeaway": "Summary only: reports Megaspeed's first public statement.", "read_full": false },
+        { "ref": "960ed289f6", "takeaway": "Headline only: Reuters' own reporting on Megaspeed's Australian links.", "read_full": false },
+        { "ref": "18c9123a98", "takeaway": "Headline only: European shares at a record on earnings and the Middle East.", "read_full": false },
+        { "ref": "2cb0dd90f1", "takeaway": "Headline and summary only (paywalled): Europe gains from a move out of AI stocks.", "read_full": false },
+        { "ref": "0d614d490a", "takeaway": "Headline and summary only (paywalled): tech allies defend Huang.", "read_full": false },
+        { "ref": "17840aac27", "takeaway": "Headline only: a former FBI agent on espionage risk in Silicon Valley.", "read_full": false },
+        { "ref": "144e0d02ea", "takeaway": "Headline only: an analyst price-target cut.", "read_full": false },
+        { "ref": "business-w1", "takeaway": "Search result: the board's Nov. 8 statement, Megaspeed's and Beijing's denials.", "read_full": false },
+        { "ref": "business-w2", "takeaway": "Search result: Dow Jones on the first market reaction on Nov. 9.", "read_full": false },
+        { "ref": "business-w3", "takeaway": "Search result: premarket fall and the question of who could succeed Huang.", "read_full": false },
+        { "ref": "business-w4", "takeaway": "Search result: timing of the probe against the earnings date.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "fed-rate-hike-bets",
+      "headline": "Bets on a December Fed rate increase lift the dollar and push gold below $4,000",
+      "region": "Fed",
+      "importance": 4,
+      "summary": "Investors are increasingly expecting the Federal Reserve to raise interest rates next month after hotter-than-expected inflation data and firm comments from Fed officials, the Wall Street Journal and Bloomberg reported. Gold fell for a third day and stayed under $4,000 an ounce, the dollar strengthened and bond yields in Asia rose. The New York Times reported that Fed officials are divided over how quickly to raise rates.",
+      "why_it_matters": "Higher Fed rates feed through to what people pay on mortgages, car loans and credit cards; the average 30-year mortgage rate is already above 7%. They are meant to slow price increases, which have been running well above the Fed's 2% goal.",
+      "background": "The Federal Reserve sets a short-term interest rate that influences borrowing costs across the economy; it raises the rate to cool inflation and lowers it to support growth. Consumer prices rose 3.7% in the year to September, more than forecasters expected. The Fed left its rate at 3.75% to 4% at its Oct. 28 meeting, and its next decision comes in December. Gold pays no interest, so it tends to lose appeal when rates and the dollar rise.",
+      "facts": [
+        { "text": "Gold fell for a third day and extended its drop below $4,000 an ounce, Bloomberg reported; Reuters said it hit a one-week low as the dollar rallied.", "refs": ["e681dfb1ff", "eef181ef8e", "6477754ea8"] },
+        { "text": "Hotter-than-expected U.S. inflation data and comments from Fed officials raised the chances of a rate increase next month, and Asian bond yields rose, the Wall Street Journal reported.", "refs": ["f699ac85e0"] },
+        { "text": "Bloomberg reported that markets expect a series of rate increases, not just one.", "refs": ["e681dfb1ff"] },
+        { "text": "Fed officials agree that rates need to rise but are split on the pace, the New York Times reported.", "refs": ["971248e3ab"] },
+        { "text": "The euro is at risk of falling below $1.10 in the coming days, the bank ING said, according to the Wall Street Journal.", "refs": ["8d97692107"] },
+        { "text": "The Fed held its policy rate at 3.75% to 4% on Oct. 28.", "refs": ["business-w5"] },
+        { "text": "Vanguard said it shares the market's expectation of a second 2026 rate increase in December.", "refs": ["business-w6"] },
+        { "text": "Consumer prices rose about 3.7% in the year to September, above the 3.6% forecasters expected.", "refs": ["business-w7"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "971248e3ab", "note": "States a rate increase as a necessity (\"has to\") and makes the internal split the story." },
+        { "ref": "f699ac85e0", "note": "Treats a rate increase as a growing expectation, told through bond markets." },
+        { "ref": "eef181ef8e", "note": "Tells it through gold and the dollar, with the Fed as the cause." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e681dfb1ff", "takeaway": "Headline and summary only (paywalled): gold's third daily fall, tied to inflation and Fed remarks.", "read_full": false },
+        { "ref": "eef181ef8e", "takeaway": "Headline only: gold at a one-week low on a stronger dollar.", "read_full": false },
+        { "ref": "6477754ea8", "takeaway": "Headline and summary only (paywalled): gold lower in early Asian trade.", "read_full": false },
+        { "ref": "f699ac85e0", "takeaway": "Headline and summary only (paywalled): Asian yields up on U.S. rate expectations.", "read_full": false },
+        { "ref": "971248e3ab", "takeaway": "Headline and summary only (paywalled): Fed officials divided on pace.", "read_full": false },
+        { "ref": "8d97692107", "takeaway": "Headline and summary only (paywalled): a bank's forecast of further euro weakness.", "read_full": false },
+        { "ref": "business-w5", "takeaway": "Search result: report on the Fed's Oct. 28 decision to hold rates.", "read_full": false },
+        { "ref": "business-w6", "takeaway": "Search result: an asset manager's outlook expecting a December increase.", "read_full": false },
+        { "ref": "business-w7", "takeaway": "Search result: roundup of coverage of the September inflation report.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "msci-drops-strategy",
+      "headline": "MSCI to remove Strategy, the largest corporate bitcoin holder, from its global indexes",
+      "region": "Markets",
+      "importance": 3,
+      "summary": "Index provider MSCI ruled that Strategy is ineligible for its global stock indexes and will drop it, Reuters and the Wall Street Journal reported. Strategy shares fell in premarket trading Thursday. Funds that track MSCI indexes will have to sell the stock.",
+      "why_it_matters": "Index funds buy whatever is in the index, so removal forces automatic selling and can weigh on the share price. Anyone holding Strategy shares, or funds built around bitcoin-holding companies, is directly exposed.",
+      "background": "Strategy, formerly MicroStrategy, is a software company that has turned itself into a vehicle for buying and holding bitcoin, funded by selling shares and debt. MSCI builds stock indexes that trillions of dollars of investment funds follow. In 2025 it proposed excluding companies whose assets are mostly cryptocurrency, then withdrew that plan; this year it adopted a broader rule making \"non-operating companies\" ineligible, which takes effect with its November index review. Strategy publicly opposed the change.",
+      "facts": [
+        { "text": "MSCI will drop Strategy from its global indexes, putting billions of dollars of index-fund investment at risk, Reuters reported.", "refs": ["a06e7060f8"] },
+        { "text": "Strategy shares fell in premarket trading after MSCI ruled the company ineligible, the Wall Street Journal reported.", "refs": ["9bd8abe050"] },
+        { "text": "MSCI said in October that non-operating companies would be ineligible for its Global Investable Market Indexes from the close of Nov. 30, with the final list of affected companies due Nov. 11.", "refs": ["business-w8"] },
+        { "text": "Strategy objected to the proposal in August and argued it was out of step with regulators and markets.", "refs": ["business-w9", "business-w10"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "a06e7060f8", "note": "Stresses the money at stake for the company from index funds." },
+        { "ref": "9bd8abe050", "note": "Identifies Strategy by its bitcoin holdings and leads with the premarket share drop." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a06e7060f8", "takeaway": "Headline only: the decision and the fund flows at risk.", "read_full": false },
+        { "ref": "9bd8abe050", "takeaway": "Headline and summary only (paywalled): the ruling and the share reaction.", "read_full": false },
+        { "ref": "business-w8", "takeaway": "Search result: October report on MSCI's rule and its timetable.", "read_full": false },
+        { "ref": "business-w9", "takeaway": "Search result: Strategy's response to the proposal.", "read_full": false },
+        { "ref": "business-w10", "takeaway": "Search result: August report on the proposal covering Strategy and Metaplanet.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "united-blocks-ai-agents",
+      "headline": "United Airlines bars AI agents from booking flights for customers",
+      "region": "Tech",
+      "importance": 3,
+      "summary": "United Airlines said it will not allow artificial-intelligence agents to log into customer accounts, book flights or manage reservations, citing security risks and federal rules, CBS News and the New York Times reported. The New York Post reported that Meta shares fell Wednesday on the news, because flight booking has been promoted as a use for Meta's Muse agent.",
+      "why_it_matters": "Travelers who have started handing bookings to an AI assistant will have to book United flights themselves. The move adds to a list of large companies limiting what these assistants can do with customer accounts.",
+      "background": "AI agents are assistants that can act on a person's behalf online, such as logging into a website and completing a purchase. Meta, OpenAI and others have released agents this year and promoted travel booking as a main use. Since the autumn, companies including Amazon, Delta Air Lines, JPMorgan Chase and Charles Schwab have been reported to block such agents from their sites or customer accounts.",
+      "facts": [
+        { "text": "United is barring AI agents from logging into customer accounts, booking flights and managing reservations.", "refs": ["1399104b49", "a404168c8b", "e328a9bbae"] },
+        { "text": "United said the practice poses security risks to customer information and could violate federal rules.", "refs": ["1399104b49", "a404168c8b"] },
+        { "text": "Meta shares fell Wednesday; the New York Post linked the drop to United's decision and its effect on Meta's Muse agent.", "refs": ["e328a9bbae"] },
+        { "text": "Amazon, Delta, JPMorgan Chase and Charles Schwab have also been reported to block third-party AI agents.", "refs": ["business-w11", "business-w12"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "1399104b49", "note": "Uses \"bans\" and gives United's security and legal reasons." },
+        { "ref": "a404168c8b", "note": "Uses \"blocks\" and presents it as protecting customer data and following regulations." },
+        { "ref": "e328a9bbae", "note": "Makes the fall in Meta's share price the main consequence." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "1399104b49", "takeaway": "Summary only: United's stated security and regulatory reasons.", "read_full": false },
+        { "ref": "a404168c8b", "takeaway": "Headline and summary only (paywalled): what agents are barred from doing.", "read_full": false },
+        { "ref": "e328a9bbae", "takeaway": "Summary only: the only outlet in the digest tying the news to Meta's share price.", "read_full": false },
+        { "ref": "business-w11", "takeaway": "Search result: explainer on why large companies are blocking agents.", "read_full": false },
+        { "ref": "business-w12", "takeaway": "Search result: October report on banks and retailers blocking agents.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "polymarket-layoffs",
+      "headline": "Polymarket cuts jobs and contracts in a restructuring as prediction-market competition grows",
+      "region": "",
+      "importance": 2,
+      "summary": "Prediction-market company Polymarket confirmed layoffs as part of a restructuring, Fox Business reported. Reuters reported that it is cutting jobs and contracts as competition in the sector increases.",
+      "why_it_matters": "Prediction markets, where people bet on the outcome of elections, sports and other events, drew wide attention in this month's midterm elections. Cuts at one of the two biggest platforms show the business is under pressure even as its use spreads.",
+      "background": "Prediction markets let users buy and sell contracts that pay out depending on whether an event happens, so prices work like odds. Polymarket and its rival Kalshi are the best-known platforms, and Bloomberg reported that both were widely used as forecasting tools in the 2026 midterms. Critics cited by Bloomberg warn that the markets create new risks for elections.",
+      "facts": [
+        { "text": "Polymarket is cutting jobs and contracts as competition among prediction markets increases, Reuters reported.", "refs": ["d9049127cd"] },
+        { "text": "Polymarket confirmed the layoffs and described them as part of a restructuring, Fox Business reported.", "refs": ["3515e0c7fc"] },
+        { "text": "Kalshi and Polymarket were prominent as election forecasting tools in the 2026 midterms, and critics warn of risks to democracy, Bloomberg reported.", "refs": ["7033c29922"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "d9049127cd", "note": "Attributes the cuts to competition." },
+        { "ref": "3515e0c7fc", "note": "Calls Polymarket a \"giant\" and stresses the scale of the restructuring." },
+        { "ref": "7033c29922", "note": "Does not mention the cuts; presents the industry as a rising force and includes critics' warnings." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d9049127cd", "takeaway": "Headline only: job and contract cuts, linked to competition.", "read_full": false },
+        { "ref": "3515e0c7fc", "takeaway": "Headline only: company confirmation of layoffs.", "read_full": false },
+        { "ref": "7033c29922", "takeaway": "Headline and summary only (paywalled): the industry's role in the midterms.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "business-w1", "url": "https://www.khaleejtimes.com/business/nvidia-shares-slide-as-board-probes-ceo-over-china-spy-reports-2", "title": "Nvidia shares slide as board probes CEO over China spy reports", "outlet": "Khaleej Times" },
+    { "id": "business-w2", "url": "https://www.morningstar.com/news/dow-jones/2026110964/nvidia-futures-fall-after-board-probes-reports-ceo-was-spy-target", "title": "Nvidia Futures Fall After Board Probes Reports CEO Was Spy Target", "outlet": "Dow Jones via Morningstar" },
+    { "id": "business-w3", "url": "https://stockanalysis.com/news/nvidia-huang-spy-probe-premarket-drop/", "title": "Nvidia falls 4.5% premarket as the Huang spy probe raises the question of who could succeed him", "outlet": "Stock Analysis" },
+    { "id": "business-w4", "url": "https://fourweekmba.com/ai-nvidia-board-opens-independent-probe-9-days-before-results/", "title": "Nvidia Board Opens Independent Probe 9 Days Before Results", "outlet": "FourWeekMBA" },
+    { "id": "business-w5", "url": "https://www.breitbart.com/politics/2026/10/28/fed-holds-rates-steady-2", "title": "Fed Holds Rates Steady Amid Strong Expansion and Elevated Inflation", "outlet": "Breitbart" },
+    { "id": "business-w6", "url": "https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/inflation-remains-front-center-as-fed-holds.html", "title": "Inflation remains front and center as Fed holds", "outlet": "Vanguard" },
+    { "id": "business-w7", "url": "https://ground.news/daily-briefing/1d17e18b-f14e-4183-b479-2358af17ce87", "title": "10-Year Treasury Yield Briefly Tops 5.32% After Hotter CPI", "outlet": "Ground News" },
+    { "id": "business-w8", "url": "https://www.khaleejtimes.com/business/cryptocurrency/strategy-and-bitcoin-buying-firms-face-wider-exclusion-from-stock-indexes-2", "title": "Strategy and bitcoin-buying firms face wider exclusion from stock indexes", "outlet": "Khaleej Times" },
+    { "id": "business-w9", "url": "https://bitcoinmagazine.com/news/strategy-slams-msci-possible-index-removal", "title": "Strategy slams MSCI possible index removal", "outlet": "Bitcoin Magazine" },
+    { "id": "business-w10", "url": "https://www.theblock.co/news/business/2026-08-14-strategy-metaplanet-msci-index-proposal-411809", "title": "Strategy, Metaplanet could face MSCI index removal under new proposal", "outlet": "The Block" },
+    { "id": "business-w11", "url": "https://officechai.com/ai/amazon-jpmorgan-schwab-and-delta-are-all-blocking-ai-agents-heres-why/", "title": "Amazon, JPMorgan, Schwab And Delta Are All Blocking AI Agents: Here's Why", "outlet": "OfficeChai" },
+    { "id": "business-w12", "url": "https://www.androidheadlines.com/2026/10/banks-retail-websites-block-ai-agents-promises.html", "title": "Banks, retail websites block AI agents", "outlet": "Android Headlines" }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "overview": "Nvidia's board met to decide whether chief executive Jensen Huang keeps his job after reports of a second extramarital affair, days after news of his relationship with a woman suspected of spying for China; the company's shares fell again before Thursday's open and pulled other AI stocks down with them. Democrat Scott Colom won Mississippi's U.S. Senate race over Republican Sen. Cindy Hyde-Smith, becoming the state's first Black senator since the Reconstruction era, in a state President Trump carried by 22 points two years ago. In Brooklyn, a three-story building collapsed into a neighboring excavation site on Wednesday, killing at least two people, city officials said; Gothamist and the New York Post reported higher tolls of four and five on Thursday morning as the search of the rubble continued. Overseas, U.S. envoys Steve Witkoff and Jared Kushner arrived in Moscow to meet Vladimir Putin after Russia and Ukraine agreed to a large prisoner exchange at talks in Abu Dhabi.",
+  "markets": {
+    "summary": "U.S. stocks were set to open lower on Thursday, with Nvidia again the main reason. Futures, which are contracts that let investors bet on where an index will open, pointed to a drop of about 1% for the Nasdaq, the Wall Street Journal reported, as Nvidia's shares fell almost 6% before the open while its board weighed the future of chief executive Jensen Huang, according to the Financial Times. Asian markets were mostly lower, while European shares rose as investors moved money out of AI companies, the Journal reported. Separately, Tuesday's higher-than-expected inflation reading and comments from Federal Reserve officials have raised expectations that the Fed will lift interest rates in December, which has strengthened the dollar and pushed gold to a one-week low, Reuters reported. Some rows in the quote table are a day or more old: the S&P 500 figure is from Nov. 10, Treasury yields from Nov. 9 and oil prices from Nov. 3.",
+    "movers": [
+      {
+        "symbol": "NASDAQCOM",
+        "why": "Rose 1.60% on Wednesday, recovering part of a month-long slide of about 6.5%, but futures pointed to a fall of about 1% on Thursday as Nvidia's leadership crisis weighed on AI stocks."
+      },
+      {
+        "symbol": "NIKKEI225",
+        "why": "Japan's benchmark gained 1.31% on Wednesday yet is still about 11% below its level a month ago; Asian markets were broadly lower on Thursday as Nvidia's troubles spread to its suppliers, the Wall Street Journal reported."
+      },
+      {
+        "symbol": "DTWEXBGS",
+        "why": "The dollar has been strengthening against other currencies as traders bet the Fed will raise interest rates in December; higher U.S. rates make holding dollars more rewarding. The figure shown is from Nov. 6."
+      },
+      {
+        "symbol": "CBBTCUSD",
+        "why": "Bitcoin edged up 0.65% but is down nearly 10% in a month; Strategy, the largest corporate holder of bitcoin, fell before the open after index provider MSCI ruled it ineligible for its global indexes."
+      }
+    ],
+    "concept": {
+      "term": "Stock futures",
+      "explanation": "Stock index futures are contracts to buy or sell a stock index, such as the Nasdaq or S&P 500, at a set price on a future date. They trade almost around the clock, so when news breaks overnight, as with Nvidia's board meeting, futures show how investors are reacting before the stock market opens at 9:30 a.m. New York time. They move on anything that changes expectations for company profits or interest rates, including earnings, economic reports and events overseas. For most people they matter as an early signal of how the funds in a retirement account may move that day, though the actual open can differ from what futures suggested."
+    },
+    "watch": [
+      "Fri Nov 13: October producer price index, a measure of wholesale inflation",
+      "Tue Nov 17: October retail sales report",
+      "Tue Nov 17: Nvidia reports quarterly earnings after the market closes",
+      "Tue-Wed Dec 8-9: Federal Reserve policy meeting"
+    ]
+  },
+  "trending": [
+    {
+      "title": "Jensen Huang",
+      "context": "More than 340,000 people viewed the Nvidia chief executive's Wikipedia page as the company's board met to decide his future; a Bluesky topic follows President Trump's stance on him.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "Scott Colom",
+      "context": "Bluesky users are sharing a campaign ad from the Democrat who won Mississippi's U.S. Senate race, the state's first Black senator since Reconstruction.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Building collapse in Brooklyn",
+      "context": "People are posting about the three-story building in Flatbush that fell into a neighboring excavation site on Wednesday; city officials confirmed at least two deaths and later reports put the toll higher.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Arlington guard reprimands Hegseth's entourage",
+      "context": "Video shows a sentinel at the Tomb of the Unknown Soldier calling for silence and respect toward a group with Defense Secretary Pete Hegseth after a Veterans Day ceremony, Reuters and Fox News reported.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "SS United States",
+      "context": "The ocean liner that set a transatlantic speed record in 1952 was sunk off Destin, Florida, on Wednesday to become an artificial reef, the Guardian reported.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "Kushner, Witkoff lead Ukraine talks",
+      "context": "Bluesky users are discussing the two U.S. envoys' trip to Moscow to meet Vladimir Putin after talks in Abu Dhabi produced a prisoner-exchange agreement.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Novaya Gazeta",
+      "context": "One of Russia's oldest independent newspapers has closed under pressure from the Russian authorities, according to Wikipedia's news summary.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "Stacy Keach",
+      "context": "The actor's Wikipedia page drew more than 560,000 views, the most of any article, after reports of his death at 85.",
+      "signal": "wikipedia"
+    }
+  ]
+}

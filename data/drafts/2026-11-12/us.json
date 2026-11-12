@@ -1,0 +1,296 @@
+{
+  "stories": [
+    {
+      "id": "colom-mississippi-senate",
+      "headline": "Democrat Scott Colom wins Mississippi Senate seat after a week-long count",
+      "region": "Elections",
+      "importance": 5,
+      "summary": "Democrat Scott Colom, a district attorney, defeated Republican Sen. Cindy Hyde-Smith in Mississippi's U.S. Senate race, which was called Wednesday after more than a week of ballot counting. He will be the first Black senator elected from Mississippi since the Reconstruction era. One Senate race, in Alaska, has still not been called.",
+      "why_it_matters": "The result enlarges the Democratic majority that takes over the Senate in January, which affects what legislation, nominees and investigations can move in the next two years.",
+      "background": "Mississippi held its Senate election on Nov. 3 along with the rest of the midterms, in which Democrats won control of both chambers of Congress. The race between Colom, a prosecutor, and Hyde-Smith, the Republican incumbent, was separated by a few dozen votes in early unofficial counts, and outstanding mail-in and affidavit ballots took days to tally. Mississippi is a reliably Republican state in federal elections; the BBC noted that President Trump carried it by 22 points two years ago. The state's only previous Black senators, Hiram Revels and Blanche Bruce, served in the 1870s and early 1880s.",
+      "facts": [
+        { "text": "Colom defeated Hyde-Smith in a race that was called on Wednesday, Nov. 11, after a prolonged ballot count.", "refs": ["9d532f4421", "6687a15dfe", "35d2e09ffa"] },
+        { "text": "He will be the first Black U.S. senator from Mississippi since the post-Civil War Reconstruction period, and the third in the state's history after Hiram Revels and Blanche Bruce.", "refs": ["35d2e09ffa", "20ab5c82b9", "2d1a0f3915"] },
+        { "text": "Early unofficial counts on Nov. 4 showed Colom ahead by 43 votes, 462,821 to 462,778, with thousands of affidavit and mail-in ballots still to be counted, according to local reports at the time.", "refs": ["us-w1", "us-w2"] },
+        { "text": "Hyde-Smith's campaign said on Nov. 4 that it was confident she would be re-elected once every legally cast vote was counted.", "refs": ["us-w1"] },
+        { "text": "The New York Sun reported that the win gives Democrats at least 55 Senate seats in the next Congress.", "refs": ["eb4bb82679"] },
+        { "text": "Trump won Mississippi by 22 points two years ago, the BBC reported.", "refs": ["e4a5945bc1"] },
+        { "text": "Colom held his victory event at Tougaloo College, where The Guardian reported about a thousand people gathered.", "refs": ["4cfb083805", "5c7735e199"] },
+        { "text": "Alaska's Senate race between Democrat Mary Peltola and Republican Sen. Dan Sullivan has not been called; a state judge on Wednesday denied the Peltola campaign's request for data on rejected absentee ballots.", "refs": ["2431a000ea", "566470b940"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How long it has been since Mississippi had a Democratic senator",
+          "positions": [
+            { "claim": "NPR's summary says the state has not had a Democrat in the office since 1980.", "refs": ["984d23b5f6"] },
+            { "claim": "Local reporting says the last Democrat elected to the Senate from Mississippi was John Stennis in 1982.", "refs": ["us-w2"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "75a5198eaa", "note": "Leads with national Democrats celebrating, including a quip from Bill Clinton about the long count." },
+        { "ref": "eb4bb82679", "note": "Leads with the Senate arithmetic: a Democratic majority of at least 55 seats." },
+        { "ref": "35d2e09ffa", "note": "Leads with the historical first: the state's first Black senator since Reconstruction." },
+        { "ref": "4cfb083805", "note": "A scene piece from the victory party, focused on supporters' emotion rather than the vote count." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "35d2e09ffa", "takeaway": "Headline only: wire report of the call, stressing the Reconstruction-era milestone.", "read_full": false },
+        { "ref": "75a5198eaa", "takeaway": "Summary only: Democratic reaction to the win, including Bill Clinton's.", "read_full": false },
+        { "ref": "20ab5c82b9", "takeaway": "Headline and summary only (paywalled): identifies Colom as a prosecutor and notes the historic first.", "read_full": false },
+        { "ref": "2d1a0f3915", "takeaway": "Headline and summary only (paywalled): history of Revels and Bruce, the state's two earlier Black senators.", "read_full": false },
+        { "ref": "5c7735e199", "takeaway": "Headline and summary only (paywalled): supporters' celebration at Tougaloo College.", "read_full": false },
+        { "ref": "984d23b5f6", "takeaway": "Summary only: profile of Colom's path from district attorney, calling the win a major upset.", "read_full": false },
+        { "ref": "e4a5945bc1", "takeaway": "Summary only: sets the win against Trump's 22-point margin in the state.", "read_full": false },
+        { "ref": "9d532f4421", "takeaway": "Summary only: notes the narrow margin and prolonged count.", "read_full": false },
+        { "ref": "6687a15dfe", "takeaway": "Summary only: says networks projected the win Wednesday.", "read_full": false },
+        { "ref": "eb4bb82679", "takeaway": "Headline only: focuses on the size of the Democratic Senate majority.", "read_full": false },
+        { "ref": "4cfb083805", "takeaway": "Summary only: color from the victory party.", "read_full": false },
+        { "ref": "2431a000ea", "takeaway": "Summary only: the Alaska court ruling in the one Senate race still uncalled.", "read_full": false },
+        { "ref": "566470b940", "takeaway": "Summary only: names the Alaska candidates and the judge's ruling.", "read_full": false },
+        { "ref": "us-w1", "takeaway": "Search result: Nov. 4 report on the near-tied early count and Hyde-Smith campaign statement.", "read_full": false },
+        { "ref": "us-w2", "takeaway": "Search result: Nov. 4 local explainer on uncounted ballots and the Stennis precedent.", "read_full": false }
+      ],
+      "social": "The Hill reported Democrats rallying around the result, quoting former President Bill Clinton saying that \"Blue Mississippi sure has a nice ring to it.\""
+    },
+    {
+      "id": "white-house-oversight-letter",
+      "headline": "White House tells Democrats their planned investigations could be criminal",
+      "region": "White House",
+      "importance": 5,
+      "summary": "White House counsel Will Scharf sent a letter Wednesday to Rep. Robert Garcia, the Democrat set to chair the House Oversight Committee, saying Democrats' promised investigations of the Trump administration \"may cross the line into blatant criminality.\" Garcia responded that the Constitution gives Congress latitude to investigate and said the president appears to have \"something to hide.\" Democrats take control of Congress in January.",
+      "why_it_matters": "Congressional oversight is one of the main ways the public learns how the government is spending money and using its power; a fight over whether lawmakers can be investigated for conducting it would shape how much of that happens in the next two years.",
+      "background": "Democrats won control of the House and Senate in the Nov. 3 midterms and will gain subpoena power when the new Congress is seated in January. Garcia, a California Democrat who is currently the Oversight Committee's ranking member, posted \"lawyer up\" on election night and has said he plans inquiries into administration officials. Days before the letter, Axios reported that Deputy Attorney General Todd Blanche did not rule out prosecuting Democrats over what the administration called oversight threats. The Constitution's Speech or Debate Clause generally shields lawmakers from prosecution for legislative acts.",
+      "facts": [
+        { "text": "Scharf, the White House's top lawyer, sent the letter to Garcia on Wednesday; it says Democrats' pledges to investigate the administration \"may cross the line into blatant criminality.\"", "refs": ["0d698ab74c", "cbf76496af", "e9bd45ec6a"] },
+        { "text": "CBS News reported that Scharf warned congressional subpoenas could lead to investigations by the executive branch.", "refs": ["11f8839dbe"] },
+        { "text": "Garcia said the Constitution grants Congress \"latitude to conduct investigations.\"", "refs": ["46cc8731d6"] },
+        { "text": "Garcia said it appears Trump has \"something to hide,\" The Guardian reported.", "refs": ["cbf76496af"] },
+        { "text": "The New York Times reported it was not clear what legal basis could support the threat, noting that the Constitution grants lawmakers immunity for legislative acts.", "refs": ["ebd23b12fb"] },
+        { "text": "Garcia posted \"LAWYER UP\" on X on election night, and Axios reported on Nov. 8 that Blanche singled out that remark and would not rule out prosecutions.", "refs": ["us-w3", "us-w4"] },
+        { "text": "Rep. Ro Khanna told Fox News that Democrats can pursue investigations and an affordability agenda at the same time.", "refs": ["eae24f3cdc"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the planned investigations are legitimate oversight",
+          "positions": [
+            { "claim": "The White House counsel's letter says Democrats' promised investigations may amount to criminal conduct and overreach of congressional authority.", "refs": ["0d698ab74c", "c64c9bb110"] },
+            { "claim": "Garcia says the Constitution gives Congress latitude to investigate; the Times notes lawmakers have constitutional immunity for legislative acts.", "refs": ["46cc8731d6", "ebd23b12fb"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "ebd23b12fb", "note": "Says the White House \"threatens Congress\" and stresses the unclear legal basis." },
+        { "ref": "c64c9bb110", "note": "Describes the letter as a warning \"against overreach\" and the Democrats' plans as \"investigation threats.\"" },
+        { "ref": "f82e9c2e4a", "note": "Calls it a \"warning\" and describes such investigations as a standard oversight function of Congress." },
+        { "ref": "3ee999d431", "note": "Presents it as a two-sided \"clash\" between the White House and Congress." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "0d698ab74c", "takeaway": "Summary only: publishes the letter and quotes its key phrase.", "read_full": false },
+        { "ref": "f82e9c2e4a", "takeaway": "Summary only: frames investigations as routine congressional oversight.", "read_full": false },
+        { "ref": "e9bd45ec6a", "takeaway": "Headline only: wire story carried by several outlets.", "read_full": false },
+        { "ref": "cbf76496af", "takeaway": "Summary only: leads with Garcia's \"something to hide\" response.", "read_full": false },
+        { "ref": "46cc8731d6", "takeaway": "Summary only: quotes Garcia on Congress's constitutional latitude.", "read_full": false },
+        { "ref": "ebd23b12fb", "takeaway": "Headline and summary only (paywalled): questions the legal basis for the threat.", "read_full": false },
+        { "ref": "11f8839dbe", "takeaway": "Summary only: says subpoenas could prompt executive-branch investigations.", "read_full": false },
+        { "ref": "c64c9bb110", "takeaway": "Summary only: casts the letter as a caution against congressional overreach.", "read_full": false },
+        { "ref": "3ee999d431", "takeaway": "Headline only: describes a clash between the two branches.", "read_full": false },
+        { "ref": "eae24f3cdc", "takeaway": "Summary only: Khanna on whether investigations distract from Democrats' economic agenda.", "read_full": false },
+        { "ref": "us-w3", "takeaway": "Search result: earlier report that Blanche would not rule out prosecuting Democrats.", "read_full": false },
+        { "ref": "us-w4", "takeaway": "Search result: Garcia's election-night \"lawyer up\" post and hearing plans.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "hegseth-impeachment-vote",
+      "headline": "House sets aside Hegseth impeachment articles 211-204 as 11 Democrats miss the vote",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "House Republicans voted 211-204 on Tuesday to sideline eight articles of impeachment against Defense Secretary Pete Hegseth brought by Rep. Thomas Massie, a Kentucky Republican. Eleven Democrats were absent, and several have since apologized as colleagues criticized them. Democrats say they will return to the issue when they hold the majority in January.",
+      "why_it_matters": "The vote was a formal attempt to remove the official running the military during the Iran conflict, and the seven-vote margin was smaller than the number of Democrats who were absent.",
+      "background": "Hegseth leads the Pentagon and has been a central figure in the administration's military operations, including the conflict with Iran. Massie, a Republican who frequently breaks with President Trump and is leaving Congress, filed the impeachment resolution on Nov. 9 and forced a floor vote without his leadership's backing. Republicans still control the House until January, so the measure needed some Republican votes and full Democratic attendance to advance. Impeachment by the House would have sent the charges to the Senate for a trial.",
+      "facts": [
+        { "text": "The House voted 211-204 on Tuesday on a Republican motion that blocked Massie's impeachment effort.", "refs": ["cff0fe82f3"] },
+        { "text": "Eleven Democrats missed the vote, and the effort failed by seven votes.", "refs": ["4374ccda97", "adc03f99cb", "f020ca869b"] },
+        { "text": "The resolution contained eight articles of impeachment, which Republicans sent back to committee, The Hill reported.", "refs": ["b5e53c3aea"] },
+        { "text": "Massie filed the resolution on Monday, Nov. 9.", "refs": ["us-w5"] },
+        { "text": "Rep. Melanie Stansbury, D-N.M., one of the absent members, said rush-hour traffic caused her to miss the vote, the New York Post reported.", "refs": ["cff0fe82f3"] },
+        { "text": "Absent Democrats apologized, The Washington Post reported.", "refs": ["10b3c75742"] },
+        { "text": "Massie said he would force more votes that are difficult for Republicans in his remaining weeks in office, according to The New York Times.", "refs": ["e152d555bd"] },
+        { "text": "Rep.-elect Zach Dembo, D-Ky., a former Navy lawyer, said it would be \"premature\" to discuss impeaching Hegseth.", "refs": ["c33204f126"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "4374ccda97", "note": "Says Republicans \"block\" the attempt and centers Democrats' anger at absent colleagues." },
+        { "ref": "df21cb6015", "note": "Calls it a Democratic \"blunder\" that ended a post-election honeymoon, and uses the title \"Secretary of War.\"" },
+        { "ref": "b5e53c3aea", "note": "Frames it as Hegseth surviving one round, with Democrats planning more." },
+        { "ref": "cff0fe82f3", "note": "Focuses on one absent Democrat's emotional explanation about traffic." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "4374ccda97", "takeaway": "Summary only: Democrats' criticism of the 11 absentees; gives the seven-vote margin.", "read_full": false },
+        { "ref": "adc03f99cb", "takeaway": "Summary only: newsletter on Democratic frustration over a missed opportunity.", "read_full": false },
+        { "ref": "f020ca869b", "takeaway": "Headline and summary only (paywalled): backlash against absent Democrats a week after their election wins.", "read_full": false },
+        { "ref": "e152d555bd", "takeaway": "Headline and summary only (paywalled): Massie's plans for more forced votes.", "read_full": false },
+        { "ref": "cff0fe82f3", "takeaway": "Summary only: gives the 211-204 tally and Stansbury's explanation.", "read_full": false },
+        { "ref": "10b3c75742", "takeaway": "Headline only (paywalled): absent lawmakers apologize.", "read_full": false },
+        { "ref": "b5e53c3aea", "takeaway": "Summary only: what Democrats plan next on Hegseth.", "read_full": false },
+        { "ref": "c33204f126", "takeaway": "Summary only: a newly elected Kentucky Democrat declines to commit to impeachment.", "read_full": false },
+        { "ref": "df21cb6015", "takeaway": "Summary only: treats the vote as one of two Democratic floor setbacks this week.", "read_full": false },
+        { "ref": "us-w5", "takeaway": "Search result: wire report on Massie filing the resolution Nov. 9.", "read_full": false }
+      ],
+      "social": "The Guardian and The Hill reported that Democratic lawmakers publicly criticized the colleagues who were absent; this is reaction from within the party, not an independent measure of public opinion."
+    },
+    {
+      "id": "bessent-military-base",
+      "headline": "Treasury Secretary Bessent moves to a military base after reported Iranian threats",
+      "region": "White House",
+      "importance": 3,
+      "summary": "Treasury Secretary Scott Bessent has moved from his Washington-area home to a U.S. military base because of concerns for his safety, according to the Associated Press, The Hill and CBS News, each citing sources or officials. Several outlets attributed the move to threats linked to Iran. He joins other senior administration officials who live on bases for security reasons.",
+      "why_it_matters": "A threat serious enough to relocate the official who runs U.S. sanctions and the Treasury is a sign of how the conflict with Iran is reaching officials at home.",
+      "background": "Bessent has led the administration's campaign of sanctions and financial pressure against Iran, with which the United States has been in a military conflict. Cabinet secretaries normally live in private homes with a security detail. During this administration several senior officials have instead moved into housing on military installations in the Washington area, citing safety concerns. The reporting on Bessent's move rests on unnamed sources and officials; the digest summaries do not include an on-the-record Treasury statement.",
+      "facts": [
+        { "text": "Bessent has moved from his home in the Washington, D.C., area to a U.S. military base over safety concerns.", "refs": ["a96635d740", "2e3f957375", "c336022859"] },
+        { "text": "A source told The Hill the move was due to Iranian threats; CBS News cited officials describing Iranian threats to his life.", "refs": ["2e3f957375", "7fd6489d82"] },
+        { "text": "Recent U.S. intelligence showed Iran has stepped up efforts to target American personnel in the Middle East and elsewhere, according to the AP report carried by PBS.", "refs": ["9b6ba7b71b"] },
+        { "text": "Bessent has led the administration's economic pressure campaign against Tehran, The Wall Street Journal noted.", "refs": ["0ac8c5d7f1"] },
+        { "text": "He is one of several Trump administration officials living on military bases because of safety concerns.", "refs": ["9e192a2ac3", "us-w6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "a96635d740", "note": "Says \"safety concerns\" without naming Iran in the headline, and flags the single anonymous source." },
+        { "ref": "9e192a2ac3", "note": "Calls the Iranian threats \"alleged.\"" },
+        { "ref": "0ac8c5d7f1", "note": "Says the threats are \"linked to Iran\" and ties them to Bessent's sanctions role." },
+        { "ref": "c336022859", "note": "States the Iran threats as the reason for the move." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a96635d740", "takeaway": "Headline only: wire report sourced to one person familiar with the move.", "read_full": false },
+        { "ref": "9b6ba7b71b", "takeaway": "Summary only: carries the AP report and its line on U.S. intelligence about Iran.", "read_full": false },
+        { "ref": "2e3f957375", "takeaway": "Summary only: own source confirms the move and the Iranian threats.", "read_full": false },
+        { "ref": "9e192a2ac3", "takeaway": "Summary only: places Bessent among several officials living on bases.", "read_full": false },
+        { "ref": "0ac8c5d7f1", "takeaway": "Headline and summary only (paywalled): connects the threats to his Iran sanctions role.", "read_full": false },
+        { "ref": "7fd6489d82", "takeaway": "Summary only: cites officials on threats to his life.", "read_full": false },
+        { "ref": "c336022859", "takeaway": "Summary only: brief confirmation of the relocation.", "read_full": false },
+        { "ref": "us-w6", "takeaway": "Search result: fact-check roundup of earlier reports that officials had moved onto bases.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "jordan-house-gop-leader",
+      "headline": "House Republicans pick Jim Jordan to lead them in the minority",
+      "region": "Congress",
+      "importance": 3,
+      "summary": "House Republicans chose Rep. Jim Jordan of Ohio as minority leader for the next Congress, passing over Majority Leader Steve Scalise. Jordan said he will press the party's agenda in the remaining weeks of Republican control. On the Democratic side, Sen. Bernie Sanders said he will not back Chuck Schumer for Senate majority leader.",
+      "why_it_matters": "The leaders each party picks now will set how much confrontation or deal-making voters see from Congress over the next two years.",
+      "background": "Republicans lost their House majority in the Nov. 3 midterms, and Speaker Mike Johnson said he would not seek the minority leader post. Jordan, 62, chairs the Judiciary Committee and co-founded the hard-line House Freedom Caucus, which for years pushed against the party's own leaders. Scalise of Louisiana is the current House majority leader. Democrats are holding their own leadership debates, with some senators calling for a new generation to replace Schumer.",
+      "facts": [
+        { "text": "House Republicans elected Jordan as minority leader for the next Congress over Scalise.", "refs": ["3d04614557", "9874d6fb6c", "f47f76b108"] },
+        { "text": "Scalise declined to commit to serving a full term in the next Congress, Fox News reported.", "refs": ["3d04614557"] },
+        { "text": "Jordan said Republicans would push their agenda in the lame-duck session while they still hold the majority, the New York Post reported.", "refs": ["9d0fff82ec"] },
+        { "text": "Jordan, 62, is a founding member of the House Freedom Caucus, and Politico reported his win raises questions about the group's future role.", "refs": ["9874d6fb6c", "9097b46eb0"] },
+        { "text": "Johnson announced after the election that he would not seek the minority leader job, and Scalise and Jordan both planned to run.", "refs": ["us-w7"] },
+        { "text": "Sanders said he will not support Schumer for Senate Democratic leader; Fox News reported Sen. Elissa Slotkin took the same position.", "refs": ["94cec04e3c", "822ff47dba"] },
+        { "text": "The Hill reported that Schumer is telling colleagues privately he has the votes to become majority leader.", "refs": ["9fb96fcaa5"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "9874d6fb6c", "note": "Calls it a bet on a \"MAGA fighter\" after a heavy election loss." },
+        { "ref": "3d04614557", "note": "Focuses on the loser, Scalise, and his uncertain future." },
+        { "ref": "9097b46eb0", "note": "Looks at what the win means for the Freedom Caucus's identity." },
+        { "ref": "9d0fff82ec", "note": "Leads with Jordan's own pledges and his warning about Democratic \"lawfare.\"" }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "9874d6fb6c", "takeaway": "Summary only: profile of Jordan's move from insurgent to leader.", "read_full": false },
+        { "ref": "3d04614557", "takeaway": "Summary only: Scalise's response to losing.", "read_full": false },
+        { "ref": "f47f76b108", "takeaway": "Summary only: Republicans describe Jordan as a fighter to face Hakeem Jeffries.", "read_full": false },
+        { "ref": "9d0fff82ec", "takeaway": "Summary only: Jordan's lame-duck plans.", "read_full": false },
+        { "ref": "9097b46eb0", "takeaway": "Summary only: implications for the Freedom Caucus.", "read_full": false },
+        { "ref": "94cec04e3c", "takeaway": "Summary only: wire report on Sanders opposing Schumer.", "read_full": false },
+        { "ref": "822ff47dba", "takeaway": "Summary only: adds Slotkin to those opposing Schumer.", "read_full": false },
+        { "ref": "9fb96fcaa5", "takeaway": "Summary only: Schumer's private effort to lock up votes.", "read_full": false },
+        { "ref": "us-w7", "takeaway": "Search result: post-election report on Johnson stepping aside and the two candidates.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "epstein-files-discharge-petition",
+      "headline": "Petition forces a new House vote on Epstein files bill",
+      "region": "Congress",
+      "importance": 3,
+      "summary": "A discharge petition led by Rep. Thomas Massie reached the 218 signatures needed on Wednesday to force a House vote on a second Epstein files bill. The legislation would let states sue the Justice Department over records it has not released. The petition bypasses House Republican leaders, who had not scheduled a vote.",
+      "why_it_matters": "The vote will test whether Congress can compel fuller release of government records about Jeffrey Epstein, a subject on which voters in both parties have pressed for disclosure.",
+      "background": "Jeffrey Epstein was a financier charged with sex trafficking who died in federal custody in 2019. Congress passed a law last year requiring the Justice Department to release its files on him, and sponsors of the new bill say the department is still withholding material. Massie, a Kentucky Republican, and Rep. Ro Khanna, a California Democrat, began a petition over the summer for a follow-up bill, the Epstein Files Transparency Act II. A discharge petition lets a majority of House members force a floor vote without the speaker's approval.",
+      "facts": [
+        { "text": "The petition reached 218 signatures on Wednesday, one day after the House set aside Massie's Hegseth impeachment resolution.", "refs": ["60b2d1a8bf", "2ae07ffac7", "326a5f8553"] },
+        { "text": "The bill would allow states to sue the Justice Department, Politico reported.", "refs": ["2ae07ffac7"] },
+        { "text": "Massie launched the petition over the summer to get around House leadership.", "refs": ["6edd69a63f", "us-w8"] },
+        { "text": "In September the petition stood at 216 signatures, and sponsors said the remaining ones would come in November, according to reporting at the time.", "refs": ["us-w8", "us-w9"] },
+        { "text": "Once a petition succeeds, the speaker must schedule a vote within seven legislative days, according to earlier reporting on the petition.", "refs": ["us-w8"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "60b2d1a8bf", "note": "Casts it as a showdown driven by Massie, an \"outgoing Trump foe.\"" },
+        { "ref": "2ae07ffac7", "note": "Credits \"House members\" generally and explains what the bill does." },
+        { "ref": "326a5f8553", "note": "Plain procedural wording: the petition \"succeeds.\"" }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2ae07ffac7", "takeaway": "Summary only: explains the bill's provision letting states sue.", "read_full": false },
+        { "ref": "6edd69a63f", "takeaway": "Summary only: history of the petition since summer.", "read_full": false },
+        { "ref": "326a5f8553", "takeaway": "Headline only: reports the petition succeeded.", "read_full": false },
+        { "ref": "60b2d1a8bf", "takeaway": "Summary only: ties the petition to Massie's other clashes with his party.", "read_full": false },
+        { "ref": "us-w8", "takeaway": "Search result: earlier report on the petition's filing, signature count and rules.", "read_full": false },
+        { "ref": "us-w9", "takeaway": "Search result: September report that action would wait until after the midterms.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "hegseth-tomb-reprimand",
+      "headline": "Tomb of the Unknown Soldier guard calls for silence as Hegseth's group leaves Veterans Day event",
+      "region": "",
+      "importance": 2,
+      "summary": "A soldier guarding the Tomb of the Unknown Soldier called out for \"silence and respect\" after laughter was heard from a group that included Defense Secretary Pete Hegseth following Wednesday's Veterans Day ceremony at Arlington National Cemetery. A Pentagon spokesman said the sentinel had reminded everyone to maintain decorum. President Trump laid a wreath at the tomb earlier in the ceremony.",
+      "why_it_matters": "The moment drew wide attention because it involved the head of the military at one of the country's most solemn memorials, on the day set aside to honor veterans.",
+      "background": "The Tomb of the Unknown Soldier at Arlington National Cemetery holds the remains of unidentified U.S. service members and is guarded around the clock by Army sentinels. Visitors are expected to stay quiet there, and the sentinel's words were a call for silence and respect. Hegseth attended the annual Veterans Day ceremony with President Trump, who gave a speech defending the war with Iran. The exchange was captured on video and widely shared.",
+      "facts": [
+        { "text": "After the ceremony, as a group with Hegseth finished taking photos near the tomb, laughter was heard and the sentinel announced that visitors must maintain \"an atmosphere of silence and respect.\"", "refs": ["6e0a222d10", "b2239b973a", "1ae2b147ab"] },
+        { "text": "A Pentagon spokesman said the sentinel had \"reminded everyone to maintain decorum,\" The New York Times reported; the BBC reported the Pentagon backed the guard.", "refs": ["a5f1f90c4e", "b2a849cb17"] },
+        { "text": "Trump placed a wreath at the tomb and spoke at the ceremony, where he defended the Iran war.", "refs": ["c0d9d38bf5", "db7de4c186"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "c6e1d84ba5", "note": "Hedged wording: the guard \"appears to rebuke\" the delegation." },
+        { "ref": "b2239b973a", "note": "Says the sentinel \"sharply reprimands\" the group, stronger wording than most." },
+        { "ref": "a5f1f90c4e", "note": "Says the soldier shouted \"toward Hegseth,\" focusing on the secretary rather than his staff." },
+        { "ref": "4f9d22575f", "note": "Explains the tomb's rules rather than leading with the reprimand itself." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "6e0a222d10", "takeaway": "Summary only: describes the sequence and quotes the sentinel's words.", "read_full": false },
+        { "ref": "b2239b973a", "takeaway": "Summary only: reports the video and the call for silence after laughter.", "read_full": false },
+        { "ref": "1ae2b147ab", "takeaway": "Headline and summary only (paywalled): says the reprimand was directed at advisers and staffers.", "read_full": false },
+        { "ref": "a5f1f90c4e", "takeaway": "Headline and summary only (paywalled): includes the Pentagon spokesman's response.", "read_full": false },
+        { "ref": "b2a849cb17", "takeaway": "Summary only: follow-up that the Pentagon supports the guard.", "read_full": false },
+        { "ref": "c6e1d84ba5", "takeaway": "Headline only: cautious wire wording.", "read_full": false },
+        { "ref": "4f9d22575f", "takeaway": "Headline only: explainer on the tomb's rules.", "read_full": false },
+        { "ref": "c0d9d38bf5", "takeaway": "Summary only: Trump's wreath-laying and remarks.", "read_full": false },
+        { "ref": "db7de4c186", "takeaway": "Summary only: Trump's defense of the Iran war in his address.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://www.kttc.com/2026/11/04/colom-hyde-smith-separated-by-narrow-margin-mississippi-senate-race/", "title": "Colom, Hyde-Smith separated by narrow margin in Mississippi Senate race", "outlet": "KTTC" },
+    { "id": "us-w2", "url": "https://www.newsfromthestates.com/article/who-won-mississippis-midterm-senate-race-we-may-not-know-while", "title": "Who won Mississippi's midterm Senate race? We may not know for a while", "outlet": "News From The States" },
+    { "id": "us-w3", "url": "https://www.axios.com/2026/11/08/todd-blanche-doj-prosecuting-democrats-oversight", "title": "Blanche won't rule out prosecuting Democrats over oversight threats", "outlet": "Axios" },
+    { "id": "us-w4", "url": "https://www.ibtimes.co.uk/garcia-public-epstein-hearings-house-subpoenas-1830141", "title": "Trump's Epstein Files Handling Faces Threat of Public Hearings as Democrats Vow 'Lawyer Up' After Midterm Win", "outlet": "International Business Times UK" },
+    { "id": "us-w5", "url": "https://www.fox19.com/2026/11/09/hegseth-announces-rare-press-conference-discuss-expected-impeachment-resolution-congress/", "title": "Rep. Thomas Massie of Kentucky files resolution to impeach Defense Secretary Pete Hegseth", "outlet": "FOX19" },
+    { "id": "us-w6", "url": "https://www.yahoo.com/news/articles/inspecting-rumor-trump-officials-moving-003400165.html", "title": "Inspecting rumor Trump officials are moving to military bases for security reasons", "outlet": "Yahoo News" },
+    { "id": "us-w7", "url": "https://local12.com/news/nation-world/mike-johnson-to-step-aside-as-house-gop-leader-after-republicans-lose-control-of-congress-politics-midterms-midterm-elections-vote-voting-polls-ballots-republicans-democrats-president-donald-trump", "title": "Scalise, Jordan plan bids to lead House Republicans after Johnson steps aside", "outlet": "WKRC Local 12" },
+    { "id": "us-w8", "url": "https://katv.com/news/nation-world/massie-introduces-discharge-petition-to-force-vote-on-epstein-files-transparency-act-ii-kentucky-pam-bondi-california-ro-khanna-donald-trump", "title": "Massie introduces discharge petition to force vote on Epstein Files Transparency Act II", "outlet": "KATV" },
+    { "id": "us-w9", "url": "https://www.deseret.com/politics/2026/09/21/epstein-files-get-another-moment-in-congress/", "title": "Epstein files get another moment in Congress", "outlet": "Deseret News" }
+  ]
+}
