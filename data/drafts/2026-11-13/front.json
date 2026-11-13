@@ -1,0 +1,76 @@
+{
+  "overview": "Jensen Huang resigned as chief executive of Nvidia on Thursday after reports of extramarital affairs, including one with a woman U.S. intelligence suspects of spying for China; chief financial officer Colette Kress is interim CEO, and the BBC reported that Huang has been summoned to testify before Congress. A Microsoft outage that began Thursday was still keeping users around the world out of Outlook, Teams and other 365 services on Friday morning; the company said it had found no sign of a cyberattack. In Brooklyn, Mayor Zohran Mamdani said eight people, two of them children, were killed when a three-story building in Flatbush fell onto a neighboring construction site, and the New York Times reported that the Brooklyn district attorney has opened a criminal inquiry. In Washington, Sen. Chris Van Hollen said he will challenge Chuck Schumer to lead Senate Democrats after the party's midterm gains.",
+  "markets": {
+    "summary": "Nvidia's leadership change was the main event for stocks: its shares fell 4.3% on Thursday after Jensen Huang resigned, France 24 reported, and the Nasdaq Composite and Dow each slipped about 0.4%. The damage did not spread far. Reuters reported that other AI stocks recovered part of their losses during the day, and the New York Times said stocks were still on track for their best week in months. The other pressure is interest rates. Treasury yields, the interest the government pays to borrow, saw what MarketWatch called their biggest surge since 2022 as investors bet the Federal Reserve will keep raising rates to fight inflation. On Friday morning stock futures, which signal where the market will open, were a little lower ahead of new inflation data, according to the Wall Street Journal. Some rows in the quote table are older than a day: the S&P 500 and oil figures are from Nov. 11, Treasury yields from Nov. 10 and currencies from Nov. 6.",
+    "movers": [
+      {
+        "symbol": "NASDAQCOM",
+        "why": "Slipped 0.39% on Thursday as Nvidia fell 4.3% after its chief executive resigned; Reuters reported that other AI stocks pared their losses, which limited the index's drop. It is down about 6.8% over the past month."
+      },
+      {
+        "symbol": "DGS10",
+        "why": "The 10-year Treasury yield rose 10 basis points (0.10 percentage point) to 4.98% on Nov. 10, the latest figure in the table, as higher inflation led investors to expect more Federal Reserve rate increases."
+      },
+      {
+        "symbol": "CBBTCUSD",
+        "why": "Bitcoin fell 4.01% on Thursday and then dropped below $70,000 for the first time since August, the Wall Street Journal reported, as expectations of higher interest rates and the selloff in technology shares made investors less willing to hold riskier assets."
+      },
+      {
+        "symbol": "MORTGAGE30US",
+        "why": "The average 30-year mortgage rate eased 7 basis points to 7.11% in the weekly reading, even as Treasury yields climbed; the reason for the dip is not clear from today's coverage, and mortgage rates usually follow the 10-year yield with a delay."
+      }
+    ],
+    "concept": {
+      "term": "Treasury yield",
+      "explanation": "A Treasury yield is the annual interest rate investors earn for lending money to the U.S. government by buying its bonds. Yields rise when investors expect higher inflation or more Federal Reserve rate increases, because they demand more interest to hold a bond, and they fall when investors want safety or expect rates to come down. Bond prices move the opposite way, so a jump in yields means existing bonds lost value. The 10-year yield matters most for households because lenders use it as a guide for 30-year mortgage rates and other long-term loans; when it climbs toward 5%, as it has this week, borrowing for a home or a car tends to get more expensive, while savers earn more on new bonds and certificates of deposit."
+    },
+    "watch": [
+      "Fri Nov 13: October producer price index, a measure of wholesale inflation",
+      "Tue Nov 17: October retail sales report from the Census Bureau",
+      "Tue Nov 17: Nvidia reports quarterly earnings after the market closes, its first results under interim CEO Colette Kress",
+      "Tue-Wed Dec 8-9: Federal Reserve policy meeting"
+    ]
+  },
+  "trending": [
+    {
+      "title": "Jensen Huang",
+      "context": "More than a million people viewed the Wikipedia page of Nvidia's co-founder after he resigned as chief executive on Thursday; the page of his interim successor, Colette Kress, drew more than 460,000 views.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "Microsoft 365 outage continues",
+      "context": "Bluesky users are posting about the outage that has kept people around the world out of Outlook, Teams and other Microsoft services since Thursday; Microsoft said it was not caused by a cyberattack.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Senator seeks majority leader post",
+      "context": "The topic follows Sen. Chris Van Hollen's announcement that he will challenge Chuck Schumer to lead Senate Democrats, as reported by the Associated Press and the Financial Times.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Scott Colom",
+      "context": "The Democrat who won Mississippi's U.S. Senate race is still drawing attention on Bluesky and Wikipedia; CNN reported on how his 'pick another Senator' campaign ad was made.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Tomb of the Unknown Soldier",
+      "context": "Defense Secretary Pete Hegseth awarded a medal to Specialist Thomas Iglesias, the guard who had told Hegseth's group to be quiet after they were heard talking and laughing at the memorial, the BBC reported.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "SpaceX",
+      "context": "Searches rose after the company said it plans to invest more than $74 billion in AI data center campuses in Texas and Arizona, as reported by Reuters and The Hill.",
+      "signal": "google"
+    },
+    {
+      "title": "Anthony Clark",
+      "context": "The comedian and star of the sitcom 'Yes, Dear' has died after a bout of pneumonia, the Washington Times and New York Daily News reported.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "Booker Prize",
+      "context": "M. John Harrison's novel The End of Everything won this year's Booker Prize, according to Wikipedia's news summary.",
+      "signal": "wikipedia_news"
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "stories": [
+    {
+      "id": "ukraine-talks-europe-seat",
+      "headline": "Europe to join next round of Ukraine peace talks as Putin holds to his demands",
+      "region": "Europe",
+      "importance": 5,
+      "summary": "U.S. envoys Steve Witkoff and Jared Kushner met Vladimir Putin in the Kremlin on Thursday, then flew to Dublin to see Volodymyr Zelensky. Zelensky and Kushner said European countries will take part in the next round of talks with Russia, and Zelensky said a prisoner exchange is coming that would be the largest yet. Putin indicated Russia would not compromise on its core demands, and European governments have not yet agreed on who will speak for them.",
+      "why_it_matters": "The war is close to five years old, and who sits at the table shapes any deal on borders, troops and security guarantees that would affect all of Europe. Meanwhile fighting continues, with Ukraine saying limits on a U.S. satellite service are making it harder to stop Russian drones.",
+      "background": "Russia launched its full-scale invasion of Ukraine in February 2022. The Trump administration has been running talks through envoys Steve Witkoff and Jared Kushner, the president's son-in-law, with earlier rounds held in Abu Dhabi. European governments, which supply much of Ukraine's aid, have pressed for a seat in those talks, and Ukraine has wanted them there because it is wary of leaving negotiations to Washington alone. Leaders of more than 40 European countries were meeting in Dublin this week for a summit on the continent's security. Separately, Ukraine's military relies on Starshield, a satellite communications service from Elon Musk's SpaceX, and has reported restrictions on it twice.",
+      "facts": [
+        { "text": "Witkoff and Kushner met Putin in the Kremlin on Thursday and then travelled to Ireland for talks with Zelensky, the Associated Press reported.", "refs": ["f7d401051e", "4bb8e941ca"] },
+        { "text": "Zelensky and Kushner said on Thursday that Europe would join the next round of talks with Russia.", "refs": ["78623b6de5", "c925e74e44"] },
+        { "text": "Zelensky said the upcoming Russia-Ukraine prisoner exchange would be the largest so far, and said the Dublin meeting made progress.", "refs": ["c925e74e44", "2bcbc746ad"] },
+        { "text": "Putin indicated Russia would not compromise on its demands, proposed a short-term ceasefire in a frontline city in Donetsk, and ruled out foreign troops being stationed in Ukraine, The Hindu reported.", "refs": ["1070d47a6e", "78623b6de5"] },
+        { "text": "European nations are looking for an envoy to represent them in the talks and have not settled on one, according to the AP and The New York Times.", "refs": ["c4f8f30bc9", "88934a0ba5"] },
+        { "text": "Leaders from more than 40 European countries gathered in Dublin for a summit focused on security.", "refs": ["d09e865f9c", "ff35c339d2"] },
+        { "text": "Zelensky said Ukrainian units had recorded days of speed restrictions on the Starshield satellite service, which he said hampered efforts to intercept Russian drones.", "refs": ["5c9330c8d6", "786930d4fe", "6b758ac743"] },
+        { "text": "Russia struck a hospital in central Kyiv, close to several Western embassies, The Guardian reported.", "refs": ["95aa27001d"] },
+        { "text": "In October, the AP reported that SpaceX had imposed speed limits on Starlink terminals mounted on Ukrainian drones.", "refs": ["world-w1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "1ab4327dd4", "note": "Calls Europe's inclusion a 'big development', stressing the diplomatic gain for Kyiv." },
+        { "ref": "c4f8f30bc9", "note": "Stresses Europe's lack of a single voice rather than the seat it is getting." },
+        { "ref": "9ef416e0e5", "note": "Centers Putin's willingness to try talks with Europe, playing down his refusal to compromise." },
+        { "ref": "1070d47a6e", "note": "Leads with Putin signalling no compromise." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f7d401051e", "takeaway": "Summary only: AP wire account of the envoys' Moscow-to-Dublin day.", "read_full": false },
+        { "ref": "c925e74e44", "takeaway": "Summary only: Zelensky's briefing on Europe joining talks and the prisoner exchange.", "read_full": false },
+        { "ref": "78623b6de5", "takeaway": "Summary only: pairs the Europe announcement with Putin's unchanged position.", "read_full": false },
+        { "ref": "1070d47a6e", "takeaway": "Summary only: details Putin's Donetsk ceasefire proposal and rejection of foreign troops.", "read_full": false },
+        { "ref": "c4f8f30bc9", "takeaway": "Summary only: AP wire on Europe's search for an envoy.", "read_full": false },
+        { "ref": "88934a0ba5", "takeaway": "Headline and summary only (paywalled): Europe negotiating over who represents it.", "read_full": false },
+        { "ref": "2bcbc746ad", "takeaway": "Headline and summary only (paywalled): Zelensky says the Dublin talks made progress.", "read_full": false },
+        { "ref": "5c9330c8d6", "takeaway": "Summary only: Zelensky's post on Starshield speed restrictions.", "read_full": false },
+        { "ref": "786930d4fe", "takeaway": "Summary only: ties the Starshield disruptions to the timing of the Moscow talks.", "read_full": false },
+        { "ref": "95aa27001d", "takeaway": "Summary only: reports a strike on a central Kyiv hospital after the Starshield problems.", "read_full": false },
+        { "ref": "d09e865f9c", "takeaway": "Summary only: AP explainer on the Dublin summit of European leaders.", "read_full": false },
+        { "ref": "world-w1", "takeaway": "Search result only: AP's October report on SpaceX limits affecting Ukrainian drones.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "microsoft-global-outage",
+      "headline": "Microsoft outage leaves Outlook and Teams users worldwide without service into a second day",
+      "region": "Global",
+      "importance": 4,
+      "summary": "An outage that began Thursday has cut off access to Microsoft's Outlook email, Teams chat and other 365 services for businesses, governments and individuals around the world. Microsoft said the problem was not caused by malicious or cyber activity and pointed to part of its infrastructure being under elevated load. The company is still working on a fix, and outlets differ on how far along it is.",
+      "why_it_matters": "Millions of people use these tools for work email, meetings and government business, so an outage this long delays everyday tasks far beyond the tech industry.",
+      "background": "Microsoft 365 is the company's package of online work software, including Outlook for email and Teams for chat and video calls. Large companies, schools and government agencies in many countries run on it, so a failure at Microsoft spreads quickly. Bloomberg described this as one of the company's most severe disruptions in recent memory. The outage started on Thursday and was still not fully resolved more than half a day later.",
+      "facts": [
+        { "text": "The outage began Thursday and affected Outlook, Teams and other Microsoft 365 services.", "refs": ["d29d43d990", "0787c3f68b"] },
+        { "text": "Microsoft said the outage was not caused by malicious or cyber activity.", "refs": ["023cc410c6", "e1efe6f1af", "1f453c23fb"] },
+        { "text": "Microsoft said a portion of its infrastructure was 'experiencing elevated load' that was likely contributing to connection errors, and it extended its mail timeout to 48 hours, The Hindu reported.", "refs": ["69c89831c7"] },
+        { "text": "Companies and some government operations were affected, according to CBS News and The Washington Post.", "refs": ["0787c3f68b", "cb6d8cfdbd"] },
+        { "text": "Bloomberg reported that Microsoft was still struggling to restore access half a day after the outage began.", "refs": ["5c627b80a1"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How well the fix is going",
+          "positions": [
+            { "claim": "Efforts to fix the problems have so far been largely unsuccessful, per BBC News.", "refs": ["e1efe6f1af"] },
+            { "claim": "Microsoft said on Friday that services were improving and reported headway, per The New York Times and France 24.", "refs": ["89a9e07870", "1f453c23fb"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "717526b753", "note": "Emphasizes the number of people affected." },
+        { "ref": "1f453c23fb", "note": "Puts the company's denial of a cyberattack in the headline." },
+        { "ref": "cb6d8cfdbd", "note": "Stresses Microsoft's difficulty restoring service and the hit to governments." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e1efe6f1af", "takeaway": "Summary only: explainer saying fixes had largely not worked yet.", "read_full": false },
+        { "ref": "1f453c23fb", "takeaway": "Summary only: Microsoft rules out malicious activity and reports headway.", "read_full": false },
+        { "ref": "69c89831c7", "takeaway": "Summary only: live updates with Microsoft's technical explanation.", "read_full": false },
+        { "ref": "d29d43d990", "takeaway": "Summary only: lists the services affected since Thursday.", "read_full": false },
+        { "ref": "0787c3f68b", "takeaway": "Summary only: notes companies and government operations were hit.", "read_full": false },
+        { "ref": "023cc410c6", "takeaway": "Headline and summary only (paywalled): Microsoft says no malicious or cyber activity.", "read_full": false },
+        { "ref": "89a9e07870", "takeaway": "Headline and summary only (paywalled): company says services are improving.", "read_full": false },
+        { "ref": "5c627b80a1", "takeaway": "Headline and summary only (paywalled): calls it one of Microsoft's most severe disruptions.", "read_full": false },
+        { "ref": "cb6d8cfdbd", "takeaway": "Headline only (paywalled): companies and governments worldwide affected.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "gaza-nasser-hospital-strike",
+      "headline": "Israeli strike on Gaza's Nasser Hospital kills six, health officials say",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "An Israeli airstrike on the Nasser Hospital complex in southern Gaza this week killed six people, including a doctor and a child, according to Gaza's Health Ministry. Israel's military said it was targeting Hamas militants and that Hamas had set up a command center at the site; Hamas called the strike a crime against a civilian medical facility. The Board of Peace said the strike showed the need to move ahead with the peace plan.",
+      "why_it_matters": "The strike came during a ceasefire and hit a major hospital in a health system the AP describes as devastated, raising doubts about whether the truce and the stalled U.S.-backed peace plan will hold. Coverage in the digest comes mostly from left-leaning and center outlets.",
+      "background": "Nasser Hospital, in the southern city of Khan Younis, is one of Gaza's main medical centers and has been hit before during the war between Israel and Hamas. A ceasefire is in place under a peace plan promoted by President Trump, with a body called the Board of Peace attached to it, but The Wall Street Journal reported that progress on the plan has stalled. Casualty figures in Gaza come from the Health Ministry, which is run by Hamas. Israel has repeatedly said Hamas uses hospitals for military purposes, which Hamas denies.",
+      "facts": [
+        { "text": "Gaza's Health Ministry said the strike on Nasser Hospital killed six people, including a doctor and a child.", "refs": ["74eb17e07c", "a4ccb33b3d"] },
+        { "text": "The Israeli military said the attack targeted Hamas militants, and Israeli authorities said Hamas had established a command center at the hospital complex.", "refs": ["865032faf8", "0dd288438c"] },
+        { "text": "Hamas called the attack 'a heinous crime targeting a civilian medical facility', The New York Times reported.", "refs": ["0dd288438c"] },
+        { "text": "The Board of Peace said the strike 'underscores' the need for the peace plan, The Times of Israel reported.", "refs": ["5f617376b4"] },
+        { "text": "The strike took place while a ceasefire was in effect.", "refs": ["ec6d7d16b6", "865032faf8"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many people were wounded",
+          "positions": [
+            { "claim": "At least a dozen, per CBS News citing the Health Ministry.", "refs": ["a4ccb33b3d"] },
+            { "claim": "Dozens, per The New York Times citing health officials.", "refs": ["0dd288438c"] }
+          ]
+        },
+        {
+          "topic": "What was at the hospital",
+          "positions": [
+            { "claim": "Israeli authorities said Hamas had a command center in the complex.", "refs": ["0dd288438c", "865032faf8"] },
+            { "claim": "Hamas said it was a civilian medical facility.", "refs": ["0dd288438c"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "74eb17e07c", "note": "Names a doctor and a child among the dead, attributed to the Health Ministry." },
+        { "ref": "865032faf8", "note": "States the strike and toll directly; the Israeli rationale appears in the summary." },
+        { "ref": "5f617376b4", "note": "Leads with the Board of Peace response rather than the casualties." },
+        { "ref": "ec6d7d16b6", "note": "Highlights that the strike happened during a ceasefire." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a4ccb33b3d", "takeaway": "Summary only: toll and wounded count attributed to the Hamas-run Health Ministry.", "read_full": false },
+        { "ref": "74eb17e07c", "takeaway": "Headline only: AP wire naming a doctor and a child among the dead.", "read_full": false },
+        { "ref": "865032faf8", "takeaway": "Headline and summary only (paywalled): Israeli military's stated target and the stalled peace plan.", "read_full": false },
+        { "ref": "0dd288438c", "takeaway": "Headline and summary only (paywalled): carries both the Israeli and Hamas statements.", "read_full": false },
+        { "ref": "5f617376b4", "takeaway": "Headline only: Board of Peace reaction.", "read_full": false },
+        { "ref": "ec6d7d16b6", "takeaway": "Headline only: notes the ceasefire context.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "hormuz-tankers-bahrain-radar",
+      "headline": "Iran reports tanker explosions in Strait of Hormuz and says it hit a U.S. radar in Bahrain",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "Iran said explosions damaged oil tankers in the Strait of Hormuz on Thursday and that a tanker carrying liquefied natural gas hit a mine on Friday. Iran's Revolutionary Guard also said it targeted a U.S. early-warning radar in Bahrain, and Yemen's Houthis said they attacked a Saudi oil pipeline. These are claims by the groups involved; the reports reviewed carry no U.S. confirmation of the radar strike.",
+      "why_it_matters": "About a fifth of the world's oil normally passes through the Strait of Hormuz, so attacks on tankers there can push up fuel prices everywhere. Coverage in the digest comes almost entirely from center-rated outlets and wire services.",
+      "background": "The United States and Israel have been at war with Iran, and Iran moved to block the Strait of Hormuz, the narrow waterway between Iran and the Arabian Peninsula used by Gulf oil exporters. The Hindu reports that tanker traffic has rebounded and oil prices have fallen on expectations the conflict will ease, but ships are still being hit. The U.S. Navy is blockading Iranian ports. Saudi Arabia has leaned more on its East-West pipeline to the Red Sea port of Yanbu to get oil out without using the strait. The Houthis are an Iran-aligned armed group that controls much of Yemen.",
+      "facts": [
+        { "text": "Iran said two oil tankers carrying a combined 4 million barrels were disabled by explosions and caught fire in the Strait of Hormuz.", "refs": ["4b6ecbd1d6", "641ee070f9"] },
+        { "text": "The maritime security firm Ambrey reported that another merchant vessel was struck by an unknown projectile near the UAE, starting an engine room fire.", "refs": ["4b6ecbd1d6"] },
+        { "text": "On Friday, Iran said a tanker carrying liquefied natural gas hit a mine and suffered an explosion in the strait, Reuters reported.", "refs": ["4d32cba2d4", "4c0998195f"] },
+        { "text": "Iran's Revolutionary Guard said it targeted a U.S. early-warning radar in Bahrain, describing it as a response to an attack on a telecom tower.", "refs": ["532c2a1c2d", "39b348a2c8", "ee99dde3f8"] },
+        { "text": "Yemen's Houthis said they attacked a pumping station on Saudi Arabia's East-West oil pipeline and the port city of Yanbu.", "refs": ["a394603219", "c3852ecb5f"] },
+        { "text": "Saudi Arabia is pressing the European Union to designate the Houthis a terrorist group, Reuters reported.", "refs": ["3cdf97fef9"] },
+        { "text": "In October, Iran said two tankers caught fire after hitting mines in the strait, Al Jazeera reported at the time.", "refs": ["world-w2"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many tankers were hit on Thursday",
+          "positions": [
+            { "claim": "Two, per Iran's account as first reported by NewsNation and The Times of Israel.", "refs": ["4b6ecbd1d6", "641ee070f9"] },
+            { "claim": "Four, per Iran's account in a later Reuters report.", "refs": ["b7b28adf58"] }
+          ]
+        },
+        {
+          "topic": "Whether the strait is open",
+          "positions": [
+            { "claim": "The Revolutionary Guard says the strait is closed.", "refs": ["5eea9008b1"] },
+            { "claim": "The U.S. Navy says it has opened a southern route for commercial ships.", "refs": ["5eea9008b1"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "532c2a1c2d", "note": "Says the Guard 'targeted' the radar, leaving the result open." },
+        { "ref": "ee99dde3f8", "note": "Repeats the Guard's claim that the radar was 'destroyed'." },
+        { "ref": "4c0998195f", "note": "Focuses on the mine and the continuing danger to shipping." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "4b6ecbd1d6", "takeaway": "Summary only: Iran's tanker claim plus Ambrey's report of a third vessel hit.", "read_full": false },
+        { "ref": "641ee070f9", "takeaway": "Headline only: gives the 4 million barrel cargo figure.", "read_full": false },
+        { "ref": "b7b28adf58", "takeaway": "Headline only: Reuters count of four tankers, attributed to Iran.", "read_full": false },
+        { "ref": "4d32cba2d4", "takeaway": "Headline only: Reuters on the LNG tanker and mine.", "read_full": false },
+        { "ref": "4c0998195f", "takeaway": "Summary only: notes attacks continue despite more traffic and lower oil prices.", "read_full": false },
+        { "ref": "532c2a1c2d", "takeaway": "Headline only: Reuters on the Guard's radar claim.", "read_full": false },
+        { "ref": "39b348a2c8", "takeaway": "Headline only: adds the Guard's stated reason for the strike.", "read_full": false },
+        { "ref": "ee99dde3f8", "takeaway": "Headline only: AP roundup leading with the radar claim.", "read_full": false },
+        { "ref": "5eea9008b1", "takeaway": "Summary only: sets the Guard's and U.S. Navy's statements on the strait side by side.", "read_full": false },
+        { "ref": "a394603219", "takeaway": "Headline only: Reuters on the Houthi pipeline claim.", "read_full": false },
+        { "ref": "c3852ecb5f", "takeaway": "Summary only: explains why the East-West pipeline matters to Saudi exports.", "read_full": false },
+        { "ref": "3cdf97fef9", "takeaway": "Headline only: Saudi lobbying of the EU over the Houthis.", "read_full": false },
+        { "ref": "world-w2", "takeaway": "Search result only: an earlier mine incident in October.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "indonesia-vp-gibran-resigns",
+      "headline": "Indonesia's vice president resigns after courts reject his education documents",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "Gibran Rakabuming Raka, Indonesia's 39-year-old vice president and the son of former President Joko Widodo, has resigned amid questions about his eligibility for office. Two top courts ruled last month that the documents he submitted about his overseas education did not meet election requirements. He had told President Prabowo Subianto on Tuesday that he intended to step down, according to Indonesian media.",
+      "why_it_matters": "Indonesia is the world's fourth most populous country and its largest Muslim-majority democracy; the resignation removes the figure who tied the current president to his popular predecessor. For Indonesians it is a test of whether election rules apply to powerful families.",
+      "background": "Gibran is the eldest son of Joko Widodo, known as Jokowi, who was president from 2014 to 2024. He ran as Prabowo Subianto's running mate in the 2024 election, and The New York Times describes him as a symbol of the partnership that brought Prabowo to office. His eligibility has been challenged over the schooling he completed abroad. Last month the Constitutional Court and the Supreme Court ruled that his education documents fell short of what candidates must provide. Indonesian outlets reported that lawmakers were also preparing a parliamentary motion on his eligibility.",
+      "facts": [
+        { "text": "Gibran Rakabuming Raka resigned as vice president as his eligibility and academic credentials were questioned, the Associated Press reported.", "refs": ["3a057f68b8", "c7dc8d2358"] },
+        { "text": "The Constitutional Court and the Supreme Court ruled last month that documents he submitted about his overseas education did not meet election requirements.", "refs": ["c7dc8d2358", "412da1193a"] },
+        { "text": "Gibran, 39, is the son of former President Joko Widodo.", "refs": ["412da1193a", "c7dc8d2358"] },
+        { "text": "On Nov. 10, the state secretary said Gibran had told the president he intended to resign, The Jakarta Post reported.", "refs": ["world-w3"] },
+        { "text": "Indonesia Business Post reported that 50 lawmakers were pushing a parliamentary motion over his eligibility.", "refs": ["world-w4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "cc74959993", "note": "Treats the resignation as a blow to the Prabowo-Jokowi political partnership." },
+        { "ref": "1330952cbc", "note": "Runs the AP wire headline, centered on the eligibility and credential questions." },
+        { "ref": "412da1193a", "note": "Same wire framing, with the court rulings and family tie in the summary." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c7dc8d2358", "takeaway": "Summary only: AP wire with the court rulings and family background.", "read_full": false },
+        { "ref": "412da1193a", "takeaway": "Summary only: same wire account with his age and the rulings.", "read_full": false },
+        { "ref": "3a057f68b8", "takeaway": "Headline only: AP wire on the resignation.", "read_full": false },
+        { "ref": "cc74959993", "takeaway": "Headline and summary only (paywalled): places the resignation in Prabowo-era politics.", "read_full": false },
+        { "ref": "1330952cbc", "takeaway": "Headline only: reprints the AP story.", "read_full": false },
+        { "ref": "world-w3", "takeaway": "Search result only: the Nov. 10 announcement of his intent to resign.", "read_full": false },
+        { "ref": "world-w4", "takeaway": "Search result only: the parliamentary motion on his eligibility.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "pope-leo-peru-return",
+      "headline": "Pope Leo meets abuse victims in Peru and returns to the city where he was bishop",
+      "region": "Americas",
+      "importance": 3,
+      "summary": "Pope Leo XIV met six victims of clerical abuse in Peru on Thursday and said the Catholic Church must make amends to survivors. In the same visit he denounced a culture of 'machismo' and called for women and girls to be protected. On Friday he was due to celebrate an outdoor Mass in Chiclayo, the northern city where he served as bishop for eight years.",
+      "why_it_matters": "The pope leads about 1.4 billion Catholics, and what he says on abuse and on violence against women sets direction for church leaders worldwide. Reuters reports he is weighing changes to how the Church treats abuse victims.",
+      "background": "Leo XIV, born in the United States, spent decades in Peru as a missionary and later as bishop of Chiclayo before his election as pope in 2025. The Peru stop is part of a 12-day South America tour, and the Chiclayo Mass is its centerpiece. Peru's Catholic Church was shaken by abuse within Sodalitium Christianae Vitae, a lay movement that the Vatican has since disbanded. The AP reported in 2025 that victims of that group said the future pope helped them when others did not.",
+      "facts": [
+        { "text": "Pope Leo met six victims of clerical abuse on Thursday, including people linked to the disbanded group Sodalitium Christianae Vitae, and urged the Church to make amends to survivors.", "refs": ["613a8a56cb"] },
+        { "text": "He denounced 'machismo' and called for women to be protected, the Associated Press and CBS News reported.", "refs": ["aee6a48ffd", "91d66b430d"] },
+        { "text": "He told Peruvian bishops to respond to victims of clergy sexual abuse with truth and justice, The Hindu reported.", "refs": ["f7ddec3549"] },
+        { "text": "Reuters reported that the pope is considering changes in how the Church treats abuse victims.", "refs": ["af0982ebb8"] },
+        { "text": "Crowds gathered early Friday in Chiclayo for an outdoor Mass, the main event of his 12-day South America tour; he was bishop there for eight years.", "refs": ["ea51dc48e4"] },
+        { "text": "The AP reported in 2025 that victims of the Sodalitium group said he had helped them when other church officials did not.", "refs": ["world-w5"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "af0982ebb8", "note": "Focuses on possible policy change for abuse victims." },
+        { "ref": "aee6a48ffd", "note": "Leads with the 'machismo' remarks and the emotion of the return." },
+        { "ref": "613a8a56cb", "note": "Leads with the meeting with victims and the call for amends." },
+        { "ref": "0afa860895", "note": "Emphasizes the celebratory homecoming in Chiclayo." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "613a8a56cb", "takeaway": "Summary only: the meeting with six victims and the call for amends.", "read_full": false },
+        { "ref": "aee6a48ffd", "takeaway": "Headline only: AP wire on the 'machismo' remarks.", "read_full": false },
+        { "ref": "91d66b430d", "takeaway": "Summary only: video report on his remarks about women and girls.", "read_full": false },
+        { "ref": "f7ddec3549", "takeaway": "Summary only: his instructions to Peruvian bishops.", "read_full": false },
+        { "ref": "af0982ebb8", "takeaway": "Headline only: Reuters on possible changes for abuse victims.", "read_full": false },
+        { "ref": "ea51dc48e4", "takeaway": "Summary only: crowds ahead of the Chiclayo Mass.", "read_full": false },
+        { "ref": "0afa860895", "takeaway": "Headline only (paywalled): Chiclayo welcomes its former bishop.", "read_full": false },
+        { "ref": "world-w5", "takeaway": "Search result only: 2025 AP report on his handling of the Sodalitium case.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "dutch-coalition-tax-crisis",
+      "headline": "Dutch prime minister holds crisis talks to save coalition after tax deal dispute",
+      "region": "Europe",
+      "importance": 3,
+      "summary": "Dutch Prime Minister Rob Jetten called his coalition partners to crisis talks on Friday after one of the governing parties objected to a tax deal struck with the opposition. Jetten conceded the coalition needs a 'serious fresh start'. If the talks fail, the Netherlands could face a snap election.",
+      "why_it_matters": "A collapse would leave one of the eurozone's largest economies without a working government during budget season and could send Dutch voters back to the polls. The dispute is over how wealth and income are taxed, which affects household finances directly.",
+      "background": "Rob Jetten leads a minority government of three parties that together hold 66 of the 150 seats in the lower house of parliament, so it needs opposition votes to pass anything. DutchNews identifies the partners as Jetten's D66, the Christian Democrat CDA and the right-leaning liberal VVD. Budget and tax talks with opposition parties have dragged on for weeks. DutchNews reported on Nov. 5 that D66 and CDA were ready to back opposition tax amendments even if the VVD voted against them. Reuters describes the current dispute as a row over a wealth tax.",
+      "facts": [
+        { "text": "The coalition appeared close to collapse after one party objected to a tax deal with the opposition, the Associated Press reported.", "refs": ["f8f2656439"] },
+        { "text": "Jetten conceded the coalition needs a 'serious fresh start', according to the AP.", "refs": ["ba90aaa20f"] },
+        { "text": "Jetten was to meet his coalition partners on Friday morning to try to save the alliance and avoid a possible snap election.", "refs": ["fd0ed8b0e3", "1b948d1ea1"] },
+        { "text": "The three-party minority coalition holds 66 seats in the 150-member lower house.", "refs": ["1b5cee415b"] },
+        { "text": "Reuters described the dispute as a row over a wealth tax.", "refs": ["1b948d1ea1"] },
+        { "text": "DutchNews reported on Nov. 5 that coalition parties were prepared to vote against each other on the tax plans.", "refs": ["world-w6"] },
+        { "text": "Weekend budget talks between the coalition and opposition parties ended without agreement, DutchNews reported earlier this month.", "refs": ["world-w7"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f8f2656439", "note": "Says the coalition is 'near collapse', stressing the risk." },
+        { "ref": "1b948d1ea1", "note": "Focuses on talks to prevent collapse and names the wealth tax." },
+        { "ref": "fd0ed8b0e3", "note": "Centers on Jetten's effort to save the coalition." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f8f2656439", "takeaway": "Summary only: AP wire on the coalition nearing collapse.", "read_full": false },
+        { "ref": "ba90aaa20f", "takeaway": "Headline only (paywalled): Jetten's 'serious fresh start' remark.", "read_full": false },
+        { "ref": "1b5cee415b", "takeaway": "Summary only: explainer with the seat numbers.", "read_full": false },
+        { "ref": "1b948d1ea1", "takeaway": "Headline only: Reuters on talks after the wealth tax row.", "read_full": false },
+        { "ref": "fd0ed8b0e3", "takeaway": "Headline and summary only (paywalled): Friday's crisis talks and snap election risk.", "read_full": false },
+        { "ref": "world-w6", "takeaway": "Search result only: earlier split between coalition parties on tax votes.", "read_full": false },
+        { "ref": "world-w7", "takeaway": "Search result only: failed budget talks with the opposition.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "china-unannounced-drills-taiwan",
+      "headline": "Taiwan says China staged unannounced Pacific drills to intimidate it",
+      "region": "Asia-Pacific",
+      "importance": 2,
+      "summary": "Taiwanese officials told Reuters that China has carried out military drills in the Pacific without announcing them, a tactic they called 'silent intimidation'. A senior Taiwan security official said China's navy and coast guard had at one point gathered more than 100 vessels in the region early this month. The summaries reviewed carry no response from Beijing.",
+      "why_it_matters": "Taiwan makes most of the world's advanced computer chips, and a conflict there would disrupt trade and could draw in the United States. Only center-rated outlets in the digest carried this, all based on one Reuters report.",
+      "background": "China claims Taiwan, a self-governed island of about 23 million people, as its own territory and has not ruled out using force to take it. Taiwan's government rejects that claim. Over the past five years Beijing has stepped up military pressure with frequent air and naval activity around the island. Taiwanese officials say the latest drills were held without any announcement from Beijing.",
+      "facts": [
+        { "text": "Taiwanese officials said China staged unannounced drills in the Pacific, which they described as 'silent intimidation', Reuters reported.", "refs": ["3a08605650"] },
+        { "text": "A senior Taiwan security official said China's military and coast guard had at one point amassed more than 100 vessels in the region early this month.", "refs": ["e47dd1c86e"] },
+        { "text": "Beijing has increased its military pressure on Taiwan over the past five years, The Japan Times noted.", "refs": ["8f24365286"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "3a08605650", "note": "Presents 'silent intimidation of Taiwan' as the officials' description." },
+        { "ref": "8f24365286", "note": "Attributes the claim to Taiwan officials in the headline itself." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3a08605650", "takeaway": "Headline only: the original Reuters report.", "read_full": false },
+        { "ref": "e47dd1c86e", "takeaway": "Summary only: Reuters reprint with the 100-vessel figure.", "read_full": false },
+        { "ref": "8f24365286", "takeaway": "Summary only: Reuters reprint adding five years of context.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w1", "url": "https://www.adn.com/nation-world/2026/10/14/ukrainian-drones-lose-some-speed-after-spacex-imposes-sudden-restrictions-on-use-of-starlink/", "title": "Ukrainian drones lose some speed after SpaceX imposes sudden restrictions on use of Starlink", "outlet": "Associated Press (via Anchorage Daily News)" },
+    { "id": "world-w2", "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz", "title": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz", "outlet": "Al Jazeera" },
+    { "id": "world-w3", "url": "https://www.thejakartapost.com/indonesia/2026/11/10/breaking-vp-gibran-intends-to-resign-says-state-secretary", "title": "VP Gibran intends to resign, says state secretary", "outlet": "The Jakarta Post" },
+    { "id": "world-w4", "url": "https://indonesiabusinesspost.com/7787/jakarta-power-play/gibran-offers-to-resign-as-50-lawmakers-push-parliamentary-motion-over-his-eligibility", "title": "Gibran offers to resign as 50 lawmakers push parliamentary motion over his eligibility", "outlet": "Indonesia Business Post" },
+    { "id": "world-w5", "url": "https://kutv.com/news/nation-world/victims-of-abusive-catholic-group-say-pope-leo-xiv-helped-when-others-didnt", "title": "Victims of abusive Catholic group say Pope Leo XIV helped when others didn't", "outlet": "Associated Press (via KUTV)" },
+    { "id": "world-w6", "url": "https://www.dutchnews.nl/2026/11/coalition-parties-ready-to-vote-against-each-other-on-tax-plans/", "title": "Coalition parties ready to vote against each other on tax plans", "outlet": "DutchNews.nl" },
+    { "id": "world-w7", "url": "https://www.dutchnews.nl/2026/11/no-sign-of-deal-on-budget-ahead-of-crucial-week-in-parliament/", "title": "No sign of deal on budget ahead of crucial week in parliament", "outlet": "DutchNews.nl" }
+  ]
+}

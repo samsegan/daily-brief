@@ -1,0 +1,265 @@
+{
+  "stories": [
+    {
+      "id": "van-hollen-schumer-challenge",
+      "headline": "Van Hollen says he will challenge Schumer to lead Senate Democrats",
+      "region": "Congress",
+      "importance": 5,
+      "summary": "Sen. Chris Van Hollen of Maryland said Thursday he will run for Senate majority leader against Chuck Schumer, who has led Senate Democrats since 2017. Sen. Bernie Sanders is backing Van Hollen, while Schumer says he has the votes to keep the job. The contest comes days after Democrats won a Senate majority in the midterm elections.",
+      "why_it_matters": "The majority leader decides which bills and nominees reach the Senate floor, so this choice shapes how the new Democratic majority deals with the Trump White House on spending, oversight and confirmations.",
+      "background": "Democrats won control of the Senate in the Nov. 3 midterm elections, which means their caucus leader will become majority leader when the new Congress is seated. Chuck Schumer of New York has held the top Democratic post in the Senate since 2017. Senate Democrats pick their leader in a private vote among themselves. Questions about Schumer's future had been building for some time; Semafor reported in December 2025 that Senate Democrats had put off the leadership debate until after the midterms. Chris Van Hollen, a Maryland senator, is the first to formally announce a challenge.",
+      "facts": [
+        { "text": "Van Hollen said Thursday he would run for Senate majority leader, challenging Schumer.", "refs": ["c65cbda568", "1512b7d954", "7d18c0240b"] },
+        { "text": "Schumer has led Senate Democrats since 2017, and the party won a Senate majority in the midterm elections.", "refs": ["1512b7d954", "7d18c0240b"] },
+        { "text": "Van Hollen said the midterm results show Americans want change in Washington and that Democrats need new leadership to deliver it, the Guardian reported.", "refs": ["fa66eb00f7"] },
+        { "text": "Sen. Bernie Sanders is backing Van Hollen for the leadership post, Fox News reported.", "refs": ["229b40e334"] },
+        { "text": "Schumer says he has the votes to remain leader, according to the Washington Times.", "refs": ["b369b6edac"] },
+        { "text": "Semafor reported in December 2025 that Senate Democrats had put off their leadership debate until after the midterms.", "refs": ["us-w1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f25bff0f3d", "note": "'Full-Blown Revolt' presents the challenge as a broad uprising against Schumer rather than one senator's bid." },
+        { "ref": "b369b6edac", "note": "Balances Van Hollen's entry against Schumer's claim that he already has the votes." },
+        { "ref": "06003b4db4", "note": "Identifies Van Hollen first by his criticism of Israel, an angle other headlines do not raise." },
+        { "ref": "c65cbda568", "note": "Plain statement of the challenge with no characterization of its strength." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c65cbda568", "takeaway": "Headline only: straight report that Van Hollen will challenge Schumer.", "read_full": false },
+        { "ref": "1512b7d954", "takeaway": "Summary only: the announcement, Schumer's tenure since 2017 and the new Democratic majority.", "read_full": false },
+        { "ref": "7d18c0240b", "takeaway": "Headline and summary only (paywalled): ties the challenge to the party's midterm victory.", "read_full": false },
+        { "ref": "fa66eb00f7", "takeaway": "Live blog summary: Van Hollen's argument that voters want change; calls it Democrats' first big test since the midterms.", "read_full": false },
+        { "ref": "229b40e334", "takeaway": "Summary only: focuses on Sanders' endorsement of Van Hollen.", "read_full": false },
+        { "ref": "b369b6edac", "takeaway": "Headline only: reports Schumer's claim that he has the votes.", "read_full": false },
+        { "ref": "f25bff0f3d", "takeaway": "Headline only: describes the challenge as a revolt.", "read_full": false },
+        { "ref": "06003b4db4", "takeaway": "Headline only: frames Van Hollen through his stance on Israel.", "read_full": false },
+        { "ref": "us-w1", "takeaway": "Earlier reporting that the leadership question was deferred until after the midterms.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-iran-no-deal-vance",
+      "headline": "Trump says U.S. doesn't need an Iran deal and redirects Vance to domestic issues",
+      "region": "White House",
+      "importance": 5,
+      "summary": "President Trump said Thursday that the United States does not need a deal with Iran and told Vice President JD Vance to turn his attention from the Iran talks to what he called corruption and crime in Democratic-led cities and states. Trump said the war has been won; CBS News reported that Tehran is holding to its demands and continuing to attack ships. Oil prices closed higher after the remarks.",
+      "why_it_matters": "Without a deal, the conflict with Iran and the threat to shipping stay unresolved, which can feed through to fuel prices. The vice president's new assignment also signals more federal attention on Democratic-run states and cities.",
+      "background": "The United States has been in a military conflict with Iran this year, and Vice President Vance has been leading negotiations aimed at ending it. NBC News reported that Trump repeatedly said before the midterm elections that a deal could be reached. Shipping in the region has been disrupted, which is why oil traders react to each turn in the talks. Republicans lost heavily in the Nov. 3 midterms, and the Times of Oman reported that Vance had blamed the defeat on the Iran war.",
+      "facts": [
+        { "text": "Trump said \"we don't need a deal\" with Iran.", "refs": ["3ce7281696", "87cb0c408a", "42be5ca9f8"] },
+        { "text": "Trump directed Vance to focus instead on corruption and crime in Democratic-led cities and states.", "refs": ["87cb0c408a", "0209cf0ed0", "3581918ecd"] },
+        { "text": "Trump had repeatedly said in the run-up to the midterm elections that a deal with Iran could be reached, NBC News reported.", "refs": ["a521ac74ae"] },
+        { "text": "Trump said the war with Iran has been won, while Tehran is sticking to its demands and continuing to attack ships, CBS News reported.", "refs": ["42be5ca9f8"] },
+        { "text": "Oil prices reversed early losses and closed higher after Trump's comments, the Wall Street Journal reported.", "refs": ["76c7de12c5", "f4a9a588f4"] },
+        { "text": "Trump said \"a lot of people\" objected to Vance's remarks blaming the midterm defeat on the Iran war, the Times of Oman reported.", "refs": ["us-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "0209cf0ed0", "note": "'Bluntly tells' stresses the public, personal nature of the instruction to Vance." },
+        { "ref": "7cbb1dda68", "note": "Says Trump 'closes down' Vance's negotiations, a stronger reading than a change of focus." },
+        { "ref": "3581918ecd", "note": "Describes the new assignment as fighting fraud in Democratic-led states." },
+        { "ref": "76c7de12c5", "note": "Treats the remark mainly as a market event, through the oil price." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3ce7281696", "takeaway": "Headline only: Trump's quote and the instruction to Vance.", "read_full": false },
+        { "ref": "87cb0c408a", "takeaway": "Summary only: the quote plus the redirection to corruption and crime in Democratic cities and states.", "read_full": false },
+        { "ref": "a521ac74ae", "takeaway": "Summary only: contrasts the remark with Trump's pre-election statements that a deal was reachable.", "read_full": false },
+        { "ref": "0209cf0ed0", "takeaway": "Headline only: wire account of Trump's instruction to Vance.", "read_full": false },
+        { "ref": "7cbb1dda68", "takeaway": "Headline only (paywalled): says Trump shut down the Vance-led negotiations.", "read_full": false },
+        { "ref": "42be5ca9f8", "takeaway": "Live-update summary: Trump's claim of victory alongside Iran's continued attacks on ships.", "read_full": false },
+        { "ref": "3581918ecd", "takeaway": "Summary only: frames the shift as a move to fighting fraud in Democratic-led states.", "read_full": false },
+        { "ref": "76c7de12c5", "takeaway": "Headline and summary only (paywalled): the oil market reaction.", "read_full": false },
+        { "ref": "f4a9a588f4", "takeaway": "Headline and summary only (paywalled): oil futures rose as risk premium returned.", "read_full": false },
+        { "ref": "us-w2", "takeaway": "Context on Vance's remarks linking the midterm defeat to the Iran war.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-mexico-caravan-tariffs",
+      "headline": "Trump threatens to double tariffs on Mexico over migrant caravans",
+      "region": "White House",
+      "importance": 4,
+      "summary": "President Trump threatened Thursday to immediately double tariffs on Mexico unless it stops migrant caravans he said were heading for the U.S. border, and he linked the movement to Republican losses in the midterms. A Chiapas state government source told Reuters that about 1,500 people were in the group. Mexican President Claudia Sheinbaum responded that no caravan has reached the U.S. border since Trump returned to office.",
+      "why_it_matters": "Mexico is one of the largest U.S. trading partners, so higher tariffs could raise prices on cars, produce and other goods. The threat also shows the border returning to the center of Trump's agenda after the election.",
+      "background": "Migrant caravans are large groups of people, many from Central and South America, who travel north through Mexico together for safety. Trump has used tariff threats before to press Mexico to stop migrants before they reach the United States, and Mexican authorities have broken up earlier caravans in the country's south. The group in question was reported in Chiapas, the Mexican state on the Guatemalan border. Trump's threat came nine days after Democrats won control of Congress in the midterm elections.",
+      "facts": [
+        { "text": "Trump threatened to immediately double tariffs on Mexico if it does not stop migrant caravans heading toward the U.S. border.", "refs": ["dbe039ac61", "6cac4ba28b"] },
+        { "text": "Trump connected the caravans to Republican losses in the midterm elections, The Hill and the Washington Times reported.", "refs": ["df9e7dfe07", "f24ab7f9c1"] },
+        { "text": "A Chiapas state government source told Reuters that around 1,500 people, including families with small children, were in the group.", "refs": ["df9e7dfe07"] },
+        { "text": "Sheinbaum said no migrant caravans have reached the U.S. border since Trump returned to office in January 2025.", "refs": ["2a21dfdcaf", "6714a653a9"] },
+        { "text": "Mexican authorities broke up migrant caravans in southern Mexico before Trump took office, Mexico News Daily reported at the time.", "refs": ["us-w3"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How large the caravans are and whether they threaten the border",
+          "positions": [
+            { "claim": "Trump wrote that \"huge CARAVANS\" were beginning an illegal march through Mexico.", "refs": ["df9e7dfe07"] },
+            { "claim": "A Chiapas state government source put the group at around 1,500 people, and Sheinbaum said no caravan has reached the U.S. border since January 2025.", "refs": ["df9e7dfe07", "2a21dfdcaf"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "dbe039ac61", "note": "Leads with the tariff threat and describes caravans 'marching' toward the border." },
+        { "ref": "f24ab7f9c1", "note": "Uses Trump's word 'invasion' and ties the warning to Democrats' midterm wins." },
+        { "ref": "2a21dfdcaf", "note": "Leads with Sheinbaum's rebuttal rather than Trump's threat." },
+        { "ref": "ca0b18a1a2", "note": "Places the threat in the context of the election losses." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "dbe039ac61", "takeaway": "Summary only: the threat to immediately double tariffs.", "read_full": false },
+        { "ref": "6cac4ba28b", "takeaway": "Headline only: wire report of the tariff threat.", "read_full": false },
+        { "ref": "df9e7dfe07", "takeaway": "Summary only: Trump's post, the midterm link and the 1,500 figure attributed to Reuters.", "read_full": false },
+        { "ref": "f24ab7f9c1", "takeaway": "Headline only: border 'invasion' warning after Democratic wins.", "read_full": false },
+        { "ref": "ca0b18a1a2", "takeaway": "Headline only: threat framed as following election losses.", "read_full": false },
+        { "ref": "2a21dfdcaf", "takeaway": "Headline only: Sheinbaum's rebuttal.", "read_full": false },
+        { "ref": "6714a653a9", "takeaway": "Summary only: carries the AP account of Sheinbaum's response.", "read_full": false },
+        { "ref": "us-w3", "takeaway": "Older background on Mexico dispersing caravans.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ice-record-deportations-fy2026",
+      "headline": "ICE reports record arrests and deportations for fiscal 2026",
+      "region": "Immigration",
+      "importance": 4,
+      "summary": "Immigration and Customs Enforcement said it arrested and deported more people in the past fiscal year than in any year of its 23-year history. Department of Homeland Security figures show more than 483,000 deportations and 491,000 immigration arrests in fiscal 2026. Homeland Security Secretary Markwayne Mullin said the agency has been \"unleashed.\"",
+      "why_it_matters": "The numbers show the scale of the administration's immigration enforcement, which reaches workplaces, families and communities across the country. A Democratic-led Congress is preparing to investigate how that enforcement is being carried out.",
+      "background": "ICE is the Homeland Security agency that arrests and deports people who are in the country illegally; it was created in 2003. Mass deportation was a central promise of Trump's 2024 campaign, and enforcement has expanded since he returned to office in January 2025. The federal fiscal year runs from Oct. 1 to Sept. 30, so these figures cover the first full fiscal year of his second term. Markwayne Mullin, a former Republican senator from Oklahoma, leads the department.",
+      "facts": [
+        { "text": "DHS figures show more than 483,000 deportations and 491,000 immigration arrests in fiscal year 2026, CBS News reported.", "refs": ["b41f2c7068"] },
+        { "text": "ICE said it arrested and deported more people in the 12-month period than at any time in its 23-year history.", "refs": ["b91a3907c5", "910c59ea55"] },
+        { "text": "DHS Secretary Markwayne Mullin said the agency has been \"unleashed\" and that arrests exceeded those of three Biden-era fiscal years combined, Fox News reported.", "refs": ["fe4ef36636"] },
+        { "text": "Democrats plan to examine a DHS prison purchase as part of wider immigration investigations, according to a Washington Post headline.", "refs": ["fd6aca1916"] },
+        { "text": "The Migration Policy Institute said earlier that deportations in the administration's first 18 months were the highest in years but short of all-time highs.", "refs": ["us-w4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "fe4ef36636", "note": "'Touts' and 'unleashed' present the figures as an administration achievement." },
+        { "ref": "910c59ea55", "note": "Dates the record to Trump's return to the White House." },
+        { "ref": "2d9f671e50", "note": "Short and flat: ICE 'sets records.'" }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "b41f2c7068", "takeaway": "Summary only: gives the specific DHS totals.", "read_full": false },
+        { "ref": "b91a3907c5", "takeaway": "Summary only: ICE's claim of a record in its 23-year history.", "read_full": false },
+        { "ref": "910c59ea55", "takeaway": "Headline only: wire report of record-high arrests and deportations.", "read_full": false },
+        { "ref": "fe4ef36636", "takeaway": "Summary only: Mullin's announcement and the comparison with the Biden years.", "read_full": false },
+        { "ref": "2d9f671e50", "takeaway": "Headline only: ICE sets records.", "read_full": false },
+        { "ref": "fd6aca1916", "takeaway": "Headline only (paywalled): Democrats' planned immigration probes.", "read_full": false },
+        { "ref": "us-w4", "takeaway": "Think-tank context on how earlier deportation totals compared with past highs.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "colom-mississippi-senate-upset",
+      "headline": "Democrat Scott Colom wins Mississippi Senate seat; Trump gives him credit",
+      "region": "Elections",
+      "importance": 4,
+      "summary": "Democrat Scott Colom defeated Republican Sen. Cindy Hyde-Smith in Mississippi, a race that was too close to call for days after the Nov. 3 election. Colom will be the state's first Black senator since Reconstruction. President Trump said Thursday that he gives Colom credit for his effort to win over Republican voters.",
+      "why_it_matters": "The result adds to the Democrats' new Senate majority and shows that a state long considered safely Republican was competitive this year.",
+      "background": "Mississippi is one of the most reliably Republican states and has not been represented by a Black senator since the Reconstruction era after the Civil War. Cindy Hyde-Smith had held the seat since 2018. Scott Colom, a Democrat, was treated as a long shot for most of the campaign. The day after the election, local stations reported that the two were separated by a very narrow margin, and the Associated Press later called the race for Colom.",
+      "facts": [
+        { "text": "Colom won his bid to unseat Republican Sen. Cindy Hyde-Smith.", "refs": ["9d79cb490d", "659eaa0bd5"] },
+        { "text": "Mississippi has not been represented by a Black senator since Reconstruction, PBS NewsHour reported.", "refs": ["9d79cb490d"] },
+        { "text": "Trump told sports commentator Stephen A. Smith, \"I don't know the gentleman, but I give him credit.\"", "refs": ["0cc0d27c4c"] },
+        { "text": "Trump praised Colom for attending a Mississippi rally and courting his supporters, the Associated Press reported.", "refs": ["7a99546ca1"] },
+        { "text": "On Nov. 4, the race was still too close to call, with the candidates separated by a narrow margin.", "refs": ["us-w5"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "c4c8ee28b8", "note": "Emphasizes the historic meaning for Black voters." },
+        { "ref": "aeb2134a86", "note": "Frames the result as part of a wider Republican setback across the South." },
+        { "ref": "0cc0d27c4c", "note": "Centers Trump's praise for the Democrat." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "9d79cb490d", "takeaway": "Summary only: how Colom won and the Reconstruction-era milestone.", "read_full": false },
+        { "ref": "c4c8ee28b8", "takeaway": "Summary only: interview on the significance for voting rights history.", "read_full": false },
+        { "ref": "0cc0d27c4c", "takeaway": "Summary only: Trump's quote to Stephen A. Smith.", "read_full": false },
+        { "ref": "7a99546ca1", "takeaway": "Headline only: Trump praised Colom for courting his supporters.", "read_full": false },
+        { "ref": "659eaa0bd5", "takeaway": "Headline only: AP's explanation of its race call.", "read_full": false },
+        { "ref": "aeb2134a86", "takeaway": "Headline and summary only (paywalled): regional view of GOP losses in the South.", "read_full": false },
+        { "ref": "us-w5", "takeaway": "Day-after report that the race was too close to call.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "dc-logan-circle-shooting",
+      "headline": "Gunman kills building manager and wounds four in Washington, D.C.",
+      "region": "Washington, D.C.",
+      "importance": 3,
+      "summary": "A man shot five people Thursday morning in and around a gym in an apartment building in Washington's Logan Circle neighborhood, killing one and wounding four, police said. The suspect, identified as 55-year-old Matt Wade Lambert, was found dead of a self-inflicted gunshot wound in an apartment above the gym. Officials said he had a dispute with the building's management over repairs.",
+      "why_it_matters": "The shooting happened about a mile from the White House in a busy residential and commercial area, and it grew out of what officials describe as a housing dispute rather than a political motive.",
+      "background": "Logan Circle is a dense neighborhood in Northwest Washington. The shooting began at a gym in a residential building, and the suspect lived in an apartment above it. The Guardian's live coverage, citing a federal law enforcement official quoted by NBC News, said the response shifted from an active shooter to a barricaded suspect before he was found dead. Police identified both the suspect and the person killed on Thursday afternoon.",
+      "facts": [
+        { "text": "One person was killed and four were injured in the shooting Thursday morning, police said.", "refs": ["2f056bf8a4", "4e9d610c21", "23db18e6f9"] },
+        { "text": "The shooting began at a gym in an apartment building about a mile north of the White House, the BBC reported.", "refs": ["d2d973a04c"] },
+        { "text": "Police identified the suspect as Matt Wade Lambert, 55, and said he died of a self-inflicted gunshot wound.", "refs": ["2f056bf8a4", "23db18e6f9", "2be0e3e6e4"] },
+        { "text": "The suspect was a doctor and was found dead in his apartment, CBS News reported.", "refs": ["2be0e3e6e4"] },
+        { "text": "Officials said the gunman was unhappy about repair work in his condo and fatally shot the building manager, the New York Times reported; the BBC, citing police, described a long-running dispute over mould.", "refs": ["a481ddf18c", "0dca1b56a1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "0dca1b56a1", "note": "Leads with the suspect's profession and the mould dispute as the motive." },
+        { "ref": "a9257cc5f6", "note": "Stresses the proximity to the White House." },
+        { "ref": "4e9d610c21", "note": "Counts five people shot and leads with the sequence of events." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2f056bf8a4", "takeaway": "Summary only: police identification of the suspect and the casualty count.", "read_full": false },
+        { "ref": "4e9d610c21", "takeaway": "Headline only: five shot, one killed at a gym, suspect dead.", "read_full": false },
+        { "ref": "23db18e6f9", "takeaway": "Headline and summary only (paywalled): suspect found in an apartment above the gym.", "read_full": false },
+        { "ref": "d2d973a04c", "takeaway": "Video summary: location and timing of the shooting.", "read_full": false },
+        { "ref": "2be0e3e6e4", "takeaway": "Summary only: suspect was a 55-year-old doctor.", "read_full": false },
+        { "ref": "a481ddf18c", "takeaway": "Headline and summary only (paywalled): the repair dispute and the building manager's death.", "read_full": false },
+        { "ref": "0dca1b56a1", "takeaway": "Summary only: police account of a dispute over mould.", "read_full": false },
+        { "ref": "a9257cc5f6", "takeaway": "Headline only: notes the location near the White House.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "hegseth-medal-tomb-sentinel",
+      "headline": "Hegseth gives medal to Tomb of the Unknown Soldier guard who reprimanded his group",
+      "region": "Pentagon",
+      "importance": 3,
+      "summary": "Defense Secretary Pete Hegseth on Thursday awarded a Joint Service Commendation Medal to the Army sentinel who had reprimanded his group at the Tomb of the Unknown Soldier on Veterans Day. The soldier, Specialist Thomas Iglesias, had shouted for quiet after people in the group were heard talking and laughing. He was called to the Pentagon for the award.",
+      "why_it_matters": "The episode drew wide attention because the tomb is one of the country's most solemn military sites, and it involved the conduct of the official who leads the armed forces.",
+      "background": "The Tomb of the Unknown Soldier at Arlington National Cemetery honors service members whose remains were never identified. Army sentinels guard it around the clock and are trained to call out visitors who break the site's rules of silence and respect. On Veterans Day, Nov. 11, President Trump laid a wreath there, and cameras recorded a sentinel reprimanding a group that included Hegseth. Hegseth, a former Army National Guard officer, has led the Pentagon since January 2025.",
+      "facts": [
+        { "text": "On Veterans Day, an Army sentinel reprimanded a group that included Hegseth at the Tomb of the Unknown Soldier.", "refs": ["6a87564924", "688c61d52b"] },
+        { "text": "The sentinel, Specialist Thomas Iglesias, shouted at the group to be quiet after they were heard talking and laughing, the BBC reported.", "refs": ["b2a849cb17", "b286561d0c"] },
+        { "text": "Hegseth awarded the soldier a Joint Service Commendation Medal on Thursday.", "refs": ["59349c399d", "0136144276", "5da2b07783"] },
+        { "text": "The soldier was summoned to the Pentagon on Thursday, CBS News reported.", "refs": ["669c78aa31"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "59349c399d", "note": "Says the soldier scolded Hegseth's 'entourage,' keeping the secretary himself out of the reprimand." },
+        { "ref": "5da2b07783", "note": "Says the soldier scolded 'him and his aides,' placing Hegseth among those reprimanded." },
+        { "ref": "1ff74e3632", "note": "Treats the episode as damage to Hegseth's public image rather than as a medal story." },
+        { "ref": "e66ed3ba8f", "note": "Refers to the 'defense secretary's group' and leads with the award." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "6a87564924", "takeaway": "Video summary: the original Veterans Day reprimand caught on camera.", "read_full": false },
+        { "ref": "688c61d52b", "takeaway": "Summary only: the commendation and the reprimand of Hegseth and his guests.", "read_full": false },
+        { "ref": "b2a849cb17", "takeaway": "Summary only: names the soldier and describes what he shouted about.", "read_full": false },
+        { "ref": "b286561d0c", "takeaway": "Summary only: stresses the solemnity of the site.", "read_full": false },
+        { "ref": "59349c399d", "takeaway": "Summary only: names the medal; says the soldier reprimanded Hegseth's staff.", "read_full": false },
+        { "ref": "0136144276", "takeaway": "Headline only: wire report of the medal.", "read_full": false },
+        { "ref": "5da2b07783", "takeaway": "Headline only: wire report saying the soldier scolded Hegseth and his aides.", "read_full": false },
+        { "ref": "669c78aa31", "takeaway": "Video summary: the soldier was called to the Pentagon.", "read_full": false },
+        { "ref": "1ff74e3632", "takeaway": "Headline and summary only (paywalled): analysis of the effect on Hegseth's image.", "read_full": false },
+        { "ref": "e66ed3ba8f", "takeaway": "Headline only: the medal for the sentry who reprimanded the group.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://www.semafor.com/article/12/04/2025/schumers-democrats-put-off-their-leadership-debate-until-after-the-midterms", "title": "Schumer's Democrats put off their leadership debate until after the midterms", "outlet": "Semafor" },
+    { "id": "us-w2", "url": "https://timesofoman.com/article/178944-trump-says-a-lot-of-people-objected-to-vances-remarks-blaming-midterm-defeat-on-iran-war", "title": "Trump says \"a lot of people\" objected to Vance's remarks blaming midterm defeat on Iran war", "outlet": "Times of Oman" },
+    { "id": "us-w3", "url": "https://mexiconewsdaily.com/news/mexico-break-up-migrant-caravans-trump-presidency", "title": "Mexican authorities break up migrant caravans as Trump presidency looms", "outlet": "Mexico News Daily" },
+    { "id": "us-w4", "url": "https://www.migrationpolicy.org/press-release/deportations-during-first-18-months-trump", "title": "Deportations During First 18 Months of Trump Administration Reach Highest Level in Years, Albeit Short of All-Time Highs", "outlet": "Migration Policy Institute" },
+    { "id": "us-w5", "url": "https://www.wfsb.com/2026/11/04/colom-hyde-smith-separated-by-narrow-margin-mississippi-senate-race/", "title": "Colom, Hyde-Smith separated by narrow margin in Mississippi Senate race", "outlet": "WFSB" }
+  ]
+}

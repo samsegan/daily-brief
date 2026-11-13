@@ -1,0 +1,195 @@
+{
+  "stories": [
+    {
+      "id": "flatbush-building-collapse",
+      "headline": "Search ends at Flatbush building collapse that killed eight; Brooklyn DA opens criminal inquiry",
+      "region": "Brooklyn",
+      "importance": 5,
+      "summary": "Officials ended rescue operations at the site on Flatbush Avenue where a three-story residential building fell into a neighboring construction site on Wednesday, and said no more victims were in the rubble. Mayor Zohran Mamdani said eight people died, including two children. The Brooklyn district attorney has opened a criminal inquiry, and the cause is still under investigation.",
+      "why_it_matters": "Many New Yorkers live next door to an active construction site, and the investigation will test whether the city's oversight of excavation and demolition beside occupied buildings is enough to keep neighbors safe.",
+      "background": "On Wednesday, Nov. 11, a three-story apartment building at 1321 Flatbush Ave. in Brooklyn collapsed into the construction site beside it. The dead include residents, among them two children, and construction workers; more than a dozen other people were hurt. Rescue crews searched the rubble into Thursday before officials said everyone was accounted for. Flatbush is a largely immigrant neighborhood that has seen a lot of new construction, and residents are now asking whether that building boom has been properly supervised. No official cause has been given.",
+      "facts": [
+        { "text": "A three-story residential building on Flatbush Avenue in Brooklyn collapsed into an adjacent construction site on Wednesday.", "refs": ["9d5a0afebe", "d6f0fd99d2", "9561e63ca3"] },
+        { "text": "Mayor Zohran Mamdani said eight people were killed, including two children.", "refs": ["d6f0fd99d2", "a7f7b11a49"] },
+        { "text": "Two construction workers were among the dead, the BBC reported.", "refs": ["9d5a0afebe"] },
+        { "text": "Officials ended rescue operations and said there were no more victims in the rubble.", "refs": ["d6f0fd99d2", "b81dc1737f", "2ffc475ad1"] },
+        { "text": "The Brooklyn district attorney opened a criminal inquiry into the collapse, the New York Times reported.", "refs": ["b3648d8009"] },
+        { "text": "City officials promised severe criminal penalties for any person or company found responsible, Gothamist reported.", "refs": ["2ffc475ad1"] },
+        { "text": "The cause of the collapse has not been determined.", "refs": ["b81dc1737f", "b3648d8009"] },
+        { "text": "A witness, James Williams, told amNY he heard repeated banging at the site before the building at 1321 Flatbush Ave. came down.", "refs": ["8cfadff66c"] },
+        { "text": "An attorney who worked on the Surfside condominium collapse told NewsNation that jail time is unlikely and that families will probably have to turn to civil court.", "refs": ["5a6538dad5"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many people were injured",
+          "positions": [
+            { "claim": "At least 18 others were injured, according to the New York Times.", "refs": ["d6f0fd99d2", "b3648d8009"] },
+            { "claim": "17 others were injured, according to Gothamist.", "refs": ["9561e63ca3"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "a7f7b11a49", "note": "Opens with a neighbor's question and centers the grief of the neighborhood rather than the investigation." },
+        { "ref": "034f12c333", "note": "Stresses that the neighborhood is an immigrant one and that residents are demanding accountability." },
+        { "ref": "9561e63ca3", "note": "Ties the collapse to wider worry about how fast the area is being developed." },
+        { "ref": "5a6538dad5", "note": "Looks ahead to the legal outcome and plays down the chance of criminal punishment." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d6f0fd99d2", "takeaway": "Headline and summary only (paywalled): the mayor's death toll, the injury count and the end of rescue operations.", "read_full": false },
+        { "ref": "b3648d8009", "takeaway": "Headline and summary only (paywalled): reports the Brooklyn DA's criminal inquiry.", "read_full": false },
+        { "ref": "b81dc1737f", "takeaway": "Headline and summary only (paywalled): says the cause is unclear and no more victims are in the rubble.", "read_full": false },
+        { "ref": "9d5a0afebe", "takeaway": "Summary only: an explainer that says two construction workers and two children were among the dead.", "read_full": false },
+        { "ref": "a7f7b11a49", "takeaway": "Summary only: a portrait of neighbors grieving in Flatbush.", "read_full": false },
+        { "ref": "2ffc475ad1", "takeaway": "Summary only: officials turn to the cause and promise criminal penalties for anyone responsible.", "read_full": false },
+        { "ref": "9561e63ca3", "takeaway": "Summary only: residents question the pace of development; gives 17 injured.", "read_full": false },
+        { "ref": "8cfadff66c", "takeaway": "Summary only: witness and business-owner accounts from the block, with the building's address.", "read_full": false },
+        { "ref": "5a6538dad5", "takeaway": "Summary only: an interview with a Surfside attorney on why criminal charges are rare after collapses.", "read_full": false },
+        { "ref": "034f12c333", "takeaway": "Headline only: residents of the neighborhood demand accountability.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "council-surveillance-pricing-ban",
+      "headline": "City Council passes ban on 'surveillance pricing' based on shoppers' personal data",
+      "region": "City Council",
+      "importance": 4,
+      "summary": "The City Council voted Thursday to prohibit surveillance pricing, the practice of using a customer's personal or browsing data to charge that person a different price for the same product. Speaker Julie Menin sponsored the bill and rejected objections from companies including Uber. The bill now goes to the mayor.",
+      "why_it_matters": "If it becomes law, businesses selling to New Yorkers could not quote you a higher price than your neighbor because of what your data says about you.",
+      "background": "Surveillance pricing means setting an individual price for a shopper using data about that person, such as browsing history. Menin and Majority Leader Shaun Abreu introduced a bill on it, Intro 891, in May, and a Council committee held a hearing in June. The Partnership for New York City, a business group, urged the Council not to act, arguing that a state bill already covers the practice; state lawmakers voted in June for their own ban. A bill passed by the Council goes to the mayor, who can sign it, veto it or let it become law without a signature.",
+      "facts": [
+        { "text": "The City Council passed a bill Thursday banning surveillance pricing.", "refs": ["dde790afd3", "7059162490", "4fc5bf794b"] },
+        { "text": "The bill blocks companies from using browsing data to charge customers different prices for the same product, the New York Post reported.", "refs": ["7059162490"] },
+        { "text": "Speaker Julie Menin sponsored the legislation and pushed back on arguments against it from companies such as Uber, City & State reported.", "refs": ["4fc5bf794b"] },
+        { "text": "Menin called the practice \"insidious and predatory\" and said it worsens the affordability crisis.", "refs": ["dde790afd3"] },
+        { "text": "Menin and Majority Leader Shaun Abreu introduced surveillance-pricing legislation in May 2026, according to the Council.", "refs": ["nyc-w1"] },
+        { "text": "The Partnership for New York City told the Council that state legislation already regulates surveillance pricing and urged it not to act.", "refs": ["nyc-w2"] },
+        { "text": "State lawmakers voted in June to ban surveillance pricing statewide, WAMC reported.", "refs": ["nyc-w3"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "dde790afd3", "note": "Defines the practice by its reliance on personal data and gives the speaker's criticism prominent play." },
+        { "ref": "7059162490", "note": "Sides with the shopper's point of view: data is something 'used against' customers." },
+        { "ref": "4fc5bf794b", "note": "Treats the vote as a political win for the speaker, naming her in the headline." },
+        { "ref": "e28a301fd6", "note": "Puts the speaker's word 'insidious' in quotation marks, keeping distance from the characterization." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "dde790afd3", "takeaway": "Summary only: the vote, with Menin's quotes on affordability.", "read_full": false },
+        { "ref": "4fc5bf794b", "takeaway": "Summary only: Menin as sponsor answering industry objections, including Uber's.", "read_full": false },
+        { "ref": "7059162490", "takeaway": "Summary only: explains the ban as stopping different prices for the same product based on browsing data.", "read_full": false },
+        { "ref": "e53017fefb", "takeaway": "Headline only: describes the ban as covering pricing based on what a company can get from an individual.", "read_full": false },
+        { "ref": "e28a301fd6", "takeaway": "Headline only: reports the vote, quoting the 'insidious' label.", "read_full": false },
+        { "ref": "6d61eac2cc", "takeaway": "Headline only: straight report that the Council approved the ban.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "kade-lewin-indictments",
+      "headline": "Three alleged gang members indicted in 2022 killing of 12-year-old Kade Lewin",
+      "region": "Brooklyn",
+      "importance": 3,
+      "summary": "Federal prosecutors charged three men they describe as gang members with the 2022 drive-by shooting that killed 12-year-old Kade Lewin in East Flatbush. Prosecutors say the shooters were aiming at a rival and mistook the boy for someone else. The case had gone unsolved for more than four years.",
+      "why_it_matters": "The killing of a child sitting in a parked car became a symbol of the city's gun violence in 2022, and the charges are the first public answer to who was responsible. In today's digest only left-leaning outlets covered the indictments.",
+      "background": "Kade Lewin was shot on March 31, 2022, while sitting in a parked car near East 56th Street and Linden Boulevard in East Flatbush. His cousin, Jenna Ellis, was shot several times and survived, and an 8-year-old girl in the car was not hit. Then-Mayor Eric Adams met with the family, and the neighborhood held vigils and marches calling for an end to gun violence. Police said at the time they were looking for two dark sedans, but no one was charged until now.",
+      "facts": [
+        { "text": "Three people were indicted in the 2022 killing of 12-year-old Kade Lewin in East Flatbush, Brooklyn.", "refs": ["faa09df0b8", "0e2830692a"] },
+        { "text": "Federal prosecutors say gang members fired the shots in a drive-by aimed at a rival and mistook the boy for someone else.", "refs": ["614189fb5f", "faa09df0b8"] },
+        { "text": "The Daily News identified the three as members of the Crips in Brooklyn.", "refs": ["0e2830692a"] },
+        { "text": "Prosecutors say Kade was hit in the head and chest and died within 10 minutes, Gothamist reported.", "refs": ["614189fb5f"] },
+        { "text": "Kade was shot on March 31, 2022, while sitting in a car with his cousin, who was wounded and survived, and an 8-year-old girl, who was not hit.", "refs": ["nyc-w4"] },
+        { "text": "Police said in 2022 that they were searching for two black sedans in connection with the shooting.", "refs": ["nyc-w5"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "0e2830692a", "note": "Names the gang and calls the killing a case of mistaken identity in the headline." },
+        { "ref": "614189fb5f", "note": "Attributes the account to federal authorities with 'Feds say'." },
+        { "ref": "faa09df0b8", "note": "Emphasizes how long the case went unsolved and does not mention a gang in the headline." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "faa09df0b8", "takeaway": "Headline and summary only (paywalled): three indicted in a long-unsolved case; prosecutors allege mistaken identity.", "read_full": false },
+        { "ref": "614189fb5f", "takeaway": "Summary only: the federal account of a drive-by aimed at a rival, with details of the boy's wounds.", "read_full": false },
+        { "ref": "0e2830692a", "takeaway": "Headline only: three Brooklyn Crips members arrested.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "juvenile-detention-audit",
+      "headline": "State audit finds city's juvenile detention centers far over capacity as overtime quadruples",
+      "region": "Public Safety",
+      "importance": 3,
+      "summary": "A new state audit found that New York City's two juvenile detention centers are holding far more young people than they were built for, THE CITY reported. Staff overtime has quadrupled and the average stay has nearly doubled, according to the audit. It also found the number of probation officers fell by a third since 2020.",
+      "why_it_matters": "Crowded lockups and longer stays affect the safety of the teenagers held there and the staff who work there, and overtime is paid from the city budget. THE CITY, a center-rated outlet, is the only one in today's digest covering the audit.",
+      "background": "The city holds young people charged with serious offenses at two secure centers: Horizon in the Bronx and Crossroads in Brooklyn, both run by the Administration for Children's Services. The state comptroller's office audits how the city runs them. An earlier audit, released in April 2025, found the agency had not reported 37% of incidents at the centers to state regulators between 2019 and 2023 and that many detained youths did not get an intake interview on time. The new 69-page review looks at crowding, staffing and how long young people are held.",
+      "facts": [
+        { "text": "A state audit found the city's two juvenile detention centers are operating far beyond capacity, THE CITY reported.", "refs": ["5e9a3c2d73"] },
+        { "text": "The audit found staff overtime has quadrupled and the average length of detention has nearly doubled.", "refs": ["5e9a3c2d73"] },
+        { "text": "The 69-page review found the number of probation officers declined by one-third from 2020.", "refs": ["5e9a3c2d73"] },
+        { "text": "A state comptroller audit released in April 2025 found the Administration for Children's Services did not report 37% of incidents at Horizon and Crossroads, 3,630 in all, to the state from January 2019 through December 2023.", "refs": ["nyc-w6"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "5e9a3c2d73", "takeaway": "Summary only: the audit's main findings on capacity, overtime, length of stay and probation staffing.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "november-budget-modification",
+      "headline": "City budget grows by $3 billion in November update as watchdogs urge more savings",
+      "region": "City Hall",
+      "importance": 3,
+      "summary": "The Mamdani administration's November budget modification adds $3 billion to this year's city budget, City & State reported. Budget watchdogs urged the mayor to set more money aside, citing concern about a downturn on Wall Street.",
+      "why_it_matters": "City services from schools to sanitation depend on tax revenue that swings with Wall Street, so how much the city saves now affects whether cuts or tax increases come later. City & State, a center-rated outlet, is the only one in today's digest covering the update.",
+      "background": "The city adopts a budget each June for the fiscal year starting July 1 and revises it several times a year; the November modification is the first update. It adjusts spending and revenue estimates to match what has happened since adoption. A year ago, the outgoing Adams administration's November update raised spending to about $118 billion and left a projected $4.7 billion gap for the following year, Patch reported. Fiscal watchdog groups regularly press mayors to put more into reserves when revenue comes in above forecast.",
+      "facts": [
+        { "text": "The city budget grew by $3 billion in the November modification, City & State reported.", "refs": ["e21dad15bf"] },
+        { "text": "Budget watchdogs urged Mayor Zohran Mamdani to save more, citing concerns about a Wall Street downturn.", "refs": ["e21dad15bf"] },
+        { "text": "In November 2025, the Adams administration raised current-year spending by about $2 billion to $118 billion and projected a $4.7 billion gap for the next budget, Patch reported.", "refs": ["nyc-w7"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e21dad15bf", "takeaway": "Summary only: the $3 billion increase and the watchdogs' call for more savings.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "council-google-ai-school-search",
+      "headline": "Council leaders press Google over AI features in search used by city students",
+      "region": "Schools",
+      "importance": 2,
+      "summary": "Council Speaker Julie Menin and Council Member Shekar Krishnan wrote to Google on Thursday about changes they say could force city public schools to choose between allowing AI-generated features in Google Search and losing student access to it, amNY reported. Google announced such a policy for schools last week and then said it was backing off, according to earlier reports.",
+      "why_it_matters": "City students use school Google accounts for everyday research, so the outcome decides whether they keep a basic search tool and whether AI-written answers show up in their schoolwork. amNY, a center-rated outlet, is the only one in today's digest covering the letter.",
+      "background": "Many school systems, including New York City's, give students Google accounts. In early November, Google said student accounts could not use its search engine unless their school system also opted in to its AI tools, because search and AI are now closely tied together. Mayor Zohran Mamdani criticized the move, and a day later Google retreated, saying AI products would be off by default and schools could turn them on individually, GovTech reported. The Council letter says the risk to students' search access remains. Separately, some council members have called for a pause on generative AI in city schools.",
+      "facts": [
+        { "text": "Menin and Krishnan sent Google a letter dated Nov. 12 over changes that could make city schools choose between permitting AI features in Google Search and losing student access to the search engine, amNY reported.", "refs": ["341f782f4b"] },
+        { "text": "Google said in early November that students at schools that opt out of its AI tools would lose access to its search engine, TechCrunch reported.", "refs": ["nyc-w8"] },
+        { "text": "A day after the announcement, Google retreated from the decision, GovTech reported.", "refs": ["nyc-w9"] },
+        { "text": "Mamdani wrote that \"Google is trying to use its monopoly power to force AI into our public schools,\" PC Gamer reported.", "refs": ["nyc-w10"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "341f782f4b", "takeaway": "Summary only: the Council leaders' letter and the choice they say schools could face.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "nyc-w1", "url": "https://council.nyc.gov/press/2026/05/14/3119/", "title": "NYC Council Speaker Julie Menin and Majority Leader Shaun Abreu Introduce Legislation to Protect New Yorkers from Dynamic and Surveillance Pricing", "outlet": "New York City Council" },
+    { "id": "nyc-w2", "url": "https://pfnyc.org/news/partnership-testimony-on-surveillance-pricing", "title": "Partnership Testimony on Surveillance Pricing", "outlet": "Partnership for New York City" },
+    { "id": "nyc-w3", "url": "https://www.wamc.org/2026-06-08/ny-lawmakers-vote-to-ban-surveillance-pricing-but-digital-price-tags-survive", "title": "NY lawmakers vote to ban 'surveillance pricing,' but digital price tags survive", "outlet": "WAMC" },
+    { "id": "nyc-w4", "url": "https://abc7ny.com/brooklyn-child-shot-boy-killed-east-flatbush-shooting-and/11699474", "title": "Innocent 12-year-old boy shot and killed, woman injured while sitting in a car in Brooklyn", "outlet": "ABC7 New York" },
+    { "id": "nyc-w5", "url": "https://www.cbsnews.com/amp/newyork/news/nypd-searching-for-2-black-sedans-in-connection-to-deadly-shooting-of-12-year-old-boy-in-brooklyn/", "title": "2 black sedans wanted in connection to deadly shooting of 12-year-old boy in Brooklyn, NYPD says", "outlet": "CBS New York" },
+    { "id": "nyc-w6", "url": "https://www.osc.ny.gov/press/releases/2025/04/dinapoli-nyc-secure-juvenile-detention-centers-need-improve-safety-and-access-services-youth", "title": "DiNapoli: NYC Secure Juvenile Detention Centers Need to Improve Safety and Access to Services for Youth", "outlet": "Office of the New York State Comptroller" },
+    { "id": "nyc-w7", "url": "https://patch.com/new-york/new-york-city/adams-boosts-budget-leaving-4-7-billion-hole-mamdani", "title": "Adams Boosts Budget, Leaving $4.7 Billion Hole for Mamdani", "outlet": "Patch" },
+    { "id": "nyc-w8", "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/", "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI", "outlet": "TechCrunch" },
+    { "id": "nyc-w9", "url": "https://www.govtech.com/education/k-12/google-reverses-decision-to-turn-off-search-for-schools-not-using-ai", "title": "Google Reverses Decision to Turn Off Search for Schools Not Using AI", "outlet": "Government Technology" },
+    { "id": "nyc-w10", "url": "https://www.pcgamer.com/software/ai/google-criticized-by-nyc-mayor-zohran-mamdani-following-ai-policy-change-google-is-trying-to-use-its-monopoly-power-to-force-ai-into-our-public-schools/", "title": "Google criticized by NYC mayor Zohran Mamdani following AI policy change", "outlet": "PC Gamer" }
+  ]
+}

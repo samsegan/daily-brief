@@ -1,0 +1,234 @@
+{
+  "stories": [
+    {
+      "id": "nvidia-huang-resigns-markets",
+      "headline": "Nvidia's Jensen Huang resigns; CFO Colette Kress steps in as investors weigh the AI trade",
+      "region": "Earnings",
+      "importance": 5,
+      "summary": "Nvidia said Thursday that co-founder Jensen Huang resigned as chief executive and board member, effective immediately, after news reports of extramarital affairs, including one with a woman U.S. intelligence reportedly suspects of spying for China. Chief financial officer Colette Kress is interim CEO while the board searches for a permanent replacement. Nvidia shares fell 4.3% on Thursday, according to France 24, and investors now turn to the company's earnings next week.",
+      "why_it_matters": "Nvidia is one of the world's most valuable companies and a large part of many index funds and retirement accounts, so a change at the top can move ordinary savers' balances. Its chips also sit at the center of the AI spending that has been driving the stock market.",
+      "background": "Nvidia makes the processors that power most AI data centers, and Huang co-founded the company and led it until this week. On Nov. 8 the board said it was opening an independent investigation after reporting that Huang had been the target of a foreign intelligence effort, and said then that it had confidence in him. Outlets including the BBC, The Hindu and The Hill have since reported allegations of extramarital affairs, one involving a woman U.S. intelligence suspects of being a Chinese spy; Huang admitted being unfaithful to his wife but did not give details, The Hindu reported. Kress, a 13-year Nvidia veteran, has been its finance chief. The company is due to report earnings next week, the same week as a planned Anthropic stock listing, according to The Wall Street Journal and Reuters.",
+      "facts": [
+        { "text": "Nvidia said in a securities filing dated Nov. 12 that Jensen Huang resigned as president, chief executive and a board member, effective immediately.", "refs": ["business-w1"] },
+        { "text": "Chief financial officer Colette Kress is serving as interim CEO while keeping her finance role, and the board said it will consider internal and external candidates for a permanent successor.", "refs": ["business-w1", "c221ba3edc"] },
+        { "text": "The board named director Harvey C. Jones as its first chair, according to the filing.", "refs": ["business-w1"] },
+        { "text": "On Nov. 8 the board said it was opening an independent investigation after reporting that Huang had been the target of a foreign intelligence effort, and said it had confidence in him.", "refs": ["business-w2"] },
+        { "text": "The resignation followed news reports of extramarital affairs, including one with a woman accused of spying for China, according to the BBC, France 24 and CNBC.", "refs": ["ea7faee116", "a040155e49", "aa0175cd57"] },
+        { "text": "Huang admitted being unfaithful to his wife but did not disclose details of the alleged relationship with the woman suspected of spying, The Hindu reported.", "refs": ["7950d233ea"] },
+        { "text": "Nvidia shares closed down 4.3% on Thursday, France 24 reported; CNBC said the stock edged higher early Friday.", "refs": ["a040155e49", "aa0175cd57"] },
+        { "text": "Other AI stocks pared their losses on Thursday, Reuters reported, and world shares posted modest losses on Friday, according to the Associated Press.", "refs": ["a65726aee1", "53075f0153"] },
+        { "text": "The BBC reported that Huang has been summoned to testify before Congress, and The Japan Times reported that Congress is stepping up scrutiny of both Nvidia and President Trump.", "refs": ["ea7faee116", "d8f114ef9f"] },
+        { "text": "The New York Times reported that Trump was told of the suspicions last year and that he called Huang and urged him to fight for his job, according to The Japan Times and The Hill, which cited the Times.", "refs": ["d8f114ef9f", "8cc8535f92"] },
+        { "text": "Singapore said it had barred the woman at the center of the spying allegations from re-entering the country and that U.S. authorities gave limited help with its investigations, CNBC reported.", "refs": ["fe9babf689"] },
+        { "text": "Some Nvidia staff in China were stunned by the exit, which raised questions about the company's operations there, the South China Morning Post reported, citing company sources.", "refs": ["c7b2bfba06"] },
+        { "text": "Nvidia's earnings and Anthropic's planned stock listing next week are seen as two tests for AI stocks, according to The Wall Street Journal and Reuters.", "refs": ["8a62962627", "3301c78fe5"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How far the fallout reaches beyond Nvidia",
+          "positions": [
+            { "claim": "The Hill reported that the departure threatens the stability of the AI industry and the wider market, while noting that experts differ on Nvidia's outlook.", "refs": ["7baefcc3c4"] },
+            { "claim": "The New York Times reported that the drop in Nvidia shares has not spread, with AI stocks broadly up and the market logging its best week in months.", "refs": ["8df851d18b"] },
+            { "claim": "CNBC reported that investors are rotating among chip stocks rather than leaving the sector.", "refs": ["1a1165928e"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "7baefcc3c4", "note": "Presents the resignation as a threat to the whole AI-driven economy." },
+        { "ref": "8df851d18b", "note": "Stresses that the market has shrugged it off, leading with stocks' best week in months." },
+        { "ref": "e4aa0bc5cf", "note": "Leads with the affair and the spying suspicion rather than the company or its shares." },
+        { "ref": "b83e7e002b", "note": "Focuses on the successor, describing Kress as a finance chief who challenged Huang's bets." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ea7faee116", "takeaway": "Headline and summary only: leads with the congressional summons and the spying allegation.", "read_full": false },
+        { "ref": "a040155e49", "takeaway": "Summary only: gives the 4.3% share drop and notes security concerns.", "read_full": false },
+        { "ref": "aa0175cd57", "takeaway": "Summary only: market angle, with the stock edging up Friday.", "read_full": false },
+        { "ref": "c221ba3edc", "takeaway": "Summary only: the succession details, with Kress keeping the CFO job.", "read_full": false },
+        { "ref": "7950d233ea", "takeaway": "Summary only: timeline piece noting Huang's admission of infidelity.", "read_full": false },
+        { "ref": "a65726aee1", "takeaway": "Headline only: AI stocks recovered part of Thursday's losses.", "read_full": false },
+        { "ref": "53075f0153", "takeaway": "Headline only: modest losses in world shares on Friday.", "read_full": false },
+        { "ref": "d8f114ef9f", "takeaway": "Summary only: congressional scrutiny and what Trump was told, citing The New York Times.", "read_full": false },
+        { "ref": "8cc8535f92", "takeaway": "Summary only: relays the Times report of Trump's call to Huang.", "read_full": false },
+        { "ref": "fe9babf689", "takeaway": "Summary only: Singapore's role in the dispute over Nvidia chips and China.", "read_full": false },
+        { "ref": "c7b2bfba06", "takeaway": "Summary only (paywalled): reaction among Nvidia's China staff.", "read_full": false },
+        { "ref": "7baefcc3c4", "takeaway": "Summary only: risks to the AI industry, with experts divided.", "read_full": false },
+        { "ref": "8df851d18b", "takeaway": "Summary only (paywalled): the selloff stayed contained to Nvidia.", "read_full": false },
+        { "ref": "1a1165928e", "takeaway": "Summary only: rotation among chip stocks.", "read_full": false },
+        { "ref": "8a62962627", "takeaway": "Summary only (paywalled): Nvidia set to recoup some losses; two tests next week.", "read_full": false },
+        { "ref": "3301c78fe5", "takeaway": "Headline only: week-ahead look at Nvidia results and the Anthropic listing.", "read_full": false },
+        { "ref": "e4aa0bc5cf", "takeaway": "Headline only: frames the story around the affair and spying suspicion.", "read_full": false },
+        { "ref": "b83e7e002b", "takeaway": "Headline only: profile of Kress as interim CEO.", "read_full": false },
+        { "ref": "business-w1", "takeaway": "Nvidia's own filing announcing the resignation, the interim CEO and the new board chair.", "read_full": false },
+        { "ref": "business-w2", "takeaway": "The board's Nov. 8 statement opening an independent investigation.", "read_full": false }
+      ],
+      "social": "Elon Musk said it would be \"an honor\" to hire Huang, Fox Business and the New York Post reported. CNBC host Jim Cramer said of Huang, \"He had to go,\" according to a CNN headline."
+    },
+    {
+      "id": "fed-inflation-bond-yields",
+      "headline": "Fed officials signal more rate increases as inflation runs hot and bond yields jump",
+      "region": "Fed",
+      "importance": 4,
+      "summary": "Federal Reserve officials said this week that inflation is still too high, with New York Fed president John Williams saying the central bank has \"work to do.\" Treasury yields posted their biggest surge since 2022 as traders bet on more rate increases, MarketWatch reported, and bitcoin fell below $70,000. The Fed also said its October 2027 meeting will be a strategy session with no vote on interest rates.",
+      "why_it_matters": "Higher Fed rates and Treasury yields feed into what people pay on mortgages, car loans and credit cards. They also tend to weigh on stock and crypto prices.",
+      "background": "The Federal Reserve sets short-term interest rates to keep inflation near 2%. Officials had expected to cut rates this year but are instead preparing for another fight against inflation, CNBC reported, after a higher-than-expected October reading. Axios reported that price increases have spread beyond a few categories and tied the pressure to the Iran war and tariffs. Kevin Warsh, the Fed chair, is also changing how the central bank operates and communicates, according to The New York Times and MarketWatch.",
+      "facts": [
+        { "text": "New York Fed president John Williams said the central bank has \"work to do\" to bring inflation back to its target, Reuters reported.", "refs": ["b278744116"] },
+        { "text": "San Francisco Fed president Mary Daly said the Fed has time to calibrate its rate increases, according to Reuters.", "refs": ["a2c770dd10"] },
+        { "text": "The latest monthly inflation reading, for October, was 0.4%, higher than expected, CNBC reported.", "refs": ["56336ba573"] },
+        { "text": "Bond yields had their biggest surge since 2022 as expectations grew for more Fed rate increases, MarketWatch reported.", "refs": ["74d1ad40b1"] },
+        { "text": "Longer-dated Treasurys kept selling off on Friday and stock futures fell, The Wall Street Journal reported.", "refs": ["5aff13db6e"] },
+        { "text": "Bitcoin fell below $70,000 for the first time since August and was headed for a sixth straight weekly loss, The Wall Street Journal reported, citing expectations of higher rates and the tech selloff.", "refs": ["d708d15b8b"] },
+        { "text": "The Fed said its October 2027 meeting will not include a vote on interest rates or a post-meeting statement, leaving seven voting meetings next year, according to CNBC and The New York Times.", "refs": ["1ba52ba6ab", "482115bd33"] },
+        { "text": "Some Fed officials are questioning whether raising rates gradually will be enough to contain inflation, Axios reported.", "refs": ["b6f66424a8"] }
+      ],
+      "disputed": [
+        {
+          "topic": "What is driving inflation",
+          "positions": [
+            { "claim": "Most top Fed officials blame AI for fueling inflation, The Washington Post reported.", "refs": ["fb7a86c8a4"] },
+            { "claim": "Fed chair Kevin Warsh does not share that view, according to the same Washington Post report.", "refs": ["fb7a86c8a4"] }
+          ]
+        },
+        {
+          "topic": "How fast the Fed needs to move",
+          "positions": [
+            { "claim": "Daly said the Fed has time to calibrate its rate increases, per Reuters.", "refs": ["a2c770dd10"] },
+            { "claim": "Axios reported that officials are starting to question whether gradual increases will be enough.", "refs": ["b6f66424a8"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "56336ba573", "note": "Stresses the reversal: a Fed that expected to cut rates is now preparing to fight inflation again." },
+        { "ref": "74d1ad40b1", "note": "Leads with the size of the bond move and links market swings to Warsh's communication style." },
+        { "ref": "fb7a86c8a4", "note": "Centers on a split between Warsh and other officials over AI's role in inflation." },
+        { "ref": "a2c770dd10", "note": "Emphasizes patience, with Daly saying there is time to adjust." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "b278744116", "takeaway": "Headline only: Williams says inflation is not yet back on target.", "read_full": false },
+        { "ref": "a2c770dd10", "takeaway": "Headline only: Daly says the Fed has time to calibrate increases.", "read_full": false },
+        { "ref": "56336ba573", "takeaway": "Summary only: the October inflation reading and the shift away from cuts.", "read_full": false },
+        { "ref": "74d1ad40b1", "takeaway": "Summary only: the surge in bond yields and Warsh's communication.", "read_full": false },
+        { "ref": "5aff13db6e", "takeaway": "Summary only (paywalled): futures lower, long Treasurys selling off.", "read_full": false },
+        { "ref": "d708d15b8b", "takeaway": "Summary only (paywalled): bitcoin's drop tied to rate expectations.", "read_full": false },
+        { "ref": "1ba52ba6ab", "takeaway": "Summary only: details of the 2027 meeting change.", "read_full": false },
+        { "ref": "482115bd33", "takeaway": "Summary only (paywalled): the meeting change as part of Warsh's wider plans.", "read_full": false },
+        { "ref": "b6f66424a8", "takeaway": "Summary only: inflation has broadened and pressure for more increases is building.", "read_full": false },
+        { "ref": "fb7a86c8a4", "takeaway": "Headline only (paywalled): officials differ with Warsh on AI and inflation.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "existing-home-sales-16-year-low",
+      "headline": "U.S. existing home sales fall to a 16-year low as mortgage rates stay above 7%",
+      "region": "Housing",
+      "importance": 4,
+      "summary": "Sales of previously owned homes fell in October to their lowest level in more than 16 years, the National Association of Realtors reported Thursday. Sales were down 8.8% from a year earlier, to an annual rate of 3.75 million, according to The Guardian. The average 30-year mortgage rate slipped to 7.11% this week, its fourth straight decline.",
+      "why_it_matters": "With borrowing costs above 7%, monthly payments are out of reach for many buyers, and owners with cheaper older mortgages have less reason to sell. That makes it harder to buy, sell or move.",
+      "background": "Existing home sales count completed purchases of previously owned houses and condos and are reported monthly by the National Association of Realtors, a trade group. In September the group reported sales at an annual rate of 3.99 million. Mortgage rates have risen along with Treasury yields as investors expect the Federal Reserve to keep raising interest rates to fight inflation. The New York Post said sales are now at their lowest since the housing crash of the late 2000s.",
+      "facts": [
+        { "text": "U.S. existing home sales fell in October to their lowest level in more than 16 years, Reuters reported.", "refs": ["71e7275a5a", "be322e0775"] },
+        { "text": "October sales were down 8.8% from a year earlier, according to the National Association of Realtors.", "refs": ["94f5df7c1e"] },
+        { "text": "Sales ran at an annual rate of 3.75 million in October, The Guardian reported.", "refs": ["ee127c5fac"] },
+        { "text": "The average 30-year fixed mortgage rate fell to 7.11% this week, its fourth straight weekly decline.", "refs": ["c24f377a09", "bd256d1db8"] },
+        { "text": "Sales are at their lowest since the late-2000s housing crash, the New York Post reported.", "refs": ["952aba9962"] },
+        { "text": "Reuters reported in the same article that the U.S. labor market remains resilient.", "refs": ["be322e0775"] },
+        { "text": "In September, the Realtors group reported sales at an annual rate of 3.99 million.", "refs": ["business-w3"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How high mortgage rates are by historical standards",
+          "positions": [
+            { "claim": "The Guardian's headline calls mortgage rates record-high, while its summary says they are at a nearly three-year high.", "refs": ["ee127c5fac"] },
+            { "claim": "The New York Times and The Washington Post report the rate at 7.11% after four straight weekly declines.", "refs": ["bd256d1db8", "c24f377a09"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "94f5df7c1e", "note": "Uses a \"punch in the gut\" quote to stress how the drop feels to people in the market." },
+        { "ref": "952aba9962", "note": "Ties the drop to high mortgage rates and compares it to the late-2000s crash." },
+        { "ref": "be322e0775", "note": "Pairs the housing figure with a resilient labor market, playing down wider weakness." },
+        { "ref": "c24f377a09", "note": "Leads with the rate falling for a fourth week rather than how high it remains." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "71e7275a5a", "takeaway": "Headline only: sales at a more than 16-year low.", "read_full": false },
+        { "ref": "be322e0775", "takeaway": "Headline only: sets the housing number beside a resilient job market.", "read_full": false },
+        { "ref": "94f5df7c1e", "takeaway": "Summary only: the 8.8% annual decline, attributed to the Realtors group.", "read_full": false },
+        { "ref": "ee127c5fac", "takeaway": "Summary only: gives the 3.75 million sales pace and blames mortgage rates and inflation.", "read_full": false },
+        { "ref": "952aba9962", "takeaway": "Summary only: compares the level to the housing crash.", "read_full": false },
+        { "ref": "c24f377a09", "takeaway": "Headline only (paywalled): the weekly mortgage rate figure.", "read_full": false },
+        { "ref": "bd256d1db8", "takeaway": "Summary only (paywalled): high rates keep buyers and sellers on the sidelines.", "read_full": false },
+        { "ref": "business-w3", "takeaway": "The Realtors group's September report, used for the prior month's figure.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iea-oil-surplus-gulf-exports",
+      "headline": "Oil market swings back to surplus as Gulf exports recover, IEA says",
+      "region": "Energy",
+      "importance": 3,
+      "summary": "The International Energy Agency said Friday that the global oil market is moving into a supply surplus for the first time since the start of the Iran war, as Persian Gulf exports recover despite the continuing conflict. The agency cautioned that rebuilding depleted stockpiles will take months, the Financial Times reported. European stock indexes turned positive as oil prices dropped, according to The Wall Street Journal.",
+      "why_it_matters": "More oil supply tends to lower prices for gasoline, heating and shipping, which would ease one source of the inflation the Fed is trying to bring down.",
+      "background": "The International Energy Agency, a Paris-based body that advises oil-consuming countries, publishes a monthly report on supply and demand. The Iran war disrupted shipping from the Persian Gulf, a main source of the world's crude, and drained stockpiles. In its October report the agency said Gulf crude exports had climbed to more than 75% of pre-war levels in September as producers used routes that avoid the Strait of Hormuz, while fuel markets stayed tight.",
+      "facts": [
+        { "text": "The IEA said global oil markets will swing to a supply surplus for the first time since the start of the Iran war as Persian Gulf exports recover.", "refs": ["8c81fd9c65", "6e57840077", "d25249c5dd"] },
+        { "text": "IEA analysts said it will take months to rebuild stockpiles depleted by the conflict, the Financial Times reported.", "refs": ["d25249c5dd"] },
+        { "text": "Iraq's oil output in October was its highest since 2019, and production in the United Arab Emirates held near the prior month's high, Bloomberg reported, citing the IEA.", "refs": ["c618ee085f"] },
+        { "text": "Russian fuel exports and oil output rebounded in October after a deal with President Trump, Reuters reported, citing the IEA.", "refs": ["bb7a3b7f50"] },
+        { "text": "European stock indexes reversed earlier declines on Friday as oil prices fell, The Wall Street Journal reported.", "refs": ["588878cee0"] },
+        { "text": "The IEA's October report said Gulf crude exports reached more than 75% of pre-war levels in September.", "refs": ["business-w4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "8c81fd9c65", "note": "Stresses that the surplus arrives even though the conflict is still going on." },
+        { "ref": "d25249c5dd", "note": "Adds the caution that stockpiles will take months to rebuild." },
+        { "ref": "bb7a3b7f50", "note": "Highlights Russia's rebound and links it to a deal with Trump." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "8c81fd9c65", "takeaway": "Summary only (paywalled): the swing to surplus on Gulf exports.", "read_full": false },
+        { "ref": "d25249c5dd", "takeaway": "Summary only (paywalled): the surplus plus the warning on stockpiles.", "read_full": false },
+        { "ref": "6e57840077", "takeaway": "Headline only: market returning to surplus as Gulf exports recover.", "read_full": false },
+        { "ref": "c618ee085f", "takeaway": "Summary only (paywalled): Iraq and UAE production figures.", "read_full": false },
+        { "ref": "bb7a3b7f50", "takeaway": "Headline only: Russian output and fuel exports rebounded.", "read_full": false },
+        { "ref": "588878cee0", "takeaway": "Summary only (paywalled): European stocks rose as oil fell.", "read_full": false },
+        { "ref": "business-w4", "takeaway": "Trade-press account of the IEA's October report, used for background.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "canada-stellantis-jeep-tariffs",
+      "headline": "Canada threatens to sue Stellantis after Jeep production shifts to Illinois",
+      "region": "Trade",
+      "importance": 2,
+      "summary": "Canada threatened to sue automaker Stellantis over the sale of an auto plant, the Associated Press reported. The dispute follows Stellantis's decision to scrap planned Jeep Compass production in Brampton, Ontario, and move future output to Illinois amid U.S. auto tariffs, according to CNBC.",
+      "why_it_matters": "The dispute shows U.S. tariffs moving car production, and the jobs that go with it, across the border. Only left-leaning outlets in today's feeds covered it (the Associated Press, The Washington Post and CNBC).",
+      "background": "Stellantis is the company behind Jeep, Chrysler, Dodge and Ram. It had planned to build the Jeep Compass at its plant in Brampton, near Toronto. Stellantis dropped that plan and shifted the future output to Illinois amid U.S. tariffs on autos, CNBC reported. The Associated Press describes the move as part of a wider shift of production south under President Trump's trade policies. Canada is now threatening legal action over the sale of a plant.",
+      "facts": [
+        { "text": "Canada threatened to sue Stellantis over the sale of an auto plant, the Associated Press reported.", "refs": ["7b4fe6b323"] },
+        { "text": "Stellantis scrapped planned Jeep Compass production in Brampton and shifted future output to Illinois amid U.S. auto tariffs, CNBC reported.", "refs": ["97a5327904"] },
+        { "text": "CNBC's headline quotes the Canadian side as saying \"We will sue them.\"", "refs": ["97a5327904"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "7b4fe6b323", "note": "Presents the dispute as a result of Trump's trade war moving production south." },
+        { "ref": "97a5327904", "note": "Leads with the lawsuit threat as a direct quote and names the Jeep model affected." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "7b4fe6b323", "takeaway": "Headline only: wire story on the lawsuit threat and the plant sale.", "read_full": false },
+        { "ref": "97a5327904", "takeaway": "Summary only: the Brampton-to-Illinois production shift.", "read_full": false },
+        { "ref": "d0a5162d52", "takeaway": "Headline only (paywalled): reprint of the Associated Press story.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "business-w1", "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm", "title": "NVIDIA Announces CEO Transition (Form 8-K exhibit)", "outlet": "U.S. Securities and Exchange Commission" },
+    { "id": "business-w2", "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors", "title": "Statement from NVIDIA Board of Directors", "outlet": "Nvidia" },
+    { "id": "business-w3", "url": "https://www.nar.realtor/newsroom/existing-home-sales-increased-1-5-in-september-according-to-nar-report", "title": "Existing-Home Sales Increased 1.5% in September, According to NAR Report", "outlet": "National Association of Realtors" },
+    { "id": "business-w4", "url": "https://hydrocarbonengineering.com/refining/26102026/iea-the-latest-developments-in-oil-markets/", "title": "IEA: the latest developments in oil markets", "outlet": "Hydrocarbon Engineering" }
+  ]
+}
