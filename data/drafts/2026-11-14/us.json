@@ -1,0 +1,299 @@
+{
+  "stories": [
+    {
+      "id": "faa-nationwide-ground-stop",
+      "headline": "Flights resume after FAA's nationwide ground stop, but thousands are still canceled",
+      "region": "Aviation",
+      "importance": 5,
+      "summary": "The Federal Aviation Administration halted all U.S. departures for nearly five hours on Friday after a communications failure in the air traffic control system. Transportation Secretary Sean Duffy blamed decades-old equipment and asked for more money to replace it; officials said there was no sign of an attack. Flights resumed Friday night, but airlines were still canceling thousands of flights on Saturday.",
+      "why_it_matters": "Anyone flying this weekend should expect cancellations and long delays while airlines move planes and crews back into place. The failure also puts the age of the air traffic control system, and who pays to replace it, in front of Congress.",
+      "background": "A ground stop is an FAA order that keeps planes from taking off; they are usually limited to one airport or region for weather or equipment trouble. A nationwide stop is rare. The air traffic control system relies on telecommunications equipment that the Transportation Department itself describes as decades old, and it has had several regional failures, including an outage in September that halted flights into major East Coast airports. Sean Duffy runs the Transportation Department, which oversees the FAA; Markwayne Mullin runs the Department of Homeland Security.",
+      "facts": [
+        { "text": "The FAA ordered a nationwide ground stop on Friday, citing \"extraordinary circumstances\" and \"reasons of safety.\"", "refs": ["d7b35189e0", "2cdcaeac3e", "7db0d062dc"] },
+        { "text": "The stop lasted nearly five hours and was the longest nationwide ground stop since Sept. 11, 2001.", "refs": ["b589bf5bb7", "ed17515d3f"] },
+        { "text": "Transportation Secretary Sean Duffy said the cause was a communications outage in aging air traffic control technology, and officials said routers had been overloaded with data.", "refs": ["f7f0d855a5", "b589bf5bb7", "e14ade15e4", "1a3251f519"] },
+        { "text": "The administration ruled out foul play, and Homeland Security Secretary Markwayne Mullin said there was no indication of a threat or attack.", "refs": ["f7f0d855a5", "9fcd846bc3", "33f0211314"] },
+        { "text": "Duffy called for more FAA funding to speed up equipment upgrades.", "refs": ["e14ade15e4", "42019767f1"] },
+        { "text": "More than 8,200 flights, over 31% of those scheduled in the United States, were canceled on Friday.", "refs": ["b589bf5bb7"] },
+        { "text": "Thousands more flights were canceled on Saturday as airlines repositioned planes and crews; Axios put the early-Saturday figure at 3,000.", "refs": ["d211695cb0", "fc7646e65e", "90efe7abd3"] },
+        { "text": "JetBlue canceled most of its remaining Friday flights and said it expected disruptions to continue the next day.", "refs": ["49912d03ce"] },
+        { "text": "Some college football games were delayed because of the travel disruption.", "refs": ["90efe7abd3"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f7f0d855a5", "note": "Leads with the administration's explanation, putting 'overloaded' in quotation marks and noting that foul play was ruled out." },
+        { "ref": "fc7646e65e", "note": "Focuses on the second day of disruption and calls it 'chaos'." },
+        { "ref": "33f0211314", "note": "Emphasizes the security reassurance, using Mullin's 9/11 comparison." },
+        { "ref": "49912d03ce", "note": "Tells the story through one airline's cancellations and its warning that disruption will last." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f7f0d855a5", "takeaway": "Headline and summary only: live updates on flights resuming and the administration blaming overloaded, decades-old systems.", "read_full": false },
+        { "ref": "b589bf5bb7", "takeaway": "Headline and summary only: gives the cancellation count, the duration and the router explanation.", "read_full": false },
+        { "ref": "d211695cb0", "takeaway": "Headline only: AP wire story on Saturday cancellations as airlines recover.", "read_full": false },
+        { "ref": "ed17515d3f", "takeaway": "Headline and summary only: carries the AP story, calling it the longest nationwide ground stop in 25 years.", "read_full": false },
+        { "ref": "fc7646e65e", "takeaway": "Headline and summary only: counts 3,000 cancellations early Saturday.", "read_full": false },
+        { "ref": "90efe7abd3", "takeaway": "Headline and summary only: continuing delays and delayed college football games.", "read_full": false },
+        { "ref": "d7b35189e0", "takeaway": "Summary only: the FAA's stated reasons for the order.", "read_full": false },
+        { "ref": "2cdcaeac3e", "takeaway": "Summary only: video report on the order and officials' safety rationale.", "read_full": false },
+        { "ref": "7db0d062dc", "takeaway": "Headline only: the FAA's 'extraordinary circumstances' wording.", "read_full": false },
+        { "ref": "e14ade15e4", "takeaway": "Summary only: Duffy's timeline, his blame on old communications systems and his funding request.", "read_full": false },
+        { "ref": "1a3251f519", "takeaway": "Headline only: Duffy blames the aging air traffic control system.", "read_full": false },
+        { "ref": "42019767f1", "takeaway": "Headline and summary only (paywalled): explainer tying the failure to antiquated telecommunications equipment and a call for more money.", "read_full": false },
+        { "ref": "9fcd846bc3", "takeaway": "Summary only: Mullin's White House briefing saying there is no threat.", "read_full": false },
+        { "ref": "33f0211314", "takeaway": "Summary only: Mullin says there are no indications of an attack.", "read_full": false },
+        { "ref": "49912d03ce", "takeaway": "Headline and summary only: JetBlue's cancellations and statement.", "read_full": false },
+        { "ref": "us-w1", "takeaway": "Earlier report on the September outage that halted flights into East Coast airports, used for background.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "senate-democratic-leader-race",
+      "headline": "Van Hollen challenges Schumer for Senate majority leader and rules out a 2028 run",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "Sen. Chris Van Hollen of Maryland is running against Chuck Schumer to lead Senate Democrats, who won back the majority in last week's midterms. Van Hollen said he would not run for president so he could focus on the contest. Schumer's allies say he has well over the votes he needs, and few senators have publicly backed the challenger so far.",
+      "why_it_matters": "The majority leader decides what the Senate votes on, so the winner will shape how hard Democrats press on the Iran war, corporate power and the filibuster over the next two years.",
+      "background": "Chuck Schumer of New York has led Senate Democrats since 2017. Democrats won control of the Senate in the Nov. 3 midterms, and the party's senators choose their own leader in an internal vote. Some Democratic voters and officeholders have argued since President Trump returned to office that Schumer has not confronted the administration forcefully enough. Van Hollen, a second-term senator from Maryland, is running as the candidate of that wing of the party; Schumer's supporters say the challenge is really about ending the filibuster, the rule that lets 41 senators block most bills.",
+      "facts": [
+        { "text": "Van Hollen is challenging Schumer for the top Senate Democratic job after Democrats won back the majority.", "refs": ["e52bde7bce", "039e29e21e", "a5d330595b"] },
+        { "text": "Van Hollen said he would not run for president in 2028 so he could focus on the leadership race.", "refs": ["a5d330595b", "0949fd1391"] },
+        { "text": "Schumer has said he is confident he will win.", "refs": ["a5d330595b", "us-w2"] },
+        { "text": "Schumer's allies predicted he would get more than 40 votes, called the challenge a \"distraction\" and said it was about ending the filibuster.", "refs": ["be57f72783"] },
+        { "text": "The Washington Post reported that few of Van Hollen's colleagues immediately backed him.", "refs": ["83ad84b0ea"] },
+        { "text": "New York Mayor Zohran Mamdani declined on Friday to endorse Schumer, saying voters had demanded change in the midterms.", "refs": ["ffec0407b9"] }
+      ],
+      "disputed": [
+        {
+          "topic": "What the contest is about",
+          "positions": [
+            { "claim": "Schumer's allies say the challenge is a distraction that is really about ending the filibuster.", "refs": ["be57f72783"] },
+            { "claim": "Reports on Van Hollen's side describe a fight over how boldly the party should act to end the Iran war and take on corporate power.", "refs": ["e1ef283aa5", "039e29e21e"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "be57f72783", "note": "Leads with the confidence of Schumer's allies and their argument about the filibuster." },
+        { "ref": "e1ef283aa5", "note": "Calls it a 'progressive challenge' and a fight for a 'bolder agenda'." },
+        { "ref": "039e29e21e", "note": "Presents Senate Democrats as 'torn', playing up how open the race is." },
+        { "ref": "ffec0407b9", "note": "Local angle: a fellow New Yorker withholding support from Schumer." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e52bde7bce", "takeaway": "Summary only: asks whether Van Hollen has the support to win and notes Democrats just regained the majority.", "read_full": false },
+        { "ref": "039e29e21e", "takeaway": "Headline and summary only: describes a divided caucus and a contest over the party's direction.", "read_full": false },
+        { "ref": "a5d330595b", "takeaway": "Headline and summary only (paywalled): Van Hollen forgoes a presidential run; Schumer is confident.", "read_full": false },
+        { "ref": "0949fd1391", "takeaway": "Headline only (paywalled): Van Hollen rules out a White House run.", "read_full": false },
+        { "ref": "83ad84b0ea", "takeaway": "Headline only (paywalled): few colleagues immediately embrace Van Hollen.", "read_full": false },
+        { "ref": "be57f72783", "takeaway": "Headline and summary only: Schumer allies' vote prediction and their filibuster argument.", "read_full": false },
+        { "ref": "e1ef283aa5", "takeaway": "Headline and summary only: frames the race around the Iran war and corporate power.", "read_full": false },
+        { "ref": "ffec0407b9", "takeaway": "Headline and summary only: Mamdani declines to back Schumer.", "read_full": false },
+        { "ref": "us-w2", "takeaway": "Earlier report in which Schumer said he was confident he would stay leader despite criticism.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "scotus-asylum-border-order",
+      "headline": "Supreme Court will decide whether Trump can block asylum claims at the southern border",
+      "region": "Courts",
+      "importance": 4,
+      "summary": "The Supreme Court agreed on Friday to hear the Trump administration's appeal of lower-court rulings that found it illegal to shut off asylum applications at the U.S.-Mexico border. The policy stems from an executive order that called the situation at the border an \"invasion.\" The justices will now decide whether a president can suspend access to the asylum system that way.",
+      "why_it_matters": "The ruling will determine whether people who reach the southern border can ask for protection from persecution, and how far a president can go in setting aside immigration law by proclamation.",
+      "background": "Federal law lets people who reach the United States apply for asylum if they fear persecution at home. On his first day back in office in January 2025, President Trump signed an order declaring an \"invasion\" at the southern border and directing officials to remove people who cross illegally without the usual chance to seek asylum. Immigrant-rights groups sued, and lower courts, including the federal appeals court in Washington, ruled against the policy. The administration asked the Supreme Court in August to take the case.",
+      "facts": [
+        { "text": "The Supreme Court agreed on Friday to hear the case over President Trump's order suspending asylum access at the southern border.", "refs": ["b91b63dc02", "6ddb761bdf", "56279bf2ff", "567504dd51"] },
+        { "text": "The administration is asking the justices to overturn lower-court decisions that found it was illegal to block asylum applications under the order.", "refs": ["567504dd51", "0d2a84075a"] },
+        { "text": "The executive order described the situation at the southern border as an \"invasion.\"", "refs": ["567504dd51", "us-w3"] },
+        { "text": "The administration asked the court in August to review a ruling by the federal appeals court in Washington, D.C.", "refs": ["us-w3"] },
+        { "text": "The New York Times reported that the policy has effectively closed off avenues for seeking asylum at the border.", "refs": ["0d2a84075a"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "56279bf2ff", "note": "Calls the policy 'Trump's asylum ban' and frames the case as a challenge to it." },
+        { "ref": "6ddb761bdf", "note": "Uses the neutral 'asylum access at border' and does not name Trump in the headline." },
+        { "ref": "4c3b668c28", "note": "Frames the question as whether Trump 'may bar most asylum claims'." },
+        { "ref": "567504dd51", "note": "Describes the order as 'suspending asylum access' and names it as an executive order." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "b91b63dc02", "takeaway": "Headline only: AP wire story on the court taking the case.", "read_full": false },
+        { "ref": "567504dd51", "takeaway": "Headline and summary only: the administration's request and the 'invasion' language.", "read_full": false },
+        { "ref": "6ddb761bdf", "takeaway": "Headline and summary only: places the case among disputes over Trump's second-term immigration agenda.", "read_full": false },
+        { "ref": "56279bf2ff", "takeaway": "Headline only: the court will hear a challenge to the asylum ban.", "read_full": false },
+        { "ref": "4c3b668c28", "takeaway": "Headline only: the court will decide if Trump may bar most asylum claims.", "read_full": false },
+        { "ref": "0d2a84075a", "takeaway": "Headline and summary only (paywalled): lower courts ruled against the policy, which has shut down asylum avenues.", "read_full": false },
+        { "ref": "us-w3", "takeaway": "Legal news site's August account of the administration's petition and the appeals court ruling.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "bessent-lutnick-chip-exports",
+      "headline": "Bessent blames Lutnick's Commerce Department over Nvidia chips reaching China",
+      "region": "White House",
+      "importance": 4,
+      "summary": "Treasury Secretary Scott Bessent publicly faulted the Commerce Department, led by Howard Lutnick, for not blacklisting Megaspeed, an Nvidia customer suspected of passing advanced AI chips to China. Lutnick has agreed to testify before the Senate Banking Committee, on Dec. 10 according to CBS News. China warned Washington against new export controls, days before President Trump is due to meet Xi Jinping.",
+      "why_it_matters": "The dispute is about whether U.S. rules meant to keep advanced AI chips from China are being enforced, and it has put a cabinet secretary's job in question a week before a summit with Beijing.",
+      "background": "The United States restricts sales of the most advanced AI chips to China, and the Commerce Department enforces those rules, in part by adding companies to a trade blacklist called the Entity List. Nvidia chief executive Jensen Huang resigned this week after admitting to an affair, following reports that a woman he was involved with was suspected of spying for China; she once led Megaspeed, a Singapore-based Nvidia customer. Megaspeed denies wrongdoing and China denies the spying allegation. Lawmakers from both parties have asked what the administration knew and why Megaspeed was not restricted.",
+      "facts": [
+        { "text": "Bessent on Friday blamed the Commerce Department for not restricting Megaspeed, an Nvidia customer suspected of diverting advanced AI chips to China.", "refs": ["452a301770", "d33159ad05", "56336ba573", "5d16533575"] },
+        { "text": "Lutnick agreed to appear voluntarily before the Senate Banking Committee amid concerns from members of both parties, a Commerce spokesperson said.", "refs": ["6184af7ae7", "02b71d0ed6"] },
+        { "text": "CBS News reported, citing a U.S. official, that Lutnick's testimony is set for Dec. 10.", "refs": ["8a62a997c4"] },
+        { "text": "Lawmakers have also summoned former Nvidia CEO Jensen Huang to testify.", "refs": ["ea7faee116", "926b1b7cc2"] },
+        { "text": "China warned the United States against imposing new export controls on semiconductors.", "refs": ["b440bc09d8"] },
+        { "text": "Megaspeed denies wrongdoing, and China denies the spying allegation.", "refs": ["24fd5ab92f"] },
+        { "text": "Axios reported on Nov. 11 that Bessent had confronted Lutnick in the White House Situation Room over why Megaspeed was not on the Entity List.", "refs": ["us-w4"] },
+        { "text": "Trump and Xi are expected to meet within days.", "refs": ["5d16533575", "43b9b6bfc4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "87333b7b2f", "note": "Casts it as a personal betrayal and calls the policy a 'fiasco'." },
+        { "ref": "452a301770", "note": "Flat wording centered on the department and the missing export controls." },
+        { "ref": "de06bec5ec", "note": "Stresses Lutnick's alleged inaction and, in its summary, that he could lose his job." },
+        { "ref": "02b71d0ed6", "note": "Leads with the testimony and labels the episode a 'fiasco'." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "452a301770", "takeaway": "Headline only: Reuters on Bessent blaming Commerce over Megaspeed.", "read_full": false },
+        { "ref": "d33159ad05", "takeaway": "Headline only: AP on Bessent blaming Lutnick's department.", "read_full": false },
+        { "ref": "56336ba573", "takeaway": "Headline and summary only: Bessent's criticism of chip 'leakage' to China.", "read_full": false },
+        { "ref": "5d16533575", "takeaway": "Headline and summary only (paywalled): the delayed blacklisting and the coming Trump-Xi meeting.", "read_full": false },
+        { "ref": "6184af7ae7", "takeaway": "Headline and summary only: Lutnick's agreement to testify and the bipartisan concern.", "read_full": false },
+        { "ref": "02b71d0ed6", "takeaway": "Headline and summary only: Lutnick to face the Senate on export-control enforcement.", "read_full": false },
+        { "ref": "8a62a997c4", "takeaway": "Headline and summary only: gives the Dec. 10 date, citing a U.S. official.", "read_full": false },
+        { "ref": "24fd5ab92f", "takeaway": "Summary only: Bessent's complaint, with Megaspeed's and China's denials.", "read_full": false },
+        { "ref": "b440bc09d8", "takeaway": "Headline and summary only: China's warning against new chip controls.", "read_full": false },
+        { "ref": "ea7faee116", "takeaway": "Headline and summary only: Huang summoned to testify after resigning.", "read_full": false },
+        { "ref": "926b1b7cc2", "takeaway": "Headline and summary only: lawmakers summon Huang; Lutnick also called.", "read_full": false },
+        { "ref": "87333b7b2f", "takeaway": "Headline only: right-leaning outlet treats it as Bessent turning on Lutnick.", "read_full": false },
+        { "ref": "de06bec5ec", "takeaway": "Headline and summary only: pressure on Lutnick over alleged inaction.", "read_full": false },
+        { "ref": "43b9b6bfc4", "takeaway": "Headline only: AP analysis on the scandal and the AI rivalry before Trump's China visit.", "read_full": false },
+        { "ref": "us-w4", "takeaway": "Earlier scoop on a Bessent-Lutnick confrontation over Megaspeed.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "medicaid-work-rules-delay",
+      "headline": "Trump administration gives states six more months on Medicaid work requirements",
+      "region": "Health policy",
+      "importance": 4,
+      "summary": "The Trump administration said on Friday that it would delay enforcement of new Medicaid work requirements by six months. The rules still formally take effect Jan. 1, but states can now wait until July to start enforcing them. State officials had warned they were not ready.",
+      "why_it_matters": "Millions of low-income adults who would have had to prove they work, volunteer or attend school to keep health coverage from January now have until at least July in states that take the extra time.",
+      "background": "Medicaid is the government health insurance program for low-income people, run by states with federal money. The tax and spending law Republicans passed last year, the One Big Beautiful Bill Act, requires many able-bodied adult enrollees to document work, volunteering or schooling to keep coverage, starting Jan. 1, 2027. States have to build systems to check that paperwork, and state officials and health policy groups said the deadline was too tight. Opponents of the rules say eligible people will lose coverage over paperwork; supporters say the rules encourage work.",
+      "facts": [
+        { "text": "The administration announced on Friday a six-month delay in enforcing Medicaid work requirements that were scheduled to begin Jan. 1.", "refs": ["26fb447e52", "a6251d4469", "e91f25e6d7"] },
+        { "text": "The requirements still technically take effect Jan. 1, but states may wait until July to enforce them.", "refs": ["e91f25e6d7", "c3fa93e6e7"] },
+        { "text": "The rules require some Medicaid enrollees to work, volunteer or go to school to keep coverage, and were created by the One Big Beautiful Bill Act last year.", "refs": ["4e65e7c6b1", "e91f25e6d7"] },
+        { "text": "State officials had warned they were not ready to administer the rules.", "refs": ["26fb447e52"] },
+        { "text": "A liberal-leaning policy group, the Center on Budget and Policy Priorities, had argued before the announcement that states needed more time.", "refs": ["us-w5"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "4e65e7c6b1", "note": "Says the administration 'lets states delay', putting the choice with states." },
+        { "ref": "26fb447e52", "note": "Says the administration itself 'delays' the requirements and gives the six-month length." },
+        { "ref": "e91f25e6d7", "note": "Specifies that it is enforcement being delayed, not the requirement itself." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "26fb447e52", "takeaway": "Headline and summary only: six-month delay and states' warnings about readiness.", "read_full": false },
+        { "ref": "a6251d4469", "takeaway": "Headline and summary only: the rules could have left millions without insurance.", "read_full": false },
+        { "ref": "e91f25e6d7", "takeaway": "Headline and summary only: the rules still technically start Jan. 1.", "read_full": false },
+        { "ref": "4e65e7c6b1", "takeaway": "Headline and summary only (paywalled): states may delay; calls the policy controversial.", "read_full": false },
+        { "ref": "c3fa93e6e7", "takeaway": "Headline and summary only (paywalled): states may wait until July.", "read_full": false },
+        { "ref": "us-w5", "takeaway": "Advocacy analysis arguing states needed more time to prepare.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "new-orleans-tanker-riverboat",
+      "headline": "Everyone survives after a tanker hits a river cruise ship in New Orleans",
+      "region": "Louisiana",
+      "importance": 3,
+      "summary": "A tanker struck a river cruise ship on the Mississippi River near the Port of New Orleans on Friday, leaving the passenger vessel partly submerged. Officials said all passengers and crew were accounted for, with no deaths or critical injuries; 32 people were taken to hospitals. The cause has not been determined.",
+      "why_it_matters": "The Mississippi at New Orleans is one of the country's busiest shipping lanes and a tourist draw, and the collision raises questions about the safety of large cargo ships passing close to passenger boats.",
+      "background": "Ocean-going tankers and cargo ships share the Mississippi River at New Orleans with riverboats that carry tourists on cruises. On Friday a tanker hit one of those cruise ships near the port, and the passenger vessel rolled onto its side and partly sank, prompting a large rescue operation. Louisiana Gov. Jeff Landry and the city's mayor both called the outcome a \"miracle on the Mississippi.\" Investigators have not said what went wrong.",
+      "facts": [
+        { "text": "A tanker collided with a river cruise ship on the Mississippi River near the Port of New Orleans on Friday, partially submerging the passenger vessel.", "refs": ["d1a673f3cc", "5f4639ad9c", "20f7870bd5"] },
+        { "text": "Officials said all passengers and crew were accounted for and that no one was killed or critically hurt.", "refs": ["5f4639ad9c", "e210b3aa24", "20f7870bd5"] },
+        { "text": "Thirty-two people were taken to local hospitals.", "refs": ["5f4639ad9c", "97b6a10973", "0184a45901"] },
+        { "text": "The tanker is owned by a subsidiary of a Chinese shipbuilder, and a maritime law expert said videos point to some kind of catastrophic system failure on the vessel, though it is too early to know the cause.", "refs": ["e3af3fe2af"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many people were aboard the cruise ship",
+          "positions": [
+            { "claim": "Approximately 180 people.", "refs": ["5f4639ad9c"] },
+            { "claim": "Nearly 200 people.", "refs": ["2662b52244"] },
+            { "claim": "More than 100 passengers and crew were rescued.", "refs": ["0184a45901"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "e210b3aa24", "note": "Builds the headline on the officials' 'miracle on the Mississippi' phrase." },
+        { "ref": "5f4639ad9c", "note": "Leads with the absence of deaths and critical injuries." },
+        { "ref": "e3af3fe2af", "note": "Its summary highlights the tanker's Chinese ownership and a possible system failure." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "5f4639ad9c", "takeaway": "Headline and summary only: 32 hospitalized, about 180 aboard, all accounted for.", "read_full": false },
+        { "ref": "20f7870bd5", "takeaway": "Headline only: AP wire story that everyone survived.", "read_full": false },
+        { "ref": "e210b3aa24", "takeaway": "Headline and summary only: no one killed or critically hurt, officials say.", "read_full": false },
+        { "ref": "d1a673f3cc", "takeaway": "Headline and summary only: the passenger boat was partially submerged.", "read_full": false },
+        { "ref": "97b6a10973", "takeaway": "Summary only: at least 32 treated at hospitals.", "read_full": false },
+        { "ref": "0184a45901", "takeaway": "Summary only: more than 100 rescued, 32 sent to hospital.", "read_full": false },
+        { "ref": "2662b52244", "takeaway": "Headline and summary only (paywalled): describes the riverboat as docked, with nearly 200 aboard, and quotes Gov. Landry.", "read_full": false },
+        { "ref": "e3af3fe2af", "takeaway": "Headline and summary only: tanker ownership and an expert's early view of the cause.", "read_full": false }
+      ],
+      "social": "The Guardian's live coverage noted that video of the cruise ship tipping onto its side was circulating widely on social media."
+    },
+    {
+      "id": "late-midterm-calls-boebert-alaska",
+      "headline": "Late midterm calls: Boebert loses her House seat and a Democrat wins Alaska's governorship",
+      "region": "Elections",
+      "importance": 3,
+      "summary": "Ten days after the midterms, two more races were called for Democrats. Eileen Laubacher, a retired Navy rear admiral, defeated Republican Rep. Lauren Boebert in Colorado's 4th District, and Jonathan Kreiss-Tomkins won the Alaska governor's race, the first Democrat to do so since 1998.",
+      "why_it_matters": "Both results came in places that usually vote Republican, adding to the Democratic gains that will shape the next Congress and state governments.",
+      "background": "The Nov. 3 midterm elections gave Democrats control of Congress, and some close races took more than a week to count. Lauren Boebert, a three-term Republican and prominent supporter of President Trump, moved from western Colorado to the more conservative 4th District before the 2024 election. Alaska elects its governor by ranked-choice voting, in which voters rank candidates and lower-ranked choices are counted if no one wins a majority outright. Trump had endorsed Republican Bernadette Wilson to succeed Gov. Mike Dunleavy, a Republican who is leaving office.",
+      "facts": [
+        { "text": "Democrat Eileen Laubacher defeated Rep. Lauren Boebert in Colorado's 4th Congressional District, according to race calls on Friday.", "refs": ["a85add30d1", "d5465d8993", "e44100d482", "8eae0a2ea6"] },
+        { "text": "Laubacher is a retired Navy rear admiral; Boebert is a three-term Republican.", "refs": ["0d5f2b03d9", "e44100d482"] },
+        { "text": "The margin was narrow, and Laubacher had claimed victory on Nov. 9 while votes were still being counted.", "refs": ["59fadb0a22", "us-w6"] },
+        { "text": "Democrat Jonathan Kreiss-Tomkins, a 37-year-old former state legislator, won the Alaska governor's race and will be the youngest governor in the state's history.", "refs": ["aad7b0950b", "369f3b7c73", "3668bad9c2"] },
+        { "text": "He is the first Democrat elected governor of Alaska since 1998.", "refs": ["369f3b7c73", "24a2786079", "477adf5121"] },
+        { "text": "President Trump had endorsed Republican Bernadette Wilson in the race to succeed Gov. Mike Dunleavy.", "refs": ["3668bad9c2"] },
+        { "text": "The New York Post reported that Democrats will hold the governor's office in 30 states.", "refs": ["9edd6e72d7"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "8eae0a2ea6", "note": "Labels Boebert a 'MAGA firebrand' and does not name the winner." },
+        { "ref": "59fadb0a22", "note": "Brings up Boebert's earlier move to a more Republican district." },
+        { "ref": "3668bad9c2", "note": "Attributes the Alaska result to Republican infighting and notes Trump's endorsement." },
+        { "ref": "aad7b0950b", "note": "Emphasizes Kreiss-Tomkins's bipartisan campaign in a Republican-leaning state." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a85add30d1", "takeaway": "Headline only: AP race call for Laubacher.", "read_full": false },
+        { "ref": "d5465d8993", "takeaway": "Headline and summary only: CBS News projects Laubacher the winner.", "read_full": false },
+        { "ref": "e44100d482", "takeaway": "Headline and summary only: Boebert, a three-term Republican, is ousted.", "read_full": false },
+        { "ref": "8eae0a2ea6", "takeaway": "Headline only: right-leaning outlet reports the loss.", "read_full": false },
+        { "ref": "0d5f2b03d9", "takeaway": "Headline and summary only (paywalled): profile of Laubacher and the district she will have to hold.", "read_full": false },
+        { "ref": "59fadb0a22", "takeaway": "Headline and summary only: narrow margin and Boebert's district switch.", "read_full": false },
+        { "ref": "aad7b0950b", "takeaway": "Headline and summary only: Kreiss-Tomkins's background, age and campaign themes.", "read_full": false },
+        { "ref": "369f3b7c73", "takeaway": "Headline only: AP on the first Democratic win since 1998.", "read_full": false },
+        { "ref": "24a2786079", "takeaway": "Headline and summary only: he campaigned on affordability and school funding.", "read_full": false },
+        { "ref": "477adf5121", "takeaway": "Headline and summary only (paywalled): profile of the winner as a coalition builder.", "read_full": false },
+        { "ref": "3668bad9c2", "takeaway": "Headline and summary only: Trump's endorsement, GOP infighting and ranked-choice voting.", "read_full": false },
+        { "ref": "9edd6e72d7", "takeaway": "Headline and summary only: Democrats' count of governorships.", "read_full": false },
+        { "ref": "us-w6", "takeaway": "Colorado political news site's Nov. 9 report on Laubacher claiming victory in a close count.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://www.aljazeera.com/amp/economy/2026/9/21/faa-halts-flights-to-major-us-east-coast-airports-amid-outage", "title": "FAA halts flights to major US East Coast airports amid outage", "outlet": "Al Jazeera" },
+    { "id": "us-w2", "url": "https://marylandmatters.org/?p=102657", "title": "Schumer 'confident' he'll lead US Senate Democrats again, despite criticism", "outlet": "Maryland Matters" },
+    { "id": "us-w3", "url": "https://www.scotusblog.com/2026/08/trump-administration-asks-justices-to-consider-key-border-policy/", "title": "Trump administration asks justices to consider key border policy", "outlet": "SCOTUSblog" },
+    { "id": "us-w4", "url": "https://axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips", "title": "Scoop: Bessent confronts Lutnick in Situation Room over China inaction", "outlet": "Axios" },
+    { "id": "us-w5", "url": "https://www.cbpp.org/research/health/states-need-more-time-to-prepare-for-medicaid-work-requirement", "title": "States Need More Time to Prepare for Medicaid Work Requirement", "outlet": "Center on Budget and Policy Priorities" },
+    { "id": "us-w6", "url": "https://www.coloradopolitics.com/2026/11/09/lauren-boebert-eileen-laubacher-claims-victory-election-results/", "title": "Eileen Laubacher claims victory over Lauren Boebert in close race", "outlet": "Colorado Politics" }
+  ]
+}

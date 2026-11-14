@@ -1,0 +1,317 @@
+{
+  "stories": [
+    {
+      "id": "trump-xi-putin-shenzhen",
+      "headline": "Trump, Xi and Putin to hold first three-way meeting in Shenzhen next week",
+      "region": "Asia-Pacific",
+      "importance": 5,
+      "summary": "The White House said President Trump will meet China's Xi Jinping and Russia's Vladimir Putin together on Thursday, Nov. 19, on the sidelines of the Asia-Pacific Economic Cooperation forum in Shenzhen. Trump plans to raise cuts to nuclear arsenals and the war in Iran; US officials said Ukraine is not expected to be a focus, and a senior US official does not expect an agreement.",
+      "why_it_matters": "The three countries hold most of the world's nuclear weapons, so any move toward limits, or a failure to reach one, affects global security. What is left off the agenda, including Ukraine, is also being watched by US allies.",
+      "background": "The leaders of the United States, China and Russia have never held a formal three-way meeting. The idea was discussed publicly for months, with the Kremlin saying in September that it could happen at the APEC forum, which China hosts this year in Shenzhen. Trump has said he wants talks on reducing nuclear weapons to include China as well as Russia; the last US-Russia treaty capping strategic warheads, New START, expired in February 2026. China has a much smaller arsenal than the other two and has resisted joining three-way arms talks. The meeting comes while the US is at war with Iran and is mediating talks between Russia and Ukraine.",
+      "facts": [
+        { "text": "The White House said Trump, Xi and Putin will meet on the sidelines of the APEC forum in Shenzhen on Thursday, Nov. 19.", "refs": ["4f55f49470", "2ada15e1a2", "92720765a4"] },
+        { "text": "It would be the first formal trilateral meeting of the leaders of the US, China and Russia.", "refs": ["d54f46b894", "4f55f49470", "043adc8991"] },
+        { "text": "A White House spokeswoman said Trump will discuss the reduction of nuclear weapons; a senior US official said no agreement is expected.", "refs": ["92720765a4", "20e4668257"] },
+        { "text": "US officials said the talks will also cover the war in Iran and are not expected to focus on Russia's war in Ukraine.", "refs": ["d37c943603", "3850a18714"] },
+        { "text": "Reuters reported that Trump and Putin pushed for the meeting and that Xi has been wary of hosting it.", "refs": ["ca251ad673"] },
+        { "text": "China's Foreign Ministry said in October that asking China to join three-way nuclear disarmament negotiations at this stage would be unrealistic, Al Jazeera reported on Nov. 6.", "refs": ["world-w1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "d37c943603", "note": "Leads with what is missing: the summit will not focus on Ukraine." },
+        { "ref": "ca251ad673", "note": "Invokes the 1945 Yalta conference and stresses Xi's reluctance to host." },
+        { "ref": "20e4668257", "note": "Calls it a 'huddle' on nuclear arms and notes up front that no deal is expected." },
+        { "ref": "92720765a4", "note": "Calls the meeting 'historic' and leads with the White House's nuclear-reduction message." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "4f55f49470", "takeaway": "Summary only: date, venue and the likely agenda of nuclear weapons and Iran.", "read_full": false },
+        { "ref": "92720765a4", "takeaway": "Summary only: White House spokeswoman's line on reducing nuclear weapons.", "read_full": false },
+        { "ref": "20e4668257", "takeaway": "Summary only: notes a senior US official expects no agreement.", "read_full": false },
+        { "ref": "2ada15e1a2", "takeaway": "Summary only: gives the Nov. 19 date and the APEC setting.", "read_full": false },
+        { "ref": "d37c943603", "takeaway": "Summary only: focuses on Ukraine being off the agenda.", "read_full": false },
+        { "ref": "3850a18714", "takeaway": "Headline and summary only (paywalled): agenda is proliferation and Iran, not Ukraine.", "read_full": false },
+        { "ref": "d54f46b894", "takeaway": "Summary only: stresses it is the first formal trilateral of its kind.", "read_full": false },
+        { "ref": "043adc8991", "takeaway": "Headline only (paywalled): first trilateral meeting.", "read_full": false },
+        { "ref": "ca251ad673", "takeaway": "Headline only: Trump and Putin pushed for it, Xi wary.", "read_full": false },
+        { "ref": "world-w1", "takeaway": "Earlier explainer, seen via search summary: China's stated reluctance on three-way nuclear talks.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ukraine-nato-donbas-proposal",
+      "headline": "Zelensky says US envoys asked if Ukraine would give up Donbas for NATO membership",
+      "region": "Europe",
+      "importance": 5,
+      "summary": "Ukrainian President Volodymyr Zelensky said US negotiators asked, for the first time, whether Ukraine would withdraw from the eastern Donbas region in exchange for joining NATO; he repeated that Kyiv will not retreat from its territory. The remark followed US-mediated talks with Russia in Abu Dhabi. Separately, the EU named a team from five countries plus the bloc itself to represent Europe at the next round, while both sides kept up heavy air attacks.",
+      "why_it_matters": "A trade of territory for NATO membership would redraw Europe's borders and commit the US and its allies to defend Ukraine, with consequences for security and defense spending well beyond the region.",
+      "background": "Russia launched its full-scale invasion of Ukraine in February 2022 and claims the Donbas, made up of the Donetsk and Luhansk regions, part of which Ukraine still holds. Ukraine has long sought NATO membership, which Russia opposes. The Trump administration, through envoys Steve Witkoff and Jared Kushner, has been mediating; the two met Putin in Moscow on Thursday and then briefed Zelensky in Dublin. European governments have pressed for a place at the talks, and Ukraine wants them there as a counterweight.",
+      "facts": [
+        { "text": "Zelensky told journalists that US envoys asked whether Ukraine would withdraw from Donbas if it joined NATO, and said it was the first time the question had been raised.", "refs": ["c88f3d6a45", "1476d670af", "8c636def48"] },
+        { "text": "Zelensky repeated that Kyiv is not willing to retreat from its territory.", "refs": ["8d01153a3f"] },
+        { "text": "Russia and Ukraine held nearly four hours of US-mediated talks in Abu Dhabi this week.", "refs": ["a3e318100b", "8d01153a3f"] },
+        { "text": "European Council President Antonio Costa said Friday that diplomats from the EU and from the UK, France, Germany, Italy and Poland will represent Europe at upcoming talks.", "refs": ["6a3985b189", "8c1e86c5de", "280bff5522"] },
+        { "text": "Ukraine launched nearly 1,200 drones at Russian targets, one of its largest aerial attacks of the war, the Associated Press reported.", "refs": ["1ac31efa6b", "96a3a62771"] },
+        { "text": "Russian attacks across Ukraine killed at least seven people and injured 80, the Kyiv Independent reported citing local authorities; Zaporizhzhia's governor said three were killed there, including a child.", "refs": ["b67fafdf8c"] },
+        { "text": "A car bomb in Moscow, the second in Russia in two days, wounded Sergei Zavorotny, a former aide to exiled Ukrainian ex-prime minister Mykola Azarov.", "refs": ["16223011e7", "15cc262372"] },
+        { "text": "Democratic senators Jeanne Shaheen and Chris Coons told Elon Musk to preserve records on SpaceX's restrictions on Ukraine's Starlink and Starshield service; Zelensky accused SpaceX of not being honest about what he called political reasons for the slowdown.", "refs": ["f101725c37", "9da4eac7b7", "5d65e92e58"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "8c636def48", "note": "Presents the NATO idea as a possible shift in Washington's negotiating tactics." },
+        { "ref": "c88f3d6a45", "note": "Leads with Zelensky's direct quote and that the question was new." },
+        { "ref": "20d5a691b8", "note": "Says Europe and Ukraine got a boost but stresses Putin 'playing for time'." },
+        { "ref": "96edd734e7", "note": "Emphasizes that Europe 'lacks a unified voice' even as it seeks a seat." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c88f3d6a45", "takeaway": "Summary only: Zelensky's quote on the US question about NATO and Donbas.", "read_full": false },
+        { "ref": "1476d670af", "takeaway": "Summary only: US envoys 'touted' the exchange as part of efforts to end the war.", "read_full": false },
+        { "ref": "8d01153a3f", "takeaway": "Summary only: ties the proposal to the Abu Dhabi round and Kyiv's refusal to cede land.", "read_full": false },
+        { "ref": "8c636def48", "takeaway": "Headline and summary only (paywalled): a potential shift in US tactics.", "read_full": false },
+        { "ref": "a3e318100b", "takeaway": "Headline only: nearly four hours of US-mediated talks in Abu Dhabi.", "read_full": false },
+        { "ref": "6a3985b189", "takeaway": "Summary only: Costa names the five countries joining the EU on the team.", "read_full": false },
+        { "ref": "8c1e86c5de", "takeaway": "Summary only: live updates on the European team and the Moscow car bomb.", "read_full": false },
+        { "ref": "280bff5522", "takeaway": "Headline only: EU settles on a five-nation group.", "read_full": false },
+        { "ref": "1ac31efa6b", "takeaway": "Summary only (AP wire): nearly 1,200 Ukrainian drones launched at Russia.", "read_full": false },
+        { "ref": "96a3a62771", "takeaway": "Headline only: AP's original of the drone story.", "read_full": false },
+        { "ref": "b67fafdf8c", "takeaway": "Summary only: casualty counts from Russian strikes, by region.", "read_full": false },
+        { "ref": "16223011e7", "takeaway": "Summary only: identifies the car bomb victim and his past role.", "read_full": false },
+        { "ref": "15cc262372", "takeaway": "Headline only: Moscow car bomb wounds former aide.", "read_full": false },
+        { "ref": "f101725c37", "takeaway": "Headline only: senators' demand that Musk preserve records.", "read_full": false },
+        { "ref": "9da4eac7b7", "takeaway": "Summary only: quotes the senators' letter on the October and November restrictions.", "read_full": false },
+        { "ref": "5d65e92e58", "takeaway": "Summary only: Zelensky's accusation against SpaceX.", "read_full": false },
+        { "ref": "20d5a691b8", "takeaway": "Headline only: analysis that Putin is playing for time.", "read_full": false },
+        { "ref": "96edd734e7", "takeaway": "Headline only (AP reprint): Europe wants a seat but is divided.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iran-bahrain-radar-hormuz",
+      "headline": "Iran says it destroyed a US radar in Bahrain; US says it shot the drones down",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "Iran's Revolutionary Guard said it destroyed a US early-warning radar in Bahrain in response to a US airstrike on a communications tower in Sirik, Iran. The US military confirmed an attack but said it shot down two Iranian drones and denied the radar was hit. Iran also reported tankers striking mines in the Strait of Hormuz, and Reuters reported that Trump has told advisers he may hold off on new attacks unless provoked.",
+      "why_it_matters": "It is the first reported Iranian attack on a US installation in months, and fighting around the Strait of Hormuz affects the oil and gas shipments that feed into fuel prices worldwide.",
+      "background": "The US and Israel are at war with Iran, a conflict that outlets describe as having settled into a lower level of fighting in recent months. The US Navy is blockading Iranian ports, and Iran's Revolutionary Guard says the Strait of Hormuz, a narrow passage for a large share of the world's oil and gas, is closed. Bahrain hosts a large US naval presence. The UN's International Atomic Energy Agency has had no access to key Iranian nuclear sites since Israel and the US struck them during a 12-day conflict in June 2025.",
+      "facts": [
+        { "text": "Iran's Revolutionary Guard said it targeted and destroyed a US early-warning radar in Bahrain, in response to a US airstrike on a communications tower in Sirik.", "refs": ["bdd0e45929", "c7f5548137"] },
+        { "text": "The US military confirmed an Iranian attack on Bahrain and said US forces shot down two Revolutionary Guard drones.", "refs": ["e1b5197e3c", "043e4a9cd8", "ce45679852"] },
+        { "text": "It was the first such Iranian claim of a strike on a US installation in months.", "refs": ["c7f5548137", "bdd0e45929"] },
+        { "text": "The Revolutionary Guard said two tankers hit sea mines in the Strait of Hormuz, and Iran's navy said Saturday that an oil tanker was on fire after hitting a mine, Reuters reported.", "refs": ["90189ebb3b", "a7a80c2691"] },
+        { "text": "The UK's maritime trade monitor, UKMTO, had not reported the gas tanker incident Iran described, NewsNation said.", "refs": ["7a90ad5dc6"] },
+        { "text": "The Revolutionary Guard says the strait is closed; the US Navy says it has opened a southern route for commercial ships while keeping its blockade of Iranian ports.", "refs": ["5eea9008b1"] },
+        { "text": "The International Atomic Energy Agency urged Iran to take steps toward inspections; CBS News, citing a leaked report, said the agency is 'increasingly concerned' about access to a key uranium facility.", "refs": ["c29297e753", "f83a676d74"] },
+        { "text": "Trump has told advisers he may hold off on attacks on Iran barring new provocations, Reuters reported, citing sources.", "refs": ["c19eced68a"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the US radar in Bahrain was hit",
+          "positions": [
+            { "claim": "Iran's Revolutionary Guard says it destroyed the early-warning radar.", "refs": ["bdd0e45929", "c7f5548137", "7a90ad5dc6"] },
+            { "claim": "The US denies the radar was hit and says both attacking drones were shot down.", "refs": ["87045581dd", "e1b5197e3c", "043e4a9cd8"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "bdd0e45929", "note": "Calls it a 'retaliatory strike' and gives Iran's stated reason, the US hit on Sirik." },
+        { "ref": "87045581dd", "note": "Leads with the US denial rather than Iran's claim." },
+        { "ref": "043e4a9cd8", "note": "Leads with US forces shooting down the drones; does not mention the radar claim in the headline." },
+        { "ref": "ce45679852", "note": "Describes Iran as escalating a 'low-level conflict'." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "bdd0e45929", "takeaway": "Summary only: Iran's claim and its stated trigger, the Sirik airstrike.", "read_full": false },
+        { "ref": "c7f5548137", "takeaway": "Summary only (AP wire): first such claim in months.", "read_full": false },
+        { "ref": "7a90ad5dc6", "takeaway": "Summary only: adds that UKMTO had not reported the tanker incident.", "read_full": false },
+        { "ref": "87045581dd", "takeaway": "Headline only: US denies the radar was hit.", "read_full": false },
+        { "ref": "e1b5197e3c", "takeaway": "Headline only: US confirms the attack and says two drones were shot down.", "read_full": false },
+        { "ref": "043e4a9cd8", "takeaway": "Summary only: quotes that both drones were shot down by US forces.", "read_full": false },
+        { "ref": "ce45679852", "takeaway": "Headline and summary only (paywalled): first known attack on Bahrain in two months.", "read_full": false },
+        { "ref": "5eea9008b1", "takeaway": "Summary only: the competing US and Iranian statements about the strait.", "read_full": false },
+        { "ref": "90189ebb3b", "takeaway": "Headline only: Iran says two tankers hit mines.", "read_full": false },
+        { "ref": "a7a80c2691", "takeaway": "Headline only: Iran's navy reports a tanker on fire.", "read_full": false },
+        { "ref": "c29297e753", "takeaway": "Summary only: IAEA's call for steps toward inspections.", "read_full": false },
+        { "ref": "f83a676d74", "takeaway": "Summary only: leaked IAEA report and Trump's signals on the war.", "read_full": false },
+        { "ref": "c19eced68a", "takeaway": "Headline only: Trump may hold off on attacks, sources say.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "microsoft-global-outage-restored",
+      "headline": "Microsoft says services are fully restored after a global outage",
+      "region": "Global",
+      "importance": 4,
+      "summary": "Microsoft said Saturday that Outlook, Teams, Copilot and its other affected services have recovered, ending an outage that disrupted businesses, governments and public services in many countries. The company apologized and said it was still watching a backlog of delayed email for business customers. The summaries reviewed here do not state a cause.",
+      "why_it_matters": "Many workplaces, schools and government offices run on Microsoft's email and meeting tools, so an outage of this length stops ordinary work and can cost small businesses real money.",
+      "background": "Microsoft 365 is the company's online suite of work software, including Outlook email, Teams chat and video meetings, and the Copilot AI assistant. It is used by companies, schools and governments around the world, which means a failure in Microsoft's systems reaches many countries at once. The outage began earlier in the week and Microsoft restored services in stages, with consumer products recovering before business ones. The Guardian described it as one of the worst IT failures in years.",
+      "facts": [
+        { "text": "Microsoft said Saturday that all services had recovered across Teams, Outlook, Copilot and other applications.", "refs": ["78407fc298", "a20a765200", "b411fb14ec"] },
+        { "text": "The outage disrupted online communications at businesses, governments and public services around the world.", "refs": ["cf42302ef4", "b67c4d635d", "0787c3f68b"] },
+        { "text": "Microsoft said it was monitoring a backlog of email messages built up during the outage before considering the issue with its enterprise services resolved.", "refs": ["6525522943"] },
+        { "text": "Microsoft said it was 'deeply sorry'; experts quoted by the Guardian said the disruption could cost Australia's economy on the order of a billion dollars and showed the country's reliance on foreign technology.", "refs": ["8ef485d0c2"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How long the outage lasted",
+          "positions": [
+            { "claim": "More than 24 hours.", "refs": ["78407fc298", "cf42302ef4"] },
+            { "claim": "Nearly 24 hours or about a day.", "refs": ["2870d4f19a", "a20a765200"] },
+            { "claim": "The Associated Press described it as 'hourslong'.", "refs": ["b411fb14ec"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "8ef485d0c2", "note": "Focuses on the economic cost to Australia and its dependence on foreign technology." },
+        { "ref": "b67c4d635d", "note": "Calls it one of the worst IT failures in years." },
+        { "ref": "b411fb14ec", "note": "Uses 'hourslong', a milder description of the duration than other outlets." },
+        { "ref": "78407fc298", "note": "Says the outage 'crippled' communications for more than 24 hours." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "78407fc298", "takeaway": "Summary only: full recovery confirmed Saturday after more than 24 hours.", "read_full": false },
+        { "ref": "a20a765200", "takeaway": "Summary only: Microsoft says work on the underlying problem is complete.", "read_full": false },
+        { "ref": "b411fb14ec", "takeaway": "Headline only: AP's 'hourslong' outage story.", "read_full": false },
+        { "ref": "cf42302ef4", "takeaway": "Summary only: disruption to businesses and governments for more than 24 hours.", "read_full": false },
+        { "ref": "b67c4d635d", "takeaway": "Summary only: services restored to all customers and regions.", "read_full": false },
+        { "ref": "0787c3f68b", "takeaway": "Summary only: users, companies and government services affected.", "read_full": false },
+        { "ref": "6525522943", "takeaway": "Summary only: Microsoft watching the email backlog for enterprise customers.", "read_full": false },
+        { "ref": "2870d4f19a", "takeaway": "Summary only: live updates; puts the outage at nearly 24 hours.", "read_full": false },
+        { "ref": "8ef485d0c2", "takeaway": "Summary only: Australian impact and Microsoft's apology.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "france-protests-fifth-saturday",
+      "headline": "France deploys 70,000 police for a fifth Saturday of anti-government protests",
+      "region": "Europe",
+      "importance": 3,
+      "summary": "France expected 50 to 60 marches on Saturday and planned to mobilize about 70,000 police and gendarmes, Interior Minister Laurent Nuñez said. Students, campaign groups and Yellow Vest protesters planned a joint march in Paris over wages, education and civil liberties. Only center-rated outlets in the day's feed covered the story.",
+      "why_it_matters": "The protests have closed schools and led to thousands of arrests, and Reuters reports they show no sign of fading before France's presidential election next year. Coverage here comes from center-rated outlets only.",
+      "background": "France has seen weeks of anti-government demonstrations that began with student protests and blockades of high schools nearly two months ago. They have broadened to include complaints about living costs and about how police have handled the marches, and some have turned into riots. Yellow Vest protesters, known for the 2018-2019 fuel-tax demonstrations, have joined. The unrest comes ahead of a presidential election next year.",
+      "facts": [
+        { "text": "Interior Minister Laurent Nuñez said 50 to 60 marches were expected Saturday and that about 70,000 police and gendarmes would be mobilized.", "refs": ["98d5197bc3"] },
+        { "text": "It is the fifth consecutive Saturday of protests; campaign groups, students and Yellow Vest protesters planned to march together in Paris over wages, education and civil liberties.", "refs": ["7f19874c86", "98d5197bc3"] },
+        { "text": "Reuters reported that the authorities' response has included thousands of arrests and curbs on marches, and that it has added to protesters' grievances.", "refs": ["63457934ce", "7f1c9f24ab"] },
+        { "text": "School principals demonstrated across France on Friday, saying threats and violence had become unbearable after nearly two months of student blockades of high schools.", "refs": ["54c8b58a3e"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "63457934ce", "note": "Uses 'riots' and 'spiraled out of control', stressing disorder." },
+        { "ref": "7f19874c86", "note": "Names the protesters' causes: living costs and 'heavy-handed policing'." },
+        { "ref": "98d5197bc3", "note": "Leads with the size of the police deployment." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "98d5197bc3", "takeaway": "Summary only: live page with the minister's figures and the Paris route.", "read_full": false },
+        { "ref": "7f19874c86", "takeaway": "Summary only: who is marching and what they are demanding.", "read_full": false },
+        { "ref": "63457934ce", "takeaway": "Headline only: Reuters explainer on how the protests escalated.", "read_full": false },
+        { "ref": "7f1c9f24ab", "takeaway": "Summary only (Reuters reprint): arrests, police conduct and next year's election.", "read_full": false },
+        { "ref": "54c8b58a3e", "takeaway": "Summary only: principals' protest over violence at blockaded schools.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "pope-leo-chiclayo-return",
+      "headline": "Pope Leo XIV returns to Chiclayo, the Peruvian city where he was bishop",
+      "region": "Americas",
+      "importance": 3,
+      "summary": "Pope Leo XIV drew very large crowds in Chiclayo, in northern Peru, where he served as bishop for eight years, and said it was a 'joy' to be back. The stop is part of a South America tour that France 24 said had been in doubt after he had surgery for lung cancer. He also visited a center of Peru's Afro-Peruvian community.",
+      "why_it_matters": "The pope leads about 1.4 billion Catholics, and the trip is being watched as a sign of his health and of the attention he gives Latin America.",
+      "background": "Leo XIV, born Robert Prevost in Chicago, was elected pope in May 2025, the first from the United States. He spent many years in Peru as a missionary and was bishop of Chiclayo from 2015 to 2023, becoming a Peruvian citizen along the way. Residents there still call him Father Robert, the New York Times reported. According to France 24, the tour faced fears of cancellation after he had surgery for lung cancer.",
+      "facts": [
+        { "text": "Pope Leo XIV returned to Chiclayo, Peru, where he served as bishop for eight years, and was met by large crowds.", "refs": ["7fe20ade17", "8c850b3372", "ee71236f42"] },
+        { "text": "The pope said it was a 'joy' to be home.", "refs": ["d124e846fd", "548e874ef5"] },
+        { "text": "France 24 reported that the South America tour had faced fears of cancellation after the pope underwent surgery for lung cancer.", "refs": ["548e874ef5"] },
+        { "text": "The pope also visited a hub of the Afro-Peruvian community, drawing attention to the history of the African slave trade to Peru, the Associated Press reported.", "refs": ["b77a1f11fb", "b572258d92"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Crowd size in Chiclayo",
+          "positions": [
+            { "claim": "About 1.5 million people turned out.", "refs": ["8c850b3372", "3519ee4a43"] },
+            { "claim": "Half a million gathered for the open-air Mass.", "refs": ["548e874ef5"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "7fe20ade17", "note": "A homecoming story: the city welcoming 'Father Robert' and its 'other home' for him." },
+        { "ref": "8c850b3372", "note": "Leads with the 1.5 million crowd figure." },
+        { "ref": "b77a1f11fb", "note": "Focuses on the Afro-Peruvian community and the legacy of the slave trade." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "8c850b3372", "takeaway": "Headline only: 1.5 million cheer in the city he served.", "read_full": false },
+        { "ref": "7fe20ade17", "takeaway": "Headline and summary only (paywalled): eight years as bishop, crowds who remember him.", "read_full": false },
+        { "ref": "d124e846fd", "takeaway": "Headline only: AP on the pope's 'joy' at being home.", "read_full": false },
+        { "ref": "ee71236f42", "takeaway": "Summary only: video report on the crowds.", "read_full": false },
+        { "ref": "548e874ef5", "takeaway": "Summary only: half a million at Mass; mentions the lung cancer surgery.", "read_full": false },
+        { "ref": "3519ee4a43", "takeaway": "Headline only (paywalled): more than 1.5 million welcome the pope.", "read_full": false },
+        { "ref": "b77a1f11fb", "takeaway": "Headline only: AP on the Afro-Peruvian visit.", "read_full": false },
+        { "ref": "b572258d92", "takeaway": "Summary only (AP wire): the pope puts a spotlight on Afro-Peruvians.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "south-sudan-election-delay",
+      "headline": "South Sudan postpones its first national elections again, to February 2027",
+      "region": "Africa",
+      "importance": 3,
+      "summary": "South Sudan has moved its presidential and legislative elections from Dec. 22 to Feb. 11, 2027. It would be the country's first national vote since independence in 2011, and it has been delayed several times before. The United Nations had warned that holding the vote could set off widespread conflict.",
+      "why_it_matters": "South Sudan's 2018 peace deal depends on elections that keep slipping, and renewed fighting there would deepen one of the world's largest humanitarian crises. No right-leaning outlet in the day's feed covered the story.",
+      "background": "South Sudan became independent from Sudan in 2011 and fell into civil war in 2013. A 2018 peace agreement set up a transitional government under President Salva Kiir that was supposed to lead to elections, but the vote has been pushed back repeatedly. In 2024 the government extended the transition to February 2027 and moved elections from December 2024 to December 2026, a step the UN called regrettable.",
+      "facts": [
+        { "text": "South Sudan delayed its elections to Feb. 11, 2027, Reuters reported.", "refs": ["ecdc527f41"] },
+        { "text": "The presidential and legislative elections had been scheduled for Dec. 22 after several earlier delays.", "refs": ["e88685330f", "e864e28c56"] },
+        { "text": "They would be the first national elections since independence in 2011.", "refs": ["e864e28c56", "e88685330f"] },
+        { "text": "The United Nations had warned that a vote could set off widespread conflict.", "refs": ["e88685330f"] },
+        { "text": "In September 2024 South Sudan extended its transitional period to February 2027 and moved elections from December 2024 to December 2026, drawing an expression of disappointment from the UN.", "refs": ["world-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "e864e28c56", "note": "Stresses 'again': the pattern of repeated postponements." },
+        { "ref": "ecdc527f41", "note": "A plain statement of the new date." },
+        { "ref": "e88685330f", "note": "Adds the UN's warning that a vote could trigger conflict." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ecdc527f41", "takeaway": "Headline only: gives the exact new date.", "read_full": false },
+        { "ref": "e88685330f", "takeaway": "Summary only: the old date, earlier delays and the UN warning.", "read_full": false },
+        { "ref": "e864e28c56", "takeaway": "Summary only (AP wire): first national elections since 2011, postponed again.", "read_full": false },
+        { "ref": "world-w2", "takeaway": "2024 report, seen via search summary: the previous two-year extension and UN reaction.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "china-taiwan-unannounced-drills",
+      "headline": "Taiwan says China is running unannounced drills as 'silent intimidation'",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "Taiwanese officials said China has staged unannounced military exercises in the Pacific this month, at one point massing more than 100 navy and coast guard vessels in the region. France 24 reported that the drills simulated a blockade of the island but that, contrary to some social media claims, no blockade was put in place. Only center-rated outlets in the day's feed covered the story.",
+      "why_it_matters": "Taiwan makes most of the world's advanced computer chips and sits on major shipping lanes, so a real blockade or conflict would disrupt electronics supplies and trade globally. Coverage here comes from center-rated outlets only.",
+      "background": "China claims self-governed Taiwan as its territory and has not ruled out using force to take it; Taiwan's government rejects the claim. Beijing has stepped up military pressure around the island over the past five years, often with large named exercises announced in advance. Taiwanese officials say the latest activity differs in that it was not announced. The drills come days before Xi Jinping hosts Trump and Putin at the APEC forum in Shenzhen.",
+      "facts": [
+        { "text": "Taiwanese officials said China staged unannounced drills in the Pacific and described them as 'silent intimidation'.", "refs": ["8f24365286", "e47dd1c86e"] },
+        { "text": "A senior Taiwan security official said China's military and coast guard had at one point early this month amassed more than 100 vessels in the region.", "refs": ["e47dd1c86e"] },
+        { "text": "France 24 reported that China has carried out major drills around Taiwan since early November and that its forces simulated, but did not implement, a blockade.", "refs": ["b2299e543a"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "8f24365286", "note": "Uses Taiwan officials' phrase 'silent intimidation' and notes Western concern." },
+        { "ref": "b2299e543a", "note": "A fact-check angle: corrects social media claims of an actual blockade." },
+        { "ref": "e47dd1c86e", "note": "Highlights the scale, more than 100 vessels." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "8f24365286", "takeaway": "Summary only: Taiwan officials' account and five years of rising pressure.", "read_full": false },
+        { "ref": "e47dd1c86e", "takeaway": "Summary only: the 100-vessel figure from a Taiwan security official.", "read_full": false },
+        { "ref": "b2299e543a", "takeaway": "Summary only: explains the drills and says no blockade was implemented.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w1", "url": "https://www.aljazeera.com/amp/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt", "title": "What a Trump-Xi-Putin summit could mean – and what it wouldn't", "outlet": "Al Jazeera" },
+    { "id": "world-w2", "url": "https://www.africanews.com/2024/09/19/un-expresses-disappointment-over-extension-of-south-sudans-transitional-period-to-2027/", "title": "UN expresses disappointment over extension of South Sudan's transitional period to 2027", "outlet": "Africanews" }
+  ]
+}

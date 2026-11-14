@@ -1,0 +1,203 @@
+{
+  "stories": [
+    {
+      "id": "nvidia-losing-streak-ai-stocks",
+      "headline": "Nvidia posts sixth straight weekly loss as chip and AI stocks slide after Huang's exit",
+      "region": "Earnings",
+      "importance": 5,
+      "summary": "Nvidia shares fell again on Friday, closing a sixth straight week of declines, the longest such run since 2012, according to CNBC and MarketWatch. Other chipmakers and AI-linked stocks fell with it, and the S&P 500 and Nasdaq ended the day lower while the Dow was little changed. The board is looking for a permanent successor to Jensen Huang, who resigned Thursday; the Financial Times reported an approach to Arm chief Rene Haas, while the board said it had not formally engaged any candidate.",
+      "why_it_matters": "Nvidia is one of the largest holdings in the index funds that fill most retirement accounts, so its slide reaches people who never bought the stock, CBS News reported. Its earnings next week will show whether the business itself is holding up.",
+      "background": "Nvidia makes the processors that run most AI data centers, and its rise made it one of the most valuable companies in the world. Co-founder Jensen Huang resigned as chief executive and board member on Nov. 12 after news reports of extramarital affairs, including one with a woman U.S. intelligence reportedly believes was a Chinese asset. Chief financial officer Colette Kress is interim CEO while the board searches for a replacement. The stock had already been falling since early October, CNBC reported, so the resignation added to an existing slide. Investors use the term \"AI trade\" for the group of chip, cloud and data-center stocks that have risen on spending on artificial intelligence.",
+      "facts": [
+        { "text": "Nvidia's stock fell for a sixth consecutive week, its longest weekly losing streak since 2012.", "refs": ["00ccf51f4f", "6265171fc1"] },
+        { "text": "Nvidia lost $573 billion in market value this week, MarketWatch reported.", "refs": ["6265171fc1"] },
+        { "text": "Nvidia's market value has fallen by $1.7 trillion during the slide, which began in early October, before Huang's resignation, CNBC reported.", "refs": ["00ccf51f4f"] },
+        { "text": "Shares of so-called neocloud companies and other AI stocks fell again on Friday, Reuters reported.", "refs": ["c3cc0ea020"] },
+        { "text": "AMD and other chip stocks fell on Friday; MarketWatch said investors had at first treated Nvidia's trouble as a possible gain for rivals.", "refs": ["af22ab90f6"] },
+        { "text": "U.S. stocks declined on Friday as Nvidia shares fell again, The Wall Street Journal reported.", "refs": ["5aff13db6e"] },
+        { "text": "The New York Times reported that the drop in Nvidia shares had not spread to the rest of the market, and Bloomberg said stocks finished the week higher.", "refs": ["8df851d18b", "a42ac41ae5"] },
+        { "text": "Nvidia said in a Nov. 12 securities filing that Huang resigned effective immediately and that Colette Kress would serve as interim CEO while remaining chief financial officer.", "refs": ["business-w1"] },
+        { "text": "Nvidia's board said it was in the process of selecting a search firm for the CEO role, The Japan Times reported.", "refs": ["b9fc425e14"] },
+        { "text": "Some Nvidia employees are calling for Huang to return, according to The Japan Times and France 24.", "refs": ["b9fc425e14", "59618f726d"] },
+        { "text": "Nvidia lacks full insurance coverage for damages stemming from the conduct of executives and is exposed to possible lawsuits, the Financial Times reported.", "refs": ["c9e9cd33b8"] },
+        { "text": "Before his exit Huang called Kress \"a deer in the headlights,\" and Kress had questioned some of his dealmaking, The Wall Street Journal reported.", "refs": ["5188736420", "4c76b638d8"] },
+        { "text": "The Hindu carried a report that Huang twice described his dealings with Alice Huang and the chip buyer Megaspeed as appropriate when press inquiries drew the attention of Nvidia leaders, and that he misled the company's top lawyer.", "refs": ["7664311b53"] },
+        { "text": "The fall in Nvidia shares cut the value of Huang's own stake by more than $20 billion over five days, Fox Business reported.", "refs": ["9c92577e28"] },
+        { "text": "Millions of Americans hold Nvidia shares indirectly through retirement plans and index funds, CBS News reported.", "refs": ["0fee1b575c"] },
+        { "text": "Financial advisers polled by CNBC said investors should weigh their Nvidia exposure, time horizon and risk tolerance before reacting to the leadership change.", "refs": ["9a7e193fcc"] },
+        { "text": "Nvidia is due to report earnings next week, The Wall Street Journal reported.", "refs": ["8a62962627"] },
+        { "text": "Goldman Sachs forecast that the S&P 500 will rise to 8,700 next year despite slower earnings growth, Reuters reported.", "refs": ["8015899d14"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Nvidia has approached a successor",
+          "positions": [
+            { "claim": "Nvidia has approached Rene Haas, chief executive of chip designer Arm, according to a Financial Times report relayed by France 24 and The Japan Times.", "refs": ["59618f726d", "b9fc425e14"] },
+            { "claim": "Nvidia's board said it had not formally engaged any potential candidates and was still choosing a search firm.", "refs": ["b9fc425e14"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "5aff13db6e", "note": "Treats Nvidia's fall as dragging the whole U.S. market down on the day." },
+        { "ref": "8df851d18b", "note": "Stresses that the broader market has held up despite Nvidia's drop." },
+        { "ref": "7ddd7d5ece", "note": "Says stocks rallied, and calls Huang's departure a staff shakeup." },
+        { "ref": "0fee1b575c", "note": "Turns the story toward ordinary savers and plays down the risk to retirement accounts." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "00ccf51f4f", "takeaway": "Headline and summary only: puts the week in the context of a slide that began in early October.", "read_full": false },
+        { "ref": "6265171fc1", "takeaway": "Headline and summary only: gives the week's $573 billion loss and the 14-year comparison.", "read_full": false },
+        { "ref": "c3cc0ea020", "takeaway": "Headline only: focuses on the spillover to neocloud and AI stocks.", "read_full": false },
+        { "ref": "af22ab90f6", "takeaway": "Headline and summary only: says investors stopped seeing Nvidia's trouble as a gain for rival chipmakers.", "read_full": false },
+        { "ref": "5aff13db6e", "takeaway": "Headline and summary only (paywalled): ties Friday's market decline to Nvidia.", "read_full": false },
+        { "ref": "8df851d18b", "takeaway": "Headline and summary only (paywalled): says the damage has stayed contained to Nvidia.", "read_full": false },
+        { "ref": "a42ac41ae5", "takeaway": "Video listing only (paywalled): notes stocks finished the week higher.", "read_full": false },
+        { "ref": "b9fc425e14", "takeaway": "Headline and summary only: reports the Haas approach alongside the board's statement that no candidate has been engaged.", "read_full": false },
+        { "ref": "59618f726d", "takeaway": "Headline and summary only: relays the Financial Times report and asks whether Nvidia can do without Huang.", "read_full": false },
+        { "ref": "c9e9cd33b8", "takeaway": "Headline and summary only (paywalled): looks at legal exposure and insurance.", "read_full": false },
+        { "ref": "5188736420", "takeaway": "Headline and summary only (paywalled): original reporting on friction between Huang and Kress.", "read_full": false },
+        { "ref": "4c76b638d8", "takeaway": "Headline and summary only: repeats the reported clash between Huang and Kress.", "read_full": false },
+        { "ref": "7664311b53", "takeaway": "Headline and summary only: carries a report that Huang misled Nvidia's top lawyer.", "read_full": false },
+        { "ref": "9c92577e28", "takeaway": "Headline only: measures the slide by Huang's personal loss.", "read_full": false },
+        { "ref": "0fee1b575c", "takeaway": "Headline and summary only: explains how index funds expose retirement savers to Nvidia.", "read_full": false },
+        { "ref": "9a7e193fcc", "takeaway": "Headline and summary only: polls financial advisers on what to do with the stock.", "read_full": false },
+        { "ref": "8a62962627", "takeaway": "Headline and summary only (paywalled): live market coverage pointing to next week's earnings.", "read_full": false },
+        { "ref": "8015899d14", "takeaway": "Headline only: Goldman Sachs's 2027 target for the S&P 500.", "read_full": false },
+        { "ref": "7ddd7d5ece", "takeaway": "Video headline only: describes a stock rally despite the Nvidia news.", "read_full": false },
+        { "ref": "ec90b35303", "takeaway": "Headline only (paywalled): reports Elon Musk backing Huang's reinstatement.", "read_full": false },
+        { "ref": "business-w1", "takeaway": "Nvidia's own filing announcing the resignation and interim CEO.", "read_full": false }
+      ],
+      "social": "Elon Musk joined public calls for Huang to be reinstated as chief executive, The Washington Post reported, alongside Nvidia employees who want him back."
+    },
+    {
+      "id": "fed-inflation-goolsbee-warsh",
+      "headline": "Fed officials keep the focus on inflation as Goolsbee says there is 'work to do'",
+      "region": "Fed",
+      "importance": 4,
+      "summary": "Chicago Fed president Austan Goolsbee told CNBC on Friday that the central bank \"has definitely got work to do\" on inflation and will likely need to act. Reuters reported that he and Treasury Secretary Scott Bessent differ on how much of the price pressure comes from the energy shock, and that Fed governor Philip Jefferson said he takes his policy cues from inflation. The Fed's next rate decision is in December.",
+      "why_it_matters": "If the Fed raises rates again, borrowing costs for mortgages, car loans and credit cards stay high or climb. The Wall Street Journal also reports that grocery prices could start rising again.",
+      "background": "The Federal Reserve sets short-term interest rates and aims to keep inflation near 2% a year. Consumer prices rose 0.4% in October, more than forecast, and several Fed officials have said this week that inflation is too high. Energy costs rose after the Iran war began in February and disrupted oil shipments from the Persian Gulf. Kevin Warsh, the Fed's chairman, is also changing how the central bank works, including holding fewer rate votes each year. Scott Bessent is the Treasury secretary, the administration's top economic official.",
+      "facts": [
+        { "text": "Chicago Fed president Austan Goolsbee said the central bank \"has definitely got work to do\" on inflation and told CNBC it will likely need to take action.", "refs": ["d8c2d586f2"] },
+        { "text": "Treasury Secretary Scott Bessent and Goolsbee are divided on the role the energy shock plays in inflation, Reuters reported.", "refs": ["6ca4d9ecba"] },
+        { "text": "Fed governor Philip Jefferson said he is taking his policy cues from inflation, Reuters reported.", "refs": ["3efa24dfa3"] },
+        { "text": "U.S. consumer prices rose 0.4% in October, above forecasts, and core prices rose 0.3%.", "refs": ["business-w2"] },
+        { "text": "The Fed will vote on interest rates less often starting next year under a plan by chairman Kevin Warsh to change how it operates, The New York Times reported.", "refs": ["a766dfc105"] },
+        { "text": "Grocery prices could rise again because higher energy costs and supply-chain delays are raising costs for food producers, The Wall Street Journal reported.", "refs": ["570c67b0ae"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "d8c2d586f2", "note": "Leads with Goolsbee's own words and the likelihood of Fed action." },
+        { "ref": "6ca4d9ecba", "note": "Sets the Fed official against the Treasury secretary over what is causing inflation." },
+        { "ref": "a766dfc105", "note": "Looks past the rate question to how Warsh will communicate with fewer meetings." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d8c2d586f2", "takeaway": "Headline and summary only: its own interview with Goolsbee.", "read_full": false },
+        { "ref": "6ca4d9ecba", "takeaway": "Headline only: the disagreement between Bessent and Goolsbee over energy's role.", "read_full": false },
+        { "ref": "3efa24dfa3", "takeaway": "Headline only: Jefferson's remarks on inflation guiding policy.", "read_full": false },
+        { "ref": "a766dfc105", "takeaway": "Headline and summary only (paywalled): the cut in the number of rate votes and what it means for Warsh.", "read_full": false },
+        { "ref": "570c67b0ae", "takeaway": "Headline and summary only (paywalled): warns of another round of food price increases.", "read_full": false },
+        { "ref": "business-w2", "takeaway": "Summary of the October consumer price report.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "fed-survey-ai-financial-risk",
+      "headline": "AI rises to the top of financial-system worries in the Fed's latest survey",
+      "region": "Fed",
+      "importance": 3,
+      "summary": "Risks tied to artificial intelligence are now the most-cited threat to the financial system in a Federal Reserve survey published Friday, CNBC and Reuters reported. The finding landed in a week when AI stocks fell sharply after the Nvidia chief executive's resignation. Reuters also reported that Fed chairman Kevin Warsh plans to take stock of the AI boom as the public grows more wary of it.",
+      "why_it_matters": "A large share of stock-market gains, and of many retirement accounts, rests on a small group of AI companies. The Fed's survey shows that market professionals now see that as the main thing that could go wrong.",
+      "background": "The Federal Reserve regularly asks market participants and other contacts what they see as the biggest risks to the financial system, and publishes the answers. AI concerns had been climbing in earlier editions of the survey. Spending on AI chips and data centers has driven much of the stock market's rise, concentrating it in a few large technology companies. CNBC noted that communities are also watching the fast spread of data centers.",
+      "facts": [
+        { "text": "AI-related risks were the most-cited threat to the financial system in the Federal Reserve's latest survey, according to CNBC and Reuters.", "refs": ["f8e3a26700", "1578f69c3c"] },
+        { "text": "CNBC said the report arrived with Wall Street on edge over large AI companies and with communities on alert over the spread of data centers.", "refs": ["f8e3a26700"] },
+        { "text": "Fed chairman Kevin Warsh is set to take stock of the AI boom as the U.S. public grows wary of it, Reuters reported.", "refs": ["720c6dd5a6"] },
+        { "text": "Goldman Sachs warned that uncertainty over AI could fuel market volatility, Bloomberg reported.", "refs": ["b95e616f85"] },
+        { "text": "The chairman of China's securities regulator, Wu Qing, said global capital markets are going through a new round of asset repricing, Bloomberg reported.", "refs": ["5593047e67"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f8e3a26700", "note": "Calls AI the biggest threat and links it to both markets and data-center growth." },
+        { "ref": "1578f69c3c", "note": "Emphasizes how fast AI has climbed the list of worries." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f8e3a26700", "takeaway": "Headline and summary only: the survey result with market and community context.", "read_full": false },
+        { "ref": "1578f69c3c", "takeaway": "Headline only: AI's rise to the top of the survey.", "read_full": false },
+        { "ref": "720c6dd5a6", "takeaway": "Headline only: previews Warsh's assessment of AI.", "read_full": false },
+        { "ref": "b95e616f85", "takeaway": "Headline and summary only (paywalled): Goldman's Asia forecast, with a caution on AI volatility.", "read_full": false },
+        { "ref": "5593047e67", "takeaway": "Headline and summary only (paywalled): a Chinese regulator's warning on global asset repricing.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iea-oil-surplus-prices-stay-high",
+      "headline": "Oil supply is back in surplus, but fuel prices are expected to stay high",
+      "region": "Energy",
+      "importance": 3,
+      "summary": "The International Energy Agency said global oil supply exceeded demand by almost 2 million barrels a day in October, the first surplus since the Iran war began, The Guardian reported. Axios and MarketWatch reported that prices are likely to stay elevated anyway, and that more crude does not automatically mean cheaper diesel. Attacks on tankers near the Strait of Hormuz are continuing, according to Bloomberg.",
+      "why_it_matters": "Gasoline has become cheaper recently, but Axios reports drivers should not expect pre-war prices soon. Diesel, which moves most freight and so feeds into the cost of goods, may stay expensive.",
+      "background": "The International Energy Agency is a Paris-based body that advises oil-consuming countries and publishes a monthly report on supply and demand. The war between the United States, Israel and Iran began in February and disrupted shipping through the Strait of Hormuz, the route for much of the Persian Gulf's oil. That drained stockpiles and pushed prices up. Exports from the Gulf have since recovered, partly by routes that avoid the strait. The conflict is unresolved, and Axios describes it as being in limbo.",
+      "facts": [
+        { "text": "The IEA said global oil supply has returned to surplus for the first time since the start of the Iran war.", "refs": ["4ba6ba3a8b", "1fb504df86"] },
+        { "text": "Supply exceeded demand by almost 2 million barrels a day in October, and the agency described \"tentative signs of rebalancing,\" The Guardian reported.", "refs": ["4ba6ba3a8b"] },
+        { "text": "Axios reported that the supply crunch is easing but prices could stay high, and that gasoline prices have dropped lately without approaching pre-war levels.", "refs": ["423b01f085"] },
+        { "text": "A surplus of crude does not automatically lower diesel prices, MarketWatch reported.", "refs": ["1fb504df86"] },
+        { "text": "Iran is continuing attacks on oil tankers near the Strait of Hormuz more than eight months into the war, Bloomberg reported.", "refs": ["f105d066c1"] },
+        { "text": "European stock indexes reversed earlier losses on Friday as oil prices fell, The Wall Street Journal reported.", "refs": ["588878cee0"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "4ba6ba3a8b", "note": "Leads with the return to surplus as a turning point." },
+        { "ref": "423b01f085", "note": "Stresses that prices remain high despite the recovery in supply." },
+        { "ref": "1fb504df86", "note": "Focuses on diesel and why consumers may not see relief." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "4ba6ba3a8b", "takeaway": "Headline and summary only: the IEA's figures and wording.", "read_full": false },
+        { "ref": "423b01f085", "takeaway": "Headline and summary only: explains why prices may stay high.", "read_full": false },
+        { "ref": "1fb504df86", "takeaway": "Headline and summary only: the gap between crude supply and diesel prices.", "read_full": false },
+        { "ref": "f105d066c1", "takeaway": "Headline and summary only (paywalled): ample crude despite continued tanker attacks.", "read_full": false },
+        { "ref": "588878cee0", "takeaway": "Headline and summary only (paywalled): European shares rose as oil dropped.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "anthropic-ipo-bitcoin",
+      "headline": "Investors line up for Anthropic's stock listing next week as bitcoin drops below $69,000",
+      "region": "Markets",
+      "importance": 3,
+      "summary": "Investors are showing strong demand for shares in the AI company Anthropic ahead of its initial public offering next week, while questioning how long its lead in AI will last, Reuters reported. Bitcoin fell below $69,000 on Friday, and MarketWatch reported it could fall further if investors sell crypto to buy into the offering. The Wall Street Journal described the listing and Nvidia's earnings as two tests for AI stocks next week.",
+      "why_it_matters": "A very large new listing can pull money out of other investments, and its reception will signal how much confidence remains in AI companies after a rough stretch for the sector.",
+      "background": "Anthropic is a San Francisco company that builds the Claude AI models and competes with OpenAI and Google. An initial public offering is the first sale of a company's shares to the public. MarketWatch said this one could be among the most sought-after stock offerings in history. It comes as AI-linked stocks have fallen for weeks and days after Nvidia's chief executive resigned. Bitcoin, which often moves with investors' appetite for risk, has fallen about 17% in a month.",
+      "facts": [
+        { "text": "Investors are flocking to Anthropic's initial public offering but questioning the durability of its lead in AI, Reuters reported.", "refs": ["90b2ff09fb"] },
+        { "text": "Anthropic's IPO and Nvidia's earnings are both due next week, The Wall Street Journal reported.", "refs": ["8a62962627"] },
+        { "text": "Bitcoin fell below $70,000 on Friday, and MarketWatch put it under $69,000.", "refs": ["032f0f88fd", "22e25ab090"] },
+        { "text": "MarketWatch reported that bitcoin could fall further if investors sell crypto holdings to make room for Anthropic shares.", "refs": ["22e25ab090"] },
+        { "text": "Jailed FTX founder Sam Bankman-Fried's early investment in Anthropic would have been worth nearly $40 billion in the IPO, the Financial Times reported.", "refs": ["9896210f0d"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "90b2ff09fb", "note": "Balances strong demand against investor doubts about Anthropic's staying power." },
+        { "ref": "22e25ab090", "note": "Views the IPO through its possible effect on crypto prices." },
+        { "ref": "9896210f0d", "note": "Uses Bankman-Fried's lost stake to convey the size of the offering." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "90b2ff09fb", "takeaway": "Headline only: its own reporting on investor demand and doubts.", "read_full": false },
+        { "ref": "8a62962627", "takeaway": "Headline and summary only (paywalled): frames next week as a test for AI stocks.", "read_full": false },
+        { "ref": "22e25ab090", "takeaway": "Headline and summary only: links bitcoin's fall to money moving toward the IPO.", "read_full": false },
+        { "ref": "032f0f88fd", "takeaway": "Headline only: pairs Nvidia's losing streak with bitcoin's slide.", "read_full": false },
+        { "ref": "9896210f0d", "takeaway": "Headline and summary only (paywalled): what Bankman-Fried's stake would have been worth.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "business-w1", "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm", "title": "NVIDIA Announces CEO Transition (Form 8-K exhibit)", "outlet": "SEC / Nvidia" },
+    { "id": "business-w2", "url": "https://stockanalysis.com/news/us-cpi-rises-october-2026/", "title": "US consumer prices rise 0.4% in October, above forecasts, as core inflation holds at 0.3%", "outlet": "Stock Analysis" }
+  ]
+}

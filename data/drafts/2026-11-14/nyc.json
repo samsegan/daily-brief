@@ -1,0 +1,247 @@
+{
+  "stories": [
+    {
+      "id": "flatbush-building-collapse",
+      "headline": "Flatbush collapse: Times reports developer avoided stricter oversight; medical examiner rules on deaths",
+      "region": "Brooklyn",
+      "importance": 5,
+      "summary": "Three days after a building on Flatbush Avenue collapsed, the New York Times reported that the developer of the project next door first won approval for a three-story building and then sought to add floors, which kept the project out of the stricter oversight that larger projects get. The Daily News reported that the medical examiner found all of the victims suffocated in the rubble. An injured construction worker has hired a lawyer and alleges corners were cut at the site, the New York Post reported. No official cause has been announced.",
+      "why_it_matters": "Construction next to occupied buildings is common across the city, and the reporting raises the question of whether the rules that decide how closely a project is watched can be sidestepped. The answer affects anyone living beside a building site.",
+      "background": "On Wednesday, Nov. 11, a three-story building on Flatbush Avenue in Brooklyn that held apartments and businesses fell into an excavated construction site beside it. Mayor Zohran Mamdani said Thursday that eight people died, including two children, and more than a dozen others were hurt; the dead included residents and construction workers. Rescue crews finished searching the rubble on Thursday, and the Brooklyn district attorney opened a criminal inquiry. Many of the people killed and injured were immigrants, and families who lived in the building have begun speaking publicly. The Department of Buildings is the city agency that approves and inspects construction projects.",
+      "facts": [
+        { "text": "The New York Times reported that the developer won approval for a three-story building and then sought to add more stories, and so was not subject to the more rigorous oversight required of larger projects.", "refs": ["608cc4c44b"] },
+        { "text": "The medical examiner found that the victims all died of suffocation in the rubble, the Daily News reported.", "refs": ["410749c918"] },
+        { "text": "A laborer who says a wall fell on him, injuring his knee, shoulder and back, has retained construction accident lawyer Christopher Gorayeb and alleges corners were cut at the site, the New York Post reported.", "refs": ["ae65140684"] },
+        { "text": "It remains unclear why the building collapsed, and officials said no more victims were in the rubble.", "refs": ["b81dc1737f"] },
+        { "text": "Video from a surveillance camera inside one family's apartment recorded the moment of the collapse; Gothamist said it shows two children swept up in the wreckage.", "refs": ["5eaeb7ad39", "2eaf170d68"] },
+        { "text": "Anderson Velez, who lived in the building, told CBS News his wife and two sons were inside when it fell; CBS reported that his wife and a son were injured and that he wants answers.", "refs": ["cae2b81416", "89f67db6df"] },
+        { "text": "The people killed and injured had come to New York City as immigrants, Gothamist and the New York Times reported.", "refs": ["2211a6d54d", "23a2b5c6f9"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "ec684fce26", "note": "Puts the weight on city government: the collapse 'raises questions' about oversight and safety precautions." },
+        { "ref": "608cc4c44b", "note": "Puts the weight on the developer, saying it 'avoided' stricter oversight through the way it sought approvals." },
+        { "ref": "2211a6d54d", "note": "Centers the victims as immigrant families who came for a new life, not the cause or who is responsible." },
+        { "ref": "ae65140684", "note": "Leads with one injured worker's allegation and his lawyer, quoting the phrase 'Third-world stuff'." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "608cc4c44b", "takeaway": "Headline and summary only (paywalled): its own reporting on how the project's approvals kept it out of stricter oversight.", "read_full": false },
+        { "ref": "410749c918", "takeaway": "Headline only: reports the medical examiner's finding on how the victims died.", "read_full": false },
+        { "ref": "ae65140684", "takeaway": "Headline and summary only: an injured worker's claims about site practices, told through his lawyer.", "read_full": false },
+        { "ref": "ec684fce26", "takeaway": "Headline only: frames the collapse as a question about city oversight.", "read_full": false },
+        { "ref": "2211a6d54d", "takeaway": "Headline and summary only: profiles of the immigrant families who were killed or hurt.", "read_full": false },
+        { "ref": "89f67db6df", "takeaway": "Headline and summary only: a resident whose wife and son were injured asks for answers.", "read_full": false },
+        { "ref": "cae2b81416", "takeaway": "Video interview with the same resident; summary only.", "read_full": false },
+        { "ref": "70a0fde666", "takeaway": "Headline only: survivors' accounts of the collapse.", "read_full": false },
+        { "ref": "b81dc1737f", "takeaway": "Headline and summary only (paywalled): says the cause is still unclear and the search is over.", "read_full": false },
+        { "ref": "5eaeb7ad39", "takeaway": "Headline and summary only: published the in-apartment video of the collapse.", "read_full": false },
+        { "ref": "2eaf170d68", "takeaway": "Headline only: also carries the in-apartment video.", "read_full": false },
+        { "ref": "23a2b5c6f9", "takeaway": "Headline and summary only (paywalled): a narrative of the immigrants whose lives crossed at the site.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mamdani-trump-snap-rule-delay",
+      "headline": "Mamdani says Trump agreed to a 90-day delay of new SNAP stocking rules for small stores nationwide",
+      "region": "City Hall",
+      "importance": 4,
+      "summary": "Mayor Zohran Mamdani announced Friday that President Donald Trump agreed, after the two spoke directly, to delay enforcement of new federal rules requiring stores that accept food stamps to stock a wider range of staple foods. The mayor said the delay is at least 90 days and applies to small retailers across the country, including about 10,000 bodegas in New York City.",
+      "why_it_matters": "Many New Yorkers who use SNAP buy groceries at their corner store. Stores that could not meet the new stocking rules risked losing the right to accept benefits, and the delay gives them more time.",
+      "background": "SNAP, often called food stamps, is the federal program that helps low-income households buy groceries; stores must be authorized to accept it. The U.S. Department of Agriculture issued a final rule in May 2026 raising the number of staple food items an authorized store must keep on its shelves, with a compliance date of Nov. 4. Small-store trade groups asked the department for a six-month delay, saying the requirement was hard for small shops to meet. amNY reported earlier this month that the department turned down a request from Mamdani for a six-month delay and said the rules would take effect on schedule. Bodega groups estimate SNAP purchases make up 15% to 20% of a typical store's sales, according to amNY.",
+      "facts": [
+        { "text": "Mamdani announced Friday that he reached a deal with Trump to delay enforcement of new federal food-stocking requirements for small retailers that accept SNAP.", "refs": ["dd34d7553d", "b654331a0b", "07c3fc0778"] },
+        { "text": "The mayor said the delay is at least 90 days and applies to stores nationwide.", "refs": ["dd34d7553d", "b654331a0b", "e446a432a9"] },
+        { "text": "About 10,000 New York City bodegas are among the stores affected, according to Bloomberg.", "refs": ["19808218ed"] },
+        { "text": "The rules require shops that accept federal food benefits to stock a wider selection of items.", "refs": ["b654331a0b", "e446a432a9"] },
+        { "text": "THE CITY reported that the delay followed a phone call in which Mamdani made the case directly to Trump, according to the mayor.", "refs": ["b654331a0b"] },
+        { "text": "The USDA's final rule on SNAP retailer stocking standards was issued May 8, 2026, with a compliance date of Nov. 4, 2026.", "refs": ["nyc-w2"] },
+        { "text": "Nearly 250 convenience stores and three trade groups had asked Agriculture Secretary Brooke Rollins to delay enforcement by six months.", "refs": ["nyc-w3"] },
+        { "text": "Before the Nov. 4 deadline, the USDA said retailers had to begin complying on schedule despite a request from Mamdani for a six-month delay, amNY reported.", "refs": ["nyc-w1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "2772fc473d", "note": "'Sweet Talks' casts the deal as the mayor charming the president and the result as 'easing' rules." },
+        { "ref": "07c3fc0778", "note": "Stresses the stakes, saying the rules 'put benefit at risk for millions'." },
+        { "ref": "b654331a0b", "note": "Ends the headline with 'Mayor Says', marking the mayor as the source of the account." },
+        { "ref": "e05ae2ff23", "note": "Calls it something Mamdani 'secures' and, in its subhead, describes his relationship with an 'unpopular president' as fruitful." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "dd34d7553d", "takeaway": "Headline and summary only: the announcement, the 90-day minimum and what bodegas stood to lose.", "read_full": false },
+        { "ref": "b654331a0b", "takeaway": "Headline and summary only: explains the rule and attributes the account to the mayor.", "read_full": false },
+        { "ref": "19808218ed", "takeaway": "Headline and summary only (paywalled): gives the figure of about 10,000 city bodegas.", "read_full": false },
+        { "ref": "07c3fc0778", "takeaway": "Headline and summary only: national angle on stores and benefit recipients.", "read_full": false },
+        { "ref": "e446a432a9", "takeaway": "Headline and summary only (paywalled): the 90-day extension for small businesses.", "read_full": false },
+        { "ref": "e05ae2ff23", "takeaway": "Headline and summary only: treats the deal as a sign of the mayor's working relationship with Trump.", "read_full": false },
+        { "ref": "2772fc473d", "takeaway": "Headline only: frames the deal as persuasion by the mayor.", "read_full": false },
+        { "ref": "c121e9c302", "takeaway": "Headline only: attributes the delay to what Mamdani says.", "read_full": false },
+        { "ref": "48be41bf87", "takeaway": "Headline only: straight report of the deal.", "read_full": false },
+        { "ref": "nyc-w1", "takeaway": "Earlier amNY report that the USDA refused the mayor's request for a delay.", "read_full": false },
+        { "ref": "nyc-w2", "takeaway": "Law firm summary of the final rule and its dates.", "read_full": false },
+        { "ref": "nyc-w3", "takeaway": "Trade press report on retailers' request for a six-month delay.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nypd-strategic-response-group-overhaul",
+      "headline": "Mamdani moves to break up NYPD's Strategic Response Group; outlets differ on whether it is disbanded or renamed",
+      "region": "NYPD",
+      "importance": 4,
+      "summary": "Mayor Zohran Mamdani is overhauling the Strategic Response Group, the NYPD unit that responds to protests and also does counterterrorism work. The New York Times reported that the unit's crowd-control and counterterrorism duties will be spread among other units, including a new Civilian Dialogue Unit. City & State reported that the mayor will also back a City Council bill, the CURB Act, aimed at the unit.",
+      "why_it_matters": "The change affects how police handle demonstrations in the city and who responds to large emergencies. Disbanding the unit was a campaign promise, and New Yorkers on both sides of the policing debate will be watching whether practice on the street changes.",
+      "background": "The Strategic Response Group is an NYPD unit of about 500 officers that responds to protests, counterterrorism operations and other large events. Civil liberties groups and some council members have criticized its handling of demonstrations, and Mamdani has pledged since his campaign to disband it and to separate protest response from counterterrorism. Police Commissioner Jessica Tisch told the City Council in March that talks were about changing how the city polices protests, 'not to disband' the unit, and the mayor said he was prepared to overrule her. The CURB Act, sponsored by Council Member Chi Ossé, would disband the unit by law and includes a provision meant to stop the department from recreating it under another name; in July it was one co-sponsor short of a Council majority, the Amsterdam News reported.",
+      "facts": [
+        { "text": "The Strategic Response Group will be revamped, with its crowd-control and counterterrorism duties dispersed to other units, including a new Civilian Dialogue Unit, the New York Times reported.", "refs": ["dd2c689bf9"] },
+        { "text": "The Daily News, The Center Square and City & State reported that Mamdani plans to disband the unit.", "refs": ["6245aaa4a7", "ecd888a13c", "1c673d8770"] },
+        { "text": "City & State reported that the mayor will endorse the CURB Act, Council Member Chi Ossé's bill to curb the unit.", "refs": ["1c673d8770"] },
+        { "text": "The New York Post, citing unnamed sources briefed on the plans, reported that the mayor would say he has 'decoupled' the roughly 500-member unit's protest duties from its counterterrorism work.", "refs": ["0a5f67cd33"] },
+        { "text": "Mamdani restated his campaign promise to disband the unit in January.", "refs": ["nyc-w4"] },
+        { "text": "Commissioner Jessica Tisch told the City Council in March that discussions were 'not to disband' the unit, and Mamdani signaled he might overrule her, Fox 5 reported.", "refs": ["nyc-w6"] },
+        { "text": "In July, the CURB Act needed one more co-sponsor to have the backing of a Council majority, the Amsterdam News reported.", "refs": ["nyc-w5"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the unit is being disbanded or renamed",
+          "positions": [
+            { "claim": "The mayor is disbanding the Strategic Response Group.", "refs": ["6245aaa4a7", "ecd888a13c", "1c673d8770"] },
+            { "claim": "The change is a 'rebrand' of the unit, according to sources cited by the New York Post.", "refs": ["0a5f67cd33"] },
+            { "claim": "The unit is being revamped and its duties handed to other units, per the New York Times.", "refs": ["dd2c689bf9"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "0a5f67cd33", "note": "Puts 'rebrand' in quotes and says it follows 'lefty attacks', suggesting little real change and political pressure as the motive." },
+        { "ref": "6245aaa4a7", "note": "Says the mayor is 'poised to disband' a 'controversial' unit, treating it as the end of the unit." },
+        { "ref": "dd2c689bf9", "note": "Uses 'Overhauls' and identifies the unit by the criticism of its protest policing." },
+        { "ref": "1c673d8770", "note": "Leads with the mayor's support for the Council bill rather than the executive action." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "dd2c689bf9", "takeaway": "Headline and summary only (paywalled): the most detail on where the unit's duties go.", "read_full": false },
+        { "ref": "0a5f67cd33", "takeaway": "Headline and summary only: sourced preview that calls the plan a rebrand.", "read_full": false },
+        { "ref": "1c673d8770", "takeaway": "Headline and summary only: adds the mayor's backing for the CURB Act.", "read_full": false },
+        { "ref": "6245aaa4a7", "takeaway": "Headline only: says the mayor is poised to disband the unit.", "read_full": false },
+        { "ref": "ecd888a13c", "takeaway": "Headline only: says the mayor will disband the unit.", "read_full": false },
+        { "ref": "nyc-w4", "takeaway": "January report on the mayor repeating his pledge.", "read_full": false },
+        { "ref": "nyc-w5", "takeaway": "July report on the Council bill and its support.", "read_full": false },
+        { "ref": "nyc-w6", "takeaway": "Earlier report on the mayor and commissioner's disagreement.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "schools-hiring-review-suarez-case",
+      "headline": "Schools chancellor seeks independent review of hiring after aide is charged in jogger's killing",
+      "region": "Schools",
+      "importance": 3,
+      "summary": "Schools Chancellor Kamar Samuels asked for an independent review of how the city's public schools hire staff, days after a paraprofessional was fired following his arrest in the stabbing death of Katie Suarez. Gothamist reported that the man was hired as a classroom aide despite mental health concerns documented by the U.S. Marines and the NYPD.",
+      "why_it_matters": "Parents rely on the school system's background checks for every adult who works with their children, and the review will test whether those checks miss warning signs. In today's feeds this development was covered only by left-leaning outlets, though the case itself has drawn wide coverage.",
+      "background": "Katie Suarez, 28, was stabbed on Oct. 30 while jogging on a path along the Brooklyn waterfront and died days later. Police arrested Sayed Mohassib, 27, on Nov. 7, and a Brooklyn grand jury has indicted him on a murder charge. Mohassib briefly served as an NYPD officer in 2022 before leaving for the Marine Corps, and city payroll records list him as a substitute paraprofessional, a classroom aide, from 2024, according to local reports. Mayor Zohran Mamdani had already ordered a review after learning of the suspect's history, and the Department of Education has said it has a 'robust' background check process.",
+      "facts": [
+        { "text": "Chancellor Kamar Samuels asked for an independent review of hiring days after a paraprofessional was fired following his arrest in Suarez's death, the New York Times reported.", "refs": ["45f09fde6d"] },
+        { "text": "The city's schools will review their hiring practices after the aide's arrest.", "refs": ["06ecb19068", "3eab3662c4"] },
+        { "text": "The suspect was hired as a paraprofessional despite mental health concerns documented by the U.S. Marines and the NYPD, Gothamist reported.", "refs": ["06ecb19068"] },
+        { "text": "Suarez was fatally stabbed while jogging along the Brooklyn waterfront.", "refs": ["06ecb19068", "nyc-w7"] },
+        { "text": "Sayed Mohassib, a Department of Education employee, was charged with murder in the stabbing.", "refs": ["nyc-w7"] },
+        { "text": "A grand jury indicted Mohassib in the killing, amNY reported.", "refs": ["nyc-w8"] },
+        { "text": "Mohassib joined the NYPD in 2022 and left after about six weeks to join the Marine Corps, according to Fox 5, which cited sources.", "refs": ["nyc-w9"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "06ecb19068", "note": "Presents the review as the school system's own step: schools 'to review' their practices." },
+        { "ref": "3eab3662c4", "note": "Says practices are 'to be probed', casting the system as the subject of an investigation." },
+        { "ref": "45f09fde6d", "note": "Puts the chancellor at the center as the person calling for the inquiry." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "06ecb19068", "takeaway": "Headline and summary only: the review and the prior concerns flagged by the Marines and NYPD.", "read_full": false },
+        { "ref": "45f09fde6d", "takeaway": "Headline and summary only (paywalled): the chancellor's request for an independent review.", "read_full": false },
+        { "ref": "3eab3662c4", "takeaway": "Headline only: says hiring practices will be probed.", "read_full": false },
+        { "ref": "nyc-w7", "takeaway": "Local TV report on the murder charge against a schools employee.", "read_full": false },
+        { "ref": "nyc-w8", "takeaway": "Report on the indictment.", "read_full": false },
+        { "ref": "nyc-w9", "takeaway": "Profile of the suspect's work history.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "class-size-law-compliance",
+      "headline": "City says more than 73% of classrooms meet state class size caps; Post says the bar was moved",
+      "region": "Schools",
+      "importance": 3,
+      "summary": "Mayor Zohran Mamdani said Friday that the city is now in compliance with the state law requiring smaller public school classes, with more than 73% of classrooms under the caps, the Daily News reported. The New York Post reported that the city reached that point only after the mayor obtained an extension from Albany and his administration changed how compliance is calculated.",
+      "why_it_matters": "For families with children in public schools, the law decides how many students share a classroom. Whether the city is truly meeting it, or meeting a relaxed version, affects how fast class sizes actually shrink.",
+      "background": "A 2022 state law requires New York City to cap class sizes at 20 students in kindergarten through third grade, 23 in grades four through eight and 25 in high school, phased in over several years with a rising share of classrooms required to comply each year. Mamdani campaigned on meeting the mandate but sought more time once in office, citing cost and space. In June, state lawmakers agreed to a two-year extension that pushes full compliance to the 2029-30 school year, Chalkbeat reported.",
+      "facts": [
+        { "text": "More than 73% of the city's public school classrooms comply with the state class size law, the Daily News reported.", "refs": ["bb525419e8"] },
+        { "text": "Mamdani said Friday that the city now complies with the state's class size mandate.", "refs": ["7e37aa1fef"] },
+        { "text": "The Post reported that compliance came after the mayor sought an extension and after his administration changed the way compliance is calculated.", "refs": ["7e37aa1fef"] },
+        { "text": "State lawmakers agreed in June to give the city a two-year extension to comply with the mandate, Chalkbeat reported.", "refs": ["nyc-w10"] }
+      ],
+      "disputed": [
+        {
+          "topic": "What the compliance figure shows",
+          "positions": [
+            { "claim": "The city now complies with the mandate, according to the mayor.", "refs": ["bb525419e8", "7e37aa1fef"] },
+            { "claim": "The city complies only because of the extension and a change in how the administration does the math, according to the Post.", "refs": ["7e37aa1fef"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "bb525419e8", "note": "States the 73% figure plainly, as a compliance milestone." },
+        { "ref": "7e37aa1fef", "note": "Says the mayor 'crows' and adds 'there's a catch', putting the caveats ahead of the number." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "bb525419e8", "takeaway": "Headline only: reports the compliance percentage.", "read_full": false },
+        { "ref": "7e37aa1fef", "takeaway": "Headline and summary only: questions the claim, citing the extension and a changed calculation.", "read_full": false },
+        { "ref": "nyc-w10", "takeaway": "June report on Albany's two-year extension of the deadline.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mcguinness-boulevard-redesign-complete",
+      "headline": "McGuinness Boulevard safety redesign finished after years of delays",
+      "region": "Brooklyn",
+      "importance": 2,
+      "summary": "The city completed the safety redesign of a one-mile stretch of McGuinness Boulevard in Greenpoint on Friday, Mayor Zohran Mamdani announced alongside other elected officials. The project began after a teacher was killed by a driver on the road in 2021 and stalled for years under the previous mayor.",
+      "why_it_matters": "McGuinness is a main route through north Brooklyn for drivers, cyclists and people on foot, and the new layout changes how all of them use it. The project is also an early test of the mayor's promise to finish street safety work that stalled under his predecessor.",
+      "background": "Matthew Jensen, a public school teacher, was struck and killed by a driver on McGuinness Boulevard in 2021, and neighbors campaigned for a redesign. The city planned to cut car traffic to one lane in each direction and add protected bike lanes, but the Adams administration halted the full plan and allowed only a shortened version to go ahead in 2024. The project later figured in the bribery case against Ingrid Lewis-Martin, a former top aide to Mayor Eric Adams, who has pleaded not guilty. Mamdani ordered the full design built in his first week in office, and the Department of Transportation broke ground in May.",
+      "facts": [
+        { "text": "The redesign of a one-mile stretch of McGuinness Boulevard was completed Friday, and Mamdani and other elected officials marked the occasion.", "refs": ["7c9203fa5e", "698a63f728"] },
+        { "text": "The redesign followed the death a little over five years ago of Matthew Jensen, a public school teacher who was hit by a driver on the boulevard.", "refs": ["698a63f728"] },
+        { "text": "The project went through years of starts and stops and played a part in the bribery case of a former top aide to Mayor Eric Adams, THE CITY reported.", "refs": ["7c9203fa5e"] },
+        { "text": "Mamdani directed the city in early January to build the full redesign.", "refs": ["nyc-w11", "nyc-w12"] },
+        { "text": "The Department of Transportation broke ground on the full redesign in late May.", "refs": ["nyc-w13"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "7c9203fa5e", "note": "'Finally Complete' stresses the delays, and the summary ties the project to the Adams-era bribery case." },
+        { "ref": "698a63f728", "note": "Credits the 'Mamdani admin' and anchors the story in the teacher's death and the safety campaign that followed." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "7c9203fa5e", "takeaway": "Headline and summary only: completion, the long delays and the link to the bribery case.", "read_full": false },
+        { "ref": "698a63f728", "takeaway": "Headline and summary only: completion told through the death of Matthew Jensen.", "read_full": false },
+        { "ref": "nyc-w11", "takeaway": "January report on the mayor's order to build the full design.", "read_full": false },
+        { "ref": "nyc-w12", "takeaway": "Neighborhood report on the same January order.", "read_full": false },
+        { "ref": "nyc-w13", "takeaway": "Neighborhood report on the May groundbreaking.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "nyc-w1", "url": "https://www.amny.com/?p=137878872", "title": "amNY report on USDA declining to delay SNAP food-stocking requirements", "outlet": "amNY" },
+    { "id": "nyc-w2", "url": "https://www.hoganlovells.com/en/publications/usda-issues-final-rule-amending-snap-retailer-stocking-standards", "title": "USDA issues final rule amending SNAP retailer stocking standards", "outlet": "Hogan Lovells" },
+    { "id": "nyc-w3", "url": "https://www.retail-insight-network.com/news/retailers-usda-snap-stocking-mandate/", "title": "Retailers urge USDA to delay SNAP stocking mandate", "outlet": "Retail Insight Network" },
+    { "id": "nyc-w4", "url": "https://www.cityandstateny.com/politics/2026/01/mamdani-reiterates-campaign-promise-disband-nypd-strategic-response-group/411033/", "title": "Mamdani reiterates campaign promise to disband NYPD Strategic Response Group", "outlet": "City & State NY" },
+    { "id": "nyc-w5", "url": "https://amsterdamnews.com/news/2026/07/16/legislative-push-to-disband-nypds-strategic-response-group/", "title": "Legislative push to disband NYPD's Strategic Response Group", "outlet": "Amsterdam News" },
+    { "id": "nyc-w6", "url": "https://www.fox5ny.com/news/mamdani-nypd-commissioner-srg-unit", "title": "Mamdani signals he may overrule Tisch on NYPD protest unit", "outlet": "Fox 5 New York" },
+    { "id": "nyc-w7", "url": "https://abc7ny.com/post/suspect-charged-murder-killing-katie-suarez/20022526/", "title": "DOE employee charged with murder in stabbing of Brooklyn jogger Katie Suarez", "outlet": "ABC7 New York" },
+    { "id": "nyc-w8", "url": "https://www.amny.com/news/brooklyn-jogger-stabbing-indictment-11102026/", "title": "Brooklyn jogger stabbing indictment", "outlet": "amNY" },
+    { "id": "nyc-w9", "url": "https://fox5ny.com/news/sayed-mohassib-brooklyn-runner-stabbing-suspect", "title": "Who Is Sayed Mohassib? Ex-NYPD officer, NYC school aide charged in Brooklyn deadly stabbing", "outlet": "Fox 5 New York" },
+    { "id": "nyc-w10", "url": "https://www.chalkbeat.org/newyork/2026/06/01/nyc-class-size-law-delay-albany-uft-deal/", "title": "NY lawmakers to give Mamdani 2-year extension to comply with NYC class size mandate", "outlet": "Chalkbeat New York" },
+    { "id": "nyc-w11", "url": "https://nyc.streetsblog.org/2026/01/03/mamdani-announces-full-mcguinness-road-diet-finishing-a-job-halted-by-adams", "title": "Mamdani announces full McGuinness road diet, finishing a job halted by Adams", "outlet": "Streetsblog NYC" },
+    { "id": "nyc-w12", "url": "https://greenpointers.com/2026/01/05/mayor-mamdani-directs-city-to-implement-full-mcguinness-boulevard-redesign", "title": "Mayor Mamdani directs city to implement full McGuinness Boulevard redesign", "outlet": "Greenpointers" },
+    { "id": "nyc-w13", "url": "https://greenpointers.com/2026/05/27/dot-breaks-ground-on-full-mcguinness-boulevard-redesign-in-greenpoint/", "title": "DOT breaks ground on full McGuinness Boulevard redesign in Greenpoint", "outlet": "Greenpointers" }
+  ]
+}

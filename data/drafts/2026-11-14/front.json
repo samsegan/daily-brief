@@ -1,0 +1,77 @@
+{
+  "overview": "The Federal Aviation Administration halted flights nationwide for nearly five hours on Friday, the longest such stop since Sept. 11, 2001; more than 8,200 flights were canceled, France 24 reported, and cancellations continued into Saturday. Transportation Secretary Sean Duffy blamed overloaded, decades-old communications equipment, ruled out foul play and asked Congress for $50 billion to overhaul air traffic control. The White House confirmed that President Trump will meet China's Xi Jinping and Russia's Vladimir Putin together next week in Shenzhen, the first three-way meeting of those leaders. Nvidia shares fell again in the aftermath of Jensen Huang's resignation as chief executive, the Supreme Court agreed to decide whether Trump may bar most asylum claims at the southern border, and in New Orleans officials said everyone aboard a river cruise ship survived after a tanker struck it on the Mississippi.",
+  "markets": {
+    "summary": "Stocks ended Friday mixed, and Nvidia was again the reason. The S&P 500 fell 0.40% and the technology-heavy Nasdaq Composite fell 0.91%, while the Dow Jones Industrial Average, which holds fewer AI-related companies, rose 0.10%. Nvidia shares dropped for a sixth straight week, their longest weekly losing streak since 2012 according to CNBC, and MarketWatch reported the company lost $573 billion in market value this week alone after Jensen Huang resigned as chief executive; Reuters and MarketWatch said other chip and AI stocks slid with it. Interest rates are the second pressure: the 10-year Treasury yield, the rate the government pays to borrow for a decade, was at 5.10% in the latest reading, and Chicago Fed President Austan Goolsbee told CNBC the central bank \"has definitely got work to do\" on inflation. Some rows in the quote table are older than a day: Treasury yields are from Nov. 12, oil from Nov. 11 and currencies from Nov. 6.",
+    "movers": [
+      {
+        "symbol": "NASDAQCOM",
+        "why": "Fell 0.91% on Friday as Nvidia and other chip and AI stocks slid again; MarketWatch reported investors are rethinking the AI trade after Jensen Huang's departure. The index is down 5.83% over the past month."
+      },
+      {
+        "symbol": "DJIA",
+        "why": "Rose 0.10% while the other major indexes fell. The New York Times reported that Nvidia's drop has not spread to the rest of the market, and the Dow is up 1.41% over the past month."
+      },
+      {
+        "symbol": "CBBTCUSD",
+        "why": "Bitcoin fell 3.73% to about $68,200 and is down 16.54% in a month. Fox Business tied the slide to the Nvidia selloff, and MarketWatch reported that some investors may sell crypto to buy into Anthropic's upcoming stock offering; the exact cause is not settled."
+      },
+      {
+        "symbol": "DGS10",
+        "why": "The 10-year Treasury yield rose 12 basis points (0.12 percentage point) to 5.10% on Nov. 12, the latest figure in the table, as investors weighed higher inflation and the chance of further Federal Reserve rate increases."
+      }
+    ],
+    "concept": {
+      "term": "Market capitalization",
+      "explanation": "Market capitalization, or market cap, is what the stock market says a whole company is worth: the share price multiplied by the number of shares. It moves whenever the share price moves, so when headlines say Nvidia \"lost $573 billion\" this week, no cash left the company; investors simply became willing to pay less for each share. Market cap matters to ordinary savers because the big index funds held in most 401(k) and retirement accounts weight companies by size. The larger a company's market cap, the bigger its slice of an S&P 500 fund, which is why a sharp fall in one giant company can dent the balance of someone who never bought its stock directly."
+    },
+    "watch": [
+      "Tue Nov 17: October retail sales report from the Census Bureau, 8:30 a.m. ET",
+      "Tue Nov 17: Nvidia reports quarterly earnings after the market closes, its first results since Jensen Huang resigned",
+      "Wed Nov 18: Federal Reserve releases minutes of its Oct. 27-28 meeting, 2 p.m. ET",
+      "Wed-Thu Nov 18-19: Anthropic's initial public offering is expected to price and begin trading, subject to regulatory clearance",
+      "Thu Nov 19: Trump, Xi and Putin are scheduled to meet at the APEC summit in Shenzhen"
+    ]
+  },
+  "trending": [
+    {
+      "title": "FAA ground stop",
+      "context": "More than 12,000 Bluesky posts, many of them jokes, followed Friday's nearly five-hour nationwide halt to flights, which officials blamed on overloaded, aging communications equipment.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Jensen Huang",
+      "context": "The Wikipedia page of Nvidia's co-founder drew more than 727,000 views as coverage of his resignation as chief executive continued; pages for interim CEO Colette Kress and for Nvidia itself each drew more than 250,000.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "Tanker hits cruise ship in New Orleans",
+      "context": "A tanker struck a river cruise ship on the Mississippi on Friday; officials said all passengers and crew were rescued and 32 people were taken to hospitals, none with critical injuries.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "US loses measles elimination status",
+      "context": "CNN and Axios reported that the United States has lost the measles elimination status it held for 26 years, on the day NBC News reported the year's measles deaths had risen to 10.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Chris Van Hollen",
+      "context": "The Maryland senator's page drew more than 200,000 views as he challenges Chuck Schumer to lead Senate Democrats; the Washington Post reported he has ruled out a 2028 presidential run to focus on the contest.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "Mauricio Pochettino",
+      "context": "The head coach of the U.S. men's national soccer team is leaving to coach Manchester United, the Associated Press and NPR reported, so U.S. Soccer must find a replacement.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "Kushner and Witkoff's Ukraine talks",
+      "context": "Bluesky users are discussing U.S. envoys Jared Kushner and Steve Witkoff, who met Vladimir Putin in Moscow on Thursday and then briefed Ukraine's Volodymyr Zelenskyy in Dublin, according to the Associated Press.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "SS United States",
+      "context": "Wikipedia's news section notes that the retired American ocean liner was sunk in the Gulf of Mexico to create what is described as the largest artificial reef.",
+      "signal": "wikipedia_news"
+    }
+  ]
+}
