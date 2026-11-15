@@ -1,0 +1,835 @@
+{
+  "stories": [
+    {
+      "id": "faa-nationwide-ground-stop",
+      "headline": "Flights recovering after FAA ground stop blamed on a botched equipment upgrade",
+      "region": "",
+      "importance": 5,
+      "summary": "A nationwide ground stop on Friday halted U.S. departures for more than four hours and led to thousands of cancellations into Saturday. Transportation Secretary Sean Duffy said an upgrade by contractor L3Harris to an older telecommunications system set off the outage, and the FAA said schedules should return to normal on Sunday.",
+      "why_it_matters": "Anyone flying this weekend may still face rebookings and delays, and the outage renews questions about the age and fragility of the system that guides every U.S. flight.",
+      "background": "The FAA runs air traffic control over a nationwide network of radar, radio and data links, much of it decades old, and a ground stop holds planes at their gates when controllers cannot safely handle traffic. L3Harris, a large defense contractor, owns and maintains the equipment for the agency's telecommunications network. In September 2025 a similar telecom failure grounded flights at the two big Dallas airports, and the FAA said then that L3Harris had not made sure backup systems were working. The administration has been pushing to replace old air traffic equipment, and this outage came as new technology was being added.",
+      "facts": [
+        {
+          "text": "The FAA imposed a nationwide ground stop on Friday afternoon that lasted more than four hours.",
+          "refs": [
+            "5834ac0887",
+            "6f0bb5e135"
+          ]
+        },
+        {
+          "text": "Administration officials said new technology being added to the air traffic control system overloaded old equipment, causing intermittent communication and radar gaps.",
+          "refs": [
+            "5834ac0887",
+            "39036b0063"
+          ]
+        },
+        {
+          "text": "Transportation Secretary Sean Duffy said early findings pointed to work by contractor L3Harris updating old technology at a remote location.",
+          "refs": [
+            "cc0a455b51",
+            "90efe7abd3",
+            "1990359d03"
+          ]
+        },
+        {
+          "text": "L3Harris owns the equipment for the FAA's telecommunications network, The New York Times reported.",
+          "refs": [
+            "511435af24"
+          ]
+        },
+        {
+          "text": "Thousands of flights were canceled Friday night and Saturday, and the FAA said air travel should return to normal on Sunday.",
+          "refs": [
+            "d211695cb0",
+            "f199f36edf",
+            "39036b0063"
+          ]
+        },
+        {
+          "text": "President Trump was told within 30 minutes of the ground stop, according to U.S. officials, and he later told Fox News that \"a bunch of old broken stuff\" caused the disruption.",
+          "refs": [
+            "6f0bb5e135",
+            "ec820b202c"
+          ]
+        },
+        {
+          "text": "Dozens of international flights and some West Coast flights to Hawaii were allowed to leave during the stop.",
+          "refs": [
+            "f488b91f1e"
+          ]
+        },
+        {
+          "text": "Several Democratic lawmakers criticized the administration's handling of the outage on Saturday.",
+          "refs": [
+            "f199f36edf"
+          ]
+        },
+        {
+          "text": "During a September 2025 telecom outage that grounded flights at Dallas airports, the FAA said L3Harris had not made sure backup systems were working.",
+          "refs": [
+            "us-w1"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "f199f36edf",
+          "note": "Treats the outage as a political fight, leading with Democratic attacks on the administration."
+        },
+        {
+          "ref": "ec820b202c",
+          "note": "Puts the spotlight on the president's limited public response."
+        },
+        {
+          "ref": "90efe7abd3",
+          "note": "Leads with the contractor's upgrade as the trigger, in Duffy's words."
+        },
+        {
+          "ref": "d211695cb0",
+          "note": "Focuses on travelers and the expected return to normal on Sunday."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "d211695cb0",
+          "takeaway": "Wire story on the recovery timeline and cancellations; headline only in the bundle.",
+          "read_full": false
+        },
+        {
+          "ref": "5834ac0887",
+          "takeaway": "Wire reprint giving the administration's explanation of overloaded old equipment.",
+          "read_full": false
+        },
+        {
+          "ref": "cc0a455b51",
+          "takeaway": "Reports Duffy pointing to L3Harris's work at a remote site.",
+          "read_full": false
+        },
+        {
+          "ref": "90efe7abd3",
+          "takeaway": "Business angle on the L3Harris upgrade behind the stop.",
+          "read_full": false
+        },
+        {
+          "ref": "511435af24",
+          "takeaway": "Headline and summary only (paywalled): profiles L3Harris's role in FAA systems.",
+          "read_full": false
+        },
+        {
+          "ref": "f199f36edf",
+          "takeaway": "Covers Democratic criticism and the partisan fallout.",
+          "read_full": false
+        },
+        {
+          "ref": "ec820b202c",
+          "takeaway": "Notes Trump's brief comments to Fox News.",
+          "read_full": false
+        },
+        {
+          "ref": "6f0bb5e135",
+          "takeaway": "Reconstructs how the administration responded on Friday.",
+          "read_full": false
+        },
+        {
+          "ref": "f488b91f1e",
+          "takeaway": "Headline and summary only (paywalled): explains which flights were exempt.",
+          "read_full": false
+        }
+      ],
+      "social": "An AP feature described people online asking whether the ground stop, a Microsoft outage and turmoil in the AI industry meant \"everything\" was breaking, with some wondering about a cyberattack."
+    },
+    {
+      "id": "east-potomac-golf-course-order",
+      "headline": "Judge blocks Trump administration from closing D.C. public golf course for now",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "U.S. District Judge Ana Reyes on Saturday issued a temporary restraining order barring the administration from closing East Potomac Golf Links, which was set to shut on Sunday for 15 months. The order pauses work for about two weeks while the court weighs a challenge to plans to rebuild the public course into a championship-level venue.",
+      "why_it_matters": "The ruling keeps a cheap public course and park near the National Mall open for now and is another test of how far a president can reshape federal land in the capital without outside review.",
+      "background": "East Potomac Golf Links is a historic public course on a peninsula in the Potomac River, run on National Park Service land near the White House. President Trump has pushed to remake it into a championship course as part of broader changes to Washington. Preservation groups sued, and Judge Reyes has issued several earlier orders, including an October halt to tree removal and a requirement that the government give notice before irreversible changes. The administration has argued in court that the work was routine maintenance.",
+      "facts": [
+        {
+          "text": "Judge Ana Reyes issued the temporary restraining order on Saturday, before the course was due to close on Nov. 15 for 15 months.",
+          "refs": [
+            "25c838bdab",
+            "5b0b6e789e"
+          ]
+        },
+        {
+          "text": "The order delays any work at the course for two weeks.",
+          "refs": [
+            "25c838bdab",
+            "adaff3c47f"
+          ]
+        },
+        {
+          "text": "Groups challenging the plan oppose turning the public site into a championship-level course.",
+          "refs": [
+            "f37c5442f9"
+          ]
+        },
+        {
+          "text": "Reyes said the administration would not be responsible for operating the course while the case continues, The New York Times reported.",
+          "refs": [
+            "d56d1828e8"
+          ]
+        },
+        {
+          "text": "In October, Reyes barred the government from removing or damaging more trees on the course and required advance notice of major changes.",
+          "refs": [
+            "us-w2",
+            "us-w3"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "5b0b6e789e",
+          "note": "Uses the \"Trash Island\" nickname and calls the ruling a blow to the president's plan."
+        },
+        {
+          "ref": "08a11325ce",
+          "note": "Places the ruling in a pattern of courts pushing back on Trump's redesign of the capital."
+        },
+        {
+          "ref": "f523ce8b70",
+          "note": "Plain account that Trump was stopped from shutting the park for his renovation."
+        },
+        {
+          "ref": "f37c5442f9",
+          "note": "Leads with the administration's thwarted Sunday closure date."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "25c838bdab",
+          "takeaway": "Wire story reprinted by ABC, NPR, The Hindu and the New York Post.",
+          "read_full": false
+        },
+        {
+          "ref": "5b0b6e789e",
+          "takeaway": "Frames the order as a setback for the president's renovation.",
+          "read_full": false
+        },
+        {
+          "ref": "adaff3c47f",
+          "takeaway": "Notes the closure cannot happen for at least two weeks.",
+          "read_full": false
+        },
+        {
+          "ref": "f37c5442f9",
+          "takeaway": "Headline and summary only (paywalled): the closure plan and the challengers' case.",
+          "read_full": false
+        },
+        {
+          "ref": "d56d1828e8",
+          "takeaway": "Headline and summary only (paywalled): detail on the judge's handling of the case.",
+          "read_full": false
+        },
+        {
+          "ref": "08a11325ce",
+          "takeaway": "Puts the ruling in the context of other court fights over Washington projects.",
+          "read_full": false
+        },
+        {
+          "ref": "f523ce8b70",
+          "takeaway": "Brief right-leaning account of the order; headline only in the bundle.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "new-orleans-tanker-cruise-collision",
+      "headline": "All aboard survive as tanker hits docked cruise ship in New Orleans; port sues",
+      "region": "",
+      "importance": 4,
+      "summary": "The tanker Atlantic Asphalt struck the docked river cruise ship American Heritage on the Mississippi River in New Orleans on Friday, partly submerging it. Officials said all 191 people aboard survived, the NTSB recovered the tanker's data recorder, and the port has sued to seize the tanker.",
+      "why_it_matters": "The crash raises safety questions about heavy commercial traffic next to passenger vessels on one of the country's busiest shipping rivers, and the lawsuit will shape who pays for the damage.",
+      "background": "The Mississippi River at New Orleans carries a steady stream of tankers, barges and cargo ships alongside tourist riverboats that dock near the city center. The American Heritage is a river cruise vessel, and the Atlantic Asphalt is a tanker. The National Transportation Safety Board investigates serious marine accidents and is leading the inquiry. Port officials quickly went to court to hold the tanker as security for damages.",
+      "facts": [
+        {
+          "text": "The tanker Atlantic Asphalt struck the docked cruise ship American Heritage on Friday, partly submerging the passenger boat.",
+          "refs": [
+            "686c9e2d1c",
+            "d1a673f3cc"
+          ]
+        },
+        {
+          "text": "Officials said about 100 people were pulled from the river.",
+          "refs": [
+            "686c9e2d1c"
+          ]
+        },
+        {
+          "text": "New Orleans leaders said all 191 people aboard the American Heritage survived.",
+          "refs": [
+            "f0ff775992",
+            "05424608e9"
+          ]
+        },
+        {
+          "text": "Dozens of people were hospitalized, the New York Post reported.",
+          "refs": [
+            "b9cab3bc13"
+          ]
+        },
+        {
+          "text": "The NTSB said it recovered the tanker's data recorder.",
+          "refs": [
+            "5b3da0875b"
+          ]
+        },
+        {
+          "text": "The port filed a $1 million lawsuit asking a court to seize the tanker and sell it to pay for damages.",
+          "refs": [
+            "cba5f678d1",
+            "7de166db0e",
+            "1c39de6545"
+          ]
+        },
+        {
+          "text": "The New York Post, citing a report, said officials had flagged the tanker several times for navigation system problems.",
+          "refs": [
+            "b9cab3bc13"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "57485b7134",
+          "note": "Leads with the mayor calling the lack of deaths \"divine intervention.\""
+        },
+        {
+          "ref": "b9cab3bc13",
+          "note": "Emphasizes the tanker's record of navigation problems."
+        },
+        {
+          "ref": "7de166db0e",
+          "note": "Leads with the port's legal move to take control of the tanker."
+        },
+        {
+          "ref": "686c9e2d1c",
+          "note": "Focuses on the rescues and the long salvage ahead."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "7de166db0e",
+          "takeaway": "Wire story on the port's lawsuit; headline only in the bundle.",
+          "read_full": false
+        },
+        {
+          "ref": "cba5f678d1",
+          "takeaway": "Details the $1 million suit and seizure request.",
+          "read_full": false
+        },
+        {
+          "ref": "686c9e2d1c",
+          "takeaway": "Rescue numbers and the coming salvage effort.",
+          "read_full": false
+        },
+        {
+          "ref": "57485b7134",
+          "takeaway": "Centers the mayor's reaction; headline only in the bundle.",
+          "read_full": false
+        },
+        {
+          "ref": "d1a673f3cc",
+          "takeaway": "Straight account of the collision and rescue.",
+          "read_full": false
+        },
+        {
+          "ref": "5b3da0875b",
+          "takeaway": "Reports the NTSB's recovery of the data recorder.",
+          "read_full": false
+        },
+        {
+          "ref": "b9cab3bc13",
+          "takeaway": "Adds the tanker's past navigation-system flags.",
+          "read_full": false
+        },
+        {
+          "ref": "f0ff775992",
+          "takeaway": "Gives the 191 survivor count and the \"miracle\" label from local leaders.",
+          "read_full": false
+        },
+        {
+          "ref": "05424608e9",
+          "takeaway": "Notes that all passengers and crew survived; headline only in the bundle.",
+          "read_full": false
+        },
+        {
+          "ref": "1c39de6545",
+          "takeaway": "Covers the lawsuit and seizure request; headline only in the bundle.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "alaska-democrat-governor",
+      "headline": "Democrat Jonathan Kreiss-Tomkins wins Alaska governor's race; voters keep ranked-choice system",
+      "region": "Elections",
+      "importance": 4,
+      "summary": "Democrat Jonathan Kreiss-Tomkins was projected the winner of Alaska's governor's race, the first Democrat elected to the office since 1998. Alaskans also rejected a second attempt to repeal their open primaries and ranked-choice voting, and Democrat Mary Peltola is on track to win the state's Senate race as counting continues.",
+      "why_it_matters": "The result adds to Democratic gains in the midterms, giving the party 30 governorships, and keeps in place the election system Alaskans will use in future races.",
+      "background": "Republican Gov. Mike Dunleavy was term-limited, and a crowded field ran to replace him under Alaska's top-four primary and ranked-choice general election, which voters adopted in 2020 and narrowly kept in 2024. President Trump endorsed Republican Bernadette Wilson, while the GOP field split and Republican Sen. Lisa Murkowski endorsed Kreiss-Tomkins. Kreiss-Tomkins, a former state legislator from Sitka, led the first-choice count after Election Day on Nov. 3. Alaska counts ballots slowly, and Wilson had said she expected to gain once ranked choices were tallied.",
+      "facts": [
+        {
+          "text": "Kreiss-Tomkins was projected the winner, the first Democrat elected Alaska governor since 1998.",
+          "refs": [
+            "24a2786079",
+            "a7c14d4c47",
+            "74340488d9"
+          ]
+        },
+        {
+          "text": "Kreiss-Tomkins led the first-choice count after Election Day with about 49% to Wilson's 29%.",
+          "refs": [
+            "us-w5"
+          ]
+        },
+        {
+          "text": "He campaigned on affordability and public school funding.",
+          "refs": [
+            "24a2786079"
+          ]
+        },
+        {
+          "text": "His win means Democrats will hold 30 governorships, including several they flipped this year such as Iowa, Georgia, Ohio and Texas.",
+          "refs": [
+            "74340488d9",
+            "5be441503d"
+          ]
+        },
+        {
+          "text": "Trump endorsed Republican Bernadette Wilson, and Republican infighting and ranked-choice voting complicated the GOP's path, Fox News reported.",
+          "refs": [
+            "3668bad9c2"
+          ]
+        },
+        {
+          "text": "Sen. Lisa Murkowski, a Republican, endorsed Kreiss-Tomkins in October.",
+          "refs": [
+            "us-w6"
+          ]
+        },
+        {
+          "text": "Alaska voters rejected a ballot measure to repeal open primaries and ranked-choice voting, the second failed repeal in two years.",
+          "refs": [
+            "8618b5d514",
+            "6722fc2091",
+            "d6e773fd4b"
+          ]
+        },
+        {
+          "text": "NBC News's Decision Desk said Democrat Mary Peltola is likely to win the Senate race, and the Washington Times reported she declared victory.",
+          "refs": [
+            "c318a41698",
+            "75890b96e1"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "3668bad9c2",
+          "note": "Credits the Democratic win to Republican infighting despite Trump's endorsement."
+        },
+        {
+          "ref": "4e8e1d31eb",
+          "note": "Calls it part of a historic Democratic midterm wave."
+        },
+        {
+          "ref": "76f29c043e",
+          "note": "Stresses the flip after more than two decades of Republican governors."
+        },
+        {
+          "ref": "a7c14d4c47",
+          "note": "Cautious wording that attributes the result to media projections."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "24a2786079",
+          "takeaway": "Profile of the winner and his campaign themes.",
+          "read_full": false
+        },
+        {
+          "ref": "a7c14d4c47",
+          "takeaway": "Wire report relying on media projections; headline only in the bundle.",
+          "read_full": false
+        },
+        {
+          "ref": "74340488d9",
+          "takeaway": "Places the win in the national governors' tally.",
+          "read_full": false
+        },
+        {
+          "ref": "5be441503d",
+          "takeaway": "Frames it as part of a Democratic midterm sweep.",
+          "read_full": false
+        },
+        {
+          "ref": "3668bad9c2",
+          "takeaway": "Focuses on GOP divisions and ranked-choice voting.",
+          "read_full": false
+        },
+        {
+          "ref": "76f29c043e",
+          "takeaway": "Emphasizes the historic flip.",
+          "read_full": false
+        },
+        {
+          "ref": "4e8e1d31eb",
+          "takeaway": "Right-leaning outlet calls the Democratic wave historic; headline only in the bundle.",
+          "read_full": false
+        },
+        {
+          "ref": "8618b5d514",
+          "takeaway": "Reports the projection that ranked-choice voting stays.",
+          "read_full": false
+        },
+        {
+          "ref": "6722fc2091",
+          "takeaway": "Explains the history of the repeal efforts.",
+          "read_full": false
+        },
+        {
+          "ref": "d6e773fd4b",
+          "takeaway": "Wire account of the failed repeal measure.",
+          "read_full": false
+        },
+        {
+          "ref": "c318a41698",
+          "takeaway": "Decision Desk analysis of the Senate count.",
+          "read_full": false
+        },
+        {
+          "ref": "75890b96e1",
+          "takeaway": "Reports Peltola's victory claim; headline only in the bundle.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "schumer-van-hollen-leadership-race",
+      "headline": "Van Hollen challenges Schumer for Senate Democratic leader as Fetterman warns he may reconsider party role",
+      "region": "Congress",
+      "importance": 3,
+      "summary": "Sen. Chris Van Hollen of Maryland said he will challenge Chuck Schumer to lead Senate Democrats, who won back the majority in this month's midterms. Schumer's allies said they are confident he will keep the job, and Sen. John Fetterman said he might rethink his place in the party if Van Hollen wins.",
+      "why_it_matters": "Whoever leads the new Democratic Senate majority will decide which bills get votes over the next two years, from health care to oversight of the Trump administration.",
+      "background": "Chuck Schumer of New York, 75, has led Senate Democrats since 2017. Discontent in the caucus grew over how he handled fights with President Trump, and Democrats agreed in late 2025 to put off a leadership debate until after the midterms. Van Hollen, 67, has broken with party leaders before, including backing insurgent candidates in Democratic primaries. The leader is chosen by a secret-ballot vote of the Democratic caucus.",
+      "facts": [
+        {
+          "text": "Van Hollen announced on Thursday that he would challenge Schumer for Democratic leader.",
+          "refs": [
+            "7f963b7062",
+            "e52bde7bce"
+          ]
+        },
+        {
+          "text": "Van Hollen said he decided to run to close a \"trust deficit\" between voters and Washington leaders.",
+          "refs": [
+            "8f1756bffc"
+          ]
+        },
+        {
+          "text": "Schumer's allies said they are confident he has the votes.",
+          "refs": [
+            "8f1756bffc"
+          ]
+        },
+        {
+          "text": "Fetterman suggested he might reevaluate his role in the Democratic Party if Van Hollen were elected leader, citing Van Hollen's criticism of Israel.",
+          "refs": [
+            "abb0aa0cd4",
+            "f61bc78991"
+          ]
+        },
+        {
+          "text": "Democrats agreed in December 2025 to delay their leadership debate until after the midterms.",
+          "refs": [
+            "us-w8"
+          ]
+        },
+        {
+          "text": "In June, Van Hollen endorsed Abdul El-Sayed in Michigan's Senate primary, breaking with party leadership.",
+          "refs": [
+            "us-w9"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "f61bc78991",
+          "note": "Leads with Fetterman's threat to leave the party."
+        },
+        {
+          "ref": "8f1756bffc",
+          "note": "Gives Schumer's allies' view that the challenge is about ending the filibuster."
+        },
+        {
+          "ref": "7f963b7062",
+          "note": "Frames the race through what it means for \"Medicare for all.\""
+        },
+        {
+          "ref": "e52bde7bce",
+          "note": "Asks whether Van Hollen has the votes, treating it as a vote count."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "e52bde7bce",
+          "takeaway": "Broadcast report on the early state of the race.",
+          "read_full": false
+        },
+        {
+          "ref": "8f1756bffc",
+          "takeaway": "Quotes Van Hollen's reason for running and Schumer allies' confidence.",
+          "read_full": false
+        },
+        {
+          "ref": "abb0aa0cd4",
+          "takeaway": "Headline and summary only (paywalled): Fetterman's warning over Israel.",
+          "read_full": false
+        },
+        {
+          "ref": "f61bc78991",
+          "takeaway": "Right-leaning take on Fetterman possibly leaving the party; headline only in the bundle.",
+          "read_full": false
+        },
+        {
+          "ref": "7f963b7062",
+          "takeaway": "Policy angle on health care under each candidate.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "lutnick-bessent-nvidia-chips",
+      "headline": "Lutnick to testify as Bessent blames him over Nvidia chips reaching China",
+      "region": "White House",
+      "importance": 3,
+      "summary": "Treasury Secretary Scott Bessent has blamed Commerce Secretary Howard Lutnick for letting Megaspeed, a firm accused of funneling Nvidia chips to China, get around U.S. export limits, CBS News reported. Lutnick agreed to testify before the Senate Banking Committee on Dec. 10, and Democratic Sen. Richard Blumenthal called for him to resign.",
+      "why_it_matters": "The dispute is over whether the government kept America's most advanced AI chips away from China, a national security issue that could also hit tech stocks in many retirement accounts. Coverage so far comes mainly from left-leaning and center outlets.",
+      "background": "The U.S. restricts sales of top-end AI chips to China, and the Commerce Department enforces those rules, including by putting companies on an export blacklist called the Entity List. Megaspeed, a Singapore-based Nvidia customer once led by a woman reports describe as an alleged Chinese spy, has been suspected of passing chips to China. Nvidia chief executive Jensen Huang resigned this week amid the scandal. Bessent and Lutnick are both senior members of President Trump's cabinet.",
+      "facts": [
+        {
+          "text": "Bessent is blaming Lutnick for allowing Megaspeed to get around U.S. restrictions and send Nvidia chips to China, CBS News reported.",
+          "refs": [
+            "24fd5ab92f",
+            "c10b42a67e"
+          ]
+        },
+        {
+          "text": "Megaspeed denies wrongdoing, and China denies the allegations.",
+          "refs": [
+            "24fd5ab92f"
+          ]
+        },
+        {
+          "text": "Lutnick has agreed to testify before the Senate Banking Committee on Dec. 10, according to a U.S. official.",
+          "refs": [
+            "8a62a997c4"
+          ]
+        },
+        {
+          "text": "Nvidia CEO Jensen Huang stepped down this week.",
+          "refs": [
+            "fd50659ffb",
+            "c10b42a67e"
+          ]
+        },
+        {
+          "text": "Blumenthal said Lutnick \"must go\" over reports that he shielded Nvidia from federal oversight.",
+          "refs": [
+            "fd50659ffb"
+          ]
+        },
+        {
+          "text": "The New York Times reported that Lutnick pushed to weaken chip rules that overlap with his family's business.",
+          "refs": [
+            "768d7342d5"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "c10b42a67e",
+          "note": "Presents it as a public fight between two top Trump advisers."
+        },
+        {
+          "ref": "fd50659ffb",
+          "note": "Leads with a Democratic call for Lutnick's resignation."
+        },
+        {
+          "ref": "b629ea02ea",
+          "note": "Focuses on Lutnick's ties to Nvidia's CEO while controls slipped."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "24fd5ab92f",
+          "takeaway": "CBS's own reporting on Bessent's complaint about Lutnick.",
+          "read_full": false
+        },
+        {
+          "ref": "8a62a997c4",
+          "takeaway": "Reports the Dec. 10 testimony agreement.",
+          "read_full": false
+        },
+        {
+          "ref": "c10b42a67e",
+          "takeaway": "Broadcast segment on the cabinet clash and Huang's fall.",
+          "read_full": false
+        },
+        {
+          "ref": "fd50659ffb",
+          "takeaway": "Covers Blumenthal's resignation call.",
+          "read_full": false
+        },
+        {
+          "ref": "b629ea02ea",
+          "takeaway": "Examines Lutnick's relationship with Huang; headline only in the bundle.",
+          "read_full": false
+        },
+        {
+          "ref": "768d7342d5",
+          "takeaway": "Headline only (paywalled): reports a family-business conflict.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "medicaid-work-requirement-delay",
+      "headline": "Administration gives states until July to drop Medicaid enrollees over work rules",
+      "region": "White House",
+      "importance": 4,
+      "summary": "The Trump administration said states will not have to remove anyone from Medicaid or deny coverage for failing to meet new work requirements until July 1, six months after the planned Jan. 1 start. States can still begin enforcing the rules at the start of the year if they choose.",
+      "why_it_matters": "Low-income adults on Medicaid in many states get more time before they must prove they work or risk losing health coverage, though states that move early can still apply the rules in January. The delay was reported mainly by left-leaning and center outlets.",
+      "background": "The 2025 budget law signed by President Trump requires most able-bodied adults covered through Medicaid expansion to show they work, study or volunteer about 80 hours a month. The Centers for Medicare & Medicaid Services issued rules in June 2026 setting out how states must apply the requirement and who is exempt. States had to start by Jan. 1, 2027, and several said they needed more time to build the systems to check eligibility.",
+      "facts": [
+        {
+          "text": "The federal government had planned to require poor adults to prove they were working or lose coverage starting Jan. 1.",
+          "refs": [
+            "c3fa93e6e7"
+          ]
+        },
+        {
+          "text": "States now will not have to remove anyone or deny coverage for failing the requirement until July 1.",
+          "refs": [
+            "90778d6374",
+            "5d1bc3587d"
+          ]
+        },
+        {
+          "text": "States still have the option to begin enforcing the requirement at the start of the year.",
+          "refs": [
+            "5d1bc3587d"
+          ]
+        },
+        {
+          "text": "CMS issued rules in June 2026 defining how states must carry out the requirement and who is exempt.",
+          "refs": [
+            "us-w4"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "c3fa93e6e7",
+          "note": "Frames it as the administration delaying enforcement."
+        },
+        {
+          "ref": "90778d6374",
+          "note": "Emphasizes the extra time before people are removed from the rolls."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "c3fa93e6e7",
+          "takeaway": "Headline and summary only (paywalled): the shift from January to July.",
+          "read_full": false
+        },
+        {
+          "ref": "90778d6374",
+          "takeaway": "Wire story on the six-month grace period.",
+          "read_full": false
+        },
+        {
+          "ref": "5d1bc3587d",
+          "takeaway": "Wire reprint that adds that states may still act in January.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "us-w1",
+      "url": "https://www.fox4news.com/news/dfw-airport-love-field-disruption-caused-multiple-failures-telecommunications-equipment",
+      "title": "DFW Airport, Love Field disruption caused by 'multiple failures' of telecommunications equipment",
+      "outlet": "FOX 4 Dallas-Fort Worth"
+    },
+    {
+      "id": "us-w2",
+      "url": "https://www.fox5dc.com/news/judge-extends-court-ordered-block-trump-renovation-plans-dcs-east-potomac-golf-course",
+      "title": "Judge extends court-ordered block on Trump renovation plans for DC's East Potomac Golf Course",
+      "outlet": "FOX 5 DC"
+    },
+    {
+      "id": "us-w3",
+      "url": "https://www.wbtv.com/2026/10/14/federal-judge-orders-trump-administration-halt-work-historic-dc-golf-course-until-oct-26/",
+      "title": "Federal judge orders Trump administration to halt work on historic DC golf course until Oct. 26",
+      "outlet": "WBTV"
+    },
+    {
+      "id": "us-w4",
+      "url": "https://kffhealthnews.org/republish/medicaid/medicaid-work-requirements-final-rules-exemptions-trump-cms/",
+      "title": "Final rules for Medicaid work requirements are out",
+      "outlet": "KFF Health News"
+    },
+    {
+      "id": "us-w5",
+      "url": "https://alaskapublic.org/news/politics/elections/2026-11-05/democrat-jonathan-kreiss-tomkins-reflects-on-lead-in-alaska-governors-race",
+      "title": "Democrat Jonathan Kreiss-Tomkins reflects on lead in Alaska governor's race",
+      "outlet": "Alaska Public Media"
+    },
+    {
+      "id": "us-w6",
+      "url": "https://www.alaskasnewssource.com/2026/10/27/sen-murkowski-endorses-democrat-jkt-alaskas-governors-race/",
+      "title": "Sen. Murkowski endorses Democrat JKT in Alaska's governor's race",
+      "outlet": "Alaska's News Source"
+    },
+    {
+      "id": "us-w8",
+      "url": "https://www.semafor.com/article/12/04/2025/schumers-democrats-put-off-their-leadership-debate-until-after-the-midterms",
+      "title": "Schumer's Democrats put off their leadership debate until after the midterms",
+      "outlet": "Semafor"
+    },
+    {
+      "id": "us-w9",
+      "url": "https://www.local10.com/news/politics/2026/06/25/ap-exclusive-sen-van-hollen-backs-el-sayed-for-michigan-senate-in-break-from-democratic-leadership/",
+      "title": "AP Exclusive: Sen. Van Hollen backs El-Sayed for Michigan Senate in break from Democratic leadership",
+      "outlet": "Associated Press"
+    }
+  ]
+}

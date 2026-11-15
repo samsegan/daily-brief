@@ -1,0 +1,855 @@
+{
+  "stories": [
+    {
+      "id": "iran-bahrain-strikes-resume",
+      "headline": "Iran says it attacked a US base in Bahrain again; Bahrain says it intercepted the strikes",
+      "region": "Middle East",
+      "importance": 5,
+      "summary": "Iran's Revolutionary Guard said it attacked a US military base in Bahrain, calling it retaliation for 'hostile U.S. actions', and Bahrain said its air defenses intercepted the incoming drones and missiles. Bahrain issued its first threat alerts since September. Iran also repeated that a path to a deal ending its conflict with the US remains open, Bloomberg reported.",
+      "why_it_matters": "New strikes in the Gulf put US troops at risk and can push up fuel prices, which had only recently started to ease. In the day's feed the story was covered by center and left-leaning outlets; no right-leaning outlet carried it.",
+      "background": "The United States and Israel have been at war with Iran since early 2026, and Iran has repeatedly fired drones and missiles at US bases in Gulf states. Bahrain sits across the Gulf from Iran and hosts the US Navy's Fifth Fleet. After weeks of relative quiet, the US carried out limited strikes on Iran's Qeshm island in recent weeks, and Iran says its new attacks are a response. Iran-aligned Houthi forces in Yemen have also been firing at Saudi Arabia.",
+      "facts": [
+        {
+          "text": "Iran's Revolutionary Guard Corps said it attacked a US military base in Bahrain, in retaliation for what it called 'hostile U.S. actions'.",
+          "refs": [
+            "c648353fee",
+            "c0f47b890e",
+            "4592e80846"
+          ]
+        },
+        {
+          "text": "The Guard said the target was a US radar system at the base.",
+          "refs": [
+            "3504e5ea48"
+          ]
+        },
+        {
+          "text": "Bahrain said it intercepted the Iranian aerial attacks and destroyed incoming drones, and accused Tehran of a 'systematic hostile approach'.",
+          "refs": [
+            "c648353fee",
+            "07e70a9fe1",
+            "2aa47290c4"
+          ]
+        },
+        {
+          "text": "Bahrain issued its first threat alerts since September.",
+          "refs": [
+            "c0f47b890e",
+            "9be2178f6b"
+          ]
+        },
+        {
+          "text": "Iran said a path to ending the conflict with the US remains open, Bloomberg reported.",
+          "refs": [
+            "4809d9a5df"
+          ]
+        },
+        {
+          "text": "The attacks follow minor US strikes on Iran's Qeshm island in recent weeks, CBS News reported.",
+          "refs": [
+            "f83a676d74"
+          ]
+        },
+        {
+          "text": "The Wall Street Journal reported a 'low confidence' US estimate that Iran still has 1,500 to 2,500 missiles.",
+          "refs": [
+            "12b449161b"
+          ]
+        },
+        {
+          "text": "Separately, the Saudi-led coalition said it intercepted missiles fired toward Riyadh by the Houthis and drones aimed at the oil-rich Eastern Province.",
+          "refs": [
+            "b3d754cd1d",
+            "824509da3a",
+            "8dfe5c5007"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether this was Iran's first strike on Bahrain in weeks",
+          "positions": [
+            {
+              "claim": "It was the first direct strike on Bahrain since early September, per Bloomberg.",
+              "refs": [
+                "4809d9a5df",
+                "163af9645a"
+              ]
+            },
+            {
+              "claim": "It was Iran's second attack on Bahrain in three days, per France 24 and the Washington Post.",
+              "refs": [
+                "4592e80846",
+                "045fd05263"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "4809d9a5df",
+          "note": "Pairs the strike with Iran's message that a deal is still possible."
+        },
+        {
+          "ref": "07e70a9fe1",
+          "note": "Stresses 'again' and calls Bahrain a US ally, emphasizing escalation."
+        },
+        {
+          "ref": "045fd05263",
+          "note": "Notes 'months of quiet' and puts Iran's retaliation claim in the headline."
+        },
+        {
+          "ref": "f83a676d74",
+          "note": "Leads with Bahrain's interceptions and says Tehran is targeting US assets."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "c648353fee",
+          "takeaway": "Headline only (Reuters): Bahrain's interceptions alongside Iran's claim.",
+          "read_full": false
+        },
+        {
+          "ref": "c0f47b890e",
+          "takeaway": "Summary only: first alerts since September and the IRGC's retaliation wording.",
+          "read_full": false
+        },
+        {
+          "ref": "4592e80846",
+          "takeaway": "Summary only: Iran confirms the attack; Bahrain's foreign ministry says it shot it down.",
+          "read_full": false
+        },
+        {
+          "ref": "4809d9a5df",
+          "takeaway": "Headline and summary only (paywalled): strike plus Iran saying a deal is still open.",
+          "read_full": false
+        },
+        {
+          "ref": "07e70a9fe1",
+          "takeaway": "Headline and summary only (paywalled): Bahrain says it destroyed incoming drones.",
+          "read_full": false
+        },
+        {
+          "ref": "12b449161b",
+          "takeaway": "Summary of a live blog: Fifth Fleet context and US estimates of Iran's missile stock.",
+          "read_full": false
+        },
+        {
+          "ref": "f83a676d74",
+          "takeaway": "Summary only: links the attacks to recent US strikes on Qeshm island.",
+          "read_full": false
+        },
+        {
+          "ref": "b3d754cd1d",
+          "takeaway": "Headline only (Reuters): Houthi missiles toward Riyadh intercepted.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "hamas-rafah-commander-killed",
+      "headline": "Israel kills Hamas's Rafah Brigade commander in Gaza strike",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "An Israeli strike in Gaza overnight killed Samir Abu Younis, commander of Hamas's Rafah Brigade, and both the Israeli military and Hamas confirmed his death. Hamas said his funeral would be held Sunday afternoon in Khan Younis. He was killed two months after his predecessor, the Times of Israel reported.",
+      "why_it_matters": "Continued Israeli strikes on Hamas leaders, and the casualties around them, show how fragile the situation in Gaza remains and how far it is from a settled end to the war.",
+      "background": "Hamas's armed wing is organized into regional brigades, and Rafah, in southern Gaza on the border with Egypt, is one of its main commands. Israel has kept up strikes on Hamas commanders in Gaza, killing the Rafah Brigade's previous commander about two months ago. The strikes have drawn criticism from Arab governments, including the United Arab Emirates. Hamas led the Oct. 7, 2023, attack on Israel that started the war.",
+      "facts": [
+        {
+          "text": "The Israeli military said it struck a senior commander in Hamas's military wing in Gaza.",
+          "refs": [
+            "9571e5aea0",
+            "e25c307b81"
+          ]
+        },
+        {
+          "text": "Hamas and Israeli officials both confirmed the death of Samir Abu Younis, commander of the Rafah Brigade.",
+          "refs": [
+            "96e3b3873f",
+            "6e3e50f0be",
+            "83278be023"
+          ]
+        },
+        {
+          "text": "The BBC reported that the strike hit a camp in Gaza.",
+          "refs": [
+            "96e3b3873f"
+          ]
+        },
+        {
+          "text": "Hamas said his funeral would be held Sunday afternoon in Khan Younis in southern Gaza.",
+          "refs": [
+            "e25c307b81"
+          ]
+        },
+        {
+          "text": "He was killed two months after his predecessor as Rafah Brigade chief, the Times of Israel reported.",
+          "refs": [
+            "d049b7d9ca"
+          ]
+        },
+        {
+          "text": "An Israeli drone strike killed two Palestinians in Gaza, AP reported.",
+          "refs": [
+            "144c4b2ec3"
+          ]
+        },
+        {
+          "text": "The UAE condemned an Israeli strike on a Gaza hospital that targeted a senior Hamas commander, the Times of Israel reported.",
+          "refs": [
+            "0e40a940cb"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "2bf14e052a",
+          "note": "Identifies him as a commander who oversaw the Oct. 7 attacks."
+        },
+        {
+          "ref": "96e3b3873f",
+          "note": "Attributes the death to officials on both sides and mentions a camp as the target."
+        },
+        {
+          "ref": "9571e5aea0",
+          "note": "Uses the IDF's own wording, 'senior terrorist'."
+        },
+        {
+          "ref": "144c4b2ec3",
+          "note": "Folds the strike into a roundup led by Palestinian deaths."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "96e3b3873f",
+          "takeaway": "Summary only: both Hamas and IDF confirm the death.",
+          "read_full": false
+        },
+        {
+          "ref": "e25c307b81",
+          "takeaway": "Summary only (Reuters wire): Hamas confirms and gives funeral details.",
+          "read_full": false
+        },
+        {
+          "ref": "d049b7d9ca",
+          "takeaway": "Headline only: notes the short gap since his predecessor was killed.",
+          "read_full": false
+        },
+        {
+          "ref": "2bf14e052a",
+          "takeaway": "Headline only (paywalled): ties him to the Oct. 7 attacks.",
+          "read_full": false
+        },
+        {
+          "ref": "0e40a940cb",
+          "takeaway": "Headline only: UAE condemnation of a hospital strike.",
+          "read_full": false
+        },
+        {
+          "ref": "144c4b2ec3",
+          "takeaway": "Headline only (AP roundup): two Palestinians killed in a drone strike.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "italy-meta-photo-fine",
+      "headline": "Italy fines Meta €805 million over Facebook's access to Android users' photos",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Italy's data protection authority fined Meta €805 million (about $887 million), saying the Facebook app for Android accessed users' photos and videos without their specific consent. Regulators said a gallery-suggestions feature was switched on by default. Meta said it will appeal and called the fine disproportionate.",
+      "why_it_matters": "The case tests how far apps can reach into the photos stored on people's phones, and a ruling that stands could push Meta to change default settings for users beyond Italy.",
+      "background": "Under the EU's General Data Protection Regulation, companies need a clear legal basis, often specific consent, to process personal data, and national regulators can fine up to 4% of global turnover. Italy's regulator, the Garante, is one of the most active in Europe. Meta has been fined repeatedly by European authorities, including a record €1.2 billion penalty from Ireland in 2023 over data transfers. This case concerns a Facebook feature that offered suggestions drawn from the photo gallery on Android phones.",
+      "facts": [
+        {
+          "text": "Italy's data protection authority fined Meta €805 million, about $887 million.",
+          "refs": [
+            "359fb45025",
+            "14067789ff",
+            "6bd27b41dd",
+            "d08ce7fa1b"
+          ]
+        },
+        {
+          "text": "The regulator said Meta accessed users' photos without their 'specific' consent.",
+          "refs": [
+            "a52cfe54a2",
+            "d08ce7fa1b"
+          ]
+        },
+        {
+          "text": "Meta is accused of not informing 20 million users that it had access to their photos.",
+          "refs": [
+            "359fb45025"
+          ]
+        },
+        {
+          "text": "Regulators said the access came through the Facebook app on Android devices.",
+          "refs": [
+            "14067789ff",
+            "0fec872ba1"
+          ]
+        },
+        {
+          "text": "Investigators found that a 'get suggestions from gallery when browsing' feature was enabled by default.",
+          "refs": [
+            "d08ce7fa1b"
+          ]
+        },
+        {
+          "text": "Meta said it would appeal and called the fine 'disproportionate'.",
+          "refs": [
+            "14067789ff"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "14067789ff",
+          "note": "'Slaps' Meta with the fine, a sharper verb than others use."
+        },
+        {
+          "ref": "359fb45025",
+          "note": "Puts the focus on users' photos being accessed."
+        },
+        {
+          "ref": "6bd27b41dd",
+          "note": "Frames it more abstractly as 'data access'."
+        },
+        {
+          "ref": "d08ce7fa1b",
+          "note": "Highlights the lack of 'specific consent'."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "359fb45025",
+          "takeaway": "Summary only: 20 million users not told of photo access.",
+          "read_full": false
+        },
+        {
+          "ref": "14067789ff",
+          "takeaway": "Summary only: Android app detail and Meta's plan to appeal.",
+          "read_full": false
+        },
+        {
+          "ref": "d08ce7fa1b",
+          "takeaway": "Summary only: default-on gallery feature and consent finding.",
+          "read_full": false
+        },
+        {
+          "ref": "a52cfe54a2",
+          "takeaway": "Summary only: the regulator's 'specific' consent wording.",
+          "read_full": false
+        },
+        {
+          "ref": "6bd27b41dd",
+          "takeaway": "Headline only (Reuters): dollar figure of the fine.",
+          "read_full": false
+        },
+        {
+          "ref": "0fec872ba1",
+          "takeaway": "Headline only (paywalled): photos and videos from Android galleries.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "congo-ebola-six-months",
+      "headline": "Congo's Ebola outbreak passes 11,000 cases and remains out of control six months on",
+      "region": "Africa",
+      "importance": 4,
+      "summary": "Six months after it was declared, Congo's Ebola outbreak remains out of control, with more than 11,000 cases recorded and nearly half of them fatal, AP reported. Government data cited by NPR and Al Jazeera put the toll at 11,042 cases and 5,387 deaths. The outbreak is on track to surpass the death toll of the 2014-2016 West African epidemic.",
+      "why_it_matters": "The outbreak is caused by a strain with no approved vaccine or treatment, and the longer it spreads the greater the risk to neighboring countries and travelers. Coverage in the day's feed came almost entirely from the AP wire; no right-leaning outlet carried it.",
+      "background": "Ebola is a viral disease spread by contact with bodily fluids that often kills a large share of those infected. Congo has had 17 outbreaks, and this one, declared in May, is the deadliest in its history. It is caused by the rarer Bundibugyo strain, for which the vaccines used in earlier outbreaks were not designed. Armed conflict in eastern provinces such as Ituri and North Kivu has made tracing and treating cases harder. The 2014-2016 West African epidemic killed about 11,000 people.",
+      "facts": [
+        {
+          "text": "Congo's Ebola outbreak remains out of control six months after it was announced, with more than 11,000 cases recorded and nearly half proving fatal, AP reported.",
+          "refs": [
+            "29fe13ceeb",
+            "d97f620838"
+          ]
+        },
+        {
+          "text": "Government data dated Nov. 9 counted 11,042 cases and 5,387 deaths.",
+          "refs": [
+            "world-w1",
+            "world-w2"
+          ]
+        },
+        {
+          "text": "It is the deadliest of Congo's 17 Ebola outbreaks and is on track to surpass the roughly 11,000 deaths of the 2014-2016 West African outbreak.",
+          "refs": [
+            "ebfc12f581"
+          ]
+        },
+        {
+          "text": "The outbreak is caused by the Bundibugyo strain, which has no approved vaccine or treatment, NPR reported.",
+          "refs": [
+            "world-w1"
+          ]
+        },
+        {
+          "text": "Ituri province accounts for about seven in ten infections, and the outbreak has reached eight provinces, NPR reported.",
+          "refs": [
+            "world-w1"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "29fe13ceeb",
+          "note": "AP's headline stresses that the response has failed to bring it under control."
+        },
+        {
+          "ref": "ebfc12f581",
+          "note": "Same AP story, with a summary that puts the West African comparison up front."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "29fe13ceeb",
+          "takeaway": "Summary only (AP wire): case count and fatality rate six months in.",
+          "read_full": false
+        },
+        {
+          "ref": "ebfc12f581",
+          "takeaway": "Summary only (AP wire): deadliest of Congo's outbreaks, West Africa comparison.",
+          "read_full": false
+        },
+        {
+          "ref": "d97f620838",
+          "takeaway": "Headline only: AP's original.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w1",
+          "takeaway": "Search summary only: government totals, strain, and provinces affected.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w2",
+          "takeaway": "Search summary only: confirms the 11,042 cases and 5,387 deaths.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "australia-philippines-defense-pact",
+      "headline": "Australia and the Philippines sign a defense pact as ASEAN leaders meet in Manila",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "Australia and the Philippines signed a defense agreement on Sunday to expand military cooperation, as both US allies face a more assertive China. The pact covers military infrastructure, maritime awareness and information sharing. It came as Southeast Asian leaders opened their annual summit in Manila, with President Trump due to join the final talks.",
+      "why_it_matters": "The South China Sea carries a large share of world trade, and closer military ties among US allies there raise the stakes of any clash with China over disputed waters.",
+      "background": "The Philippines and China have clashed repeatedly over reefs and shoals in the South China Sea, which Beijing claims almost entirely. Manila has sought closer defense ties with the US, Japan and Australia in response. In August 2025 the Australian and Philippine defense ministers agreed to work toward a new defense cooperation agreement, timed for 2026, when the Philippines chairs the Association of Southeast Asian Nations. ASEAN and China are also negotiating a code of conduct for the sea.",
+      "facts": [
+        {
+          "text": "Australia and the Philippines signed a new defense pact on Sunday.",
+          "refs": [
+            "1ad27f367e",
+            "1415161deb",
+            "febdb40872"
+          ]
+        },
+        {
+          "text": "The deal will enhance military infrastructure development, maritime awareness and information sharing.",
+          "refs": [
+            "febdb40872"
+          ]
+        },
+        {
+          "text": "Reuters reported that the rift between the Philippines and China over the South China Sea is deepening.",
+          "refs": [
+            "3537141ed4"
+          ]
+        },
+        {
+          "text": "Southeast Asian leaders opened their annual summit in Manila on Sunday for three days of talks, with Trump set to join the final sessions.",
+          "refs": [
+            "dc785f3a91",
+            "c715ddcc80",
+            "87d75b8efa"
+          ]
+        },
+        {
+          "text": "Manila said roughly 80% of a draft South China Sea code of conduct with China is complete.",
+          "refs": [
+            "c63a2ebb42"
+          ]
+        },
+        {
+          "text": "The two countries signed a statement of intent in August 2025 to pursue the agreement.",
+          "refs": [
+            "world-w3"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "1ad27f367e",
+          "note": "Puts China in the headline as the focus of the upgrade."
+        },
+        {
+          "ref": "1415161deb",
+          "note": "Says the pact was signed 'with eye on China'."
+        },
+        {
+          "ref": "c715ddcc80",
+          "note": "ASEAN summit headline centers global conflicts, not China."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "1ad27f367e",
+          "takeaway": "Headline and summary only (paywalled): pact framed around China.",
+          "read_full": false
+        },
+        {
+          "ref": "febdb40872",
+          "takeaway": "Summary only: what the deal covers.",
+          "read_full": false
+        },
+        {
+          "ref": "1415161deb",
+          "takeaway": "Headline only (Reuters).",
+          "read_full": false
+        },
+        {
+          "ref": "3537141ed4",
+          "takeaway": "Headline only (Reuters): deepening Philippines-China rift.",
+          "read_full": false
+        },
+        {
+          "ref": "c715ddcc80",
+          "takeaway": "Summary only (AP wire): summit opens in Manila.",
+          "read_full": false
+        },
+        {
+          "ref": "c63a2ebb42",
+          "takeaway": "Summary only (paywalled): code-of-conduct progress.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w3",
+          "takeaway": "Search summary only: the 2025 statement of intent.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "hungary-buried-cash-orban-probe",
+      "headline": "Hungary seizes millions in buried cash in probe of Orbán-era officials",
+      "region": "Europe",
+      "importance": 3,
+      "summary": "Hungarian investigators found and seized more than 6 billion forints, nearly $20 million, in cash that had been buried in forests or hidden in buildings, Prime Minister Péter Magyar said. The money was found in an investigation into a former minister accused of taking bribes. The seizures are part of the new government's push to recover assets from the Viktor Orbán era.",
+      "why_it_matters": "How Hungary handles these cases will show whether an EU country can hold a long-serving government's officials to account through the courts, and could affect EU funds that were frozen over corruption concerns.",
+      "background": "Viktor Orbán governed Hungary from 2010 until this year, and critics and EU bodies long accused his government of steering public money to allies. Péter Magyar, a former Orbán insider, won power at the head of the Tisza party and promised to recover misused funds. His government set up a National Asset Recovery and Protection Office, and two former Orbán ministers have been taken into custody in corruption cases.",
+      "facts": [
+        {
+          "text": "Magyar said the National Asset Recovery and Protection Office found and seized more than 6 billion forints in buried or concealed cash over two days.",
+          "refs": [
+            "0b1ec0ed52"
+          ]
+        },
+        {
+          "text": "The amount is nearly $20 million.",
+          "refs": [
+            "e5bd607674"
+          ]
+        },
+        {
+          "text": "Investigators found bundles of banknotes buried in forests and hidden in buildings, in a probe into a former minister accused of accepting millions in bribes.",
+          "refs": [
+            "20a3bb8193",
+            "e5bd607674"
+          ]
+        },
+        {
+          "text": "Two former Orbán ministers are in custody in corruption cases, EUobserver reported.",
+          "refs": [
+            "world-w4"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "20a3bb8193",
+          "note": "Names Orbán in the headline, calling it an 'Orban graft probe'."
+        },
+        {
+          "ref": "e5bd607674",
+          "note": "Focuses on the dollar sum and a single former minister, without naming Orbán."
+        },
+        {
+          "ref": "0b1ec0ed52",
+          "note": "Speaks of 'former Orban officials', plural."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "20a3bb8193",
+          "takeaway": "Summary only: hiding places and the bribery case.",
+          "read_full": false
+        },
+        {
+          "ref": "0b1ec0ed52",
+          "takeaway": "Summary only: quotes Magyar on the amount seized.",
+          "read_full": false
+        },
+        {
+          "ref": "e5bd607674",
+          "takeaway": "Headline only: nearly $20 million recovered.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w4",
+          "takeaway": "Search summary only: wider context of arrests under the new government.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "jordan-church-attack-death-sentences",
+      "headline": "Jordan sentences three men to death over church funeral attack",
+      "region": "Middle East",
+      "importance": 3,
+      "summary": "A Jordanian court on Sunday sentenced three gunmen to death for an Oct. 23 attack on a funeral at a Greek Orthodox church in the village of Hammoud that killed nine people. The attack had prompted Jordanian strikes on what it called terrorist organizations in neighboring Syria.",
+      "why_it_matters": "The verdict comes quickly after an attack on Christians in a country seen as one of the more stable in the region, and Jordan's response has already spilled into Syria.",
+      "background": "Jordan is a close US ally with a small Christian minority that has largely lived in peace. On Oct. 23, gunmen opened fire on a funeral procession at a church in Hammoud, in Karak governorate south of Amman. Jordan answered with strikes on armed groups in Syria and moved to tighten its anti-terrorism laws. Prosecutors charged three men with terrorism offenses in early November.",
+      "facts": [
+        {
+          "text": "A Jordanian court on Sunday sentenced three men to death over the attack.",
+          "refs": [
+            "cf4a7f9609",
+            "2e5497e1fe",
+            "0eccde4f8c"
+          ]
+        },
+        {
+          "text": "Gunmen killed nine people when they stormed a funeral at a Greek Orthodox church in Hammoud, in Karak governorate, on Oct. 23.",
+          "refs": [
+            "2e5497e1fe",
+            "cedd4c64ea"
+          ]
+        },
+        {
+          "text": "The attack prompted retaliatory strikes on 'terrorist organisations' in Syria.",
+          "refs": [
+            "cf4a7f9609"
+          ]
+        },
+        {
+          "text": "Prosecutors had charged three suspects with terrorism offenses earlier in November.",
+          "refs": [
+            "world-w5"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "How many people were wounded",
+          "positions": [
+            {
+              "claim": "25 wounded.",
+              "refs": [
+                "2e5497e1fe"
+              ]
+            },
+            {
+              "claim": "34 injured.",
+              "refs": [
+                "cedd4c64ea"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "cedd4c64ea",
+          "note": "Calls it a 'mass shooting' and stresses the deaths."
+        },
+        {
+          "ref": "cf4a7f9609",
+          "note": "Uses 'church attack' and links it to strikes in Syria."
+        },
+        {
+          "ref": "266e35dd87",
+          "note": "AP bundles the sentences with the killing of a Hamas commander."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "cf4a7f9609",
+          "takeaway": "Summary only: verdict and the Syria strikes.",
+          "read_full": false
+        },
+        {
+          "ref": "2e5497e1fe",
+          "takeaway": "Summary only (Reuters wire): date, location and casualties.",
+          "read_full": false
+        },
+        {
+          "ref": "cedd4c64ea",
+          "takeaway": "Summary only: higher injury count.",
+          "read_full": false
+        },
+        {
+          "ref": "0eccde4f8c",
+          "takeaway": "Headline only (Reuters).",
+          "read_full": false
+        },
+        {
+          "ref": "world-w5",
+          "takeaway": "Search summary only: the terrorism charges filed in November.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "cape-verde-presidential-vote",
+      "headline": "Cape Verde votes for president, with a chance of its first woman leader",
+      "region": "Africa",
+      "importance": 2,
+      "summary": "Cape Verde voted on Sunday in a presidential election in which former justice minister Joana Rosa is challenging incumbent José Maria Neves. Six candidates are running, and a runoff is set for Nov. 29 if no one wins more than half the vote. Emigration is a central issue, Reuters reported.",
+      "why_it_matters": "Cape Verde is one of Africa's most stable democracies, and a win for Rosa would make her the country's first woman president. No right-leaning outlet in the day's feed covered the vote.",
+      "background": "Cape Verde is an island nation of about half a million people off West Africa that became independent from Portugal in 1975. Its president is head of state, with more limited powers than the prime minister. Neves, backed by the PAICV party, won in 2021 and is seeking a second term; Rosa is backed by the governing MpD. Many Cape Verdeans live abroad, and emigration is a major political issue.",
+      "facts": [
+        {
+          "text": "Former justice minister Joana Rosa is challenging incumbent José Maria Neves and could become the first woman president since independence in 1975.",
+          "refs": [
+            "88bda1579a",
+            "ec22847783",
+            "7ee3ba0707"
+          ]
+        },
+        {
+          "text": "Six candidates are competing, with a runoff on Nov. 29 if no one gets more than half the votes.",
+          "refs": [
+            "2eaa54c439"
+          ]
+        },
+        {
+          "text": "Emigration is a focus of the vote, Reuters reported.",
+          "refs": [
+            "f376edfa1d"
+          ]
+        },
+        {
+          "text": "Neves is the country's fifth president since independence from Portugal.",
+          "refs": [
+            "ec22847783"
+          ]
+        },
+        {
+          "text": "Neves is backed by the PAICV and Rosa by the MpD.",
+          "refs": [
+            "world-w6"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "88bda1579a",
+          "note": "Leads with the chance of a first woman president."
+        },
+        {
+          "ref": "f376edfa1d",
+          "note": "Leads with emigration as the issue."
+        },
+        {
+          "ref": "ec22847783",
+          "note": "Calls it potential 'election history'."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "88bda1579a",
+          "takeaway": "Summary only (AP wire): Rosa versus Neves.",
+          "read_full": false
+        },
+        {
+          "ref": "2eaa54c439",
+          "takeaway": "Summary only: six candidates and runoff date.",
+          "read_full": false
+        },
+        {
+          "ref": "ec22847783",
+          "takeaway": "Summary only: Neves's place in the country's history.",
+          "read_full": false
+        },
+        {
+          "ref": "f376edfa1d",
+          "takeaway": "Headline only (Reuters): emigration in focus.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w6",
+          "takeaway": "Search summary only: party backing of the two main candidates.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "world-w1",
+      "url": "https://www.wunc.org/2026-11-11/ebola-tops-11-000-cases-in-congos-deadliest-outbreak",
+      "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
+      "outlet": "NPR"
+    },
+    {
+      "id": "world-w2",
+      "url": "https://aljazeera.com/news/2026/11/11/ebola-cases-in-dr-congo-pass-11000-with-5387-deaths",
+      "title": "Ebola cases in DR Congo pass 11,000, with 5,387 deaths",
+      "outlet": "Al Jazeera"
+    },
+    {
+      "id": "world-w3",
+      "url": "https://www.al-monitor.com/originals/2025/08/philippines-australia-seal-new-defence-pact-china-tensions-rise",
+      "title": "Philippines, Australia to seal new defence pact as China tensions rise",
+      "outlet": "Al-Monitor"
+    },
+    {
+      "id": "world-w4",
+      "url": "https://euobserver.com/240728/magyar-waives-his-own-immunity-as-hungary-targets-billions-in-alleged-fraud-and-two-former-orban-ministers-in-custody-day-143-of-the-tisza-government/",
+      "title": "Magyar waives his own immunity as Hungary targets billions in alleged fraud and two former Orbán ministers in custody",
+      "outlet": "EUobserver"
+    },
+    {
+      "id": "world-w5",
+      "url": "https://www.khaleejtimes.com/mena/jordan-karak-church-attack-suspects-terrorism",
+      "title": "Jordan charges Karak church attack suspects with terrorism",
+      "outlet": "Khaleej Times"
+    },
+    {
+      "id": "world-w6",
+      "url": "https://www.riotimesonline.com/cabo-verde-presidential-election-what-to-watch-15-november/",
+      "title": "Cabo Verde presidential election: what to watch, 15 November",
+      "outlet": "The Rio Times"
+    }
+  ]
+}

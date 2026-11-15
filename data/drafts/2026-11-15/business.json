@@ -1,0 +1,181 @@
+{
+  "stories": [
+    {
+      "id": "nvidia-huang-ai-trade",
+      "headline": "Nvidia's leadership crisis rattles AI stocks while the broad market holds up",
+      "region": "Markets",
+      "importance": 5,
+      "summary": "Nvidia shares fell after Jensen Huang left as chief executive over reports tying him to a suspected Chinese intelligence asset, and the selloff hit AI infrastructure stocks hard. Broad US indexes held up better: CNBC reported the S&P 500 still gained 2.5% for the week, though the S&P fell 0.4% and the Nasdaq 0.9% on Friday. Investors are now weighing legal exposure, customer deals and calls from some shareholders to bring Huang back.",
+      "why_it_matters": "Nvidia is one of the largest companies in the stock market, so its slide reaches anyone with an index fund or a 401(k) heavy in tech. The episode also tests how much of the AI rally rested on one company and one executive.",
+      "background": "Nvidia makes the chips that power most artificial intelligence systems, and its rise made it one of the world's most valuable companies. Jensen Huang co-founded it in 1993 and ran it for over three decades. This week he resigned after reports of an affair with Alice Huang, a former executive at Singapore cloud company Megaspeed whom US intelligence agencies believe was a Chinese asset. The case has also set off a fight inside the Trump administration over why Megaspeed was allowed to handle restricted Nvidia chips.",
+      "facts": [
+        { "text": "Nvidia shares dropped after the chief executive's ouster, but the decline did not spread to the rest of the stock market, which held its ground broadly, The New York Times reported.", "refs": ["8df851d18b"] },
+        { "text": "The S&P 500 finished the week up 2.5% and the Nasdaq up 2.3% despite the turbulence, according to CNBC.", "refs": ["10ab3d931d"] },
+        { "text": "Shares of data-centre construction and other AI 'picks and shovels' companies have lost $4.2 trillion in value in the tech selloff, the Financial Times reported.", "refs": ["e82cc9c0a4"] },
+        { "text": "The Financial Times reported that Nvidia lacks full insurance coverage for damages stemming from executives' conduct, leaving it exposed to possible lawsuits.", "refs": ["c9e9cd33b8"] },
+        { "text": "Elon Musk said Nvidia will lose critical deals without Huang and called for him to stay on as chief executive.", "refs": ["6e194dc454", "04acb20c7a"] },
+        { "text": "Top Nvidia shareholders urged the board to consider Huang's return, the New York Sun reported.", "refs": ["87a1cb2b6b"] },
+        { "text": "Megaspeed said Alice Huang left the company in 2025 and that it has opened an internal probe into reports about its business.", "refs": ["9a8a0a7e51"] },
+        { "text": "US corporate bonds paying around 6% have been rallying as money managers look for shelter from swings in stocks, Bloomberg reported.", "refs": ["9989272595"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Nvidia's big customer deals are at risk",
+          "positions": [
+            { "claim": "Elon Musk said Nvidia will lose critical deals without Huang.", "refs": ["6e194dc454", "04acb20c7a"] },
+            { "claim": "South Korea's government said Nvidia's partnership commitments to Seoul, including a 260,000-chip order, remain intact.", "refs": ["554c0cde6e"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "8df851d18b", "note": "Emphasizes that the wider market shrugged off Nvidia's drop." },
+        { "ref": "e82cc9c0a4", "note": "Frames the selloff as the AI trade coming apart, with a $4.2 trillion loss." },
+        { "ref": "519ab3861d", "note": "Casts the ouster as vindication for short sellers who bet against Nvidia." },
+        { "ref": "04acb20c7a", "note": "Centers Elon Musk's call to keep Huang in the job." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "8df851d18b", "takeaway": "Headline and summary only (paywalled): Nvidia's fall stayed contained to Nvidia.", "read_full": false },
+        { "ref": "10ab3d931d", "takeaway": "Investor-oriented piece on the AI trade, noting weekly index gains.", "read_full": false },
+        { "ref": "e82cc9c0a4", "takeaway": "Headline and summary only (paywalled): tallies losses in AI infrastructure stocks.", "read_full": false },
+        { "ref": "c9e9cd33b8", "takeaway": "Headline and summary only (paywalled): Nvidia's legal and insurance exposure.", "read_full": false },
+        { "ref": "6e194dc454", "takeaway": "Wire item on Musk's warning about Nvidia's deals.", "read_full": false },
+        { "ref": "04acb20c7a", "takeaway": "Headline only: Musk wants Huang to stay.", "read_full": false },
+        { "ref": "87a1cb2b6b", "takeaway": "Headline only: big shareholders want the board to reconsider.", "read_full": false },
+        { "ref": "554c0cde6e", "takeaway": "Headline and summary only (paywalled): Seoul's reassurance on its chip order.", "read_full": false },
+        { "ref": "9a8a0a7e51", "takeaway": "Megaspeed's response and internal probe.", "read_full": false },
+        { "ref": "519ab3861d", "takeaway": "Markets column framing the scandal as a win for short sellers.", "read_full": false },
+        { "ref": "9989272595", "takeaway": "Headline and summary only (paywalled): money moving into corporate bonds.", "read_full": false }
+      ],
+      "social": "Huang's resignation was a top Bluesky topic with more than 16,000 posts, and Saturday Night Live opened with Bowen Yang spoofing him. CNN reported that many in Silicon Valley are still voicing support for him."
+    },
+    {
+      "id": "fed-december-hike-yields",
+      "headline": "Fed officials float a bigger December rate hike as Treasury yields climb above 5%",
+      "region": "Fed",
+      "importance": 4,
+      "summary": "Federal Reserve policymakers have raised the idea of a larger interest-rate increase in December after strong jobs, growth and inflation data, the Financial Times reported, while Fed official Susan Collins argued for gradual hikes. The 10-year Treasury yield rose 0.12 point to 5.10% and the 2-year rose 0.13 point to 4.86% on Nov. 12, per Federal Reserve data. Retail sales figures and minutes of the Fed's last meeting come next week.",
+      "why_it_matters": "Higher Fed rates and Treasury yields push up the cost of mortgages, car loans and credit cards; the 30-year mortgage rate stands at 7.11%. It also means savers earn more on bonds and cash.",
+      "background": "The Federal Reserve sets a short-term interest rate to keep inflation and unemployment in check, and it is currently raising that rate, which stands near 3.88%. Inflation measured 3.72% over the year to September, well above the Fed's 2% goal, and unemployment was 4.1% in October. Treasury yields are the interest rates the government pays to borrow, and they rise when investors expect the Fed to keep raising rates. The 10-year yield is the benchmark for mortgage rates.",
+      "facts": [
+        { "text": "Fed policymakers have floated the idea of a bigger rate increase in December following strong jobs, growth and inflation data, the Financial Times reported.", "refs": ["c9ba1cf851"] },
+        { "text": "Fed official Susan Collins said gradual rate hikes are the best way to manage risks to the economy.", "refs": ["4ed9a72568"] },
+        { "text": "Retail sales data and the minutes of the Fed's most recent meeting are due next week.", "refs": ["103578475f"] },
+        { "text": "Fixed-income products have become more attractive for people nearing retirement despite short-term volatility, the Financial Times reported.", "refs": ["4f3aff1ad0"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How fast the Fed should raise rates",
+          "positions": [
+            { "claim": "Some policymakers have floated a larger increase in December, per the Financial Times.", "refs": ["c9ba1cf851"] },
+            { "claim": "Collins said gradual hikes are the better way to manage risks.", "refs": ["4ed9a72568"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "c9ba1cf851", "note": "A play on 'hawk' that stresses the push for faster tightening." },
+        { "ref": "4ed9a72568", "note": "Leads with a call for caution and a gradual pace." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c9ba1cf851", "takeaway": "Headline and summary only (paywalled): Fed officials weigh a bigger December move.", "read_full": false },
+        { "ref": "4ed9a72568", "takeaway": "Wire item on Collins favoring gradual hikes.", "read_full": false },
+        { "ref": "103578475f", "takeaway": "Week-ahead calendar: retail sales and Fed minutes.", "read_full": false },
+        { "ref": "4f3aff1ad0", "takeaway": "Headline and summary only (paywalled): bonds regain appeal for savers.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "diesel-heating-oil-food-prices",
+      "headline": "Diesel falls to a two-month low, but heating oil and food costs stay high",
+      "region": "Energy",
+      "importance": 4,
+      "summary": "US diesel fell below $6 a gallon to a two-month low on easing tensions and weaker demand, Reuters reported, as Gulf oil exports recover after the Iran war and the blockade of the Strait of Hormuz. Brent crude was $92.14 a barrel on Nov. 11, down 29% from a month earlier, though Iran's navy said three tankers caught fire after hitting mines in Hormuz on Friday. Heating oil and wholesale food prices remain sharply higher.",
+      "why_it_matters": "Cheaper diesel can ease shipping and grocery costs over time, but households heating with oil face bills far above last winter's. Fresh mine strikes in Hormuz show prices could jump again.",
+      "background": "A war involving Iran this year led to a blockade of the Strait of Hormuz, the narrow channel through which a large share of the world's oil passes. That drove fuel prices up sharply from February on. In recent weeks Gulf exports have recovered and prices have come down, while President Trump has told advisers he may hold off on attacks on Iran barring new provocations, according to sources cited by The Hindu. High energy costs feed into the price of almost everything, including food.",
+      "facts": [
+        { "text": "US diesel prices fell below $6 a gallon, a two-month low, on easing tensions and weaker demand.", "refs": ["e992927fa1"] },
+        { "text": "Global diesel prices have fallen sharply in recent weeks as Gulf exports recover and oil supplies get back on track for the first time since February.", "refs": ["b768cf38b4"] },
+        { "text": "Iran's navy said three tankers were on fire after hitting mines in the Strait of Hormuz.", "refs": ["a7a80c2691", "01a2000922"] },
+        { "text": "Trump told advisers he may hold off on attacks on Iran barring new provocations, sources said.", "refs": ["896d67c5f4"] },
+        { "text": "Heating oil prices are up 59% from last winter, and some Maine residents are seeking emergency help with bills, CNBC reported.", "refs": ["cafdcfb9c1"] },
+        { "text": "Wholesale fresh and dry vegetable prices rose 27% last month, Axios reported, and The Wall Street Journal reported grocery prices could rise again as energy costs lift producers' costs.", "refs": ["924364ccd8", "570c67b0ae"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "e992927fa1", "note": "Emphasizes relief at the pump as tensions ease." },
+        { "ref": "cafdcfb9c1", "note": "Emphasizes the strain on households facing winter heating bills." },
+        { "ref": "570c67b0ae", "note": "Looks ahead to a new round of grocery inflation." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e992927fa1", "takeaway": "Wire report on diesel's two-month low.", "read_full": false },
+        { "ref": "b768cf38b4", "takeaway": "Explains the drop through the recovery of Gulf exports.", "read_full": false },
+        { "ref": "a7a80c2691", "takeaway": "Wire report on mine strikes on tankers in Hormuz.", "read_full": false },
+        { "ref": "01a2000922", "takeaway": "Earlier report of a tanker hitting a mine and Iranian claims of a strike in Bahrain.", "read_full": false },
+        { "ref": "896d67c5f4", "takeaway": "Sourced report that Trump may pause Iran attacks.", "read_full": false },
+        { "ref": "cafdcfb9c1", "takeaway": "Household angle on heating oil costs in Maine.", "read_full": false },
+        { "ref": "924364ccd8", "takeaway": "Wholesale food price data with a consumer angle.", "read_full": false },
+        { "ref": "570c67b0ae", "takeaway": "Headline and summary only (paywalled): food inflation outlook.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "bitcoin-selloff",
+      "headline": "Bitcoin slides toward its lowest level of the year",
+      "region": "Crypto",
+      "importance": 3,
+      "summary": "Bitcoin fell 7.8% on Nov. 14 to about $62,900, down 23% in a month, as a run of setbacks and weakening demand pushed prices toward their lowest levels of the year, Bloomberg reported. The slide is squeezing companies that bet on the coin, including Trump Media, and the industry faces a Democratic Congress expected to be more skeptical of digital assets.",
+      "why_it_matters": "People holding crypto directly or through funds have lost a large share of their value in weeks. Coverage came from center and left-leaning outlets in this ingest; no right-leaning outlet covered the selloff.",
+      "background": "Bitcoin is the largest cryptocurrency, and its price swings widely with investor appetite for risk. Many companies, including President Trump's Truth Social owner, Trump Media, bought bitcoin as a corporate investment. The crypto industry had hoped Congress would pass a major regulation bill, but that bill came up short in the Senate in September. Democrats won control of both chambers in last week's midterm elections.",
+      "facts": [
+        { "text": "Bitcoin's latest selloff has pushed prices toward their lowest levels of the year as major sources of demand weaken, Bloomberg reported.", "refs": ["401474eae5"] },
+        { "text": "Falling shares and crypto prices could force Trump Media to sell assets or take on costly new debt to deal with about $1 billion of debt, the Financial Times reported.", "refs": ["dd9806839f"] },
+        { "text": "The crypto industry is bracing for investigations as Democrats take control of the House and Senate, after a major crypto regulation bill came up short in the Senate in September, The Hill reported.", "refs": ["7ef6d55da5"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "401474eae5", "note": "Focuses on trader morale, describing them as weary and hopeless." },
+        { "ref": "7ef6d55da5", "note": "Frames the slump through the shift in political power in Washington." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "401474eae5", "takeaway": "Headline and summary only (paywalled): the selloff and fading demand.", "read_full": false },
+        { "ref": "dd9806839f", "takeaway": "Headline and summary only (paywalled): Trump Media's debt squeeze.", "read_full": false },
+        { "ref": "7ef6d55da5", "takeaway": "Policy angle on crypto's prospects under a Democratic Congress.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "anthropic-ipo-roadshow",
+      "headline": "Banks pitch Anthropic's IPO, which could be the largest ever",
+      "region": "Markets",
+      "importance": 3,
+      "summary": "Investment banks are on a roadshow selling investors on the initial public offering of AI company Anthropic, which The New York Times said could be the largest ever and The Wall Street Journal called a trillion-dollar offering. The pitch comes as AI stocks are under pressure after the Nvidia scandal.",
+      "why_it_matters": "A listing this large would be widely held in index funds and retirement accounts, and its reception will be read as a test of investor faith in AI. Coverage came from center and left-leaning outlets; no right-leaning outlet covered it in this ingest.",
+      "background": "Anthropic is an AI lab founded in 2021 by seven people, among them four researchers, and makes the Claude AI models. An IPO is when a private company first sells shares to the public, and banks tour big investors in a roadshow beforehand to build demand. The company's filing, called a prospectus, lays out its business and risks. Early investors stand to gain large sums.",
+      "facts": [
+        { "text": "Investment banks are on a roadshow pitching Anthropic's IPO, which could be the largest public offering ever, The New York Times reported.", "refs": ["e3ce95dff4"] },
+        { "text": "The Wall Street Journal described a trillion-dollar offering that some individual investors are wary of but feel they cannot sit out.", "refs": ["fd98159f79"] },
+        { "text": "Anthropic's seven co-founders are poised to become multi-billionaires, CNBC reported.", "refs": ["0ff3647506"] },
+        { "text": "Jailed crypto founder Sam Bankman-Fried would have made nearly $40 billion from an early investment in Anthropic, the Financial Times reported.", "refs": ["9896210f0d"] },
+        { "text": "The New York Times reported that the prospectus discusses existential risk from AI to an unusual degree.", "refs": ["b6ce1d1fc7"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "e3ce95dff4", "note": "Emphasizes Wall Street's sales effort amid market uncertainty." },
+        { "ref": "fd98159f79", "note": "Emphasizes the mixed feelings of small investors about AI." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e3ce95dff4", "takeaway": "Headline and summary only (paywalled): the banks' roadshow.", "read_full": false },
+        { "ref": "fd98159f79", "takeaway": "Headline and summary only (paywalled): individual investors' ambivalence.", "read_full": false },
+        { "ref": "0ff3647506", "takeaway": "Profile of the co-founders and their expected wealth.", "read_full": false },
+        { "ref": "9896210f0d", "takeaway": "Headline and summary only (paywalled): Bankman-Fried's lost windfall.", "read_full": false },
+        { "ref": "b6ce1d1fc7", "takeaway": "Headline and summary only (paywalled): a reading of the prospectus's risk language.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": []
+}

@@ -1,0 +1,162 @@
+{
+  "stories": [
+    {
+      "id": "shsat-technical-glitch",
+      "headline": "Technical problems halt specialized high school entrance exam for thousands",
+      "region": "Schools",
+      "importance": 5,
+      "summary": "Technical problems on Saturday stopped many students from finishing the Specialized High School Admissions Test, the exam that decides entry to eight of the city's specialized high schools. School officials said students who could not finish would be automatically rescheduled.",
+      "why_it_matters": "For families of eighth graders aiming for Stuyvesant, Bronx Science and similar schools, a single test day decides admission, so a retake date and how it is handled matter directly. The Post reported parents said they were given little information.",
+      "background": "New York City's specialized high schools, including Stuyvesant, Bronx Science and Brooklyn Tech, admit students based on one exam, the SHSAT, under state law. The ninth school, LaGuardia, admits by audition. The test has been the subject of long-running fights over diversity and whether a single exam should decide admission. It is given in the fall to eighth graders and some ninth graders, and the Department of Education runs the testing sites.",
+      "facts": [
+        { "text": "Technical problems on Saturday, Nov. 14, prevented many students from completing the Specialized High School Admissions Test.", "refs": ["ca697b3595", "3e7c16a4d8", "b8aed81f16"] },
+        { "text": "The New York Post reported that thousands of students were sent home without finishing the exam.", "refs": ["ca697b3595"] },
+        { "text": "School officials said students unable to finish would be automatically rescheduled.", "refs": ["3e7c16a4d8", "b8aed81f16"] },
+        { "text": "The test is the only admissions criterion for eight of the city's nine specialized high schools.", "refs": ["3e7c16a4d8", "b8aed81f16"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "ca697b3595", "note": "Calls it a computer glitch that 'derailed' the exam and stresses parents being 'left in the dark.'" },
+        { "ref": "3e7c16a4d8", "note": "Attributes the account to the DOE and leads with the official explanation and the reschedule." },
+        { "ref": "b8aed81f16", "note": "Emphasizes the stress on students across the city." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ca697b3595", "takeaway": "Headline and summary only: focuses on the number of students sent home and parents' frustration.", "read_full": false },
+        { "ref": "360d468a30", "takeaway": "Headline only: reports the exam was plagued by technical issues.", "read_full": false },
+        { "ref": "3e7c16a4d8", "takeaway": "Headline and summary only: relays the DOE account and the automatic reschedule.", "read_full": false },
+        { "ref": "b8aed81f16", "takeaway": "Headline and summary only (paywalled): notes the test is the sole admissions criterion and that a retake was promised.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "flatbush-building-collapse",
+      "headline": "Developer in fatal Flatbush collapse avoided stricter oversight, Times reports",
+      "region": "Brooklyn",
+      "importance": 4,
+      "summary": "The New York Times reported that the developer behind the Flatbush building that collapsed on Wednesday won approval for a three-story building and then sought to add stories, which kept the project out of the more rigorous oversight required for larger buildings. The collapse killed at least one person, according to the Associated Press.",
+      "why_it_matters": "The reporting raises questions about how the city's Buildings Department checks projects that grow after approval, which affects the safety of neighbors living next to construction sites across the city.",
+      "background": "On the afternoon of Nov. 11, a three-story building near a construction site at 2625 Bedford Avenue in Flatbush, Brooklyn, partially collapsed, trapping people in rubble. Firefighters dug through debris and the Department of Buildings inspected nearby structures. Early casualty counts varied across outlets. The city has had a run of building collapses in recent years, putting pressure on the Buildings Department over enforcement.",
+      "facts": [
+        { "text": "The AP reported that the Nov. 11 collapse in Flatbush killed at least one person and trapped others in the rubble.", "refs": ["nyc-w1"] },
+        { "text": "The Times reported that the developer won approval for a three-story building and then sought to add more stories, which meant the project was not subject to the stricter oversight required for larger projects.", "refs": ["608cc4c44b"] },
+        { "text": "The Times reported that a construction worker, Miguel Tigsilema, pulled a 2-year-old boy from the rubble.", "refs": ["61414e6095"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "608cc4c44b", "note": "Frames the story around regulatory gaps and the developer's choices." },
+        { "ref": "ac8a75a5d5", "note": "Focuses on neighbors' experience of the collapse rather than cause." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "608cc4c44b", "takeaway": "Headline and summary only (paywalled): accountability story on how the project escaped stricter review.", "read_full": false },
+        { "ref": "61414e6095", "takeaway": "Headline and summary only (paywalled): profile of a worker who rescued a toddler.", "read_full": false },
+        { "ref": "ac8a75a5d5", "takeaway": "Headline and summary only (paywalled): neighbors describe the moment the wall came down.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nypd-srg-overhaul",
+      "headline": "Mamdani overhauls NYPD protest unit, splitting up its duties",
+      "region": "City Hall",
+      "importance": 4,
+      "summary": "Mayor Zohran Mamdani is revamping the NYPD's Strategic Response Group, the unit criticized for its handling of protests, according to The New York Times. Its crowd-control and counterterrorism duties will be spread among other units, including a new Civilian Dialogue Unit.",
+      "why_it_matters": "The change affects how police handle protests and demonstrations in the city, a frequent point of conflict. This item was reported in the ingest only by the left-leaning Times, behind a paywall.",
+      "background": "The Strategic Response Group was created in 2015 to handle both counterterrorism and large-scale events, and civil liberties groups have criticized its tactics at protests, especially in 2020. Mamdani campaigned on disbanding the unit. Police Commissioner Jessica Tisch had defended it and described talks with the mayor as being about reform, while Mamdani said he could overrule her, Fox 5 reported. Members of the City Council had also pushed a bill to disband the unit.",
+      "facts": [
+        { "text": "The Times reported that the Strategic Response Group will be revamped, with its crowd-control and counterterrorism duties moved to other units.", "refs": ["dd2c689bf9"] },
+        { "text": "One of the receiving units is a new Civilian Dialogue Unit, according to the Times.", "refs": ["dd2c689bf9"] },
+        { "text": "Earlier this year, Mamdani signaled he could overrule Commissioner Tisch on the unit's future, Fox 5 reported.", "refs": ["nyc-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "dd2c689bf9", "note": "Describes it as an overhaul rather than an elimination and notes the criticism over protests." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "dd2c689bf9", "takeaway": "Headline and summary only (paywalled): lays out how the unit's duties will be redistributed.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "brooklyn-jogger-doe-hiring",
+      "headline": "Review finds missed signs in schools' hiring of man charged in Brooklyn jogger killing",
+      "region": "Brooklyn",
+      "importance": 3,
+      "summary": "The Daily News reported that a look at the city schools' hiring of Sayed Mohassib, the teacher's aide charged with murdering jogger Katie Suarez, found missed signs and information gaps. Mohassib has pleaded not guilty.",
+      "why_it_matters": "Parents rely on the school system to screen the adults who work with their children, and the case has raised questions about what background checks catch.",
+      "background": "Katie Suarez, 28, was stabbed on Oct. 30 while jogging on the Belt Parkway waterfront path in Brooklyn and died days later. Police arrested Sayed Mohassib, 27, a paraprofessional at a nearby elementary school who had briefly worked for the NYPD. A Brooklyn grand jury indicted him on a murder charge. The school system fired him, and Mayor Mamdani ordered a review of how he was hired.",
+      "facts": [
+        { "text": "Mohassib, a public school paraprofessional, was charged with murder in Suarez's death and has pleaded not guilty, ABC7 reported.", "refs": ["nyc-w4"] },
+        { "text": "A Brooklyn grand jury indicted him, according to the Brooklyn District Attorney, amNY reported.", "refs": ["nyc-w3"] },
+        { "text": "The Daily News reported that the review of his hiring by NYC Public Schools found missed signs and information gaps.", "refs": ["a80170abd7"] },
+        { "text": "The New York Post reported that Mohassib regularly attended a Brooklyn mosque whose imam, the Post said, preached hostility toward Jews and the US government.", "refs": ["bdaf825294"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "a80170abd7", "note": "Focuses on institutional failures in the school system's vetting." },
+        { "ref": "bdaf825294", "note": "Emphasizes the suspect's religious associations and his past as a police officer." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a80170abd7", "takeaway": "Headline only: reports gaps in the schools' hiring process.", "read_full": false },
+        { "ref": "bdaf825294", "takeaway": "Headline and summary only: focuses on the mosque the suspect attended.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "belt-parkway-police-shooting",
+      "headline": "Police fatally shoot driver on Belt Parkway after report of possible abduction",
+      "region": "Brooklyn",
+      "importance": 3,
+      "summary": "NYPD officers shot and killed a man on the Belt Parkway in Brooklyn after a report of a possible kidnapping. The department said the man began ramming other vehicles as officers tried to stop him.",
+      "why_it_matters": "Fatal police shootings are reviewed by the state attorney general, and the account of what led to this one comes so far from the NYPD alone. Only left-leaning outlets covered it in the ingest.",
+      "background": "The Belt Parkway runs along Brooklyn's southern shore and is one of the borough's busiest roads. When an NYPD officer kills someone, the New York attorney general's office investigates under state law. Details of this incident, including the identity of the man and whether anyone was abducted, had not been confirmed in the coverage available.",
+      "facts": [
+        { "text": "Police fatally shot a man on the Belt Parkway in Brooklyn after a report of a possible kidnapping.", "refs": ["706e83efd6", "c859fbfde1"] },
+        { "text": "The NYPD said officers were trying to detain the man, who was driving, when he began ramming other vehicles.", "refs": ["c859fbfde1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "706e83efd6", "note": "Calls the man a 'suspect' in a 'potential kidnapping.'" },
+        { "ref": "c859fbfde1", "note": "Says 'man' and 'possible abduction,' leaning on the NYPD account of vehicles being rammed." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "706e83efd6", "takeaway": "Headline only: police shooting of a kidnapping suspect.", "read_full": false },
+        { "ref": "c859fbfde1", "takeaway": "Headline and summary only (paywalled): relays the NYPD's account of the ramming.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "brooklyn-peaker-plant-expansion",
+      "headline": "Proposal to expand Brooklyn peaker plants raises data center worries",
+      "region": "Brooklyn",
+      "importance": 2,
+      "summary": "A proposal to expand the Gowanus and Narrows generating stations in Brooklyn is fueling concern among residents that the extra power could serve data centers, Gothamist reported. The two peaker plants produce a disproportionate share of pollution, according to Gothamist.",
+      "why_it_matters": "Residents of Sunset Park and nearby neighborhoods live next to these plants, and any expansion affects local air quality as well as the city's climate goals.",
+      "background": "Peaker plants run mainly on the hottest days, when demand for electricity peaks, and tend to be older and dirtier than other plants. The Gowanus and Narrows stations sit on barges in Brooklyn's waterfront near Sunset Park. Past plans to repower them drew opposition from local officials and environmental groups, and their owner, Alpha Generation, has proposed replacing older units and adding battery storage, E&E News reported. Fast-growing demand from data centers has put new pressure on power grids across the country.",
+      "facts": [
+        { "text": "An expansion proposal for the Gowanus and Narrows generating stations has raised concerns about data centers, Gothamist reported.", "refs": ["2e6c309808"] },
+        { "text": "Gothamist said the two peaker plants produce a disproportionate amount of pollution.", "refs": ["2e6c309808"] },
+        { "text": "Earlier plans floated replacing aging units at the two plants with newer ones, E&E News reported.", "refs": ["nyc-w5"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "2e6c309808", "note": "Frames the proposal through residents' data center fears and pollution." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2e6c309808", "takeaway": "Headline and summary only: highlights pollution and data center concerns.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "nyc-w1", "url": "https://www.wrdw.com/2026/11/11/new-york-city-building-collapse-traps-people-rubble/", "title": "Firefighters dig through rubble after NYC building collapse kills 1, traps people", "outlet": "Associated Press (via WRDW)" },
+    { "id": "nyc-w2", "url": "https://www.fox5ny.com/news/mamdani-nypd-commissioner-srg-unit", "title": "Mamdani signals he may overrule Tisch on NYPD protest unit", "outlet": "Fox 5 New York" },
+    { "id": "nyc-w3", "url": "https://www.amny.com/news/brooklyn-jogger-stabbing-indictment-11102026/", "title": "Brooklyn jogger stabbing indictment", "outlet": "amNY" },
+    { "id": "nyc-w4", "url": "https://abc7ny.com/post/suspect-charged-murder-killing-katie-suarez/20022526/", "title": "DOE employee charged with murder in stabbing of Brooklyn jogger Katie Suarez", "outlet": "ABC7 New York" },
+    { "id": "nyc-w5", "url": "https://www.eenews.net/articles/plans-to-repower-2-peaker-plants-floated-in-new-york-city", "title": "Plans to repower 2 peaker plants floated in New York City", "outlet": "E&E News" }
+  ]
+}

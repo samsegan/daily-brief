@@ -1,0 +1,77 @@
+{
+  "overview": "Air travel was still recovering on Saturday from Friday's nationwide ground stop; the FAA said schedules should return to normal by the end of Sunday, and Transportation Secretary Sean Duffy said the outage followed an upgrade by contractor L3Harris to an older communications system. Iran said it struck a U.S. base in Bahrain again, while Bahrain said it intercepted the attack, and Italy fined Meta €805 million over Facebook's access to Android users' photos. At home, Democrat Jonathan Kreiss-Tomkins won Alaska's governorship as voters there kept ranked-choice voting, and a federal judge temporarily blocked the Trump administration from closing Washington's East Potomac public golf course for a redevelopment. Fallout from Jensen Huang's resignation as Nvidia's chief executive kept weighing on AI stocks ahead of the company's earnings on Tuesday, and in New York a technical failure halted the specialized high school entrance exam for thousands of students.",
+  "markets": {
+    "summary": "U.S. markets were closed for the weekend, so the latest stock figures are still Friday's: the S&P 500 fell 0.40% and the technology-heavy Nasdaq Composite fell 0.91%, while the Dow Jones Industrial Average rose 0.10%. Nvidia remains the main story; the company has lost hundreds of billions of dollars in market value since Jensen Huang resigned as chief executive, and investors are waiting for its quarterly results, scheduled for Tuesday. Bitcoin, which trades around the clock, fell 7.76% on Saturday to about $62,900 and is down more than 23% in a month. Borrowing costs remain high: the 10-year Treasury yield, the rate the government pays to borrow for a decade, was 5.10% in the latest reading after the Financial Times reported that some Federal Reserve officials had floated a bigger rate increase in December, and the average 30-year mortgage rate was 7.11%. Some rows in the quote table are older than a day: Treasury yields are from Nov. 12, oil from Nov. 11 and currencies from Nov. 6.",
+    "movers": [
+      {
+        "symbol": "CBBTCUSD",
+        "why": "Bitcoin fell 7.76% to about $62,900 on Saturday, its biggest drop in the table, and is down 23.44% over the past month. No single cause was clear in today's coverage; it has fallen alongside AI and chip stocks during the Nvidia selloff."
+      },
+      {
+        "symbol": "NASDAQCOM",
+        "why": "Fell 0.91% on Friday and is down 5.83% over the past month, the steepest monthly drop of the major U.S. indexes, as Nvidia and other chip and AI stocks slid after Jensen Huang's resignation."
+      },
+      {
+        "symbol": "NIKKEI225",
+        "why": "Japan's main index rose 0.53% on Friday but is down 9.75% over the past month; it is heavy with chip-equipment and technology companies tied to the AI trade."
+      },
+      {
+        "symbol": "MORTGAGE30US",
+        "why": "The average 30-year mortgage rate fell 7 basis points (0.07 percentage point) to 7.11% in Freddie Mac's latest weekly survey, and is down 0.29 point over the past month, though it remains above 7%."
+      }
+    ],
+    "concept": {
+      "term": "Earnings report",
+      "explanation": "An earnings report is the scorecard a public company releases every three months: how much it sold (revenue), how much it kept after costs (profit, often given per share), and what it expects for the next quarter (guidance). Stock prices often move more on the guidance and on how results compare with analysts' forecasts than on the raw numbers, so a company can report record profit and still see its shares fall if it misses expectations. Nvidia's report this week matters beyond its own shareholders because it is one of the largest companies in the S&P 500, the index most 401(k) and retirement funds track, and investors use its results to judge whether spending on AI is still growing."
+    },
+    "watch": [
+      "Tue Nov 17: October retail sales report from the Census Bureau, 8:30 a.m. ET",
+      "Tue Nov 17: Nvidia reports quarterly earnings after the market closes, its first results since Jensen Huang resigned",
+      "Wed Nov 18: Federal Reserve releases minutes of its Oct. 27-28 meeting, 2 p.m. ET",
+      "Thu Nov 19: Trump, Xi and Putin are scheduled to meet on the sidelines of the APEC summit in Shenzhen",
+      "Later this month: Anthropic's initial public offering is expected to price before Thanksgiving; no date has been confirmed"
+    ]
+  },
+  "trending": [
+    {
+      "title": "Sean Duffy",
+      "context": "The transportation secretary's Wikipedia page drew more than 434,000 views as he explained Friday's nationwide ground stop and blamed a contractor upgrade to the FAA's communications system.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "Trump silent after ground stop",
+      "context": "More than 22,000 Bluesky posts discussed the president's response to the flight shutdown; NewsNation reported he told Fox News by phone that \"old broken stuff\" was to blame.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Jensen Huang",
+      "context": "Interest in Nvidia's former chief executive stayed high, with more than 300,000 Wikipedia views and 16,000 Bluesky posts, as coverage of his resignation continued and Saturday Night Live parodied it.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "US floats Donbas-for-NATO swap",
+      "context": "About 6,400 Bluesky posts followed Zelensky's statement that Washington had raised the idea of Ukraine giving up the Donbas region in return for NATO membership.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Microsoft resolves global outage",
+      "context": "More than 18,000 Bluesky posts tracked a worldwide Microsoft service outage, which the company said had been fully restored.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Starship booster lost, ship caught",
+      "context": "SpaceX caught Starship's upper stage at its Texas launch tower after a flight to orbit for the first time on Saturday, the Guardian reported, though the booster exploded.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "SS United States",
+      "context": "The retired American ocean liner was sunk in the Gulf of Mexico to become what Wikipedia's news summary calls the largest artificial reef.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "Novaya Gazeta",
+      "context": "One of Russia's oldest independent newspapers closed under pressure from the Russian authorities, according to Wikipedia's In the news summary.",
+      "signal": "wikipedia_news"
+    }
+  ]
+}
