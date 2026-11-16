@@ -1,174 +1,516 @@
 {
   "stories": [
     {
-      "id": "tech-selloff-nvidia-anthropic-week",
-      "headline": "Tech stocks slide again as Nvidia earnings and Anthropic's IPO loom",
+      "id": "ai-stocks-slide-nvidia-anthropic-week",
+      "headline": "Tech stocks slide into a week set by Nvidia earnings and Anthropic's IPO",
       "region": "Markets",
       "importance": 5,
-      "summary": "A selloff in technology shares carried into a new week, with S&P 500 and Nasdaq futures lower Monday morning after fresh losses in Asian artificial-intelligence stocks. Investors are waiting for Nvidia's quarterly results on Tuesday, its first since chief executive Jensen Huang stepped down, and for the pricing of Anthropic's initial public offering, which Bloomberg says is expected Wednesday with trading to start Thursday.",
-      "why_it_matters": "AI-linked companies make up a large share of the stock indexes that most retirement accounts and index funds track, so a prolonged drop in them shows up in ordinary savers' balances. This week's two events are being treated as a test of whether investors still want to pay high prices for AI growth.",
-      "background": "Much of the stock market's rise in recent years has come from a handful of companies tied to artificial intelligence, with chipmaker Nvidia the largest of them. Nvidia's shares have fallen sharply amid allegations that its chips were diverted to China and the resignation of its longtime chief executive, Jensen Huang. Anthropic, the company behind the Claude AI models, is about to sell shares to the public for the first time in what outlets describe as a very large offering. Separately, U.S. Treasury yields rose last week after inflation data and comments from Federal Reserve officials led traders to consider the possibility of interest-rate increases. The Nasdaq Composite ended Friday down about 6% over the past month, while the S&P 500 was down about 2%.",
+      "summary": "A selloff in technology shares carried into Monday, with U.S. stock futures and emerging-market stocks falling as investors waited on two events: Nvidia's quarterly results on Tuesday and the pricing of Anthropic's initial public offering, expected Wednesday with trading to start Thursday. Weakness in Asian AI stocks overnight added to the pressure, according to The Wall Street Journal.",
+      "why_it_matters": "A handful of AI companies now make up a large share of the stock indexes held in most 401(k)s and index funds, so how this week goes for Nvidia and Anthropic can move ordinary retirement balances.",
+      "background": "Since 2023, investor enthusiasm for artificial intelligence has driven much of the stock market's gains, led by chipmaker Nvidia, the world's most valuable company by market value. Nvidia's shares have fallen sharply in recent weeks amid a leadership crisis tied to questions about chip sales reaching China. At the same time, Anthropic, the AI lab that makes the Claude models, is preparing one of the largest stock offerings on record. The Nasdaq Composite ended last week down nearly 6% over the past month, while the Dow, which is less tech-heavy, was up over the same period.",
       "facts": [
-        { "text": "S&P 500 and Nasdaq futures fell Monday morning ahead of Nvidia's earnings and Anthropic's market debut.", "refs": ["b29160ef99", "5f965772d2"] },
-        { "text": "The decline followed new weakness in Asian AI-related stocks, and Bloomberg reported that emerging-market stocks had their largest drop in more than a week.", "refs": ["5f965772d2", "a6991c18bc"] },
-        { "text": "Nvidia is due to report quarterly results on Tuesday, Nov. 17; the company said in a securities filing that the date was unchanged after its chief executive's departure.", "refs": ["5f965772d2", "business-w1"] },
-        { "text": "Anthropic's IPO is expected to price on Wednesday and begin trading on Thursday, according to Bloomberg.", "refs": ["51bd649f18"] },
-        { "text": "U.S. Treasury yields fell Monday after rising significantly last week on inflation data and Federal Reserve officials' comments, the Wall Street Journal reported.", "refs": ["8d6d600f84"] },
-        { "text": "The dollar index (DXY) rose to 103.533, which the Wall Street Journal described as a 19-month high.", "refs": ["22318de993"] },
-        { "text": "Gold edged up but stayed near one-year lows after losing 4.5% last week, according to the Wall Street Journal.", "refs": ["380f26cf0a"] },
-        { "text": "Economist Jason Furman, a former White House adviser, said that if AI turns out to be a bubble that bursts, the most likely result is a 25% drop in the broader market, MarketWatch reported.", "refs": ["774b9ad7b0"] },
-        { "text": "Morgan Stanley strategists, in their outlook for the year ahead, recommended raising stock holdings to the highest possible allocation, MarketWatch reported.", "refs": ["ef4a644ffb"] }
+        {
+          "text": "U.S. stock futures for the S&P 500 and Nasdaq fell early Monday ahead of Nvidia's earnings and Anthropic's market debut.",
+          "refs": [
+            "b29160ef99",
+            "5f965772d2"
+          ]
+        },
+        {
+          "text": "Bloomberg said the tech selloff carried into a new week as traders avoided risky bets, and that emerging-market stocks fell the most in more than a week as a rout in Nvidia shares weighed on the global AI trade.",
+          "refs": [
+            "2c0dbe644d",
+            "a6991c18bc"
+          ]
+        },
+        {
+          "text": "Nvidia is scheduled to report earnings on Tuesday.",
+          "refs": [
+            "5f965772d2",
+            "9fe0c812ec"
+          ]
+        },
+        {
+          "text": "Anthropic's IPO is expected to price on Wednesday and begin trading Thursday, according to Bloomberg.",
+          "refs": [
+            "51bd649f18"
+          ]
+        },
+        {
+          "text": "Earlier reporting said Anthropic set a price range of $70 to $80 a share and lined up about $26 billion from Nvidia, Google and other companies.",
+          "refs": [
+            "business-w1"
+          ]
+        },
+        {
+          "text": "The WSJ reported that venture-capital firms, large tech companies and sovereign-wealth funds that invested early in Anthropic stand to gain heavily from the offering.",
+          "refs": [
+            "6118639304"
+          ]
+        },
+        {
+          "text": "The dollar index (DXY) rose to a 19-month high of 103.533, the WSJ reported.",
+          "refs": [
+            "22318de993"
+          ]
+        }
       ],
-      "disputed": [],
+      "disputed": [
+        {
+          "topic": "Whether the AI-driven market is headed for a deep fall",
+          "positions": [
+            {
+              "claim": "Former White House economist Jason Furman told MarketWatch that if AI proves to be a bubble that bursts, the most likely outcome is about a 25% drop in the broad market.",
+              "refs": [
+                "774b9ad7b0"
+              ]
+            },
+            {
+              "claim": "Morgan Stanley strategists told clients to raise their stock allocation to the maximum, one of the most bullish year-ahead outlooks so far, MarketWatch reported.",
+              "refs": [
+                "ef4a644ffb"
+              ]
+            }
+          ]
+        }
+      ],
       "framing": [
-        { "ref": "2c0dbe644d", "note": "Calls Nvidia's results and Anthropic's debut 'tests' and stresses that traders are avoiding risk." },
-        { "ref": "9fe0c812ec", "note": "Describes the week as 'crucial' for AI and, in its subheading, points to a leadership crisis at Nvidia." },
-        { "ref": "f932233d63", "note": "Takes the opposite angle, leading with a strategist's case that Nvidia remains attractive over the long term." },
-        { "ref": "e95f797bb0", "note": "A neutral live-updates label that does not name a cause for the moves." }
+        {
+          "ref": "2c0dbe644d",
+          "note": "Frames the week as a 'test' for markets, centering trader caution."
+        },
+        {
+          "ref": "9fe0c812ec",
+          "note": "Puts Nvidia's 'leadership crisis' next to a 'mega-IPO' in the same line."
+        },
+        {
+          "ref": "f932233d63",
+          "note": "Takes the opposite angle: argues Nvidia can avoid the slump of past market-cap leaders."
+        }
       ],
       "left_out": [],
       "coverage": [
-        { "ref": "b29160ef99", "takeaway": "Headline only: wire report that S&P 500 and Nasdaq futures fell ahead of the two events.", "read_full": false },
-        { "ref": "5f965772d2", "takeaway": "Headline and summary only (paywalled): ties the futures drop to weakness in Asian AI stocks.", "read_full": false },
-        { "ref": "9fe0c812ec", "takeaway": "Headline and summary only (paywalled): live coverage framing the week around Nvidia and Anthropic.", "read_full": false },
-        { "ref": "2c0dbe644d", "takeaway": "Headline and summary only (paywalled): markets wrap saying the tech selloff carried into the new week.", "read_full": false },
-        { "ref": "a6991c18bc", "takeaway": "Headline and summary only (paywalled): focuses on the spillover into emerging-market stocks.", "read_full": false },
-        { "ref": "51bd649f18", "takeaway": "Headline and summary only (paywalled): newsletter giving the expected IPO pricing and trading days.", "read_full": false },
-        { "ref": "8d6d600f84", "takeaway": "Headline and summary only (paywalled): bond-market note on yields and rate-increase prospects.", "read_full": false },
-        { "ref": "22318de993", "takeaway": "Headline and summary only (paywalled): currency note on the dollar's 19-month high.", "read_full": false },
-        { "ref": "380f26cf0a", "takeaway": "Headline and summary only (paywalled): commodities note on gold near one-year lows.", "read_full": false },
-        { "ref": "774b9ad7b0", "takeaway": "Headline and summary only: reports Furman's estimate of the market damage if AI is a bubble.", "read_full": false },
-        { "ref": "ef4a644ffb", "takeaway": "Headline and summary only: reports Morgan Stanley's bullish year-ahead call on stocks.", "read_full": false },
-        { "ref": "f932233d63", "takeaway": "Headline and summary only: one strategist's argument for Nvidia's long-term prospects.", "read_full": false },
-        { "ref": "e95f797bb0", "takeaway": "Headline only: running live-updates page on U.S. markets.", "read_full": false }
+        {
+          "ref": "2c0dbe644d",
+          "takeaway": "Headline and summary only (paywalled): markets wrap on the tech selloff carrying into the week.",
+          "read_full": false
+        },
+        {
+          "ref": "a6991c18bc",
+          "takeaway": "Headline and summary only (paywalled): emerging-market stocks fall on the Nvidia rout.",
+          "read_full": false
+        },
+        {
+          "ref": "5f965772d2",
+          "takeaway": "Headline and summary only (paywalled): futures slip after Asian AI weakness; Nvidia reports Tuesday.",
+          "read_full": false
+        },
+        {
+          "ref": "9fe0c812ec",
+          "takeaway": "Headline and summary only (paywalled): live markets coverage framing a crucial week for AI.",
+          "read_full": false
+        },
+        {
+          "ref": "b29160ef99",
+          "takeaway": "Headline only: S&P 500 and Nasdaq futures slide before the two events.",
+          "read_full": false
+        },
+        {
+          "ref": "e95f797bb0",
+          "takeaway": "Headline only: generic live markets page.",
+          "read_full": false
+        },
+        {
+          "ref": "f932233d63",
+          "takeaway": "Summary only: a strategist's bullish case for Nvidia, noting the median analyst target is about $280.",
+          "read_full": false
+        },
+        {
+          "ref": "51bd649f18",
+          "takeaway": "Headline and summary only (paywalled): newsletter giving the IPO timeline.",
+          "read_full": false
+        },
+        {
+          "ref": "6118639304",
+          "takeaway": "Headline and summary only (paywalled): who stands to profit from the IPO.",
+          "read_full": false
+        },
+        {
+          "ref": "93743783bb",
+          "takeaway": "Headline and summary only (paywalled): commentary casting the IPO as a test for AI.",
+          "read_full": false
+        },
+        {
+          "ref": "774b9ad7b0",
+          "takeaway": "Summary only: Furman's bubble scenario.",
+          "read_full": false
+        },
+        {
+          "ref": "ef4a644ffb",
+          "takeaway": "Summary only: Morgan Stanley's bullish 2027 outlook.",
+          "read_full": false
+        },
+        {
+          "ref": "22318de993",
+          "takeaway": "Headline and summary only (paywalled): the dollar at a 19-month high.",
+          "read_full": false
+        }
       ],
       "social": ""
     },
     {
       "id": "bessent-nvidia-outside-ceo",
-      "headline": "Treasury Secretary Bessent urges Nvidia to hire its next CEO from outside",
-      "region": "Tech",
+      "headline": "Bessent says Nvidia should pick an outside CEO after Huang's exit",
+      "region": "Trade",
       "importance": 4,
-      "summary": "Treasury Secretary Scott Bessent said Sunday that Nvidia should look outside the company for a successor to Jensen Huang, who has resigned as chief executive, and called for a \"dramatic shakeup\" of its leadership. Nvidia has named its finance chief, Colette Kress, interim CEO. The company reports earnings Tuesday and, according to the New York Post, has 10 days to answer the administration's questions about banned chip sales.",
-      "why_it_matters": "Nvidia is one of the most valuable companies in the world and a large holding in most index funds, so who runs it and how its dispute with the government ends affects many people's savings. It is unusual for a Treasury secretary to say publicly how a private company should choose its chief executive.",
-      "background": "Nvidia makes the chips that power most artificial-intelligence systems, and U.S. rules limit which of them can be sold to China. The company has faced allegations that restricted chips reached China through a Singapore-based buyer called Megaspeed; Megaspeed has denied wrongdoing. Jensen Huang, who co-founded Nvidia and led it for more than three decades, has now stepped down amid the controversy. The Commerce Department, led by Howard Lutnick, enforces the export rules, and Bessent has criticized that department's handling of the matter. Nvidia's board must now choose a permanent chief executive.",
+      "summary": "Treasury Secretary Scott Bessent said Nvidia needs a 'dramatic shakeup' and should look outside the company for its next chief executive, following Jensen Huang's resignation. The New York Post reported that Nvidia also owes the administration answers within 10 days on whether it profited from banned chip sales.",
+      "why_it_matters": "Nvidia is the largest company in the stock market and its chips power most AI systems, so a leadership fight involving the government affects both retirement funds and U.S.-China tech policy.",
+      "background": "Nvidia, co-founded by Jensen Huang in 1993, makes the chips used to train most AI systems. The U.S. bars sales of its most advanced chips to China. Earlier this month the company's board opened an investigation into Huang's ties to a former executive of Megaspeed, an Nvidia customer, amid reports that U.S. officials suspected her of links to Chinese intelligence. The matter also exposed a rift in the administration: Axios reported that Bessent confronted Commerce Secretary Howard Lutnick over why Megaspeed had not been put on a trade blacklist.",
       "facts": [
-        { "text": "Bessent said Nvidia must \"go outside the company\" to find its next chief executive.", "refs": ["2b1bd691ca", "818dc1b648", "91996f7f18"] },
-        { "text": "He called for a \"dramatic shakeup\" at the company.", "refs": ["818dc1b648", "91996f7f18"] },
-        { "text": "Bessent has criticized the Commerce Department under Howard Lutnick over suspected diversion of chips to China while defending President Trump's handling of the matter, CNBC reported.", "refs": ["818dc1b648"] },
-        { "text": "Nvidia said in a securities filing that Huang had stepped down, that chief financial officer Colette Kress was named interim CEO, and that director Harvey Jones became the company's first board chair.", "refs": ["business-w1"] },
-        { "text": "The New York Post reported that Nvidia must answer the administration within 10 days on whether it profited from banned chip sales.", "refs": ["91996f7f18"] },
-        { "text": "The Washington Post reported that President Trump's holdings of Nvidia stock grew to as much as $62 million before the scandal became public.", "refs": ["10fd3208c2"] }
+        {
+          "text": "Bessent said Nvidia must 'go outside the company' to find a new CEO and called for a 'dramatic shakeup.'",
+          "refs": [
+            "2b1bd691ca",
+            "818dc1b648",
+            "6bd30b58b6"
+          ]
+        },
+        {
+          "text": "The New York Post described Bessent's remarks as coming after Jensen Huang's resignation.",
+          "refs": [
+            "91996f7f18"
+          ]
+        },
+        {
+          "text": "The Post reported that Nvidia owes the administration answers within 10 days about whether it profited from banned chip sales.",
+          "refs": [
+            "91996f7f18"
+          ]
+        },
+        {
+          "text": "CNBC said Bessent has criticized Lutnick's Commerce Department over suspected chip diversion to China while defending President Trump's handling of the matter.",
+          "refs": [
+            "818dc1b648"
+          ]
+        },
+        {
+          "text": "Axios reported on Nov. 11 that Bessent confronted Lutnick in the Situation Room over inaction on China; a Lutnick spokesperson denied the exchange took place.",
+          "refs": [
+            "business-w2"
+          ]
+        },
+        {
+          "text": "Nvidia's board opened an investigation into Huang's ties to a former Megaspeed executive, and Huang acknowledged a personal relationship with her, according to earlier reports.",
+          "refs": [
+            "business-w3",
+            "business-w4"
+          ]
+        },
+        {
+          "text": "The Washington Post reported that Trump's stake in Nvidia grew to as much as $62 million before the scandal broke.",
+          "refs": [
+            "10fd3208c2"
+          ]
+        }
       ],
       "disputed": [],
       "framing": [
-        { "ref": "2b1bd691ca", "note": "Sticks to Bessent's own words about going outside the company." },
-        { "ref": "818dc1b648", "note": "Leads with the 'dramatic shakeup' phrase; its summary highlights the rift between Bessent and the Commerce Department." },
-        { "ref": "6bd30b58b6", "note": "Labels the affair a 'China chip scandal' in the headline." },
-        { "ref": "10fd3208c2", "note": "Turns attention to the president's personal financial stake in the company." }
+        {
+          "ref": "2b1bd691ca",
+          "note": "Sticks to Bessent's quote about going outside the company."
+        },
+        {
+          "ref": "91996f7f18",
+          "note": "Names Huang's resignation and the $4 trillion valuation, and adds the 10-day deadline."
+        },
+        {
+          "ref": "6bd30b58b6",
+          "note": "Ties the shakeup call directly to a 'China chip scandal.'"
+        }
       ],
       "left_out": [],
       "coverage": [
-        { "ref": "2b1bd691ca", "takeaway": "Headline only: wire report of Bessent's call for an outside CEO.", "read_full": false },
-        { "ref": "818dc1b648", "takeaway": "Headline and summary only: adds Bessent's criticism of Lutnick's department and defense of Trump.", "read_full": false },
-        { "ref": "91996f7f18", "takeaway": "Headline and summary only: notes Huang's resignation and a 10-day deadline for Nvidia to respond to the administration.", "read_full": false },
-        { "ref": "6bd30b58b6", "takeaway": "Headline only: frames Bessent's remarks as a call for a leadership shake-up amid a China chip scandal.", "read_full": false },
-        { "ref": "10fd3208c2", "takeaway": "Headline only (paywalled): its own reporting on the size of Trump's Nvidia holdings.", "read_full": false },
-        { "ref": "business-w1", "takeaway": "Nvidia's filing announcing the CEO transition, as summarized in search results.", "read_full": false }
+        {
+          "ref": "2b1bd691ca",
+          "takeaway": "Headline only: Bessent's call for an outside CEO.",
+          "read_full": false
+        },
+        {
+          "ref": "818dc1b648",
+          "takeaway": "Summary only: adds Bessent's criticism of Lutnick's department over chip diversion.",
+          "read_full": false
+        },
+        {
+          "ref": "91996f7f18",
+          "takeaway": "Summary only: frames it as post-resignation and notes the 10-day deadline.",
+          "read_full": false
+        },
+        {
+          "ref": "6bd30b58b6",
+          "takeaway": "Headline only: shakeup call linked to the China chip scandal.",
+          "read_full": false
+        },
+        {
+          "ref": "10fd3208c2",
+          "takeaway": "Headline only (paywalled): the size of Trump's Nvidia stake.",
+          "read_full": false
+        },
+        {
+          "ref": "9fe0c812ec",
+          "takeaway": "Headline and summary only (paywalled): earnings arrive amid a 'leadership crisis.'",
+          "read_full": false
+        }
       ],
       "social": ""
     },
     {
-      "id": "japan-gdp-contracts-q3",
-      "headline": "Japan's economy shrinks unexpectedly as energy costs squeeze households",
-      "region": "Japan",
-      "importance": 3,
-      "summary": "Japan's economy contracted at an annualized rate of 0.1% in the July-September quarter, a preliminary government estimate showed Monday. Outlets described the decline as unexpected and attributed it to weak consumer spending as high energy prices and inflation cut into household budgets. The Financial Times said the result complicates the Bank of Japan's plans for interest rates.",
-      "why_it_matters": "Japan is one of the world's largest economies and a major U.S. trading partner, and its central bank's decisions affect global bond markets and the value of the dollar against the yen. The figures also show how higher oil prices linked to the Iran war are weighing on consumers outside the United States.",
-      "background": "Gross domestic product, or GDP, measures the total value of goods and services an economy produces; the annualized rate shows what a quarter's change would amount to over a full year. Japan imports nearly all of its oil and gas, so it is exposed when energy prices rise, as they have since the war involving Iran disrupted supplies. The Bank of Japan, led by Governor Kazuo Ueda, has been weighing interest-rate increases to contain inflation, but a shrinking economy makes that harder to justify. The figure released Monday is a first estimate and will be revised.",
+      "id": "fed-hike-prospects-yields",
+      "headline": "Treasury yields ease, but a December Fed rate hike stays in view",
+      "region": "Fed",
+      "importance": 4,
+      "summary": "U.S. Treasury yields dipped Monday after jumping last week on hotter inflation data and hawkish comments from Federal Reserve officials, the WSJ reported. Fed Governor Christopher Waller said last week he would back at least a quarter-point rate increase in December and that a half-point move may be needed if core inflation came in hot.",
+      "why_it_matters": "Higher Fed rates and bond yields feed into mortgage, car-loan and credit-card rates; the 30-year mortgage rate is already above 7%.",
+      "background": "The Federal Reserve raises its benchmark rate to cool inflation and lowers it to support jobs. Inflation picked up this fall as the war with Iran pushed energy prices higher; consumer prices were up 3.7% from a year earlier in September. The Fed's key rate stands at about 3.9%, while the 10-year Treasury yield was about 5.1% as of Nov. 12. Its next meeting is in December, and markets are now debating the size of a hike rather than whether one comes.",
       "facts": [
-        { "text": "Japan's economy contracted at an annualized rate of 0.1% in July-September, according to the preliminary estimate.", "refs": ["d383b5bd8d"] },
-        { "text": "Reuters and CNBC described the contraction as unexpected.", "refs": ["85d5ad4b00", "2d11eefedd"] },
-        { "text": "It was the first quarterly contraction in a year, the Financial Times reported.", "refs": ["a623f58717"] },
-        { "text": "Outlets linked the decline to pressure on households from inflation and high energy and oil prices.", "refs": ["85d5ad4b00", "2d11eefedd", "c118da1abd"] },
-        { "text": "CNBC reported that household energy subsidies had expired in September, leaving consumers more exposed to higher prices.", "refs": ["2d11eefedd"] },
-        { "text": "The Financial Times also cited record-breaking rains as a drag on growth and said the data complicates interest-rate plans.", "refs": ["a623f58717"] },
-        { "text": "Bank of Japan Governor Kazuo Ueda told a government panel that wage growth was \"quite strong,\" Reuters reported.", "refs": ["b7fd05fccc"] },
-        { "text": "The Cabinet Office's release calendar lists a second, revised estimate for Dec. 8.", "refs": ["business-w2"] }
+        {
+          "text": "Treasury yields fell on Monday following large increases last week that were prompted by inflation data and hawkish Fed comments, the WSJ reported.",
+          "refs": [
+            "8d6d600f84"
+          ]
+        },
+        {
+          "text": "Waller said he plans to support at least a quarter-point rate hike in December.",
+          "refs": [
+            "business-w5"
+          ]
+        },
+        {
+          "text": "Waller said a half-point hike may be needed if core consumer prices came in hot.",
+          "refs": [
+            "business-w6"
+          ]
+        },
+        {
+          "text": "The 2-year Treasury yield had its biggest one-day jump in 19 months on Nov. 10.",
+          "refs": [
+            "business-w7"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "8d6d600f84",
+          "takeaway": "Headline and summary only (paywalled): yields dip while hike prospects stay in focus.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "japan-economy-contracts-q3",
+      "headline": "Japan's economy unexpectedly shrinks as energy costs bite",
+      "region": "Economy",
+      "importance": 3,
+      "summary": "Japan's economy contracted at an annualized 0.1% in July-September, its first contraction in a year, according to official data reported by Reuters and the Financial Times. Outlets tied the drop to weak consumer spending under high energy prices, and the FT said it complicates the Bank of Japan's interest-rate plans.",
+      "why_it_matters": "Japan is the world's fourth-largest economy and a major U.S. trading partner; its slowdown is another sign of how the oil shock from the Iran war is weighing on households worldwide.",
+      "background": "Japan imports nearly all its oil, so the jump in energy prices since the U.S.-Israeli war with Iran has hit its households hard. The government had subsidized household energy bills, but those subsidies reportedly ended in September. The Bank of Japan has been slowly raising interest rates after decades near zero, and weak growth makes further increases harder to justify. On Monday, BOJ Governor Kazuo Ueda told a government panel that wage growth is 'quite strong.'",
+      "facts": [
+        {
+          "text": "Japan's GDP shrank at an annualized 0.1% in the July-September quarter.",
+          "refs": [
+            "d383b5bd8d"
+          ]
+        },
+        {
+          "text": "The contraction was unexpected and the first in a year.",
+          "refs": [
+            "85d5ad4b00",
+            "2d11eefedd",
+            "a623f58717"
+          ]
+        },
+        {
+          "text": "Reuters said inflation was squeezing households; the FT cited weak consumer spending and record-breaking rains.",
+          "refs": [
+            "85d5ad4b00",
+            "a623f58717"
+          ]
+        },
+        {
+          "text": "CNBC said energy subsidies for households had reportedly expired in September, exposing the economy to higher energy prices from the Iran war.",
+          "refs": [
+            "2d11eefedd"
+          ]
+        },
+        {
+          "text": "BOJ Governor Ueda told a government panel that wage growth was 'quite strong.'",
+          "refs": [
+            "b7fd05fccc"
+          ]
+        }
       ],
       "disputed": [],
       "framing": [
-        { "ref": "85d5ad4b00", "note": "Stresses that the result was a surprise and puts inflation's effect on households first." },
-        { "ref": "c118da1abd", "note": "Says the economy contracted only 'slightly' and points to high oil prices." },
-        { "ref": "a623f58717", "note": "Emphasizes that it is the first contraction in a year; the summary adds weather and weak spending as causes." },
-        { "ref": "2d11eefedd", "note": "Puts elevated energy costs in the headline as the cause." }
+        {
+          "ref": "c118da1abd",
+          "note": "Calls the contraction slight and points to oil prices."
+        },
+        {
+          "ref": "85d5ad4b00",
+          "note": "Stresses the surprise and the squeeze on households."
+        },
+        {
+          "ref": "a623f58717",
+          "note": "Emphasizes it as the first contraction in a year and the rate-policy complication."
+        }
       ],
       "left_out": [],
       "coverage": [
-        { "ref": "d383b5bd8d", "takeaway": "Headline only: wire flash with the 0.1% annualized figure.", "read_full": false },
-        { "ref": "85d5ad4b00", "takeaway": "Headline only: follow-up wire story calling the result unexpected and citing inflation's squeeze on households.", "read_full": false },
-        { "ref": "2d11eefedd", "takeaway": "Headline and summary only: ties the contraction to energy costs and expired household subsidies.", "read_full": false },
-        { "ref": "c118da1abd", "takeaway": "Headline only (paywalled): describes a slight contraction amid high oil prices.", "read_full": false },
-        { "ref": "a623f58717", "takeaway": "Headline and summary only (paywalled): cites weak spending, record rains and complications for rate policy.", "read_full": false },
-        { "ref": "b7fd05fccc", "takeaway": "Headline only: reports the central bank governor's remark on wage growth.", "read_full": false },
-        { "ref": "business-w2", "takeaway": "Official release schedule for Japan's quarterly GDP estimates, as summarized in search results.", "read_full": false }
+        {
+          "ref": "d383b5bd8d",
+          "takeaway": "Headline only: gives the annualized 0.1% figure.",
+          "read_full": false
+        },
+        {
+          "ref": "85d5ad4b00",
+          "takeaway": "Headline only: unexpected shrinkage, inflation squeezing households.",
+          "read_full": false
+        },
+        {
+          "ref": "2d11eefedd",
+          "takeaway": "Summary only: links the drop to energy costs and expired subsidies.",
+          "read_full": false
+        },
+        {
+          "ref": "c118da1abd",
+          "takeaway": "Headline only (paywalled): slight contraction as oil stays high.",
+          "read_full": false
+        },
+        {
+          "ref": "a623f58717",
+          "takeaway": "Headline and summary only (paywalled): weak spending and rains, rate plans complicated.",
+          "read_full": false
+        },
+        {
+          "ref": "b7fd05fccc",
+          "takeaway": "Headline only: Ueda's comment on wages.",
+          "read_full": false
+        }
       ],
       "social": ""
     },
     {
       "id": "diesel-below-six-dollars",
-      "headline": "Diesel falls below $6 a gallon for the first time since early September",
-      "region": "Inflation",
+      "headline": "Diesel drops below $6 a gallon, easing a key inflation pressure",
+      "region": "Energy",
       "importance": 3,
-      "summary": "The average U.S. retail price of diesel dropped below $6 a gallon, its lowest level in about two months. The New York Post attributed the decline to easing tensions and weaker demand. Separately, Goldman Sachs forecast that oil prices will fall next year as supply outpaces demand.",
-      "why_it_matters": "Diesel powers the trucks, trains and farm equipment that move and produce most goods, so its price feeds into what people pay for food and deliveries. Bloomberg described it as a key source of the inflation that has raised energy and food prices this fall.",
-      "background": "Diesel prices climbed sharply this year after the U.S.-Israeli war against Iran disrupted oil supplies and Ukrainian attacks on Russian refineries reduced fuel production, according to the New York Post. Because diesel is used throughout the supply chain, higher prices tend to spread to other goods. U.S. consumer prices were up 3.7% from a year earlier in September, and Treasury yields rose last week on concerns that the Federal Reserve might raise interest rates. Crude oil has already come down from its highs, with Brent crude near $92 a barrel in the latest data.",
+      "summary": "U.S. retail diesel prices fell below $6 a gallon for the first time since early September, Bloomberg reported, a two-month low driven by easing geopolitical tensions and weaker demand. Goldman Sachs separately forecast a 'sizable' oil surplus next year that it expects to pull prices lower.",
+      "why_it_matters": "Diesel moves the trucks and farm equipment behind most goods, so cheaper diesel can eventually ease food and shipping costs that have pushed prices up this fall.",
+      "background": "Diesel prices surged this year as the U.S.-Israeli war against Iran disrupted oil supplies and Ukraine's attacks on Russian refineries cut fuel output. Because diesel feeds into transport and farming costs, its price has helped push up food and energy inflation. Brent crude, the global benchmark, was around $92 a barrel last week, down about 29% over a month.",
       "facts": [
-        { "text": "U.S. retail diesel fell below $6 a gallon, the lowest in about two months and the first time under that level since early September.", "refs": ["316d776ebe", "6c593365ee"] },
-        { "text": "The New York Post attributed the drop to easing tensions and weaker demand.", "refs": ["316d776ebe"] },
-        { "text": "Bloomberg called diesel a key inflationary input that has pushed energy and food prices higher this fall.", "refs": ["6c593365ee"] },
-        { "text": "Goldman Sachs said the oil market faces a \"sizable surplus\" in 2027 and forecast Brent crude averaging $88 a barrel next year, easing to $78 by year-end, Bloomberg reported.", "refs": ["fc1d061b93"] }
+        {
+          "text": "Retail diesel fell below $6 a gallon for the first time since early September.",
+          "refs": [
+            "6c593365ee",
+            "316d776ebe"
+          ]
+        },
+        {
+          "text": "The New York Post attributed the decline to easing tensions and weaker demand.",
+          "refs": [
+            "316d776ebe"
+          ]
+        },
+        {
+          "text": "Diesel had surged after the war with Iran disrupted oil supplies and Ukraine's attacks on Russian refineries curbed production.",
+          "refs": [
+            "316d776ebe"
+          ]
+        },
+        {
+          "text": "Goldman Sachs expects Brent to average $88 a barrel next year and ease to $78 by the end of 2027, citing a sizable supply surplus.",
+          "refs": [
+            "fc1d061b93"
+          ]
+        }
       ],
       "disputed": [],
       "framing": [
-        { "ref": "316d776ebe", "note": "Headline gives the reasons for the drop: easing tensions and weaker demand." },
-        { "ref": "6c593365ee", "note": "Headline emphasizes the consequence, relief on inflation, more than the cause." }
+        {
+          "ref": "316d776ebe",
+          "note": "Highlights the two-month low and its causes."
+        },
+        {
+          "ref": "6c593365ee",
+          "note": "Frames the drop around relief on inflation."
+        }
       ],
       "left_out": [],
       "coverage": [
-        { "ref": "316d776ebe", "takeaway": "Headline and summary only: reports the two-month low and recalls why diesel surged.", "read_full": false },
-        { "ref": "6c593365ee", "takeaway": "Headline and summary only (paywalled): presents the decline as easing a key inflation pressure.", "read_full": false },
-        { "ref": "fc1d061b93", "takeaway": "Headline and summary only (paywalled video): Goldman Sachs's forecast of an oil surplus and lower Brent prices.", "read_full": false }
-      ],
-      "social": ""
-    },
-    {
-      "id": "intel-shareholder-suit",
-      "headline": "Intel shareholders sue after 29% share drop tied to slowing PC sales",
-      "region": "Tech",
-      "importance": 2,
-      "summary": "Shareholders have sued Intel after its stock fell 29%, Reuters reported. The proposed class action claims the chipmaker hid from investors how much slowing personal-computer sales were hurting its business, according to the BBC. The claims have not been tested in court.",
-      "why_it_matters": "Intel is one of the largest U.S. chipmakers and is widely held in retirement and index funds, so a drop of that size affects many ordinary investors. The suit adds to a difficult stretch for semiconductor stocks more broadly.",
-      "background": "Intel makes processors for personal computers and data centers and has long depended on PC sales for much of its revenue. When a company's shares fall sharply after bad news, investors often file a class action, a lawsuit brought on behalf of a large group, arguing that executives knew of the problems earlier and did not disclose them. Such cases typically take years, and many are dismissed or settled. The coverage reviewed for this brief does not include Intel's response.",
-      "facts": [
-        { "text": "Intel was sued by shareholders following a 29% fall in its share price.", "refs": ["92904b4dca"] },
-        { "text": "The suit is a proposed class action alleging the company concealed the effect of slowing PC sales from shareholders, the BBC reported.", "refs": ["501905f9bb"] }
-      ],
-      "disputed": [],
-      "framing": [
-        { "ref": "92904b4dca", "note": "Headline centers on the size of the stock drop." },
-        { "ref": "501905f9bb", "note": "Headline centers on the cause, a slump in PC sales." }
-      ],
-      "left_out": [],
-      "coverage": [
-        { "ref": "92904b4dca", "takeaway": "Headline only: wire report of the suit and the 29% decline.", "read_full": false },
-        { "ref": "501905f9bb", "takeaway": "Headline and summary only: describes the proposed class action's claim about PC sales.", "read_full": false }
+        {
+          "ref": "316d776ebe",
+          "takeaway": "Summary only: explains the war- and refinery-driven surge and the easing.",
+          "read_full": false
+        },
+        {
+          "ref": "6c593365ee",
+          "takeaway": "Headline and summary only (paywalled): first sub-$6 reading since early September.",
+          "read_full": false
+        },
+        {
+          "ref": "fc1d061b93",
+          "takeaway": "Summary only (video): Goldman's 2027 oil surplus forecast.",
+          "read_full": false
+        }
       ],
       "social": ""
     }
   ],
   "web_refs": [
-    { "id": "business-w1", "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm", "title": "NVIDIA Announces CEO Transition (Form 8-K exhibit)", "outlet": "U.S. Securities and Exchange Commission" },
-    { "id": "business-w2", "url": "https://www.esri.cao.go.jp/en/sna/kouhyou/kouhyou_top.html", "title": "Quarterly Estimates of GDP: Release Schedule", "outlet": "Cabinet Office, Government of Japan" }
+    {
+      "id": "business-w1",
+      "url": "https://investinglive.com/stocks/anthropic-lines-up-26-billion-from-nvidia-google-others-as-ipo-priced-at-70-to-80/",
+      "title": "Anthropic lines up $26 billion from Nvidia, Google, others as IPO priced at $70 to $80",
+      "outlet": "investingLive"
+    },
+    {
+      "id": "business-w2",
+      "url": "https://axios.com/2026/11/11/bessent-lutnick-megaspeed-nvidia-china-chips",
+      "title": "Scoop: Bessent confronts Lutnick in Situation Room over China inaction",
+      "outlet": "Axios"
+    },
+    {
+      "id": "business-w3",
+      "url": "https://datacenterknowledge.com/data-center-chips/nvidia-probes-huang-ties-as-ai-industry-weighs-the-fallout",
+      "title": "Nvidia Probes Huang Ties as AI Industry Weighs the Fallout",
+      "outlet": "Data Center Knowledge"
+    },
+    {
+      "id": "business-w4",
+      "url": "https://www.pcgamer.com/gaming-industry/nvidia-ceo-jensen-huang-admits-to-affair-with-alleged-chinese-spy-as-company-board-launches-investigation/",
+      "title": "Nvidia CEO Jensen Huang admits to affair with alleged Chinese spy as company board launches investigation",
+      "outlet": "PC Gamer"
+    },
+    {
+      "id": "business-w5",
+      "url": "https://kfgo.com/2026/11/10/feds-waller-plans-to-support-at-least-a-quarter-point-rate-hike-in-december/",
+      "title": "Fed's Waller plans to support at least a quarter point rate hike in December",
+      "outlet": "Reuters via KFGO"
+    },
+    {
+      "id": "business-w6",
+      "url": "https://investinglive.com/central-banks/fed-s-waller-says-a-half-point-rate-hike-in-december-may-be-needed-if-core-cpi-comes-in-hot/",
+      "title": "Fed's Waller says a half-point rate hike in December may be needed if Core CPI comes in hot",
+      "outlet": "investingLive"
+    },
+    {
+      "id": "business-w7",
+      "url": "https://247wallst.com/investing/2026/11/11/the-2-year-treasury-yield-just-had-its-biggest-jump-in-19-months/",
+      "title": "The 2-Year Treasury Yield Just Had Its Biggest Jump in 19 Months",
+      "outlet": "24/7 Wall St."
+    }
   ]
 }

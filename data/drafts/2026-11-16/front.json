@@ -1,76 +1,75 @@
 {
-  "overview": "The FAA said airline schedules were returning to normal on Monday, three days after a nationwide ground stop; President Trump, in his first comments, blamed the Biden administration, his officials asked for $50 billion for air traffic control, CBS News reported, and the FAA prepared to brief Congress. Ukraine hit the bridge linking Russia to Crimea in what outlets described as a record barrage of about 1,300 drones, after U.S.-brokered talks ended without a breakthrough; the Kremlin called the damage minor. Iran attacked Bahrain for the second time in days as its peace talks with the United States appeared stalled, and Estonia said it will close its border crossings with Russia from Dec. 1 after a suspected sabotage attempt at a defense company. Technology stocks fell again ahead of Nvidia's earnings on Tuesday, its first since Jensen Huang resigned as chief executive, and Treasury Secretary Scott Bessent said the company should hire its next chief from outside.",
+  "overview": "Nvidia is in turmoil days after Jensen Huang resigned as chief executive amid allegations that he had extramarital affairs and was targeted by a Chinese spy. Treasury Secretary Scott Bessent is urging the company to hire an outsider, while tech figures including Elon Musk are calling for Huang's return, and investors are waiting on Nvidia's earnings and Anthropic's stock market debut this week. In the US, flights were getting back to normal after Friday's nationwide FAA ground stop, which officials blamed on old equipment and a network failure; the administration is asking for $50 billion for air traffic control. Abroad, Iran attacked Bahrain for the second time in three days and Ukraine hit the bridge linking Russia and Crimea in a record drone barrage, ahead of a summit in Shenzhen this week where President Trump is set to meet Xi Jinping and Vladimir Putin.",
   "markets": {
-    "summary": "U.S. stock futures, which are bets on where indexes will open, fell on Monday morning after technology shares dropped in Asia, according to Reuters and the Wall Street Journal. The quote table still shows Friday's close, when the S&P 500 fell 0.40% and the technology-heavy Nasdaq Composite fell 0.91%. Investors are waiting on two tests of the artificial intelligence boom this week: Nvidia's quarterly results on Tuesday, its first since Jensen Huang resigned as chief executive, and the pricing of Anthropic's initial public offering, its first sale of shares to the public. Japan reported that its economy shrank slightly in the July-September quarter, which Reuters and CNBC linked to inflation and high energy costs squeezing households. The Wall Street Journal reported that Treasury yields, the interest rates the government pays to borrow, eased on Monday after last week's jump on inflation data and Federal Reserve officials' comments about possibly raising rates; yields, oil and currency rows in the table are several days old.",
+    "summary": "US stocks ended last week mixed: on Friday the tech-heavy Nasdaq fell 0.9% and the S&P 500 fell 0.4%, while the Dow edged up 0.1%. Over the past month the Nasdaq is down nearly 6%, as worries about AI companies have deepened with Nvidia's leadership crisis. Stock futures, which are bets on where the market will open, pointed lower again on Monday ahead of Nvidia's earnings and Anthropic's initial share sale, Reuters and the Wall Street Journal reported. Treasury yields, the interest the government pays to borrow, jumped last week after inflation data and comments from Federal Reserve officials hinting at a possible rate hike, and the Journal said they eased slightly on Monday. In energy, US diesel fell below $6 a gallon for the first time since early September, and gold sat near one-year lows. Note the quote table's dates: stock rows are Friday's close, yields are from Thursday, oil from last Wednesday and currencies from Nov. 6.",
     "movers": [
       {
         "symbol": "NASDAQCOM",
-        "why": "Fell 0.91% on Friday and is down 5.83% over the past month, the steepest monthly drop of the major U.S. indexes, as Nvidia and other AI-linked stocks sold off; futures pointed lower again on Monday."
+        "why": "Fell 0.9% on Friday and nearly 6% over a month as a sell-off in AI stocks deepened around Nvidia's leadership crisis and before its earnings."
+      },
+      {
+        "symbol": "DGS2",
+        "why": "The 2-year Treasury yield rose 0.13 percentage point on Thursday, which the Wall Street Journal tied to inflation data and hawkish comments from Fed officials."
       },
       {
         "symbol": "CBBTCUSD",
-        "why": "Bitcoin rose 3.02% on Sunday to about $64,800, recovering part of Saturday's drop, but is still down 20.48% over the past month. Today's coverage gave no clear cause for the rebound."
+        "why": "Bitcoin rose about 3% on Sunday but is still down about 20% over the past month; the digests do not explain the bounce."
       },
       {
-        "symbol": "NIKKEI225",
-        "why": "Japan's main index is down 9.75% over the past month. Its 0.53% gain is from Friday, before Monday's report that Japan's economy contracted last quarter and before Monday's drop in Asian technology shares."
-      },
-      {
-        "symbol": "DGS10",
-        "why": "The 10-year Treasury yield was 5.10% in the latest reading (Nov. 12), up 12 basis points, or 0.12 percentage point, in a day after inflation data and Fed officials' comments raised the prospect of a rate increase; the Wall Street Journal reported yields eased on Monday."
+        "symbol": "DCOILBRENTEU",
+        "why": "Brent crude rose 2.2% last Wednesday for reasons the digests do not give, but is down about 29% over a month; Goldman Sachs now expects a sizable oil surplus next year, Bloomberg reported."
       }
     ],
     "concept": {
       "term": "Gross domestic product (GDP)",
-      "explanation": "GDP is the total value of the goods and services a country produces in a period, and it is the broadest single measure of whether an economy is growing or shrinking. It rises when households, businesses and the government spend more and when exports outpace imports, and it falls when they pull back, as happened in Japan last quarter, where higher prices cut into household spending. Figures are usually given as an annualized rate, meaning one quarter's change stretched out as if it lasted a full year, so Japan's 0.1% annualized drop is a very small decline. It reaches your wallet indirectly: a growing economy tends to bring more hiring and raises, while a shrinking one tends to bring layoffs, and central banks watch GDP when deciding whether to raise or lower interest rates."
+      "explanation": "GDP is the total value of everything a country produces in a given period, and it is the main yardstick for whether an economy is growing or shrinking. It rises when households spend more, businesses invest, governments buy more and exports beat imports, and it falls when those weaken, as in Japan, where high energy prices squeezed shoppers and the economy shrank in July to September. Figures are often 'annualized', meaning a quarter's change is scaled up to show what it would be over a full year. GDP reaches your wallet through jobs and pay: a growing economy usually means more hiring and raises, while two quarters of decline in a row are commonly called a recession, when layoffs tend to rise and central banks may cut interest rates."
     },
     "watch": [
-      "Tue Nov 17: October retail sales report from the Census Bureau, 8:30 a.m. ET",
-      "Tue Nov 17: Nvidia reports quarterly earnings, its first results since Jensen Huang resigned",
-      "Wed Nov 18: Federal Reserve releases minutes of its Oct. 27-28 meeting, 2 p.m. ET",
-      "Wed Nov 18 - Thu Nov 19: APEC leaders' summit in Shenzhen; China has confirmed a Xi-Trump-Putin meeting for Thursday",
-      "Wed Nov 18 - Thu Nov 19: Anthropic's IPO is expected to price and then begin trading on Nasdaq, according to reports; the company has not confirmed the dates"
+      "Tue Nov 17: Nvidia quarterly earnings (the Wall Street Journal says Tuesday; some calendars list Wednesday, and the date is unconfirmed)",
+      "Wed Nov 18: Minutes of the Federal Reserve's October meeting, 2 p.m. ET",
+      "Wed Nov 18: Anthropic's IPO expected to be priced, with trading expected to start Thursday, Bloomberg reported",
+      "Wed-Thu Nov 18-19: APEC leaders' summit in Shenzhen, China, where Trump, Xi and Putin are due to hold a three-way meeting, which China's foreign ministry has set for Thursday"
     ]
   },
   "trending": [
     {
-      "title": "Jensen Huang resigns as Nvidia CEO",
-      "context": "More than 18,000 Bluesky posts and about 194,000 Wikipedia views followed the former chief executive as Nvidia prepares to report earnings on Tuesday without him.",
-      "signal": "bluesky"
-    },
-    {
-      "title": "Trump blames Biden for FAA ground stop",
-      "context": "About 6,500 Bluesky posts reacted to the president's first comments on Friday's nationwide flight halt, in which he blamed the previous administration.",
+      "title": "Jensen Huang",
+      "context": "The Nvidia co-founder resigned as chief executive after reports of affairs, including one with a suspected Chinese spy, and is now reportedly weighing a comeback as tech leaders call for his return.",
       "signal": "bluesky"
     },
     {
       "title": "Trump-Xi summit",
-      "context": "More than 5,000 Google searches came ahead of this week's APEC leaders' summit in Shenzhen, where Trump is expected to meet China's Xi Jinping.",
+      "context": "President Trump heads to Shenzhen, China, this week to meet Xi Jinping, and China says Vladimir Putin will join them for talks on 'world peace' and strategic stability.",
       "signal": "google"
+    },
+    {
+      "title": "Sean Duffy",
+      "context": "The transportation secretary has been the public face of the response to Friday's nationwide FAA ground stop, saying flights were nearing full capacity again.",
+      "signal": "wikipedia"
     },
     {
       "title": "Calls to replace Schumer and Jeffries",
-      "context": "About 6,600 Bluesky posts debated the Democrats' congressional leaders as Sen. Chris Van Hollen called the Senate Democratic leadership race \"wide open,\" the Washington Times reported.",
+      "context": "Some Democrats want new congressional leaders, and Sen. Chris Van Hollen says his challenge to Chuck Schumer as top Senate Democrat is gaining support.",
       "signal": "bluesky"
-    },
-    {
-      "title": "COP31 climate summit in Antalya",
-      "context": "Nearly 3,900 Bluesky posts followed this year's United Nations climate conference, which is being held in Antalya, Turkey.",
-      "signal": "bluesky"
-    },
-    {
-      "title": "Salvadoran military intervention in Haiti",
-      "context": "Wikipedia's In the news summary says the intervention intensified with airstrikes on what it calls the alleged headquarters of the 400 Mawozo gang and a deployment to a Port-au-Prince stadium.",
-      "signal": "wikipedia_news"
     },
     {
       "title": "Bitcoin price",
-      "context": "More than 1,000 Google searches tracked bitcoin as it rebounded about 3% on Sunday while remaining down about a fifth over the past month.",
+      "context": "Bitcoin bounced about 3% on Sunday after losing roughly a fifth of its value over the past month.",
       "signal": "google"
     },
     {
-      "title": "The End of Everything wins the Booker Prize",
-      "context": "M. John Harrison's novel won the Booker Prize, the leading British award for fiction, according to Wikipedia's In the news summary.",
+      "title": "SpaceX Starship catch",
+      "context": "SpaceX caught the upper stage of its Starship rocket with its launch tower arms in Texas after a trip to orbit, a step toward fully reusable rockets.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "SS United States",
+      "context": "The retired American ocean liner was sunk on purpose in the Gulf of Mexico to become what Wikipedia lists as the largest artificial reef.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "Booker Prize",
+      "context": "M. John Harrison's novel The End of Everything won this year's Booker Prize.",
       "signal": "wikipedia_news"
     }
   ]
