@@ -1,0 +1,296 @@
+{
+  "stories": [
+    {
+      "id": "faa-nationwide-ground-stop",
+      "headline": "Flights near normal as ground stop inquiry turns to two routers and a funding fight",
+      "region": "White House",
+      "importance": 5,
+      "summary": "Air travel was largely back to normal on Monday, three days after a nationwide ground stop halted U.S. departures for more than four hours. Transportation Secretary Sean Duffy said investigators are examining two recently installed routers, President Trump blamed the Biden administration in his first comments and pressed Congress for more money, and Democrats said the FAA has not spent what it already has. The FAA is preparing to brief Congress.",
+      "why_it_matters": "Thanksgiving travel starts next week, and Duffy would not promise that a similar failure cannot happen again. How much more taxpayers spend on air traffic control, and who oversees it, is now a fight between the White House and a Congress that Democrats are about to control.",
+      "background": "The FAA runs air traffic control over a network of radar, radio and data links, much of it decades old. On Friday, Nov. 13, communication problems across several sites led the agency to hold departing flights nationwide, which officials called the longest such stop in 25 years. Duffy has tied the failure to maintenance work by contractor L3Harris on an older telecommunications system. Congress approved $12.5 billion last year to modernize the system, and Duffy asked in September for $30 billion more. Democrats won control of Congress in this month's midterm elections and take over in January.",
+      "facts": [
+        { "text": "Air travel was largely returning to normal on Monday, though some disruption continued as airlines worked to get back on schedule.", "refs": ["dcaf42279e", "8c08f29cbe"] },
+        { "text": "Duffy said U.S. flights were nearing full capacity after the weekend of disruption.", "refs": ["3e8f4b649f"] },
+        { "text": "CBS News reported about 2,000 canceled flights and more than 8,000 delays on Sunday.", "refs": ["8d75160cdf"] },
+        { "text": "Duffy said investigators are analyzing two routers installed in recent weeks at FAA facilities in Arkansas and Texas.", "refs": ["f36b16dc5e", "389bcbd0a1"] },
+        { "text": "Duffy said there were no signs of a foreign cyberattack, Fox News reported.", "refs": ["389bcbd0a1"] },
+        { "text": "Aviation experts and federal officials told The New York Times that the outage began after a new piece of networking equipment flooded the rest of the system with data, and that the underlying cause is unclear.", "refs": ["ed690793ce"] },
+        { "text": "In his first public comments on the ground stop, Trump blamed the Biden administration for the FAA's aging systems and urged Congress to approve more funding.", "refs": ["fede03bce1", "3f6f18fbd6", "10594a069a"] },
+        { "text": "Administration officials asked for $50 billion for air traffic control, CBS News reported.", "refs": ["f63073d011"] },
+        { "text": "Congress approved $12.5 billion last year to upgrade the air traffic control system, and Duffy asked in September for another $30 billion.", "refs": ["bdc5524dc2", "us-w1"] },
+        { "text": "Democrats said the FAA has not spent money Congress already approved, and Duffy rejected that criticism.", "refs": ["6300109431", "3c42aca207", "91a5365f5e", "42257558cc"] },
+        { "text": "Duffy declined to apologize for the ground stop and, when asked, could not guarantee that a similar failure would not happen again.", "refs": ["95a2faaf89", "6355f3426c"] },
+        { "text": "Officials said the ground stop was not related to the FAA's new $875 million AI-based system for predicting problems in the airspace.", "refs": ["2686e51c5f"] },
+        { "text": "The FAA is preparing to brief Congress on the failure, CNN reported.", "refs": ["e2a0e04cde"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the FAA needs more money from Congress",
+          "positions": [
+            { "claim": "Trump and Duffy say Congress must provide billions more to replace old air traffic control technology.", "refs": ["f36b16dc5e", "fede03bce1", "f63073d011"] },
+            { "claim": "Democrats say the agency already has approved funds it has not spent, and question how earlier money was used.", "refs": ["6300109431", "3c42aca207", "91a5365f5e"] }
+          ]
+        },
+        {
+          "topic": "Where responsibility for the failure lies",
+          "positions": [
+            { "claim": "Trump and Duffy point to aging systems inherited from earlier administrations.", "refs": ["710c34c7f3", "3f6f18fbd6"] },
+            { "claim": "Duffy has also said contractor error or a faulty router installed in recent weeks could be the cause, and The New York Times reported the outage began with newly added networking equipment.", "refs": ["8c4ee3b623", "ed690793ce"] },
+            { "claim": "CBS News reported that audits over several years had warned officials about delayed, non-competitive contracts and repeated technology breakdowns.", "refs": ["1c2108f4df"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "10594a069a", "note": "Puts Trump's criticism of Biden's management in the headline and ties it directly to the cancellations." },
+        { "ref": "f71b967b6a", "note": "The word \"finally\" stresses how long Trump waited to comment rather than what he said." },
+        { "ref": "1c2108f4df", "note": "Emphasizes years of audit warnings, pointing at long-running management problems across administrations." },
+        { "ref": "389bcbd0a1", "note": "Leads with the technical inquiry and the assurance that no foreign cyberattack was found." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f36b16dc5e", "takeaway": "AP wire account via PBS: two routers under analysis, Duffy's push for funding and Trump's first comments.", "read_full": false },
+        { "ref": "389bcbd0a1", "takeaway": "Summary only: routers in Texas and Arkansas under diagnostics, no sign of a cyberattack.", "read_full": false },
+        { "ref": "ed690793ce", "takeaway": "Headline and summary only (paywalled): explains how one piece of network gear could overload the system.", "read_full": false },
+        { "ref": "6355f3426c", "takeaway": "Headline and summary only (paywalled): Duffy could not guarantee it won't happen again.", "read_full": false },
+        { "ref": "3f6f18fbd6", "takeaway": "Headline only (paywalled): Trump blames Biden in his first comments.", "read_full": false },
+        { "ref": "3c42aca207", "takeaway": "Headline only (paywalled): Democrats point to unspent funds as Duffy seeks upgrades.", "read_full": false },
+        { "ref": "fede03bce1", "takeaway": "Summary only: Trump blames the Biden administration and urges more funding.", "read_full": false },
+        { "ref": "10594a069a", "takeaway": "Headline only: Trump's criticism of Biden's FAA management.", "read_full": false },
+        { "ref": "f63073d011", "takeaway": "Video item, summary only: administration asks for $50 billion.", "read_full": false },
+        { "ref": "1c2108f4df", "takeaway": "Summary only: its own records review of years of audit warnings.", "read_full": false },
+        { "ref": "6300109431", "takeaway": "Headline only: Democrats say the agency already has the money.", "read_full": false },
+        { "ref": "dcaf42279e", "takeaway": "Summary only: travel largely normal Monday with some lingering disruption.", "read_full": false },
+        { "ref": "95a2faaf89", "takeaway": "Summary only: Duffy declines to apologize.", "read_full": false },
+        { "ref": "3e8f4b649f", "takeaway": "Summary only: Duffy says flights are nearing full capacity.", "read_full": false },
+        { "ref": "bdc5524dc2", "takeaway": "Summary only: disruptions and the $12.5 billion Congress already provided.", "read_full": false },
+        { "ref": "2686e51c5f", "takeaway": "AP wire summary: officials say the new AI system was not involved.", "read_full": false },
+        { "ref": "8c4ee3b623", "takeaway": "Summary only: Duffy cites contractor error or a faulty router.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "schumer-van-hollen-leadership-race",
+      "headline": "Van Hollen says his bid to replace Schumer as Senate Democratic leader is gaining support",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "Sen. Chris Van Hollen of Maryland said on Sunday that he has a \"wide-open\" path to defeat Chuck Schumer in the race to lead the incoming Senate Democratic majority. He disputed Schumer's claim to have the votes to stay on, and Politico reported that senators are privately discussing moving up the Dec. 1 leadership vote.",
+      "why_it_matters": "Whoever wins will decide what the Senate votes on starting in January, including how hard Democrats push back on President Trump over spending, the Iran war and investigations.",
+      "background": "Chuck Schumer of New York has led Senate Democrats since 2017. Democrats won back the Senate in this month's midterm elections, which would make their leader the majority leader in January. Some in the party have been unhappy with how Schumer handled earlier fights with Trump, and the caucus agreed last year to put off a leadership debate until after the midterms. Van Hollen announced his challenge last week. The leader is chosen by secret ballot and needs a majority of Senate Democrats.",
+      "facts": [
+        { "text": "Van Hollen said on Sunday that his path to unseating Schumer is \"wide open\" and that his support is growing.", "refs": ["c9b81c93fe", "610c3f9036", "8824cc0032"] },
+        { "text": "Van Hollen disputed Schumer's claim that he has the votes to remain leader, Politico reported.", "refs": ["0b0ddcd0bc"] },
+        { "text": "Senators are privately discussing moving up the leadership vote scheduled for Dec. 1, according to Politico.", "refs": ["0b0ddcd0bc"] },
+        { "text": "Van Hollen told CNN that earning voters' trust \"begins by not going back to business as usual.\"", "refs": ["5008de8193"] },
+        { "text": "Van Hollen has called for more inclusion within the Democratic caucus, The Guardian reported.", "refs": ["8824cc0032"] },
+        { "text": "The leader is elected by secret ballot and needs a majority of Senate Democrats.", "refs": ["us-w2"] },
+        { "text": "Senate Democrats agreed in December 2025 to delay their leadership debate until after the midterms.", "refs": ["us-w3"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Schumer has the votes to stay leader",
+          "positions": [
+            { "claim": "Schumer says he has the votes.", "refs": ["0b0ddcd0bc"] },
+            { "claim": "Van Hollen says that is not so and that his own support is growing.", "refs": ["0b0ddcd0bc", "c9b81c93fe", "b0f51b5bb8"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "8824cc0032", "note": "Presents Van Hollen as a progressive with a real path to winning." },
+        { "ref": "a68a80a0e6", "note": "Uses \"ousting,\" casting the contest as a move to remove Schumer." },
+        { "ref": "5e111da37c", "note": "Frames it around Schumer: a leader who won the majority and may still lose his job." },
+        { "ref": "0b0ddcd0bc", "note": "Focuses on the vote count and the dispute over who actually has support." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c9b81c93fe", "takeaway": "Headline and summary only (paywalled): Van Hollen says his challenge is gaining support.", "read_full": false },
+        { "ref": "b0f51b5bb8", "takeaway": "Headline only (paywalled): Van Hollen says he has support.", "read_full": false },
+        { "ref": "8824cc0032", "takeaway": "Summary only: Van Hollen escalates his bid and cites openness to change among colleagues.", "read_full": false },
+        { "ref": "0b0ddcd0bc", "takeaway": "Summary only: dispute over the vote count and talk of an earlier vote.", "read_full": false },
+        { "ref": "610c3f9036", "takeaway": "Headline only: Van Hollen calls the race wide open.", "read_full": false },
+        { "ref": "a68a80a0e6", "takeaway": "Headline only: Van Hollen sees an open lane.", "read_full": false },
+        { "ref": "5008de8193", "takeaway": "Video headline only: Van Hollen on why he is running.", "read_full": false },
+        { "ref": "5e111da37c", "takeaway": "Summary only: a column-style piece on what the challenge says about the party.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "reitz-warren-oversight-warning",
+      "headline": "Federal prosecutor warns Sen. Warren of legal consequences over planned Trump-related probes",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "Aaron Reitz, a U.S. attorney in Texas, sent Sen. Elizabeth Warren a letter on Sunday accusing her of targeting people close to President Trump and demanding that she preserve records tied to her planned oversight work. The letter warned of possible legal consequences. Warren, a Massachusetts Democrat, is expected to lead the Senate Banking Committee when Democrats take control in January.",
+      "why_it_matters": "Congress's power to investigate the executive branch is one of the main checks on a president. A Justice Department official warning a senator before any investigation has begun raises the question of how far each branch can go in policing the other.",
+      "background": "Democrats won control of Congress in this month's midterm elections, which gives them committee chairmanships and subpoena power starting in January. Several have said they plan to investigate Trump and people around him. U.S. attorneys are the Justice Department's top federal prosecutors in each district. The news site Democracy Docket reported that Reitz sent a similar letter earlier to Sen. Richard Blumenthal, a Connecticut Democrat who has been looking into donors to Trump's White House ballroom project.",
+      "facts": [
+        { "text": "Reitz wrote to Warren on Sunday warning of potential legal consequences over her plans to investigate Trump and his allies.", "refs": ["d5b59389d4", "8c928c2cd9", "db6d87128c"] },
+        { "text": "The letter demanded that Warren preserve documents related to her upcoming oversight work.", "refs": ["d5b59389d4", "8c928c2cd9"] },
+        { "text": "The Washington Times reported that the letter accused Warren of an \"intent to weaponize congressional investigations.\"", "refs": ["a53c98a422"] },
+        { "text": "Warren is the likely next chair of the Senate Banking Committee, and The Guardian described the letter as the latest in a series of warnings to Democrats about their post-midterm plans.", "refs": ["c656e17c3c"] },
+        { "text": "Reuters also reported the Justice Department warning to Warren.", "refs": ["d38f864544"] },
+        { "text": "Democracy Docket reported that Reitz earlier told Sen. Richard Blumenthal to preserve records, citing federal civil rights statutes and setting a Nov. 18 deadline to respond.", "refs": ["us-w4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "db6d87128c", "note": "Says Reitz warned Warren \"against investigating,\" presenting the letter as an attempt to deter oversight." },
+        { "ref": "8c928c2cd9", "note": "Centers on record preservation, presenting the letter as a legal notice." },
+        { "ref": "a53c98a422", "note": "Uses \"threatens\" but quotes the prosecutor's charge that Warren would weaponize investigations." },
+        { "ref": "d5b59389d4", "note": "Leads with the prosecutor's accusation against Warren." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d5b59389d4", "takeaway": "Summary only: the letter, the preservation demand and the warning of consequences.", "read_full": false },
+        { "ref": "db6d87128c", "takeaway": "Headline and partial summary only: a Justice Department official warns Warren.", "read_full": false },
+        { "ref": "8c928c2cd9", "takeaway": "Summary only: legal consequences if records are not preserved.", "read_full": false },
+        { "ref": "a53c98a422", "takeaway": "Headline only: quotes the letter's language about weaponized investigations.", "read_full": false },
+        { "ref": "c656e17c3c", "takeaway": "Live blog summary only: places the letter among other warnings to Democrats.", "read_full": false },
+        { "ref": "d38f864544", "takeaway": "Headline only: wire report of the warning.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "lutnick-bessent-nvidia-chips",
+      "headline": "Pressure builds on Commerce Secretary Lutnick over Nvidia chip scandal",
+      "region": "White House",
+      "importance": 3,
+      "summary": "Commerce Secretary Howard Lutnick is facing growing scrutiny from lawmakers in both parties and from Treasury Secretary Scott Bessent over how his department handled Nvidia and its AI chip exports. Sen. Maria Cantwell urged him to stop AI chip sales to China before President Trump meets Chinese leader Xi Jinping this week.",
+      "why_it_matters": "The rules on who can buy advanced AI chips are meant to keep that technology from China's military. Questions about whether the official enforcing them had family business ties to the companies involved go to whether those rules were applied fairly.",
+      "background": "The U.S. limits sales of top-end AI chips to China, and the Commerce Department enforces those limits. Megaspeed, a Singapore-based Nvidia customer, has been accused of passing chips to China; reports say a woman who once led it is a suspected Chinese spy. Nvidia chief executive Jensen Huang resigned last week amid the scandal. Lutnick formerly ran the Wall Street firm Cantor Fitzgerald, which his sons now lead. He has agreed to testify to the Senate Banking Committee on Dec. 10.",
+      "facts": [
+        { "text": "Sen. Maria Cantwell urged Lutnick to stop AI chip sales to China ahead of Trump's meeting with Xi.", "refs": ["b987f5a2c4"] },
+        { "text": "Lutnick is under scrutiny from Bessent and members of Congress over his approach to AI chip export controls, The Hill reported.", "refs": ["4a81ce0922"] },
+        { "text": "Bessent declined to defend Lutnick, the New York Sun reported.", "refs": ["27e2fa9ba3"] },
+        { "text": "The Washington Post reported that Republican scrutiny of Lutnick is growing.", "refs": ["c705436afa"] },
+        { "text": "CNBC reported that the firm run by Lutnick's sons has ties to Nvidia.", "refs": ["be0f439fc3"] },
+        { "text": "The New York Times reported that Lutnick has been writing rules affecting Southeast Asian data centers, some of which are clients of his former firm.", "refs": ["40d4159292"] },
+        { "text": "Megaspeed said Alice Huang left the company in 2025, denied wrongdoing and said it is conducting an internal review.", "refs": ["bb78ab25bf", "d2596ec4a1"] },
+        { "text": "The Hill reported that the scandal threatens to overshadow Trump's meeting with Xi this week.", "refs": ["509212a558"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "c705436afa", "note": "Stresses that the pressure is now coming from Lutnick's own party." },
+        { "ref": "27e2fa9ba3", "note": "Focuses on the split inside the cabinet, with Bessent withholding support." },
+        { "ref": "be0f439fc3", "note": "Puts the family's financial ties to Nvidia in the headline." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "4a81ce0922", "takeaway": "Summary only: Bessent and Congress focus on Lutnick's role.", "read_full": false },
+        { "ref": "b987f5a2c4", "takeaway": "Summary only: Cantwell's call to halt chip sales to China.", "read_full": false },
+        { "ref": "be0f439fc3", "takeaway": "Summary only: Lutnick family firm's ties to Nvidia.", "read_full": false },
+        { "ref": "27e2fa9ba3", "takeaway": "Headline only: Bessent declines to defend Lutnick.", "read_full": false },
+        { "ref": "c705436afa", "takeaway": "Headline only (paywalled): Republican attention on Lutnick grows.", "read_full": false },
+        { "ref": "40d4159292", "takeaway": "Headline and summary only (paywalled): chip rules that overlap with his family business.", "read_full": false },
+        { "ref": "bb78ab25bf", "takeaway": "Summary only: Megaspeed's statement and denial.", "read_full": false },
+        { "ref": "509212a558", "takeaway": "Summary only: how the scandal hangs over the Xi meeting.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "new-orleans-tanker-cruise-collision",
+      "headline": "NTSB says tanker's steering failed minutes before it hit docked New Orleans cruise ship",
+      "region": "",
+      "importance": 3,
+      "summary": "Federal investigators said on Sunday that a preliminary finding shows the tanker Atlantic Asphalt lost steering shortly before it struck the docked river cruise ship American Heritage in New Orleans on Friday. The National Transportation Safety Board recovered audio from the tanker's recorder and released a first timeline. The port has sued the tanker's owners.",
+      "why_it_matters": "Tankers and tourist boats share a crowded stretch of the Mississippi in the middle of a city. The finding points investigators toward equipment and maintenance rather than the weather or the cruise ship.",
+      "background": "The Atlantic Asphalt hit the American Heritage while the cruise ship was docked on the Mississippi River in New Orleans on Friday, Nov. 13. Passengers, crew and two police officers ended up in the river, and no one was killed. The National Transportation Safety Board, which investigates serious marine accidents, is leading the inquiry. Preliminary findings can change; a final report usually takes a year or more.",
+      "facts": [
+        { "text": "NTSB officials said a preliminary finding indicates the tanker's steering system failed, leaving its rudder in a position that sent it into the docked cruise ship.", "refs": ["f993cedd6d", "8494a37afe", "ade629466c"] },
+        { "text": "The steering failure came about two minutes before the collision, The Guardian reported.", "refs": ["d96cf92301"] },
+        { "text": "Investigators recovered audio and released a preliminary timeline on Sunday.", "refs": ["d96cf92301", "bd02f325b7"] },
+        { "text": "The tanker's voyage recorder captured warning whistles and emergency orders before the impact, Fox News reported.", "refs": ["bd02f325b7"] },
+        { "text": "The collision sent passengers, crew and two police officers into the river.", "refs": ["b27bf84dc6"] },
+        { "text": "Port officials are seeking at least $1 million in damages from the tanker's owners, and no one was killed in the collision.", "refs": ["4c14124ae2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "8494a37afe", "note": "States flatly that the steering problem caused the collision, though the finding is preliminary." },
+        { "ref": "d96cf92301", "note": "Uses the \"Mississippi miracle\" label, stressing that everyone survived." },
+        { "ref": "bd02f325b7", "note": "Emphasizes the crew's warnings and emergency orders in the final moments." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f993cedd6d", "takeaway": "AP wire summary: steering failure left the rudder stuck.", "read_full": false },
+        { "ref": "8494a37afe", "takeaway": "Headline only: NTSB attributes the collision to a steering problem.", "read_full": false },
+        { "ref": "ade629466c", "takeaway": "Summary only: NTSB cites a \"steering casualty.\"", "read_full": false },
+        { "ref": "d96cf92301", "takeaway": "Summary only: recovered audio and a two-minute timeline.", "read_full": false },
+        { "ref": "bd02f325b7", "takeaway": "Summary only: what the voyage recorder captured.", "read_full": false },
+        { "ref": "b27bf84dc6", "takeaway": "AP wire summary via PBS: first official word on the cause.", "read_full": false },
+        { "ref": "4c14124ae2", "takeaway": "Summary only: the port's lawsuit against the tanker's owners.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "east-potomac-golf-course-order",
+      "headline": "Trump says administration will appeal order pausing D.C. public golf course project",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "President Trump said on Sunday that the Interior Department will appeal a federal judge's order that stopped the administration from closing East Potomac Golf Links in Washington over the weekend. U.S. District Judge Ana Reyes issued the two-week order on Saturday while a lawsuit over his plan to rebuild the public course continues.",
+      "why_it_matters": "The case tests how far a president can go in remaking public parkland over the objections of groups that use it. For now, a popular public course stays open to golfers.",
+      "background": "East Potomac Golf Links is a historic public course on National Park Service land near the White House. Trump wants to rebuild it as a championship-level course, one of several changes he has pursued in the capital. Groups opposed to the plan sued, and Judge Reyes has issued several orders in the case, including one that barred removing more trees and required advance notice before any closure. The course had been set to close on Sunday for 15 months.",
+      "facts": [
+        { "text": "Judge Reyes issued a temporary restraining order on Saturday that delays any work at the course for two weeks.", "refs": ["375d28637a", "6b372b0320", "bd2feb2361"] },
+        { "text": "The course had been due to close on Sunday for 15 months.", "refs": ["6b372b0320"] },
+        { "text": "Trump said on Sunday that the Interior Department will appeal the ruling.", "refs": ["9f8483996b", "a2d31dc817"] },
+        { "text": "Trump criticized Reyes as a Biden appointee and said the course is \"in a terrible state of disrepair.\"", "refs": ["9f8483996b", "a2d31dc817"] },
+        { "text": "Trump spent much of the weekend posting photos of the course on his social media site.", "refs": ["a2d31dc817"] },
+        { "text": "Reyes said the administration would not be responsible for operating the course while the case proceeds, The New York Times reported.", "refs": ["d56d1828e8"] },
+        { "text": "An earlier order from Reyes barred the government from removing or damaging more trees and required at least 10 business days' written notice before closing any part of the course.", "refs": ["us-w5"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "08a11325ce", "note": "Calls the course \"historic\" and places the order among other court rulings against Trump's plans for the capital." },
+        { "ref": "76222d4d31", "note": "Puts Trump's \"Trash Island\" nickname for the site in the headline." },
+        { "ref": "3e47a1cdf2", "note": "Focuses on Trump's anger, describing the project as a \"takeover.\"" },
+        { "ref": "9f8483996b", "note": "Leads with the planned appeal and calls the work \"renovations.\"" }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "375d28637a", "takeaway": "Summary only: the two-week delay and Trump's promise to appeal.", "read_full": false },
+        { "ref": "a2d31dc817", "takeaway": "AP wire summary via PBS: Trump's statements about the course and the judge.", "read_full": false },
+        { "ref": "6b372b0320", "takeaway": "Summary only: the order came before a planned 15-month closure.", "read_full": false },
+        { "ref": "9f8483996b", "takeaway": "Summary only: Trump says Interior will appeal.", "read_full": false },
+        { "ref": "3e47a1cdf2", "takeaway": "Newsletter summary only: Trump's reaction and the state of the course.", "read_full": false },
+        { "ref": "d56d1828e8", "takeaway": "Headline and summary only (paywalled): who runs the course during the case.", "read_full": false },
+        { "ref": "08a11325ce", "takeaway": "Summary only: the order as one of several judicial setbacks.", "read_full": false },
+        { "ref": "76222d4d31", "takeaway": "Summary only: the order within a months-long challenge.", "read_full": false },
+        { "ref": "bd2feb2361", "takeaway": "Summary only: the administration cannot close the park for now.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "rnc-chair-challenge",
+      "headline": "Trump's pick to lead the Republican National Committee faces a challenge after midterm losses",
+      "region": "Elections",
+      "importance": 3,
+      "summary": "Some Republican National Committee members are moving against chairman Joe Gruters, President Trump's choice for the job, after the party's midterm defeats, the Associated Press reported. Co-chair KC Crosbie has said she will run against him at the committee's January meeting, and Trump has said Gruters should stay.",
+      "why_it_matters": "The RNC sets the rules and calendar for the 2028 presidential primaries, so who runs it affects how the next Republican nominee is chosen. The fight is also an early measure of Trump's hold on his party.",
+      "background": "The Republican National Committee is the party's national organizing and fundraising body, run by a chair elected by its members. Gruters, a Florida Republican and Trump ally, became chairman in August 2025. Republicans lost control of Congress in this month's midterm elections, which the AP described as the party's worst midterm showing in a generation. Open challenges to a sitting president's choice for party chair are unusual.",
+      "facts": [
+        { "text": "A rebellion is forming against Trump's handpicked RNC chairman after the midterm losses, the Associated Press reported.", "refs": ["0b57dc62c4", "98827c0220"] },
+        { "text": "The AP said the fight will shape the 2028 presidential nominating contest and is a rare challenge to Trump's dominance of the party.", "refs": ["486154a5dc"] },
+        { "text": "RNC co-chair KC Crosbie announced she will challenge Gruters for chairman at the committee's January meeting, Just the News reported.", "refs": ["us-w6"] },
+        { "text": "Trump said Gruters should return as chairman, according to Just the News.", "refs": ["us-w6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "98827c0220", "note": "The words \"handpicked\" and \"rebellion\" cast the dispute as a test of Trump's control. Every outlet in the digest ran this same AP story." },
+        { "ref": "d716992912", "note": "A later version of the same wire headline says the losses \"test\" rather than \"challenge\" his grip." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "98827c0220", "takeaway": "Headline only: the original AP wire story.", "read_full": false },
+        { "ref": "0b57dc62c4", "takeaway": "AP wire summary via ABC: a rebellion against the RNC chairman.", "read_full": false },
+        { "ref": "486154a5dc", "takeaway": "AP wire summary via PBS: stakes for 2028 and Trump's dominance.", "read_full": false },
+        { "ref": "7d3a657fc5", "takeaway": "Headline only: reprint of the AP story.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://www.nextgov.com/modernization/2026/09/30b-more-needed-air-traffic-control-modernization-transportation-secretary-says/416324/", "title": "$30B more is needed for air traffic control modernization, Transportation secretary says", "outlet": "Nextgov/FCW" },
+    { "id": "us-w2", "url": "https://www.scrippsnews.com/politics/congress/van-hollen-considers-challenge-to-schumer-for-senate-democratic-leader", "title": "Van Hollen considers challenge to Schumer for Senate Democratic leader", "outlet": "Scripps News" },
+    { "id": "us-w3", "url": "https://www.semafor.com/article/12/04/2025/schumers-democrats-put-off-their-leadership-debate-until-after-the-midterms", "title": "Schumer's Democrats put off their leadership debate until after the midterms", "outlet": "Semafor" },
+    { "id": "us-w4", "url": "https://www.democracydocket.com/news-alerts/u-s-attorney-threatens-democratic-senator-with-prosecution-for-conducting-oversight/", "title": "U.S. attorney threatens Democratic senator with prosecution for conducting oversight", "outlet": "Democracy Docket" },
+    { "id": "us-w5", "url": "https://www.scrippsnews.com/politics/the-president/trump-vows-appeal-after-judge-blocks-parts-of-d-c-golf-course-overhaul", "title": "Trump vows appeal after judge blocks parts of D.C. golf course overhaul", "outlet": "Scripps News" },
+    { "id": "us-w6", "url": "https://justthenews.com/politics-policy/elections/trump-backs-rnc-chairman-joe-gruters-kc-crosbie-launches-challenge-after", "title": "RNC leadership also emerges as GOP question mark after midterm losses, Trump choice faces challenge", "outlet": "Just the News" }
+  ]
+}

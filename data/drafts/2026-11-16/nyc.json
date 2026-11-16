@@ -1,0 +1,196 @@
+{
+  "stories": [
+    {
+      "id": "flatbush-collapse-vigil",
+      "headline": "Flatbush mourns eight killed in apartment building collapse",
+      "region": "Brooklyn",
+      "importance": 5,
+      "summary": "Neighbors, firefighters and elected officials gathered in Flatbush on Sunday afternoon for a vigil for the people killed when an apartment building collapsed on Nov. 11. amNY puts the toll at eight dead and 18 injured. Early reports said the cause had not been established, and the digest's coverage does not report a finding yet.",
+      "why_it_matters": "Eight people died at home in an ordinary apartment building, and whatever investigators conclude about the cause will bear on how safe New Yorkers can assume their own buildings are, especially next to construction sites.",
+      "background": "An apartment building at 2625 Bedford Avenue in Flatbush, Brooklyn, collapsed at about 4 p.m. on Wednesday, Nov. 11. Firefighters dug through the rubble for people trapped inside, and the first-day reports counted one death; the toll has since risen to eight. The Department of Buildings sent inspectors to help with recovery and to check whether neighboring buildings were stable. Early coverage noted construction next to the building and said authorities had not determined whether it played a part.",
+      "facts": [
+        { "text": "The Nov. 11 collapse killed eight people and injured 18, according to amNY.", "refs": ["2e9fc42fd9"] },
+        { "text": "Community members, the FDNY and elected officials held a vigil for the victims in Flatbush on Sunday afternoon.", "refs": ["2e9fc42fd9"] },
+        { "text": "The building stood at 2625 Bedford Avenue and came down at about 4 p.m. on Wednesday, Nov. 11.", "refs": ["nyc-w2"] },
+        { "text": "On the day of the collapse the NYPD had confirmed one death; the count rose in the days that followed.", "refs": ["nyc-w1", "2e9fc42fd9"] },
+        { "text": "The Department of Buildings sent inspectors to assist with recovery and to inspect the stability of nearby buildings.", "refs": ["nyc-w2"] },
+        { "text": "A construction worker, Miguel Tigsilema, found a 2-year-old boy while searching for survivors, the New York Times reported.", "refs": ["61414e6095"] },
+        { "text": "A survivor, the DJ Omari Jack, lost a large collection of reggae records and memorabilia in the collapse, Gothamist reported.", "refs": ["55e7948ec7"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "2e9fc42fd9", "note": "Centers the collective mourning and the death toll, with the FDNY alongside residents." },
+        { "ref": "61414e6095", "note": "Tells the story through a single rescue, of a toddler by a construction worker." },
+        { "ref": "55e7948ec7", "note": "Focuses on what one survivor lost rather than on the dead or the cause." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2e9fc42fd9", "takeaway": "Headline and summary only: vigil report that carries the toll of eight dead and 18 injured.", "read_full": false },
+        { "ref": "55e7948ec7", "takeaway": "Headline and summary only: profile of a survivor who lost his record collection.", "read_full": false },
+        { "ref": "61414e6095", "takeaway": "Headline and summary only (paywalled): account of a construction worker rescuing a 2-year-old.", "read_full": false },
+        { "ref": "ac8a75a5d5", "takeaway": "Headline and summary only (paywalled): neighbors describe the moment of the collapse.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "shsat-tech-failure",
+      "headline": "Specialized high school exam halted by technical failure; students to be rescheduled",
+      "region": "Schools",
+      "importance": 4,
+      "summary": "The Specialized High School Admissions Test broke down on Saturday when the online testing platform failed, and students who could not get in or finish were sent home. The Education Department blamed a technical problem at its vendor and said affected students would be rescheduled automatically.",
+      "why_it_matters": "For thousands of eighth graders this one exam decides whether they get into schools like Stuyvesant, so families now face a second test day and questions about whether the digital format is reliable.",
+      "background": "The SHSAT is the only admissions criterion for eight of the city's nine specialized high schools, which are among the most sought-after public schools in New York. The test moved from paper to computer in fall 2025; Chalkbeat reported then that the first digital administration went smoothly for most of the roughly 19,500 eighth graders who took it at their middle schools. The city relies on an outside vendor to run the testing platform.",
+      "facts": [
+        { "text": "Students taking the SHSAT on Saturday were unable to access or finish the exam because of online technical failures, and were sent home early.", "refs": ["d61ce831a1", "3e7c16a4d8", "b8aed81f16"] },
+        { "text": "City education officials said the vendor had a technical problem with the testing platform that morning.", "refs": ["d61ce831a1", "3e7c16a4d8"] },
+        { "text": "School officials said students who could not finish would be rescheduled automatically.", "refs": ["3e7c16a4d8", "d61ce831a1"] },
+        { "text": "The test determines admission to eight of the city's nine specialized high schools, including Stuyvesant.", "refs": ["3e7c16a4d8", "b8aed81f16"] },
+        { "text": "When the exam first went digital in November 2025, officials said only a handful of the roughly 19,500 students tested at their middle schools needed a makeup because of a technical issue.", "refs": ["nyc-w3"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "3e7c16a4d8", "note": "Says the test was \"stalled\" and attributes the explanation to the Education Department." },
+        { "ref": "d61ce831a1", "note": "Calls it a \"tech glitch\" and leads with students being sent home and the rescheduling." },
+        { "ref": "b8aed81f16", "note": "Says the test \"crashes\" and stresses the emotional toll on students citywide." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3e7c16a4d8", "takeaway": "Headline and summary only: first report, with the department's promise to reschedule.", "read_full": false },
+        { "ref": "d61ce831a1", "takeaway": "Headline and summary only: quotes officials blaming the vendor's platform.", "read_full": false },
+        { "ref": "b8aed81f16", "takeaway": "Headline and summary only (paywalled): stresses that the test is the sole admissions criterion.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "belt-parkway-police-shooting",
+      "headline": "NYPD officers fatally shoot driver on Belt Parkway after reported abduction",
+      "region": "Brooklyn",
+      "importance": 4,
+      "summary": "Police shot and killed a man on the Belt Parkway in Brooklyn on Saturday evening after a report that a woman was trying to get out of his van. The NYPD said he rammed police and civilian vehicles while trying to get away. The woman, who was heard screaming for help from inside the van, was not hurt.",
+      "why_it_matters": "Any killing by police gets reviewed, and so far the public account comes from the NYPD alone; the case also touches on how the city handles repeat domestic violence, since police say the man had prior cases involving the same woman.",
+      "background": "The incident began Saturday at about 7:20 p.m. with a report of a possible abduction in the Coney Island area, and ended on the Belt Parkway, the highway that runs along Brooklyn's southern shore. NYPD Assistant Chief Charles Minch gave the department's account afterward. Police described the man as a kidnapping suspect with a history of domestic violence cases. Fatal police shootings in New York have previously been reviewed by the state attorney general's office, as happened after a 2025 police shooting near the same highway.",
+      "facts": [
+        { "text": "NYPD officers fatally shot a man who was driving a van on the Belt Parkway in Brooklyn on Saturday evening.", "refs": ["f22fe35c99", "e8eedd8fc3", "c859fbfde1"] },
+        { "text": "Officers were trying to stop him after a report that a woman was trying to get out of the van.", "refs": ["c859fbfde1", "e8eedd8fc3"] },
+        { "text": "Police said the driver used his vehicle to ram police and civilian vehicles in an attempt to escape.", "refs": ["f22fe35c99", "c859fbfde1"] },
+        { "text": "The woman, who had been heard screaming for help from inside the van, was unharmed.", "refs": ["e8eedd8fc3"] },
+        { "text": "Police said the man had a history of domestic violence cases involving the same woman.", "refs": ["f22fe35c99"] },
+        { "text": "The state attorney general's office opened an investigation after a 2025 fatal police shooting of a driver near the Belt Parkway.", "refs": ["nyc-w4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f22fe35c99", "note": "Labels the dead man a kidnapping suspect and puts his alleged history of abuse in the headline, credited to police." },
+        { "ref": "e8eedd8fc3", "note": "Leads with the police killing and calls the kidnapping \"suspected.\"" },
+        { "ref": "c859fbfde1", "note": "Calls him a driver and attributes the ramming claim to officers; no mention of kidnapping in the headline." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f22fe35c99", "takeaway": "Headline and summary only: the police account from Assistant Chief Minch, including the domestic violence history.", "read_full": false },
+        { "ref": "e8eedd8fc3", "takeaway": "Headline and summary only: notes the woman in the van was unharmed.", "read_full": false },
+        { "ref": "c859fbfde1", "takeaway": "Headline and summary only (paywalled): says officers were trying to detain the driver after a report about the woman.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "delivery-protection-act-lawsuit-threat",
+      "headline": "Amazon and National Urban League threaten to sue if Council passes delivery bill",
+      "region": "City Hall",
+      "importance": 3,
+      "summary": "Amazon and the National Urban League are threatening to take the city to court if the City Council passes the Delivery Protection Act, City & State reports. The bill, backed by Mayor Zohran Mamdani, would stop delivery companies from handing last-mile work to third-party contractors. The Council has not voted on it.",
+      "why_it_matters": "The fight will shape who employs the drivers bringing packages to New Yorkers' doors and, if Amazon's warnings hold, what delivery costs; only one outlet in today's digest covers the lawsuit threat.",
+      "background": "Amazon relies on outside contractor firms, which it calls delivery service partners, for last-mile deliveries. The Delivery Protection Act, Intro 518 in the City Council, would require delivery companies operating in the city to hold a license and would bar them from subcontracting core delivery work, pushing companies like Amazon to hire drivers directly. The Teamsters union has campaigned for it and Mayor Mamdani supports it. A Council committee held a hearing in April, and trade press reported in the fall that the bill had not moved since. Business groups and the National Urban League, a civil rights organization, oppose it.",
+      "facts": [
+        { "text": "Amazon and the National Urban League have threatened to sue the city if the Delivery Protection Act passes, City & State reported.", "refs": ["c12b549901"] },
+        { "text": "The bill would end third-party contracting for deliveries and is backed by Mayor Mamdani.", "refs": ["c12b549901", "nyc-w5"] },
+        { "text": "The bill would require delivery companies in the city to be licensed and would bar subcontracting of core delivery services.", "refs": ["nyc-w5", "nyc-w6"] },
+        { "text": "National Urban League chief executive Marc Morial wrote an open letter to the Council opposing the bill in October.", "refs": ["nyc-w7"] },
+        { "text": "City & State reported that the National Urban League lists Amazon as a \"diamond partner,\" a tier for donors of more than $1 million.", "refs": ["nyc-w5"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Who the bill would help or hurt",
+          "positions": [
+            { "claim": "Amazon says the mandate could cost New York City households hundreds of dollars a year.", "refs": ["nyc-w8"] },
+            { "claim": "The National Urban League says the bill could deepen economic disparities for workers of color and threaten Black-owned businesses.", "refs": ["nyc-w7"] },
+            { "claim": "The Teamsters, who represent Amazon workers pushing for the bill, have demanded the Council pass it.", "refs": ["nyc-w9"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "c12b549901", "note": "Puts the lawsuit threat first and ties the bill to Mamdani; describes opponents as business groups." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c12b549901", "takeaway": "Headline and summary only: the sole report of the lawsuit threat.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "housing-lottery-odds",
+      "headline": "THE CITY analysis details long odds in the affordable housing lottery",
+      "region": "Housing",
+      "importance": 3,
+      "summary": "THE CITY published a package of reports on Monday estimating applicants' chances in the city's affordable housing lottery, based on housing department data covering January 2022 through October 2024. The outlet describes winning a subsidized apartment as a long shot, and notes that many \"affordable\" units carry rents of several thousand dollars a month.",
+      "why_it_matters": "The lottery is the main route to a new rent-stabilized apartment below market price, and knowing the real odds and income rules helps New Yorkers decide which listings are worth applying for. This is one outlet's own analysis.",
+      "background": "New York City awards income-restricted apartments in new buildings by lottery, run by the Department of Housing Preservation and Development (HPD). Eligibility and rents are pegged to Area Median Income, a federal figure for the region, so an apartment can be labeled affordable while renting for more than many residents can pay. A city law, Local Law 217, requires HPD to publish reports on lottery outcomes, and that data is what THE CITY analyzed. The city's 2023 Housing and Vacancy Survey found that a large share of renters spend 30% or more of their income on housing.",
+      "facts": [
+        { "text": "THE CITY reviewed HPD's Local Law 217 report on lottery outcomes from Jan. 1, 2022, through Oct. 31, 2024, to estimate applicants' odds.", "refs": ["59b31e597e"] },
+        { "text": "HPD publishes the Local Law 217 lottery reports on the city's website.", "refs": ["nyc-w10"] },
+        { "text": "Recent lottery listings included a Murray Hill two-bedroom at $4,518 a month, a Marble Hill one-bedroom at $3,180 and a Flatbush studio at $2,022.", "refs": ["c0fd58b0f5"] },
+        { "text": "According to the city's 2023 Housing and Vacancy Survey, 18% of renters put between 30% and 50% of their income toward housing.", "refs": ["a6de039502"] },
+        { "text": "THE CITY describes the chances of winning a subsidized apartment as \"a long shot, but not unheard of.\"", "refs": ["ba75600f22"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "01f3abe8d3", "note": "Presents the odds with a light touch, comparing them to being audited or bitten by a dog." },
+        { "ref": "c0fd58b0f5", "note": "Questions the word \"affordable\" by leading with listings priced in the thousands." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "01f3abe8d3", "takeaway": "Headline and summary only: the main odds piece.", "read_full": false },
+        { "ref": "59b31e597e", "takeaway": "Headline and summary only: methodology note naming the data source and period.", "read_full": false },
+        { "ref": "c0fd58b0f5", "takeaway": "Headline and summary only: explainer on Area Median Income with sample rents.", "read_full": false },
+        { "ref": "a6de039502", "takeaway": "Headline and summary only: overview of affordable housing options, citing the 2023 vacancy survey.", "read_full": false },
+        { "ref": "ba75600f22", "takeaway": "Headline and summary only: how-to guide for applying.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "seneca-meadows-methane",
+      "headline": "Report: state's largest landfill is leaking more methane than previously thought",
+      "region": "",
+      "importance": 2,
+      "summary": "A new report finds that Seneca Meadows, New York's biggest landfill, is releasing more methane than had been estimated, Gothamist reports. The report says Seneca Meadows and five other upstate landfills exceeded federal limits.",
+      "why_it_matters": "Methane is a potent greenhouse gas, and the state is short on landfill space, so findings like this feed into decisions about where New Yorkers' trash goes and what it costs to dispose of. Only Gothamist covers the report in today's digest.",
+      "background": "Seneca Meadows is an upstate landfill and the largest in New York. Inside Climate News has reported that it is the single largest source of methane emissions in the state and that New York is running out of room for its trash. The landfill's owner, the Texas-based company Waste Connections, has applied to expand it by raising its permitted height by about 70 feet, a plan that faces local opposition.",
+      "facts": [
+        { "text": "A report found that Seneca Meadows landfill and five other upstate landfills surpassed federal methane limits, Gothamist reported.", "refs": ["f2c6da1dd7"] },
+        { "text": "Seneca Meadows is the largest landfill in New York and, according to Inside Climate News, the state's largest single source of methane emissions.", "refs": ["f2c6da1dd7", "nyc-w11"] },
+        { "text": "The landfill's owner, Waste Connections, has applied to raise its permitted height by about 70 feet.", "refs": ["nyc-w12"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f2c6da1dd7", "note": "Stresses that emissions are worse than earlier estimates; the federal-limit finding is in the summary rather than the headline." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f2c6da1dd7", "takeaway": "Headline and summary only: sole report on the methane findings.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "nyc-w1", "url": "https://www.fox5ny.com/news/fdny-flatbush-brooklyn-building-collapse-people-trapped", "title": "Brooklyn building collapse leaves 1 dead, several injured, NYPD says", "outlet": "FOX 5 New York" },
+    { "id": "nyc-w2", "url": "https://gulfnews.com/world/americas/firefighters-dig-through-rubble-after-new-york-city-building-collapse-traps-people-in-wreckage-1.500744353", "title": "Firefighters dig through rubble after New York City building collapse traps people in wreckage", "outlet": "Gulf News" },
+    { "id": "nyc-w3", "url": "https://www.chalkbeat.org/newyork/2025/11/13/nycs-digital-shsat-debut-goes-smoothly-for-most-test-takers/", "title": "NYC's digital SHSAT debut goes smoothly for most test takers", "outlet": "Chalkbeat New York" },
+    { "id": "nyc-w4", "url": "https://abc7ny.com/amp/post/brooklyn-nypd-shooting-ny-attorney-general-investigating-man-killed-during-attempt-stop-suspected-stolen-car/16298053/", "title": "New York attorney general investigating after man killed by police in Brooklyn", "outlet": "ABC7 New York" },
+    { "id": "nyc-w5", "url": "https://www.cityandstateny.com/policy/2026/10/debate-picks-over-delivery-protection-act/416713/", "title": "Debate picks up over Delivery Protection Act", "outlet": "City & State NY" },
+    { "id": "nyc-w6", "url": "https://www.freightwaves.com/news/battle-over-nyc-bill-on-amazon-dsps-waits-to-resume", "title": "Battle over NYC bill on Amazon DSPs waits to resume", "outlet": "FreightWaves" },
+    { "id": "nyc-w7", "url": "https://thegrio.com/2026/10/19/exclusive-national-urban-league-backs-nyc-delivery-workers-pushes-back-against-legislation-threatening-black-businesses/", "title": "National Urban League backs NYC delivery workers, pushes back against legislation threatening Black businesses", "outlet": "TheGrio" },
+    { "id": "nyc-w8", "url": "https://www.foxbusiness.com/retail/amazon-warns-mamdani-backed-delivery-mandate-could-cost-nyc-households-hundreds-every-year", "title": "Amazon warns Mamdani-backed delivery mandate could cost NYC households hundreds every year", "outlet": "Fox Business" },
+    { "id": "nyc-w9", "url": "https://www.webull.com/news/14049087408079872", "title": "Amazon Teamsters demand New York City Council pass Delivery Protection Act in 2026", "outlet": "Teamsters press release (via Webull)" },
+    { "id": "nyc-w10", "url": "https://www.nyc.gov/assets/hpd/downloads/pdfs/about/local-law-217.pdf", "title": "Local Law 217 report", "outlet": "NYC Department of Housing Preservation and Development" },
+    { "id": "nyc-w11", "url": "https://insideclimatenews.org/news/05102026/new-york-trash-landfills-are-full/", "title": "New York Is Running Out of Room for Its Trash", "outlet": "Inside Climate News" },
+    { "id": "nyc-w12", "url": "https://api-prod.gothamist.com/news/texas-company-wants-to-expand-new-yorks-largest-landfill-despite-local-opposition", "title": "Texas company wants to expand New York's largest landfill, despite local opposition", "outlet": "Gothamist" }
+  ]
+}

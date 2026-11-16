@@ -1,0 +1,353 @@
+{
+  "stories": [
+    {
+      "id": "iran-bahrain-drone-attacks",
+      "headline": "Iran targets a US base in Bahrain for the second time in three days",
+      "region": "Middle East",
+      "importance": 5,
+      "summary": "Iran's Revolutionary Guard said it launched six drones on Sunday at a US air defense radar at the Riffa base in Bahrain, the second attack on the Gulf state in three days. Bahrain said it intercepted the attacks before they reached their targets. A US aircraft carrier arrived in the region the same day, while Iran said a path to a deal with Washington remains open.",
+      "why_it_matters": "The strikes end a roughly two-month pause in Iranian attacks on Gulf states and come as US-Iran peace talks appear stuck, raising the risk of renewed fighting in a region that supplies much of the world's oil.",
+      "background": "The United States and Israel launched a war on Iran in February, and Iran has since fired missiles and drones at Gulf states that host US forces. Bahrain is home to the US Navy's Fifth Fleet. Washington and Tehran signed a memorandum in June outlining an end to hostilities, according to Gulf News, but attacks continued through the summer before a lull that began in September. Talks on a final deal now appear to have stalled, and the US carried out limited strikes on Iran's Qeshm island in recent weeks, CBS News reports.",
+      "facts": [
+        { "text": "Iran's Islamic Revolutionary Guard Corps said on Sunday it launched six drones at the radar of a US air defense site at the Riffa base in Bahrain.", "refs": ["2a6e83e11f", "ec578992b3"] },
+        { "text": "Bahrain said it intercepted several aerial attacks before they hit their targets.", "refs": ["ec578992b3", "f83a676d74", "05eb69025e"] },
+        { "text": "It was the second Iranian attack on Bahrain in three days and followed about two months without such strikes.", "refs": ["5bd2fc39ca", "88b1f3d836", "05eb69025e"] },
+        { "text": "Saudi Arabia, Qatar, Jordan and Egypt issued statements condemning the attack, carried by Bahrain's state news agency.", "refs": ["12b449161b"] },
+        { "text": "The aircraft carrier USS Theodore Roosevelt arrived in the US Central Command area on Sunday, Bloomberg reported, citing an Axios reporter's post that quoted a US official.", "refs": ["88b1f3d836"] },
+        { "text": "Iran described the attacks as retaliation against the US; the US had carried out minor strikes on Iran's Qeshm island in recent weeks, according to CBS News.", "refs": ["045fd05263", "f83a676d74"] },
+        { "text": "Iran repeated that a path to ending its conflict with the US remains open.", "refs": ["2a6e83e11f"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the drones hit anything",
+          "positions": [
+            { "claim": "Iran said it struck a base.", "refs": ["ec578992b3"] },
+            { "claim": "Bahrain said the attacks were intercepted before reaching their targets.", "refs": ["ec578992b3", "05eb69025e"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "05eb69025e", "note": "Puts the successful shoot-down in the headline alongside the attack." },
+        { "ref": "2b743f026f", "note": "Stresses that the target was a US military base and ties the strikes to doubts about peace talks." },
+        { "ref": "2a6e83e11f", "note": "Balances the attack against Iran's statement that it is still open to a deal." },
+        { "ref": "ec578992b3", "note": "Leads with Bahrain's interception rather than Iran's claim." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "5bd2fc39ca", "takeaway": "Headline and summary only (paywalled): attacks resume after a two-month lull as talks stall.", "read_full": false },
+        { "ref": "ec578992b3", "takeaway": "Summary only: six-drone attack, Bahrain's interception statement and Iran's competing claim.", "read_full": false },
+        { "ref": "2b743f026f", "takeaway": "Summary only: focuses on the risk of escalation and the effect on US-Iran talks.", "read_full": false },
+        { "ref": "12b449161b", "takeaway": "Summary only: live blog collecting regional condemnations.", "read_full": false },
+        { "ref": "05eb69025e", "takeaway": "Headline only: second attack in three days, drones shot down.", "read_full": false },
+        { "ref": "045fd05263", "takeaway": "Headline only (paywalled): Iran frames the attacks as retaliation against the US.", "read_full": false },
+        { "ref": "88b1f3d836", "takeaway": "Summary only (paywalled): pairs the attack with the carrier's arrival.", "read_full": false },
+        { "ref": "2a6e83e11f", "takeaway": "Summary only (paywalled): names the Riffa base radar as the target and notes Iran's openness to a deal.", "read_full": false },
+        { "ref": "f83a676d74", "takeaway": "Summary only: links the attacks to recent US strikes on Qeshm island.", "read_full": false },
+        { "ref": "world-w1", "takeaway": "Search result, June report: earlier Iranian drone attack on Bahrain came days after a US-Iran memorandum.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "yemen-houthis-advance-aden",
+      "headline": "Yemen's government pulls troops from Red Sea strait as Houthis close in on Aden",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "Yemen's internationally recognised government said it was withdrawing its last forces from the Bab el-Mandeb Strait to defend Aden, its interim capital. Military and government sources said Houthi fighters had advanced to within 60 kilometres of the city. The pullback leaves the strait, a gateway to the Red Sea and Suez Canal, under Houthi control.",
+      "why_it_matters": "Bab el-Mandeb is one of the world's main shipping chokepoints, so who holds it affects freight costs and the price of goods far from Yemen. A fall of Aden would leave the Saudi-backed government without its seat.",
+      "background": "Yemen has been at war since the Iran-backed Houthi movement seized the capital, Sanaa, in 2014 and a Saudi-led coalition intervened in 2015 to back the government, which now sits in the southern port of Aden. The front was largely frozen for years but reopened during the wider regional war that began in February. The Houthis took islands around Bab el-Mandeb in September, Euronews reported, and Reuters reported on Nov. 2 that they were within 80 kilometres of Aden, the closest since 2015. The Hindu notes that Houthi gains and attacks on Saudi Arabia and Red Sea shipping have strengthened Iran's hand in that wider conflict.",
+      "facts": [
+        { "text": "Yemen's government announced it was pulling its last forces back from the Bab el-Mandeb Strait to defend Aden.", "refs": ["585f28a769", "7162fe1108", "d9dac5abe7"] },
+        { "text": "Houthi forces advanced to within 60 kilometres of Aden, according to military and government sources cited by Agence France-Presse.", "refs": ["585f28a769", "c5b69f6c4b"] },
+        { "text": "Forces aligned with the government and Saudi Arabia are reinforcing their defences around Aden.", "refs": ["936ba96886", "c5b69f6c4b"] },
+        { "text": "The New York Times reported that the retreat leaves the strait in Houthi control and that analysts see momentum in the civil war shifting toward the Houthis.", "refs": ["cc70f5ed8f"] },
+        { "text": "Two weeks earlier, on Nov. 2, sources told Reuters the Houthis were within 80 kilometres of Aden.", "refs": ["world-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "7162fe1108", "note": "Presents the move as a redeployment to protect Aden, in the government forces' own terms." },
+        { "ref": "cc70f5ed8f", "note": "Calls the forces Saudi-backed and stresses that the strait is now in Houthi hands." },
+        { "ref": "585f28a769", "note": "Leads with the Houthi advance on Aden rather than the withdrawal." },
+        { "ref": "1064606c0b", "note": "Frames the pullback as a setback in the fight against the Houthis." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "585f28a769", "takeaway": "Summary only: Houthis within 60 km of Aden; government pulls back from the strait.", "read_full": false },
+        { "ref": "7162fe1108", "takeaway": "Summary only: Saudi-backed forces say troops are moving to protect Aden.", "read_full": false },
+        { "ref": "cc70f5ed8f", "takeaway": "Summary only (paywalled): setback for the government and Saudi Arabia; analysts see momentum with the Houthis.", "read_full": false },
+        { "ref": "936ba96886", "takeaway": "Summary only: anti-Houthi forces trying to tighten their hold on Aden.", "read_full": false },
+        { "ref": "d9dac5abe7", "takeaway": "Summary only: ties Houthi gains to Iran's position in the wider war.", "read_full": false },
+        { "ref": "c5b69f6c4b", "takeaway": "Summary only (paywalled): AFP sourcing for the 60 km figure.", "read_full": false },
+        { "ref": "1064606c0b", "takeaway": "Headline only: retreat described as a setback.", "read_full": false },
+        { "ref": "world-w2", "takeaway": "Search result, Nov. 2 Reuters report: Houthis then within 80 km of Aden.", "read_full": false },
+        { "ref": "world-w3", "takeaway": "Search result, September report: Houthis took Red Sea islands near the strait.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ukraine-crimean-bridge-drone-barrage",
+      "headline": "Ukraine hits Crimean Bridge in its largest drone barrage of the war",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Ukraine launched more than 1,300 drones at Russia overnight, striking the bridge that links Russia to occupied Crimea. The Kremlin called the damage minor, while Crimea's Russian-installed governor said traffic was being limited. The attack followed a weekend of Russian strikes on Ukraine's power and rail networks, and US-brokered peace talks that ended without a breakthrough.",
+      "why_it_matters": "Both sides are escalating long-range strikes as winter begins and talks stall, which means more blackouts for Ukrainians and a war that looks no closer to ending.",
+      "background": "Russia invaded Ukraine in February 2022 and has repeatedly bombed its power grid before winter. The Crimean Bridge, opened in 2018 after Russia annexed Crimea, is a supply route for Russian forces and has been hit several times. Ukraine's drone units rely on Starshield satellite links, and President Volodymyr Zelenskyy has said since mid-October that speed limits imposed on the terminals are making it harder to shoot down Russian drones, European Pravda reported. A round of US-brokered peace talks recently ended without agreement.",
+      "facts": [
+        { "text": "Ukraine struck the bridge across the Kerch Strait linking Russia and Crimea; the Kremlin said the damage was minor.", "refs": ["8c3666507f", "dabc2e7519"] },
+        { "text": "Sergei Aksyonov, Crimea's Russian-backed governor, said the strike was limiting the flow of traffic on the bridge.", "refs": ["4b2202df9e"] },
+        { "text": "Russia's defence ministry said it intercepted or destroyed the largest number of drones in a 24-hour period since the war began, over 15 Russian regions, Crimea and the Black and Azov seas.", "refs": ["2d13742de7", "0a04b3900c"] },
+        { "text": "The barrage numbered 1,336 drones, some aimed toward Moscow, the South China Morning Post reported.", "refs": ["478a385fc0", "dabc2e7519"] },
+        { "text": "Bloomberg reported that the barrage also likely hit an oil refinery and came after US-brokered peace talks ended without a breakthrough.", "refs": ["bce6e00786"] },
+        { "text": "Zelenskyy said on Sunday that Russia had struck energy and railway infrastructure in eight regions overnight, and that many strikes got through because of limits on Starshield terminals.", "refs": ["392ce4971c", "35ac84bdb3"] },
+        { "text": "EU foreign policy chief Kaja Kallas called Russia's demands in the talks absurd and said a ceasefire must come before a peace agreement.", "refs": ["20396cc201"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "8c3666507f", "note": "Gives the Kremlin's 'minor' damage assessment equal billing with the strike." },
+        { "ref": "bce6e00786", "note": "Emphasises the record size of the attack." },
+        { "ref": "4b2202df9e", "note": "Pairs the bridge strike with Zelenskyy's complaint about Starshield limits." },
+        { "ref": "a0d957c6fe", "note": "Calls the bridge 'key' and leaves out the scale of damage." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "8c3666507f", "takeaway": "Headline only: strike on the bridge and the Kremlin's description of the damage.", "read_full": false },
+        { "ref": "bce6e00786", "takeaway": "Summary only (paywalled): record barrage, likely refinery hit, stalled talks.", "read_full": false },
+        { "ref": "dabc2e7519", "takeaway": "Summary only: minor damage, angry response from Russian-installed officials.", "read_full": false },
+        { "ref": "478a385fc0", "takeaway": "Summary only (paywalled): gives the 1,336 drone count.", "read_full": false },
+        { "ref": "2d13742de7", "takeaway": "Summary only (paywalled): Russian defence ministry's record interception claim.", "read_full": false },
+        { "ref": "4b2202df9e", "takeaway": "Summary only: governor's traffic statement and weekend Russian strikes.", "read_full": false },
+        { "ref": "0a04b3900c", "takeaway": "Summary only: regions where Russia says drones were intercepted.", "read_full": false },
+        { "ref": "392ce4971c", "takeaway": "Summary only: Zelenskyy on Russian strikes in eight regions and Starshield limits.", "read_full": false },
+        { "ref": "35ac84bdb3", "takeaway": "Summary only: Starshield restrictions hinder drone interception, Zelenskyy says.", "read_full": false },
+        { "ref": "20396cc201", "takeaway": "Summary only: Kallas's comments ahead of an EU foreign ministers' meeting.", "read_full": false },
+        { "ref": "world-w4", "takeaway": "Search result, October report: Zelenskyy on speed limits hampering interceptor drones.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "estonia-closes-russia-border",
+      "headline": "Estonia to shut all border crossings with Russia after attack on drone maker",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Estonia will close every crossing on its border with Russia from Dec. 1, its foreign minister said on Sunday. The decision follows an attempted arson attack on the drone maker Threod Systems, which Estonian authorities say was ordered by Russian military intelligence. The Kremlin denied any involvement.",
+      "why_it_matters": "A NATO member is sealing its land border with Russia over what it calls state-directed sabotage, a sign that the confrontation over Ukraine is spreading to countries that supply Kyiv.",
+      "background": "Estonia is a Baltic country of about 1.4 million people that belongs to NATO and the EU, shares a border with Russia and is a strong backer of Ukraine. European governments have blamed Russia for a series of arson and sabotage incidents since the 2022 invasion, which Moscow denies. In September, Estonia accused Russia of ordering an arson attack on another defence firm, Milrem Robotics, Euronews reported. Threod Systems makes reconnaissance and attack drones.",
+      "facts": [
+        { "text": "Estonia will close all its border crossing points with Russia from Dec. 1, its foreign minister said on Sunday.", "refs": ["a196be0119", "a8db8ce71a", "e56b32999e"] },
+        { "text": "Estonian authorities detained eight people overnight on suspicion of an attempted arson attack on Threod Systems, which they said was ordered by Russia's GRU military intelligence service.", "refs": ["304095c4bc"] },
+        { "text": "The attempted attack took place in the early hours of Nov. 14; Threod Systems manufactures reconnaissance and attack drones.", "refs": ["cdf8e8294d"] },
+        { "text": "The Kremlin denied the accusation, calling it 'entirely baseless'.", "refs": ["a196be0119", "ec2a5c52d5"] },
+        { "text": "Estonia's prime minister linked the attack to the country's support for Ukraine.", "refs": ["e56b32999e"] },
+        { "text": "Estonia said closing the crossings would help curb hostile activity and the evasion of sanctions.", "refs": ["f16b38de07"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Who was behind the attack",
+          "positions": [
+            { "claim": "Estonian authorities say Russia's GRU military intelligence ordered it.", "refs": ["304095c4bc", "e56b32999e"] },
+            { "claim": "The Kremlin says the accusation is entirely baseless.", "refs": ["ec2a5c52d5", "a196be0119"] }
+          ]
+        },
+        {
+          "topic": "Whether the factory was actually set on fire",
+          "positions": [
+            { "claim": "Reuters and the Kyiv Independent describe an attempted attack; the Telegraph says it was foiled.", "refs": ["a8db8ce71a", "cdf8e8294d", "65c70d48df"] },
+            { "claim": "Deutsche Welle says a drone factory in Viimsi was set alight.", "refs": ["a72a4a3aaa"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "a196be0119", "note": "Puts 'sabotage' in quotation marks, keeping distance from Estonia's accusation." },
+        { "ref": "cdf8e8294d", "note": "States the Moscow link as fact in the headline." },
+        { "ref": "65c70d48df", "note": "Stresses that the attack was foiled." },
+        { "ref": "f16b38de07", "note": "Highlights that Estonia is a NATO member." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a196be0119", "takeaway": "Summary only: closure date, Tallinn's accusation and the Kremlin's denial.", "read_full": false },
+        { "ref": "a8db8ce71a", "takeaway": "Headline only: closure follows an attempted arson attack.", "read_full": false },
+        { "ref": "304095c4bc", "takeaway": "Summary only: eight detained; authorities name the GRU.", "read_full": false },
+        { "ref": "cdf8e8294d", "takeaway": "Summary only: timing of the attempt and what Threod Systems makes.", "read_full": false },
+        { "ref": "e56b32999e", "takeaway": "Summary only: prime minister ties the attack to support for Ukraine.", "read_full": false },
+        { "ref": "a72a4a3aaa", "takeaway": "Summary only: describes the factory as set alight and the charge of hybrid warfare.", "read_full": false },
+        { "ref": "ec2a5c52d5", "takeaway": "Headline only: the Kremlin's denial.", "read_full": false },
+        { "ref": "f16b38de07", "takeaway": "Summary only: Estonia's stated reasons for the closure.", "read_full": false },
+        { "ref": "65c70d48df", "takeaway": "Headline only (paywalled): attack described as foiled.", "read_full": false },
+        { "ref": "world-w5", "takeaway": "Search result, September report: earlier Estonian sabotage accusation over Milrem Robotics.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "congo-ebola-six-months",
+      "headline": "Congo's Ebola outbreak still out of control after six months, Africa CDC says",
+      "region": "Africa",
+      "importance": 4,
+      "summary": "Africa's main public health agency said on Sunday that the Ebola outbreak in the Democratic Republic of Congo remains out of control six months after it was declared. More than 11,000 cases have been recorded and nearly half of those infected have died. The agency cited deadly attacks on health workers, unpaid staff and a shortage of resources.",
+      "why_it_matters": "This is already the deadliest of Congo's Ebola outbreaks and is on course to pass the death toll of the 2014-16 West African epidemic. The longer it runs, the greater the chance of spread across borders.",
+      "background": "Ebola is a severe viral disease spread through contact with the body fluids of infected people. This outbreak, caused by the Bundibugyo strain, was declared in May in Congo, a country that has now had 17 Ebola outbreaks. The European Centre for Disease Prevention and Control lists it as a multi-country outbreak. Health agencies say armed conflict, displacement, hunger and mistrust of health workers in the affected areas have made it hard to trace and treat cases.",
+      "facts": [
+        { "text": "The Africa Centres for Disease Control and Prevention said on Sunday the outbreak was still out of control six months after it was declared, citing deadly attacks on health workers, unpaid staff and a lack of resources.", "refs": ["8722d31e20", "fd19341b16"] },
+        { "text": "More than 11,000 cases have been recorded and nearly half of those infected have died, according to government data.", "refs": ["871e78d155", "29fe13ceeb"] },
+        { "text": "It is the deadliest of Congo's 17 Ebola outbreaks and is on track to surpass the toll of the West African outbreak that killed about 11,000 people between 2014 and 2016, the Associated Press reported.", "refs": ["871e78d155", "ebfc12f581"] },
+        { "text": "The World Food Programme said about 5,400 deaths have been reported, that children account for more than a quarter of confirmed cases and a third of deaths, and that seven in 10 children under five with confirmed Ebola have died.", "refs": ["f01a5908bf"] },
+        { "text": "Africa CDC said services have been brought closer to affected communities but that conflict and displacement continue to fuel the outbreak.", "refs": ["ca046a4a1c"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "29fe13ceeb", "note": "Leads with the failure to contain the outbreak and the death rate." },
+        { "ref": "ca046a4a1c", "note": "The agency's own release, which leads with progress before the obstacles." },
+        { "ref": "a06f427a61", "note": "Puts conflict and hunger, rather than the virus, at the centre." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "8722d31e20", "takeaway": "Summary only (Reuters reprint): Africa CDC's assessment and the reasons it gave.", "read_full": false },
+        { "ref": "fd19341b16", "takeaway": "Headline only: Africa CDC says the outbreak is still out of control.", "read_full": false },
+        { "ref": "871e78d155", "takeaway": "Summary only (AP): case count, fatality rate and comparison with West Africa.", "read_full": false },
+        { "ref": "29fe13ceeb", "takeaway": "Summary only (AP): more than 11,000 cases, nearly half fatal.", "read_full": false },
+        { "ref": "ebfc12f581", "takeaway": "Summary only (AP reprint): deadliest of Congo's 17 outbreaks.", "read_full": false },
+        { "ref": "f01a5908bf", "takeaway": "Summary only (WFP release): deaths and the toll on children.", "read_full": false },
+        { "ref": "ca046a4a1c", "takeaway": "Summary only (Africa CDC release): names the Bundibugyo virus and stresses access to isolated areas.", "read_full": false },
+        { "ref": "a06f427a61", "takeaway": "Summary only: containment depends on hunger, conflict and a weak health system.", "read_full": false },
+        { "ref": "world-w6", "takeaway": "Search result: ECDC's page tracking the outbreak as multi-country since May.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "xi-trump-putin-summit-confirmed",
+      "headline": "China confirms first Xi-Trump-Putin summit, set for Thursday in Shenzhen",
+      "region": "Asia-Pacific",
+      "importance": 4,
+      "summary": "China's foreign ministry confirmed that President Xi Jinping will host US President Donald Trump and Russian President Vladimir Putin for a three-way meeting in Shenzhen on Nov. 19. Beijing gave no agenda but said the meeting has 'groundbreaking significance'. US officials have indicated the talks will cover the war in Ukraine, the Middle East and nuclear arms control.",
+      "why_it_matters": "The leaders of the three largest nuclear powers have never met as a trio, and the wars and trade disputes on the table affect energy prices, security and jobs worldwide.",
+      "background": "The meeting will take place alongside this week's Asia-Pacific Economic Cooperation (APEC) leaders' summit in the southern Chinese city of Shenzhen. The Kremlin said in September that Putin and Trump had discussed the idea, and on Nov. 6 China said only that it was in contact with the other parties, the Associated Press reported. It comes with the Ukraine war in its fifth year, a US-Iran conflict unresolved and tariff disputes ongoing between Washington and several trading partners.",
+      "facts": [
+        { "text": "China confirmed that Xi will hold a trilateral summit with Trump and Putin in Shenzhen on Thursday, Nov. 19, the first such meeting.", "refs": ["8b24566a15", "4cdfff2f29", "1f6bea9006"] },
+        { "text": "The Chinese foreign ministry gave no details about the topics to be discussed.", "refs": ["8b24566a15", "4cdfff2f29"] },
+        { "text": "China said the meeting has 'groundbreaking significance'.", "refs": ["e818478fde", "ac99f0b6a0"] },
+        { "text": "US officials have indicated the agenda is the war in Ukraine, the situation in the Middle East including stabilising global energy supplies, and nuclear arms control, The Hindu reported.", "refs": ["ac99f0b6a0"] },
+        { "text": "CNBC reported the talks are expected to focus on nuclear non-proliferation, the Middle East war, trade policies and possibly the Ukraine war.", "refs": ["fd6ebbed2f"] },
+        { "text": "On Nov. 6, China had said only that it was in communication with the relevant parties about such a meeting.", "refs": ["world-w7"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "ac99f0b6a0", "note": "Carries Beijing's 'groundbreaking' wording in the headline, while its summary says the meeting is likely to be more symbolic than substantial." },
+        { "ref": "fd6ebbed2f", "note": "Calls the summit historic and turns straight to what might be on the agenda." },
+        { "ref": "4cdfff2f29", "note": "Sticks to the confirmation and notes the lack of detail." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "8b24566a15", "takeaway": "Summary only: date, place and the absence of an announced agenda.", "read_full": false },
+        { "ref": "4cdfff2f29", "takeaway": "Summary only: Beijing offered no details on topics.", "read_full": false },
+        { "ref": "1f6bea9006", "takeaway": "Headline only: Beijing confirms the trilateral in Shenzhen this week.", "read_full": false },
+        { "ref": "e818478fde", "takeaway": "Headline only: China's 'groundbreaking significance' description.", "read_full": false },
+        { "ref": "ac99f0b6a0", "takeaway": "Summary only: agenda as indicated by US officials; expects symbolism over substance.", "read_full": false },
+        { "ref": "fd6ebbed2f", "takeaway": "Summary only: expected topics including trade and nuclear non-proliferation.", "read_full": false },
+        { "ref": "world-w7", "takeaway": "Search result, Nov. 6 AP report: China then confirmed only that talks about a meeting were under way.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "czech-public-media-protest",
+      "headline": "Hundreds of thousands of Czechs rally against plan to change public media funding",
+      "region": "Europe",
+      "importance": 3,
+      "summary": "Huge crowds filled Prague's Letná Park on Sunday to protest Prime Minister Andrej Babiš's plan to replace the licence fees that fund Czech Television and Czech Radio with money from the state budget. Organisers said turnout was larger than a March rally that drew more than 200,000 people. Critics say the change would threaten the broadcasters' independence.",
+      "why_it_matters": "How public broadcasters are paid for shapes how freely they can report on the government, and the size of the protest shows the plan has become a test of press freedom in an EU country.",
+      "background": "Czech Television and Czech Radio are currently funded mainly by fees paid by households and firms. The government of Babiš, a billionaire businessman, wants to fund them directly from the state budget instead. Opponents argue that would let politicians squeeze the broadcasters financially. The group Million Moments for Democracy organised a rally of more than 200,000 people against the government in March, Brno Daily reported. Letná Park was the site of the mass demonstrations of the 1989 Velvet Revolution that ended communist rule.",
+      "facts": [
+        { "text": "Hundreds of thousands of people rallied in Prague on Sunday against the government's plan to overhaul public media funding, Reuters, Bloomberg and the Associated Press reported.", "refs": ["559e4ab428", "9e69bc1a23", "e2375872c3"] },
+        { "text": "The plan would replace public media fees with direct state funding for Czech Television and Czech Radio.", "refs": ["4f2e859acf", "167e0d168d"] },
+        { "text": "Organisers said turnout exceeded that of a March protest of more than 200,000 people.", "refs": ["4f2e859acf"] },
+        { "text": "The protest was held at Letná Park, where large crowds gathered during the 1989 Velvet Revolution.", "refs": ["4bf4ae8e25"] },
+        { "text": "Critics say the plan threatens the broadcasters' independence and press freedom.", "refs": ["4f2e859acf", "167e0d168d"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many people attended",
+          "positions": [
+            { "claim": "Hundreds of thousands, according to Reuters, Bloomberg, France 24 and the Associated Press.", "refs": ["559e4ab428", "9e69bc1a23", "4f2e859acf", "e2375872c3"] },
+            { "claim": "Tens of thousands, according to the Times of Israel's headline.", "refs": ["1be9749860"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "159a8ca1b3", "note": "Says only 'big numbers', without a crowd figure, in the wire headline it carries." },
+        { "ref": "167e0d168d", "note": "Describes the government as nationalist and the prime minister as a billionaire." },
+        { "ref": "1be9749860", "note": "Uses a much smaller crowd figure than other outlets." },
+        { "ref": "4f2e859acf", "note": "Frames the dispute around the broadcasters' independence." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "559e4ab428", "takeaway": "Headline only: hundreds of thousands rally against the plan.", "read_full": false },
+        { "ref": "9e69bc1a23", "takeaway": "Summary only (paywalled): hundreds of thousands protest Babiš's plan.", "read_full": false },
+        { "ref": "4f2e859acf", "takeaway": "Summary only: what the plan changes and organisers' turnout claim.", "read_full": false },
+        { "ref": "4bf4ae8e25", "takeaway": "Summary only (AP reprint): Letná Park and its 1989 history.", "read_full": false },
+        { "ref": "e2375872c3", "takeaway": "Summary only (AP): hundreds of thousands rallied.", "read_full": false },
+        { "ref": "167e0d168d", "takeaway": "Summary only (paywalled): critics see a threat to press freedom.", "read_full": false },
+        { "ref": "1be9749860", "takeaway": "Headline only: reports tens of thousands.", "read_full": false },
+        { "ref": "159a8ca1b3", "takeaway": "Headline only: AP wire headline without a figure.", "read_full": false },
+        { "ref": "world-w8", "takeaway": "Search result, March report: earlier Million Moments rally of more than 200,000.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "canaries-arrivals-rwanda-return-hub",
+      "headline": "Nearly 2,200 migrants reach Canary Islands in two days as five EU states plan Rwanda deportation hub",
+      "region": "Europe",
+      "importance": 3,
+      "summary": "Spain's maritime rescue service said nearly 2,200 migrants arrived by boat in the Canary Islands over the weekend, days after authorities there declared a migration emergency. Separately, Germany, Denmark, Austria, Greece and the Netherlands are expected to announce on Monday a centre in Rwanda for rejected asylum seekers. It would be the first such facility outside the EU.",
+      "why_it_matters": "The Atlantic crossing to the Canaries is among the deadliest migration routes in the world, and sending rejected asylum seekers to a centre in Africa would be a major change in how European countries handle deportations.",
+      "background": "The Canary Islands, a Spanish archipelago off northwest Africa, are a main entry point for people leaving West Africa in overcrowded wooden boats and dinghies. Arrivals have surged in recent weeks, shortly after a separate crisis in Spain's North African enclave of Ceuta. The EU tightened its migration rules in late 2025. In September, the five countries agreed on a model for sending rejected asylum seekers to 'return hubs' outside the bloc from as early as 2027, The Local reported.",
+      "facts": [
+        { "text": "Nearly 2,200 migrants reached the Canary Islands by boat over two days, Spain's maritime rescue service said on Sunday.", "refs": ["0d5d172cbb", "ddedc5bb5e", "2ba2115dc6"] },
+        { "text": "Most of those who arrived on Saturday came from Senegal, Gambia and Guinea, Deutsche Welle reported.", "refs": ["1c03b24b94"] },
+        { "text": "Authorities declared a migration emergency in the archipelago earlier in the week.", "refs": ["0d5d172cbb"] },
+        { "text": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a 'return hub' in Rwanda for failed asylum seekers, the BBC reported; Reuters cited two sources familiar with the plans.", "refs": ["8d5a143784", "7c72101ccc"] },
+        { "text": "It would be the first such deportation centre outside the EU, and follows the bloc's tightening of migration rules in late 2025.", "refs": ["28ec585cec"] },
+        { "text": "The five countries agreed in September on a model for return hubs, aiming to start in 2027.", "refs": ["world-w9"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many people arrived on Saturday alone",
+          "positions": [
+            { "claim": "Nearly 1,500, according to Reuters; the Telegraph gives 1,488.", "refs": ["ba40b675d3", "c48f2ff763"] },
+            { "claim": "Nearly 1,600, according to Deutsche Welle.", "refs": ["1c03b24b94"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "c48f2ff763", "note": "Uses the word 'crisis' and compares the situation to Ceuta." },
+        { "ref": "9796b8e8f6", "note": "Asks how the crossings happened and stresses how dangerous the route is." },
+        { "ref": "6b2ddac213", "note": "Wire headline that sticks to the number and attributes it to Spain." },
+        { "ref": "ad64514ef0", "note": "Calls the Rwanda plan a 'deportation hub scheme', where the BBC uses the governments' term, 'return hub'." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "0d5d172cbb", "takeaway": "Summary only: two-day total and the earlier emergency declaration.", "read_full": false },
+        { "ref": "ddedc5bb5e", "takeaway": "Headline only (AP): nearly 2,200 in two days, per Spain.", "read_full": false },
+        { "ref": "2ba2115dc6", "takeaway": "Summary only: islands struggling to cope with the arrivals.", "read_full": false },
+        { "ref": "1c03b24b94", "takeaway": "Summary only: Saturday's count and countries of origin.", "read_full": false },
+        { "ref": "ba40b675d3", "takeaway": "Headline only: nearly 1,500 arrivals in one day.", "read_full": false },
+        { "ref": "c48f2ff763", "takeaway": "Headline only (paywalled): 1,488 arrivals, framed as a crisis.", "read_full": false },
+        { "ref": "9796b8e8f6", "takeaway": "Summary only: explains the Atlantic route and its dangers.", "read_full": false },
+        { "ref": "6b2ddac213", "takeaway": "Headline only: AP wire figure.", "read_full": false },
+        { "ref": "8d5a143784", "takeaway": "Summary only: names the five countries.", "read_full": false },
+        { "ref": "7c72101ccc", "takeaway": "Summary only (Reuters reprint): plan sourced to two people familiar with it.", "read_full": false },
+        { "ref": "ad64514ef0", "takeaway": "Headline only: five EU countries to announce the scheme.", "read_full": false },
+        { "ref": "28ec585cec", "takeaway": "Summary only: first such centre outside the bloc.", "read_full": false },
+        { "ref": "world-w9", "takeaway": "Search result, September report: the five countries' return-hub model and 2027 target.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w1", "url": "https://gulfnews.com/world/gulf/bahrain/bahrain-accuses-iran-of-drone-attack-condemns-flagrant-violation-of-sovereignty-1.500588796", "title": "Bahrain accuses Iran of drone attack, condemns 'flagrant violation' of sovereignty", "outlet": "Gulf News" },
+    { "id": "world-w2", "url": "https://www.al-monitor.com/originals/2026/11/yemens-houthis-advance-within-80-km-aden-sources-say", "title": "Yemen's Houthis advance to within 80 km of Aden, sources say", "outlet": "Al-Monitor (Reuters)" },
+    { "id": "world-w3", "url": "https://www.euronews.com/2026/09/14/houthis-capture-more-yemeni-red-sea-islands-tightening-grip-on-bab-el-mandeb", "title": "Houthis capture more Yemeni Red Sea islands, tightening grip on Bab el-Mandeb", "outlet": "Euronews" },
+    { "id": "world-w4", "url": "https://www.eurointegration.com.ua/eng/news/2026/10/16/7247888/", "title": "Zelenskyy confirms Starlink speed restrictions hindered interception of jet-powered Shaheds", "outlet": "European Pravda" },
+    { "id": "world-w5", "url": "https://www.euronews.com/2026/09/29/estonia-slams-russian-sabotage-after-arson-attack-on-defence-company-milrem-robotics", "title": "Estonia slams Russian sabotage after arson attack on defence company Milrem Robotics", "outlet": "Euronews" },
+    { "id": "world-w6", "url": "https://www.ecdc.europa.eu/en/node/41929", "title": "Ebola disease: Multi-country outbreak 2026", "outlet": "European Centre for Disease Prevention and Control" },
+    { "id": "world-w7", "url": "https://www.ksat.com/news/politics/2026/11/06/china-confirms-discussions-are-underway-on-a-historic-xi-trump-putin-meeting/", "title": "China confirms discussions are underway on a historic Xi-Trump-Putin meeting", "outlet": "KSAT (Associated Press)" },
+    { "id": "world-w8", "url": "https://brnodaily.com/2026/03/23/news/politics/over-200000-attend-million-moments-protest-against-babis-in-prague/", "title": "Over 200,000 attend Million Moments protest against Babiš in Prague", "outlet": "Brno Daily" },
+    { "id": "world-w9", "url": "https://thelocal.de/20260904/five-eu-countries-aim-to-send-rejected-migrants-to-return-hubs-by-2027", "title": "Five EU countries aim to send rejected migrants to return hubs by 2027", "outlet": "The Local" }
+  ]
+}

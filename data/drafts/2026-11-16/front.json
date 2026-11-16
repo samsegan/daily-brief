@@ -1,0 +1,77 @@
+{
+  "overview": "The FAA said airline schedules were returning to normal on Monday, three days after a nationwide ground stop; President Trump, in his first comments, blamed the Biden administration, his officials asked for $50 billion for air traffic control, CBS News reported, and the FAA prepared to brief Congress. Ukraine hit the bridge linking Russia to Crimea in what outlets described as a record barrage of about 1,300 drones, after U.S.-brokered talks ended without a breakthrough; the Kremlin called the damage minor. Iran attacked Bahrain for the second time in days as its peace talks with the United States appeared stalled, and Estonia said it will close its border crossings with Russia from Dec. 1 after a suspected sabotage attempt at a defense company. Technology stocks fell again ahead of Nvidia's earnings on Tuesday, its first since Jensen Huang resigned as chief executive, and Treasury Secretary Scott Bessent said the company should hire its next chief from outside.",
+  "markets": {
+    "summary": "U.S. stock futures, which are bets on where indexes will open, fell on Monday morning after technology shares dropped in Asia, according to Reuters and the Wall Street Journal. The quote table still shows Friday's close, when the S&P 500 fell 0.40% and the technology-heavy Nasdaq Composite fell 0.91%. Investors are waiting on two tests of the artificial intelligence boom this week: Nvidia's quarterly results on Tuesday, its first since Jensen Huang resigned as chief executive, and the pricing of Anthropic's initial public offering, its first sale of shares to the public. Japan reported that its economy shrank slightly in the July-September quarter, which Reuters and CNBC linked to inflation and high energy costs squeezing households. The Wall Street Journal reported that Treasury yields, the interest rates the government pays to borrow, eased on Monday after last week's jump on inflation data and Federal Reserve officials' comments about possibly raising rates; yields, oil and currency rows in the table are several days old.",
+    "movers": [
+      {
+        "symbol": "NASDAQCOM",
+        "why": "Fell 0.91% on Friday and is down 5.83% over the past month, the steepest monthly drop of the major U.S. indexes, as Nvidia and other AI-linked stocks sold off; futures pointed lower again on Monday."
+      },
+      {
+        "symbol": "CBBTCUSD",
+        "why": "Bitcoin rose 3.02% on Sunday to about $64,800, recovering part of Saturday's drop, but is still down 20.48% over the past month. Today's coverage gave no clear cause for the rebound."
+      },
+      {
+        "symbol": "NIKKEI225",
+        "why": "Japan's main index is down 9.75% over the past month. Its 0.53% gain is from Friday, before Monday's report that Japan's economy contracted last quarter and before Monday's drop in Asian technology shares."
+      },
+      {
+        "symbol": "DGS10",
+        "why": "The 10-year Treasury yield was 5.10% in the latest reading (Nov. 12), up 12 basis points, or 0.12 percentage point, in a day after inflation data and Fed officials' comments raised the prospect of a rate increase; the Wall Street Journal reported yields eased on Monday."
+      }
+    ],
+    "concept": {
+      "term": "Gross domestic product (GDP)",
+      "explanation": "GDP is the total value of the goods and services a country produces in a period, and it is the broadest single measure of whether an economy is growing or shrinking. It rises when households, businesses and the government spend more and when exports outpace imports, and it falls when they pull back, as happened in Japan last quarter, where higher prices cut into household spending. Figures are usually given as an annualized rate, meaning one quarter's change stretched out as if it lasted a full year, so Japan's 0.1% annualized drop is a very small decline. It reaches your wallet indirectly: a growing economy tends to bring more hiring and raises, while a shrinking one tends to bring layoffs, and central banks watch GDP when deciding whether to raise or lower interest rates."
+    },
+    "watch": [
+      "Tue Nov 17: October retail sales report from the Census Bureau, 8:30 a.m. ET",
+      "Tue Nov 17: Nvidia reports quarterly earnings, its first results since Jensen Huang resigned",
+      "Wed Nov 18: Federal Reserve releases minutes of its Oct. 27-28 meeting, 2 p.m. ET",
+      "Wed Nov 18 - Thu Nov 19: APEC leaders' summit in Shenzhen; China has confirmed a Xi-Trump-Putin meeting for Thursday",
+      "Wed Nov 18 - Thu Nov 19: Anthropic's IPO is expected to price and then begin trading on Nasdaq, according to reports; the company has not confirmed the dates"
+    ]
+  },
+  "trending": [
+    {
+      "title": "Jensen Huang resigns as Nvidia CEO",
+      "context": "More than 18,000 Bluesky posts and about 194,000 Wikipedia views followed the former chief executive as Nvidia prepares to report earnings on Tuesday without him.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Trump blames Biden for FAA ground stop",
+      "context": "About 6,500 Bluesky posts reacted to the president's first comments on Friday's nationwide flight halt, in which he blamed the previous administration.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Trump-Xi summit",
+      "context": "More than 5,000 Google searches came ahead of this week's APEC leaders' summit in Shenzhen, where Trump is expected to meet China's Xi Jinping.",
+      "signal": "google"
+    },
+    {
+      "title": "Calls to replace Schumer and Jeffries",
+      "context": "About 6,600 Bluesky posts debated the Democrats' congressional leaders as Sen. Chris Van Hollen called the Senate Democratic leadership race \"wide open,\" the Washington Times reported.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "COP31 climate summit in Antalya",
+      "context": "Nearly 3,900 Bluesky posts followed this year's United Nations climate conference, which is being held in Antalya, Turkey.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Salvadoran military intervention in Haiti",
+      "context": "Wikipedia's In the news summary says the intervention intensified with airstrikes on what it calls the alleged headquarters of the 400 Mawozo gang and a deployment to a Port-au-Prince stadium.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "Bitcoin price",
+      "context": "More than 1,000 Google searches tracked bitcoin as it rebounded about 3% on Sunday while remaining down about a fifth over the past month.",
+      "signal": "google"
+    },
+    {
+      "title": "The End of Everything wins the Booker Prize",
+      "context": "M. John Harrison's novel won the Booker Prize, the leading British award for fiction, according to Wikipedia's In the news summary.",
+      "signal": "wikipedia_news"
+    }
+  ]
+}
