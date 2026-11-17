@@ -1,0 +1,583 @@
+{
+  "stories": [
+    {
+      "id": "nyc-school-enrollment-drop",
+      "headline": "NYC public school enrollment falls again, by about 23,000 students",
+      "region": "Schools",
+      "importance": 5,
+      "summary": "Enrollment in New York City's public schools fell about 2.6% from last year, or roughly 23,000 students, according to city figures reported by Gothamist and The New York Times on Monday. The Daily News called it the largest one-year drop since the pandemic. Gothamist noted that some schools are still overcrowded even as the system shrinks overall.",
+      "why_it_matters": "School budgets follow enrollment, so a shrinking system raises the chance of mergers, closures and tighter budgets at neighborhood schools. Families at small or under-enrolled schools are the most likely to feel it.",
+      "background": "City public school enrollment has been sliding for about a decade; the Times reports the system has lost about 200,000 students over that span, a pattern seen in many U.S. districts. For years the city has used a \"hold harmless\" policy that shields school budgets from mid-year cuts when enrollment falls, and Chalkbeat reported in June that it was extended for 2026-27. Mayor Zohran Mamdani and Schools Chancellor Kamar Samuels have outlined a plan to deal with very small schools through mergers and closures, and on Nov. 2 officials proposed closing two small Harlem schools.",
+      "facts": [
+        {
+          "text": "Enrollment in city public schools was down 2.6% compared with last year.",
+          "refs": [
+            "f121756d8a"
+          ]
+        },
+        {
+          "text": "The drop amounts to about 23,000 students, according to the Times.",
+          "refs": [
+            "5c11385346"
+          ]
+        },
+        {
+          "text": "The Daily News reported it was the largest decline since the COVID-19 pandemic, raising the prospect of cuts and closures.",
+          "refs": [
+            "78d00ef7b6"
+          ]
+        },
+        {
+          "text": "Some schools are still over capacity even as overall enrollment falls, Gothamist reported.",
+          "refs": [
+            "f121756d8a"
+          ]
+        },
+        {
+          "text": "The city system has lost about 200,000 students over the past decade, the Times reported.",
+          "refs": [
+            "5c11385346"
+          ]
+        },
+        {
+          "text": "In late October, Mayor Mamdani and Chancellor Samuels laid out a plan to address the city's many very small schools, including mergers and closures.",
+          "refs": [
+            "nyc-w1"
+          ]
+        },
+        {
+          "text": "On Nov. 2, education officials proposed closing two small Harlem schools.",
+          "refs": [
+            "nyc-w2"
+          ]
+        },
+        {
+          "text": "Chalkbeat reported in June that school budgets would be protected from enrollment-based cuts for the 2026-27 school year.",
+          "refs": [
+            "nyc-w3"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "78d00ef7b6",
+          "note": "Emphasizes the size of the drop and the threat of cuts and closures."
+        },
+        {
+          "ref": "f121756d8a",
+          "note": "Says enrollment dropped 'yet again' and pairs it with schools that are still overflowing."
+        },
+        {
+          "ref": "5c11385346",
+          "note": "Leads with the raw number and puts it in a national, decade-long context."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "78d00ef7b6",
+          "takeaway": "Headline only: frames the decline as the steepest since COVID and a budget risk.",
+          "read_full": false
+        },
+        {
+          "ref": "f121756d8a",
+          "takeaway": "Headline and summary only: gives the 2.6% figure and notes uneven crowding.",
+          "read_full": false
+        },
+        {
+          "ref": "5c11385346",
+          "takeaway": "Headline and summary only (paywalled): 23,000-student drop, 200,000 over a decade.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mamdani-disbands-srg",
+      "headline": "Mamdani disbands NYPD's Strategic Response Group, drawing praise and backlash",
+      "region": "City Hall",
+      "importance": 5,
+      "summary": "Mayor Zohran Mamdani announced Monday that he is disbanding the NYPD's Strategic Response Group, a unit that handles both counterterrorism and crowd control at protests, and replacing its protest role with a civilian-led \"community dialogue and de-escalation\" approach. Police unions, several Jewish groups and some politicians condemned the move, while criminal justice activists welcomed it, the Times reported. Some police reform advocates said the plan does not go far enough.",
+      "why_it_matters": "The SRG is the unit New Yorkers see at large protests, so this changes how demonstrations will be policed and who responds first. Critics say it weakens the city's counterterrorism capacity, and the details of what replaces the unit will decide how those concerns play out.",
+      "background": "The NYPD formed the Strategic Response Group in 2015 as a counterterrorism and rapid-response force, and it later took on policing large protests, drawing complaints over tactics during the 2020 racial justice demonstrations. The city later settled lawsuits over its handling of those protests. Mamdani promised during his 2025 campaign to disband the unit, while Police Commissioner Jessica Tisch had defended its role and favored reforming it. Days before the announcement, a City Hall spokesperson said the administration would separate protest response from counterterrorism.",
+      "facts": [
+        {
+          "text": "Mamdani announced on Monday, Nov. 16, that he would disband the NYPD's Strategic Response Group.",
+          "refs": [
+            "7d32d5f8af",
+            "9d8c5080d9",
+            "79b592c02f",
+            "e5fa793a18",
+            "69b681f5c0"
+          ]
+        },
+        {
+          "text": "The unit had both counterterrorism and protest-response functions.",
+          "refs": [
+            "84aaa01e2a",
+            "69b681f5c0"
+          ]
+        },
+        {
+          "text": "The mayor said its protest role would be replaced with a civilian-led \"community dialogue and de-escalation\" approach, the Post reported.",
+          "refs": [
+            "69b681f5c0"
+          ]
+        },
+        {
+          "text": "Police union leaders condemned the decision, saying it puts public safety at risk.",
+          "refs": [
+            "e5fa793a18",
+            "79b592c02f",
+            "84aaa01e2a"
+          ]
+        },
+        {
+          "text": "Several Jewish groups criticized the move, calling it a \"dangerous, ideological betrayal of public safety,\" the Post reported.",
+          "refs": [
+            "69b681f5c0"
+          ]
+        },
+        {
+          "text": "Criminal justice activists were pleased with the decision, the Times reported.",
+          "refs": [
+            "79b592c02f"
+          ]
+        },
+        {
+          "text": "Some police reform advocates said the plan does not go far enough, City & State reported.",
+          "refs": [
+            "8c51234898"
+          ]
+        },
+        {
+          "text": "Before the announcement, a Mamdani spokesperson said the administration would separate protest response from counterterrorism, according to reports citing Politico.",
+          "refs": [
+            "nyc-w8"
+          ]
+        },
+        {
+          "text": "Commissioner Jessica Tisch had previously voiced support for the SRG and described talks with the mayor as focused on reforming it.",
+          "refs": [
+            "nyc-w10"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "7d32d5f8af",
+          "note": "Calls the unit 'notorious' and says it used excessive force on protesters, framing the move as reform."
+        },
+        {
+          "ref": "84aaa01e2a",
+          "note": "Uses the critics' charge that the mayor 'sides with rioters' as its headline."
+        },
+        {
+          "ref": "79b592c02f",
+          "note": "Presents the reaction as a mix of 'praise, anger and spin' from both sides."
+        },
+        {
+          "ref": "69b681f5c0",
+          "note": "Leads with Jewish groups' warning that the move betrays public safety."
+        },
+        {
+          "ref": "e5fa793a18",
+          "note": "Centers police unions condemning the loss of an 'elite' unit."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "7d32d5f8af",
+          "takeaway": "Headline only: straight report that labels the unit 'notorious' for excessive force on protesters.",
+          "read_full": false
+        },
+        {
+          "ref": "9d8c5080d9",
+          "takeaway": "Headline only: calls the unit 'controversial' and reports the disbanding.",
+          "read_full": false
+        },
+        {
+          "ref": "79b592c02f",
+          "takeaway": "Headline and summary only (paywalled): unions angry, criminal justice activists pleased.",
+          "read_full": false
+        },
+        {
+          "ref": "e5fa793a18",
+          "takeaway": "Headline and summary only: police unions say the move endangers public safety.",
+          "read_full": false
+        },
+        {
+          "ref": "84aaa01e2a",
+          "takeaway": "Headline and summary only: unions and politicians denounce the decision.",
+          "read_full": false
+        },
+        {
+          "ref": "69b681f5c0",
+          "takeaway": "Headline and summary only: Jewish groups' criticism and the civilian-led replacement plan.",
+          "read_full": false
+        },
+        {
+          "ref": "4cb2f9092d",
+          "takeaway": "Headline only: analysis comparing the move to other cities' protest policing; not used for facts.",
+          "read_full": false
+        },
+        {
+          "ref": "8c51234898",
+          "takeaway": "Headline and summary only: reform advocates say the plan falls short.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mta-eagle-fare-agents-reforms",
+      "headline": "MTA says fare enforcers broke policy in violent clashes, plans body cameras",
+      "region": "Transit",
+      "importance": 4,
+      "summary": "A top MTA official said Monday that an internal investigation found the conduct of EAGLE bus fare enforcement agents in two violent, videotaped encounters with riders was unacceptable and violated agency policies. NYC Transit President Demetrius Crichlow announced changes to the teams, including a test of body-worn cameras, Gothamist reported. The Daily News reported that agents involved could be disciplined or fired.",
+      "why_it_matters": "Bus riders could see fare inspectors return with cameras and new rules, and the outcome will shape how the MTA tries to cut fare evasion without more confrontations on buses.",
+      "background": "EAGLE teams are unarmed MTA inspectors who board buses to check that riders have paid, part of the agency's push to curb fare evasion, which it says costs it hundreds of millions of dollars a year. In October, after a reported Oct. 6 incident in which agents were accused of punching a school aide in Brooklyn and a second incident came to light, MTA Chair Janno Lieber pulled the teams off buses pending an investigation and retraining. Some City Council members called for the teams to be eliminated, while Lieber said they remain part of the agency's enforcement plans.",
+      "facts": [
+        {
+          "text": "An MTA investigation found the agents' behavior in two violent incidents was 'unacceptable' and violated agency policies, a top MTA official said Monday.",
+          "refs": [
+            "5fe552a567"
+          ]
+        },
+        {
+          "text": "NYC Transit President Demetrius Crichlow announced reforms to the EAGLE teams, including testing body-worn cameras.",
+          "refs": [
+            "2019034d8e"
+          ]
+        },
+        {
+          "text": "Agents involved in the incidents face discipline and could be fired, the Daily News reported.",
+          "refs": [
+            "9a103c7b8a",
+            "5fe552a567"
+          ]
+        },
+        {
+          "text": "The incidents were caught on video, including one in which agents tackled a rider suspected of not paying.",
+          "refs": [
+            "2019034d8e",
+            "5fe552a567"
+          ]
+        },
+        {
+          "text": "The MTA pulled the EAGLE teams from bus fare enforcement in October after the two incidents came to light.",
+          "refs": [
+            "nyc-w4",
+            "nyc-w5"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "5fe552a567",
+          "note": "Leads with the MTA's own finding that agents violated 'policies and values.'"
+        },
+        {
+          "ref": "2019034d8e",
+          "note": "Leads with the reform step, body cameras, rather than the findings."
+        },
+        {
+          "ref": "9a103c7b8a",
+          "note": "Puts the focus on consequences for the agents: discipline and possible firing."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "5fe552a567",
+          "takeaway": "Headline and summary only (amNY story): MTA finds policy violations in both clashes.",
+          "read_full": false
+        },
+        {
+          "ref": "2019034d8e",
+          "takeaway": "Headline and summary only: Crichlow's reforms and the body-camera pilot.",
+          "read_full": false
+        },
+        {
+          "ref": "9a103c7b8a",
+          "takeaway": "Headline only: agents to be disciplined, possibly fired.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nyc-food-pantry-reliance",
+      "headline": "Nearly 1.3 million New Yorkers relied on food pantries last year, report finds",
+      "region": "",
+      "importance": 4,
+      "summary": "Nearly 1.3 million New Yorkers used food pantries or other free food providers in 2025, and more than half of them were working or lived with a working spouse or partner, according to a report released Monday by Robin Hood and Columbia University. The findings come as federal changes to SNAP, the food stamp program, are reducing benefits for some households.",
+      "why_it_matters": "Pantry demand is high even among working families, and SNAP changes could push more New Yorkers to pantries that are already stretched heading into the holidays.",
+      "background": "Robin Hood, a New York anti-poverty charity, and researchers at Columbia University publish a report on food hardship each year before Thanksgiving, based on their long-running survey of New Yorkers. Last year's edition estimated about 1.2 million New Yorkers used a pantry in 2024. The federal budget law passed in 2025 tightened SNAP work requirements, which took full effect in New York on March 1, 2026, and shifts more of the program's cost to states.",
+      "facts": [
+        {
+          "text": "Nearly 1.3 million New Yorkers relied on food pantries and other free food providers in 2025, according to the Robin Hood and Columbia University report.",
+          "refs": [
+            "35b8971ece",
+            "a2006a5dd1"
+          ]
+        },
+        {
+          "text": "More than half of those pantry users were working or living with a spouse or partner who works, the report found.",
+          "refs": [
+            "35b8971ece"
+          ]
+        },
+        {
+          "text": "The report, called the Spotlight on Food Assistance, was released Monday.",
+          "refs": [
+            "35b8971ece"
+          ]
+        },
+        {
+          "text": "The previous year's report estimated about 1.2 million New Yorkers, or 14%, used a food pantry in 2024.",
+          "refs": [
+            "nyc-w6"
+          ]
+        },
+        {
+          "text": "New federal SNAP work requirements for adults without young children took effect in New York on March 1, 2026.",
+          "refs": [
+            "nyc-w7"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "a2006a5dd1",
+          "note": "Leads with 'more than 1 million' and the SNAP cuts still to come."
+        },
+        {
+          "ref": "35b8971ece",
+          "note": "Leads with the higher figure and stresses that many pantry users have jobs."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "a2006a5dd1",
+          "takeaway": "Headline only: ties pantry reliance to looming SNAP cutbacks.",
+          "read_full": false
+        },
+        {
+          "ref": "35b8971ece",
+          "takeaway": "Headline and summary only: report figures, including the share of working users.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mta-200m-city-aid-report",
+      "headline": "Watchdog says the city skipped $200 million in MTA bus aid that the state never replaced",
+      "region": "Transit",
+      "importance": 3,
+      "summary": "The good-government group Reinvent Albany said in a report released Monday that New York City was allowed to skip a $200 million payment that normally helps fund MTA bus service, as the city faced its own budget gap, and that the state never made up the money. That leaves the MTA absorbing the one-time loss as it projects budget gaps in coming years, amNY reported.",
+      "why_it_matters": "Money the MTA loses has to come from somewhere, and future deficits are typically closed with fare hikes, service cuts or new taxes that riders and taxpayers pay.",
+      "background": "The MTA's operating budget relies on fares, dedicated taxes and subsidies from the state and city, and the city contributes money toward bus service. The authority has forecast operating deficits in future years. Reinvent Albany is a watchdog group that tracks state and MTA finances and regularly testifies on the transit budget.",
+      "facts": [
+        {
+          "text": "Reinvent Albany said the city was allowed to forgo $200 million in bus funding for the MTA while facing a budget gap.",
+          "refs": [
+            "d7dd4afc7f",
+            "33c7ec5d28"
+          ]
+        },
+        {
+          "text": "The group said the state never backfilled the money.",
+          "refs": [
+            "d7dd4afc7f"
+          ]
+        },
+        {
+          "text": "amNY reported the MTA is on the hook for the one-time $200 million as it faces budget gaps in coming years.",
+          "refs": [
+            "33c7ec5d28"
+          ]
+        },
+        {
+          "text": "The report was released Monday.",
+          "refs": [
+            "33c7ec5d28"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "d7dd4afc7f",
+          "note": "Uses the report's word 'raided,' in quotes, and stresses the state's failure to backfill."
+        },
+        {
+          "ref": "1d844772f3",
+          "note": "Puts 'raided' in the headline and frames it as the city balancing its own budget."
+        },
+        {
+          "ref": "33c7ec5d28",
+          "note": "Frames it from the MTA's side: the authority must make up aid the city usually pays."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "d7dd4afc7f",
+          "takeaway": "Headline and summary only: city skipped the payment and the state didn't replace it.",
+          "read_full": false
+        },
+        {
+          "ref": "1d844772f3",
+          "takeaway": "Headline only: 'raided' framing aimed at city budgeting.",
+          "read_full": false
+        },
+        {
+          "ref": "33c7ec5d28",
+          "takeaway": "Headline and summary only: MTA absorbs the one-time loss amid deficits.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "senate-deputy-leader-serrano",
+      "headline": "Bronx Sen. Jose Serrano named deputy leader as Senate Democrats eye tax-the-rich push",
+      "region": "Albany",
+      "importance": 2,
+      "summary": "State Senate Democrats picked Bronx Sen. Jose Serrano as deputy majority leader, replacing Queens Sen. Michael Gianaris, who did not seek reelection, while Andrea Stewart-Cousins stays on as majority leader. The New York Post tied the shakeup to a coming effort to raise taxes on the wealthy, which the Times reports could decide whether Gov. Kathy Hochul and Mayor Zohran Mamdani can expand free child care.",
+      "why_it_matters": "Albany controls the city's tax rates, so who leads the Senate will shape whether the city gets new revenue for programs like free child care. Coverage in the digest comes from a center outlet, a right-leaning tabloid and the Times.",
+      "background": "The deputy majority leader is the second-ranking member of the State Senate, which Democrats control. Gianaris, of Queens, had held the post since 2019. Mamdani campaigned on raising taxes on the city's highest earners to pay for programs including universal child care, but the city cannot raise income taxes without approval from Albany. The Legislature returns for its new session in January.",
+      "facts": [
+        {
+          "text": "Senate Democrats named Bronx Sen. Jose Serrano deputy majority leader.",
+          "refs": [
+            "e030c9feb2",
+            "a5148e0d72"
+          ]
+        },
+        {
+          "text": "Serrano replaces Queens Sen. Michael Gianaris, who decided not to seek reelection, the Post reported.",
+          "refs": [
+            "a5148e0d72"
+          ]
+        },
+        {
+          "text": "Andrea Stewart-Cousins remains majority leader.",
+          "refs": [
+            "e030c9feb2"
+          ]
+        },
+        {
+          "text": "Gov. Hochul and Mayor Mamdani are pushing to expand free child care, and a tax-the-rich campaign may fare better next year, the Times reported.",
+          "refs": [
+            "af1a4c92af"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "a5148e0d72",
+          "note": "Frames the leadership change as preparation for a 'tax the rich' fight."
+        },
+        {
+          "ref": "e030c9feb2",
+          "note": "Emphasizes continuity, with Stewart-Cousins keeping the top job."
+        },
+        {
+          "ref": "af1a4c92af",
+          "note": "Links new taxes on the wealthy directly to the fate of free child care."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "a5148e0d72",
+          "takeaway": "Headline and summary only: Serrano replaces Gianaris; ties it to tax push.",
+          "read_full": false
+        },
+        {
+          "ref": "e030c9feb2",
+          "takeaway": "Headline and summary only: brief leadership news.",
+          "read_full": false
+        },
+        {
+          "ref": "af1a4c92af",
+          "takeaway": "Headline and summary only (paywalled): child care expansion may depend on taxes on the rich.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "nyc-w1",
+      "url": "https://www.chalkbeat.org/newyork/2026/10/30/nyc-mamdani-samuels-plan-for-small-schools-crisis-mergers-closures/",
+      "title": "Mamdani and Samuels plan for small schools crisis: mergers and closures",
+      "outlet": "Chalkbeat New York"
+    },
+    {
+      "id": "nyc-w2",
+      "url": "https://www.chalkbeat.org/newyork/2026/11/02/nyc-harlem-school-closures-center-school-relocation-mamdani/",
+      "title": "NYC proposes closing 2 tiny Harlem schools and moving popular Upper West Side middle school",
+      "outlet": "Chalkbeat New York"
+    },
+    {
+      "id": "nyc-w3",
+      "url": "https://www.chalkbeat.org/newyork/2026/06/07/nyc-school-budgets-hold-harmless-extended-despite-enrollment-drops-2026/",
+      "title": "NYC school budgets won't face cuts next year (for now) despite falling enrollment",
+      "outlet": "Chalkbeat New York"
+    },
+    {
+      "id": "nyc-w4",
+      "url": "https://nyc.streetsblog.org/2026/10/22/eagle-down-mta-pulls-fare-enforcement-agents-from-bus-system",
+      "title": "EAGLE down: MTA pulls fare enforcement agents from bus system",
+      "outlet": "Streetsblog NYC"
+    },
+    {
+      "id": "nyc-w5",
+      "url": "https://ny1.com/nyc/all-boroughs/news/2026/10/23/mta-suspends-use-of-fare-enforcement-agents-after-second-violent-incident",
+      "title": "MTA suspends use of fare enforcement agents after second violent incident",
+      "outlet": "NY1"
+    },
+    {
+      "id": "nyc-w6",
+      "url": "https://robinhood.org/wp-content/uploads/2025/11/PT_Report-Food-Budget-Shortfall-2025-Final.pdf",
+      "title": "Poverty Tracker report on food budget shortfalls, 2025",
+      "outlet": "Robin Hood"
+    },
+    {
+      "id": "nyc-w7",
+      "url": "https://www.healthbeat.org/newyork/2026/03/02/snap-work-requirements/",
+      "title": "SNAP work requirements take effect: What New Yorkers need to know",
+      "outlet": "Healthbeat"
+    },
+    {
+      "id": "nyc-w8",
+      "url": "https://kmph.com/news/nation-world/mamdani-to-announce-disbanding-of-nypd-counterterrorism-protest-response-unit-report-dsa-srg-nyc-rrt",
+      "title": "Mamdani to announce disbanding of NYPD counterterrorism, protest-response unit: report",
+      "outlet": "KMPH (Sinclair)"
+    },
+    {
+      "id": "nyc-w9",
+      "url": "https://www.wnycstudios.org/podcasts/nyc-now/articles/inside-the-nypd-unit-mayor-zohran-mamdani-wants-to-dismantle",
+      "title": "Inside the NYPD Unit Mayor Zohran Mamdani Wants to Dismantle",
+      "outlet": "WNYC"
+    },
+    {
+      "id": "nyc-w10",
+      "url": "https://www.fox5ny.com/news/mamdani-nypd-commissioner-srg-unit",
+      "title": "Mamdani signals he may overrule Tisch on NYPD protest unit",
+      "outlet": "FOX 5 New York"
+    }
+  ]
+}

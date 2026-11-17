@@ -1,0 +1,620 @@
+{
+  "stories": [
+    {
+      "id": "tech-selloff-ahead-of-nvidia-earnings",
+      "headline": "Stocks extend slide as investors brace for Nvidia's results",
+      "region": "Markets",
+      "importance": 5,
+      "summary": "U.S. stocks fell sharply on Monday, the S&P 500's third straight loss, and the selling spread to Europe and U.S. futures on Tuesday as investors waited for Nvidia's quarterly report, its first since chief executive Jensen Huang's exit. Worries about tighter chip export rules and a possible slowdown in AI data-center spending weighed on tech shares, and a Bank of America survey found fund managers cut their tech holdings by the most since 2006.",
+      "why_it_matters": "Nvidia and other AI companies make up a large share of the index funds in many 401(k)s, so a swing in their shares after the report can move ordinary retirement balances.",
+      "background": "Enthusiasm for artificial intelligence has driven much of the stock market's gains since 2023, led by chipmaker Nvidia. In recent weeks Nvidia has been hit by a scandal over a former executive of Singapore's Megaspeed, whom U.S. officials accuse of spying for China, and its chief executive has left. Investors are also watching Anthropic's planned stock offering this week. Last month's Bank of America survey had shown fund managers holding their heaviest tech position since 2020, which makes this month's sharp cut stand out.",
+      "facts": [
+        {
+          "text": "The S&P 500 fell for a third straight day on Monday, its biggest loss since Nvidia's chief resigned last week, The Wall Street Journal reported.",
+          "refs": [
+            "cd5106737a"
+          ]
+        },
+        {
+          "text": "Reuters said Wall Street ended sharply lower on AI worries ahead of Nvidia's results and Anthropic's IPO.",
+          "refs": [
+            "b29160ef99",
+            "32f5676c5b"
+          ]
+        },
+        {
+          "text": "European shares fell on Tuesday as tech stocks dropped and Deutsche Bank slid, and U.S. stock futures, including Nasdaq futures, slipped ahead of Nvidia's report.",
+          "refs": [
+            "a73d20fc20",
+            "6b80d0d8bb",
+            "dbcf16cb6a"
+          ]
+        },
+        {
+          "text": "The Financial Times said investors were worried about tighter U.S. chip export controls and a possible slowdown in AI data-center building.",
+          "refs": [
+            "f170a17209"
+          ]
+        },
+        {
+          "text": "Nvidia's stock has fallen 35% from its October peak, dragging the Nasdaq lower, according to Bloomberg.",
+          "refs": [
+            "e6d0f8840b"
+          ]
+        },
+        {
+          "text": "Options trading implies Nvidia's market value could swing by about $335 billion after the earnings report, Reuters reported.",
+          "refs": [
+            "e3fe4372a2"
+          ]
+        },
+        {
+          "text": "Bank of America's monthly survey found fund managers cut their exposure to technology stocks by the most since 2006.",
+          "refs": [
+            "fc188ff56e",
+            "463dab276e"
+          ]
+        },
+        {
+          "text": "In October's edition of the survey, a net 37% of fund managers were overweight tech, the most since August 2020.",
+          "refs": [
+            "business-w9"
+          ]
+        },
+        {
+          "text": "The Wall Street Journal noted this is Nvidia's first earnings report without Jensen Huang.",
+          "refs": [
+            "dbcf16cb6a"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "32f5676c5b",
+          "note": "Frames the drop as the start of a big week rather than a reaction to one cause."
+        },
+        {
+          "ref": "cd5106737a",
+          "note": "Names Nvidia and fears about China as the reasons for the slide."
+        },
+        {
+          "ref": "c1e0ea0f96",
+          "note": "Presents the week as a test of the AI trade, pairing Nvidia's report with the Anthropic IPO."
+        },
+        {
+          "ref": "db138cc1e4",
+          "note": "Casts the Nvidia turmoil as the end of easy gains for AI investors."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "cd5106737a",
+          "takeaway": "Headline and summary only (paywalled): S&P 500's third straight decline, blamed on Nvidia and China fears.",
+          "read_full": false
+        },
+        {
+          "ref": "8386b68e0a",
+          "takeaway": "Headline and summary only (paywalled): AI stocks resume their slide.",
+          "read_full": false
+        },
+        {
+          "ref": "32f5676c5b",
+          "takeaway": "Headline only: stocks slide to open a big week.",
+          "read_full": false
+        },
+        {
+          "ref": "b29160ef99",
+          "takeaway": "Headline only: Wall Street closes sharply lower ahead of Nvidia and Anthropic.",
+          "read_full": false
+        },
+        {
+          "ref": "a73d20fc20",
+          "takeaway": "Headline only: European shares fall on tech and Deutsche Bank.",
+          "read_full": false
+        },
+        {
+          "ref": "6b80d0d8bb",
+          "takeaway": "Headline only: U.S. futures slip with Fed speakers also in focus.",
+          "read_full": false
+        },
+        {
+          "ref": "dbcf16cb6a",
+          "takeaway": "Headline and summary only (paywalled): Nasdaq futures slip before Nvidia's first report without Huang.",
+          "read_full": false
+        },
+        {
+          "ref": "f170a17209",
+          "takeaway": "Headline and summary only (paywalled): ties the slide to export-control and data-center worries.",
+          "read_full": false
+        },
+        {
+          "ref": "e6d0f8840b",
+          "takeaway": "Headline and summary only (paywalled): Nvidia down 35% from its October peak.",
+          "read_full": false
+        },
+        {
+          "ref": "e3fe4372a2",
+          "takeaway": "Headline only: options price a $335 billion move in Nvidia.",
+          "read_full": false
+        },
+        {
+          "ref": "fc188ff56e",
+          "takeaway": "Headline and summary only (paywalled): BofA survey shows the biggest tech cut since 2006.",
+          "read_full": false
+        },
+        {
+          "ref": "463dab276e",
+          "takeaway": "Headline only: same BofA survey finding.",
+          "read_full": false
+        },
+        {
+          "ref": "c1e0ea0f96",
+          "takeaway": "Headline only: Fox Business segment on Nvidia and Anthropic testing the AI trade.",
+          "read_full": false
+        },
+        {
+          "ref": "db138cc1e4",
+          "takeaway": "Headline only: analysis on the end of easy money for AI stocks.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "commerce-rule-chip-loophole",
+      "headline": "Commerce Department moves to close a loophole on AI chips for China",
+      "region": "Trade",
+      "importance": 4,
+      "summary": "The Commerce Department on Monday released a rule meant to stop Chinese companies from using data centers in other countries to get access to America's most advanced AI chips. The move follows the Nvidia scandal over chips reaching China, and on Tuesday Nvidia said its board had formed a committee to oversee national security and export controls.",
+      "why_it_matters": "Tighter export limits can cut into sales at chipmakers that are among the largest holdings in U.S. stock funds, and they were one reason tech shares fell this week.",
+      "background": "The U.S. has restricted sales of advanced AI chips to China for several years on national-security grounds. Chinese firms have been able to rent computing power on those chips through data centers in third countries, which the new rule targets. In May, the department already required licenses for advanced chips sold to China-headquartered firms wherever they are located. The issue gained urgency after reports tied Nvidia's former chief to Alice Huang, a former executive at Singapore's Megaspeed whom U.S. officials accuse of spying for China.",
+      "facts": [
+        {
+          "text": "The Commerce Department released a rule on Monday aimed at making it harder for China to reach powerful U.S. chips through data centers in third countries.",
+          "refs": [
+            "3304f5726d",
+            "5b3723d4aa",
+            "154078095b"
+          ]
+        },
+        {
+          "text": "Right-leaning outlets the New York Post and The Washington Times linked the rule directly to the Nvidia scandal.",
+          "refs": [
+            "5b3723d4aa",
+            "5dea615932"
+          ]
+        },
+        {
+          "text": "Earlier, on May 31, the department required export licenses for advanced chips sold to entities headquartered in China, wherever they are located.",
+          "refs": [
+            "business-w5"
+          ]
+        },
+        {
+          "text": "Nvidia formed a board committee to oversee national security and export controls, Reuters reported Tuesday.",
+          "refs": [
+            "a5a2f7b8db"
+          ]
+        },
+        {
+          "text": "Nvidia's board had earlier set up a committee of independent directors to investigate, and House committee chairs requested a closed-door briefing on Nov. 18, according to Bloomberg Government.",
+          "refs": [
+            "business-w6"
+          ]
+        },
+        {
+          "text": "Megaspeed said Alice Huang left the company in 2025; The New York Times reported the company gave August 2025 as the date.",
+          "refs": [
+            "4128919762",
+            "c6f717fdbe",
+            "e0758f71f0"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Megaspeed's role in chips reaching China",
+          "positions": [
+            {
+              "claim": "Megaspeed says it is a legitimate and lawful business.",
+              "refs": [
+                "e0758f71f0"
+              ]
+            },
+            {
+              "claim": "U.S. officials say Alice Huang, a former Megaspeed executive, was spying for China.",
+              "refs": [
+                "4128919762"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "5dea615932",
+          "note": "Uses 'cracks down' and ties the rule to the 'Nvidia scandal'."
+        },
+        {
+          "ref": "3304f5726d",
+          "note": "Describes the rule plainly as closing a loophole, with no mention of Nvidia."
+        },
+        {
+          "ref": "154078095b",
+          "note": "Frames it as a further limit on chip shipments to China."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "3304f5726d",
+          "takeaway": "Headline and summary only: explains the third-country data-center loophole.",
+          "read_full": false
+        },
+        {
+          "ref": "5b3723d4aa",
+          "takeaway": "Headline and summary only: crackdown announced Monday, tied to the Nvidia scandal.",
+          "read_full": false
+        },
+        {
+          "ref": "5dea615932",
+          "takeaway": "Headline only: crackdown on China's use of third-country computing power.",
+          "read_full": false
+        },
+        {
+          "ref": "154078095b",
+          "takeaway": "Headline and summary only (paywalled): rule further limits chip shipments to China.",
+          "read_full": false
+        },
+        {
+          "ref": "a5a2f7b8db",
+          "takeaway": "Headline only: Nvidia sets up a board committee on national security.",
+          "read_full": false
+        },
+        {
+          "ref": "4128919762",
+          "takeaway": "Headline and summary only (paywalled): Megaspeed's first statement on Alice Huang's status.",
+          "read_full": false
+        },
+        {
+          "ref": "c6f717fdbe",
+          "takeaway": "Headline and summary only: Megaspeed says the suspected spy left in 2025.",
+          "read_full": false
+        },
+        {
+          "ref": "e0758f71f0",
+          "takeaway": "Headline and summary only: Megaspeed defends itself as lawful.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "warsh-ai-remarks-fed-hike-bets",
+      "headline": "Warsh weighs AI's promise and risks as traders bet on a December hike",
+      "region": "Fed",
+      "importance": 4,
+      "summary": "Federal Reserve Chairman Kevin Warsh said Monday that AI and other new technologies could have a significant impact on the economy but carry risks and could disappoint. His remarks came as the dollar hit a 19-month high and gold stayed under pressure on bets that the Fed will raise interest rates next month after hotter-than-expected inflation data.",
+      "why_it_matters": "A Fed rate hike would make mortgages, car loans and credit card balances more expensive, while falling gas prices offer some relief on everyday costs.",
+      "background": "Warsh became Fed chairman this year and set up several task forces, including one on productivity and jobs that studies how new technologies such as AI could affect the economy. Senate Democrats had criticized the group's membership for having ties to the AI industry. Inflation has run hot: consumer prices rose 0.4% in October, above forecasts, which pushed traders to expect a December rate increase. Some economists argue AI could raise productivity and ease inflation, which is part of why the Fed is studying it.",
+      "facts": [
+        {
+          "text": "Warsh spoke Monday at the Fed's Productivity and Jobs Task Force conference.",
+          "refs": [
+            "22c13a3334",
+            "ebcb97b0e3"
+          ]
+        },
+        {
+          "text": "Reuters reported Warsh said emerging technologies will have a significant impact, but that there are risks.",
+          "refs": [
+            "8ccba5e5b1"
+          ]
+        },
+        {
+          "text": "CNBC reported Warsh stressed AI's importance to the economy but said it could disappoint.",
+          "refs": [
+            "ebcb97b0e3"
+          ]
+        },
+        {
+          "text": "The New York Post said Warsh laid out a best-case scenario while warning of costly risks, and referred to AI as \"super intelligence.\"",
+          "refs": [
+            "b36a94ef59"
+          ]
+        },
+        {
+          "text": "The Associated Press reported that Warsh did not address AI's possible inflation risk.",
+          "refs": [
+            "994b8bc0da",
+            "ab9928d7a4"
+          ]
+        },
+        {
+          "text": "The task force is meant to assess how general-purpose technologies such as AI affect the economy to inform Fed policy, according to the Fed.",
+          "refs": [
+            "business-w3",
+            "8a58707f30"
+          ]
+        },
+        {
+          "text": "Consumer prices rose 0.4% in October, above the 0.3% forecast.",
+          "refs": [
+            "business-w1"
+          ]
+        },
+        {
+          "text": "The dollar reached a 19-month high of 103.66 as hot inflation data fed bets on a December Fed rate hike, the New York Post reported.",
+          "refs": [
+            "caa07ed6a6",
+            "business-w2"
+          ]
+        },
+        {
+          "text": "Gold held below $3,900 an ounce, pressured by rate-hike expectations, the WSJ reported.",
+          "refs": [
+            "ce72cee591"
+          ]
+        },
+        {
+          "text": "U.S. gasoline prices fell to their lowest since mid-March as oil prices declined, according to Bloomberg.",
+          "refs": [
+            "227bdd047d"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "994b8bc0da",
+          "note": "Emphasizes what Warsh did not discuss: AI's inflation risk."
+        },
+        {
+          "ref": "b36a94ef59",
+          "note": "Leads with the best-case scenario and notes his use of Trump-preferred language."
+        },
+        {
+          "ref": "ebcb97b0e3",
+          "note": "Balances AI's importance against the chance it could disappoint."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "22c13a3334",
+          "takeaway": "Headline only: Fox Business live stream of Warsh's remarks.",
+          "read_full": false
+        },
+        {
+          "ref": "b36a94ef59",
+          "takeaway": "Headline and summary only: best case and costly risks, plus his 'super intelligence' wording.",
+          "read_full": false
+        },
+        {
+          "ref": "ebcb97b0e3",
+          "takeaway": "Headline only: AI is important but could disappoint.",
+          "read_full": false
+        },
+        {
+          "ref": "8a58707f30",
+          "takeaway": "Headline and summary only (paywalled): economic uncertainty of the AI boom and the task force's mandate.",
+          "read_full": false
+        },
+        {
+          "ref": "994b8bc0da",
+          "takeaway": "Headline only: AP notes he avoided the inflation question.",
+          "read_full": false
+        },
+        {
+          "ref": "ab9928d7a4",
+          "takeaway": "Headline only: same AP story.",
+          "read_full": false
+        },
+        {
+          "ref": "8ccba5e5b1",
+          "takeaway": "Headline only: significant impact but risks.",
+          "read_full": false
+        },
+        {
+          "ref": "caa07ed6a6",
+          "takeaway": "Headline and summary only: dollar at a 19-month high on hike bets.",
+          "read_full": false
+        },
+        {
+          "ref": "ce72cee591",
+          "takeaway": "Headline and summary only (paywalled): gold held down by rate-hike bets.",
+          "read_full": false
+        },
+        {
+          "ref": "227bdd047d",
+          "takeaway": "Headline and summary only (paywalled): gas prices at an eight-month low.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "deutsche-bank-leak-epstein",
+      "headline": "Deutsche Bank shares fall after leak details Epstein payments",
+      "region": "Banks",
+      "importance": 3,
+      "summary": "Deutsche Bank shares fell Tuesday after reports based on a large leak of internal files described control failures, including payments linked to Jeffrey Epstein, dealings tied to Russia and an error involving Donald Trump's taxes. The drop helped pull European stocks lower.",
+      "why_it_matters": "The reports raise new questions about how well big banks police suspicious money, which regulators require to curb fraud and money laundering.",
+      "background": "Deutsche Bank is Germany's largest lender and was for years a main bank for Donald Trump's businesses. It took Jeffrey Epstein on as a client in 2013, and in 2020 New York regulators fined it $150 million for failing to properly monitor his accounts. Banks file suspicious activity reports with U.S. authorities when they see possible illicit transactions. The new reports are based on what CNBC describes as a 15-million-file leak from whistleblowers.",
+      "facts": [
+        {
+          "text": "Deutsche Bank shares fell on reports exposing Epstein-linked payments and Russia dealings.",
+          "refs": [
+            "bd412ff891",
+            "e12cc7917e"
+          ]
+        },
+        {
+          "text": "CNBC said a 15-million-file leak from whistleblowers details alleged control failures, including Epstein-linked payments, a Trump tax error and Russia bets.",
+          "refs": [
+            "e12cc7917e"
+          ]
+        },
+        {
+          "text": "Bloomberg said the Financial Times reported the bank processed $582 million of suspicious payments linked to Epstein, and that internal documents show it filed suspicious activity reports in the U.S. in 2019.",
+          "refs": [
+            "d64953f9f2"
+          ]
+        },
+        {
+          "text": "Deutsche Bank's slide was among the factors that pulled European shares lower, Reuters reported.",
+          "refs": [
+            "a73d20fc20"
+          ]
+        },
+        {
+          "text": "In 2020, New York's financial regulator fined Deutsche Bank $150 million over its handling of Epstein's accounts.",
+          "refs": [
+            "business-w7"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "e12cc7917e",
+          "note": "Puts Epstein, the Trump tax leak and Russia bets all in the headline."
+        },
+        {
+          "ref": "bd412ff891",
+          "note": "Leads with the share drop and names Epstein and Russia."
+        },
+        {
+          "ref": "d64953f9f2",
+          "note": "Focuses only on the Epstein payments."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "bd412ff891",
+          "takeaway": "Headline only: shares fall on the reports.",
+          "read_full": false
+        },
+        {
+          "ref": "e12cc7917e",
+          "takeaway": "Headline and summary only: lists the leak's main allegations.",
+          "read_full": false
+        },
+        {
+          "ref": "d64953f9f2",
+          "takeaway": "Headline and summary only (paywalled): video citing the FT's $582 million figure.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "home-depot-names-mcphail-ceo",
+      "headline": "Home Depot names finance chief Richard McPhail CEO and beats estimates",
+      "region": "Earnings",
+      "importance": 3,
+      "summary": "Home Depot said Tuesday that chief financial officer Richard McPhail will become chief executive, taking over from Ted Decker, who is returning from medical leave to serve as board chairman. The company also reported quarterly earnings that beat analysts' expectations, according to CNBC.",
+      "why_it_matters": "Home Depot's results are a read on how much Americans are spending on their homes, which tracks the housing market and borrowing costs.",
+      "background": "Home Depot is the largest U.S. home-improvement retailer, and its sales depend on home sales, remodeling and weather such as storms. Higher mortgage rates have slowed the housing market, weighing on big projects. Ted Decker had led the company before going on medical leave. McPhail has been the company's finance chief.",
+      "facts": [
+        {
+          "text": "Home Depot named Richard McPhail chief executive, succeeding Ted Decker, who returns from medical leave as chairman.",
+          "refs": [
+            "dca86a72f7",
+            "0f010721bd",
+            "437b927dac"
+          ]
+        },
+        {
+          "text": "Reuters identified McPhail as the company's finance chief.",
+          "refs": [
+            "0f010721bd"
+          ]
+        },
+        {
+          "text": "CNBC said McPhail takes over next week and that the company beat earnings expectations.",
+          "refs": [
+            "437b927dac"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "437b927dac",
+          "note": "Pairs the CEO change with the earnings beat."
+        },
+        {
+          "ref": "dca86a72f7",
+          "note": "Leads with the leadership handoff and Decker's return as chairman."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "dca86a72f7",
+          "takeaway": "Headline and summary only (paywalled): McPhail to CEO, Decker returns as chairman.",
+          "read_full": false
+        },
+        {
+          "ref": "0f010721bd",
+          "takeaway": "Headline only: finance chief named CEO.",
+          "read_full": false
+        },
+        {
+          "ref": "437b927dac",
+          "takeaway": "Headline and summary only: CEO change effective next week plus an earnings beat.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "business-w1",
+      "url": "https://stockanalysis.com/news/us-cpi-rises-october-2026/",
+      "title": "US consumer prices rise 0.4% in October, above forecasts, as core inflation holds at 0.3%",
+      "outlet": "StockAnalysis"
+    },
+    {
+      "id": "business-w2",
+      "url": "https://www.xtb.com/en/market-analysis/hot-cpi-boosts-fed-hike-chances",
+      "title": "Hot CPI boosts Fed hike chances",
+      "outlet": "XTB"
+    },
+    {
+      "id": "business-w3",
+      "url": "https://www.federalreserve.gov/monetarypolicy/productivity-and-jobs-task-force.htm",
+      "title": "Productivity and Jobs",
+      "outlet": "Federal Reserve"
+    },
+    {
+      "id": "business-w5",
+      "url": "https://thenextweb.com/news/us-nvidia-amd-china-subsidiary-chip-curbs",
+      "title": "US moves to close the loophole letting Nvidia's top chips reach Chinese firms abroad",
+      "outlet": "The Next Web"
+    },
+    {
+      "id": "business-w6",
+      "url": "https://news.bgov.com/banking-law/jensen-huang-scandal-gives-nvidias-board-its-biggest-test-yet",
+      "title": "Jensen Huang Scandal Gives Nvidia's Board Its Biggest Test Yet",
+      "outlet": "Bloomberg Government"
+    },
+    {
+      "id": "business-w7",
+      "url": "https://abc7ny.com/post/bank-maintained-accounts-for-jeffrey-epstein-despite-red-flags-regulators/6304442/",
+      "title": "Bank maintained accounts for Jeffrey Epstein despite 'red flags': Regulators",
+      "outlet": "ABC7 New York"
+    },
+    {
+      "id": "business-w9",
+      "url": "https://cryptobriefing.com/bofa-survey-fund-managers-overweight-tech/",
+      "title": "BofA survey shows 37% of fund managers overweight tech stocks",
+      "outlet": "Crypto Briefing"
+    }
+  ]
+}

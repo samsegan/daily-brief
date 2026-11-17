@@ -1,0 +1,32 @@
+{
+  "overview": "Nvidia's board is not considering bringing back Jensen Huang as chief executive, according to Reuters and The Wall Street Journal, even as President Trump and several tech figures backed a campaign for his return after he resigned last week amid reports of affairs, one with a woman suspected of ties to Chinese intelligence. Tech stocks extended their slide on Monday, with the Nasdaq down about 2.5%, as investors weighed the Nvidia turmoil, a new Commerce Department rule closing a route Chinese firms used to reach U.S. AI chips, and Nvidia's coming earnings. Trump arrived in the Philippines on Tuesday to start a short Asia trip that is set to end with a three-way meeting with Xi Jinping and Vladimir Putin in China. In New York, Mayor Zohran Mamdani's decision to disband the NYPD's Strategic Response Group drew praise from criminal-justice activists and sharp criticism from police unions.",
+  "markets": {
+    "summary": "U.S. stocks fell for a third straight day on Monday: the S&P 500 lost 1.9% and the tech-heavy Nasdaq 2.5%, with The Wall Street Journal tying the drop to Nvidia and to worries about China. Investors are weighing Huang's exit, a new Commerce Department rule that tightens how Chinese companies can reach advanced U.S. chips through data centers in other countries, and Nvidia's quarterly results due this week, which many treat as a test of the AI spending boom. Consumer prices rose 0.4% in October, more than forecast, which pushed the dollar to a 19-month high on bets that the Fed will raise interest rates in December; Fed Chair Kevin Warsh said on Monday that AI could lift productivity but might also disappoint. Borrowing costs remain high: the 10-year Treasury yield, which guides mortgage rates, stood at 5.15% on Friday, and the average 30-year mortgage rate was 7.11%.",
+    "movers": [
+      { "symbol": "NASDAQCOM", "why": "Fell 2.5% on Monday and is down more than 6% in a month as AI and chip stocks slid on the Nvidia leadership crisis and tighter chip export rules." },
+      { "symbol": "SP500", "why": "Dropped 1.9% for a third straight loss, its biggest decline since Huang resigned last week, according to The Wall Street Journal." },
+      { "symbol": "NIKKEI225", "why": "Japan's main index fell 2.4% and is down nearly 9% in a month; it is heavy with chip-equipment makers that track the AI trade." },
+      { "symbol": "CBBTCUSD", "why": "Bitcoin is down about 21% over the past month, near $64,500; there was no single clear cause in today's coverage beyond the broader retreat from risky assets." }
+    ],
+    "concept": {
+      "term": "Export controls",
+      "explanation": "Export controls are government rules that limit which products a country's companies may sell abroad, and to whom. The U.S. uses them to keep the most advanced AI chips, like Nvidia's, out of China, and this week the Commerce Department moved to stop Chinese firms from renting those chips through data centers in other countries. Tighter controls can cut sales for chipmakers, which hits their stock prices and, through them, the index funds in many retirement accounts."
+    },
+    "watch": [
+      "Tue Nov 17: U.S. October retail sales report, 8:30 a.m. ET",
+      "Wed Nov 18: Minutes of the Fed's Oct. 27-28 meeting, 2 p.m. ET",
+      "This week (expected Wed Nov 18, after the close): Nvidia quarterly earnings; the company has not confirmed the date",
+      "This week: Trump's meeting with Xi Jinping and Vladimir Putin in Shenzhen, China"
+    ]
+  },
+  "trending": [
+    { "title": "Jensen Huang", "context": "Nvidia's former chief executive is one of the most-viewed people on Wikipedia after his resignation and a campaign, backed by Trump, to reinstate him.", "signal": "wikipedia_news" },
+    { "title": "Robert Pattinson", "context": "The actor's Wikipedia page drew more than 1.3 million views after he was named the seventh James Bond, succeeding Daniel Craig.", "signal": "wikipedia" },
+    { "title": "Crimean Bridge attack", "context": "Bluesky users are sharing reports that Ukrainian drones struck the bridge linking Russia to occupied Crimea.", "signal": "bluesky" },
+    { "title": "SS United States", "context": "The retired American ocean liner was sunk in the Gulf of Mexico to become what Wikipedia lists as the largest artificial reef.", "signal": "wikipedia_news" },
+    { "title": "Microsoft outage", "context": "Nearly 20,000 Bluesky posts discussed Microsoft's statement that a software bug caused its recent service outage.", "signal": "bluesky" },
+    { "title": "Deportation", "context": "Searches for deportation rose on Google in the U.S.; the trend data does not say what set it off.", "signal": "google" },
+    { "title": "Booker Prize", "context": "M. John Harrison's novel The End of Everything won this year's Booker Prize.", "signal": "wikipedia_news" },
+    { "title": "El Salvador's mission in Haiti", "context": "Salvadoran forces in Haiti carried out airstrikes on the alleged headquarters of the 400 Mawozo gang, according to Wikipedia's news summary.", "signal": "wikipedia_news" }
+  ]
+}

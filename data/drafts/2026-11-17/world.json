@@ -1,0 +1,336 @@
+{
+  "stories": [
+    {
+      "id": "ukraine-kerch-bridge-kyiv-bridges",
+      "headline": "Ukraine knocks a section out of the Crimean Bridge as Russia hits Kyiv's bridges",
+      "region": "Europe",
+      "importance": 5,
+      "summary": "Ukraine struck the Kerch Bridge linking Russia to occupied Crimea for a second day, and part of the road section collapsed, taking the bridge out of service. President Zelensky called it an 'unprecedented' operation and said it answered Russian attacks on Ukraine's infrastructure; the Kremlin said the bridge would be rebuilt. Hours earlier, Russian missiles hit two bridges over the Dnipro in Kyiv, cutting water and power in parts of the capital.",
+      "why_it_matters": "Both sides are now targeting the bridges and utilities that keep cities supplied, which means a harder winter for Ukrainians and a supply problem for Russian forces in Crimea, days before President Trump is set to meet Vladimir Putin.",
+      "background": "The 19-kilometer Kerch Bridge, opened by Russia in 2018 after it annexed Crimea, is the main road and rail link between Russia and the peninsula and a symbol of Putin's claim to it. Ukraine has attacked it before, including with truck bombs, sea drones and underwater explosives, but earlier damage was repaired. Since early October Russia has repeatedly struck the bridges across the Dnipro in Kyiv, which tens of thousands of residents cross each day. The European Union says Russia is stalling peace talks while it bombs Ukraine's power plants ahead of winter.",
+      "facts": [
+        { "text": "Ukraine struck the bridge to Crimea for the second time in two days, the peninsula's Russian-installed governor said, as part of what Russian Defence Ministry data showed was Ukraine's largest drone attack of the war.", "refs": ["acb1bd2335", "2df6e49f02"] },
+        { "text": "A road section of the bridge collapsed and the crossing was closed.", "refs": ["4b88ce23b6", "8106e514c2", "a11c980185"] },
+        { "text": "The attack used drones and cruise missiles, the Wall Street Journal reported.", "refs": ["7736e5758f"] },
+        { "text": "Zelensky called it an 'unprecedented' operation that took weeks to plan, describing it as a 'seven-phase operation'.", "refs": ["4b88ce23b6", "a11c980185", "2a25e8c6bd"] },
+        { "text": "Zelensky said the strike was a response to continued Russian attacks on Ukraine's infrastructure.", "refs": ["3ecf566820", "7716200eb6"] },
+        { "text": "The Kremlin said the bridge would be restored.", "refs": ["2a25e8c6bd", "4b88ce23b6"] },
+        { "text": "Russia said its air defenses downed more than 1,400 Ukrainian drones.", "refs": ["d8af99403c"] },
+        { "text": "Russian strikes late Monday hit Kyiv's Northern and Southern bridges over the Dnipro, causing water and power cuts in parts of the city, Mayor Vitali Klitschko said.", "refs": ["7bbdfd0a5e", "4123b6beea", "40f0974544"] },
+        { "text": "Russian attacks killed 14 people and injured 78 across Ukraine over the past day, the Kyiv Independent reported, citing regional officials.", "refs": ["5045851068"] },
+        { "text": "Russian drones and missiles have hit the Kyiv bridges repeatedly since early October.", "refs": ["world-w1", "world-w2"] },
+        { "text": "EU foreign ministers accused Russia of stalling peace talks to target power plants as winter nears, and the bloc sanctioned nearly 50 Russian banks and financial institutions.", "refs": ["57a623234e", "fcc96111cf"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the bridge can be quickly put back in service",
+          "positions": [
+            { "claim": "Ukrainian accounts and several outlets say an entire section collapsed and the bridge is no longer usable.", "refs": ["a11c980185", "9c0aed722d", "7716200eb6"] },
+            { "claim": "The Kremlin says the bridge will be restored and will be 'better than ever'.", "refs": ["2a25e8c6bd"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "9a6087f7dd", "note": "Calls it 'Putin's prized' bridge, stressing the symbolic blow to the Russian leader." },
+        { "ref": "701b8c757e", "note": "Presents it as a two-way exchange of strikes and ties it to Trump's coming meeting with Putin." },
+        { "ref": "d8af99403c", "note": "Leads with Russia's claim of downing more than 1,400 drones, with the bridge hit second." },
+        { "ref": "7716200eb6", "note": "Uses the strongest damage wording, saying the bridge 'appears destroyed'." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "acb1bd2335", "takeaway": "Reuters wire summary: second day of strikes, biggest drone attack of the war per Russian data.", "read_full": false },
+        { "ref": "2df6e49f02", "takeaway": "Headline only: pairs the Crimean bridge strike with Russia pounding Kyiv's bridges.", "read_full": false },
+        { "ref": "4b88ce23b6", "takeaway": "Summary only: partial collapse, weeks of planning, Kremlin vow to rebuild.", "read_full": false },
+        { "ref": "2a25e8c6bd", "takeaway": "Summary only: 'critically damaged', Zelensky's praise and the Kremlin's 'better than ever' line.", "read_full": false },
+        { "ref": "9c0aed722d", "takeaway": "Newsletter summary only: bridge 'no longer usable'.", "read_full": false },
+        { "ref": "8106e514c2", "takeaway": "Live-blog headline only: bridge closed after a road section collapsed.", "read_full": false },
+        { "ref": "7716200eb6", "takeaway": "Summary only: bridge appears destroyed; strike framed as a response to Russian attacks.", "read_full": false },
+        { "ref": "3ecf566820", "takeaway": "Headline only: Zelensky's stated reason for the strike.", "read_full": false },
+        { "ref": "9a6087f7dd", "takeaway": "Summary only: symbolic blow to Putin.", "read_full": false },
+        { "ref": "701b8c757e", "takeaway": "Summary only: bridge out of service, Kyiv bridges hit, Trump-Putin meeting ahead.", "read_full": false },
+        { "ref": "a11c980185", "takeaway": "Summary only: entire section collapsed after a 'seven-phase operation'.", "read_full": false },
+        { "ref": "7736e5758f", "takeaway": "Headline and summary only (paywalled): drones and cruise missiles, after weeks of Russian strikes on Kyiv bridges.", "read_full": false },
+        { "ref": "d8af99403c", "takeaway": "Headline only (paywalled): leads with Russia's drone-interception figure.", "read_full": false },
+        { "ref": "7bbdfd0a5e", "takeaway": "Headline only: two Kyiv bridges hit, water and power cut, per the mayor.", "read_full": false },
+        { "ref": "4123b6beea", "takeaway": "Summary only: damage to Kyiv bridges and utilities.", "read_full": false },
+        { "ref": "40f0974544", "takeaway": "Summary only: Klitschko's report of hits on the North and South bridges.", "read_full": false },
+        { "ref": "5045851068", "takeaway": "Headline and summary only: 24-hour casualty tally across Ukraine.", "read_full": false },
+        { "ref": "57a623234e", "takeaway": "Headline only (AP wire): EU accuses Russia of stalling talks.", "read_full": false },
+        { "ref": "fcc96111cf", "takeaway": "Summary only (AP wire): new EU sanctions on Russian banks.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "eu-rwanda-return-hub",
+      "headline": "Five EU countries plan to send rejected asylum seekers to a hub in Rwanda",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Austria, Denmark, Germany, Greece and the Netherlands announced plans on Monday for a 'return hub' in Rwanda for people who have no legal right to stay in Europe, with the first transfers targeted for 2027. The governments say it should also deter new arrivals. Rights groups condemned the plan, and it is expected to face legal challenges.",
+      "why_it_matters": "It is the first concrete step toward the EU sending rejected migrants to a country outside Europe, a model other governments may copy. Coverage in this digest came from left-leaning and centrist outlets; no right-leaning outlet in the feed covered it.",
+      "background": "European governments have long struggled to deport people whose asylum claims fail, often because their home countries won't take them back. Britain tried a different Rwanda plan, sending asylum seekers there for processing, but its Supreme Court blocked it in 2023 and a later government scrapped it. Earlier this year EU rules were changed to let member states set up such centres outside the bloc, and these five countries agreed on a model in September. Rwanda says the migrants could stay there while they arrange a return home or settle in Rwanda.",
+      "facts": [
+        { "text": "Austria, Denmark, Germany, Greece and the Netherlands announced the plan on Monday.", "refs": ["46dccf9740", "115d73dd03", "5d1a0780ed"] },
+        { "text": "The partnership targets the first transfers in 2027, Rwanda's New Times reported.", "refs": ["ecdcce025f", "46dccf9740"] },
+        { "text": "Under the arrangement Rwanda may receive migrants while they explore returning to their home countries or settling in Rwanda.", "refs": ["6f9b02710d"] },
+        { "text": "The governments said they hope the hub will also deter people from coming.", "refs": ["46dccf9740"] },
+        { "text": "Human rights groups condemned the plan, saying it would leave vulnerable people at risk of abuse.", "refs": ["5d1a0780ed", "ecc7d122f6"] },
+        { "text": "The Guardian reported the pilot scheme is expected to face legal challenges.", "refs": ["115d73dd03"] },
+        { "text": "The five countries agreed on a model for such 'return hubs' in September.", "refs": ["world-w3"] },
+        { "text": "Amnesty International warned in September that EU return-hub plans risk human rights abuses in Rwanda and Uganda.", "refs": ["world-w4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "115d73dd03", "note": "Uses the governments' term 'return hubs' but leads its summary with critics calling it a 'grave moral failing'." },
+        { "ref": "8c4a584359", "note": "Plain wording that the countries 'agree to deport' people to Rwanda." },
+        { "ref": "ecc7d122f6", "note": "Leads with the criticism: the plans 'come under fire'." },
+        { "ref": "6f9b02710d", "note": "Rwandan framing as a 'migration partnership', with no mention of criticism." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "5d1a0780ed", "takeaway": "Reuters wire summary: plan unveiled, rights groups condemn it.", "read_full": false },
+        { "ref": "46dccf9740", "takeaway": "AP wire summary: the five countries, timing and deterrence aim.", "read_full": false },
+        { "ref": "115d73dd03", "takeaway": "Summary only: pilot scheme likely to face legal challenges.", "read_full": false },
+        { "ref": "ecdcce025f", "takeaway": "Summary only (Rwandan press): first transfers targeted for 2027.", "read_full": false },
+        { "ref": "6f9b02710d", "takeaway": "Summary only (Rwandan press): what Rwanda would offer migrants.", "read_full": false },
+        { "ref": "ecc7d122f6", "takeaway": "Summary only: criticism from rights groups.", "read_full": false },
+        { "ref": "8c4a584359", "takeaway": "Headline only (paywalled).", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-quad-manila",
+      "headline": "Trump meets Quad leaders in Manila ahead of his China summit",
+      "region": "Asia-Pacific",
+      "importance": 4,
+      "summary": "President Trump met the leaders of India, Japan and Australia in Manila on Tuesday, the first Quad leaders' summit since 2024, with economic security and critical minerals on the agenda. He arrived as the ASEAN summit was wrapping up, as hundreds of protesters were arrested in the city, and heads next to China for a summit with Xi Jinping. Trump also said he might meet North Korea's Kim Jong Un while in China.",
+      "why_it_matters": "The trip will shape US relations with China and its Asian allies on trade, chips and the minerals used in phones and cars, and it comes days after Republican losses in the US midterms.",
+      "background": "The Quad is an informal grouping of the United States, India, Japan and Australia, widely seen as a counterweight to China; its leaders last met in Wilmington, Delaware, in September 2024. Trump's Asia trip takes in the ASEAN summit of Southeast Asian nations in Manila and the APEC summit in Shenzhen, China, where he is due to meet Xi and Vladimir Putin. Trump met Kim three times in his first term. Many in the Philippines oppose the US war with Iran, which has fuelled protests against his visit.",
+      "facts": [
+        { "text": "Trump arrived in Manila for Quad talks ahead of his visit to China.", "refs": ["9d8e5b6ac7", "3a11a07105"] },
+        { "text": "He met the leaders of India, Australia and Japan on Tuesday, with economic security high on the agenda, Bloomberg reported.", "refs": ["6e63c3f87b", "88f8036a00"] },
+        { "text": "It is the first Quad leaders' meeting since September 2024 in Wilmington.", "refs": ["27f8bf0649"] },
+        { "text": "Critical minerals and shipping security were expected to be discussed, Reuters reported before the meeting.", "refs": ["world-w5"] },
+        { "text": "Trump said the Quad will host a business forum in 2027 and strike mineral deals, the South China Morning Post reported.", "refs": ["e9a729ec1d"] },
+        { "text": "Trump arrived as the ASEAN summit was wrapping up and will miss most of it, the New York Times reported.", "refs": ["60958b77c8"] },
+        { "text": "Hundreds of people were arrested in protests against Trump in Manila; organisers said up to 10,000 could join the next demonstrations.", "refs": ["9efce15ccb"] },
+        { "text": "Trump said he may meet Kim Jong Un during his China trip and that Kim's presence is up to Xi.", "refs": ["015ee51657", "1c9e613ec9", "8ee4cc30d4"] },
+        { "text": "Russia flagged a possible meeting between Putin and Kim, Nikkei Asia reported.", "refs": ["cf030ae9c2"] },
+        { "text": "North Korean state media showed Kim inspecting the Samjiyon tourism zone amid speculation about a China trip.", "refs": ["a36fd8d13e", "0b60041513"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "df1e9aa4a2", "note": "Frames the trip as coming 'after GOP midterm losses'." },
+        { "ref": "9efce15ccb", "note": "Leads with arrests at anti-Trump protests and anger over the Iran war." },
+        { "ref": "60958b77c8", "note": "Emphasizes that Trump is skipping most of ASEAN, as a sign of the region hedging between Washington and Beijing." },
+        { "ref": "e9a729ec1d", "note": "Leads with Trump's upbeat 'new heights' description and promised deals." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "9d8e5b6ac7", "takeaway": "Headline only: arrival in Manila ahead of China.", "read_full": false },
+        { "ref": "6e63c3f87b", "takeaway": "Summary only (paywalled): Quad meeting under way, economic security on agenda.", "read_full": false },
+        { "ref": "27f8bf0649", "takeaway": "Summary only: explainer on the Quad and the gap since 2024.", "read_full": false },
+        { "ref": "88f8036a00", "takeaway": "Live-blog summary only: Modi expects concrete goals from the Quad.", "read_full": false },
+        { "ref": "e9a729ec1d", "takeaway": "Summary only (paywalled): Trump's promised business forum and mineral deals.", "read_full": false },
+        { "ref": "60958b77c8", "takeaway": "Summary only (paywalled): Trump misses most of ASEAN.", "read_full": false },
+        { "ref": "9efce15ccb", "takeaway": "Summary only: protests and arrests in Manila.", "read_full": false },
+        { "ref": "df1e9aa4a2", "takeaway": "Summary only: arrival framed by midterm losses.", "read_full": false },
+        { "ref": "3a11a07105", "takeaway": "Summary only (paywalled): arrival before the Xi and Putin summit.", "read_full": false },
+        { "ref": "015ee51657", "takeaway": "Summary only: Trump may meet Kim in China.", "read_full": false },
+        { "ref": "1c9e613ec9", "takeaway": "Summary only: Kim's presence left to Xi.", "read_full": false },
+        { "ref": "8ee4cc30d4", "takeaway": "Summary only (paywalled): recalls Trump's first-term meetings with Kim.", "read_full": false },
+        { "ref": "cf030ae9c2", "takeaway": "Headline only (paywalled): possible Putin-Kim meeting.", "read_full": false },
+        { "ref": "a36fd8d13e", "takeaway": "Headline only: Kim's Samjiyon inspection.", "read_full": false },
+        { "ref": "0b60041513", "takeaway": "Summary only: Kim at a ski resort as Trump hints at a meeting.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "canada-china-tariff-relief",
+      "headline": "Carney and Xi agree to cut more tariffs as Canada looks beyond the US",
+      "region": "Americas",
+      "importance": 4,
+      "summary": "Canadian Prime Minister Mark Carney met Chinese President Xi Jinping in Shenzhen on Tuesday, before the APEC summit, and the two sides agreed to further tariff relief, including on Canadian farm and steel exports. Carney said ties with China now had 'greater predictability and stability'. A day earlier he said Canada could turn to Chinese automakers if trade talks with President Trump fail.",
+      "why_it_matters": "Canada is one of the biggest US trading partners, and a closer Canada-China trade relationship could change prices and jobs on both sides of the border while US-Canada trade talks drag on. Coverage in this digest came from centrist and left-leaning outlets; no right-leaning outlet in the feed covered it.",
+      "background": "Canada and China were locked in tit-for-tat tariffs for years, including Canadian duties on Chinese electric vehicles and steel and Chinese duties on Canadian canola and seafood. As President Trump imposed tariffs on Canada, Carney began repairing ties with Beijing, and in January the two reached a deal letting a quota of Chinese EVs into Canada at a low tariff in exchange for lower Chinese tariffs on canola. China is hosting this year's Asia-Pacific Economic Cooperation summit in Shenzhen and is courting countries unsettled by US trade policy.",
+      "facts": [
+        { "text": "Xi and Carney met in Shenzhen on Tuesday ahead of the APEC summit and extended trade deals.", "refs": ["14a269a795", "1a19beda99"] },
+        { "text": "The two agreed to further tariff relief on agriculture and steel exports, Bloomberg reported.", "refs": ["1a19beda99", "b7bda810f1"] },
+        { "text": "Canada's government said it had agreed to further reduce tariffs on a range of products.", "refs": ["874ae44385", "0615b6f4ec"] },
+        { "text": "Carney said exchanges between the countries had increased and the relationship now had 'greater predictability and stability'.", "refs": ["150f18072e"] },
+        { "text": "Analysts warned that Ottawa's hedge against US pressure risks creating dependency on Beijing, the Financial Times reported.", "refs": ["0c03eb1477"] },
+        { "text": "On Monday Carney said Canada could turn to Chinese automakers if US trade talks fail, but that any Chinese investment would need substantial manufacturing in Canada.", "refs": ["c2bdcc41bf", "3843310434", "a9dc1f3ee2"] },
+        { "text": "In January Canada agreed to let up to 49,000 Chinese EVs a year in at a 6.1% tariff, and China agreed to cut its canola seed tariff to about 15%.", "refs": ["world-w6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "a856eaeb11", "note": "Stresses the contrast between warm Canada-China ties and strained Canada-US relations." },
+        { "ref": "0c03eb1477", "note": "Frames it as China courting 'middle powers', with a warning about dependency." },
+        { "ref": "dbaf77a478", "note": "Frames the meeting around Canada looking beyond the US for trade." },
+        { "ref": "b7bda810f1", "note": "Presents it as the next step in a diplomatic 'thaw'." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "14a269a795", "takeaway": "Headline only: trade deals extended as Xi meets Carney.", "read_full": false },
+        { "ref": "1a19beda99", "takeaway": "Video summary only (paywalled): tariff relief on agriculture and steel.", "read_full": false },
+        { "ref": "874ae44385", "takeaway": "Summary only: both seek to reduce reliance on the US.", "read_full": false },
+        { "ref": "0615b6f4ec", "takeaway": "Summary only: China using APEC to showcase its trade vision.", "read_full": false },
+        { "ref": "150f18072e", "takeaway": "Summary only: Carney's 'predictability and stability' remark.", "read_full": false },
+        { "ref": "0c03eb1477", "takeaway": "Summary only (paywalled): dependency risk.", "read_full": false },
+        { "ref": "a856eaeb11", "takeaway": "Summary only (paywalled): contrast with US relations.", "read_full": false },
+        { "ref": "dbaf77a478", "takeaway": "Headline only (paywalled).", "read_full": false },
+        { "ref": "b7bda810f1", "takeaway": "Summary only (paywalled): broader trade concessions.", "read_full": false },
+        { "ref": "c2bdcc41bf", "takeaway": "Headline only (AP wire): Chinese automakers as a fallback.", "read_full": false },
+        { "ref": "3843310434", "takeaway": "Summary only (AP wire): manufacturing condition on Chinese investment.", "read_full": false },
+        { "ref": "a9dc1f3ee2", "takeaway": "Summary only: Carney remarks from Cambodia.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iran-bahrain-third-radar-claim",
+      "headline": "Iran claims a third drone attack on a US radar site in Bahrain in under a week",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "Iran's Revolutionary Guard said on Tuesday it attacked a US military radar system in Bahrain with drones, its third such claim in less than a week. Bahrain said it intercepted Iranian air attacks, and authorities said the first two attacks were also intercepted. The US condemned the strikes, and Secretary of State Marco Rubio spoke with Bahrain's foreign minister.",
+      "why_it_matters": "Repeated strikes on a Gulf state hosting US forces put American troops at risk and threaten the region's oil and shipping, which feeds into fuel prices.",
+      "background": "The United States and Israel have been at war with Iran since early 2026, and Iran has fired drones and missiles at US bases in Gulf states. Bahrain, an island kingdom across the Gulf from Iran, hosts the US Navy's Fifth Fleet. After about two months of relative calm, the US carried out limited strikes on Iran in recent weeks, and Iran has called its new attacks retaliation. US-Iran peace talks have not produced a deal.",
+      "facts": [
+        { "text": "Iran's Revolutionary Guard said it targeted a US radar at a military base in Bahrain with drones.", "refs": ["efe12c633d", "d8b6a0d102", "4437ddd731"] },
+        { "text": "Bahrain said it intercepted Iranian air attacks.", "refs": ["d8b6a0d102", "4437ddd731"] },
+        { "text": "Iran has claimed three strikes on US radar systems in Bahrain in less than a week; authorities said the first two were intercepted.", "refs": ["8956cf8b41", "85fe86d516"] },
+        { "text": "The US condemned the Iranian strikes, and Rubio held a call with his Bahraini counterpart.", "refs": ["48433418e3"] },
+        { "text": "After the first claim on Nov. 13, US Central Command said it shot down two Iranian drones and that there was no damage or injury.", "refs": ["world-w7"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the US radar was hit",
+          "positions": [
+            { "claim": "Iran's Revolutionary Guard says it struck the US radar.", "refs": ["8956cf8b41", "d8b6a0d102"] },
+            { "claim": "Bahrain says it intercepted the attacks, and the US military said earlier drones were shot down without damage.", "refs": ["4437ddd731", "world-w7"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "efe12c633d", "note": "Headline states Iran's attack on the radar as fact." },
+        { "ref": "4437ddd731", "note": "Puts Bahrain's interception claim first, Iran's target claim second." },
+        { "ref": "8956cf8b41", "note": "Calls it Iran's 'claim' and stresses the series of attacks." },
+        { "ref": "85fe86d516", "note": "Frames it as the end of a two-month lull." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "efe12c633d", "takeaway": "Headline only: Iran attacks US radar with drones.", "read_full": false },
+        { "ref": "d8b6a0d102", "takeaway": "Headline only: Bahrain's interception against the IRGC claim.", "read_full": false },
+        { "ref": "4437ddd731", "takeaway": "Headline only: same competing claims.", "read_full": false },
+        { "ref": "8956cf8b41", "takeaway": "Summary only: three claims in under a week, first two intercepted.", "read_full": false },
+        { "ref": "48433418e3", "takeaway": "Headline only: US condemnation and Rubio call.", "read_full": false },
+        { "ref": "85fe86d516", "takeaway": "Headline only (paywalled): end of a two-month lull.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "saudi-replaces-yemen-commander",
+      "headline": "Saudi Arabia replaces its Yemen coalition commander after battlefield losses",
+      "region": "Middle East",
+      "importance": 3,
+      "summary": "Saudi Arabia on Monday replaced the commander overseeing its coalition against Yemen's Houthis after its Yemeni allies were forced to withdraw from large areas. Anti-Houthi forces have accused Riyadh of a failed strategy after they pulled back from the Bab al-Mandab strait. The Houthis have gained ground quickly since the US-Iran conflict reignited Yemen's civil war this summer.",
+      "why_it_matters": "Houthi control near the Bab al-Mandab strait, a chokepoint for Red Sea shipping, could disrupt global trade and raise shipping costs.",
+      "background": "Yemen's civil war began in 2014 when the Iran-aligned Houthi movement seized the capital, Sanaa, and a Saudi-led coalition intervened in 2015 to back the government. Fighting largely froze after a 2022 truce. This summer, the conflict between the US and Iran reignited the war and drew Saudi Arabia back into confrontation with the Houthis. The government's temporary capital is Aden, near the southern entrance to the Red Sea.",
+      "facts": [
+        { "text": "Saudi Arabia replaced the commander of its coalition against the Houthis on Monday.", "refs": ["888f52eae5", "b6ca0ab077", "df7ece532b"] },
+        { "text": "The move followed the withdrawal of Riyadh's Yemeni allies from large areas of territory.", "refs": ["b6ca0ab077", "888f52eae5"] },
+        { "text": "Yemeni allies withdrew troops from the Bab al-Mandab strait and pulled back from efforts to relieve the siege of Taiz and protect Aden, and anti-Houthi forces accused Riyadh of incompetence, the Guardian reported.", "refs": ["3a910931f1"] },
+        { "text": "The Houthis have made rapid gains since the US-Iran conflict reignited Yemen's frozen civil war this summer.", "refs": ["9c2630b276"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "bf0246ab1d", "note": "Uses 'boots' and 'stunning battlefield defeat', the most dramatic wording." },
+        { "ref": "df7ece532b", "note": "Neutral: Saudi Arabia 'dismisses' the commander, without mentioning the losses." },
+        { "ref": "3a910931f1", "note": "Centers on Yemeni allies' criticism of Saudi strategy." },
+        { "ref": "888f52eae5", "note": "Calls the losses a 'setback'." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "888f52eae5", "takeaway": "Headline only: commander replaced after setback.", "read_full": false },
+        { "ref": "b6ca0ab077", "takeaway": "Reuters wire summary: replacement after allies withdrew.", "read_full": false },
+        { "ref": "9c2630b276", "takeaway": "Reuters wire summary: Houthi gains since the summer.", "read_full": false },
+        { "ref": "3a910931f1", "takeaway": "Summary only: accusations against Saudi strategy.", "read_full": false },
+        { "ref": "df7ece532b", "takeaway": "Headline only.", "read_full": false },
+        { "ref": "bf0246ab1d", "takeaway": "Summary only: worry about the government retreat.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "congo-ebola-six-months",
+      "headline": "Congo's Ebola outbreak is still out of control six months on, Africa CDC warns",
+      "region": "Africa",
+      "importance": 3,
+      "summary": "Africa's top public health agency warned that the Ebola outbreak in Congo remains out of control six months after it was declared, citing attacks on health workers, unpaid staff and a lack of resources. It is the deadliest of Congo's 17 Ebola outbreaks, and Reuters reported it is spreading and killing at a record pace. There is no approved vaccine or treatment for the Bundibugyo strain behind it.",
+      "why_it_matters": "An uncontrolled outbreak in a conflict zone can spread to neighboring countries and beyond; the US CDC currently rates the risk to Americans as low. Coverage in this digest came from centrist and left-leaning outlets; no right-leaning outlet in the feed covered it.",
+      "background": "Ebola is an often-fatal viral disease spread through bodily fluids. This outbreak, confirmed in May in Congo's northeastern Ituri province, is caused by the Bundibugyo virus, for which the vaccines used in past outbreaks don't work. Eastern Congo has been torn by armed conflict and mass displacement, which makes tracing contacts and treating patients hard. The 2014-2016 West African epidemic killed about 11,000 people.",
+      "facts": [
+        { "text": "The Africa CDC warned the outbreak remains out of control six months after it was declared, citing deadly attacks on health workers, unpaid staff and a shortage of resources.", "refs": ["fe12ac4935", "ca046a4a1c"] },
+        { "text": "It is the deadliest of Congo's 17 Ebola outbreaks and on track to surpass the death toll of the 2014-2016 West African outbreak, which killed 11,000 people.", "refs": ["ebfc12f581"] },
+        { "text": "The outbreak is spreading and killing at a record pace, Reuters reported.", "refs": ["b635c86e15"] },
+        { "text": "Fear and mistrust are leading people to delay care and treat sick relatives at home, the New York Times reported.", "refs": ["0f8772c664"] },
+        { "text": "The outbreak was confirmed in Ituri province on May 15; there is no approved vaccine or treatment for Bundibugyo virus, and the US CDC assesses the risk to the US public as low.", "refs": ["world-w8"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "fe12ac4935", "note": "Leads with the 'out of control' warning and the attacks on health workers." },
+        { "ref": "ca046a4a1c", "note": "Africa CDC's own framing stresses progress in reaching communities, then the challenges." },
+        { "ref": "0f8772c664", "note": "Focuses on community fear and mistrust as the driver of spread." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "fe12ac4935", "takeaway": "Summary only (RFI): Africa CDC's warning and its reasons.", "read_full": false },
+        { "ref": "ca046a4a1c", "takeaway": "Summary only (Africa CDC statement): progress and obstacles.", "read_full": false },
+        { "ref": "ebfc12f581", "takeaway": "AP wire summary: deadliest Congo outbreak, comparison with West Africa.", "read_full": false },
+        { "ref": "b635c86e15", "takeaway": "Headline only: record pace of spread.", "read_full": false },
+        { "ref": "0f8772c664", "takeaway": "Summary only (paywalled): fear and delays in seeking care.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "imran-khan-medical-appeal",
+      "headline": "Jailed ex-Pakistan leader Imran Khan pleads for urgent medical care",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "Former Pakistani Prime Minister Imran Khan, in prison since August 2023, appealed to the country's top judges for urgent medical treatment for himself and his wife, warning he 'may not return alive'. He also said he has been denied justice. There was no response from the authorities in the coverage reviewed.",
+      "why_it_matters": "Khan remains Pakistan's most popular opposition figure, and his health in custody could set off unrest in a nuclear-armed country of 250 million.",
+      "background": "Khan, a former cricket star, founded the Pakistan Tehreek-e-Insaf party and was prime minister from 2018 until he was ousted in a parliamentary no-confidence vote in 2022. He has been jailed since 2023 and faces more than 100 cases, which he says are politically motivated. His wife, Bushra Bibi, is also imprisoned. His lawyers and party have raised concerns about his health and access to doctors for months, including an eye condition earlier this year.",
+      "facts": [
+        { "text": "Khan appealed to Pakistan's top judges for urgent medical treatment for himself and his wife.", "refs": ["1700dc0c42", "271b4d9fda", "0b11e9ef4c"] },
+        { "text": "He warned he 'may not return alive'.", "refs": ["bf53f4e88b", "eb0172f8b5", "fe940bb872"] },
+        { "text": "Khan has been in prison since August 2023 and faces more than 100 cases.", "refs": ["eb0172f8b5", "fe940bb872"] },
+        { "text": "Earlier this year Khan's lawyer wrote to the chief justice seeking his transfer to hospital and family access over an eye condition.", "refs": ["world-w9"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "ac1b20c1bd", "note": "Sharpest wording, putting Khan's words as 'I'll die in jail without help'." },
+        { "ref": "fe940bb872", "note": "Pairs the medical plea with his claim that he has been denied justice." },
+        { "ref": "1700dc0c42", "note": "Neutral 'appeals for urgent medical care'." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "1700dc0c42", "takeaway": "Headline only (AP wire).", "read_full": false },
+        { "ref": "271b4d9fda", "takeaway": "Summary only (AP wire): appeal to top judges for himself and his wife.", "read_full": false },
+        { "ref": "bf53f4e88b", "takeaway": "Headline only: 'may not return alive'.", "read_full": false },
+        { "ref": "eb0172f8b5", "takeaway": "Summary only: background on his party and 100-plus cases.", "read_full": false },
+        { "ref": "0b11e9ef4c", "takeaway": "Summary only: 'before it's too late'.", "read_full": false },
+        { "ref": "fe940bb872", "takeaway": "Summary only: jailed since August 2023, says he is denied justice.", "read_full": false },
+        { "ref": "ac1b20c1bd", "takeaway": "Headline only (paywalled).", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w1", "url": "https://euromaidanpress.com/2026/10/04/russias-drones-keep-targeting-the-bridges-kyiv-cant-easily-replace-now-the-northern-crossing-is-cratered/", "title": "Russia's drones keep targeting the bridges Kyiv can't easily replace", "outlet": "Euromaidan Press" },
+    { "id": "world-w2", "url": "https://euronews.com/2026/10/03/second-kyiv-bridge-hit-in-two-days-as-russia-targets-dnipro-crossings", "title": "Second Kyiv bridge hit in two days as Russia targets Dnipro crossings", "outlet": "Euronews" },
+    { "id": "world-w3", "url": "https://www.wcax.com/2026/09/04/5-eu-nations-agree-model-send-rejected-migrants-return-hubs-early-2027/", "title": "5 EU nations agree on model to send rejected migrants to 'return hubs' as early as 2027", "outlet": "WCAX (AP)" },
+    { "id": "world-w4", "url": "https://jurist.org/news/2026/09/amnesty-international-warns-eu-migrant-return-hub-plans-risk-human-rights-abuses-in-rwanda-and-uganda", "title": "Amnesty International warns EU migrant return hub plans risk human rights abuses in Rwanda and Uganda", "outlet": "JURIST" },
+    { "id": "world-w5", "url": "https://www.khaleejtimes.com/world/asia/trump-quad-leaders-meet-manila-nov-17-2026", "title": "Trump, other Quad leaders to meet in Manila on Nov 17, sources say", "outlet": "Khaleej Times (Reuters)" },
+    { "id": "world-w6", "url": "https://www.bnnbloomberg.ca/business/politics/2026/01/16/carney-reaches-landmark-tariff-quota-deal-with-china-on-evs-canola/", "title": "Carney reaches 'landmark' tariff-quota deal with China on EVs, canola", "outlet": "BNN Bloomberg" },
+    { "id": "world-w7", "url": "https://www.aljazeera.com/amp/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain", "title": "US denies Iran's claim it hit two radar sites in Bahrain", "outlet": "Al Jazeera" },
+    { "id": "world-w8", "url": "https://cdc.gov/ebola/situation-summary/about-current-outbreak.html", "title": "About the Current Ebola Outbreak", "outlet": "US CDC" },
+    { "id": "world-w9", "url": "https://www.thenews.pk/story/1399487-in-letter-to-cjp-imran-khans-lawyer-seeks-ex-pms-hospital-transfer-family-access", "title": "In letter to CJP, Imran Khan's lawyer seeks ex-PM's hospital transfer, family access", "outlet": "The News" }
+  ]
+}

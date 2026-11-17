@@ -1,0 +1,951 @@
+{
+  "stories": [
+    {
+      "id": "huang-reinstatement-fight",
+      "headline": "Trump backs campaign to bring back Jensen Huang as Nvidia CEO; board says it is not considering it",
+      "region": "White House",
+      "importance": 5,
+      "summary": "President Trump has backed a campaign by tech figures to reinstate Jensen Huang as Nvidia's chief executive, days after Huang resigned over affairs that included a relationship with a woman suspected of ties to Chinese intelligence. Nvidia's board is not considering bringing him back, according to Reuters and the Wall Street Journal, as inquiries into the relationship continue. The Telegraph reports the U.S. is investigating the company the woman led.",
+      "why_it_matters": "Nvidia makes the chips behind most of the AI boom and is a large holding in many retirement funds, and the fight tests whether a president can pressure a private company's board over who runs it.",
+      "background": "Jensen Huang co-founded Nvidia in 1993 and led it as it became one of the world's most valuable companies on demand for AI chips. In late October, the New York Times reported that U.S. intelligence officials believed a Chinese businesswoman close to Huang was passing information to Beijing, and Nvidia's board opened an internal investigation. Huang resigned last week, apparently pushed out by the board after revelations of extramarital affairs with that woman and with a senior executive who reported to him. Tech figures then launched a public campaign for his return.",
+      "facts": [
+        {
+          "text": "Trump backs the campaign to reinstate Huang as Nvidia's CEO, PBS NewsHour and the BBC reported.",
+          "refs": [
+            "fde95c44a3",
+            "349134aed1"
+          ]
+        },
+        {
+          "text": "Nvidia's board is not weighing a return for Huang, three people told Reuters, and the Wall Street Journal reported the same.",
+          "refs": [
+            "c21862d20c",
+            "e08bb0fc42"
+          ]
+        },
+        {
+          "text": "A number of tech figures have backed the 'Bring Jensen Back' effort asking the company to give Huang his job back.",
+          "refs": [
+            "349134aed1",
+            "c21862d20c"
+          ]
+        },
+        {
+          "text": "Inquiries into Huang's relationship with a woman suspected of working with Chinese intelligence are continuing, the Wall Street Journal reported.",
+          "refs": [
+            "e08bb0fc42"
+          ]
+        },
+        {
+          "text": "The Telegraph reported that the U.S. is investigating the company led by the woman.",
+          "refs": [
+            "288445a3d9"
+          ]
+        },
+        {
+          "text": "Huang resigned last week after revelations of affairs with a Chinese businesswoman suspected of being an intelligence asset for Beijing and with a senior executive who reported to him.",
+          "refs": [
+            "fde95c44a3",
+            "c21862d20c"
+          ]
+        },
+        {
+          "text": "Nvidia opened an internal investigation into Huang's alleged relationship in early November.",
+          "refs": [
+            "us-w10"
+          ]
+        },
+        {
+          "text": "Taipei 101, the Taiwan skyscraper, displayed messages of support for Huang, CNN reported.",
+          "refs": [
+            "fc6b569636"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "349134aed1",
+          "note": "The BBC leads with Nvidia dismissing the campaign, with Trump's backing second."
+        },
+        {
+          "ref": "fde95c44a3",
+          "note": "PBS NewsHour leads with Trump's role in the campaign."
+        },
+        {
+          "ref": "288445a3d9",
+          "note": "The Telegraph centers the woman, calling her Huang's 'Chinese spy mistress', a phrase stronger than other outlets'."
+        },
+        {
+          "ref": "6b256a6ce0",
+          "note": "Axios frames the push as a test of whether powerful CEOs can be held accountable."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "fde95c44a3",
+          "takeaway": "Summary only: Trump backs the reinstatement campaign; recaps why Huang left.",
+          "read_full": false
+        },
+        {
+          "ref": "349134aed1",
+          "takeaway": "Summary only: Nvidia dismisses the campaign as tech figures back it.",
+          "read_full": false
+        },
+        {
+          "ref": "c21862d20c",
+          "takeaway": "Summary only: Reuters report that the board is not weighing his return.",
+          "read_full": false
+        },
+        {
+          "ref": "e08bb0fc42",
+          "takeaway": "Summary only (paywalled): board not considering reinstatement while inquiries continue.",
+          "read_full": false
+        },
+        {
+          "ref": "288445a3d9",
+          "takeaway": "Headline only (paywalled): U.S. investigation into the woman's company.",
+          "read_full": false
+        },
+        {
+          "ref": "6b256a6ce0",
+          "takeaway": "Summary only: analysis of CEO accountability.",
+          "read_full": false
+        },
+        {
+          "ref": "fc6b569636",
+          "takeaway": "Headline only: support messages on Taipei 101.",
+          "read_full": false
+        }
+      ],
+      "social": "A public 'Bring Jensen Back' campaign drew support from tech figures, and supporters in Taiwan put messages for Huang on Taipei 101."
+    },
+    {
+      "id": "faa-ground-stop-blame",
+      "headline": "New router is the focus of the FAA ground stop inquiry as the White House forms a 'tiger team'",
+      "region": "White House",
+      "importance": 4,
+      "summary": "Investigators are focusing on a newly installed router as the likely trigger of Friday's nationwide ground stop, and the White House has formed a cross-agency 'tiger team' to prevent another one. President Trump said he takes no responsibility for the outage, while Democrats and his administration traded blame and Congress began fighting over how much to spend on air traffic control.",
+      "why_it_matters": "The fight over cause and funding will decide how quickly the aging air traffic control network is replaced, which affects how likely travelers are to face another nationwide shutdown, including during the holidays.",
+      "background": "On Friday, Nov. 13, the Federal Aviation Administration halted departing flights across the U.S. for several hours after a failure in its air traffic control communications network, only the second nationwide ground stop since the 9/11 attacks. Airlines canceled and delayed thousands more flights as they recovered over the weekend. The FAA's equipment and telecommunications lines are decades old, and Congress approved $12.5 billion for upgrades last year. Transportation Secretary Sean Duffy now wants $50 billion more, and Democrats have questioned that price.",
+      "facts": [
+        {
+          "text": "Axios reported that a newly installed router is at the center of the investigation into the ground stop.",
+          "refs": [
+            "a2e513e28e"
+          ]
+        },
+        {
+          "text": "The FAA is working with contractor L3Harris at its Florida laboratory to determine what caused the outage, the New York Post reported.",
+          "refs": [
+            "c08c7485c3"
+          ]
+        },
+        {
+          "text": "CBS News reported that a new 'tiger team' of officials from the FAA, the Office of the Director of National Intelligence, the Defense Department and the Transportation Department was formed to head off another nationwide ground stop.",
+          "refs": [
+            "31f37e88bc"
+          ]
+        },
+        {
+          "text": "Trump said of the ground stop, 'I don't take any responsibility,' according to CNN.",
+          "refs": [
+            "6975f32a16"
+          ]
+        },
+        {
+          "text": "Trump administration officials blamed previous presidents and Congress for the condition of the system.",
+          "refs": [
+            "us-w1",
+            "9f06b1abca"
+          ]
+        },
+        {
+          "text": "Former Transportation Secretary Pete Buttigieg responded to Trump blaming him for the outage, saying his department did a lot to upgrade the system.",
+          "refs": [
+            "5d464585ea",
+            "us-w2"
+          ]
+        },
+        {
+          "text": "The administration is asking for tens of billions of dollars for air traffic control improvements, and Democrats are questioning that price, PBS NewsHour reported.",
+          "refs": [
+            "9f06b1abca",
+            "583b86906c"
+          ]
+        },
+        {
+          "text": "Duffy vowed to modernize the aging air traffic system.",
+          "refs": [
+            "c08c7485c3"
+          ]
+        },
+        {
+          "text": "The New York Post reported that Homeland Security Secretary Markwayne Mullin took his government plane to the LSU-Texas football game on a day when nearly 7,000 flights were canceled.",
+          "refs": [
+            "09b5abbf08"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Who is responsible for the outage",
+          "positions": [
+            {
+              "claim": "The Trump administration says the failure stems from old technology left by previous administrations and underfunding by Congress.",
+              "refs": [
+                "us-w1",
+                "9f06b1abca"
+              ]
+            },
+            {
+              "claim": "Buttigieg says his department did a lot to upgrade the system, and CNN reported the administration's finger-pointing ended up implicating Republicans in Congress.",
+              "refs": [
+                "5d464585ea",
+                "4ee9aed995",
+                "us-w2"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "4ee9aed995",
+          "note": "CNN frames the story around the administration's blame game backfiring on the GOP."
+        },
+        {
+          "ref": "a2e513e28e",
+          "note": "Axios leads with the technical cause, a newly installed router, and the weakness of the FAA's network."
+        },
+        {
+          "ref": "28e63b2948",
+          "note": "The Washington Times focuses on travelers who drove thousands of miles, not on who is to blame."
+        },
+        {
+          "ref": "09b5abbf08",
+          "note": "The New York Post leads with a cabinet secretary's use of a government plane during the disruption."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "a2e513e28e",
+          "takeaway": "Summary only: explainer centered on the new router and the FAA's aging network.",
+          "read_full": false
+        },
+        {
+          "ref": "31f37e88bc",
+          "takeaway": "Summary only: lists the agencies on the new tiger team.",
+          "read_full": false
+        },
+        {
+          "ref": "6975f32a16",
+          "takeaway": "Headline only: Trump's remark that he takes no responsibility.",
+          "read_full": false
+        },
+        {
+          "ref": "5d464585ea",
+          "takeaway": "Headline only: Buttigieg pushes back on Trump's blame.",
+          "read_full": false
+        },
+        {
+          "ref": "4ee9aed995",
+          "takeaway": "Headline only: says the administration's blame implicates the GOP.",
+          "read_full": false
+        },
+        {
+          "ref": "9f06b1abca",
+          "takeaway": "Summary only: administration deflects responsibility as Democrats question the funding ask.",
+          "read_full": false
+        },
+        {
+          "ref": "583b86906c",
+          "takeaway": "Summary only: interview segment on what failed and the funding fight.",
+          "read_full": false
+        },
+        {
+          "ref": "c08c7485c3",
+          "takeaway": "Summary only: Duffy's modernization pledge and the L3Harris lab investigation.",
+          "read_full": false
+        },
+        {
+          "ref": "09b5abbf08",
+          "takeaway": "Summary only: Mullin's government plane trip and the day's cancellation count.",
+          "read_full": false
+        },
+        {
+          "ref": "28e63b2948",
+          "takeaway": "Headline only: stranded travelers drove home.",
+          "read_full": false
+        }
+      ],
+      "social": "Fox News invited readers to share how America should fix its air travel system, a sign of how much public frustration the outage stirred."
+    },
+    {
+      "id": "scotus-uc-dei-grants",
+      "headline": "Supreme Court refuses to let Trump revive cuts to University of California research grants",
+      "region": "Courts",
+      "importance": 4,
+      "summary": "The Supreme Court on Monday turned away the Trump administration's appeal in a fight over research grants it canceled for University of California scientists over perceived ties to diversity, equity and inclusion efforts. The order leaves in place a lower-court ruling that blocks the cuts while the case continues.",
+      "why_it_matters": "Researchers whose grants were cut keep their funding for now, and the order signals limits on how abruptly agencies can cancel grants over the administration's opposition to DEI.",
+      "background": "In 2025 the Trump administration canceled thousands of federal research grants it said supported diversity, equity and inclusion or otherwise no longer matched its priorities. A group of University of California researchers sued in a case known as Thakur v. Trump, and a federal judge in San Francisco blocked the cancellations. The Ninth Circuit Court of Appeals upheld that ruling in May 2026, and the administration asked the Supreme Court to step in that August. The Supreme Court had sided with the administration in some earlier emergency fights over grants.",
+      "facts": [
+        {
+          "text": "The Supreme Court rejected the administration's appeal, leaving in place a lower-court decision that blocks it from cutting millions in grants to University of California researchers.",
+          "refs": [
+            "0794df5dda",
+            "961a5f20ad",
+            "65aba1cb5c"
+          ]
+        },
+        {
+          "text": "Two federal agencies had moved to cancel the grants, saying they did not align with Trump's policies on DEI, CBS News reported.",
+          "refs": [
+            "e5788b5832"
+          ]
+        },
+        {
+          "text": "NBC News described the cancellations as abrupt.",
+          "refs": [
+            "ba44b75aca"
+          ]
+        },
+        {
+          "text": "The Ninth Circuit ruled in favor of eight UC researchers in May, and the administration filed its Supreme Court petition in August 2026.",
+          "refs": [
+            "us-w3"
+          ]
+        },
+        {
+          "text": "On the same day, the court also declined to take up a case brought by the group Gays Against Groomers, the Washington Times reported.",
+          "refs": [
+            "3ce32a4d58"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "ba44b75aca",
+          "note": "NBC News says the court 'rejects Trump', putting the president at the center."
+        },
+        {
+          "ref": "3ce32a4d58",
+          "note": "The Washington Times calls them 'grants for DEI' and pairs the ruling with an unrelated case."
+        },
+        {
+          "ref": "b84fea4841",
+          "note": "The Washington Post frames the order as a setback for Trump."
+        },
+        {
+          "ref": "961a5f20ad",
+          "note": "Reuters uses the more neutral 'diversity-related grant cuts'."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "0794df5dda",
+          "takeaway": "Summary only (paywalled): explains the lower-court block remains in place.",
+          "read_full": false
+        },
+        {
+          "ref": "961a5f20ad",
+          "takeaway": "Headline only: wire report on the rejected appeal.",
+          "read_full": false
+        },
+        {
+          "ref": "65aba1cb5c",
+          "takeaway": "Headline only: AP wire story, also run by ABC News and the Washington Post.",
+          "read_full": false
+        },
+        {
+          "ref": "4fb093f585",
+          "takeaway": "Summary only: AP wire copy.",
+          "read_full": false
+        },
+        {
+          "ref": "ba44b75aca",
+          "takeaway": "Summary only: stresses the abrupt cancellations in California.",
+          "read_full": false
+        },
+        {
+          "ref": "e5788b5832",
+          "takeaway": "Summary only: notes two agencies made the cuts.",
+          "read_full": false
+        },
+        {
+          "ref": "3ce32a4d58",
+          "takeaway": "Headline only: pairs the ruling with the Gays Against Groomers case.",
+          "read_full": false
+        },
+        {
+          "ref": "b84fea4841",
+          "takeaway": "Headline only (paywalled): calls it a setback for Trump.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "measles-elimination-lost",
+      "headline": "U.S. loses measles elimination status after 26 years",
+      "region": "",
+      "importance": 4,
+      "summary": "A regional health commission has determined that measles is no longer eliminated in the United States, ending a status the country held for 26 years. The decision follows the worst year for measles in more than three decades, with cases more than doubling.",
+      "why_it_matters": "Measles now spreads continuously in the U.S. again, so unvaccinated children and adults face a higher chance of catching it. The loss itself carries no formal penalty. Only left-leaning and center outlets in this digest covered it.",
+      "background": "A country counts as having eliminated measles when it goes at least 12 months without continuous spread of the same outbreak. The U.S. reached that goal in 2000, mainly through the two-dose measles, mumps and rubella (MMR) vaccine. Large outbreaks starting in 2025 kept the virus circulating, and the Pan American Health Organization, the World Health Organization's office for the Americas, reviews each country's status. The U.S. asked for its review to be delayed from April to November 2026.",
+      "facts": [
+        {
+          "text": "A United Nations commission determined that measles is no longer eliminated in the U.S., NBC News reported.",
+          "refs": [
+            "cd15eceb8b"
+          ]
+        },
+        {
+          "text": "The U.S. lost its official measles elimination status for the first time in 26 years, CBS News reported.",
+          "refs": [
+            "9bb8204d13",
+            "aebcf67b9d"
+          ]
+        },
+        {
+          "text": "Contagion Live, citing Reuters, reported that the decision came at the close of a Pan American Health Organization commission meeting held Nov. 10 to 13.",
+          "refs": [
+            "us-w4"
+          ]
+        },
+        {
+          "text": "U.S. cases doubled over the past year, making it the worst year for measles in more than three decades.",
+          "refs": [
+            "15c804eaa6",
+            "3527941669"
+          ]
+        },
+        {
+          "text": "The CDC had recorded 5,182 confirmed cases in 2026 through Nov. 5, more than twice the total for all of 2025.",
+          "refs": [
+            "us-w4"
+          ]
+        },
+        {
+          "text": "KFF described the loss as largely symbolic and noted the review was moved from April to November at the U.S.'s request.",
+          "refs": [
+            "us-w5"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the loss is already official",
+          "positions": [
+            {
+              "claim": "The commission has already determined the U.S. lost the status.",
+              "refs": [
+                "cd15eceb8b",
+                "9bb8204d13"
+              ]
+            },
+            {
+              "claim": "The loss is expected to be formalized this week.",
+              "refs": [
+                "3527941669",
+                "15c804eaa6"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "cd15eceb8b",
+          "note": "NBC News stresses the reversal, saying it erases decades of progress."
+        },
+        {
+          "ref": "3527941669",
+          "note": "The Hill frames the loss as a foregone conclusion and looks at how the U.S. responds next."
+        },
+        {
+          "ref": "15c804eaa6",
+          "note": "PBS NewsHour leads with a doctor's confidence in the MMR vaccine."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "cd15eceb8b",
+          "takeaway": "Summary only: reports the commission's decision.",
+          "read_full": false
+        },
+        {
+          "ref": "9bb8204d13",
+          "takeaway": "Summary only: explainer on losing the status for the first time in 26 years.",
+          "read_full": false
+        },
+        {
+          "ref": "aebcf67b9d",
+          "takeaway": "Headline only: reports the status was lost.",
+          "read_full": false
+        },
+        {
+          "ref": "3527941669",
+          "takeaway": "Summary only: says formal confirmation is expected this week.",
+          "read_full": false
+        },
+        {
+          "ref": "15c804eaa6",
+          "takeaway": "Summary only: interview on rising cases and the vaccine.",
+          "read_full": false
+        },
+        {
+          "ref": "8dded8dff2",
+          "takeaway": "Summary only: a CBS doctor calls it a 'huge public health failure'.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "van-hollen-schumer-race",
+      "headline": "Schumer holds a big lead as Van Hollen claims 15 votes in the Senate Democratic leader race",
+      "region": "Congress",
+      "importance": 3,
+      "summary": "Sen. Chris Van Hollen says he has 15 votes in his challenge to Chuck Schumer for Senate Democratic leader, but he is still seen as a big underdog. Senate Democrats are due to talk about the race at a caucus lunch Tuesday ahead of a secret-ballot vote set for Dec. 1, which Van Hollen says may be rushed.",
+      "why_it_matters": "Whoever wins will lead the new Democratic Senate majority and decide which bills get floor votes in the next Congress.",
+      "background": "Democrats won back the Senate in the November midterms. Schumer, of New York, has led Senate Democrats since 2017. Van Hollen, of Maryland, announced on Nov. 12 that he would challenge him, arguing the party needs new leadership. It is the first contested race for the Senate Democratic leader post since 1994, and the winner needs a majority of the caucus.",
+      "facts": [
+        {
+          "text": "Van Hollen says he has locked down 15 votes, but he is viewed as a big underdog, and his supporters are keeping a low profile, The Hill reported.",
+          "refs": [
+            "814979608f"
+          ]
+        },
+        {
+          "text": "The leadership vote is set for Dec. 1 by secret ballot, and Van Hollen says it may be rushed to hurt his chances.",
+          "refs": [
+            "f2d9aeeae8",
+            "us-w6"
+          ]
+        },
+        {
+          "text": "Senators said a Tuesday caucus lunch would be only the start of the discussion about the race, Politico reported.",
+          "refs": [
+            "c19aaccbc1"
+          ]
+        },
+        {
+          "text": "Van Hollen backed Rep. Hakeem Jeffries to be House speaker.",
+          "refs": [
+            "fc2488e064"
+          ]
+        },
+        {
+          "text": "Sen. Bernie Sanders is among Van Hollen's supporters, while several Democrats, including Sen. Catherine Cortez Masto, have publicly backed Schumer.",
+          "refs": [
+            "us-w6"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "How much support each candidate has",
+          "positions": [
+            {
+              "claim": "Van Hollen says he has 15 votes and private support beyond that.",
+              "refs": [
+                "814979608f",
+                "eeeb5515f6"
+              ]
+            },
+            {
+              "claim": "Schumer holds a wide lead and says he has the votes to win.",
+              "refs": [
+                "eeeb5515f6",
+                "f2d9aeeae8"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "04a6be43e8",
+          "note": "NPR leads with Van Hollen making his own case that he can win."
+        },
+        {
+          "ref": "f2d9aeeae8",
+          "note": "Fox News emphasizes Schumer's early advantage and Van Hollen's warning about a 'coronation'."
+        },
+        {
+          "ref": "814979608f",
+          "note": "The Hill focuses on Van Hollen's backers staying quiet as Schumer leads."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "814979608f",
+          "takeaway": "Summary only: Van Hollen's 15-vote claim and his underdog standing.",
+          "read_full": false
+        },
+        {
+          "ref": "f2d9aeeae8",
+          "takeaway": "Summary only: Dec. 1 secret ballot and Van Hollen's complaint about timing.",
+          "read_full": false
+        },
+        {
+          "ref": "c19aaccbc1",
+          "takeaway": "Summary only: senators reject a quick end to the fight.",
+          "read_full": false
+        },
+        {
+          "ref": "fc2488e064",
+          "takeaway": "Summary only: Van Hollen backs Jeffries for speaker.",
+          "read_full": false
+        },
+        {
+          "ref": "eeeb5515f6",
+          "takeaway": "Headline only: Schumer's wide lead versus Van Hollen's claimed private support.",
+          "read_full": false
+        },
+        {
+          "ref": "04a6be43e8",
+          "takeaway": "Summary only: interview with Van Hollen on his case.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "white-house-testimony-memo",
+      "headline": "White House requires agencies to get approval before staff testify to Congress",
+      "region": "White House",
+      "importance": 3,
+      "summary": "White House counsel Will Scharf told all federal agencies to get approval from White House legal and legislative affairs offices before any employee agrees to testify before Congress, according to a memo obtained by Axios and PBS. The memo comes as Democrats prepare to take over House committees and launch investigations of the administration.",
+      "why_it_matters": "The rule could limit what Congress, and through it the public, learns from federal employees about how agencies are run. The memo was reported by center and right-leaning outlets in this digest; none of the left-leaning outlets carried it.",
+      "background": "Congress uses hearings and testimony from executive branch officials to oversee how federal agencies spend money and carry out laws. After winning the House in the November midterms, Democrats have promised investigations of the Trump administration. Earlier this month, Scharf sent a letter to incoming House Oversight Committee Chair Robert Garcia warning that some planned probes could cross into criminal conduct, and Garcia said Democrats would not be intimidated.",
+      "facts": [
+        {
+          "text": "A memo from White House counsel Will Scharf directs all federal agencies and executive departments to get approval from White House legal and legislative affairs offices before agreeing to testify before congressional committees.",
+          "refs": [
+            "e135f3f565",
+            "d34477c2e8"
+          ]
+        },
+        {
+          "text": "Axios, which first obtained the memo, reported that it was issued Monday.",
+          "refs": [
+            "d34477c2e8"
+          ]
+        },
+        {
+          "text": "The White House confirmed the new approval requirement, the Washington Times reported.",
+          "refs": [
+            "4c6f4dbf48"
+          ]
+        },
+        {
+          "text": "In a Nov. 9 letter, Scharf warned incoming Oversight Chair Robert Garcia that threats against executive branch officials could amount to criminal conduct; Garcia said Democrats would not be threatened or intimidated.",
+          "refs": [
+            "us-w7"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "d34477c2e8",
+          "note": "Axios frames it as an exclusive about a new sign-off requirement."
+        },
+        {
+          "ref": "4c6f4dbf48",
+          "note": "The Washington Times presents it as the White House's own announcement."
+        },
+        {
+          "ref": "3a8ea3ef10",
+          "note": "The Dispatch's podcast title casts it as a warning against congressional subpoenas."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "d34477c2e8",
+          "takeaway": "Summary only: first report on the memo's contents.",
+          "read_full": false
+        },
+        {
+          "ref": "e135f3f565",
+          "takeaway": "Summary only: publishes the full memo text.",
+          "read_full": false
+        },
+        {
+          "ref": "4c6f4dbf48",
+          "takeaway": "Headline only: White House confirms the requirement.",
+          "read_full": false
+        },
+        {
+          "ref": "3a8ea3ef10",
+          "takeaway": "Headline only (paywalled podcast): discusses the White House stance on subpoenas.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "maryland-sensitive-places-guns",
+      "headline": "Supreme Court leaves Maryland's ban on guns in 'sensitive places' in place",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "The Supreme Court on Monday declined to hear a broad challenge to Maryland's law barring people from carrying guns in a wide range of public places. The decision leaves in place an appeals court ruling that upheld most of the law.",
+      "why_it_matters": "Marylanders with carry permits still cannot bring guns into places such as schools, parks and government buildings, and other states with similar laws can point to the ruling as they defend them.",
+      "background": "In 2022, in a case called Bruen, the Supreme Court ruled that Americans have a right to carry handguns in public for self-defense but said states could still ban guns in 'sensitive places.' Maryland and several other states responded by passing laws listing many such places. Gun rights groups sued, and in January 2026 the Fourth Circuit Court of Appeals upheld most of Maryland's list, striking only the rule that barred guns on private property open to the public without the owner's permission. The challengers then asked the Supreme Court to step in.",
+      "facts": [
+        {
+          "text": "The Supreme Court declined to hear a challenge to Maryland's restrictions on carrying firearms in a broad range of public areas.",
+          "refs": [
+            "69d82770e8",
+            "a60156b32e",
+            "836a41695b"
+          ]
+        },
+        {
+          "text": "The court's action leaves in place a lower-court decision that upheld the ban.",
+          "refs": [
+            "8eef990e1e"
+          ]
+        },
+        {
+          "text": "In January 2026 the Fourth Circuit ruled that most of the places listed in Maryland's law qualify as sensitive places, except private property open to the public.",
+          "refs": [
+            "us-w8"
+          ]
+        },
+        {
+          "text": "Maryland filed a brief in August 2026 urging the justices not to take the case.",
+          "refs": [
+            "us-w9"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "69d82770e8",
+          "note": "NBC News calls it a 'gun ban' and says the court rejected the challenge."
+        },
+        {
+          "ref": "7ef2cb32d7",
+          "note": "The Washington Times says the court 'allows' the ban to remain."
+        },
+        {
+          "ref": "836a41695b",
+          "note": "Reuters says the court 'sidesteps' the fight, signaling the issue is unresolved."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "69d82770e8",
+          "takeaway": "Summary only: describes the breadth of Maryland's restrictions.",
+          "read_full": false
+        },
+        {
+          "ref": "a60156b32e",
+          "takeaway": "Headline only: AP wire story, also carried by ABC News and the Washington Post.",
+          "read_full": false
+        },
+        {
+          "ref": "8eef990e1e",
+          "takeaway": "Summary only: notes the lower-court ruling stands.",
+          "read_full": false
+        },
+        {
+          "ref": "836a41695b",
+          "takeaway": "Headline only: says the court sidestepped the fight.",
+          "read_full": false
+        },
+        {
+          "ref": "7ef2cb32d7",
+          "takeaway": "Headline only: says the court allows the ban to remain.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "epstein-forensic-claim",
+      "headline": "Forensic scientist says Epstein autopsy photos point to homicide; NYC medical examiner stands by suicide ruling",
+      "region": "",
+      "importance": 2,
+      "summary": "Michael Freeman, a forensic scientist who studies homicides, says autopsy photos and overlooked details suggest Jeffrey Epstein was killed rather than dying by suicide. New York City's medical examiner says it stands by its 2019 ruling of suicide.",
+      "why_it_matters": "The claim adds to long-running public doubt about how a high-profile federal prisoner died in custody, though official investigations have concluded it was suicide.",
+      "background": "Jeffrey Epstein, a wealthy financier charged with sex trafficking of minors, was found dead in his Manhattan federal jail cell in August 2019. The city medical examiner ruled it a suicide by hanging, and later Justice Department and FBI reviews agreed. Guards were later charged with falsifying records about checks on him, and the case has fed conspiracy theories. Pathologists hired by Epstein's family have argued for years that some of his injuries fit strangulation better than hanging.",
+      "facts": [
+        {
+          "text": "Freeman told BBC Newsnight that he believes Epstein's injuries are consistent with homicide.",
+          "refs": [
+            "00146cd8ba"
+          ]
+        },
+        {
+          "text": "Freeman got rare access to the autopsy file, the New York Times reported, and investigations have found most evidence points to suicide.",
+          "refs": [
+            "72cdceac23"
+          ]
+        },
+        {
+          "text": "Freeman said multiple images and overlooked details contradict the suicide conclusion, CBS News reported.",
+          "refs": [
+            "9ac5f2613e"
+          ]
+        },
+        {
+          "text": "The New York City medical examiner stands by its suicide ruling, CNN reported.",
+          "refs": [
+            "252476aafb"
+          ]
+        },
+        {
+          "text": "A former medical examiner told NewsNation that Epstein's neck injuries are not typical of hanging, while calling the autopsy itself thorough.",
+          "refs": [
+            "5be8ef46b4"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "How Epstein died",
+          "positions": [
+            {
+              "claim": "Freeman says the autopsy photos show injuries consistent with homicide.",
+              "refs": [
+                "00146cd8ba",
+                "9ac5f2613e",
+                "72cdceac23"
+              ]
+            },
+            {
+              "claim": "The New York City medical examiner stands by its ruling that he died by suicide.",
+              "refs": [
+                "252476aafb",
+                "72cdceac23"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "f10c031220",
+          "note": "The Daily Caller casts Freeman as risking everything to say 'what others won't'."
+        },
+        {
+          "ref": "252476aafb",
+          "note": "CNN gives the medical examiner's response equal billing in the headline."
+        },
+        {
+          "ref": "72cdceac23",
+          "note": "The New York Times stresses that Freeman is challenging the consensus."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "00146cd8ba",
+          "takeaway": "Summary only: Freeman's interview with BBC Newsnight.",
+          "read_full": false
+        },
+        {
+          "ref": "72cdceac23",
+          "takeaway": "Summary only (paywalled): profiles Freeman's access to the autopsy file.",
+          "read_full": false
+        },
+        {
+          "ref": "9ac5f2613e",
+          "takeaway": "Summary only: describes the images Freeman cites.",
+          "read_full": false
+        },
+        {
+          "ref": "252476aafb",
+          "takeaway": "Headline only: includes the medical examiner's response.",
+          "read_full": false
+        },
+        {
+          "ref": "5be8ef46b4",
+          "takeaway": "Summary only: second medical examiner's view on the neck injuries.",
+          "read_full": false
+        },
+        {
+          "ref": "f10c031220",
+          "takeaway": "Headline only: sympathetic to Freeman.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "us-w1",
+      "url": "https://www.irishtimes.com/world/2026/11/15/trump-administration-blames-prior-presidents-and-congress-for-flight-stoppage/",
+      "title": "Trump administration blames prior presidents and Congress for flight stoppage",
+      "outlet": "The Irish Times"
+    },
+    {
+      "id": "us-w2",
+      "url": "https://thewrap.com/media-platforms/politics/pete-buttigieg-responds-faa-ground-stop-blame",
+      "title": "Pete Buttigieg Pushes Back at Suggestion He's Responsible for FAA's Ground Stop",
+      "outlet": "TheWrap"
+    },
+    {
+      "id": "us-w3",
+      "url": "https://dailybruin.com/2026/08/22/trump-administration-petitions-supreme-court-to-review-ruling-on-uc-grant-termination/",
+      "title": "Trump administration petitions Supreme Court to review ruling on UC grant termination",
+      "outlet": "Daily Bruin"
+    },
+    {
+      "id": "us-w4",
+      "url": "https://www.contagionlive.com/view/reports-say-us-loses-measles-elimination-status-after-26-years",
+      "title": "Reports say US loses measles elimination status after 26 years",
+      "outlet": "Contagion Live"
+    },
+    {
+      "id": "us-w5",
+      "url": "https://www.kff.org/quick-insights/a-step-back-for-u-s-public-health-the-u-s-is-likely-to-lose-its-measles-elimination-status/",
+      "title": "A Step Back for U.S. Public Health: The U.S. Is Likely to Lose Its Measles Elimination Status",
+      "outlet": "KFF"
+    },
+    {
+      "id": "us-w6",
+      "url": "https://wisconsinexaminer.com/?p=48913",
+      "title": "Battle for US Senate majority leader sets off with Van Hollen uphill challenge to Schumer",
+      "outlet": "Wisconsin Examiner (States Newsroom)"
+    },
+    {
+      "id": "us-w7",
+      "url": "https://www.wypr.org/2026-11-12/white-house-warns-trump-probes-could-be-criminal-rep-robert-garcia-wont-back-down",
+      "title": "White House warns Trump probes could be criminal; Rep. Robert Garcia won't back down",
+      "outlet": "WYPR"
+    },
+    {
+      "id": "us-w8",
+      "url": "https://marylandmatters.org/2026/01/21/appeals-court-upholds-most-of-maryland-ban-on-weapons-in-schools-parks-other-public-places/",
+      "title": "Appeals court upholds most of Maryland ban on weapons in schools, parks, other public places",
+      "outlet": "Maryland Matters"
+    },
+    {
+      "id": "us-w9",
+      "url": "https://www.supremecourt.gov/DocketPDF/25/25-1324/419189/20260817060449292_25-1324%20BriefInOpposition.pdf",
+      "title": "No. 25-1324 Brief in Opposition",
+      "outlet": "Supreme Court of the United States"
+    },
+    {
+      "id": "us-w10",
+      "url": "https://www.kuow.org/npr-news/2026-11-08/nvidia-launches-investigation-into-ceos-alleged-relationship-with-chinese-spy",
+      "title": "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+      "outlet": "NPR (via KUOW)"
+    }
+  ]
+}
