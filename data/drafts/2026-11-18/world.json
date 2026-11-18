@@ -1,0 +1,279 @@
+{
+  "stories": [
+    {
+      "id": "kerch-bridge-strike",
+      "headline": "Ukraine strikes Kerch Bridge, partly collapsing a span of Russia's link to Crimea",
+      "region": "Europe",
+      "importance": 5,
+      "summary": "Ukraine attacked the Kerch Bridge between Russia and occupied Crimea with missiles and drones on Nov. 17, and part of the structure collapsed, according to the BBC, PBS and AP. President Volodymyr Zelenskyy called the attack unprecedented and said it followed weeks of efforts to wear down Russian air defenses. Overnight, Ukraine also targeted refineries in Russia's Krasnodar region, Deutsche Welle reported.",
+      "why_it_matters": "The bridge is a main route for Russian military and civilian supplies into Crimea, so its loss could affect the front line and Russia's hold on the peninsula. The strike came a day before Vladimir Putin was due to meet Donald Trump and Xi Jinping, where Ukraine's future may be discussed.",
+      "background": "Russia seized and annexed Crimea from Ukraine in 2014 and opened the 19-kilometre road and rail bridge across the Kerch Strait in 2018. It is the only fixed link between Russia and the peninsula, and Putin has treated it as a symbol of the annexation. Ukraine has attacked it several times since Russia's full-scale invasion in 2022, including truck-bomb and sea-drone attacks in 2022 and 2023. Destroying it has long been a stated goal for Kyiv.",
+      "facts": [
+        { "text": "Ukraine struck the Kerch Bridge with drones and missiles, and one span partly collapsed.", "refs": ["602fd54a89", "4b88ce23b6", "42a4cea607"] },
+        { "text": "Ukraine says the attack took weeks to plan, and Zelenskyy described a weeks-long effort to wear down Russian air defenses before the strike.", "refs": ["4b88ce23b6", "42a4cea607"] },
+        { "text": "The bridge is the only structure connecting Russia to occupied Crimea and a key route for military and civilian supplies to Russian troops.", "refs": ["cf7d471cbf", "d455409e0b"] },
+        { "text": "Ukraine also targeted two industrial facilities in Russia's Krasnodar region overnight, reportedly refineries.", "refs": ["cd14fe8fbd"] },
+        { "text": "The attack came ahead of a three-way meeting of Putin, Trump and Xi in Shenzhen, China.", "refs": ["78e59c9c2b", "36a1fb555f"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "4b88ce23b6", "note": "Calls it \"Putin's Crimean Bridge\", tying the damage personally to the Russian leader." },
+        { "ref": "78e59c9c2b", "note": "Frames the strike as a show of strength timed before the Trump-Xi-Putin meeting." },
+        { "ref": "32a613d88e", "note": "Focuses on how Ukraine carried out the strike without relying on Starshield satellite services." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "602fd54a89", "takeaway": "Wire report on the drone and missile strike.", "read_full": false },
+        { "ref": "4b88ce23b6", "takeaway": "Reports the partial collapse and Ukraine's account that planning took weeks.", "read_full": false },
+        { "ref": "42a4cea607", "takeaway": "Highlights Zelenskyy's description of the operation and the bridge as a symbol of occupation.", "read_full": false },
+        { "ref": "cf7d471cbf", "takeaway": "Headline and summary only (paywalled): notes destroying the bridge has long been a Kyiv goal.", "read_full": false },
+        { "ref": "32a613d88e", "takeaway": "Headline only (paywalled): angle on the strike bypassing Starshield.", "read_full": false },
+        { "ref": "cd14fe8fbd", "takeaway": "Live coverage adding follow-up strikes on Krasnodar refineries.", "read_full": false },
+        { "ref": "d455409e0b", "takeaway": "Explains the bridge's supply role amid escalating aerial attacks.", "read_full": false },
+        { "ref": "78e59c9c2b", "takeaway": "Links the strike to the timing of the Shenzhen summit.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "apec-trump-xi-putin",
+      "headline": "Trump arrives in China for APEC ahead of first three-way meeting with Xi and Putin",
+      "region": "Asia-Pacific",
+      "importance": 5,
+      "summary": "President Trump landed in Shenzhen on Wednesday for the Asia-Pacific Economic Cooperation summit, and Chinese leader Xi Jinping greeted him on the tarmac. Trump, Xi and Russian President Vladimir Putin are due to hold three-way talks on Thursday. Xi met Putin separately on Wednesday and called for closer political and military ties between China and Russia.",
+      "why_it_matters": "A meeting of the US, Chinese and Russian leaders could shape the course of the war in Ukraine, the US war with Iran and trade between the world's largest economies, all of which affect prices and security. The talks come as US intelligence assesses that Putin will keep fighting in Ukraine, according to The New York Times.",
+      "background": "APEC is a yearly forum of 21 Pacific Rim economies, and China is hosting it this year in Shenzhen. A Trump-Xi-Putin meeting was first floated by the Kremlin in September after a Putin-Trump phone call, and China later confirmed it. Trump came to China after stops in Southeast Asia, including an ASEAN summit and a visit to Manila. Xi visited Washington in September, and Trump greeted him on the tarmac then.",
+      "facts": [
+        { "text": "Xi personally greeted Trump on the tarmac after Air Force One landed in Shenzhen, returning a gesture Trump made during Xi's September visit to Washington.", "refs": ["45c19e2f88", "b1f1549def"] },
+        { "text": "The three-way meeting of Trump, Xi and Putin is scheduled for Thursday.", "refs": ["2980a9b2ff", "36a1fb555f", "414530abb6"] },
+        { "text": "The Kremlin said Putin and Trump would meet several times during the summit, though no formal bilateral session had been scheduled.", "refs": ["20de3f7985"] },
+        { "text": "Xi urged closer political and military ties with Russia when he met Putin on Wednesday.", "refs": ["9071efc20a"] },
+        { "text": "The New York Times reported that US intelligence believes Putin will continue the Ukraine war despite the talks, and that Trump has halted some sanctions on Russia and announced US purchases of Russian diesel.", "refs": ["e39b270a3d"] },
+        { "text": "CBS reported Trump may also meet North Korea's Kim Jong Un.", "refs": ["8822240bde"] },
+        { "text": "In a speech, Putin said Europe was in a \"humiliating decline\", The Guardian reported.", "refs": ["e54ccd81a1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "e39b270a3d", "note": "Leads with an intelligence assessment that Putin will keep fighting, casting doubt on the talks." },
+        { "ref": "69c7bfe64a", "note": "Leads with the personal warmth of Xi's welcome and calls the summit historic." },
+        { "ref": "9071efc20a", "note": "Emphasizes Russia and China drawing closer as Trump arrives." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "45c19e2f88", "takeaway": "Notes the tarmac greeting returned Trump's own gesture from September.", "read_full": false },
+        { "ref": "b1f1549def", "takeaway": "Calls Xi's greeting rare and surprising.", "read_full": false },
+        { "ref": "e39b270a3d", "takeaway": "Headline and summary only (paywalled): intelligence view that Putin will continue the war; notes sanctions relief.", "read_full": false },
+        { "ref": "20de3f7985", "takeaway": "Headline and summary only (paywalled): Kremlin says Putin and Trump will talk several times.", "read_full": false },
+        { "ref": "69c7bfe64a", "takeaway": "Headline and summary only (paywalled): focus on Xi's hug and the summit's scale.", "read_full": false },
+        { "ref": "9071efc20a", "takeaway": "Video report on the Xi-Putin meeting and calls for closer ties.", "read_full": false },
+        { "ref": "e54ccd81a1", "takeaway": "Live blog covering arrivals and Putin's remarks on Europe.", "read_full": false },
+        { "ref": "8822240bde", "takeaway": "Raises the possibility of a Trump-Kim meeting.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iran-gulf-attacks-qeshm",
+      "headline": "Iran fires on Kuwait and Bahrain after US strikes Iranian island",
+      "region": "Middle East",
+      "importance": 5,
+      "summary": "US fighter jets struck an Iranian Revolutionary Guard missile launch site on Qeshm Island on Tuesday in what US officials called self-defense, after Iran fired drones at a US radar site in Bahrain for the third time in five days. Iran then fired at a US air base in Kuwait and at targets in Bahrain, and both countries said they repelled the attacks. Iran's army chief warned of a \"more devastating\" response to any new attacks, France 24 reported.",
+      "why_it_matters": "The exchanges end a roughly two-month lull in Iranian attacks on Gulf states and threaten shipping through the Strait of Hormuz, a key route for oil and gas that affects fuel prices worldwide. US troops based in Kuwait and Bahrain are in the line of fire.",
+      "background": "The US and Israel launched strikes on Iran in late February, starting a war that has spilled into neighboring Gulf states hosting US forces. Iran has repeatedly targeted US bases and shipping near the Strait of Hormuz, and the US has struck Iranian sites in response. Bahrain hosts the US Navy's Fifth Fleet, and Kuwait hosts several US bases. Qatar has acted as a mediator.",
+      "facts": [
+        { "text": "Iran fired drones at a US radar facility in Bahrain on Tuesday, its third attack there in five days after a lull of about two months.", "refs": ["60d62451f4", "448c6a0ffa", "b852e402bf"] },
+        { "text": "The US military said the drones were intercepted without damage to US equipment or injury to US personnel.", "refs": ["b852e402bf"] },
+        { "text": "US fighter jets struck an IRGC missile launch site on Qeshm Island, which US officials described as a self-defense strike.", "refs": ["cf454f4152", "2ee58255f4", "fb3ee881bb"] },
+        { "text": "Iran's army said it targeted air defense systems and drone and missile launch platforms at Kuwait's Ali Al Salem air base, according to Iranian state broadcasting.", "refs": ["9d90d44e3c", "22f987ecf4"] },
+        { "text": "Bahrain and Kuwait said they repelled air attacks on Wednesday, and Gulf countries said some missiles and drones came from Iran's Houthi allies in Yemen.", "refs": ["1a2e9be510", "0a0fee7125", "5989b30426"] },
+        { "text": "The Wall Street Journal reported Iran had set a natural gas tanker on fire in the Strait of Hormuz before the latest attacks.", "refs": ["09ccec4daf"] },
+        { "text": "Qatar urged all parties to show restraint.", "refs": ["eec5f88df9"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the US strike on Qeshm caused damage",
+          "positions": [
+            { "claim": "US officials said jets hit an IRGC missile launch site.", "refs": ["cf454f4152", "2ee58255f4"] },
+            { "claim": "Iran's official IRNA news agency reported the US hit Qeshm Island without causing damage, according to France 24.", "refs": ["223cef3fa9"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "2ee58255f4", "note": "Uses officials' \"self-defense\" framing and names the IRGC as the target." },
+        { "ref": "60d62451f4", "note": "Leads with the end of the two-month lull and presents the US strike as retaliation." },
+        { "ref": "7ab40838ae", "note": "Describes Iran as lashing out, with allies and tankers under fire." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "60d62451f4", "takeaway": "Wire report on the third Bahrain attack and the US response.", "read_full": false },
+        { "ref": "5989b30426", "takeaway": "Wire report on Iran widening attacks to Kuwait and Bahrain.", "read_full": false },
+        { "ref": "cf454f4152", "takeaway": "Reports the Qeshm strike citing a US official.", "read_full": false },
+        { "ref": "2ee58255f4", "takeaway": "Reports the strike as self-defense against an IRGC site, per officials.", "read_full": false },
+        { "ref": "b852e402bf", "takeaway": "Details the drone attack on the radar site and that no damage resulted.", "read_full": false },
+        { "ref": "9d90d44e3c", "takeaway": "Iran's claim to have targeted Ali Al Salem air base.", "read_full": false },
+        { "ref": "0a0fee7125", "takeaway": "Notes Houthi involvement and ongoing diplomatic efforts.", "read_full": false },
+        { "ref": "09ccec4daf", "takeaway": "Headline and summary only (paywalled): adds the tanker fire in the strait.", "read_full": false },
+        { "ref": "223cef3fa9", "takeaway": "Live page with Iran's warning and IRNA's account of no damage.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "knesset-speaker-kahana",
+      "headline": "Israel's new parliament elects speaker backed by Netanyahu's opponents",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "Israel's Knesset on Tuesday elected Matan Kahana, an ally of opposition leader Gadi Eisenkot, as its speaker. Reports describe the vote as a first step toward reversing policies of Prime Minister Benjamin Netanyahu's outgoing government. Eisenkot is still working to form a governing coalition.",
+      "why_it_matters": "The speaker controls the parliament's agenda, so the vote gives Netanyahu's opponents early control over which bills move forward, which could affect Israel's courts, security policy and the war in the region.",
+      "background": "Israel held national elections in October, and Netanyahu's bloc lost ground to a group of parties led by former military chief Gadi Eisenkot. The new Knesset was sworn in on Nov. 10, and Eisenkot's allies, including Naftali Bennett and Yair Lapid, agreed to nominate Kahana to replace Likud's Amir Ohana as speaker. Netanyahu remains prime minister of a caretaker government until a new coalition is formed.",
+      "facts": [
+        { "text": "The Knesset elected Matan Kahana as speaker on Tuesday, with backing from Netanyahu's opponents.", "refs": ["3ad504b363", "39b570cca8", "72dbae53de"] },
+        { "text": "Kahana is an ally of Gadi Eisenkot, the party leader working to form the next government.", "refs": ["72dbae53de"] },
+        { "text": "The Knesset also elected nine lawmakers as deputy speakers.", "refs": ["8e0b135d16"] },
+        { "text": "Eisenkot's bloc agreed on Nov. 10 to nominate Kahana to replace Likud's Amir Ohana.", "refs": ["world-w4"] },
+        { "text": "Daily Maverick reported that Eisenkot is still struggling to form a government.", "refs": ["0b943573bc"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "ee3bf827fd", "note": "Frames the vote as weakening Netanyahu's grip on power." },
+        { "ref": "e7a93372c8", "note": "Neutral wording that the speaker was \"tapped by\" Netanyahu's opponents." },
+        { "ref": "0b943573bc", "note": "Adds that Netanyahu's main rival is still struggling to form a government." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3ad504b363", "takeaway": "Wire report on the vote.", "read_full": false },
+        { "ref": "39b570cca8", "takeaway": "Presents the vote as a step toward rolling back the outgoing government's policies.", "read_full": false },
+        { "ref": "ee3bf827fd", "takeaway": "Focuses on what it means for Netanyahu's power.", "read_full": false },
+        { "ref": "e7a93372c8", "takeaway": "Straight account of the vote.", "read_full": false },
+        { "ref": "72dbae53de", "takeaway": "Identifies Kahana as an Eisenkot ally.", "read_full": false },
+        { "ref": "8e0b135d16", "takeaway": "Covers the election of nine deputy speakers.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "eu-rwanda-return-hub",
+      "headline": "Five EU countries plan deportation hub in Rwanda for rejected asylum seekers",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Germany, Austria, the Netherlands, Denmark and Greece announced plans in Vienna on Monday to set up a \"return hub\" in Rwanda for people with no legal right to stay in Europe. The governments say they are entering formal negotiations with Rwanda and hope to start transfers in 2027. Human rights groups have criticized the plan.",
+      "why_it_matters": "If carried out, the plan would send some rejected asylum seekers to a country in Africa rather than their home countries, a major shift in European migration policy that is likely to face legal challenges.",
+      "background": "European governments have been under political pressure to deport more people whose asylum claims are rejected. Britain tried a similar Rwanda scheme from 2022 but its courts blocked it and the next government scrapped it in 2024. In September, the five EU countries agreed on a shared model for return hubs outside the EU. Rwanda has presented itself as a willing partner, while rights groups cite reports of abuses there.",
+      "facts": [
+        { "text": "Five EU states, Germany, Austria, the Netherlands, Denmark and Greece, announced plans for an offshore return centre in Rwanda.", "refs": ["115d73dd03", "98a523e24d", "459671b617"] },
+        { "text": "The Dutch government said the countries are working with Rwanda to establish the hub and are entering negotiations.", "refs": ["world-w5"] },
+        { "text": "The plan is described as a pilot scheme expected to face legal challenges.", "refs": ["115d73dd03"] },
+        { "text": "A coalition of 47 organisations called on the governments to drop the plan, citing reports of abuses in Rwanda.", "refs": ["world-w6"] },
+        { "text": "Human rights groups criticized the plan in Germany.", "refs": ["ecc7d122f6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "115d73dd03", "note": "Highlights criticism of the policy as a \"grave moral failing\" and likely legal challenges." },
+        { "ref": "2f7f381389", "note": "Explains why Europe sees Rwanda as an ideal destination, focusing on the governments' reasoning." },
+        { "ref": "ecc7d122f6", "note": "Leads with criticism from rights groups." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "115d73dd03", "takeaway": "Announcement story with emphasis on criticism and legal hurdles.", "read_full": false },
+        { "ref": "98a523e24d", "takeaway": "Explainer on the five countries' plan.", "read_full": false },
+        { "ref": "2f7f381389", "takeaway": "Explainer on why Rwanda was chosen.", "read_full": false },
+        { "ref": "459671b617", "takeaway": "Wire explainer on how Europe arrived at return hubs.", "read_full": false },
+        { "ref": "ecc7d122f6", "takeaway": "German angle with rights groups' objections.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "uk-sanctions-settlement-firms",
+      "headline": "Britain sanctions Israeli companies building West Bank settlements",
+      "region": "Middle East",
+      "importance": 3,
+      "summary": "Britain imposed sanctions on Israeli construction companies building settlements in the occupied West Bank, with The Times of Israel counting eight firms. The UK government said it acted to protect the possibility of a two-state solution, pointing to the E1 project near Jerusalem. Settler leaders called the sanctions antisemitic, The New York Sun reported.",
+      "why_it_matters": "It is a rare step by a close Western ally to penalize companies, not just individual settlers, and could affect where Israeli builders can do business.",
+      "background": "Israel has built settlements in the West Bank since capturing it in 1967; most countries consider them illegal under international law, which Israel disputes. The E1 plan would build homes between East Jerusalem and the Ma'ale Adumim settlement. Britain says it would cut East Jerusalem off from Palestinian areas and undermine a future Palestinian state. The UK had earlier created new sanction powers and warned firms that bidding for E1 work could expose them to sanctions.",
+      "facts": [
+        { "text": "The UK sanctioned Israeli companies building West Bank settlements.", "refs": ["3337a6bf25", "e6f378d687", "17a6b40935"] },
+        { "text": "The Times of Israel reported that eight construction companies were sanctioned.", "refs": ["07f842832f"] },
+        { "text": "Britain says the E1 project would effectively cut off East Jerusalem from Palestinian population centres and harm prospects for a Palestinian state.", "refs": ["17a6b40935"] },
+        { "text": "The UK government had previously warned that bidding on E1 tenders could expose firms to sanctions.", "refs": ["world-w7"] },
+        { "text": "West Bank settler leaders described the sanctions as antisemitic.", "refs": ["175422ea95"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "e6f378d687", "note": "Frames the move as an effort to protect the two-state solution." },
+        { "ref": "175422ea95", "note": "Leads with settler leaders calling the sanctions antisemitic." },
+        { "ref": "07f842832f", "note": "Leads with a short \"Do not build\" message and the number of companies." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3337a6bf25", "takeaway": "Wire report on the sanctions.", "read_full": false },
+        { "ref": "e6f378d687", "takeaway": "Places the sanctions in Britain's two-state policy.", "read_full": false },
+        { "ref": "07f842832f", "takeaway": "Gives the count of eight firms.", "read_full": false },
+        { "ref": "17a6b40935", "takeaway": "Explains Britain's case against the E1 project.", "read_full": false },
+        { "ref": "175422ea95", "takeaway": "Centers settler leaders' objections.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "north-macedonia-iran-plot",
+      "headline": "North Macedonia and Greece say they foiled Iran-linked plot",
+      "region": "Europe",
+      "importance": 3,
+      "summary": "Authorities in North Macedonia and Greece said they uncovered an Iran-linked plot to carry out an assassination in Greece. AP reported that North Macedonia arrested five people and that the plot was linked to an Iranian wanted by the FBI. The Times of Israel reported the target was an Israeli executive.",
+      "why_it_matters": "It adds to a list of alleged Iranian plots against Israeli and Jewish targets in Europe during the war with Iran, raising security concerns across the continent.",
+      "background": "European governments have accused Iran of using criminal networks to target dissidents, Israelis and Jewish sites abroad, which Iran has denied. Greece broke up an alleged Iran-linked plot against an Israeli restaurant in Athens in 2023. Since the US-Israeli war with Iran began in February, tensions over Iranian activity abroad have grown.",
+      "facts": [
+        { "text": "North Macedonia and Greece said they uncovered an Iran-linked assassination plot targeting a person in Greece.", "refs": ["a7e2cf2de1", "348a0165c0"] },
+        { "text": "Early reports said four people were detained for questioning in North Macedonia; AP later reported five arrests.", "refs": ["348a0165c0", "53d3f06c64"] },
+        { "text": "AP reported the plot was linked to an Iranian wanted by the FBI.", "refs": ["53d3f06c64"] },
+        { "text": "The Times of Israel reported the alleged target was an Israeli executive.", "refs": ["a3f6727e27"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "a7e2cf2de1", "note": "Attributes the plot to the two governments' statements." },
+        { "ref": "a3f6727e27", "note": "Focuses on the alleged Israeli target." },
+        { "ref": "53d3f06c64", "note": "Calls it a terror plot and highlights the FBI-wanted Iranian." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a7e2cf2de1", "takeaway": "Reports the governments' announcement.", "read_full": false },
+        { "ref": "348a0165c0", "takeaway": "Early wire report of four detentions.", "read_full": false },
+        { "ref": "53d3f06c64", "takeaway": "Updated wire report: five arrests, FBI link.", "read_full": false },
+        { "ref": "a3f6727e27", "takeaway": "Says the target was an Israeli executive.", "read_full": false },
+        { "ref": "517fb5ad23", "takeaway": "Reprints the early four-detention account.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "brazil-awa-contact",
+      "headline": "Isolated Awá group emerges from Brazil's Amazon, raising fears over invasions",
+      "region": "Americas",
+      "importance": 3,
+      "summary": "About 20 members of the isolated Awá people emerged from the forest in Brazil's Amazon and made contact with villagers, several organizations reported Tuesday. They appeared thin and hungry and accepted food to take back to their territory, according to reports. Groups including Survival International said the encounter reflects growing invasions of the tribe's land.",
+      "why_it_matters": "Isolated Indigenous groups have little immunity to outside diseases and depend on intact forest, so contact and land invasions can threaten their survival.",
+      "background": "The Awá are a hunter-gatherer people in the eastern Amazon, and a small number still live without regular contact with outsiders. Their territories have been hit by illegal logging and land invasions for decades. Survival International has called them one of the world's most threatened tribes. Brazil's government policy is to avoid contact with isolated groups unless their survival is at risk.",
+      "facts": [
+        { "text": "About 20 Indigenous Awá people emerged from isolation in Brazil's Amazon, several organizations reported Tuesday.", "refs": ["542e4d1fce", "45c9ad0977", "1f73c3524d"] },
+        { "text": "They made contact with villagers and accepted food to take back to their territory.", "refs": ["542e4d1fce"] },
+        { "text": "They appeared thin and hungry, according to reports cited by the South China Morning Post.", "refs": ["45c9ad0977"] },
+        { "text": "Organizations raised alarm about increased invasions of the tribe's territory.", "refs": ["542e4d1fce", "b91953a028", "97642ef435"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "542e4d1fce", "note": "Emphasizes threats to the group's way of life." },
+        { "ref": "b91953a028", "note": "Focuses on rare images and the threats they highlight." },
+        { "ref": "45c9ad0977", "note": "Calls it a \"historic encounter\"." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "1f73c3524d", "takeaway": "Wire story on safety concerns, reprinted by several outlets.", "read_full": false },
+        { "ref": "542e4d1fce", "takeaway": "Details the contact and threats to the territory.", "read_full": false },
+        { "ref": "b91953a028", "takeaway": "Built around rare images of the group.", "read_full": false },
+        { "ref": "97642ef435", "takeaway": "AP wire reprint on threats to the forest territory.", "read_full": false },
+        { "ref": "45c9ad0977", "takeaway": "Headline and summary only (paywalled): notes the group looked thin and hungry.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w4", "url": "https://www.israelhayom.com/2026/11/10/change-bloc-agrees-to-name-matan-kahana-knesset-speaker/", "title": "Change bloc agrees to name Matan Kahana Knesset speaker", "outlet": "Israel Hayom" },
+    { "id": "world-w5", "url": "https://www.government.nl/latest/news/2026/11/16/the-netherlands-and-european-partners-working-with-rwanda-to-establish-a-return-hub", "title": "The Netherlands and European partners working with Rwanda to establish a return hub", "outlet": "Government of the Netherlands" },
+    { "id": "world-w6", "url": "https://www.rescue.org/eu/press-release/joint-statement-47-organisations-call-eu-protect-peoples-rights-not-outsource-them", "title": "Joint statement: 47 organisations call on EU to protect people's rights, not outsource them", "outlet": "International Rescue Committee" },
+    { "id": "world-w7", "url": "https://www.timesofisrael.com/liveblog_entry/uk-warns-firms-that-bidding-on-e1-settlement-tenders-exposes-them-to-sanctions/", "title": "UK warns firms that bidding on E1 settlement tenders exposes them to sanctions", "outlet": "The Times of Israel" }
+  ]
+}

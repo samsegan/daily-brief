@@ -1,0 +1,309 @@
+{
+  "stories": [
+    {
+      "id": "alaska-peltola-senate",
+      "headline": "Peltola wins Alaska Senate race, giving Democrats 56 seats",
+      "region": "Elections",
+      "importance": 5,
+      "summary": "Democrat Mary Peltola defeated Republican Sen. Dan Sullivan in Alaska, the last undecided Senate race of the midterms, about two weeks after counting began. The result gives Democrats a 56-44 Senate majority when the new Congress meets in January.",
+      "why_it_matters": "With a 56-seat Senate majority and control of the House, Democrats will set the agenda in Congress from January, including which of President Trump's nominees and bills move forward.",
+      "background": "Alaska counts ballots slowly because many communities are remote, and it uses ranked-choice voting, so a winner needs more than half the vote after lower-ranked candidates are eliminated. Peltola, a former U.S. House member, challenged Sullivan, a two-term incumbent. The race drew attention when a second candidate named Dan Sullivan appeared on the ballot, and allegations surfaced that Democrats had helped recruit an independent as a spoiler. Democrats had already flipped eight other Senate seats in the Nov. 3 midterms.",
+      "facts": [
+        { "text": "Peltola defeated Sen. Dan Sullivan, a two-term Republican incumbent.", "refs": ["48c52b54d5", "e63a04bafd"] },
+        { "text": "Peltola won 50.1% of the vote, according to Deutsche Welle.", "refs": ["9a4830dfb5"] },
+        { "text": "The win gives Democrats a 56-44 majority in the Senate.", "refs": ["5f316ae602", "5b62204dbe", "e63a04bafd"] },
+        { "text": "It was the party's ninth Senate seat flipped in the midterms and the last Senate race to be called.", "refs": ["68dbcbed85", "9a4830dfb5"] },
+        { "text": "Peltola, who is Yup'ik, becomes the first Alaska Native U.S. senator and the first Democrat to represent Alaska in the Senate since 2015.", "refs": ["24690346eb", "e63a04bafd"] },
+        { "text": "Axios reported that four Alaska Native strongholds delivered more than half of Peltola's statewide lead in first-choice votes.", "refs": ["24690346eb"] },
+        { "text": "The race was complicated by allegations that Democrats helped recruit an independent candidate as a spoiler, and a second candidate named Dan Sullivan was on the ballot.", "refs": ["5f316ae602", "us-w6"] },
+        { "text": "President Trump said voters had chosen the wrong Dan Sullivan, BBC News reported.", "refs": ["fbfed203e4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "68dbcbed85", "note": "Puts the result in party-tally terms as the Democrats' ninth Senate flip." },
+        { "ref": "24690346eb", "note": "Focuses on Alaska Native voters and the historic first, not the Senate math." },
+        { "ref": "fbfed203e4", "note": "Leads with Trump's claim that voters picked the wrong Dan Sullivan and tests it against voting data." },
+        { "ref": "e63a04bafd", "note": "Frames the win as Democrats locking in 56 seats." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "48c52b54d5", "takeaway": "Wire story calling the race for Peltola over the incumbent.", "read_full": false },
+        { "ref": "9a4830dfb5", "takeaway": "Notes it was the final outstanding Senate race and gives her 50.1% share.", "read_full": false },
+        { "ref": "5f316ae602", "takeaway": "Adds the slow count and the spoiler-candidate allegations.", "read_full": false },
+        { "ref": "e63a04bafd", "takeaway": "Headline and summary only (paywalled): stresses the 56-seat majority and first Democrat since 2015.", "read_full": false },
+        { "ref": "24690346eb", "takeaway": "Analysis of where her votes came from, centered on Alaska Native communities.", "read_full": false },
+        { "ref": "fbfed203e4", "takeaway": "Looks at Trump's two-Sullivans claim against the voting data.", "read_full": false },
+        { "ref": "68dbcbed85", "takeaway": "Headline only (paywalled): counts it as the ninth Democratic flip.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "rubio-tech-outages",
+      "headline": "Rubio says there is no evidence the recent wave of US tech outages is linked",
+      "region": "White House",
+      "importance": 5,
+      "summary": "Secretary of State Marco Rubio told reporters in Manila there was \"zero\" information that recent outages at banks, airlines, Microsoft and a classified National Security Agency network are connected or caused by a hostile actor. The administration faces calls from both parties for an explanation of the failures.",
+      "why_it_matters": "The outages have disrupted flights, online banking and work email for millions of people, and the government's explanation shapes whether more fixes, funding or investigations follow.",
+      "background": "Over roughly a week, the U.S. saw a string of technology failures: a nationwide flight ground stop on Friday, a software bug at JPMorgan Chase that delayed transactions on Monday, problems with Microsoft services and, on Tuesday, an outage of a classified NSA communications network. Online theories suggested a coordinated attack. Rubio, traveling with President Trump in Asia ahead of meetings with Chinese President Xi Jinping and Russian President Vladimir Putin, sought to calm those concerns. Republican Rep. James Comer was among lawmakers asking for answers.",
+      "facts": [
+        { "text": "Rubio said there was \"zero\" information that the outages are linked or caused by a malign actor.", "refs": ["5f0ad4f7fa", "4fa1398afe", "bc54999be7"] },
+        { "text": "Speaking in Manila, Rubio said each event has an explanation that has nothing to do with a cyber criminal.", "refs": ["53518b3a03"] },
+        { "text": "The New York Times reported that Rubio suggested a rush to patch systems whose weaknesses are being exposed by AI may explain some failures.", "refs": ["e596be1e9e"] },
+        { "text": "CBS News counted at least eight major technology outages in the U.S. in the past week.", "refs": ["9762bec68f"] },
+        { "text": "A classified NSA communications network went offline; the agency attributed it to routine maintenance, and officials told reporters there was no evidence of a cyberattack.", "refs": ["7f92912793", "0be6b68a88", "0c7c33d40d"] },
+        { "text": "JPMorgan Chase said Monday's banking disruption was caused by a software bug, not a cyberattack.", "refs": ["7e8f77b72f", "3eecacf2e1"] },
+        { "text": "The Associated Press reported that Trump faced criticism from allies and opponents who said the White House must answer for the outages.", "refs": ["ac8505ffb3"] },
+        { "text": "Rep. James Comer said he hoped the government could find answers and be transparent.", "refs": ["6eb9ae177f"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "4fa1398afe", "note": "Uses Rubio's own denial that the U.S. is under systemic attack as the headline." },
+        { "ref": "525a1dc980", "note": "Frames the NSA outage as part of US systems \"crumbling,\" with no mention of a cause." },
+        { "ref": "0be6b68a88", "note": "Pairs the NSA outage with sources saying there is no sign of an attack." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "5f0ad4f7fa", "takeaway": "Wire story built around Rubio's \"zero\" quote.", "read_full": false },
+        { "ref": "53518b3a03", "takeaway": "Video of Rubio's remarks in Manila.", "read_full": false },
+        { "ref": "4fa1398afe", "takeaway": "Lists the affected services and online theories Rubio addressed.", "read_full": false },
+        { "ref": "bc54999be7", "takeaway": "Places the remarks in the context of the Asia trip.", "read_full": false },
+        { "ref": "e596be1e9e", "takeaway": "Summary only (paywalled): adds Rubio's AI-patching explanation.", "read_full": false },
+        { "ref": "ac8505ffb3", "takeaway": "AP reprint highlighting criticism of the White House.", "read_full": false },
+        { "ref": "7f92912793", "takeaway": "Wire story on the NSA network outage citing a defense official.", "read_full": false },
+        { "ref": "0be6b68a88", "takeaway": "Sources say the NSA outage was a technical problem, not an attack.", "read_full": false },
+        { "ref": "0c7c33d40d", "takeaway": "Two officials say no evidence of a cyberattack on the NSA network.", "read_full": false },
+        { "ref": "7e8f77b72f", "takeaway": "Chase's software-bug explanation for Monday's disruption.", "read_full": false },
+        { "ref": "9762bec68f", "takeaway": "Evening newscast tallying the week's outages.", "read_full": false },
+        { "ref": "525a1dc980", "takeaway": "Headline and teaser only: casts the outages as systemic failure.", "read_full": false },
+        { "ref": "6eb9ae177f", "takeaway": "Comer's call for transparency, paired with his governor run.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "faa-routers-50-billion",
+      "headline": "FAA pauses router installs after ground stop as Duffy's $50 billion request meets GOP doubts",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "The Federal Aviation Administration halted installation of new routers like the one linked to Friday's nationwide ground stop. Transportation Secretary Sean Duffy asked Congress for $50.1 billion to modernize air traffic control, but Senate Republicans questioned the cost and the lack of detail.",
+      "why_it_matters": "Air travelers just lived through a nearly five-hour nationwide ground stop; how Congress and the FAA respond will affect the reliability of flights heading into the holiday season and how much taxpayers spend on the system.",
+      "background": "The FAA relies on aging communications equipment that it has been replacing for years. On Friday a router at a remote FAA site in Arkansas flooded other parts of the network with data, forcing a rare nationwide ground stop and days of disruptions. Before the outage, Duffy had sought about $30 billion for upgrades and Congress had provided $12.5 billion. He has now asked for $50.1 billion more, which needs Congress's approval.",
+      "facts": [
+        { "text": "The FAA paused installation of new routers after Friday's nationwide ground stop, the agency confirmed.", "refs": ["4c2f31af68", "8082b8e348", "a12e13fe5b"] },
+        { "text": "The ground stop lasted nearly five hours.", "refs": ["8082b8e348"] },
+        { "text": "A preliminary federal review found that a contractor for L3Harris was replacing a router at a remote FAA site when the unit began flooding other routers.", "refs": ["us-w2", "us-w3"] },
+        { "text": "Duffy said the root cause remains unclear and that he does not apologize for shutting the airspace.", "refs": ["7a9b8ffca3"] },
+        { "text": "The administration formally requested $50.1 billion from Congress to modernize air traffic control and make other airport improvements.", "refs": ["66d24064e6", "6ad0705ea1"] },
+        { "text": "Senate Republicans asked for an accounting of the $12.5 billion already provided.", "refs": ["7a50cf36fb", "us-w2"] },
+        { "text": "The one-page explanation Duffy gave senators was thin on detail and included items outside air traffic control, according to The New York Times.", "refs": ["7615c0b2f2"] },
+        { "text": "The request drew skepticism from lawmakers in both parties.", "refs": ["accb96b3df", "c130833e04", "20abf82d53"] },
+        { "text": "The FAA said airline schedules were returning to normal.", "refs": ["8c08f29cbe"] }
+      ],
+      "disputed": [
+        {
+          "topic": "What caused the network overload",
+          "positions": [
+            { "claim": "Federal officials said they believed a Juniper Networks router caused the data overload.", "refs": ["b5f8070509"] },
+            { "claim": "HPE, which makes Juniper routers, said the hardware worked as designed; Duffy said investigators were still weighing installer error against a faulty router.", "refs": ["us-w2"] },
+            { "claim": "Officials quoted by CBS News pointed more broadly to aging infrastructure and legacy technology.", "refs": ["8c08f29cbe"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "7a50cf36fb", "note": "Leads with the pushback from Trump's own party over the price tag." },
+        { "ref": "accb96b3df", "note": "Emphasizes \"yelling and skepticism\" from both parties." },
+        { "ref": "66d24064e6", "note": "Neutral framing around what the request contains." },
+        { "ref": "bbb7e58d8f", "note": "States plainly that a tech issue caused the ground stop, without naming the router maker." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "4c2f31af68", "takeaway": "Wire report naming Juniper routers in the pause.", "read_full": false },
+        { "ref": "8082b8e348", "takeaway": "Agency confirmation of the pause and the ground stop's length.", "read_full": false },
+        { "ref": "a12e13fe5b", "takeaway": "Describes the technology as overwhelmed.", "read_full": false },
+        { "ref": "b5f8070509", "takeaway": "Summary only (paywalled): officials blame a Juniper router.", "read_full": false },
+        { "ref": "7a9b8ffca3", "takeaway": "Duffy says the root cause is still unclear.", "read_full": false },
+        { "ref": "66d24064e6", "takeaway": "Explains the formal $50.1 billion request.", "read_full": false },
+        { "ref": "6ad0705ea1", "takeaway": "Straight report of the funding request.", "read_full": false },
+        { "ref": "7a50cf36fb", "takeaway": "Senate GOP wants receipts on money already spent.", "read_full": false },
+        { "ref": "7615c0b2f2", "takeaway": "Summary only (paywalled): one-page plan short on detail.", "read_full": false },
+        { "ref": "accb96b3df", "takeaway": "Bipartisan skepticism in Congress.", "read_full": false },
+        { "ref": "c130833e04", "takeaway": "Chilly reception from Senate Republicans.", "read_full": false },
+        { "ref": "20abf82d53", "takeaway": "Duffy's pitch at a Senate GOP lunch.", "read_full": false },
+        { "ref": "8c08f29cbe", "takeaway": "Flights returning to normal; aging systems blamed.", "read_full": false },
+        { "ref": "bbb7e58d8f", "takeaway": "Headline only: links the pause to Friday's tech issue.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iran-dirty-bomb-report",
+      "headline": "Trump warns Iran after report of possible dirty-bomb plot in Washington",
+      "region": "White House",
+      "importance": 4,
+      "summary": "President Trump said the U.S. takes \"very seriously\" a CNN report, citing intelligence assessments, that Iran may be planning a dirty-bomb or chemical attack in Washington, and warned Iran of severe consequences. The White House said there are no credible threats to the homeland, and Iran denied the report.",
+      "why_it_matters": "The report raises questions about the safety of the capital and could feed further escalation in the nine-month U.S. war with Iran.",
+      "background": "The U.S. and Iran have been at war for about nine months, with ongoing strikes on each other's forces and regional mediation so far without results. CNN reported this week that U.S. intelligence indicates Iran is developing plans to set off a dirty bomb, which uses ordinary explosives to scatter radioactive material, or use a chemical weapon against senior officials in Washington. Trump, who is traveling in Asia, says preventing an Iranian nuclear weapon is his main reason for the war.",
+      "facts": [
+        { "text": "Trump said the U.S. was taking seriously the possibility of an Iranian dirty-bomb attack in Washington after being asked about a CNN report citing intelligence assessments.", "refs": ["91cdbca733", "2a3ec71536", "us-w1"] },
+        { "text": "Trump said Iran would pay a price \"no country has ever paid\" if the threat proves real.", "refs": ["49c58e1d81", "16ef27c620"] },
+        { "text": "The White House said it is monitoring potential threats but there are no credible threats to the homeland at this time.", "refs": ["5df7d8f5f4", "us-w1"] },
+        { "text": "Iran's Foreign Ministry denied the report, and a deputy foreign minister called it a \"shameful lie.\"", "refs": ["91cdbca733", "8d51785d0d"] },
+        { "text": "Iran warned it may strike the U.S. first if it decides a wider escalation cannot be avoided, the South China Morning Post reported.", "refs": ["a7a25134ad"] },
+        { "text": "A dirty bomb uses conventional explosives to spread radioactive material and is far less destructive than a nuclear weapon.", "refs": ["5df7d8f5f4"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How new and serious the threat is",
+          "positions": [
+            { "claim": "CNN reported, citing U.S. intelligence, that Iran is devising plans for a dirty-bomb attack in Washington.", "refs": ["us-w1", "91cdbca733"] },
+            { "claim": "A senior U.S. official told Fox News the information is \"not new,\" and the White House said there are no credible threats.", "refs": ["49c58e1d81", "5df7d8f5f4"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "49c58e1d81", "note": "Frames the story around an official undercutting CNN's \"alarming\" report." },
+        { "ref": "2a3ec71536", "note": "Leads with Trump treating the report as serious." },
+        { "ref": "a7a25134ad", "note": "Treats it as one exchange of threats in a widening war." },
+        { "ref": "5df7d8f5f4", "note": "Explainer focused on what a dirty bomb is, noting the White House sees no credible threat." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2a3ec71536", "takeaway": "Trump's \"very seriously\" quote and his rationale for the war.", "read_full": false },
+        { "ref": "5df7d8f5f4", "takeaway": "Explainer on dirty bombs with the White House's no-credible-threat line.", "read_full": false },
+        { "ref": "49c58e1d81", "takeaway": "Senior official says the intelligence is not new.", "read_full": false },
+        { "ref": "8d51785d0d", "takeaway": "Iran's denial alongside a reported plot in Europe.", "read_full": false },
+        { "ref": "91cdbca733", "takeaway": "Wire-based video report with Iran's denial.", "read_full": false },
+        { "ref": "16ef27c620", "takeaway": "Trump's warning as the Asia trip began.", "read_full": false },
+        { "ref": "a7a25134ad", "takeaway": "Summary only (paywalled): Iran threatens a first strike.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "us-loses-measles-elimination",
+      "headline": "US loses measles elimination status after 26 years",
+      "region": "",
+      "importance": 4,
+      "summary": "The Pan American Health Organization said Tuesday that measles is again endemic in the United States after more than 12 months of continuous spread, ending the country's elimination status for the first time since 2000. Mexico and Bolivia also lost the status.",
+      "why_it_matters": "Measles is again circulating steadily in the U.S., raising the risk for unvaccinated children, infants and people with weak immune systems; vaccination remains the main protection.",
+      "background": "A country is considered to have eliminated measles when it goes at least a year without continuous spread of one chain of the virus. The U.S. reached that mark in 2000, but large outbreaks starting in 2025 kept spreading, and this year's cases are the most since 1991. PAHO, the World Health Organization's regional office for the Americas, reviewed analyses from the CDC and an independent panel before deciding. Health Secretary Robert F. Kennedy Jr., who has a history of questioning vaccines, oversees the federal response.",
+      "facts": [
+        { "text": "PAHO determined Tuesday that the U.S. has lost its measles elimination status for the first time in 26 years.", "refs": ["985e6877b4", "0f76514fda", "dc70507362"] },
+        { "text": "PAHO's director made the final call after 12 months of continuous transmission.", "refs": ["5e39bb37b7"] },
+        { "text": "The U.S. has recorded more than 5,400 cases, the worst outbreak since 1991.", "refs": ["77ab65f34e"] },
+        { "text": "Bolivia and Mexico also lost their elimination status.", "refs": ["dc70507362"] },
+        { "text": "PAHO based its assessment on an analysis by the CDC and another by an independent group of measles experts, KFF Health News reported.", "refs": ["us-w4"] },
+        { "text": "Public health experts cited declining childhood vaccination rates and cuts to public health monitoring.", "refs": ["8b57ab7b12"] },
+        { "text": "Johns Hopkins expert Dr. Amish Adalja said about one in five patients is hospitalized and about one in 1,000 dies.", "refs": ["6df11b486f"] },
+        { "text": "Incoming Democratic senators and potential presidential candidates blamed Kennedy's vaccine skepticism, The New York Times reported.", "refs": ["74973dc0ac"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "77ab65f34e", "note": "Stresses the scale: worst outbreak since 1991." },
+        { "ref": "74973dc0ac", "note": "Frames it as a political fight, with Democrats blaming RFK Jr." },
+        { "ref": "6df11b486f", "note": "Says the U.S. lost the status \"by choice,\" through an expert's view on vaccination." },
+        { "ref": "8b57ab7b12", "note": "Explains causes through experts, citing vaccination declines and monitoring cuts." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "985e6877b4", "takeaway": "Wire story on the loss after 26 years.", "read_full": false },
+        { "ref": "0f76514fda", "takeaway": "Explainer on whether and how the U.S. could regain the status.", "read_full": false },
+        { "ref": "5e39bb37b7", "takeaway": "Details PAHO's 12-month criterion.", "read_full": false },
+        { "ref": "77ab65f34e", "takeaway": "Case count and historical comparison.", "read_full": false },
+        { "ref": "dc70507362", "takeaway": "Notes Mexico and Bolivia also lost status.", "read_full": false },
+        { "ref": "8b57ab7b12", "takeaway": "Experts on vaccination rates and public health cuts.", "read_full": false },
+        { "ref": "6df11b486f", "takeaway": "Expert interview on hospitalization and death rates.", "read_full": false },
+        { "ref": "74973dc0ac", "takeaway": "Summary only (paywalled): Democrats' criticism of Kennedy.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "overton-fda-withdrawn",
+      "headline": "White House withdraws Heidi Overton's nomination to lead the FDA",
+      "region": "White House",
+      "importance": 3,
+      "summary": "The White House pulled Dr. Heidi Overton's nomination as FDA commissioner a day before the Senate health committee was set to vote, after she struggled to win enough Republican support. The agency remains without a confirmed commissioner.",
+      "why_it_matters": "The FDA approves drugs, vaccines and food safety rules, and the fight over its leadership affects decisions on vaccines and the abortion pill.",
+      "background": "President Trump nominated Overton, a physician and Trump ally known for opposing abortion, to run the Food and Drug Administration. At her September hearing senators questioned her about the abortion pill mifepristone and vaccines, and committee chairman Sen. Bill Cassidy had earlier raised concerns about her management experience. Republicans hold only a one-vote majority on the Senate health committee, so a single GOP defection could block a nominee. The White House previously withdrew surgeon general nominee Casey Means in a similar situation.",
+      "facts": [
+        { "text": "The White House withdrew Overton's nomination to lead the FDA, a White House official confirmed.", "refs": ["3c78445dc8", "c68bfd35df", "5a888fa20f", "bdb11a9424"] },
+        { "text": "The Senate health committee had been scheduled to vote on her nomination Wednesday morning.", "refs": ["45065a85d9", "5a888fa20f"] },
+        { "text": "Republicans hold a one-vote majority on the committee, and she faced opposition from GOP senators.", "refs": ["c68bfd35df", "3777cd22ed"] },
+        { "text": "Senators had raised concerns about her positions on abortion and vaccines.", "refs": ["45065a85d9", "1c9a5d5e71"] },
+        { "text": "Committee chairman Bill Cassidy had earlier questioned her managerial experience.", "refs": ["us-w5"] },
+        { "text": "Supporters of the Make America Healthy Again movement welcomed the withdrawal, The Daily Caller reported.", "refs": ["c58ae7f4d2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "c58ae7f4d2", "note": "Frames the withdrawal as a win for the MAHA movement and calls the nomination controversial." },
+        { "ref": "1c9a5d5e71", "note": "Highlights her as a Trump ally and prominent abortion opponent." },
+        { "ref": "3c78445dc8", "note": "Puts the cause on wavering support from Senate Republicans." },
+        { "ref": "5a888fa20f", "note": "Emphasizes the timing, on the eve of the committee vote." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3c78445dc8", "takeaway": "Wire report citing wavering GOP support.", "read_full": false },
+        { "ref": "c68bfd35df", "takeaway": "Confirmation from the White House and the one-vote committee margin.", "read_full": false },
+        { "ref": "5a888fa20f", "takeaway": "Notes timing before the committee vote.", "read_full": false },
+        { "ref": "1c9a5d5e71", "takeaway": "Profiles her abortion stance.", "read_full": false },
+        { "ref": "3777cd22ed", "takeaway": "Earlier report on her struggle to win GOP votes.", "read_full": false },
+        { "ref": "bdb11a9424", "takeaway": "Brief confirmation of the withdrawal.", "read_full": false },
+        { "ref": "45065a85d9", "takeaway": "Summary only (paywalled): abortion and vaccine concerns.", "read_full": false },
+        { "ref": "c58ae7f4d2", "takeaway": "Reaction from MAHA supporters.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "democratic-leadership-races",
+      "headline": "House Democrats vote on Jeffries as speaker nominee while Schumer and Van Hollen fight over Senate post",
+      "region": "Congress",
+      "importance": 3,
+      "summary": "House Democrats meet privately Wednesday to elect their leaders and are expected to nominate Hakeem Jeffries for speaker, with Jeffries pushing for a tallied vote. In the Senate, Chuck Schumer said he has the votes to become majority leader, while challenger Chris Van Hollen's camp disputes his count ahead of a Dec. 1 vote.",
+      "why_it_matters": "The leaders Democrats pick will decide which bills reach a vote once the party controls both chambers in January, including its health care and cost-of-living agenda.",
+      "background": "Democrats won control of both the House and the Senate in the Nov. 3 midterms. Jeffries of New York, the current House minority leader, is in line to be the first Black speaker, but some progressives and grassroots activists have pushed for change. In the Senate, Maryland Sen. Chris Van Hollen is challenging longtime Democratic leader Chuck Schumer of New York for majority leader. The full House elects the speaker in a floor vote in January.",
+      "facts": [
+        { "text": "House Democrats meet privately Wednesday to elect leaders for the new Congress and nominate a speaker.", "refs": ["46d1d89cd6", "e6e06eb276"] },
+        { "text": "Jeffries planned to have members take a tallied vote on nominating him, according to Axios.", "refs": ["dd86484486", "5c5e258efd"] },
+        { "text": "If elected, Jeffries would be the first Black speaker of the House; the floor vote is expected in January.", "refs": ["e6e06eb276", "d2dd1e13d0"] },
+        { "text": "Jeffries endorsed a health care agenda that includes lowering the Medicare eligibility age.", "refs": ["c0f648d06f"] },
+        { "text": "Schumer said Tuesday he had secured the votes to be elected majority leader.", "refs": ["437b79d4b4", "c149edf6fa"] },
+        { "text": "The Senate Democratic leadership vote is set for Dec. 1.", "refs": ["13feb81f07"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Schumer has the votes",
+          "positions": [
+            { "claim": "Schumer said he has locked down the votes to be elected majority leader.", "refs": ["437b79d4b4"] },
+            { "claim": "Van Hollen and Sen.-elect Abdul El-Sayed said Schumer's whip count is wrong.", "refs": ["c149edf6fa"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "5c629fd97d", "note": "Casts the Senate fight as marring the party's electoral win." },
+        { "ref": "b9fff7e31e", "note": "Emphasizes Democratic unity behind Jeffries." },
+        { "ref": "95f6450ce9", "note": "Focuses on members' fatigue with the speaker vote." },
+        { "ref": "c149edf6fa", "note": "Gives equal weight to Schumer's claim and his challengers' rebuttal." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "46d1d89cd6", "takeaway": "Wire preview of the House leadership elections.", "read_full": false },
+        { "ref": "e6e06eb276", "takeaway": "AP reprint noting the historic first.", "read_full": false },
+        { "ref": "dd86484486", "takeaway": "Scoop on the tallied-vote plan.", "read_full": false },
+        { "ref": "d2dd1e13d0", "takeaway": "Expects Jeffries to be nominated despite progressive pressure.", "read_full": false },
+        { "ref": "c0f648d06f", "takeaway": "Jeffries' health care agenda.", "read_full": false },
+        { "ref": "437b79d4b4", "takeaway": "Live updates with Schumer's claim of victory.", "read_full": false },
+        { "ref": "13feb81f07", "takeaway": "Senators feel pressure to pick sides before Dec. 1.", "read_full": false },
+        { "ref": "c149edf6fa", "takeaway": "Van Hollen camp disputes Schumer's count.", "read_full": false },
+        { "ref": "5c629fd97d", "takeaway": "Summary only (paywalled): party divisions on display.", "read_full": false },
+        { "ref": "b9fff7e31e", "takeaway": "Says Democrats appear united behind Jeffries.", "read_full": false },
+        { "ref": "95f6450ce9", "takeaway": "Members want the drama over.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://www.newsquawk.com/headlines/us-intel-indicates-iran-is-devising-plans-to-potentially-set-off-a-dirty-bomb-in-washington-according-to-sources-cited-by-cnn", "title": "US intel indicates Iran is devising plans to potentially set off a dirty bomb in Washington, according to sources cited by CNN", "outlet": "Newsquawk" },
+    { "id": "us-w2", "url": "https://thenextweb.com/news/faa-ground-stop-router-arkansas-l3harris-duffy-billions", "title": "FAA ground stop cost 'billions', Duffy says, as router maker defends device", "outlet": "The Next Web" },
+    { "id": "us-w3", "url": "https://www.staradvertiser.com/2026/11/15/breaking-news/transportation-points-to-router-in-arkansas-as-start-of-nationwide-ground-stop/", "title": "Transportation Secretary Duffy points to Arkansas router as start of ground stop", "outlet": "Honolulu Star-Advertiser" },
+    { "id": "us-w4", "url": "https://www.wabe.org/?p=1002807", "title": "US has lost measles elimination status, global health authorities say", "outlet": "WABE (KFF Health News)" },
+    { "id": "us-w5", "url": "https://sourcenm.com/2026/08/20/repub/white-house-to-press-forward-with-fda-nominee-despite-us-senate-chairmans-concerns/", "title": "White House to press forward with FDA nominee despite US Senate chairman's concerns", "outlet": "Source NM (States Newsroom)" },
+    { "id": "us-w6", "url": "https://www.ktoo.org/2026/08/18/u-s-senate-race-will-have-two-dan-sullivans-and-a-mary-peltola/", "title": "U.S. Senate race will have two Dan Sullivans and a Mary Peltola", "outlet": "KTOO" }
+  ]
+}

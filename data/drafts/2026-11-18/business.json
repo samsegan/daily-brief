@@ -1,0 +1,289 @@
+{
+  "stories": [
+    {
+      "id": "nvidia-earnings-board-rejects-huang",
+      "headline": "Nvidia beats forecasts in first report since Huang's exit; board says he won't return",
+      "region": "Earnings",
+      "importance": 5,
+      "summary": "Nvidia reported third-quarter revenue roughly double a year earlier and raised its outlook, in its first results under interim chief executive Colette Kress. Its board chair said the company does not intend to reinstate Jensen Huang, who resigned last week and had sought to return. Tech stocks and U.S. stock futures rose on Wednesday as the results eased worries about AI spending.",
+      "why_it_matters": "Nvidia is one of the largest companies in the index funds held in many 401(k)s, so its results helped stop a multi-day slide in tech stocks that had cut into retirement balances.",
+      "background": "Nvidia makes the chips used to train and run most artificial intelligence systems, and enthusiasm for AI has driven much of the stock market's gains since 2023. Co-founder Jensen Huang, its only chief executive until now, resigned on Nov. 12 after reports linked him to a former executive of a Singapore customer whom U.S. officials suspect of spying for China. The board made finance chief Colette Kress interim CEO and named Harvey Jones chair. Nvidia's shares had their worst week in 19 months before the report, and a wider sell-off in tech stocks ran for several days.",
+      "facts": [
+        {
+          "text": "Nvidia said third-quarter revenue was about double a year earlier and about 20% higher than the previous quarter, according to France 24 and the Financial Times.",
+          "refs": ["0e51bc37a2", "d8c39ff446"]
+        },
+        {
+          "text": "The company beat analysts' expectations and raised its financial forecasts, including for next year.",
+          "refs": ["19ab8dc0b2", "d8c39ff446", "786ee29a69"]
+        },
+        {
+          "text": "Nvidia's chair said the board \"does not intend to reinstate Jensen as C.E.O.\" after Huang and his allies lobbied for his return, The New York Times reported.",
+          "refs": ["b1a28720a6", "9944eda770", "3d174cfa1a"]
+        },
+        {
+          "text": "Huang acknowledged making \"serious mistakes\" in his personal life, and Nvidia's earnings statement did not mention his ouster, The Hindu reported.",
+          "refs": ["3d174cfa1a"]
+        },
+        {
+          "text": "Nvidia did not file its usual quarterly 10-Q report with the SEC alongside its results; MarketWatch said this suggested Huang's resignation involved more than personal conduct.",
+          "refs": ["37976c5e90"]
+        },
+        {
+          "text": "Huang resigned on Nov. 12, and the board named Kress interim CEO and Harvey Jones chair, Nvidia said.",
+          "refs": ["business-w1"]
+        },
+        {
+          "text": "Nvidia shares rose more than 3% in premarket trading on Wednesday, and JPMorgan analysts said more short-term volatility was likely, MarketWatch reported.",
+          "refs": ["786ee29a69"]
+        },
+        {
+          "text": "U.S. stock futures, led by the Nasdaq, rose on Wednesday, and European chip stocks gained after the report.",
+          "refs": ["5e491b225a", "b5890c78a6", "c243b69ebe", "1562029078"]
+        },
+        {
+          "text": "Before the report on Tuesday, the Nasdaq 100 fell 0.7%, and Nvidia was coming off its worst week in 19 months.",
+          "refs": ["f170a17209", "f8af7ba8ee", "cfd3ae5943"]
+        },
+        {
+          "text": "Some Nvidia employees are pushing for Huang's return, CNBC reported.",
+          "refs": ["52a552a79c"]
+        },
+        {
+          "text": "A congressional commission said China's military is seeking Nvidia's advanced chips for its AI work, CNBC reported.",
+          "refs": ["f838ce9f45"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "5442c44eeb", "note": "Leads with Kress showing Nvidia is still central to AI, stressing continuity after Huang." },
+        { "ref": "b1a28720a6", "note": "Leads with the board shutting the door on Huang, not with the financial results." },
+        { "ref": "8841cbf997", "note": "Frames the results as a look at the company's plans after the resignation." },
+        { "ref": "c39ecf3424", "note": "Pairs strong numbers with investor worry about who will lead the company." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "5442c44eeb", "takeaway": "Says Kress calmed investors in her first report as interim CEO, at least for now.", "read_full": false },
+        { "ref": "52a552a79c", "takeaway": "Turns to a divided workforce, with some employees wanting Huang back.", "read_full": false },
+        { "ref": "f838ce9f45", "takeaway": "Ties a congressional commission's China chip findings to the Huang scandal.", "read_full": false },
+        { "ref": "b1a28720a6", "takeaway": "Headline and summary only (paywalled): the board chair's refusal to reinstate Huang.", "read_full": false },
+        { "ref": "9944eda770", "takeaway": "Headline only (paywalled): Nvidia rejects Huang's offer despite Silicon Valley pressure.", "read_full": false },
+        { "ref": "3d174cfa1a", "takeaway": "Notes Huang's admission of personal mistakes and the earnings statement's silence on him.", "read_full": false },
+        { "ref": "d8c39ff446", "takeaway": "Headline and summary only (paywalled): raised forecasts and doubled revenue alongside the Huang decision.", "read_full": false },
+        { "ref": "0e51bc37a2", "takeaway": "Short TV segment on revenue growth amid a leadership crisis.", "read_full": false },
+        { "ref": "37976c5e90", "takeaway": "Focuses on the missing 10-Q filing and what it may signal.", "read_full": false },
+        { "ref": "786ee29a69", "takeaway": "Rounds up analysts' views after the beat-and-raise quarter.", "read_full": false },
+        { "ref": "19ab8dc0b2", "takeaway": "Straight results story: earnings beat and higher guidance.", "read_full": false },
+        { "ref": "8841cbf997", "takeaway": "Results plus what the company signaled about its plans without Huang.", "read_full": false },
+        { "ref": "c39ecf3424", "takeaway": "Strong numbers, but investors worry about CEO succession.", "read_full": false },
+        { "ref": "5e491b225a", "takeaway": "Headline and summary only (paywalled): global tech rally on the results.", "read_full": false },
+        { "ref": "b5890c78a6", "takeaway": "Nasdaq futures jump ahead of Anthropic's IPO pricing.", "read_full": false },
+        { "ref": "c243b69ebe", "takeaway": "AI stocks rally as the outlook eases demand fears.", "read_full": false },
+        { "ref": "1562029078", "takeaway": "Headline and summary only (paywalled): European chip stocks edge higher.", "read_full": false },
+        { "ref": "f170a17209", "takeaway": "Headline and summary only (paywalled): tech slide before the report.", "read_full": false },
+        { "ref": "f8af7ba8ee", "takeaway": "Headline and summary only (paywalled): stocks fall amid AI-trade jitters before the report.", "read_full": false },
+        { "ref": "cfd3ae5943", "takeaway": "Preview noting Nvidia's worst week in 19 months.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "anthropic-ipo-pricing",
+      "headline": "Anthropic set to price what could be the largest IPO on record",
+      "region": "Markets",
+      "importance": 4,
+      "summary": "Anthropic, the AI company that makes the Claude models, is expected to price its initial public offering on Wednesday, with Nasdaq trading set to start Thursday. The Wall Street Journal reported the company plans to raise the price after strong demand, despite days of volatile trading in tech stocks.",
+      "why_it_matters": "The debut is widely seen as a test of investors' appetite for AI, and its reception could move the tech stocks that make up a large part of many retirement funds.",
+      "background": "Anthropic is a San Francisco artificial intelligence company founded in 2021 and a main rival of OpenAI. An IPO is when a private company first sells shares to the public on a stock exchange. Anthropic set an initial price range of $70 to $78 a share earlier this month. Its offering comes as AI-related stocks have been falling, partly because of the turmoil at chipmaker Nvidia.",
+      "facts": [
+        {
+          "text": "Anthropic plans to raise its IPO price after strong demand from investors, The Wall Street Journal reported.",
+          "refs": ["297f77b8fb"]
+        },
+        {
+          "text": "The company is due to price its shares on Wednesday, and its stock is expected to begin trading on Nasdaq on Thursday.",
+          "refs": ["c2dd9c4730", "c4da92541f", "87b2109e58"]
+        },
+        {
+          "text": "Bloomberg said the offering could be the biggest IPO of all time.",
+          "refs": ["de5e73a4a4", "c4da92541f"]
+        },
+        {
+          "text": "Anthropic's filing set a range of $70 to $78 a share for 825 million shares on Nasdaq.",
+          "refs": ["business-w2", "business-w3"]
+        },
+        {
+          "text": "A group of lesser-known venture capital investors is on track for about $100 billion in gains from the IPO, the Financial Times reported.",
+          "refs": ["c2dd9c4730"]
+        },
+        {
+          "text": "Crypto-based futures tied to Anthropic stock point to a large first-day jump, Bloomberg reported.",
+          "refs": ["9e55b8030a"]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "What the IPO values Anthropic at",
+          "positions": [
+            { "claim": "About $1.4 trillion, per the New York Post.", "refs": ["87b2109e58"] },
+            { "claim": "About $1.3 trillion at the filed range, per a report syndicated by ABC7.", "refs": ["business-w2"] },
+            { "claim": "About $1.2 trillion market value at the filed terms, per Renaissance Capital.", "refs": ["business-w3"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "87b2109e58", "note": "Speaks to individual investors, asking whether it is too late to buy in." },
+        { "ref": "e6bb8b77f1", "note": "Stresses the risk, saying the company is pressing ahead as AI fears grow and markets wobble." },
+        { "ref": "297f77b8fb", "note": "Leads with strong demand and a higher price." },
+        { "ref": "c4da92541f", "note": "Frames the debut as a key test for the AI boom." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "297f77b8fb", "takeaway": "Headline and summary only (paywalled): price to rise on strong demand despite market tumult.", "read_full": false },
+        { "ref": "87b2109e58", "takeaway": "Explainer for retail investors, citing a $1.4 trillion estimate.", "read_full": false },
+        { "ref": "c4da92541f", "takeaway": "Previews the Thursday Nasdaq debut as a test for AI.", "read_full": false },
+        { "ref": "e6bb8b77f1", "takeaway": "Headline only (paywalled): IPO goes ahead despite mounting AI fears.", "read_full": false },
+        { "ref": "c2dd9c4730", "takeaway": "Headline and summary only (paywalled): windfall for little-known VC backers.", "read_full": false },
+        { "ref": "de5e73a4a4", "takeaway": "Headline and summary only (paywalled): pricing nears despite tech-stock swings.", "read_full": false },
+        { "ref": "9e55b8030a", "takeaway": "Headline and summary only (paywalled): crypto futures signal a first-day pop.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "fed-musalem-rate-hikes",
+      "headline": "Fed's Musalem says several more rate hikes may be needed; gold falls",
+      "region": "Fed",
+      "importance": 4,
+      "summary": "St. Louis Fed President Alberto Musalem said the Federal Reserve will likely need several interest-rate increases, possibly four, by spring to bring inflation down. Gold fell to its lowest level in more than a year on Wednesday as the dollar firmed and traders bet on more Fed hikes.",
+      "why_it_matters": "More Fed rate hikes would keep mortgage, car-loan and credit-card rates high. The comments were covered by center and lean-left outlets in this digest, with no right-leaning coverage.",
+      "background": "The Federal Reserve raises its benchmark interest rate to cool inflation and lowers it to support jobs. Inflation picked up this year as the war with Iran pushed energy prices higher, and consumer prices were up about 3.7% from a year earlier in September. The Fed's key rate is about 3.9%, and its next meeting is in December, where traders expect an increase. Musalem heads one of the 12 regional Fed banks and is known as one of the officials most focused on fighting inflation.",
+      "facts": [
+        {
+          "text": "Musalem said the U.S. likely needs several rate hikes by spring to control inflation, Reuters reported.",
+          "refs": ["53bbf8c7b1"]
+        },
+        {
+          "text": "CNBC reported he said four more hikes may be needed in the coming months, one of the most hawkish views among Fed policymakers.",
+          "refs": ["ba8bd9e96f"]
+        },
+        {
+          "text": "Gold fell 2.5% on Wednesday to its lowest level in more than a year, pressured by a stronger dollar and expectations of more Fed rate hikes, The Wall Street Journal reported.",
+          "refs": ["1353c1ce09"]
+        },
+        {
+          "text": "On Tuesday, gold had edged higher as Treasury yields and the dollar slipped.",
+          "refs": ["ce72cee591"]
+        },
+        {
+          "text": "Credit investors at a Bloomberg conference warned of a \"fear factor\" as bond markets reprice with rates staying high, which they said could squeeze weaker borrowers.",
+          "refs": ["98746bd31d", "dd26d3f4f2"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "53bbf8c7b1", "note": "Emphasizes the timeline, hikes by spring, and the inflation goal." },
+        { "ref": "ba8bd9e96f", "note": "Puts the number, four more hikes, up front." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "53bbf8c7b1", "takeaway": "Wire story on Musalem's call for several hikes by spring.", "read_full": false },
+        { "ref": "ba8bd9e96f", "takeaway": "Highlights four possible hikes and calls it one of the most hawkish views.", "read_full": false },
+        { "ref": "1353c1ce09", "takeaway": "Headline and summary only (paywalled): gold at a one-year-plus low on rate-hike bets.", "read_full": false },
+        { "ref": "ce72cee591", "takeaway": "Headline and summary only (paywalled): gold firmer as yields eased Tuesday.", "read_full": false },
+        { "ref": "98746bd31d", "takeaway": "Headline and summary only (paywalled): credit chiefs warn of a broad debt repricing.", "read_full": false },
+        { "ref": "dd26d3f4f2", "takeaway": "Video summary: Davidson Kempner's credit co-head describes a \"real fear factor.\"", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "target-nike-retail-earnings",
+      "headline": "Target posts its best sales growth in five years as Nike shares slump",
+      "region": "Earnings",
+      "importance": 3,
+      "summary": "Target beat third-quarter sales expectations and raised its forecast, reporting its strongest sales growth in five years as its turnaround continues. Nike shares fell after it set a 2029 sales growth target at its first investor day in nine years.",
+      "why_it_matters": "Big retailers' results are an early read on how much Americans are spending heading into the holidays. Coverage in this digest came from center and lean-left outlets only.",
+      "background": "Target has spent several years trying to win back shoppers after sales stalled, under a new chief executive, Michael Fiddelke, who took over this year. Nike, the world's largest sportswear brand, has been trying to recover from falling sales under CEO Elliott Hill, who returned to the company in 2024. Investor days are meetings where companies lay out long-term goals for shareholders. Retailers' results this week come just ahead of Black Friday.",
+      "facts": [
+        {
+          "text": "Target beat third-quarter sales expectations, posted its best sales growth in five years and raised its guidance, CNBC reported.",
+          "refs": ["5296b6f365"]
+        },
+        {
+          "text": "Some analysts see overhauling Target's apparel and home sections as crucial to its turnaround, and say it still needs to improve in shoes and women's clothing, MarketWatch reported.",
+          "refs": ["1c41096a27"]
+        },
+        {
+          "text": "Nike laid out a 2029 sales growth target to reassure investors, but its shares fell, Reuters reported.",
+          "refs": ["9eff920200"]
+        },
+        {
+          "text": "Nike held its first investor day in nine years at its Oregon headquarters.",
+          "refs": ["65047d2bef"]
+        },
+        {
+          "text": "The Wall Street Journal said Walmart has benefited from thrifty shoppers and from investors wary of AI stocks.",
+          "refs": ["c62bacc359"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "9eff920200", "note": "Leads with the stock drop despite Nike's new targets." },
+        { "ref": "65047d2bef", "note": "Frames the event as Nike trying to prove its turnaround is working, without the share reaction." },
+        { "ref": "1c41096a27", "note": "Accepts the revival but focuses on Target's weak spots." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "5296b6f365", "takeaway": "Straight results story: sales beat and raised guidance.", "read_full": false },
+        { "ref": "1c41096a27", "takeaway": "Analysis of the categories Target still needs to fix.", "read_full": false },
+        { "ref": "9eff920200", "takeaway": "Nike's targets fail to lift the stock.", "read_full": false },
+        { "ref": "65047d2bef", "takeaway": "Previews the financial goals Nike set at its investor day.", "read_full": false },
+        { "ref": "c62bacc359", "takeaway": "Headline and summary only (paywalled): Walmart gains from cautious shoppers and investors.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "treasury-401k-auto-enrollment",
+      "headline": "Treasury finalizes rules requiring automatic 401(k) enrollment in new plans",
+      "region": "Retirement",
+      "importance": 3,
+      "summary": "The Treasury Department issued final rules for a 2022 law that requires most new 401(k) and 403(b) plans to sign workers up automatically. Reuters noted the rules came years after the law passed.",
+      "why_it_matters": "Workers at many employers that started retirement plans since late 2022 will be enrolled automatically and have to opt out if they don't want to save.",
+      "background": "The SECURE 2.0 Act, passed by Congress in December 2022, requires most 401(k) and 403(b) plans created after that date to enroll eligible workers automatically. Studies have long shown that people save more when they must opt out rather than opt in. Treasury and the IRS proposed rules in January 2025, and the White House finished reviewing the final version in October. The requirement took effect for plan years starting in 2025, and employers have been following a good-faith reading of the law while waiting for the rules.",
+      "facts": [
+        {
+          "text": "Treasury issued final rules for automatic enrollment in retirement plans, Reuters and Fox Business reported.",
+          "refs": ["b8f37f5d84", "5b17578c7c"]
+        },
+        {
+          "text": "Under the law, covered plans must enroll workers at a default rate of 3% to 10% of pay, rising by 1 percentage point a year to at least 10% and no more than 15%; workers can opt out or choose a different rate, according to the IRS.",
+          "refs": ["business-w4"]
+        },
+        {
+          "text": "Small businesses with 10 or fewer employees, companies in business for less than three years, church plans and government plans are exempt, according to the IRS.",
+          "refs": ["business-w4"]
+        },
+        {
+          "text": "The White House regulatory office finished its review of the final rules on Oct. 16, a retirement-plan trade group reported.",
+          "refs": ["business-w5"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "5b17578c7c", "note": "Emphasizes the possible boost to retirement savings." },
+        { "ref": "b8f37f5d84", "note": "Emphasizes how long the rules took after the law passed." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "5b17578c7c", "takeaway": "Frames the rules around higher savings for workers.", "read_full": false },
+        { "ref": "b8f37f5d84", "takeaway": "Notes the rules arrive years after Congress passed the law.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "business-w1", "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition", "title": "NVIDIA Announces CEO Transition", "outlet": "Nvidia" },
+    { "id": "business-w2", "url": "https://abc7.com/story/anthropic-seeks-70-78-share-new-ipo-filing-values-13-trillion/20029820/", "title": "Anthropic seeks $70 to $78 a share in new IPO filing", "outlet": "ABC7" },
+    { "id": "business-w3", "url": "https://www.renaissancecapital.com/IPO-Center/News/122657/anthropic-sets-terms-for-61-billion-ipo-targeting-a-1-2-trillion-market-cap", "title": "Anthropic sets terms for $61 billion IPO targeting a $1.2 trillion market cap", "outlet": "Renaissance Capital" },
+    { "id": "business-w4", "url": "https://www.irs.gov/node/141906", "title": "Treasury, IRS issue proposed regulations on new automatic enrollment requirement for 401(k) and 403(b) plans", "outlet": "IRS" },
+    { "id": "business-w5", "url": "https://www.napa-net.org/news/2026/10/secure-2.0-automatic-enrollment-regs-clear-white-house-review", "title": "SECURE 2.0 automatic enrollment regs clear White House review", "outlet": "NAPA" }
+  ]
+}

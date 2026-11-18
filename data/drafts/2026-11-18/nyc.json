@@ -1,0 +1,486 @@
+{
+  "stories": [
+    {
+      "id": "flatbush-collapse-inspections",
+      "headline": "City halts work at sites tied to contractors in fatal Flatbush collapse",
+      "region": "Brooklyn",
+      "importance": 5,
+      "summary": "After an apartment building in Flatbush collapsed into a neighboring construction site and killed eight people, city inspectors have fanned out to about 160 sites where the same contractors work, and some of those jobs have been stopped. A tenant of the collapsed building says in a new lawsuit that he warned his landlord about cracks weeks earlier. The cause has not been determined.",
+      "why_it_matters": "The sweep could pause construction near many New Yorkers' homes, and the outcome may shape how the city and Albany police work next to older buildings. So far the follow-up reporting in the digest comes from left-leaning and center outlets only.",
+      "background": "On Nov. 11-12 a nearly century-old, three-story apartment building at 1321 Flatbush Avenue collapsed into a construction site next door at 2625 Bedford Avenue. Eight people died, including two children, and more than a dozen were hurt. Earlier this year the Department of Buildings had halted demolition at the neighboring site over inadequate protection for adjoining buildings, then lifted the order in May. Mayor Zohran Mamdani ordered an emergency review of other sites linked to the companies involved, and Gov. Kathy Hochul faces renewed debate over the state's Scaffold Law, which governs construction-injury liability.",
+      "facts": [
+        {
+          "text": "The collapse killed eight people, two children and six adults.",
+          "refs": [
+            "58b4b7ca06",
+            "nyc-w2"
+          ]
+        },
+        {
+          "text": "Mayor Mamdani said building inspectors launched an emergency review of about 160 locations citywide where contractors from the collapse site have been working.",
+          "refs": [
+            "58b4b7ca06"
+          ]
+        },
+        {
+          "text": "A Gothamist analysis found the Department of Buildings is targeting five projects linked to engineers involved in the construction next to the collapsed building, and inspections have halted work at some sites.",
+          "refs": [
+            "15b2571c27"
+          ]
+        },
+        {
+          "text": "Tenant Dengane Omari Jack says in a lawsuit that he sent his landlord photos of damage around the building's entrance weeks before the collapse.",
+          "refs": [
+            "df34302971"
+          ]
+        },
+        {
+          "text": "The Department of Buildings had ordered demolition stopped at the adjacent site in March over inadequate overhead protection for neighbors, and lifted the order in May.",
+          "refs": [
+            "nyc-w1"
+          ]
+        },
+        {
+          "text": "Officials have not said what caused the collapse; reports say it is unclear whether demolition or later excavation played a role.",
+          "refs": [
+            "nyc-w1"
+          ]
+        },
+        {
+          "text": "City & State reported that Gov. Hochul did not rule out changes to the state Scaffold Law after the collapse.",
+          "refs": [
+            "147c9035d9"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "15b2571c27",
+          "note": "Leads with the city's enforcement response and its own analysis of linked engineers."
+        },
+        {
+          "ref": "9c1e39b1a6",
+          "note": "Centers the rescue effort and the people trapped under the rubble."
+        },
+        {
+          "ref": "58b4b7ca06",
+          "note": "Emphasizes the scale of the investigation spreading to contractors' other sites."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "15b2571c27",
+          "takeaway": "Headline and summary only: focuses on stop-work actions at five engineer-linked projects.",
+          "read_full": false
+        },
+        {
+          "ref": "df34302971",
+          "takeaway": "Headline and summary only: the tenant's lawsuit saying he warned the landlord.",
+          "read_full": false
+        },
+        {
+          "ref": "9c1e39b1a6",
+          "takeaway": "Headline only: first responders' account of the search.",
+          "read_full": false
+        },
+        {
+          "ref": "58b4b7ca06",
+          "takeaway": "Headline and summary only: the 160-site emergency review.",
+          "read_full": false
+        },
+        {
+          "ref": "147c9035d9",
+          "takeaway": "Headline and summary only: Hochul's openness to Scaffold Law changes after the collapse.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nyc-school-enrollment-drop",
+      "headline": "NYC public school enrollment falls by about 23,000 students",
+      "region": "Schools",
+      "importance": 4,
+      "summary": "Preliminary Education Department figures released Monday show city public schools lost about 23,000 students, nearly 3%, from last year. Officials expect further declines, which raises questions about school budgets and possible closures.",
+      "why_it_matters": "Fewer students can mean smaller school budgets, merged programs or closures, which affects families choosing schools and the city's spending.",
+      "background": "New York City runs the country's largest school system. Enrollment has been falling for years, with the city losing about 200,000 students over the past decade, a trend seen in districts nationwide as birth rates fall and families choose charter or private schools or leave the city. Since the pandemic the city has largely kept school budgets steady despite the losses. Mayor Mamdani's schools chancellor, Kamar Samuels, now faces decisions on how to adjust.",
+      "facts": [
+        {
+          "text": "New York City public schools lost about 23,000 students, nearly 3%, from the prior year, according to preliminary numbers the Education Department released Monday.",
+          "refs": [
+            "d21c0ebe86",
+            "5c11385346",
+            "nyc-w5"
+          ]
+        },
+        {
+          "text": "The city has lost about 200,000 students over the past decade.",
+          "refs": [
+            "5c11385346"
+          ]
+        },
+        {
+          "text": "Further enrollment decreases are expected, according to Chalkbeat reporting republished by THE CITY.",
+          "refs": [
+            "d21c0ebe86"
+          ]
+        },
+        {
+          "text": "Chalkbeat reported that since the pandemic the city has largely kept school budgets steady despite enrollment declines.",
+          "refs": [
+            "nyc-w5"
+          ]
+        },
+        {
+          "text": "Districts across the country are closing schools as enrollment drops, and parents are pushing back, The New York Times reported.",
+          "refs": [
+            "14b26c6087"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "d21c0ebe86",
+          "note": "Frames the drop as a budget and planning problem with more losses ahead."
+        },
+        {
+          "ref": "5c11385346",
+          "note": "Puts the one-year number in a decade-long and national context."
+        },
+        {
+          "ref": "14b26c6087",
+          "note": "Shifts focus to parents angered by closures elsewhere in the country."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "d21c0ebe86",
+          "takeaway": "Headline and summary only: Chalkbeat story with the 3% figure and expected further decline.",
+          "read_full": false
+        },
+        {
+          "ref": "5c11385346",
+          "takeaway": "Headline and summary only (paywalled): ties the drop to a national trend.",
+          "read_full": false
+        },
+        {
+          "ref": "14b26c6087",
+          "takeaway": "Headline and summary only (paywalled): national look at school closures and parent anger.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "carriage-horse-wind-down",
+      "headline": "Mamdani lays out buybacks and job training to wind down carriage horses",
+      "region": "Manhattan",
+      "importance": 3,
+      "summary": "The Mamdani administration said the city will buy back horse carriage medallions and offer career training to drivers as it phases out the Central Park carriage trade. It will also study electric carriages and pedal-assist e-bikes as replacements. The drivers' union says the plan falls short.",
+      "why_it_matters": "It ends a long-running fight over a tourist fixture and will use city money to compensate medallion owners. Workers who lose their jobs depend on what the transition plan delivers.",
+      "background": "Animal rights groups have pushed for years to end horse-drawn carriage rides in Central Park, citing heat, traffic and accidents. In October, Mayor Mamdani and Council Speaker Julie Menin agreed to back a bill banning the carriages, with the ban reported to take effect in mid-2028. Carriage drivers, represented by the Transport Workers Union, oppose it and say many owners are still paying off costly medallions. Former Mayor Eric Adams had also called for a ban.",
+      "facts": [
+        {
+          "text": "The city says it will offer medallion buybacks and career training to carriage workers.",
+          "refs": [
+            "d078104247",
+            "94e9892774"
+          ]
+        },
+        {
+          "text": "The city will look into replacing horse carriages with electric carriages and pedal-assist e-bikes in Central Park.",
+          "refs": [
+            "492dd7a734"
+          ]
+        },
+        {
+          "text": "The carriage drivers' union said it is not satisfied with the plan.",
+          "refs": [
+            "d078104247"
+          ]
+        },
+        {
+          "text": "Mamdani and Speaker Menin agreed in October to support a bill banning horse carriages.",
+          "refs": [
+            "nyc-w4"
+          ]
+        },
+        {
+          "text": "Drivers and union leaders have rallied against the plan to end the industry by mid-2028.",
+          "refs": [
+            "nyc-w3"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "d078104247",
+          "note": "Presents the plan as taking shape while noting the union's objections."
+        },
+        {
+          "ref": "94e9892774",
+          "note": "Leads with the buyback offer to medallion owners."
+        },
+        {
+          "ref": "492dd7a734",
+          "note": "Leads with the electric-vehicle idea and puts critics' safety concerns in the headline."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "d078104247",
+          "takeaway": "Headline and summary only: details buybacks and training, union unhappy.",
+          "read_full": false
+        },
+        {
+          "ref": "94e9892774",
+          "takeaway": "Headline only: the medallion buyback.",
+          "read_full": false
+        },
+        {
+          "ref": "492dd7a734",
+          "takeaway": "Headline and summary only: e-carriage and e-bike alternatives, with safety questions.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "delivery-protection-act",
+      "headline": "Business groups threaten suit over Council bill making Amazon hire drivers directly",
+      "region": "City Council",
+      "importance": 3,
+      "summary": "The City Council's Delivery Protection Act would require large delivery companies such as Amazon to employ their delivery drivers directly instead of using contracted delivery firms. The Teamsters back it; business groups say they will sue if it passes.",
+      "why_it_matters": "The bill could change pay and job security for thousands of drivers who bring packages to New Yorkers' doors, and could affect how and how fast deliveries arrive.",
+      "background": "Amazon delivers most packages in the city through independent 'delivery service partners' that hire their own drivers. The Teamsters, who are trying to organize those drivers, pushed for Intro 518, sponsored by Councilmember Tiffany Cabán, after layoffs at contractors. Mayor Mamdani has endorsed it and backers say it has a veto-proof number of sponsors, but it has not come to a vote. Amazon and allied trade groups have lobbied against it.",
+      "facts": [
+        {
+          "text": "The Delivery Protection Act would force companies like Amazon to hire their delivery workers directly.",
+          "refs": [
+            "df862f1c2d",
+            "nyc-w7"
+          ]
+        },
+        {
+          "text": "Business groups have threatened a lawsuit if the bill passes.",
+          "refs": [
+            "296ecc47f8",
+            "nyc-w6"
+          ]
+        },
+        {
+          "text": "City & State reported that a coalition led by Amazon and the National Urban League sent a letter to Speaker Julie Menin urging members not to vote for the bill in its current form.",
+          "refs": [
+            "nyc-w6"
+          ]
+        },
+        {
+          "text": "Supporters said the bill had drawn a supermajority of Council sponsors after Mayor Mamdani endorsed it.",
+          "refs": [
+            "nyc-w7"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "df862f1c2d",
+          "note": "Frames the bill as a labor fight between Amazon and the Teamsters."
+        },
+        {
+          "ref": "296ecc47f8",
+          "note": "Leads with business groups' legal threat against the bill."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "df862f1c2d",
+          "takeaway": "Headline and summary only: explains the direct-hire requirement and the union fight.",
+          "read_full": false
+        },
+        {
+          "ref": "296ecc47f8",
+          "takeaway": "Headline only: business groups' lawsuit threat.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "flatbush-ave-bus-redesign",
+      "headline": "Flatbush Avenue becomes city's first bus rapid transit-style corridor",
+      "region": "Transit",
+      "importance": 3,
+      "summary": "The Mamdani administration cut the ribbon Tuesday on a redesigned stretch of Brooklyn's Flatbush Avenue that gives buses priority, which officials call the city's first bus rapid transit-style corridor. Construction began in April.",
+      "why_it_matters": "Tens of thousands of daily bus riders on one of Brooklyn's busiest roads should get faster, more reliable trips, and the project is a model the city says it will expand.",
+      "background": "Buses on Flatbush Avenue have been among the slowest in the city. In April the Department of Transportation began building center-running bus lanes between Livingston Street and Grand Army Plaza. Mayor Mamdani campaigned on fast and free buses, and this is the largest bus lane project completed since he took office in January. The city has said a full bus rapid transit corridor is planned by 2030.",
+      "facts": [
+        {
+          "text": "The administration held a ribbon cutting Tuesday on the redesign, described as the city's first foray into bus rapid transit.",
+          "refs": [
+            "5e6f04dda7",
+            "cdbeb7ab3f"
+          ]
+        },
+        {
+          "text": "The project broke ground in April.",
+          "refs": [
+            "5e6f04dda7",
+            "nyc-w8"
+          ]
+        },
+        {
+          "text": "It is the most ambitious bus lane project the city has completed since Mamdani took office, Gothamist reported.",
+          "refs": [
+            "cdbeb7ab3f"
+          ]
+        },
+        {
+          "text": "The city said the redesign adds center-running bus lanes from Livingston Street to Grand Army Plaza.",
+          "refs": [
+            "nyc-w8"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "cdbeb7ab3f",
+          "note": "Presents the opening as a new day for bus riders."
+        },
+        {
+          "ref": "5e6f04dda7",
+          "note": "Frames it as a milestone: the first BRT-style corridor in the city."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "cdbeb7ab3f",
+          "takeaway": "Headline and summary only: the scale of the project under Mamdani.",
+          "read_full": false
+        },
+        {
+          "ref": "5e6f04dda7",
+          "takeaway": "Headline and summary only: ribbon cutting and timeline.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mta-subway-signals-2050",
+      "headline": "MTA aims to modernize signals across the entire subway by 2050",
+      "region": "Transit",
+      "importance": 2,
+      "summary": "MTA Chair Janno Lieber announced a plan to install modern signals throughout the subway system by 2050. Only Gothamist covered the announcement in the digest.",
+      "why_it_matters": "Old signals are a major cause of subway delays; modern ones let trains run closer together and more reliably, but riders would see the full benefit only over decades.",
+      "background": "Much of the subway still runs on signals dating to the 1930s. Newer communications-based train control (CBTC) systems, already on lines such as the L and 7, let trains run more frequently. The MTA's 2025-2029 capital plan funds signal work on dozens of miles of track, but an MTA consultant has reported that every current signal upgrade is behind schedule.",
+      "facts": [
+        {
+          "text": "MTA Chair Janno Lieber announced a plan to install modern signals in all subways by 2050.",
+          "refs": [
+            "67eb8122c8"
+          ]
+        },
+        {
+          "text": "The MTA's 2025-2029 capital plan funds signal modernization on more than 75 miles of track.",
+          "refs": [
+            "nyc-w10"
+          ]
+        },
+        {
+          "text": "A consultant to the MTA found that every subway signal upgrade under way is behind schedule, Gothamist reported earlier.",
+          "refs": [
+            "nyc-w9"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "67eb8122c8",
+          "note": "Uses a quote, 'the whole damn system, finally,' to cast the plan as long overdue."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "67eb8122c8",
+          "takeaway": "Headline and summary only: the 2050 systemwide signal goal.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "nyc-w1",
+      "url": "https://commercialobserver.com/2026/11/fatal-building-collapse-brooklyn-1321-flatbush-avenue-safety/",
+      "title": "Development Site Next to Fatal Flatbush Building Collapse Faced Safety Issues",
+      "outlet": "Commercial Observer"
+    },
+    {
+      "id": "nyc-w2",
+      "url": "https://www.6sqft.com/flatbush-brooklyn-building-collapse/",
+      "title": "Flatbush building collapse leaves at least 8 dead, 17 injured",
+      "outlet": "6sqft"
+    },
+    {
+      "id": "nyc-w3",
+      "url": "https://abc7ny.com/post/nyc-horse-carriage-drivers-rally-plan-phase-industry-2028/19943934/",
+      "title": "Carriage drivers, union leaders oppose NYC plan to eliminate industry by mid-2028",
+      "outlet": "ABC7 New York"
+    },
+    {
+      "id": "nyc-w4",
+      "url": "https://ny1.com/nyc/manhattan/news/2026/10/13/mayor-and-city-council-speaker-agree-to-ban-horse-carriages-in-nyc",
+      "title": "Mayor and City Council speaker agree to ban horse carriages in NYC",
+      "outlet": "NY1"
+    },
+    {
+      "id": "nyc-w5",
+      "url": "https://www.chalkbeat.org/newyork/2026/11/16/nyc-2026-27-public-school-student-enrollment-drop-pressures-budget-closures/",
+      "title": "NYC public school enrollment drops by 23,000 students, raising tough questions over budgets and closures",
+      "outlet": "Chalkbeat"
+    },
+    {
+      "id": "nyc-w6",
+      "url": "https://www.cityandstateny.com/policy/2026/11/amazon-national-urban-league-threaten-sue-city-if-delivery-protection-act-passes/417239/",
+      "title": "Amazon, National Urban League threaten to sue city if Delivery Protection Act passes",
+      "outlet": "City & State NY"
+    },
+    {
+      "id": "nyc-w7",
+      "url": "https://amsterdamnews.com/news/2026/08/20/nyc-officials-show-growing-support-for-delivery-protection-act/",
+      "title": "NYC officials show growing support for Delivery Protection Act",
+      "outlet": "Amsterdam News"
+    },
+    {
+      "id": "nyc-w8",
+      "url": "https://www.nyc.gov/html/dot/html/pr2026/nyc-dot-begins-reconstruction-of-flatbush-avenue.shtml",
+      "title": "NYC DOT begins reconstruction of Flatbush Avenue",
+      "outlet": "NYC DOT"
+    },
+    {
+      "id": "nyc-w9",
+      "url": "https://api-prod.gothamist.com/news/every-nyc-subway-signal-upgrade-is-far-behind-schedule-mta-consultant-says",
+      "title": "Every NYC subway signal upgrade is far behind schedule, MTA consultant says",
+      "outlet": "Gothamist"
+    },
+    {
+      "id": "nyc-w10",
+      "url": "https://mta.info/press-release/mta-releases-proposed-2025-2029-capital-plan",
+      "title": "MTA releases proposed 2025-2029 Capital Plan",
+      "outlet": "MTA"
+    }
+  ]
+}

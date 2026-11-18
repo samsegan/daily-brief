@@ -1,0 +1,76 @@
+{
+  "overview": "Ukraine struck the Kerch Bridge linking Russia to occupied Crimea, partly collapsing a span, as President Trump arrived in Shenzhen for the APEC summit ahead of Thursday's first three-way talks with China's Xi Jinping and Russia's Vladimir Putin. In the Gulf, Iran fired at targets in Kuwait and Bahrain after US jets struck a missile site on Iran's Qeshm Island. At home, Democrat Mary Peltola won Alaska's Senate race, giving Democrats a 56-44 majority in January, Secretary of State Marco Rubio said there is no evidence linking a run of tech outages at banks, airlines and government networks, and the US lost its measles elimination status after 26 years. Nvidia beat forecasts in its first report since Jensen Huang's resignation and said he won't return, lifting tech stocks ahead of Anthropic's IPO.",
+  "markets": {
+    "summary": "U.S. stocks fell into Tuesday's close, with the Nasdaq down 0.7%, as investors braced for Nvidia's first earnings report since its chief executive Jensen Huang resigned. The chipmaker then reported revenue about double a year earlier and raised its forecasts, and stock futures and global tech shares rose on Wednesday morning as the results eased worries that spending on artificial intelligence was slowing. Interest rates are pulling the other way: St. Louis Fed President Alberto Musalem said the Fed may need several more rate hikes by spring to bring inflation (3.7% in September) down, and gold fell to its lowest in more than a year as traders bet on those hikes. The 10-year Treasury yield, a benchmark for mortgages and other loans, is above 5%. Later Wednesday, investors get the Fed's meeting minutes and Anthropic's IPO pricing, a test of appetite for AI stocks.",
+    "movers": [
+      {
+        "symbol": "NASDAQCOM",
+        "why": "The tech-heavy Nasdaq fell 0.7% on Tuesday as investors waited for Nvidia's first earnings report since Jensen Huang's resignation; stock futures rose overnight after the results beat expectations, per The Wall Street Journal."
+      },
+      {
+        "symbol": "NIKKEI225",
+        "why": "Japan's main index fell 1.3% and is down almost 10% over the past month, tracking the global sell-off in chip and AI-linked stocks."
+      },
+      {
+        "symbol": "DGS10",
+        "why": "The 10-year Treasury yield is at 5.12%, held up by talk of more Fed rate hikes; that keeps the average 30-year mortgage rate above 7%."
+      },
+      {
+        "symbol": "CBBTCUSD",
+        "why": "Bitcoin is down about 21% over the past month; the cause isn't clear from today's coverage, though it has fallen alongside other risky assets such as tech stocks."
+      }
+    ],
+    "concept": {
+      "term": "FOMC minutes",
+      "explanation": "The Federal Open Market Committee is the group of Federal Reserve officials who vote on interest rates about eight times a year. Three weeks after each meeting, the Fed publishes the minutes: a detailed summary of what officials argued about, including how many worried about inflation versus unemployment. Investors read them for hints about the next rate decision, because a hint of higher rates can push up Treasury yields within minutes. Those yields feed into the rates on mortgages, car loans and credit cards, so the minutes can nudge what you pay to borrow even though nothing is decided in them."
+    },
+    "watch": [
+      "Wed Nov 18: Minutes of the Fed's October meeting (2 p.m. ET)",
+      "Wed Nov 18: Anthropic expected to price its IPO, with Nasdaq trading set to begin Thursday",
+      "Thu Nov 19: Trump, Xi and Putin due to hold three-way talks at the APEC summit in Shenzhen",
+      "Thu Nov 19: Walmart third-quarter earnings (expected before the market opens)"
+    ]
+  },
+  "trending": [
+    {
+      "title": "Robert Pattinson as James Bond",
+      "context": "Reports that Pattinson will be the next 007 sent his Wikipedia page to the top of the charts and lifted searches for Daniel Craig and the list of Bond films.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "Jensen Huang",
+      "context": "Nvidia's board said it won't reinstate its former CEO, who resigned last week, as the company reported its first earnings without him.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "Tech outages",
+      "context": "Bluesky users are posting about a run of outages at Microsoft, the FAA and Zelle; Secretary of State Marco Rubio said there's no evidence they are linked.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "US loses measles elimination status",
+      "context": "Posts spread after the Pan American Health Organization ruled that measles is again endemic in the US after 12 months of continuous spread, ending a status held for 26 years.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Xi Jinping",
+      "context": "Searches rose as China's leader greeted President Trump on the tarmac in Shenzhen ahead of three-way talks with Vladimir Putin.",
+      "signal": "google"
+    },
+    {
+      "title": "SS United States",
+      "context": "The retired ocean liner was sunk in the Gulf of Mexico to become what is described as the world's largest artificial reef.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "Black Friday deals 2026",
+      "context": "Shoppers are already searching for early discounts ahead of the Nov. 27 sale day.",
+      "signal": "google"
+    },
+    {
+      "title": "Booker Prize",
+      "context": "M. John Harrison's novel The End of Everything won this year's Booker Prize for fiction.",
+      "signal": "wikipedia_news"
+    }
+  ]
+}
