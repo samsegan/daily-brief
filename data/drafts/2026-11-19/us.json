@@ -1,0 +1,798 @@
+{
+  "stories": [
+    {
+      "id": "jeffries-speaker-nomination",
+      "headline": "House Democrats nominate Hakeem Jeffries for speaker; seven newcomers say they voted no",
+      "region": "Congress",
+      "importance": 5,
+      "summary": "House Democrats chose Minority Leader Hakeem Jeffries on Wednesday as their nominee for speaker in the new Congress, which takes office in January. The vote was by secret ballot, but seven incoming Democratic members said publicly that they voted against him. The full House still has to elect the speaker when it convenes.",
+      "why_it_matters": "The speaker decides which bills reach the House floor, so Jeffries would shape what Democrats try to pass, from spending bills to investigations of the Trump administration, after the party takes control in January.",
+      "background": "Democrats won control of both the House and the Senate in the Nov. 3 midterm elections. Jeffries, a Brooklyn congressman, has led House Democrats since 2023, when he succeeded Nancy Pelosi, and has been the minority leader under Republican control. Some progressives and activist groups had pushed incoming members not to back him, arguing the party needs new leadership, while supporters point to the election results. If elected by the full House, he would be the first Black speaker.",
+      "facts": [
+        {
+          "text": "House Democrats nominated Jeffries for speaker on Wednesday, Nov. 18, in a secret-ballot caucus vote.",
+          "refs": [
+            "d2dd1e13d0",
+            "36c00fa2bd",
+            "acf120fffe"
+          ]
+        },
+        {
+          "text": "Seven incoming members of the House Democratic Caucus said publicly that they voted against his nomination, NBC News reported; The Washington Post put the number at at least seven progressives.",
+          "refs": [
+            "2a6953648b",
+            "d8bb661227"
+          ]
+        },
+        {
+          "text": "If the full House elects him in January, Jeffries would be the first Black speaker of the House.",
+          "refs": [
+            "351c768ee8",
+            "aae2207c62"
+          ]
+        },
+        {
+          "text": "Jeffries told Democrats their job was to fight what he called \"Maga extremism\" rather than each other, according to The Guardian.",
+          "refs": [
+            "c38a95a63f"
+          ]
+        },
+        {
+          "text": "NPR reported that Democrats are also preparing investigations into the Trump administration to begin once they take control in January.",
+          "refs": [
+            "acf120fffe"
+          ]
+        },
+        {
+          "text": "In the week after the midterms, some progressives argued Jeffries was not the right person for the job, TheGrio reported.",
+          "refs": [
+            "us-w1"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "aae2207c62",
+          "note": "Leads with the historic first of a Black speaker."
+        },
+        {
+          "ref": "2a6953648b",
+          "note": "Centers the progressive defectors and argues they showed the limits of their power."
+        },
+        {
+          "ref": "351c768ee8",
+          "note": "Local angle: the nomination as seen by New York City's left, which it describes as wary."
+        },
+        {
+          "ref": "509b576ee9",
+          "note": "Focuses on explaining why some Democrats voted no rather than on the outcome."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "d2dd1e13d0",
+          "takeaway": "Straight report that Jeffries easily won the nomination.",
+          "read_full": false
+        },
+        {
+          "ref": "2a6953648b",
+          "takeaway": "Newsletter analysis of the seven newcomers who said they voted against him.",
+          "read_full": false
+        },
+        {
+          "ref": "acf120fffe",
+          "takeaway": "Pairs the nomination with Democrats' plans to investigate Trump's orbit.",
+          "read_full": false
+        },
+        {
+          "ref": "36c00fa2bd",
+          "takeaway": "Brief news-wrap item on the nomination.",
+          "read_full": false
+        },
+        {
+          "ref": "d8bb661227",
+          "takeaway": "Headline only (paywalled): counts at least seven progressive no votes.",
+          "read_full": false
+        },
+        {
+          "ref": "aae2207c62",
+          "takeaway": "Headline only (paywalled): emphasizes the historic first.",
+          "read_full": false
+        },
+        {
+          "ref": "351c768ee8",
+          "takeaway": "New York angle on progressive wariness toward Jeffries.",
+          "read_full": false
+        },
+        {
+          "ref": "509b576ee9",
+          "takeaway": "Headline only: explainer on the no votes.",
+          "read_full": false
+        },
+        {
+          "ref": "c38a95a63f",
+          "takeaway": "Live blog leading with Jeffries' call for party unity.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "musk-midterm-spending-regret",
+      "headline": "Musk says he feels 'pretty foolish' about his midterm spending and is 'not MAGA'",
+      "region": "Elections",
+      "importance": 4,
+      "summary": "Elon Musk said Wednesday at the New York Times DealBook Summit that he felt \"pretty foolish\" about spending hundreds of millions of dollars to help Republicans in the midterms, in which the party suffered heavy losses. He also said he is \"not MAGA\" and described himself as a political moderate.",
+      "why_it_matters": "Musk was one of the biggest donors of the midterms; whether he keeps funding Republicans could shape how much money flows into the 2028 elections.",
+      "background": "Musk, who runs Tesla and SpaceX, spent heavily to elect Donald Trump in 2024 and later led the administration's cost-cutting effort known as DOGE. In 2025 he said he would cut back on political spending, but he went on to fund Republican candidates in the 2026 midterms. Democrats won control of both chambers of Congress on Nov. 3, flipping nine Senate seats.",
+      "facts": [
+        {
+          "text": "Musk said at the DealBook Summit on Wednesday that he felt \"pretty foolish\" about how much he spent on this year's midterm elections, Reuters reported.",
+          "refs": [
+            "18ba4f39b8",
+            "9623a6948b"
+          ]
+        },
+        {
+          "text": "He said \"I'm not MAGA\" and that there are \"positives and negatives in both parties.\"",
+          "refs": [
+            "dc8971aae4",
+            "977d4045e8",
+            "6b5602d51b"
+          ]
+        },
+        {
+          "text": "He said the result showed that American elections are \"not just about money,\" according to The Hindu.",
+          "refs": [
+            "ce07821039"
+          ]
+        },
+        {
+          "text": "An AP analysis after the election found Musk spent at least $445 million to boost Republicans in the midterms.",
+          "refs": [
+            "us-w4"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "How much Musk spent on the midterms",
+          "positions": [
+            {
+              "claim": "About $446 million, a record, per BBC News; AP put it at at least $445 million.",
+              "refs": [
+                "d412c50db1",
+                "us-w4"
+              ]
+            },
+            {
+              "claim": "Nearly $500 million, per the New York Post.",
+              "refs": [
+                "09b73bdd84"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "09b73bdd84",
+          "note": "Leads with the regret and a near-$500 million figure spent \"to keep Republicans in power.\""
+        },
+        {
+          "ref": "597527a251",
+          "note": "Frames the remarks as Musk distancing himself from Trump."
+        },
+        {
+          "ref": "bb88d1937d",
+          "note": "Business framing: the midterm comments sit alongside Musk's remarks on Jensen Huang and SpaceX-Tesla overlaps."
+        },
+        {
+          "ref": "c0f4b43c29",
+          "note": "Says Musk \"plays down\" his GOP support, suggesting an effort to recast his record."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "18ba4f39b8",
+          "takeaway": "Reuters wire story: regret over spending after the Republican rout.",
+          "read_full": false
+        },
+        {
+          "ref": "9623a6948b",
+          "takeaway": "Pairs the 'not MAGA' line with the spending regret.",
+          "read_full": false
+        },
+        {
+          "ref": "d412c50db1",
+          "takeaway": "Gives a record $446 million figure and notes he distanced himself from MAGA.",
+          "read_full": false
+        },
+        {
+          "ref": "09b73bdd84",
+          "takeaway": "Uses a nearly $500 million figure.",
+          "read_full": false
+        },
+        {
+          "ref": "dc8971aae4",
+          "takeaway": "Contrasts the 'not Maga' claim with his close alignment with Trump since 2024.",
+          "read_full": false
+        },
+        {
+          "ref": "6b5602d51b",
+          "takeaway": "Quotes him rejecting \"blind adherence\" to Republican policies.",
+          "read_full": false
+        },
+        {
+          "ref": "bb88d1937d",
+          "takeaway": "Covers the interview's business topics as well as politics.",
+          "read_full": false
+        },
+        {
+          "ref": "ce07821039",
+          "takeaway": "Highlights his line that elections are not just about money.",
+          "read_full": false
+        },
+        {
+          "ref": "c0f4b43c29",
+          "takeaway": "Headline and summary only (paywalled): portrays a bid to look moderate.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "cornyn-blocks-gaiser",
+      "headline": "Cornyn blocks Trump's pick of a Justice Department lawyer for a Texas federal judgeship",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "Sen. John Cornyn, a Texas Republican leaving office in January, said Wednesday he will block President Trump's nomination of T. Elliot Gaiser, head of the Justice Department's Office of Legal Counsel, to a federal district court seat in the Dallas area. The move comes as the Republican-led Senate tries to fill remaining court vacancies before Democrats take over.",
+      "why_it_matters": "Federal district judges serve for life and decide everyday federal cases, from criminal trials to disputes over government policy; seats left open in January will be filled under a Democratic Senate.",
+      "background": "Under a Senate Judiciary Committee custom called the blue slip, a home-state senator can stall a district court nominee by withholding approval. Texas senators normally screen candidates through a bipartisan evaluation committee. Cornyn lost his Republican primary this year to Attorney General Ken Paxton, whom Trump endorsed. Other Republican senators have also resisted some of Trump's late judicial nominees.",
+      "facts": [
+        {
+          "text": "Cornyn said he will block Gaiser's nomination to a U.S. district court seat in Texas, AP reported.",
+          "refs": [
+            "0da4f713c3",
+            "845734dc49"
+          ]
+        },
+        {
+          "text": "Gaiser leads the Justice Department's Office of Legal Counsel and was nominated for the court covering the Dallas area.",
+          "refs": [
+            "845734dc49"
+          ]
+        },
+        {
+          "text": "The Republican-led Senate is working to fill remaining federal court vacancies before Democrats take control in January.",
+          "refs": [
+            "1b4433bf2d"
+          ]
+        },
+        {
+          "text": "CNN reported that Cornyn objected because Trump did not choose a nominee from Texas.",
+          "refs": [
+            "60ccca82b4"
+          ]
+        },
+        {
+          "text": "Earlier reporting said Gaiser's main tie to Texas appeared to be a federal appeals court clerkship.",
+          "refs": [
+            "us-w6"
+          ]
+        },
+        {
+          "text": "AP reported last week that resistance from fellow Republicans had become an obstacle to confirming Trump's judicial picks.",
+          "refs": [
+            "us-w5"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "60ccca82b4",
+          "note": "Puts Cornyn's motive in the headline: Trump didn't choose a Texan."
+        },
+        {
+          "ref": "845734dc49",
+          "note": "Frames it as a block on Trump's nominee and names the nominee and his DOJ post."
+        },
+        {
+          "ref": "1b4433bf2d",
+          "note": "AP wording stresses Cornyn as a senior outgoing senator amid a race to fill vacancies."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "0da4f713c3",
+          "takeaway": "AP wire report; also carried by ABC, PBS and The Washington Post.",
+          "read_full": false
+        },
+        {
+          "ref": "1b4433bf2d",
+          "takeaway": "AP text adds the push to fill vacancies before January.",
+          "read_full": false
+        },
+        {
+          "ref": "845734dc49",
+          "takeaway": "Names Gaiser and the Dallas-area seat.",
+          "read_full": false
+        },
+        {
+          "ref": "60ccca82b4",
+          "takeaway": "Headline only: focuses on the Texas-residency objection.",
+          "read_full": false
+        },
+        {
+          "ref": "abdf110286",
+          "takeaway": "AP wire copy.",
+          "read_full": false
+        }
+      ],
+      "social": "Commentary in the conservative Federalist argued before the block that confirming nominees like Gaiser should be a top Senate priority."
+    },
+    {
+      "id": "oneill-nsf-nomination-stalled",
+      "headline": "Cassidy cancels committee vote on Trump's pick to lead the National Science Foundation",
+      "region": "Congress",
+      "importance": 3,
+      "summary": "Sen. Bill Cassidy, the Republican chair of the Senate health committee, called off Wednesday's planned vote on Jim O'Neill, President Trump's nominee to run the National Science Foundation, saying O'Neill \"did not do enough to stand up for science\" in his earlier role as a Trump health official. It came a day after the White House dropped its nominee to lead the FDA, Heidi Overton.",
+      "why_it_matters": "The NSF funds much of the basic research done at U.S. universities, and the FDA approves drugs and food safety rules; both agencies remain without confirmed leaders.",
+      "background": "O'Neill is a venture capitalist and former deputy health secretary under Robert F. Kennedy Jr. Scientific groups had asked for a public confirmation hearing, and the committee had scheduled a vote without one. Overton, a White House domestic policy aide, was nominated for FDA commissioner in August and faced concerns from senators in both parties. Republicans control the Senate until January.",
+      "facts": [
+        {
+          "text": "Cassidy canceled the committee vote on O'Neill's nomination and said O'Neill \"did not do enough to stand up for science.\"",
+          "refs": [
+            "28b4962422",
+            "421fe2bd9b"
+          ]
+        },
+        {
+          "text": "The New York Times reported that O'Neill, a venture capitalist, faced bipartisan concern about whether he would stand up for science.",
+          "refs": [
+            "a486a12b28"
+          ]
+        },
+        {
+          "text": "The Union of Concerned Scientists had urged senators to reject the nomination ahead of the scheduled vote.",
+          "refs": [
+            "us-w7"
+          ]
+        },
+        {
+          "text": "The White House dropped Heidi Overton's nomination to lead the FDA because of a lack of support in Congress, a White House official confirmed.",
+          "refs": [
+            "d0d3c1b9bf",
+            "91a7398c1a",
+            "bdb11a9424"
+          ]
+        },
+        {
+          "text": "Before the decision, AP reported that administration officials were weighing whether to shore up Overton's nomination or abandon it amid pushback from both parties.",
+          "refs": [
+            "us-w8"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "421fe2bd9b",
+          "note": "Describes it as the committee rejecting the nominee."
+        },
+        {
+          "ref": "385b829bfe",
+          "note": "Groups the NSF and FDA picks together as doomed by a lack of Republican support."
+        },
+        {
+          "ref": "c58ae7f4d2",
+          "note": "Frames the Overton withdrawal as a win for the MAHA movement."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "28b4962422",
+          "takeaway": "Reports the canceled vote with Cassidy's reasoning.",
+          "read_full": false
+        },
+        {
+          "ref": "421fe2bd9b",
+          "takeaway": "Says O'Neill will not get his hearing; quotes Cassidy.",
+          "read_full": false
+        },
+        {
+          "ref": "a486a12b28",
+          "takeaway": "Headline and summary only (paywalled): describes O'Neill as a Peter Thiel associate.",
+          "read_full": false
+        },
+        {
+          "ref": "385b829bfe",
+          "takeaway": "Headline only: ties both nominations together.",
+          "read_full": false
+        },
+        {
+          "ref": "d0d3c1b9bf",
+          "takeaway": "Scoop that the White House is dropping Overton.",
+          "read_full": false
+        },
+        {
+          "ref": "91a7398c1a",
+          "takeaway": "Confirms the Overton withdrawal after Republican concerns.",
+          "read_full": false
+        },
+        {
+          "ref": "bdb11a9424",
+          "takeaway": "Confirms the withdrawal.",
+          "read_full": false
+        },
+        {
+          "ref": "c58ae7f4d2",
+          "takeaway": "Covers MAHA activists welcoming the withdrawal.",
+          "read_full": false
+        }
+      ],
+      "social": "The Daily Caller reported that supporters of the Make America Healthy Again movement welcomed the Overton withdrawal."
+    },
+    {
+      "id": "trump-arch-block-extended",
+      "headline": "Judge extends order blocking construction of Trump's arch in Washington by two weeks",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "U.S. District Judge Tanya Chutkan extended for 14 days her order barring the Trump administration from starting work on a planned triumphal arch in Washington. The order keeps the project on hold until at least Dec. 3 while the legal challenges proceed.",
+      "why_it_matters": "The case tests whether a president can fast-track a large monument on federal land in the capital without the review steps Congress set out in law.",
+      "background": "President Trump has proposed a roughly 250-foot memorial arch at Memorial Circle, near Arlington National Cemetery. The National Capital Planning Commission approved it on Nov. 5, and Chutkan issued a temporary restraining order hours later, saying the administration may have skipped steps required by the Commemorative Works Act. The challenges were brought by Vietnam War veterans and an architectural historian, and separately by the District of Columbia and Virginia.",
+      "facts": [
+        {
+          "text": "Judge Tanya Chutkan extended by 14 days her order blocking the administration from breaking ground on the arch, AP reported.",
+          "refs": [
+            "61639617f5",
+            "6a6c75093f",
+            "3dd08f1b8a"
+          ]
+        },
+        {
+          "text": "The project is on hold until at least Dec. 3, Fox News reported.",
+          "refs": [
+            "c189a49335"
+          ]
+        },
+        {
+          "text": "Chutkan first blocked construction on Nov. 5, hours after the National Capital Planning Commission approved the arch in an 8-4 vote.",
+          "refs": [
+            "us-w9",
+            "us-w10"
+          ]
+        },
+        {
+          "text": "The original order said the administration may have violated the Commemorative Works Act by bypassing required steps.",
+          "refs": [
+            "us-w9"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "c189a49335",
+          "note": "Calls the ruling \"another blow\" to a \"massive\" project, stressing setbacks for Trump."
+        },
+        {
+          "ref": "4caab09f3b",
+          "note": "AP wording: neutral, procedural \"14-day extension.\""
+        },
+        {
+          "ref": "83515c3b0b",
+          "note": "Uses \"triumphal arch\" and the two-week delay, without the judge's name."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "61639617f5",
+          "takeaway": "AP wire report on the extension; also carried by ABC and The Washington Post.",
+          "read_full": false
+        },
+        {
+          "ref": "4caab09f3b",
+          "takeaway": "AP copy describing it as a memorial arch.",
+          "read_full": false
+        },
+        {
+          "ref": "6a6c75093f",
+          "takeaway": "Names Chutkan and the two-week extension.",
+          "read_full": false
+        },
+        {
+          "ref": "c189a49335",
+          "takeaway": "Gives the Dec. 3 date.",
+          "read_full": false
+        },
+        {
+          "ref": "3dd08f1b8a",
+          "takeaway": "Headline and summary only (paywalled).",
+          "read_full": false
+        },
+        {
+          "ref": "83515c3b0b",
+          "takeaway": "Headline only.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "van-hollen-iran-shutdown",
+      "headline": "Van Hollen's demand to end the Iran war through a funding bill worries fellow Democrats",
+      "region": "Congress",
+      "importance": 3,
+      "summary": "Sen. Chris Van Hollen, who is challenging Chuck Schumer for Senate Democratic leader, wants Democrats to insist that any government funding bill include language to immediately end the U.S. war with Iran. Other Senate Democrats warned that the demand could lead to a government shutdown before the holidays, The Hill reported. Government funding runs out in less than a month.",
+      "why_it_matters": "A shutdown would delay paychecks for federal workers and disrupt some government services; the fight also signals how hard Democrats plan to push on the Iran war once they control Congress.",
+      "background": "After Democrats won the Senate on Nov. 3, Van Hollen, of Maryland, announced a challenge to Schumer, of New York, who has led Senate Democrats since 2017. Schumer has far more public endorsements, and the leader is chosen by secret ballot. The U.S. is fighting a war with Iran and enforcing a naval blockade. Republicans control Congress until January and have moved slowly on full-year spending bills.",
+      "facts": [
+        {
+          "text": "Van Hollen has called for adding language to any government funding bill to immediately end the Iran war, and other Senate Democrats warned this could cause a shutdown before the holidays, The Hill reported.",
+          "refs": [
+            "0ccbd2733e"
+          ]
+        },
+        {
+          "text": "Congress has less than a month before its deadline to fund the government, and neither party has settled on a strategy, according to The Hill.",
+          "refs": [
+            "9eb1c9c627"
+          ]
+        },
+        {
+          "text": "Schumer has far more public endorsements than Van Hollen in the leadership race, Axios reported.",
+          "refs": [
+            "9321f6ec53"
+          ]
+        },
+        {
+          "text": "Van Hollen also called for AI safeguards, saying failing to address AI risks would repeat the mistakes of the 1990s, Politico reported.",
+          "refs": [
+            "f4433c2794"
+          ]
+        },
+        {
+          "text": "CNN reported that positions on Israel are shaping the leadership contest.",
+          "refs": [
+            "d94701effa"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "0ccbd2733e",
+          "note": "Frames Van Hollen's stance as \"hard-line\" and leads with the shutdown risk."
+        },
+        {
+          "ref": "d94701effa",
+          "note": "Casts the leadership race as a proxy fight over Israel."
+        },
+        {
+          "ref": "66d569506b",
+          "note": "Presents it as Schumer facing a leadership challenge."
+        },
+        {
+          "ref": "c0344d1ba1",
+          "note": "Emphasizes both men digging in."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "0ccbd2733e",
+          "takeaway": "Reports Democratic pushback against tying funding to ending the Iran war.",
+          "read_full": false
+        },
+        {
+          "ref": "9eb1c9c627",
+          "takeaway": "Lays out the coming shutdown fight and deadline.",
+          "read_full": false
+        },
+        {
+          "ref": "9321f6ec53",
+          "takeaway": "Tracks endorsements in the Van Hollen-Schumer race.",
+          "read_full": false
+        },
+        {
+          "ref": "f4433c2794",
+          "takeaway": "Van Hollen's AI policy pitch during his leadership bid.",
+          "read_full": false
+        },
+        {
+          "ref": "d94701effa",
+          "takeaway": "Headline only: Israel as a dividing line.",
+          "read_full": false
+        },
+        {
+          "ref": "66d569506b",
+          "takeaway": "Headline only.",
+          "read_full": false
+        },
+        {
+          "ref": "c0344d1ba1",
+          "takeaway": "Headline only (paywalled).",
+          "read_full": false
+        },
+        {
+          "ref": "2c020bb585",
+          "takeaway": "Headline only (paywalled): list of senators backing each candidate.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "alaska-senate-doj-probe",
+      "headline": "Justice Department widens 'Decoy Dan' probe as Alaska prepares to certify Peltola's win",
+      "region": "Elections",
+      "importance": 3,
+      "summary": "A day after Democrat Mary Peltola was declared the winner of Alaska's Senate race, Fox News reported that the Justice Department has issued about 200 subpoenas in a criminal probe tied to the candidacy of a second Dan Sullivan on the ballot. The result is scheduled to be certified next week. In Alaska's House race, Republican Rep. Nick Begich won a second term.",
+      "why_it_matters": "The probe could become the basis for Republican challenges to a seat that gives Democrats a 56-44 Senate majority, though no court has questioned the count.",
+      "background": "Peltola beat Republican Sen. Dan S. Sullivan in a ranked-choice race that also included Dan J. Sullivan, a former schoolteacher with the same name. Republicans alleged he was recruited to siphon votes from the incumbent; he and Peltola's campaign have denied that. The Justice Department opened a criminal investigation and also sued to block certification, a suit a federal judge dismissed. The Alaska Supreme Court had ruled that Dan J. Sullivan's candidacy was legal.",
+      "facts": [
+        {
+          "text": "The Justice Department has issued 200 subpoenas in a multi-state criminal probe tied to Dan J. Sullivan's Senate run, Fox News reported, citing a law enforcement source.",
+          "refs": [
+            "1ffdb79d5e"
+          ]
+        },
+        {
+          "text": "The race is scheduled to be certified next week, and the Justice Department is investigating after Republicans made cheating allegations against Peltola, The New York Times reported.",
+          "refs": [
+            "e9397b1a8b"
+          ]
+        },
+        {
+          "text": "Earlier, prosecutors issued grand jury subpoenas, including to Peltola's campaign, as they examined whether getting Dan J. Sullivan on the ballot violated federal conspiracy laws, ABC News reported.",
+          "refs": [
+            "us-w3",
+            "us-w2"
+          ]
+        },
+        {
+          "text": "Peltola's win gave Democrats a 56-44 Senate majority and their ninth flipped seat, their biggest midterm Senate gain in nearly 70 years.",
+          "refs": [
+            "1be8a13483",
+            "73d17e344f"
+          ]
+        },
+        {
+          "text": "Republican Rep. Nick Begich won reelection to Alaska's at-large House seat, defeating Democratic-backed independent Bill Hill.",
+          "refs": [
+            "e06539deaa",
+            "fe00ebc025"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "1ffdb79d5e",
+          "note": "Puts the subpoenas first and Peltola's win second."
+        },
+        {
+          "ref": "1be8a13483",
+          "note": "Frames the result as historic for Democrats, with no mention of the probe in the headline."
+        },
+        {
+          "ref": "e9397b1a8b",
+          "note": "Forward-looking: certification and the DOJ investigation."
+        },
+        {
+          "ref": "d136f9b69c",
+          "note": "Frames Begich's win as surviving a \"blue wave.\""
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "1ffdb79d5e",
+          "takeaway": "Leads with the subpoena count from a single law enforcement source.",
+          "read_full": false
+        },
+        {
+          "ref": "e9397b1a8b",
+          "takeaway": "Headline and summary only (paywalled): certification timeline and the DOJ probe.",
+          "read_full": false
+        },
+        {
+          "ref": "1be8a13483",
+          "takeaway": "Puts the win in historical context of Senate flips.",
+          "read_full": false
+        },
+        {
+          "ref": "73d17e344f",
+          "takeaway": "Reports the flip and the 56-seat total.",
+          "read_full": false
+        },
+        {
+          "ref": "e06539deaa",
+          "takeaway": "AP report on Begich's win as a rare GOP bright spot.",
+          "read_full": false
+        },
+        {
+          "ref": "fe00ebc025",
+          "takeaway": "Names Begich's opponents.",
+          "read_full": false
+        },
+        {
+          "ref": "d136f9b69c",
+          "takeaway": "Notes the GOP lost the Senate race and governorship in Alaska.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "us-w1",
+      "url": "https://thegrio.com/2026/11/13/hakeem-jeffries-speaker-black-history-democratic-divide/",
+      "title": "Hakeem Jeffries is on the verge of making Black history. A Democratic divide is complicating the moment",
+      "outlet": "TheGrio"
+    },
+    {
+      "id": "us-w2",
+      "url": "https://alaskabeacon.com/2026/08/21/is-a-u-s-department-of-justice-investigation-about-to-disrupt-alaskas-u-s-senate-race/",
+      "title": "Is a U.S. Department of Justice investigation about to disrupt Alaska's U.S. Senate race?",
+      "outlet": "Alaska Beacon"
+    },
+    {
+      "id": "us-w3",
+      "url": "https://abc30.com/story/alaska-governor-orders-probe-alleged-effort-confuse-senate-voters/19994586/",
+      "title": "DOJ issues new wave of subpoenas in criminal probe of Alaska Senate race, sources say",
+      "outlet": "ABC News"
+    },
+    {
+      "id": "us-w4",
+      "url": "https://www.wbtv.com/2026/11/05/elon-musk-spent-least-445-million-boost-republicans-midterms/",
+      "title": "Elon Musk spent at least $445 million to boost Republicans in the midterms",
+      "outlet": "Associated Press"
+    },
+    {
+      "id": "us-w5",
+      "url": "https://www.clickorlando.com/news/politics/2026/11/11/white-house-faces-unusual-obstacle-on-confirming-trump-judges-other-republicans/",
+      "title": "White House faces unusual obstacle on confirming Trump judges: other Republicans",
+      "outlet": "Associated Press"
+    },
+    {
+      "id": "us-w6",
+      "url": "https://news.bgov.com/us-law-week/doj-lawyer-gets-nod-for-texas-court-in-last-minute-judicial-push",
+      "title": "DOJ Lawyer Gets Nod for Texas Court in Late Judicial Push",
+      "outlet": "Bloomberg Law"
+    },
+    {
+      "id": "us-w7",
+      "url": "https://www.ucs.org/about/news/leader-national-science-foundation-should-bea-scientist-ucs-urges-no-vote-oneill",
+      "title": "Leader of National Science Foundation Should Be…A Scientist. UCS Urges \"No\" Vote on O'Neill",
+      "outlet": "Union of Concerned Scientists"
+    },
+    {
+      "id": "us-w8",
+      "url": "https://www.adn.com/nation-world/2026/11/16/white-house-weighs-next-steps-for-fda-nominee-heidi-overton-who-faces-bipartisan-pushback/",
+      "title": "White House weighs next steps for FDA nominee Heidi Overton, who faces bipartisan pushback",
+      "outlet": "Associated Press"
+    },
+    {
+      "id": "us-w9",
+      "url": "https://newschannel9.com/news/nation-world/trump-triumphal-arch-blocked-judge-chutkan-federal-construction-temporary-restraining-order-national-capital-planning-commission-vote-approval-arlington-memorial-circle-dc-virginia-lawsuit",
+      "title": "Judge blocks Trump's 250-foot triumphal arch hours after final planning approval",
+      "outlet": "The National Desk"
+    },
+    {
+      "id": "us-w10",
+      "url": "https://www.courthousenews.com/federal-judge-preemptively-blocks-arc-de-trump/",
+      "title": "Federal judge preemptively blocks Arc de Trump",
+      "outlet": "Courthouse News Service"
+    }
+  ]
+}

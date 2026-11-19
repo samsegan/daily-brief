@@ -1,0 +1,411 @@
+{
+  "stories": [
+    {
+      "id": "flatbush-collapse-neighbor-demolition",
+      "headline": "City will tear down building next to deadly Flatbush collapse",
+      "region": "Brooklyn",
+      "importance": 5,
+      "summary": "The city Department of Buildings said Wednesday evening that 1323 Flatbush Avenue, the apartment building beside last week's fatal collapse, is too unstable to repair and will be demolished. Inspectors are also reviewing about 160 construction sites tied to the contractors working next to the collapsed building, and The New York Times obtained video from an MTA bus that shows the moments before the building fell.",
+      "why_it_matters": "Residents of the damaged neighboring building lose their homes for good, and the citywide sweep of sites linked to the same contractors could pause construction near many New Yorkers' homes. Follow-up coverage in the digest comes from left-leaning and center outlets plus the right-leaning New York Post.",
+      "background": "Last week a three-story apartment building at 1321 Flatbush Avenue collapsed into a construction site next door, killing eight people, including two children. The Department of Buildings had issued a stop-work order at the neighboring demolition site earlier this year and later lifted it, and city records showed a cracked facade had been flagged months before the collapse. Mayor Zohran Mamdani ordered an emergency review of other jobs run by the firms involved. The official cause of the collapse has not yet been determined.",
+      "facts": [
+        {
+          "text": "The Department of Buildings said 1323 Flatbush Avenue, next to the collapse site, will be demolished.",
+          "refs": [
+            "c8ec097fb9",
+            "359cebce61"
+          ]
+        },
+        {
+          "text": "City engineers concluded the neighboring building is too unstable to be repaired safely, according to Gothamist.",
+          "refs": [
+            "c8ec097fb9"
+          ]
+        },
+        {
+          "text": "The collapse killed eight people: two children and six adults.",
+          "refs": [
+            "58b4b7ca06",
+            "d17055218f"
+          ]
+        },
+        {
+          "text": "Building inspectors launched an emergency review of conditions at 160 locations citywide where contractors from the collapse site have been working, Mayor Mamdani announced.",
+          "refs": [
+            "58b4b7ca06",
+            "nyc-w2"
+          ]
+        },
+        {
+          "text": "Video from an MTA bus captured the moments before the building fell, according to The New York Times.",
+          "refs": [
+            "d17055218f"
+          ]
+        },
+        {
+          "text": "Department of Buildings records showed a cracked facade at the building had been flagged months before the collapse.",
+          "refs": [
+            "nyc-w1"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "58b4b7ca06",
+          "note": "Leads with the inspection sweep of the contractors' other job sites, keeping the focus on accountability."
+        },
+        {
+          "ref": "d17055218f",
+          "note": "Leads with newly obtained bus video of the collapse itself; the demolition is secondary."
+        },
+        {
+          "ref": "359cebce61",
+          "note": "A short news item focused only on the demolition announcement."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "58b4b7ca06",
+          "takeaway": "From the digest summary: investigators swarm sites tied to the contractors; notes the 160-site review.",
+          "read_full": false
+        },
+        {
+          "ref": "c8ec097fb9",
+          "takeaway": "From the digest summary: engineers say the neighboring building cannot be safely repaired.",
+          "read_full": false
+        },
+        {
+          "ref": "d17055218f",
+          "takeaway": "Headline and summary only (paywalled): bus video of the collapse, plus the demolition decision.",
+          "read_full": false
+        },
+        {
+          "ref": "359cebce61",
+          "takeaway": "From the digest summary: brief report of the Department of Buildings demolition announcement.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "central-park-rape-suspect-court",
+      "headline": "Man accused of three Central Park rapes appears in Manhattan court",
+      "region": "Manhattan",
+      "importance": 4,
+      "summary": "Dereck Rivera-Deleon, arrested in Miami Beach and extradited to New York, appeared in Manhattan court Wednesday on rape charges tied to attacks near Central Park dating back to 2021. Prosecutors said DNA, photos and eyewitness identifications link him to three assaults; he did not enter a plea.",
+      "why_it_matters": "The arrest follows a string of attacks in one of the city's busiest public spaces, and the case will test how evidence gathered over five years holds up in court.",
+      "background": "Police had linked a series of sexual assaults near the eastern edge of Central Park, starting in July 2021, to one suspect. After an attack in late October, the NYPD circulated the suspect's picture, and Rivera-Deleon was arrested in Miami Beach on Nov. 10 in an operation with the U.S. Marshals Service. He was held in Florida pending extradition and has now been brought back to New York to face charges.",
+      "facts": [
+        {
+          "text": "Rivera-Deleon was extradited to New York and charged with two counts of rape, the NYPD said.",
+          "refs": [
+            "974e7f4c42"
+          ]
+        },
+        {
+          "text": "He made his first New York court appearance on Wednesday and did not enter a plea.",
+          "refs": [
+            "4496ea0d64",
+            "836e6b7cef"
+          ]
+        },
+        {
+          "text": "Prosecutors said they have DNA evidence and eyewitness identifications against him.",
+          "refs": [
+            "4496ea0d64",
+            "836e6b7cef"
+          ]
+        },
+        {
+          "text": "Prosecutors said he left New York after police circulated his picture.",
+          "refs": [
+            "1b65f0353d"
+          ]
+        },
+        {
+          "text": "He was arrested in Miami and is linked to three rapes near Central Park since 2021.",
+          "refs": [
+            "1bdc5a3001",
+            "nyc-w3"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "1b65f0353d",
+          "note": "Emphasizes the prosecution's claim that he fled the city after police released his photo."
+        },
+        {
+          "ref": "836e6b7cef",
+          "note": "Emphasizes the evidence, DNA and photos, prosecutors say links him to the assaults."
+        },
+        {
+          "ref": "1bdc5a3001",
+          "note": "Leads with the Miami arrest and the three-year span of the attacks rather than the court appearance."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "974e7f4c42",
+          "takeaway": "From the digest summary: NYPD announcement of the extradition and two rape charges.",
+          "read_full": false
+        },
+        {
+          "ref": "4496ea0d64",
+          "takeaway": "From the digest summary: court appearance with prosecutors citing DNA and eyewitness IDs.",
+          "read_full": false
+        },
+        {
+          "ref": "836e6b7cef",
+          "takeaway": "From the digest summary: details of the evidence and notes no plea was entered.",
+          "read_full": false
+        },
+        {
+          "ref": "1b65f0353d",
+          "takeaway": "Headline only: focuses on prosecutors' account that he fled after his photo circulated.",
+          "read_full": false
+        },
+        {
+          "ref": "1bdc5a3001",
+          "takeaway": "Headline only: arrest-focused framing.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mta-eagle-team-firings",
+      "headline": "MTA moves to fire nine bus fare inspectors after clashes with riders",
+      "region": "Transit",
+      "importance": 4,
+      "summary": "MTA officials brought disciplinary charges against nine members of the EAGLE Team, the unit that checks bus fares, and recommended that all nine be fired after an investigation into two violent incidents with riders. The unit's work was already halted in October.",
+      "why_it_matters": "The case shapes how, and whether, the MTA polices fare evasion on city buses, which affects everyday interactions between riders and transit staff.",
+      "background": "The MTA's Evasion and Graffiti Lawlessness Eradication (EAGLE) Teams were created to check fares on buses, especially on routes with all-door boarding. In October, videos of two separate scuffles between agents and riders in which agents appeared to use force drew attention, and the MTA pulled the teams from the bus system pending a review. An internal investigation found the conduct violated agency policy, and some progressive City Council members called for the squads to be eliminated.",
+      "facts": [
+        {
+          "text": "MTA officials filed disciplinary charges against nine EAGLE Team members and recommended that all of them be fired.",
+          "refs": [
+            "8732adaed9",
+            "465a6ce904",
+            "8c0e5665ac"
+          ]
+        },
+        {
+          "text": "The charges follow an investigation into two violent incidents in which team members clashed with bus riders while checking fare payment.",
+          "refs": [
+            "8732adaed9"
+          ]
+        },
+        {
+          "text": "The MTA had already suspended the fare enforcement agents' work on buses after the second incident in October.",
+          "refs": [
+            "8c0e5665ac",
+            "nyc-w4",
+            "nyc-w5"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "8732adaed9",
+          "note": "Attributes the move to the NYC Transit boss and describes the incidents as 'violent clashes'."
+        },
+        {
+          "ref": "465a6ce904",
+          "note": "Frames it as 'fare checkers' and 'incidents', a more neutral description of the conduct."
+        },
+        {
+          "ref": "8c0e5665ac",
+          "note": "Uses 'altercations' and places the firings after the unit's suspension."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "8732adaed9",
+          "takeaway": "From the digest summary: most detailed account, with the disciplinary charges and firing recommendation.",
+          "read_full": false
+        },
+        {
+          "ref": "465a6ce904",
+          "takeaway": "Headline only: MTA moves to fire nine fare checkers.",
+          "read_full": false
+        },
+        {
+          "ref": "8c0e5665ac",
+          "takeaway": "Headline and summary only (paywalled): notes the unit's work was halted first.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "rikers-first-demolition-2027",
+      "headline": "Mamdani plan would start demolishing a Rikers jail in 2027",
+      "region": "City Hall",
+      "importance": 4,
+      "summary": "The Mamdani administration plans to begin tearing down a jail on Rikers Island next year, starting with a nearly century-old jail and medical facility, as part of a new blueprint to close the complex, THE CITY reported. The city is not expected to meet its legal 2027 deadline to close Rikers entirely.",
+      "why_it_matters": "Closing Rikers is tied to building borough jails and lowering the jail population, decisions that affect public safety, city spending and the neighborhoods slated for new jails. The demolition plan itself was reported by one center outlet; the Daily News weighed in with an opinion piece.",
+      "background": "Rikers Island, the city's main jail complex in the East River, has long faced criticism over violence and deaths in custody. In 2019 the City Council passed a law to close it by August 2027 and replace it with four smaller jails in Manhattan, Brooklyn, Queens and the Bronx. Construction delays and a jail population above the new jails' capacity have put that deadline out of reach. Mayor Zohran Mamdani supported the closure during his campaign, while rival Andrew Cuomo proposed rebuilding on the island instead.",
+      "facts": [
+        {
+          "text": "The administration plans to begin demolishing a Rikers lockup in 2027, starting with a nearly century-old jail and medical facility, THE CITY reported.",
+          "refs": [
+            "012fd64087"
+          ]
+        },
+        {
+          "text": "The demolition is part of a broader new blueprint for shutting the jail complex, THE CITY reported.",
+          "refs": [
+            "012fd64087"
+          ]
+        },
+        {
+          "text": "The administration has said the city will not be ready to close Rikers by its 2027 legal deadline.",
+          "refs": [
+            "nyc-w6",
+            "nyc-w7"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "012fd64087",
+          "note": "Leads with a concrete date for the first demolition, framing the plan as progress."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "012fd64087",
+          "takeaway": "From the digest summary: the scoop on the demolition timeline and new closure blueprint.",
+          "read_full": false
+        },
+        {
+          "ref": "c7aad64bd6",
+          "takeaway": "Headline only; an opinion piece urging that the closure move ahead, not used for facts.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mta-fare-increase-plan",
+      "headline": "MTA outlines plans to raise fares again",
+      "region": "Transit",
+      "importance": 2,
+      "summary": "The MTA plans to raise fares on subways and buses, the LIRR and Metro-North, the Daily News reported, less than a year after the base fare rose to $3. The size and timing of the increase were not in the early report.",
+      "why_it_matters": "Another fare increase would raise the cost of daily commuting for millions of riders. The story was covered by a single left-leaning outlet in the digest.",
+      "background": "The MTA raises fares and tolls about every two years to help balance its operating budget. The subway and bus base fare went to $3 in January 2026 after a board vote in 2025. The agency's financial plan has called for further increases in 2027 and 2029. Fare changes require public hearings and a vote by the MTA board.",
+      "facts": [
+        {
+          "text": "The MTA plans to increase fares for subways, buses, the LIRR and Metro-North, the Daily News reported.",
+          "refs": [
+            "54c2a3e50c"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "54c2a3e50c",
+          "takeaway": "Headline only: reports the MTA's plan to raise fares across its system.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mta-bus-operator-sick-days",
+      "headline": "MTA says chronic sick calls by bus drivers cost riders 120,000 trips",
+      "region": "Transit",
+      "importance": 3,
+      "summary": "MTA officials said Wednesday that close to 1,000 bus operators call out sick more than 50 days a year, and they blamed those absences for nearly 120,000 canceled bus trips so far this year, THE CITY reported.",
+      "why_it_matters": "Canceled trips mean longer waits for bus riders, and the MTA's push could lead to a fight with the transit workers' union over sick-leave rules. Only one center outlet covered this in the digest.",
+      "background": "New York City Transit runs one of the largest bus fleets in the country, and missed trips due to too few available drivers have been a recurring problem. Sick leave for bus operators is set by contracts with the Transport Workers Union. MTA leaders have been focused on bus reliability while also dealing with the fare enforcement controversy.",
+      "facts": [
+        {
+          "text": "Close to 1,000 bus operators call out sick more than 50 days a year, MTA officials said Wednesday.",
+          "refs": [
+            "6d910b6729"
+          ]
+        },
+        {
+          "text": "MTA officials said these absences left riders without nearly 120,000 trips this year.",
+          "refs": [
+            "6d910b6729"
+          ]
+        },
+        {
+          "text": "An MTA official described the frequent absentees as 'bad apples' and said they should not 'milk' taxpayers.",
+          "refs": [
+            "6d910b6729"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "6d910b6729",
+          "takeaway": "From the digest summary: lays out the MTA's numbers and its officials' blunt language.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "nyc-w1",
+      "url": "https://ny1.com/nyc/all-boroughs/politics/2026/11/13/cracked-facade-flagged-months-before-building-collapse-dob-records",
+      "title": "Cracked facade flagged months before building collapse, DOB records show",
+      "outlet": "NY1"
+    },
+    {
+      "id": "nyc-w2",
+      "url": "https://www.insurancejournal.com/news/east/2026/11/13/892516.htm",
+      "title": "Brooklyn building collapse investigation (AP)",
+      "outlet": "Insurance Journal"
+    },
+    {
+      "id": "nyc-w3",
+      "url": "https://www.fox5ny.com/news/suspect-3-central-park-rapes-arrested-miami-nypd",
+      "title": "Suspect in 3 Central Park rapes arrested in Miami: NYPD",
+      "outlet": "Fox 5 New York"
+    },
+    {
+      "id": "nyc-w4",
+      "url": "https://ny1.com/nyc/all-boroughs/news/2026/10/23/mta-suspends-use-of-fare-enforcement-agents-after-second-violent-incident",
+      "title": "MTA suspends use of fare enforcement agents after second violent incident",
+      "outlet": "NY1"
+    },
+    {
+      "id": "nyc-w5",
+      "url": "https://nyc.streetsblog.org/2026/10/22/eagle-down-mta-pulls-fare-enforcement-agents-from-bus-system",
+      "title": "EAGLE down: MTA pulls fare enforcement agents from bus system",
+      "outlet": "Streetsblog NYC"
+    },
+    {
+      "id": "nyc-w6",
+      "url": "https://san.com/cc/mamdani-once-opposed-new-nyc-jails-now-he-faces-deadline-to-build-them/",
+      "title": "Mamdani once opposed new NYC jails. Now he faces deadline to build them",
+      "outlet": "Straight Arrow News"
+    },
+    {
+      "id": "nyc-w7",
+      "url": "https://www.nbcnewyork.com/news/local/rikers-island-2027-deadline-close/6519303/",
+      "title": "Rikers Island 2027 closure deadline",
+      "outlet": "NBC New York"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "overview": "Donald Trump, Xi Jinping and Vladimir Putin held the first three-way summit of the U.S., Chinese and Russian leaders in Shenzhen on Thursday; Russia said they agreed there can be no winners in a nuclear war, but no detailed agreement was published. The UN's top court ruled that Myanmar committed acts of genocide against the Rohingya in 2017, while Ukraine attacked the Crimean Bridge for the third time in four days and Iran struck a U.S. air base in Kuwait and sites in Bahrain. In Washington, House Democrats nominated Hakeem Jeffries for speaker of the incoming Congress, and minutes from the Federal Reserve showed nearly all officials expect a rate hike in December. Anthropic begins trading on Nasdaq after an offering the BBC reported raised a record $81 billion, and in New York the city moved to demolish the building next to last week's fatal Flatbush collapse.",
+  "markets": {
+    "summary": "U.S. stocks ended Wednesday mixed: the Dow fell 1.1% and the S&P 500 slipped 0.2%, while the tech-heavy Nasdaq gained 0.4%. Minutes from the Federal Reserve's October meeting showed nearly all officials expect to raise interest rates by a quarter point in December to fight inflation, which was 3.7% in September; that pushed the dollar near a 19-month high and pulled gold lower. Nvidia's shares fell again despite revenue that roughly doubled from a year earlier, as investors weighed the departure of chief executive Jensen Huang. Stock futures rose overnight ahead of Anthropic's record-sized stock market debut on Thursday, seen as a test of how much investors will pay for artificial intelligence companies. The 10-year Treasury yield, a benchmark for mortgages and other loans, stays near 5.1%, keeping the average 30-year mortgage rate above 7%.",
+    "movers": [
+      {
+        "symbol": "DJIA",
+        "why": "The Dow fell 1.1% on Wednesday, more than other indexes, on the day the Fed minutes signaled a December rate hike; today's coverage doesn't single out one cause for the extra drop."
+      },
+      {
+        "symbol": "NASDAQCOM",
+        "why": "The Nasdaq rose 0.4% as growth stocks edged ahead of others after Nvidia's results, though it is still down about 7.6% over the past month amid worries about AI spending."
+      },
+      {
+        "symbol": "DGS2",
+        "why": "The 2-year Treasury yield, which tracks expectations for Fed rates, is at 4.8%, up 6 basis points (0.06 percentage point) in a month as officials talk of more rate hikes."
+      },
+      {
+        "symbol": "CBBTCUSD",
+        "why": "Bitcoin fell another 2.2% and is down about 23% over the past month; today's coverage doesn't give a clear cause, though it has fallen alongside other risky assets as rate-hike expectations rose."
+      }
+    ],
+    "concept": {
+      "term": "Rate hike",
+      "explanation": "A rate hike is when the Federal Reserve raises its benchmark interest rate, the rate banks charge each other for overnight loans. The Fed raises it to cool inflation: when borrowing costs more, people and businesses spend less, which eases pressure on prices. A quarter-point hike, the step most officials now expect in December, adds 0.25 percentage point. Banks usually lift credit card and home equity rates within weeks, and savings accounts tend to pay a bit more, while mortgage rates often move earlier, as soon as investors expect the hike."
+    },
+    "watch": [
+      "Thu Nov 19: Anthropic shares begin trading on Nasdaq under the ticker ANT",
+      "Wed Nov 25: Second estimate of third-quarter GDP and the October PCE inflation report (8:30 a.m. ET)",
+      "Thu Nov 26: U.S. stock markets closed for Thanksgiving"
+    ]
+  },
+  "trending": [
+    {
+      "title": "Grand Theft Auto VI",
+      "context": "Rockstar's long-awaited game came out after a 13-year wait between installments, topping Wikipedia's charts and lifting shares of publisher Take-Two.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "Trump, Xi and Putin to meet",
+      "context": "Bluesky users are posting about Thursday's first three-way meeting of the U.S., Chinese and Russian leaders at the APEC summit in Shenzhen, and about Trump calling Putin his friend.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Hakeem Jeffries",
+      "context": "House Democrats nominated Jeffries for speaker ahead of their new majority in January, sending readers to his Wikipedia page.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "Anthropic's IPO",
+      "context": "Posts about the AI company's stock market debut, which begins trading Thursday, are spreading on Bluesky.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Salvadoran military intervention in Haiti",
+      "context": "El Salvador's forces carried out airstrikes on the alleged headquarters of the 400 Mawozo gang and deployed to Port-au-Prince's national stadium.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "Voyager 1 reaches one light-day",
+      "context": "NASA's probe, launched in 1977, is now so far from Earth that its signals take about a full day to arrive, a milestone posters on Bluesky are marking.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Atmospheric river hits California",
+      "context": "Bluesky users are sharing posts about heavy rain from a long plume of Pacific moisture reaching California.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Lego Black Friday",
+      "context": "Shoppers are searching for early holiday discounts on Lego sets ahead of the Nov. 27 sale day.",
+      "signal": "google"
+    }
+  ]
+}

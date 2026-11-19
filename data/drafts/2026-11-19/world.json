@@ -1,0 +1,314 @@
+{
+  "stories": [
+    {
+      "id": "trump-xi-putin-trilateral",
+      "headline": "Trump, Xi and Putin hold first three-way summit in Shenzhen",
+      "region": "Global",
+      "importance": 5,
+      "summary": "The leaders of the United States, China and Russia met together for the first time on Thursday in Shenzhen, China, on the sidelines of the APEC summit. The meeting lasted about an hour and 20 minutes. Russia said the three agreed there can be no winners in a nuclear war and that they would boost oil and gas production, but no detailed agreement had been published by the time early coverage ran.",
+      "why_it_matters": "The three countries hold most of the world's nuclear weapons and are tied up in the wars in Ukraine and with Iran, which affect energy prices and global security. Early reports describe statements of principle, not a deal.",
+      "background": "Russia, China and the United States have never before held a three-way leaders' meeting. Putin first proposed the format in an October call with Trump, and the White House confirmed the plan days before the APEC gathering in Shenzhen. Trump has pushed for the three powers to cut their nuclear stockpiles, while Beijing has long refused to join trilateral arms-control talks. The meeting came during the war in Ukraine and the US-Iran conflict that began with US and Israeli strikes in February.",
+      "facts": [
+        { "text": "Trump told the other two leaders that they were \"really making history\" as the meeting opened.", "refs": ["4f43301988", "f3ea71c65a", "84b1f15cd0"] },
+        { "text": "The meeting in Shenzhen lasted about an hour and 20 minutes, according to France 24.", "refs": ["412b13d816"] },
+        { "text": "Russia said the three leaders agreed to boost gas and oil production and reaffirmed that there can be no winners in a nuclear war.", "refs": ["96272655b0", "efb9804b3f"] },
+        { "text": "Before the three-way meeting, Trump told Xi that the US and China should both help end the war in Ukraine, Reuters reported.", "refs": ["23ec861e90"] },
+        { "text": "Trump said the US, China and Russia were \"uniquely positioned\" to discuss reducing nuclear weapons.", "refs": ["795407703f"] },
+        { "text": "The White House announced the meeting on Nov. 14 as an unprecedented joint session on the sidelines of APEC.", "refs": ["world-w1"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Ukraine was part of the summit agenda",
+          "positions": [
+            { "claim": "A senior US official said before the summit that Ukraine would not be on the trilateral agenda.", "refs": ["world-w2"] },
+            { "claim": "Fox News reported that ending the Ukraine war, along with nuclear arms reduction, anchored the summit.", "refs": ["84b1f15cd0"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "84b1f15cd0", "note": "Calls the summit a historic diplomatic milestone, while noting no breakthroughs." },
+        { "ref": "16bd5d1aea", "note": "Questions whether the event produced substance beyond appearances." },
+        { "ref": "f3ea71c65a", "note": "Leads with Trump's quote and presents the meeting as a sign of shifting global leadership." },
+        { "ref": "96272655b0", "note": "Calls it a rare meeting and relies on Russia's readout of what was agreed." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "84b1f15cd0", "takeaway": "Headline and summary only: highlights Trump's 'making history' claim and the nuclear and Ukraine goals, and notes no breakthroughs.", "read_full": false },
+        { "ref": "412b13d816", "takeaway": "Headline and summary only: says the summit ended with no details released and lists each leader's agenda.", "read_full": false },
+        { "ref": "23ec861e90", "takeaway": "Reuters wire: Trump urged Xi to help end the Ukraine war before the three-way talks.", "read_full": false },
+        { "ref": "96272655b0", "takeaway": "Headline and summary only: reports Russia's account of agreements on energy and nuclear war.", "read_full": false },
+        { "ref": "f3ea71c65a", "takeaway": "Headline and summary only (paywalled): treats the meeting as a show of unity amid a shifting world order.", "read_full": false },
+        { "ref": "795407703f", "takeaway": "Headline and summary only: focuses on Trump's push to discuss nuclear arms reduction.", "read_full": false },
+        { "ref": "16bd5d1aea", "takeaway": "Headline and summary only: skeptical of real progress and lists Ukraine and Iran as topics.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "icj-myanmar-rohingya-genocide",
+      "headline": "World Court rules Myanmar committed genocide against the Rohingya",
+      "region": "Asia-Pacific",
+      "importance": 5,
+      "summary": "The International Court of Justice ruled on Thursday that Myanmar committed acts of genocide against its Rohingya Muslim minority during military operations in 2017. The court said Myanmar's forces killed thousands of Rohingya and that the state intended to destroy a substantial part of the group. The case, brought by The Gambia, has been followed closely because of South Africa's genocide case against Israel.",
+      "why_it_matters": "It is a rare ruling by the UN's top court that a state committed genocide, and how the court read the legal test of intent could shape other cases, including the one over Gaza. For about a million Rohingya refugees, it is a formal finding about what happened to them.",
+      "background": "In 2017 Myanmar's military carried out what it called clearance operations in Rakhine state, and hundreds of thousands of Rohingya fled to Bangladesh. In 2019 The Gambia, backed by other Muslim-majority countries, sued Myanmar at the International Court of Justice under the Genocide Convention. Myanmar denied the charge and said the operations targeted militants. Hearings on the merits took place in January 2026, and the judgment is final, with no appeal.",
+      "facts": [
+        { "text": "The International Court of Justice ruled that Myanmar committed acts of genocide against the Rohingya during the 2017 operations.", "refs": ["d6d5a75fc7", "c8b4eba800"] },
+        { "text": "The court found that Myanmar's forces killed thousands of Rohingya, Reuters reported while the ruling was being read.", "refs": ["0669c2cfed"] },
+        { "text": "The court said Myanmar intended to destroy a substantial part of the Rohingya population, and that soldiers killed and raped Rohingya, committed violence against children and destroyed villages.", "refs": ["c58b57afb9", "c8b4eba800"] },
+        { "text": "The Gambia brought the case after the 2017 crackdown, and proving intent to destroy a group was the key legal test.", "refs": ["a4c4908ce6"] },
+        { "text": "Observers are watching the ruling for what it could mean for South Africa's genocide case against Israel over Gaza.", "refs": ["c5c4da1737", "a4c4908ce6"] },
+        { "text": "The judgment is final and cannot be appealed, according to Human Rights Watch; Myanmar has said its operations were a counter-terrorism campaign.", "refs": ["world-w3"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "d6d5a75fc7", "note": "States the genocide finding plainly and calls it a critical test for how the gravest state crimes are handled." },
+        { "ref": "0669c2cfed", "note": "Early wire headline leads with the killings finding before the genocide question was settled." },
+        { "ref": "c5c4da1737", "note": "Puts 'genocide' in quotes and frames the ruling around the refugee crisis and the Gaza parallel." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d6d5a75fc7", "takeaway": "Headline and summary only: reports the genocide finding and says it ends a seven-year legal fight.", "read_full": false },
+        { "ref": "0669c2cfed", "takeaway": "Reuters headline only: the court found forces killed thousands, with the ruling still being read.", "read_full": false },
+        { "ref": "c58b57afb9", "takeaway": "Headline and summary only: details the court's findings on intent and abuses.", "read_full": false },
+        { "ref": "c8b4eba800", "takeaway": "Headline only (paywalled): AP wire on the court's 'substantial part' finding.", "read_full": false },
+        { "ref": "a4c4908ce6", "takeaway": "Explainer on how the ICJ defines genocide and why intent is hard to prove.", "read_full": false },
+        { "ref": "c5c4da1737", "takeaway": "Explainer with a timeline and the link to the Gaza case.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iran-gulf-attacks-kuwait-bahrain",
+      "headline": "Iran strikes at US base in Kuwait and sites in Bahrain after US hits Qeshm Island",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "Iran targeted a US air base in Kuwait and several sites in Bahrain on Wednesday, a day after US forces struck Iran's Qeshm Island in the Strait of Hormuz. Kuwait said its air defenses intercepted drones. On Thursday the International Energy Agency said the Middle East crisis is the largest threat to energy security in history.",
+      "why_it_matters": "Renewed fighting around the Strait of Hormuz keeps pressure on oil and gas supplies, and the IEA says consumers are increasingly absorbing the cost through higher prices.",
+      "background": "The US and Israel struck Iran in February, starting a war that has disrupted shipping through the Strait of Hormuz, a route for a large share of the world's oil. A ceasefire in April reduced the fighting, but both sides have traded strikes since, including a similar round in June involving Qeshm Island, Kuwait and Bahrain. Peace talks have stalled. Gulf states that host US forces, such as Kuwait and Bahrain, have been caught in the middle.",
+      "facts": [
+        { "text": "Iran targeted the Ali Al Salem air base used by US forces in Kuwait and launched attacks on Bahrain on Wednesday.", "refs": ["0706f8d9db", "9b19df8be9", "6921117569"] },
+        { "text": "The Iranian strikes followed US strikes on Iran's Qeshm Island in the Strait of Hormuz on Tuesday.", "refs": ["8956cf8b41", "6921117569", "fe4c1daff7"] },
+        { "text": "Kuwait said it repelled the attack, its first from Iran in two months, and that its air defenses intercepted drones.", "refs": ["fe4c1daff7", "9b19df8be9"] },
+        { "text": "Before the US strikes, Iran had attacked US radar systems in Bahrain three times in less than a week, CBS News reported.", "refs": ["8956cf8b41"] },
+        { "text": "Iran had also set a natural gas tanker on fire in the Strait of Hormuz, The Wall Street Journal reported.", "refs": ["09ccec4daf"] },
+        { "text": "The International Energy Agency said the crisis is the largest threat to energy security in history and that consumers and high prices are increasingly absorbing the impact.", "refs": ["972d7dbe83", "b5152e5404"] },
+        { "text": "A similar exchange took place in June, when US strikes on Qeshm Island were followed by Iranian fire at Kuwait and Bahrain.", "refs": ["world-w4"] }
+      ],
+      "disputed": [
+        {
+          "topic": "What set off the latest round of strikes",
+          "positions": [
+            { "claim": "Iran said its attacks were a response to US drone surveillance and an attack on Iranian communications towers.", "refs": ["0706f8d9db", "22f987ecf4"] },
+            { "claim": "US reporting describes the Qeshm strikes as defensive, carried out after Iran attacked US radar sites in Bahrain and a missile launch site was identified.", "refs": ["9b19df8be9", "8956cf8b41", "fbed4280ec"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "9b19df8be9", "note": "Calls the US strikes 'defensive' and notes criticism of Iran from Gulf states." },
+        { "ref": "aa55ca64db", "note": "Frames the attacks as a sign that peace talks are faltering." },
+        { "ref": "7ab40838ae", "note": "Says Iran appears to 'lash out' after US strikes, stressing the threat to allies and tankers." },
+        { "ref": "0706f8d9db", "note": "AP wire: leads with Iran widening its attacks and gives Tehran's stated reasons." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "0706f8d9db", "takeaway": "AP wire summary: lays out the targets and Iran's stated justification.", "read_full": false },
+        { "ref": "9b19df8be9", "takeaway": "Headline and summary only: cites Iranian state media and Kuwait's interceptions, calls US strikes defensive.", "read_full": false },
+        { "ref": "6921117569", "takeaway": "Headline and summary only: ties the attacks to the US strike on Qeshm and the end of a quiet period.", "read_full": false },
+        { "ref": "fe4c1daff7", "takeaway": "Headline and summary only: Kuwait's account that it repelled the first Iranian attack in two months.", "read_full": false },
+        { "ref": "8956cf8b41", "takeaway": "Headline and summary only: reports the US strikes on Qeshm after attacks on US radar in Bahrain.", "read_full": false },
+        { "ref": "09ccec4daf", "takeaway": "Headline and summary only (paywalled): links the attacks to the fight over the strait and a tanker fire.", "read_full": false },
+        { "ref": "972d7dbe83", "takeaway": "Summary of the IEA warning on energy security and consumer costs.", "read_full": false },
+        { "ref": "aa55ca64db", "takeaway": "Headline and summary only (paywalled): region stuck between peace and wider war.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "crimea-kerch-bridge-attack",
+      "headline": "Crimean Bridge attacked for third time in days, halting trains",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Ukraine struck the rail section of the Kerch (Crimean) Bridge overnight, its third attack in four days, and train traffic between Russia and occupied Crimea was halted, according to Crimea's Russian-installed governor. Earlier strikes this week destroyed part of the bridge's road section. The attack came hours before Putin's summit with Trump and Xi in China.",
+      "why_it_matters": "The bridge is a main supply route for Russian forces and residents in Crimea, so cutting it raises pressure on Russia while leaders talk about ending the war. Ukraine's parallel strikes on refineries also affect Russian fuel exports.",
+      "background": "Russia annexed Crimea from Ukraine in 2014 and opened the 19-kilometer road and rail bridge across the Kerch Strait in 2018. It is seen as a symbol of Putin's rule and a key military supply line. Ukraine has attacked it several times since the 2022 invasion, including a truck bomb that year and a strike in 2023. This week Ukraine hit it on Nov. 16 and 17, and again overnight into Nov. 19.",
+      "facts": [
+        { "text": "Crimea's Russian-installed governor said the bridge was attacked again overnight and that train traffic was suspended.", "refs": ["7f5dccfcc1", "8944b9bf2f", "4aff804730"] },
+        { "text": "The AP described it as the third Ukrainian strike in four days, halting rail traffic on the bridge.", "refs": ["44fa61f481", "144849a9e5"] },
+        { "text": "Two earlier attacks this week destroyed a road section of the bridge.", "refs": ["7f5dccfcc1"] },
+        { "text": "The Nov. 17 strike killed two people, governor Sergei Aksyonov said, and road traffic stayed closed while ferries carried vehicles.", "refs": ["world-w5"] },
+        { "text": "Russia has vowed to restore the bridge quickly, but engineering specialists say repairs could take years, The New York Times reported.", "refs": ["29ec5d0ab5"] },
+        { "text": "Ukraine's General Staff said it struck two oil refineries in Russia's Krasnodar region on Nov. 18.", "refs": ["a900a1d85b", "d3f70292f9"] },
+        { "text": "Reuters, citing two industry sources, reported that Ukrainian attacks over 20 days disrupted or stopped 15 of Russia's 35 major refineries, cutting processing by about 45%.", "refs": ["3a287ef565"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "144849a9e5", "note": "Ties the strike's timing to the US-China-Russia summit." },
+        { "ref": "29ec5d0ab5", "note": "Stresses that the bridge was already crippled and that repairs may take years." },
+        { "ref": "8944b9bf2f", "note": "Attributes the attack to Russian officials and calls Crimea occupied territory." },
+        { "ref": "dfd48b2e12", "note": "On the related refinery strikes, leads with the size of the target and the Trump-Putin meeting." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "7f5dccfcc1", "takeaway": "Headline and summary only: the remaining rail bridge was hit and train traffic halted.", "read_full": false },
+        { "ref": "44fa61f481", "takeaway": "AP headline only: third strike in four days halts rail traffic.", "read_full": false },
+        { "ref": "144849a9e5", "takeaway": "Reuters headline only: third strike in a week, timed before the summit.", "read_full": false },
+        { "ref": "8944b9bf2f", "takeaway": "Headline and summary only: relays the Crimean governor's statement on suspended traffic.", "read_full": false },
+        { "ref": "29ec5d0ab5", "takeaway": "Headline and summary only (paywalled): Russia's repair pledge versus experts' timeline.", "read_full": false },
+        { "ref": "4aff804730", "takeaway": "Headline and summary only: Russian official's account, linked to the summit.", "read_full": false },
+        { "ref": "a900a1d85b", "takeaway": "AP headline only: Ukraine says it hit two refineries as Zelenskyy praises home-made weapons.", "read_full": false },
+        { "ref": "3a287ef565", "takeaway": "Summary of a Reuters report on the scale of refinery damage.", "read_full": false },
+        { "ref": "dfd48b2e12", "takeaway": "Headline and summary only: Ukraine's military says it hit a major Krasnodar refinery.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "denmark-ratifies-greenland-deal",
+      "headline": "Denmark ratifies Greenland security deal with the US",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Denmark's parliament on Thursday unanimously approved a security agreement with Greenland and the United States that expands US military access on the Arctic island. The vote was the last step needed for the deal to take effect. It follows months of tension after President Trump said the US should take control of Greenland.",
+      "why_it_matters": "The deal settles, for now, a dispute between the US and a NATO ally that had raised fears of a split in the alliance, and it gives the US a bigger military footprint in the Arctic.",
+      "background": "Greenland is a semi-autonomous territory of Denmark with a population of about 57,000 and a strategic position between North America and Europe. The US already runs the Pituffik Space Base there under a 1951 agreement. Trump repeatedly said the US should control Greenland and did not rule out force, which strained relations with Denmark. The three governments signed a security agreement to end the standoff, and Greenland's own parliament approved it earlier in November.",
+      "facts": [
+        { "text": "Denmark's parliament ratified the security agreement with Greenland and the United States on Thursday.", "refs": ["bcfd447bb2", "d5603349f6", "2b9a45734f"] },
+        { "text": "The vote was unanimous, according to the AP.", "refs": ["701968e88a"] },
+        { "text": "The deal gives the US expanded military access in Greenland on top of what it had under an earlier agreement.", "refs": ["ec56b33e5b"] },
+        { "text": "The vote cleared the final hurdle for the agreement to take effect.", "refs": ["eef1c8512d"] },
+        { "text": "Greenland's parliament approved the deal 16-0 earlier this month, with seven lawmakers abstaining.", "refs": ["world-w6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "bcfd447bb2", "note": "Calls it 'Trump deal over Greenland', centering the US president." },
+        { "ref": "eef1c8512d", "note": "Emphasizes the 'bitter standoff' that preceded the deal." },
+        { "ref": "ec56b33e5b", "note": "Mentions Trump's earlier threats to take Greenland by force." },
+        { "ref": "d5603349f6", "note": "Neutral wire headline naming all three parties, without Trump." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "bcfd447bb2", "takeaway": "Reuters headline only: Denmark ratifies the deal.", "read_full": false },
+        { "ref": "d5603349f6", "takeaway": "AP headline only: Danish parliament approves the three-way deal.", "read_full": false },
+        { "ref": "701968e88a", "takeaway": "Headline and summary only (AP wire): notes the vote was unanimous.", "read_full": false },
+        { "ref": "ec56b33e5b", "takeaway": "Headline and summary only: explains expanded US military access and recalls Trump's threats.", "read_full": false },
+        { "ref": "eef1c8512d", "takeaway": "Headline and summary only (paywalled): deal to take effect after months of tension.", "read_full": false },
+        { "ref": "2b9a45734f", "takeaway": "Headline and summary only: ratification after months of US pressure.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "hegseth-venezuela-military-deal",
+      "headline": "Hegseth signs deal restoring US-Venezuela military ties on Caracas visit",
+      "region": "Americas",
+      "importance": 4,
+      "summary": "US Defense Secretary Pete Hegseth signed an agreement with Venezuela's interim government on Wednesday to re-establish military cooperation, during an unannounced trip to Caracas. It was his first visit since US special forces captured former president Nicolas Maduro in January. Hegseth described Venezuela as having become a \"compliant security partner\".",
+      "why_it_matters": "The agreement deepens US involvement in Venezuela, a major oil producer, and Hegseth signaled more strikes on drug cartels in the region.",
+      "background": "In January 2026 US special forces seized Nicolas Maduro in a raid in Caracas and removed him from power. An interim government has since run the country with close US oversight, and the Trump administration has signed an oil deal with it. Russia and China condemned the US intervention. The new military agreement adds a defense relationship to those economic ties.",
+      "facts": [
+        { "text": "Hegseth announced an agreement with Venezuela's interim government to re-establish military ties during a visit to Caracas on Wednesday.", "refs": ["04acc2886c", "94c4435084", "24e459236b"] },
+        { "text": "It was Hegseth's first visit since US special forces captured Maduro in a January raid.", "refs": ["94c4435084", "ee7b14dff8"] },
+        { "text": "Hegseth said Venezuela had gone from the region's \"most aggressive\" threat to a \"compliant security partner\".", "refs": ["6adb42d768", "284cee641f"] },
+        { "text": "The Pentagon did not announce the trip beforehand, The Wall Street Journal reported.", "refs": ["24e459236b"] },
+        { "text": "Hegseth promised more strikes on drug cartels, The Daily Caller reported.", "refs": ["1c50869b13"] },
+        { "text": "In September the White House released details of a long-term oil deal with Venezuela's interim government.", "refs": ["world-w7"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "ee7b14dff8", "note": "Says Hegseth used the trip to 'boast' of Maduro's capture, emphasizing US dominance." },
+        { "ref": "1c50869b13", "note": "Leads with the renewed partnership and the promise of more cartel strikes." },
+        { "ref": "76784484db", "note": "Straight account stressing the surprise nature of the visit." },
+        { "ref": "284cee641f", "note": "Puts Hegseth's 'compliant security partner' phrase in the headline." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "04acc2886c", "takeaway": "AP headline only: deal to re-establish military ties.", "read_full": false },
+        { "ref": "94c4435084", "takeaway": "Reuters wire summary: the agreement and the context of Maduro's removal.", "read_full": false },
+        { "ref": "6adb42d768", "takeaway": "Headline and summary only: quotes Hegseth on Venezuela's shift to a partner.", "read_full": false },
+        { "ref": "ee7b14dff8", "takeaway": "Headline and summary only: focuses on Hegseth's remarks about Maduro's capture.", "read_full": false },
+        { "ref": "1c50869b13", "takeaway": "Headline and summary only: highlights the partnership and cartel strikes.", "read_full": false },
+        { "ref": "24e459236b", "takeaway": "Headline and summary only (paywalled): notes the unannounced trip and the interim government.", "read_full": false },
+        { "ref": "284cee641f", "takeaway": "CNN headline only: leads with Hegseth's 'compliant' description.", "read_full": false },
+        { "ref": "76784484db", "takeaway": "Headline only: surprise visit and partnership signing.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "israel-gaza-yellow-line-raid",
+      "headline": "Israeli forces cross Gaza ceasefire line in first raid since truce",
+      "region": "Middle East",
+      "importance": 3,
+      "summary": "Israeli tanks crossed the \"Yellow Line\" into Hamas-held central Gaza on Wednesday, the first ground operation across that boundary since the ceasefire, and Israel said on Thursday the raid had ended. Israel said it was targeting a tunnel, while Hamas called the incursion a flagrant violation of the truce.",
+      "why_it_matters": "The raid tests a fragile ceasefire that has largely halted full-scale war in Gaza, where Palestinians still face severe shortages of food and shelter.",
+      "background": "A ceasefire between Israel and Hamas took effect in October 2025. It created a boundary called the Yellow Line, with Israeli troops pulling back to it but still holding part of the Gaza Strip, and Hamas controlling the rest. Both sides have accused each other of violations since. Israeli politics are also in flux, with Gadi Eisenkot trying to form a government without Benjamin Netanyahu, according to The Guardian.",
+      "facts": [
+        { "text": "Israeli forces launched a ground operation beyond the Yellow Line in central Gaza on Wednesday, the first such crossing since the ceasefire.", "refs": ["a2c3574e4f", "027dbc396c", "f0aba73b3b"] },
+        { "text": "The Israeli military told civilians to leave the area, and dozens fled.", "refs": ["754dc65614", "557fba1a3c", "f0aba73b3b"] },
+        { "text": "Israel said on Thursday that it had concluded the tank raid.", "refs": ["70f9a5713b", "c3261a1d08"] },
+        { "text": "Israeli tanks moved east of the Nuseirat refugee camp, and strikes killed at least three people on Wednesday, France 24 reported.", "refs": ["1bbf36689e"] },
+        { "text": "The Yellow Line was set by the October 2025 truce as the line Israeli troops would withdraw to.", "refs": ["world-w8"] }
+      ],
+      "disputed": [
+        {
+          "topic": "What the raid was",
+          "positions": [
+            { "claim": "The Israeli military said it was a limited operation to dismantle a \"terror tunnel\" and address a threat.", "refs": ["c3261a1d08", "9ff5b14614"] },
+            { "claim": "Hamas called the incursion a \"flagrant\" violation of the ceasefire.", "refs": ["c3261a1d08", "9ff5b14614"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "027dbc396c", "note": "Uses the military's 'operation' wording and calls it rare." },
+        { "ref": "1bbf36689e", "note": "Calls it a new 'offensive' and focuses on Nuseirat and civilian casualties." },
+        { "ref": "a2c3574e4f", "note": "Stresses the crossing into Hamas-controlled territory and ties it to Israeli coalition politics." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a2c3574e4f", "takeaway": "Headline and summary only: first crossing since the truce, with political context.", "read_full": false },
+        { "ref": "027dbc396c", "takeaway": "Headline only: the IDF's rare operation beyond the line.", "read_full": false },
+        { "ref": "f0aba73b3b", "takeaway": "Reuters headline only: ground operation, dozens flee.", "read_full": false },
+        { "ref": "c3261a1d08", "takeaway": "Headline and summary only: Israel's tunnel explanation and Hamas's response.", "read_full": false },
+        { "ref": "1bbf36689e", "takeaway": "Headline and summary only: witness accounts of shelling and casualties near Nuseirat.", "read_full": false },
+        { "ref": "557fba1a3c", "takeaway": "Headline and summary only: Israel's stated target and Gaza's humanitarian situation.", "read_full": false },
+        { "ref": "9ff5b14614", "takeaway": "Headline and summary only (paywalled): limited raid and Hamas's accusation.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "north-korea-yongbyon-enrichment",
+      "headline": "UN watchdog says North Korea is expanding its Yongbyon enrichment plant",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "The International Atomic Energy Agency said North Korea is expanding its original uranium enrichment facility at the Yongbyon nuclear complex. IAEA chief Rafael Grossi called the growth of the program a cause for serious concern. Separately, South Korean President Lee Jae Myung told APEC leaders he hopes renewed talks with the North could lead to a lasting peace.",
+      "why_it_matters": "More enrichment capacity means North Korea can make more fuel for nuclear weapons, which raises risks for South Korea, Japan and US forces in the region.",
+      "background": "North Korea has tested nuclear weapons six times and is under UN sanctions for its weapons programs. Yongbyon is its main nuclear site, and the IAEA, which has had no inspectors in the country since 2009, monitors it through satellite imagery. Earlier this year the agency reported a new enrichment building at Yongbyon and activity at a second enrichment site, Kangson. South Korea's Lee has sought to reopen dialogue with Pyongyang.",
+      "facts": [
+        { "text": "The IAEA said North Korea is expanding its original uranium enrichment facility at Yongbyon.", "refs": ["6a5f158828", "7edbdc03d7"] },
+        { "text": "IAEA chief Rafael Grossi said the expansion of North Korea's enrichment program is \"a cause for serious concern\".", "refs": ["03c13631a6"] },
+        { "text": "An IAEA report earlier this year said North Korea had built a new enrichment facility at Yongbyon.", "refs": ["world-w9"] },
+        { "text": "South Korean President Lee Jae Myung said at the APEC summit that he hopes reopened talks with North Korea could lead to discussions on ending the Korean War and a lasting peace.", "refs": ["a937e6437f", "4cbac63d90"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "03c13631a6", "note": "Puts Grossi's warning about serious concern up front." },
+        { "ref": "6a5f158828", "note": "Plain wire headline focused on the original facility's expansion." },
+        { "ref": "4cbac63d90", "note": "Leads with Lee's hopes for peace rather than the nuclear buildup." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "6a5f158828", "takeaway": "AP headline only: the IAEA's finding on Yongbyon.", "read_full": false },
+        { "ref": "7edbdc03d7", "takeaway": "Reuters headline only: the same IAEA finding.", "read_full": false },
+        { "ref": "03c13631a6", "takeaway": "Headline and summary only: quotes Grossi's concern.", "read_full": false },
+        { "ref": "a937e6437f", "takeaway": "Reuters headline only: Lee's call for talks leading to peace.", "read_full": false },
+        { "ref": "4cbac63d90", "takeaway": "Headline and summary only: Lee's APEC remarks on peninsula stability.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w1", "url": "https://www.fox5vegas.com/2026/11/14/trump-xi-putin-plan-an-unprecedented-joint-meeting-white-house-says/", "title": "Trump, Xi and Putin plan an unprecedented joint meeting, White House says", "outlet": "Associated Press (via FOX5 Las Vegas)" },
+    { "id": "world-w2", "url": "https://www.arabnews.pk/world/trump-doesnt-plan-to-discuss-ukraine-with-xi-and-putin-in-china-but-will-talk-about-iran-war-us-official-says-3006986", "title": "Trump doesn't plan to discuss Ukraine with Xi and Putin in China but will talk about Iran war, US official says", "outlet": "Arab News" },
+    { "id": "world-w3", "url": "https://www.hrw.org/news/2026/11/03/questions-and-answers-international-court-of-justice-judgment-in-myanmar-genocide", "title": "Questions and Answers: International Court of Justice Judgment in Myanmar Genocide Case", "outlet": "Human Rights Watch" },
+    { "id": "world-w4", "url": "https://www.aljazeera.com/amp/news/2026/6/3/iran-kuwait-bahrain-hit-is-the-war-in-the-gulf-escalating-again", "title": "Iran, Kuwait, Bahrain hit: Is the war in the Gulf escalating again?", "outlet": "Al Jazeera" },
+    { "id": "world-w5", "url": "https://aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge", "title": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia", "outlet": "Al Jazeera" },
+    { "id": "world-w6", "url": "https://aljazeera.com/news/2026/11/3/greenland-parliament-approves-security-deal-with-us-denmark", "title": "Greenland parliament approves security deal with US, Denmark", "outlet": "Al Jazeera" },
+    { "id": "world-w7", "url": "https://www.aljazeera.com/news/2026/9/1/white-house-unveils-more-details-of-trumps-venezuela-oil-deal", "title": "White House unveils more details of Trump's Venezuela oil deal", "outlet": "Al Jazeera" },
+    { "id": "world-w8", "url": "https://www.nbcnews.com/world/middle-east/israel-yellow-line-gaza-trump-ceasefire-hamas-rcna239994", "title": "Israel's 'yellow line' in Gaza", "outlet": "NBC News" },
+    { "id": "world-w9", "url": "https://asianews.network/north-korea-continues-to-run-expand-uranium-enrichment-facility-at-yongbyon-iaea/", "title": "North Korea continues to run, expand uranium enrichment facility at Yongbyon: IAEA", "outlet": "Asia News Network" }
+  ]
+}

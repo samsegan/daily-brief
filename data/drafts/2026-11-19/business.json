@@ -1,0 +1,182 @@
+{
+  "stories": [
+    {
+      "id": "fed-minutes-december-hike",
+      "headline": "Fed minutes show officials expect to raise rates again in December",
+      "region": "Fed",
+      "importance": 5,
+      "summary": "Minutes from the Federal Reserve's October meeting, released Wednesday, show nearly all officials expect to raise the benchmark interest rate by a quarter point in December, with some having wanted a hike in October already. The dollar rose to its highest level in about 19 months and gold slipped as traders priced in more tightening. The Fed's next decision comes at its December meeting.",
+      "why_it_matters": "Another rate increase would push up borrowing costs on credit cards, car loans and new adjustable-rate debt, while savers could see slightly higher yields on deposits.",
+      "background": "The Federal Reserve sets a short-term interest rate that steers borrowing costs across the economy, raising it to cool inflation and cutting it to support growth. In 2026 the Fed has been raising rates as an energy shock tied to the Iran war, tariffs and heavy spending on AI data centers kept prices elevated. At its October 28 meeting it held the rate in a range of 3.75% to 4%, a decision that was not unanimous. Minutes are a detailed summary of the meeting, published about three weeks later, and markets read them for hints about the next move.",
+      "facts": [
+        { "text": "At its October meeting the Fed held its benchmark rate in a range of 3.75% to 4%.", "refs": ["3a261481b7", "biz-w1"] },
+        { "text": "The minutes show nearly all officials expect a quarter-point increase in December; some supported a hike in October, and two raised the possibility of a half-point increase.", "refs": ["5bf016b91c", "fef7d38072"] },
+        { "text": "A \"vast majority\" of officials worried inflation could persist even if gas prices kept falling and the effects of tariffs and the AI infrastructure buildout faded, the minutes show.", "refs": ["00f84b837e", "3a261481b7"] },
+        { "text": "Officials discussed the effect of AI-related spending on inflation, CNBC reported.", "refs": ["3a261481b7"] },
+        { "text": "Governor Lisa Cook and Cleveland Fed President Beth Hammack dissented from the October decision.", "refs": ["biz-w1"] },
+        { "text": "The WSJ Dollar Index rose to a new 52-week high after the minutes were released, and the dollar held near a 19-month high on Thursday as Treasury yields rose.", "refs": ["69fd8a369b", "c96552dae6"] },
+        { "text": "Gold futures slipped to about $3,737 an ounce on Thursday, with the Wall Street Journal attributing the decline to bets on further rate hikes.", "refs": ["647b5d6486"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "5bf016b91c", "note": "Leads with mounting inflation worries as the reason for a December hike." },
+        { "ref": "3a261481b7", "note": "Puts the AI buildout's effect on inflation alongside the expected hikes." },
+        { "ref": "00f84b837e", "note": "Highlights the dissension at the October meeting." },
+        { "ref": "fef7d38072", "note": "Emphasizes the officials who wanted a bigger hike." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "5bf016b91c", "takeaway": "Wire story (also run by ABC News and The Washington Post) with the near-unanimous December expectation and the half-point discussion.", "read_full": false },
+        { "ref": "edf31fd227", "takeaway": "AP wire reprint: summary gives the quarter-point expectation and the half-point talk.", "read_full": false },
+        { "ref": "3a261481b7", "takeaway": "Straight minutes story stressing AI's possible effect on inflation.", "read_full": false },
+        { "ref": "fef7d38072", "takeaway": "Headline focuses on inflation risks and support for a bigger hike.", "read_full": false },
+        { "ref": "00f84b837e", "takeaway": "Focuses on the split meeting and officials' fear that inflation will persist.", "read_full": false },
+        { "ref": "16b799477d", "takeaway": "Headline only: broad support for more hikes.", "read_full": false },
+        { "ref": "9f7bde6348", "takeaway": "Headline and summary only (paywalled): inflation remains the top priority.", "read_full": false },
+        { "ref": "69fd8a369b", "takeaway": "Headline and summary only (paywalled): dollar hits 52-week high on the minutes.", "read_full": false },
+        { "ref": "c96552dae6", "takeaway": "Headline and summary only (paywalled): dollar near 19-month high, yields up.", "read_full": false },
+        { "ref": "647b5d6486", "takeaway": "Headline and summary only (paywalled): gold down on rate-hike bets.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nvidia-after-huang",
+      "headline": "Nvidia's interim CEO tells staff to move on from Huang as the stock keeps falling",
+      "region": "Earnings",
+      "importance": 5,
+      "summary": "Interim CEO Colette Kress told Nvidia employees at the first all-hands meeting since Jensen Huang's resignation to \"move forward\" and offered pay raises, according to reports. The meeting followed quarterly results showing revenue up 103%, but the stock fell again on Wednesday, while investor Bill Ackman criticized the board for pushing Huang out. The board is searching for a permanent CEO.",
+      "why_it_matters": "Nvidia is one of the largest companies in the stock market, so its slide weighs on the index funds and 401(k)s many people hold.",
+      "background": "Nvidia makes the chips that power most AI systems and became the world's most valuable company during the AI boom. Co-founder Jensen Huang ran it for 33 years until he resigned as CEO and director on November 12; the company's announcement did not give a reason, and reporting has tied his exit to revelations about his personal conduct. The board named finance chief Colette Kress interim CEO and Harvey Jones chair. The stock had already lost a large share of its value from an October peak before the resignation.",
+      "facts": [
+        { "text": "Nvidia announced on November 12 that Jensen Huang had resigned as president, CEO and director, effective immediately, and named CFO Colette Kress interim CEO.", "refs": ["biz-w2"] },
+        { "text": "Nvidia reported third-quarter revenue of $115.8 billion, up 103% from a year earlier, and forecast about $130 billion for the next quarter.", "refs": ["biz-w3", "cae52ed263"] },
+        { "text": "At a company all-hands meeting, Kress urged employees to \"move forward\" and offered pay raises.", "refs": ["879c59d879", "cffad8ff84"] },
+        { "text": "The New York Post, citing people familiar with the matter, reported that Kress sought to discourage calls for Huang's return.", "refs": ["cffad8ff84"] },
+        { "text": "Investor Bill Ackman said the board \"rushed to judgment\" and did not act in the best interest of the company, customers or shareholders.", "refs": ["52c607490c", "d8c86a4cdc"] },
+        { "text": "OpenAI's Sam Altman and Anduril's Palmer Luckey expressed support for Huang at the DealBook Summit, The New York Times reported.", "refs": ["d33770b7d1"] },
+        { "text": "Nvidia shares fell again on Wednesday as the company's efforts failed to stabilize the stock or ease concerns about its \"neocloud\" customers, the Wall Street Journal reported.", "refs": ["635367eff6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "cae52ed263", "note": "Leads with the 103% revenue jump, putting the board decision second." },
+        { "ref": "52c607490c", "note": "Centers Ackman's criticism of the board." },
+        { "ref": "4b835e60b6", "note": "Describes Huang's departure in terms of his \"indiscretions\"." },
+        { "ref": "879c59d879", "note": "Emphasizes the pay raises Kress offered staff." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "879c59d879", "takeaway": "Summary only: all-hands meeting, \"move forward\" message and pay raises.", "read_full": false },
+        { "ref": "cffad8ff84", "takeaway": "Sourced account of the all-hands, framed around discouraging Huang's return.", "read_full": false },
+        { "ref": "52c607490c", "takeaway": "Ackman's criticism of the board, with his own words.", "read_full": false },
+        { "ref": "d8c86a4cdc", "takeaway": "Headline only: Ackman says the board panicked.", "read_full": false },
+        { "ref": "cae52ed263", "takeaway": "Headline only: earnings surge alongside the board decision.", "read_full": false },
+        { "ref": "b74a305deb", "takeaway": "Headline only: Kress's \"we've got this\" message.", "read_full": false },
+        { "ref": "d33770b7d1", "takeaway": "Headline and summary only (paywalled): tech leaders back Huang at DealBook.", "read_full": false },
+        { "ref": "4b835e60b6", "takeaway": "Headline and summary only (paywalled): Kress's remarks to staff.", "read_full": false },
+        { "ref": "635367eff6", "takeaway": "Headline and summary only (paywalled): Nvidia falls again; market mixed before Anthropic IPO.", "read_full": false },
+        { "ref": "d6195ca8e3", "takeaway": "Profile-style piece on Huang's fall and his role in building AI hardware.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "anthropic-ipo-debut",
+      "headline": "Anthropic's record IPO lifts stock futures",
+      "region": "Markets",
+      "importance": 4,
+      "summary": "Anthropic, the company behind the Claude chatbot, priced its initial public offering on Wednesday evening and begins trading on Nasdaq on Thursday; the BBC reported it raised $81 billion, a record. U.S. stock futures rallied overnight on hopes for a strong debut after several days of losses on Wall Street.",
+      "why_it_matters": "The listing is a test of how much investors will pay for AI companies, which now make up a large part of the funds in many retirement accounts.",
+      "background": "Anthropic is an AI company founded in 2021 by former OpenAI researchers; it makes the Claude models. It filed to list on Nasdaq under the ticker ANT and in November set a price range of $70 to $78 a share for 825 million shares. Before this, the largest IPO on record was SpaceX's in June 2026. The listing comes during a turbulent stretch for AI stocks, with Nvidia shaken by its CEO's exit.",
+      "facts": [
+        { "text": "Anthropic's filing set a range of $70 to $78 a share for 825 million Class A shares, to trade on Nasdaq as ANT.", "refs": ["biz-w4"] },
+        { "text": "The BBC reported that Anthropic raised $81 billion in a record-breaking market debut.", "refs": ["c6d87bb33a"] },
+        { "text": "U.S. stock futures rallied after the offering was priced, Bloomberg and Reuters reported.", "refs": ["2de53283d0", "c234999877"] },
+        { "text": "Stocks were looking to break a losing streak ahead of the debut, Reuters reported; U.S. indexes ended Wednesday mixed.", "refs": ["7edfc44c7e", "635367eff6"] },
+        { "text": "CNBC reported retail investor interest in the offering at levels comparable to SpaceX's debut.", "refs": ["ac31746ebe"] },
+        { "text": "Early investor Dustin Moskovitz said he felt uneasy about the IPO, The New York Times reported.", "refs": ["ac547cb1ce"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "c6d87bb33a", "note": "Leads with the record size and the company's place among the most valuable firms." },
+        { "ref": "d244e26713", "note": "Emphasizes Anthropic's revenue growth." },
+        { "ref": "c234999877", "note": "Frames the IPO through its effect on Nasdaq futures." },
+        { "ref": "6d934b22b0", "note": "Casts the IPO as a possible start to a year-end rally." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c6d87bb33a", "takeaway": "Summary only: record $81 billion raise.", "read_full": false },
+        { "ref": "c234999877", "takeaway": "Headline only: Nasdaq futures up on debut hopes.", "read_full": false },
+        { "ref": "7edfc44c7e", "takeaway": "Headline only: stocks aim to end losing streak.", "read_full": false },
+        { "ref": "d244e26713", "takeaway": "Headline only: historic debut as revenue grows.", "read_full": false },
+        { "ref": "2de53283d0", "takeaway": "Headline and summary only (paywalled): futures rally on record IPO pricing.", "read_full": false },
+        { "ref": "ac31746ebe", "takeaway": "Summary only: strong retail investor demand.", "read_full": false },
+        { "ref": "6d934b22b0", "takeaway": "Headline and summary only (paywalled): bulls hope for a year-end rally.", "read_full": false },
+        { "ref": "635367eff6", "takeaway": "Headline and summary only (paywalled): mixed close before the IPO.", "read_full": false },
+        { "ref": "ac547cb1ce", "takeaway": "Headline and summary only (paywalled): an early investor's misgivings.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iea-energy-shock-outlook",
+      "headline": "IEA says Iran war's energy shock will permanently change energy use",
+      "region": "Energy",
+      "importance": 3,
+      "summary": "The International Energy Agency said in its annual outlook that there is no return to the energy system that existed before the Iran war, and that countries' energy-security responses could cut oil demand by 4% by 2035. The report comes as attacks on tankers in the Strait of Hormuz continue and high fuel prices push up inflation, including in Britain.",
+      "why_it_matters": "The war has kept gasoline and diesel prices high, and the IEA's view suggests the shift toward other energy sources that drivers and households are seeing will last.",
+      "background": "The International Energy Agency is a Paris-based body that advises mostly wealthy countries on energy. The war involving Iran has disrupted shipping through the Strait of Hormuz, a narrow passage for a large share of the world's oil, causing an oil price shock in 2026. Earlier this year the IEA said global oil demand would fall for the first time since the pandemic. Its annual outlook is its most comprehensive look at where energy use is heading.",
+      "facts": [
+        { "text": "The IEA said the energy-security response to the Iran war could cut oil demand by 4% by 2035.", "refs": ["f00d9b7242"] },
+        { "text": "The IEA said there is no going back \"to the way it was before\" the war's energy shock.", "refs": ["fecdc438a1"] },
+        { "text": "The New York Times reported that the IEA found the oil shock could speed the adoption of alternative power sources.", "refs": ["157cfcc0b5"] },
+        { "text": "Iran has continued attacks on ships in the Strait of Hormuz, including a strike on an already disabled vessel, The New York Times reported.", "refs": ["9e53b40891"] },
+        { "text": "UK inflation rose to 3.6% in October, a one-year high, driven mainly by petrol and diesel prices, official figures showed.", "refs": ["844887fbf4", "ac7bfee9bf"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f00d9b7242", "note": "Leads with a specific number: the cut in oil demand by 2035." },
+        { "ref": "fecdc438a1", "note": "Emphasizes the permanence of the change with the IEA's own words." },
+        { "ref": "157cfcc0b5", "note": "Frames the report as a remaking of the global energy order." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f00d9b7242", "takeaway": "Headline only: the 4% oil-demand figure.", "read_full": false },
+        { "ref": "fecdc438a1", "takeaway": "Headline only: no return to the pre-war energy system.", "read_full": false },
+        { "ref": "9616babf1c", "takeaway": "AP wire reprint, headline only.", "read_full": false },
+        { "ref": "157cfcc0b5", "takeaway": "Headline and summary only (paywalled): shift toward alternative power.", "read_full": false },
+        { "ref": "9e53b40891", "takeaway": "Headline and summary only (paywalled): continuing tanker attacks.", "read_full": false },
+        { "ref": "844887fbf4", "takeaway": "Summary only: record diesel prices push UK inflation to 3.6%.", "read_full": false },
+        { "ref": "ac7bfee9bf", "takeaway": "Explainer on UK inflation and fuel prices.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "palo-alto-earnings-deal",
+      "headline": "Palo Alto Networks shares rise on earnings and a $4.5 billion AI deal",
+      "region": "Earnings",
+      "importance": 2,
+      "summary": "Palo Alto Networks shares rose about 7% after it reported quarterly results, raised its outlook and agreed to buy AI startup Applied Compute for $4.5 billion. The company cited the current threat environment and demand it sees ahead.",
+      "why_it_matters": "The results suggest companies are spending more to defend against AI-driven cyberattacks, a cost that can show up in the services people use. Only center and left-leaning outlets in the digest covered it.",
+      "background": "Palo Alto Networks is one of the largest U.S. cybersecurity companies, selling firewalls and security software to businesses and governments. It has been buying smaller companies to build tools against AI-enabled threats.",
+      "facts": [
+        { "text": "Palo Alto Networks agreed to buy AI startup Applied Compute for $4.5 billion, and its shares rose about 7% after its earnings report.", "refs": ["0f47bc4d12"] },
+        { "text": "The company raised its outlook, citing the \"current threat environment and demand\" it sees ahead.", "refs": ["9830b4f305"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "0f47bc4d12", "note": "Leads with the acquisition, then the stock move." },
+        { "ref": "9830b4f305", "note": "Frames the results as an AI-fueled boost to the stock." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "0f47bc4d12", "takeaway": "Summary only: deal plus earnings-driven stock jump.", "read_full": false },
+        { "ref": "9830b4f305", "takeaway": "Summary only: raised outlook tied to AI-related threats.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "biz-w1", "url": "https://www.newsquawk.com/headlines/primer-fomc-minutes-due-wednesday-1900gmt1400est", "title": "Primer: FOMC Minutes due Wednesday 18th November", "outlet": "Newsquawk" },
+    { "id": "biz-w2", "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition", "title": "NVIDIA Announces CEO Transition", "outlet": "Nvidia" },
+    { "id": "biz-w3", "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/default.aspx", "title": "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027", "outlet": "Nvidia" },
+    { "id": "biz-w4", "url": "https://www.renaissancecapital.com/IPO-Center/News/122657/anthropic-sets-terms-for-61-billion-ipo-targeting-a-1.2-trillion-market-cap", "title": "Anthropic sets terms for IPO", "outlet": "Renaissance Capital" }
+  ]
+}
