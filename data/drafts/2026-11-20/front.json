@@ -1,0 +1,71 @@
+{
+  "overview": "Wall Street fell sharply on Thursday even as Anthropic's record $81 billion stock offering jumped 17% in its debut; the Dow and Nasdaq each lost more than 2%, and the selling spread to Asia and Europe on Friday. Donald Trump, Xi Jinping and Vladimir Putin left their 90-minute Shenzhen summit with a pledge on nuclear risk but no Ukraine agreement, and Putin promised a response \"far more painful\" than Ukraine's strikes on the Crimean Bridge. In Washington, the Senate passed a permitting overhaul 62-33 and blocked a resolution to end hostilities with Iran, while the White House replaced its national cyber director after a wave of tech outages. In New York, Mayor Zohran Mamdani proposed pushing the deadline to close Rikers Island to the end of 2032 and signed a law phasing out carriage horses by June 2028.",
+  "markets": {
+    "summary": "U.S. stocks dropped on Thursday: the Dow fell about 1,100 points, or 2.2%, the tech-heavy Nasdaq lost 2.3%, and the S&P 500 fell again, extending what the Associated Press called Wall Street's longest losing streak since 2024. Anthropic, the maker of the Claude chatbot, raised a record $81 billion and its shares rose 17% on their first day, but the debut did not stop investors from selling other stocks tied to artificial intelligence amid doubts about how much AI companies are worth. The selling carried into Friday, with Asian markets on track for their worst week since 2020, European technology shares falling and U.S. stock futures (bets on where indexes will open) pointing lower; Bloomberg reported Anthropic's own shares gave back more than 6% in early trading. Reuters reported that Wall Street's \"fear gauge\", a measure of how big investors expect stock swings to be, touched a seven-month high. The average 30-year mortgage rate rose to 7.28%.",
+    "movers": [
+      {
+        "symbol": "NASDAQCOM",
+        "why": "The Nasdaq fell 2.3% on Thursday and is down about 9.6% in a month, as investors kept selling AI and chip stocks despite Anthropic's strong first day."
+      },
+      {
+        "symbol": "DJIA",
+        "why": "The Dow lost about 1,100 points, or 2.2%, as the sell-off that began in technology shares spread across the wider market."
+      },
+      {
+        "symbol": "MORTGAGE30US",
+        "why": "The average 30-year mortgage rate rose 17 basis points (0.17 percentage point) in a week to 7.28%; today's coverage doesn't give a single cause, though Federal Reserve officials signaled this week that they expect to raise rates in December."
+      },
+      {
+        "symbol": "CBBTCUSD",
+        "why": "Bitcoin fell another 1.8% to about $62,000 and is down roughly 25% in a month, sliding alongside other risky assets; today's coverage doesn't name a specific trigger."
+      }
+    ],
+    "concept": {
+      "term": "Volatility index (VIX)",
+      "explanation": "The VIX, often called Wall Street's \"fear gauge\", is a number that shows how much investors expect the S&P 500 to swing over the next 30 days. It is calculated from the prices of options, which are contracts investors buy to protect themselves against big moves; when more people pay up for that protection, the VIX rises. It usually jumps when stocks fall fast and sinks when markets are calm. It doesn't change your bills directly, but a high reading means the stock funds in a retirement account are likely to move more from day to day, and long stretches of market fear can make companies slower to hire and invest."
+    },
+    "watch": [
+      "Wed Nov 25: Second estimate of third-quarter GDP (8:30 a.m. ET)",
+      "Thu Nov 26: U.S. stock markets closed for Thanksgiving",
+      "Fri Nov 27: Black Friday; U.S. stock markets close early at 1 p.m. ET",
+      "Tue-Wed Dec 8-9: Federal Reserve meeting, with a rate decision on Dec. 9"
+    ]
+  },
+  "trending": [
+    {
+      "title": "Ukraine strikes Kerch Bridge railway",
+      "context": "Nearly 10,000 Bluesky posts follow Ukraine's third strike in four days on the bridge linking Russia to Crimea, which halted rail traffic and drew a vow of retaliation from Putin.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Anthropic and Dario Amodei",
+      "context": "Readers are looking up the AI company and its chief executive after its shares began trading on Nasdaq in the largest stock offering on record.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "COP31 draft drops fossil fuels",
+      "context": "Bluesky users are reacting to a new draft agreement at the UN climate talks in Antalya, Turkey, that removed all mention of coal, oil and gas.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Jensen Huang",
+      "context": "The Nvidia co-founder resigned as chief executive amid allegations that he was targeted by a Chinese spy and had extramarital affairs; California's attorney general has now subpoenaed the company.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "World Court rules in Rohingya genocide case",
+      "context": "Posts are spreading about the International Court of Justice finding that Myanmar committed genocide against the Rohingya, a ruling Myanmar's government called unfair.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Army to detonate lead explosives in Iowa",
+      "context": "The Army plans a controlled detonation of about 5 tons of unstable lead azide at the Iowa Army Ammunition Plant and delayed it to Monday after residents and lawmakers raised concerns about a toxic dust cloud.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Grand Theft Auto VI",
+      "context": "The newly released game's page is again the most viewed on Wikipedia, with about 750,000 views in a day.",
+      "signal": "wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "stories": [
+    {
+      "id": "cyber-director-replaced",
+      "headline": "White House replaces national cyber director after a week of tech outages",
+      "region": "White House",
+      "importance": 5,
+      "summary": "Sean Cairncross is out as White House national cyber director, days after outages disrupted air travel, banking and government systems. Kirsten Davies, the Pentagon's chief information officer, will fill the job in an acting capacity. Outlets differ on whether he was fired or is leaving.",
+      "why_it_matters": "The office coordinates federal cybersecurity policy, and the change comes while travelers, bank customers and federal agencies are still dealing with a run of outages whose causes have not been fully explained.",
+      "background": "The national cyber director advises the president on cybersecurity and coordinates policy across federal agencies. President Trump named Cairncross, then a Republican National Committee executive, to the post in February 2025. Over the past week, outages hit Microsoft services, flights, banks and a National Security Agency network. Microsoft said it had no indication its outage was related to the Federal Aviation Administration's nationwide ground stop. Davies comes to the role from the Defense Department, where she is chief information officer.",
+      "facts": [
+        { "text": "Sean Cairncross is leaving the post of White House national cyber director, a White House official told CBS News.", "refs": ["cc4d5e7c2d"] },
+        { "text": "Kirsten Davies, the Pentagon's chief information officer, will take over the role in an acting capacity.", "refs": ["4372b19b73", "e536767b45", "cccff391ea"] },
+        { "text": "The change came days after technology outages disrupted US air travel, banking and national security systems, according to Reuters reporting carried by other outlets.", "refs": ["6455c7d0ec", "02633a188f"] },
+        { "text": "The National Security Agency saw a third day of disruptions to its internal network, NSA Net, on Thursday, the Guardian reported.", "refs": ["c38a95a63f"] },
+        { "text": "Microsoft said it had no indication that the FAA's nationwide ground stop was related to its services.", "refs": ["us-w2"] },
+        { "text": "Trump named Cairncross, a Republican National Committee executive, as national cyber director in February 2025.", "refs": ["us-w3"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Cairncross was fired or is leaving",
+          "positions": [
+            { "claim": "He was fired, according to a person close to the White House cited by Reuters; Fox News reported that Trump backed the firing.", "refs": ["6455c7d0ec", "02633a188f", "2ade3fd725"] },
+            { "claim": "He \"will be leaving his position,\" a White House official told CBS News; other outlets say he is being replaced.", "refs": ["cc4d5e7c2d", "cccff391ea", "bc07702924"] }
+          ]
+        },
+        {
+          "topic": "The reason given for his removal",
+          "positions": [
+            { "claim": "Fox News reported the firing was over his cybersecurity credentials.", "refs": ["2ade3fd725"] },
+            { "claim": "The BBC, citing CBS, reported he was fired after losing the confidence of White House chief of staff Stephen Miller.", "refs": ["77ce998683"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "6455c7d0ec", "note": "Uses \"ousted\" and ties the exit directly to the outages and the criticism that followed." },
+        { "ref": "2ade3fd725", "note": "Calls him \"Trump's\" director and says \"fired,\" with the summary stressing that Trump backed the move." },
+        { "ref": "9c9ca87942", "note": "Leads with the successor, Kirsten Davies, and with Americans being \"rattled\" by the outages." },
+        { "ref": "cc4d5e7c2d", "note": "Neutral wording: he is \"leaving his post,\" with no mention of the outages in the headline." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "cc4d5e7c2d", "takeaway": "Sources the departure to a White House official; says he is leaving.", "read_full": false },
+        { "ref": "6455c7d0ec", "takeaway": "Carries Reuters reporting that he was ousted days after the outages.", "read_full": false },
+        { "ref": "2ade3fd725", "takeaway": "Says he was fired with Trump's backing, over his cybersecurity credentials.", "read_full": false },
+        { "ref": "4372b19b73", "takeaway": "Short account: he leaves after a chaotic week; Davies is acting director.", "read_full": false },
+        { "ref": "77ce998683", "takeaway": "Cites CBS reporting that he lost the confidence of the chief of staff.", "read_full": false },
+        { "ref": "cccff391ea", "takeaway": "Says he is being replaced by Davies amid widespread outages.", "read_full": false },
+        { "ref": "e536767b45", "takeaway": "Says he was fired; notes Davies's appointment is acting.", "read_full": false },
+        { "ref": "02633a188f", "takeaway": "Headline and summary only (paywalled): Reuters account that he was \"fired.\"", "read_full": false },
+        { "ref": "bc07702924", "takeaway": "Headline and summary only (paywalled): says he was replaced after outages at companies and agencies.", "read_full": false },
+        { "ref": "c38a95a63f", "takeaway": "Live blog noting a third day of NSA network disruptions.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "senate-permitting-bill",
+      "headline": "Senate passes bipartisan permitting overhaul 62-33, sending it to the House",
+      "region": "Congress",
+      "importance": 5,
+      "summary": "The Senate voted 62-33 Thursday night for a bill that would speed federal permitting reviews for energy and infrastructure projects and limit legal challenges to them. Thirty-one Democrats and two Republicans voted no. The bill now needs House approval before going to President Trump.",
+      "why_it_matters": "Supporters say faster approvals for power plants and transmission lines would raise energy supply and lower bills, and the bill would make data centers pay for the energy they use; opponents say it weakens environmental review of projects near where people live.",
+      "background": "Building a power line, pipeline or power plant in the US often requires years of federal environmental review and can be held up by lawsuits. Lawmakers from both parties have tried for years to shorten that process, and electricity demand from artificial intelligence data centers has added pressure. The bill, called the Bipartisan American Affordability and Jobs Act, cleared a first procedural vote 73-25 on Nov. 9. Democrats split over it, with environmental groups opposed.",
+      "facts": [
+        { "text": "The Senate passed the bill 62-33 on Thursday night.", "refs": ["3729fd609f"] },
+        { "text": "Thirty-one Democrats and two Republicans voted against it.", "refs": ["adffac4383"] },
+        { "text": "The bill would speed environmental reviews, expand the electric grid and limit legal challenges to projects.", "refs": ["f8084573be", "44acc31ed8"] },
+        { "text": "It includes provisions meant to make data centers pay for the energy they use.", "refs": ["44acc31ed8", "a7eb794822"] },
+        { "text": "The bill must still pass the House before going to President Trump.", "refs": ["4ace466209", "3729fd609f"] },
+        { "text": "Many Democrats and environmental groups opposed the bill.", "refs": ["a7eb794822", "8a7e84c767"] },
+        { "text": "The bill cleared its first procedural vote in the Senate 73-25 on Nov. 9.", "refs": ["us-w4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f8084573be", "note": "Credits \"Senate Republicans\" with the breakthrough and highlights energy and data centers; does not say \"bipartisan\" in the headline." },
+        { "ref": "f4d3589aa2", "note": "Calls it bipartisan and puts \"environmental concerns\" in the headline." },
+        { "ref": "5f341459af", "note": "Stresses that the bill passed without changes some senators wanted." },
+        { "ref": "44acc31ed8", "note": "Puts the requirement that data centers pay energy costs alongside the faster reviews." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3729fd609f", "takeaway": "Vote story with the 62-33 tally and the House as next step.", "read_full": false },
+        { "ref": "adffac4383", "takeaway": "Lists the 33 no votes by party.", "read_full": false },
+        { "ref": "f8084573be", "takeaway": "Frames passage as a Republican win on energy and data centers.", "read_full": false },
+        { "ref": "44acc31ed8", "takeaway": "AP wire story on faster reviews and data center energy costs.", "read_full": false },
+        { "ref": "4ace466209", "takeaway": "Notes backing from the AI and energy industries and the remaining House vote.", "read_full": false },
+        { "ref": "a7eb794822", "takeaway": "Leads with opposition from Democrats and environmental groups.", "read_full": false },
+        { "ref": "f4d3589aa2", "takeaway": "Ties the bill to rising energy costs and AI-driven demand.", "read_full": false },
+        { "ref": "8a7e84c767", "takeaway": "Headline and summary only (paywalled): says the bill split Democrats.", "read_full": false },
+        { "ref": "5f341459af", "takeaway": "Headline only: passage came without changes senators sought.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "senate-iran-war-powers",
+      "headline": "Senate Republicans block a resolution to end the Iran war in first vote since the midterms",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "Senate Republicans on Thursday blocked a war powers resolution that would have directed President Trump to end hostilities with Iran. Democrats and a small number of Republicans supported it. Democrats, who are set to take control of both chambers, have not settled on a plan for what they will do next.",
+      "why_it_matters": "The vote leaves the president free to continue the war without new limits from Congress, at least until the new Congress is seated.",
+      "background": "The US has been at war with Iran this year, and Congress has voted several times on whether to order an end to it under the War Powers Resolution, a law meant to limit military action without congressional approval. The Senate rejected one such measure 47-53 in March and approved one for the first time in June. Republicans lost seats in this month's midterm elections, and Democrats are set to hold majorities in the House and Senate. Sen. Tim Kaine, a Virginia Democrat, has been a lead sponsor of these efforts.",
+      "facts": [
+        { "text": "Senate Republicans blocked a measure Thursday that would have directed President Trump to end hostilities in Iran.", "refs": ["eae827f38b", "a8283b9aa6", "281ef9b433"] },
+        { "text": "It was the Senate's first vote on the conflict since the midterm elections.", "refs": ["84fa7693c0", "eae827f38b"] },
+        { "text": "Some Republicans joined Democrats in support, but the Washington Times reported there was no new Republican support compared with earlier votes.", "refs": ["600935fef0", "687046cc10"] },
+        { "text": "Democrats are set to take House and Senate majorities, and some want to press the administration to end the war, though CBS News reported the exact plan is not clear.", "refs": ["d409ed1430"] },
+        { "text": "The Senate rejected an Iran war powers resolution 47-53 in March.", "refs": ["us-w5"] },
+        { "text": "In June the Senate approved a war powers resolution on Iran for the first time.", "refs": ["us-w6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "a8283b9aa6", "note": "Describes the vote as Republicans \"backing Trump.\"" },
+        { "ref": "600935fef0", "note": "Casts supporters as Democrats and Republican \"rebels\" who failed, and points to a larger fight ahead." },
+        { "ref": "84fa7693c0", "note": "Says voters \"repudiated\" the conflict at the polls and that the measure would \"rein in\" Trump." },
+        { "ref": "687046cc10", "note": "Emphasizes that the election losses produced no additional Republican votes." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "eae827f38b", "takeaway": "Vote story noting Democrats had hoped the midterm result would change the outcome.", "read_full": false },
+        { "ref": "a8283b9aa6", "takeaway": "Headline only: Republicans blocked the resolution in support of Trump.", "read_full": false },
+        { "ref": "600935fef0", "takeaway": "Notes Republican defectors and says Kaine denied shutdown threats.", "read_full": false },
+        { "ref": "288d2f4317", "takeaway": "Says the measure fell short again despite Republican frustration with the war.", "read_full": false },
+        { "ref": "687046cc10", "takeaway": "Headline only: no new Republican support after the election.", "read_full": false },
+        { "ref": "281ef9b433", "takeaway": "Headline only: calls it the latest Democratic effort to end the war.", "read_full": false },
+        { "ref": "84fa7693c0", "takeaway": "Headline and summary only (paywalled): first post-midterm vote on the conflict.", "read_full": false },
+        { "ref": "d409ed1430", "takeaway": "Looks ahead to what Democrats can do once they hold both chambers.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "doj-alaska-senate-lawsuit",
+      "headline": "Justice Department moves to drop its lawsuit over Alaska's Senate race after Peltola's win",
+      "region": "Courts",
+      "importance": 4,
+      "summary": "The Justice Department asked a federal appeals court Thursday to dismiss the lawsuit it filed before the election seeking to block certification of Alaska's US Senate race if Republican Sen. Dan Sullivan lost. Democrat Mary Peltola won the race this week.",
+      "why_it_matters": "The filing removes a federal legal challenge to seating the winner of a Senate election, in a case that tested whether Washington can hold up a state's certified results.",
+      "background": "Alaska's Senate race pitted incumbent Republican Dan Sullivan against Democrat Mary Peltola. A second candidate, a retired teacher also named Dan Sullivan, was on the ballot, and the Justice Department sued less than two weeks before the election, asking for an investigation into whether votes for him were meant for the senator. US District Judge Sharon Gleason dismissed the suit on Nov. 1, and the department filed notice that it would appeal. Peltola was declared the winner this week.",
+      "facts": [
+        { "text": "In a filing Thursday, the Trump administration asked a federal appeals court to dismiss the lawsuit it filed before the midterm elections.", "refs": ["feedd56ce8", "e3fb41ae8b", "2ff6d86481"] },
+        { "text": "The suit had sought to block certification of the results if Sen. Dan Sullivan lost.", "refs": ["4ad22076bd", "208fd5d906"] },
+        { "text": "Democrat Mary Peltola won the race.", "refs": ["4ad22076bd", "a1531f5596", "01fbcd11f0"] },
+        { "text": "The case centered on a second candidate who shared the senator's name.", "refs": ["e3fb41ae8b", "feedd56ce8"] },
+        { "text": "US District Judge Sharon Gleason dismissed the lawsuit before the election, writing that the Constitution gives states the authority to run elections; the Justice Department then filed a notice of appeal.", "refs": ["us-w7"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "208fd5d906", "note": "Says the department \"gives up\" and notes critics called the suit meritless." },
+        { "ref": "feedd56ce8", "note": "Calls it the \"Trump DoJ\" and describes the suit as a challenge to Peltola's win." },
+        { "ref": "a1531f5596", "note": "Says the department \"drops\" the suit and ties the timing to Peltola's victory." },
+        { "ref": "e3fb41ae8b", "note": "Procedural wording: the department \"looks to dismiss\" its lawsuit." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "4ad22076bd", "takeaway": "Explains the suit targeted certification if Sullivan lost; Peltola won.", "read_full": false },
+        { "ref": "feedd56ce8", "takeaway": "Notes the request went to a federal appeals court and the two candidates named Dan Sullivan.", "read_full": false },
+        { "ref": "e3fb41ae8b", "takeaway": "Court-filing story focused on the same-name candidate.", "read_full": false },
+        { "ref": "01fbcd11f0", "takeaway": "Says the move effectively drops the challenge to Peltola's win.", "read_full": false },
+        { "ref": "a1531f5596", "takeaway": "Says the department sued preemptively and dropped the case after Peltola won this week.", "read_full": false },
+        { "ref": "2ff6d86481", "takeaway": "Headline only: AP wire on the motion to dismiss.", "read_full": false },
+        { "ref": "208fd5d906", "takeaway": "Headline and summary only (paywalled): notes critics called the suit meritless.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "cisa-nominee-hearing",
+      "headline": "Trump's nominee to lead CISA declines to say who won in 2020 or call Jan. 6 an attack",
+      "region": "Congress",
+      "importance": 3,
+      "summary": "Michael LoSapio, nominated to lead the Cybersecurity and Infrastructure Security Agency, told senators Thursday he does not consider the Jan. 6, 2021, Capitol riot an \"attack\" and would not say who won the 2020 presidential election. He said he would reevaluate the agency's budget and staffing if confirmed.",
+      "why_it_matters": "CISA helps states protect election systems and helps defend power, water and other critical networks, so its director's views on past elections and on the agency's size bear on how that work is done.",
+      "background": "CISA is the Department of Homeland Security agency responsible for defending critical infrastructure and supporting election security. LoSapio is the chief information security officer at Palantir, a data-analytics company. He appeared before the Senate Homeland Security and Governmental Affairs Committee, where Sen. Richard Blumenthal, a Connecticut Democrat, questioned him about the 2020 election and Jan. 6. The hearing came during a week of major technology outages.",
+      "facts": [
+        { "text": "LoSapio said the Jan. 6, 2021, riot at the Capitol was not an \"attack\" when pressed by Sen. Richard Blumenthal.", "refs": ["45f37ba7b6", "e9a904bba1"] },
+        { "text": "He did not answer who won the 2020 presidential election.", "refs": ["587cd01f01", "1a1d631a29", "fb88884e09"] },
+        { "text": "He told lawmakers he plans to reevaluate CISA's budget and staffing if confirmed.", "refs": ["1a1d631a29"] },
+        { "text": "Trump chose Palantir's chief information security officer to lead CISA.", "refs": ["us-w8"] },
+        { "text": "Some people in the cybersecurity industry have raised concerns about the nomination, Nextgov reported before the hearing.", "refs": ["us-w9"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "e9a904bba1", "note": "Says he \"rejects\" Jan. 6 as an attack, a more active verb than declining to answer." },
+        { "ref": "fb88884e09", "note": "Says he \"ducks\" questions and itself calls Jan. 6 the \"Capitol attack.\"" },
+        { "ref": "c73302bc0d", "note": "Runs the AP headline, which identifies CISA by its election-protection role." },
+        { "ref": "1a1d631a29", "note": "Says he \"dodges\" and uses the word \"insurrection\"; the summary adds his budget and staffing plans." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "1a1d631a29", "takeaway": "Hearing coverage that also reports his plan to review budget and staffing.", "read_full": false },
+        { "ref": "e9a904bba1", "takeaway": "AP wire: he does not consider Jan. 6 an attack.", "read_full": false },
+        { "ref": "587cd01f01", "takeaway": "Says he refused to say who won in 2020 or call the riot an attack.", "read_full": false },
+        { "ref": "45f37ba7b6", "takeaway": "Video of the exchange with Blumenthal.", "read_full": false },
+        { "ref": "fb88884e09", "takeaway": "Says he ducked questions on both topics; gives his current job.", "read_full": false },
+        { "ref": "c73302bc0d", "takeaway": "Headline only: carries the AP story.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iowa-army-detonation-delayed",
+      "headline": "Army postpones detonation of 5 tons of unstable explosive in Iowa after safety concerns",
+      "region": "Iowa",
+      "importance": 3,
+      "summary": "The Army postponed Friday's planned detonation of about 5 tons of lead azide at the Iowa Army Ammunition Plant in Middletown after residents and lawmakers raised concerns about a plume of lead dust. The BBC reported the blast is now set for Monday.",
+      "why_it_matters": "People near the plant had been asked to leave their homes, and the Army itself expects the blast to send lead-bearing dust into the air over parts of Iowa and possibly Illinois.",
+      "background": "Lead azide is an explosive used in making munitions. The Army says 68 drums of it at the Iowa Army Ammunition Plant have degraded, cannot be used and could explode if moved, so it plans to destroy them in controlled detonations. The Environmental Protection Agency permitted the operation, according to the Army. Residents of nearby Middletown were asked to evacuate temporarily, and Iowa lawmakers said they were given short notice.",
+      "facts": [
+        { "text": "The Army delayed the detonation of about 5 tons of lead azide at the Iowa Army Ammunition Plant.", "refs": ["ef2461ceb5", "a826e2bee9", "9ae388da72"] },
+        { "text": "Acting Army Secretary Adam Telle announced the postponement after lawmakers said they were given short notice.", "refs": ["2e9ebadc70"] },
+        { "text": "The detonation is now set for Monday, the BBC reported.", "refs": ["bdb9550d22"] },
+        { "text": "The Army had asked Middletown residents to evacuate temporarily on Friday before detonating 68 drums of the chemical.", "refs": ["aac5c05fe1"] },
+        { "text": "The material is unusable and might explode if moved, and residents worry a lead dust cloud could cause contamination and health problems.", "refs": ["aebbb29b68"] },
+        { "text": "The dust plume could spread across parts of Iowa and Illinois.", "refs": ["a826e2bee9"] },
+        { "text": "The Army's advisory had scheduled two controlled detonations for about noon on Nov. 20 and said the EPA permitted the operation.", "refs": ["us-w10"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Why the detonation was postponed",
+          "positions": [
+            { "claim": "The Army cited a drop in temperature, Fox News reported.", "refs": ["9ae388da72"] },
+            { "claim": "The delay followed concerns from residents and pleas from Iowa lawmakers, with the Army saying public safety is its top priority.", "refs": ["2e9ebadc70", "bdb9550d22", "ef2461ceb5"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "bdb9550d22", "note": "Leads with the Army's own warning of a \"toxic plume.\"" },
+        { "ref": "9ae388da72", "note": "Plain account of a delayed \"controlled detonation\"; the summary gives weather as the reason." },
+        { "ref": "2e9ebadc70", "note": "Credits Iowa lawmakers' pleas for the postponement." },
+        { "ref": "a826e2bee9", "note": "Highlights that toxic dust could cross into Illinois." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ef2461ceb5", "takeaway": "Says the delay followed residents' concerns; quotes the Army on public safety.", "read_full": false },
+        { "ref": "2e9ebadc70", "takeaway": "Names the acting Army secretary and the lawmakers' complaint about short notice.", "read_full": false },
+        { "ref": "bdb9550d22", "takeaway": "Gives Monday as the new date.", "read_full": false },
+        { "ref": "9ae388da72", "takeaway": "Says the Army cited a temperature drop.", "read_full": false },
+        { "ref": "aac5c05fe1", "takeaway": "Earlier story on the evacuation request and the 68 drums.", "read_full": false },
+        { "ref": "aebbb29b68", "takeaway": "Focuses on residents' fears of lead contamination.", "read_full": false },
+        { "ref": "a826e2bee9", "takeaway": "Notes the plume could reach parts of Illinois.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "rollins-religious-emails-ruling",
+      "headline": "Judge rules agriculture secretary's religious emails to staff violated the First Amendment",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "A federal judge ruled that Agriculture Secretary Brooke Rollins's religious emails to about 100,000 department employees were unconstitutional and ordered limits on such messages. The department said it may challenge the ruling, the Guardian reported.",
+      "why_it_matters": "The ruling sets a limit on how far a Cabinet official can go in promoting a religion to the federal workers she supervises. In today's ingest it was covered mostly by left-leaning outlets, with one right-leaning outlet.",
+      "background": "Rollins leads the US Department of Agriculture. A federal employees' union and department workers sued, saying her holiday messages to staff, including at Easter and Christmas, had become increasingly proselytizing and violated the First Amendment's ban on government establishment of religion. The case, National Federation of Federal Employees v. USDA, was filed in federal court in Northern California. The judge has now sided with the employees.",
+      "facts": [
+        { "text": "A federal judge ruled that Rollins's religious emails to 100,000 employees were unconstitutional.", "refs": ["e2ac50db2f", "40908885a4"] },
+        { "text": "The judge ordered limits on Rollins's promotion of her religious beliefs to the department, saying the emails violated the First Amendment.", "refs": ["209c7ccca8"] },
+        { "text": "The messages at issue included Christmas and Easter emails.", "refs": ["32df12e194", "us-w11"] },
+        { "text": "The department said it may challenge the ruling, according to the Guardian.", "refs": ["2717393060"] },
+        { "text": "Federal employees sued the department over the emails, arguing they violated the First Amendment's establishment clause.", "refs": ["us-w11", "us-w12"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "32df12e194", "note": "Says the judge told Rollins to \"cool it\" with Christmas and Easter messages; does not use the word unconstitutional." },
+        { "ref": "209c7ccca8", "note": "Calls them \"Christian messages\" and quotes the judge's phrase that they went \"too far.\"" },
+        { "ref": "e2ac50db2f", "note": "AP headline states the legal finding directly: the emails were unconstitutional." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e2ac50db2f", "takeaway": "AP wire with the ruling and the 100,000-employee figure.", "read_full": false },
+        { "ref": "209c7ccca8", "takeaway": "Headline and summary only (paywalled): judge ordered limits and found a First Amendment violation.", "read_full": false },
+        { "ref": "32df12e194", "takeaway": "Headline only: frames the order around Christmas and Easter messages.", "read_full": false },
+        { "ref": "2717393060", "takeaway": "Live blog noting the department may appeal.", "read_full": false },
+        { "ref": "40908885a4", "takeaway": "Headline only: AP story on the ruling.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w2", "url": "https://kotaku.com/microsoft-on-faa-ground-stop-it-wasnt-me-2000756749", "title": "Microsoft on FAA ground stop: it wasn't me", "outlet": "Kotaku" },
+    { "id": "us-w3", "url": "https://www.axios.com/2025/02/12/trump-names-rnc-executive-national-cyber-director", "title": "Trump taps RNC executive as national cyber director", "outlet": "Axios" },
+    { "id": "us-w4", "url": "https://www.axios.com/2026/11/09/senate-advances-bipartisan-permitting-bill-key-test-vote", "title": "Senate advances bipartisan permitting bill in key test vote", "outlet": "Axios" },
+    { "id": "us-w5", "url": "https://www.aljazeera.com/news/2026/3/4/us-senate-fails-to-advance-war-powers-measure-to-rein-trumps-war-with-iran", "title": "US Senate fails to advance war powers measure to rein in Trump's Iran war", "outlet": "Al Jazeera" },
+    { "id": "us-w6", "url": "https://abc7.com/post/senate-first-time-approves-war-powers-resolution-rebuke-trump-iran-conflict/19365164/", "title": "Senate for first time approves a war powers resolution in a rebuke to Trump over Iran conflict", "outlet": "Associated Press via ABC7" },
+    { "id": "us-w7", "url": "https://www.hawaiinewsnow.com/2026/11/02/judge-dismisses-lawsuit-seeking-block-certification-alaska-senate-race-if-gop-incumbent-loses/?outputType=amp", "title": "Judge dismisses lawsuit seeking to block certification of Alaska Senate race if GOP incumbent loses", "outlet": "Associated Press via Hawaii News Now" },
+    { "id": "us-w8", "url": "https://www.govinfosecurity.com/trump-taps-palantir-ciso-to-lead-cisa-a-33349", "title": "Trump Taps Palantir CISO to Lead CISA", "outlet": "GovInfoSecurity" },
+    { "id": "us-w9", "url": "https://www.nextgov.com/cybersecurity/2026/11/some-cyber-industry-have-qualms-about-trumps-latest-cisa-nominee/417275/", "title": "Some in cyber industry have qualms about Trump's latest CISA nominee", "outlet": "Nextgov" },
+    { "id": "us-w10", "url": "https://www.army.mil/article/296772", "title": "IAAAP Public Advisory", "outlet": "US Army" },
+    { "id": "us-w11", "url": "https://wjla.com/news/nation-world/federal-employees-sue-usda-for-alleged-christian-proselytizing-in-holiday-emails-brooke-rollins-first-amendment-easter-christmas-god-jesus", "title": "Federal employees sue USDA for alleged 'Christian proselytizing' in holiday emails", "outlet": "WJLA" },
+    { "id": "us-w12", "url": "https://www.abajournal.com/news/article/employees-sue-usda-secretary-over-increasingly-proselytizing-christian-emails", "title": "Employees sue USDA secretary over 'increasingly proselytizing' Christian emails", "outlet": "ABA Journal" }
+  ]
+}

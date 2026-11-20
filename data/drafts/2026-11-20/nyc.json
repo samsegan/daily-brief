@@ -1,0 +1,642 @@
+{
+  "stories": [
+    {
+      "id": "rikers-closure-2032",
+      "headline": "Mamdani sets end of 2032 as new target for closing Rikers Island",
+      "region": "City Hall",
+      "importance": 5,
+      "summary": "Mayor Zohran Mamdani released a plan Friday to end incarceration on Rikers Island by the end of 2032, more than five years after the deadline now written into city law. The plan would move the remaining jail population to smaller facilities in four boroughs and depends on cutting the number of people held. The City Council has to approve the new deadline.",
+      "why_it_matters": "The plan decides where and how the city holds people awaiting trial, how much it spends to shrink the jail population, and when four new borough jails open in residential neighborhoods. Most of the coverage in today's digest comes from left-leaning and center outlets.",
+      "background": "Rikers Island is New York City's main jail complex, and it has a long record of assaults and deaths among people held there. A city law passed in 2019 requires the complex to shut by Aug. 31, 2027, and to be replaced by four smaller jails in the boroughs. Those jails are under construction and are not expected to be finished until 2032, and Council members have been working on a bill to push the legal deadline back. Mamdani said during his campaign that he would work toward the 2027 date; his administration now says the city will miss it. Any new date needs a vote of the City Council.",
+      "facts": [
+        {
+          "text": "Mamdani on Friday unveiled a plan to close the Rikers Island jail complex by the end of 2032.",
+          "refs": [
+            "07a09cdc23",
+            "3e36496a5c",
+            "e53e3f34cd",
+            "23ab6e9371"
+          ]
+        },
+        {
+          "text": "The new date is more than five years after the deadline currently set in city law, and the mayor plans to ask the City Council to change that deadline.",
+          "refs": [
+            "f14af379c6",
+            "07a09cdc23",
+            "23ab6e9371"
+          ]
+        },
+        {
+          "text": "The plan would end all incarceration on the island and move the remaining population to smaller facilities across four boroughs, The Guardian reported.",
+          "refs": [
+            "3e36496a5c"
+          ]
+        },
+        {
+          "text": "amNY reported that the plan outlines $290 million in investments aimed at cutting the city's jail population by nearly 40%.",
+          "refs": [
+            "07a09cdc23"
+          ]
+        },
+        {
+          "text": "Gothamist reported that the plan relies on sharply reducing the jail population and keeping it down.",
+          "refs": [
+            "1cf13bae49"
+          ]
+        },
+        {
+          "text": "The mayor acknowledged the city would miss the legal deadline to close Rikers next year, according to The New York Times.",
+          "refs": [
+            "817963f4f2"
+          ]
+        },
+        {
+          "text": "The existing law, passed in 2019, requires the complex to close by Aug. 31, 2027; the Queens Daily Eagle reported in September that Council members were drafting a bill to set a later date.",
+          "refs": [
+            "nyc-w1"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "27ac58e815",
+          "note": "Calls the plan \"bold\" and stresses moving jails off the island; the headline does not mention the delay."
+        },
+        {
+          "ref": "f14af379c6",
+          "note": "Frames the news as a five-year delay rather than a closure plan."
+        },
+        {
+          "ref": "a1bc4e4bcd",
+          "note": "Sets the new date against Mamdani's earlier pledge to work toward a 2027 closure."
+        },
+        {
+          "ref": "23ab6e9371",
+          "note": "Short, neutral wording: the mayor \"seeks\" a 2032 closure, which signals that the Council still has to agree."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "07a09cdc23",
+          "takeaway": "Most detailed summary in the digest: the 2032 date, the missed legal deadline, $290 million and a nearly 40% population cut.",
+          "read_full": false
+        },
+        {
+          "ref": "3e36496a5c",
+          "takeaway": "Emphasizes relocation to smaller facilities in four boroughs.",
+          "read_full": false
+        },
+        {
+          "ref": "23ab6e9371",
+          "takeaway": "Notes the plan was long awaited and that the Council must approve the new deadline.",
+          "read_full": false
+        },
+        {
+          "ref": "f14af379c6",
+          "takeaway": "Headline and summary only (paywalled): leads with the delay and the request to the Council.",
+          "read_full": false
+        },
+        {
+          "ref": "817963f4f2",
+          "takeaway": "Headline and summary only (paywalled): the mayor concedes the 2027 deadline will be missed.",
+          "read_full": false
+        },
+        {
+          "ref": "1cf13bae49",
+          "takeaway": "Stresses that the plan hinges on a smaller jail population after years of delays.",
+          "read_full": false
+        },
+        {
+          "ref": "e53e3f34cd",
+          "takeaway": "AP wire story carried by ABC: short account of the 2032 target.",
+          "read_full": false
+        },
+        {
+          "ref": "27ac58e815",
+          "takeaway": "National radio piece on the plan and the jail's record of assaults and deaths.",
+          "read_full": false
+        },
+        {
+          "ref": "a1bc4e4bcd",
+          "takeaway": "Headline only: contrasts the plan with the mayor's campaign pledge.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w1",
+          "takeaway": "September report on the Council bill to move the 2027 deadline, used for background.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "flatbush-collapse-demolition-video",
+      "headline": "Building next to deadly Flatbush collapse to be demolished; MTA bus video shows the moment it fell",
+      "region": "Brooklyn",
+      "importance": 4,
+      "summary": "City officials said Wednesday that 1323 Flatbush Ave., the apartment building next to the one that collapsed last week and killed eight people, must be torn down. Video from a passing MTA bus showing the collapse was made public, injured construction workers filed a negligence lawsuit, and the Department of Buildings halted work at other sites tied to engineers on the neighboring project, Gothamist reported.",
+      "why_it_matters": "Eight people died in their neighborhood when a building next to a construction site fell, and more residents are now losing their homes. The inspections and lawsuits will test how well the city polices excavation and demolition next to occupied buildings.",
+      "background": "A building at 1321 Flatbush Ave. in Brooklyn collapsed last week into a neighboring construction site, killing eight people and injuring more than a dozen others. The lot next door had permits for excavation and foundation work for a new building, and a one-story structure there had been demolished, according to local reports. The collapse tore the side wall off the adjoining building at 1323 Flatbush Ave. The Department of Buildings, the city agency that issues construction permits and inspects sites, is investigating.",
+      "facts": [
+        {
+          "text": "Officials announced Wednesday that 1323 Flatbush Ave., which lost its exterior wall when 1321 Flatbush Ave. fell, must be demolished.",
+          "refs": [
+            "f63a2d7e03",
+            "d17055218f",
+            "a9416fcfb6"
+          ]
+        },
+        {
+          "text": "The collapse killed eight people.",
+          "refs": [
+            "f63a2d7e03",
+            "d17055218f",
+            "e53197b8b7"
+          ]
+        },
+        {
+          "text": "Video recorded by an MTA bus shows the building falling into the adjacent construction site; Gothamist identified the bus as a B103 that was driving past.",
+          "refs": [
+            "a95cc862cf",
+            "e53197b8b7",
+            "d17055218f",
+            "feee33d657"
+          ]
+        },
+        {
+          "text": "Construction workers injured in the collapse have filed a lawsuit alleging negligence, the Daily News reported.",
+          "refs": [
+            "9b81177164"
+          ]
+        },
+        {
+          "text": "A Gothamist analysis found the Department of Buildings is targeting five projects linked to engineers involved in the construction next to the collapsed building, and has halted work at sites.",
+          "refs": [
+            "15b2571c27"
+          ]
+        },
+        {
+          "text": "The neighboring site had active permits for excavation and foundation work, and the Department of Buildings issued a full stop-work order there after the collapse, according to earlier local reports.",
+          "refs": [
+            "nyc-w2",
+            "nyc-w3"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "e53197b8b7",
+          "note": "Leads with the video, calling it \"chilling\" and stressing how fast the building fell."
+        },
+        {
+          "ref": "15b2571c27",
+          "note": "Focuses on the regulatory response: inspections and stopped work at related sites."
+        },
+        {
+          "ref": "f63a2d7e03",
+          "note": "Focuses on the neighboring building and its residents, quoting officials that demolition is the only option."
+        },
+        {
+          "ref": "9b81177164",
+          "note": "Focuses on legal liability, with injured workers alleging negligence."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "f63a2d7e03",
+          "takeaway": "Local report on the demolition order for 1323 Flatbush Ave. and the damage it took.",
+          "read_full": false
+        },
+        {
+          "ref": "d17055218f",
+          "takeaway": "Headline and summary only (paywalled): the bus video and the demolition announcement.",
+          "read_full": false
+        },
+        {
+          "ref": "15b2571c27",
+          "takeaway": "Own analysis of Buildings Department action against five related projects.",
+          "read_full": false
+        },
+        {
+          "ref": "a95cc862cf",
+          "takeaway": "Posts the bus video and identifies the route.",
+          "read_full": false
+        },
+        {
+          "ref": "e53197b8b7",
+          "takeaway": "Video-led story on the collapse into the construction pit.",
+          "read_full": false
+        },
+        {
+          "ref": "9b81177164",
+          "takeaway": "Headline only: injured workers sue over alleged negligence.",
+          "read_full": false
+        },
+        {
+          "ref": "a9416fcfb6",
+          "takeaway": "Headline only: neighboring building to come down.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w2",
+          "takeaway": "Earlier report on the collapse, the casualties and the permits next door.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w3",
+          "takeaway": "Earlier local report on the rescue effort and the construction site.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "carriage-horse-ban-signed",
+      "headline": "Mamdani signs carriage horse ban; drivers' union sues within minutes",
+      "region": "Manhattan",
+      "importance": 4,
+      "summary": "Mayor Zohran Mamdani on Thursday signed a law that winds down the city's horse-drawn carriage industry by June 2028. Transport Workers Union Local 100, which represents the drivers, filed a lawsuit to stop it shortly after the signing. The carriages keep operating while the case proceeds and until the ban takes full effect.",
+      "why_it_matters": "The law ends a long-running Central Park attraction and the jobs of the drivers and owners who depend on it, and a court will now decide whether it stands. Carriage owners say there is no firm plan to compensate them.",
+      "background": "Horse-drawn carriages are a tourist attraction in Central Park, and animal rights groups have campaigned for decades to end the trade. Former Mayor Bill de Blasio tried to ban it and failed. The City Council passed the ban over the objections of the drivers' union, Transport Workers Union Local 100, which sued as soon as it was signed. Before signing, Mamdani released a framework meant to help carriage workers move to other work.",
+      "facts": [
+        {
+          "text": "Mamdani signed the bill into law on Thursday.",
+          "refs": [
+            "ae676bfeca",
+            "7a6685606c",
+            "4182d3d376",
+            "a9887896dc"
+          ]
+        },
+        {
+          "text": "The law winds down the carriage industry by June 2028.",
+          "refs": [
+            "ae676bfeca",
+            "4182d3d376"
+          ]
+        },
+        {
+          "text": "Transport Workers Union Local 100, which represents the drivers, filed a lawsuit challenging the ban.",
+          "refs": [
+            "7a6685606c",
+            "d69ea7647f"
+          ]
+        },
+        {
+          "text": "The suit was filed minutes after the signing and seeks to stop the law, the Associated Press reported.",
+          "refs": [
+            "7d2f7becb7"
+          ]
+        },
+        {
+          "text": "Carriage owners accuse the city of ending their industry without a firm plan for compensation, according to The New York Times.",
+          "refs": [
+            "4182d3d376"
+          ]
+        },
+        {
+          "text": "Former Mayor Bill de Blasio, who did not get a ban passed while in office, publicly welcomed the new law, the New York Post reported.",
+          "refs": [
+            "711a205893"
+          ]
+        },
+        {
+          "text": "The mayor's office released a transition framework for carriage workers ahead of the 2028 ban.",
+          "refs": [
+            "nyc-w4"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "ae676bfeca",
+          "note": "Presents the signing as the end point of decades of animal rights activism."
+        },
+        {
+          "ref": "7d2f7becb7",
+          "note": "Leads with the drivers and their lawsuit rather than the signing."
+        },
+        {
+          "ref": "4182d3d376",
+          "note": "Gives equal weight to the law and the immediate court challenge."
+        },
+        {
+          "ref": "711a205893",
+          "note": "Turns to a former mayor's reaction and treats it mockingly."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "ae676bfeca",
+          "takeaway": "Signing story with the June 2028 wind-down and the activism behind it.",
+          "read_full": false
+        },
+        {
+          "ref": "7d2f7becb7",
+          "takeaway": "AP wire story carried by ABC, also run by the Washington Times: drivers sue minutes after the signing.",
+          "read_full": false
+        },
+        {
+          "ref": "4182d3d376",
+          "takeaway": "Headline and summary only (paywalled): owners' complaint about compensation.",
+          "read_full": false
+        },
+        {
+          "ref": "7a6685606c",
+          "takeaway": "Headline and summary only (paywalled): names the union behind the suit.",
+          "read_full": false
+        },
+        {
+          "ref": "d69ea7647f",
+          "takeaway": "Headline only: links the signing directly to the union lawsuit.",
+          "read_full": false
+        },
+        {
+          "ref": "a9887896dc",
+          "takeaway": "Headline only: straightforward notice of the signing.",
+          "read_full": false
+        },
+        {
+          "ref": "711a205893",
+          "takeaway": "Covers de Blasio's reaction in a mocking tone.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w4",
+          "takeaway": "Earlier report on the city's transition framework for carriage workers.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "bronx-migrant-shelter-closed-ice",
+      "headline": "City closes last migrant shelter, the Bronx site at the center of an ICE subpoena fight",
+      "region": "Bronx",
+      "importance": 3,
+      "summary": "The Mamdani administration has emptied the Bronx migrant shelter whose residents' records federal immigration authorities have sought in court. City lawyers told a judge in a letter late Thursday that no residents remain inside, Gothamist reported. The New York Times reported that the closure leaves the subpoena's status unsettled.",
+      "why_it_matters": "The case tests how much information about shelter residents the city can be made to hand to immigration agents, which affects whether immigrants feel safe using city services. Only left-leaning outlets in today's digest covered the closure.",
+      "background": "The Bronx site on Bruckner Boulevard was the last of the city's emergency shelters for migrants still open. Immigration and Customs Enforcement subpoenaed the city for information about people living there. Earlier this month a federal judge ordered the city to comply in part, limiting the order to residents with serious criminal histories, according to news reports. The city had separately planned to close the shelter by the end of the year and move its roughly 1,950 residents into the regular shelter system, News 12 reported.",
+      "facts": [
+        {
+          "text": "The city has closed the Bronx migrant shelter that was the subject of the federal subpoena; it was the last migrant shelter in the city.",
+          "refs": [
+            "aa93d1a7cb",
+            "1cf3234490"
+          ]
+        },
+        {
+          "text": "Lawyers for the administration filed a letter late Thursday telling the judge that no residents remained in the facility, Gothamist reported.",
+          "refs": [
+            "aa93d1a7cb"
+          ]
+        },
+        {
+          "text": "The Trump administration had sought the names of undocumented immigrants with criminal records who lived at the shelter, according to The New York Times.",
+          "refs": [
+            "1cf3234490"
+          ]
+        },
+        {
+          "text": "A federal judge earlier ordered the city to comply with a narrowed version of the ICE subpoena for the shelter.",
+          "refs": [
+            "nyc-w5",
+            "nyc-w6"
+          ]
+        },
+        {
+          "text": "Before the closure, the site housed about 1,950 people, who were to be moved into shelters run by the Department of Social Services, News 12 reported.",
+          "refs": [
+            "nyc-w7"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "aa93d1a7cb",
+          "note": "Ties the closure directly to the fight with ICE over residents' data."
+        },
+        {
+          "ref": "1cf3234490",
+          "note": "Stresses that this was the last migrant shelter and that the subpoena is now in limbo."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "aa93d1a7cb",
+          "takeaway": "Reports the court letter saying the shelter is empty.",
+          "read_full": false
+        },
+        {
+          "ref": "1cf3234490",
+          "takeaway": "Headline and summary only (paywalled): closure leaves the subpoena unresolved.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w5",
+          "takeaway": "Earlier report on the judge's order to comply with the Bruckner shelter subpoena.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w6",
+          "takeaway": "Earlier national report on the order and its limits.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w7",
+          "takeaway": "Earlier local report on the planned closure and the number of residents.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "early-flu-surge",
+      "headline": "Flu cases more than double last year's level as season starts early",
+      "region": "",
+      "importance": 3,
+      "summary": "New York City recorded 6,467 flu cases last week, up from 2,489 in the same week last year, THE CITY reported. City health officials said at a Thursday briefing that the virus arrived earlier than usual and urged residents to get vaccinated before Thanksgiving gatherings.",
+      "why_it_matters": "More flu circulating before the holidays raises the odds of getting sick at family gatherings, especially for older people and young children. Health officials say there is still time to get a shot.",
+      "background": "The city's health department reports flu cases and briefs the public when activity rises. This year the increase began earlier in the season than usual, officials said, and last week's case count was more than double the figure from a year earlier. The department is led by Health Commissioner Alister Martin, who spoke at Thursday's briefing.",
+      "facts": [
+        {
+          "text": "There were 6,467 reported flu cases in the city last week, compared with 2,489 at the same time last year, THE CITY reported.",
+          "refs": [
+            "3a9c347897"
+          ]
+        },
+        {
+          "text": "City health officials said at a briefing Thursday that flu appeared earlier in the season than usual.",
+          "refs": [
+            "65d59a4910",
+            "3a9c347897"
+          ]
+        },
+        {
+          "text": "Health Commissioner Alister Martin said the city \"has been experiencing elevated rates of the flu\" in recent weeks.",
+          "refs": [
+            "65d59a4910"
+          ]
+        },
+        {
+          "text": "Officials urged residents to get vaccinated ahead of Thanksgiving.",
+          "refs": [
+            "3a9c347897"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "3a9c347897",
+          "note": "Uses the word \"battles\" and ties the surge to Thanksgiving."
+        },
+        {
+          "ref": "65d59a4910",
+          "note": "Stresses the early timing of the season and attributes it to health officials."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "3a9c347897",
+          "takeaway": "Gives the weekly case counts and the vaccination message.",
+          "read_full": false
+        },
+        {
+          "ref": "65d59a4910",
+          "takeaway": "Briefing story quoting the health commissioner.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "fire-deaths-ebike-battery-bill",
+      "headline": "Fire deaths in city buildings nearly double this year; e-bike battery bill clears the Senate",
+      "region": "",
+      "importance": 3,
+      "summary": "Deaths in building fires in New York City have nearly doubled this year, The New York Times reported, with the deadliest fires in homes more than 100 years old. Two more people died in fires in the Bronx and Brooklyn, according to the Daily News. Separately, the U.S. Senate on Thursday unanimously passed a bill aimed at keeping unsafe e-bike batteries off the market, sending it to President Trump, THE CITY reported.",
+      "why_it_matters": "Much of the city lives in old housing, and lithium-ion batteries for e-bikes are in many apartments and building hallways. The federal bill would restrict the sale of batteries that do not meet safety standards. The outlets covering these items in today's digest are left-leaning or center.",
+      "background": "Fire deaths in the city have risen this year, and the Times links the worst fires to old residential buildings. Lithium-ion batteries used in e-bikes and scooters are a separate and growing cause of fires; THE CITY reports they have ignited hundreds of fires across the city this year. New York Sens. Chuck Schumer and Kirsten Gillibrand sponsored a federal bill meant to stem the sale of unsafe batteries. It passed the House twice before the Senate acted and now needs the president's signature to become law.",
+      "facts": [
+        {
+          "text": "Fire fatalities in New York City buildings have nearly doubled this year, and the deadliest fires were in homes built more than 100 years ago, according to The New York Times.",
+          "refs": [
+            "ecdbefa014"
+          ]
+        },
+        {
+          "text": "Two people were killed in separate house fires in the Bronx and Brooklyn, the Daily News reported.",
+          "refs": [
+            "25159fa64a"
+          ]
+        },
+        {
+          "text": "The Senate on Thursday unanimously approved an e-bike battery safety bill sponsored by Sens. Chuck Schumer and Kirsten Gillibrand, THE CITY reported.",
+          "refs": [
+            "5a756c7271"
+          ]
+        },
+        {
+          "text": "The bill had passed the House twice and now goes to President Trump, according to THE CITY.",
+          "refs": [
+            "5a756c7271"
+          ]
+        },
+        {
+          "text": "Unsafe e-bike batteries have ignited hundreds of fires in the city this year, THE CITY reported.",
+          "refs": [
+            "5a756c7271"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "ecdbefa014",
+          "note": "Attributes the rise to \"familiar dangers\" and old housing rather than a single new cause."
+        },
+        {
+          "ref": "5a756c7271",
+          "note": "Stresses bipartisan Senate support and the bill's next stop at the White House."
+        },
+        {
+          "ref": "25159fa64a",
+          "note": "Reports the two latest deaths as a breaking local item."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "ecdbefa014",
+          "takeaway": "Headline and summary only (paywalled): the yearly rise in deaths and the role of century-old homes.",
+          "read_full": false
+        },
+        {
+          "ref": "5a756c7271",
+          "takeaway": "Reports the Senate vote, the sponsors and the bill's path.",
+          "read_full": false
+        },
+        {
+          "ref": "25159fa64a",
+          "takeaway": "Headline only: two deaths in Bronx and Brooklyn fires.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "nyc-w1",
+      "url": "https://queenseagle.com/all/2026/9/1/council-working-on-bill-to-push-back-rikers-closure-deadline",
+      "title": "Council working on bill to push back Rikers closure deadline",
+      "outlet": "Queens Daily Eagle"
+    },
+    {
+      "id": "nyc-w2",
+      "url": "https://www.6sqft.com/flatbush-brooklyn-building-collapse/",
+      "title": "Flatbush building collapse leaves at least 8 dead, 17 injured",
+      "outlet": "6sqft"
+    },
+    {
+      "id": "nyc-w3",
+      "url": "https://www.brownstoner.com/brooklyn-life/flatbush-building-collapse-1321-flatbush-avenue/",
+      "title": "Rescue at Deadly Flatbush Building Collapse Will Continue for Days",
+      "outlet": "Brownstoner"
+    },
+    {
+      "id": "nyc-w4",
+      "url": "https://www.6sqft.com/mamdani-outlines-transition-framework-for-horse-drawn-carriage-workers-ahead-of-2028-ban/",
+      "title": "Mamdani releases transition framework for horse-drawn carriage workers ahead of 2028 ban",
+      "outlet": "6sqft"
+    },
+    {
+      "id": "nyc-w5",
+      "url": "https://www.latintimes.com/judge-orders-nyc-comply-ice-bruckner-shelter-subpoena-601090",
+      "title": "Judge orders NYC to comply with ICE Bruckner shelter subpoena",
+      "outlet": "Latin Times"
+    },
+    {
+      "id": "nyc-w6",
+      "url": "https://www.scrippsnews.com/politics/immigration/judge-orders-mamdani-to-comply-with-ice-records-request-in-nyc",
+      "title": "Judge orders Mamdani to comply with ICE records request in NYC",
+      "outlet": "Scripps News"
+    },
+    {
+      "id": "nyc-w7",
+      "url": "https://bronx.news12.com/last-migrant-shelter-in-the-city-to-close-by-the-end-of-the-year",
+      "title": "Last migrant shelter in the city to close by the end of the year",
+      "outlet": "News 12 The Bronx"
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "stories": [
+    {
+      "id": "shenzhen-trilateral-summit",
+      "headline": "Trump, Xi and Putin end first three-way summit with a nuclear-risk pledge and no Ukraine deal",
+      "region": "Asia-Pacific",
+      "importance": 5,
+      "summary": "The presidents of the United States, China and Russia met together for the first time on Thursday in Shenzhen, on the sidelines of the APEC summit. Outlets report the meeting produced a pledge on reducing nuclear risks but no treaty and no agreement on the war in Ukraine. President Trump was due to take questions from reporters on Friday.",
+      "why_it_matters": "The three countries hold most of the world's nuclear weapons and are central to the wars and trade disputes that affect prices and security everywhere. The meeting set no binding limits, so those risks are largely where they were before it.",
+      "background": "Donald Trump, Xi Jinping and Vladimir Putin had never before sat down as a group of three. China hosted this year's Asia-Pacific Economic Cooperation (APEC) summit in Shenzhen, and the White House said in the week before that the three would hold a joint meeting there. Trump had proposed that such a meeting focus on nuclear weapons. It took place while Russia's war in Ukraine continues, with Russian strikes hitting Kyiv during and after the summit. Trump and Putin had last met in Alaska in August 2025.",
+      "facts": [
+        { "text": "The three leaders met for about 90 minutes on Thursday in Shenzhen, according to France 24.", "refs": ["9b545243da"] },
+        { "text": "The Associated Press described the talks as focused on nuclear risks and said they ended without major breakthroughs.", "refs": ["58151fc673", "4a105c5c67"] },
+        { "text": "Fox News reported the summit produced a nuclear risk pledge but no breakthrough on Ukraine; The New York Times said it produced no treaties on war or nuclear weapons and that artificial intelligence was not on the agenda.", "refs": ["82c33bb9f7", "ce7c2b9efb"] },
+        { "text": "Trump was scheduled to face reporters on Friday, Fox News reported.", "refs": ["82c33bb9f7"] },
+        { "text": "Putin said on Thursday that Russia would not negotiate a limited ceasefire with Ukraine now, citing Ukrainian strikes on the bridge to Crimea.", "refs": ["f89b1721bb", "e4654b3ad6"] },
+        { "text": "Trump and Putin shook hands in Shenzhen on Wednesday, their first meeting since the Alaska summit in August 2025, Arab News reported.", "refs": ["world-w1"] },
+        { "text": "Before the summit, the White House said the three leaders planned a joint meeting, which the AP called unprecedented.", "refs": ["world-w2"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Putin is ready to end the war in Ukraine",
+          "positions": [
+            { "claim": "Trump said Putin wants peace in Ukraine, per The Washington Post.", "refs": ["313b7fffc3"] },
+            { "claim": "Putin said he will not negotiate a limited ceasefire now and promised a response to Ukraine's bridge strikes that would be \"far more painful\".", "refs": ["f89b1721bb", "2ca4c811dd"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "82c33bb9f7", "note": "Calls the talks historic and looks ahead to Trump's press conference, while noting open questions on the war." },
+        { "ref": "191dbced9c", "note": "Presents the meeting as a win for Xi and Putin and for their idea of a new world order." },
+        { "ref": "9b545243da", "note": "Asks whether Putin came away with a win or a humiliation." },
+        { "ref": "4894c98f16", "note": "Opinion headline that groups all three leaders together as strongmen; the summary criticizes Trump's preparation." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "58151fc673", "takeaway": "Wire account: rare three-way talks on nuclear risks, no breakthroughs.", "read_full": false },
+        { "ref": "64fbe551bb", "takeaway": "AP follow-up carried by ABC: Xi gained standing despite limited substantive progress.", "read_full": false },
+        { "ref": "82c33bb9f7", "takeaway": "Notes a nuclear risk pledge, no Ukraine breakthrough, and Trump's planned press conference.", "read_full": false },
+        { "ref": "9b545243da", "takeaway": "Analysis of what each leader wanted, centered on Putin's result.", "read_full": false },
+        { "ref": "191dbced9c", "takeaway": "Headline only: analysis that Xi and Putin benefited most.", "read_full": false },
+        { "ref": "ce7c2b9efb", "takeaway": "Headline and summary only (paywalled): lists what was not agreed, including on AI.", "read_full": false },
+        { "ref": "313b7fffc3", "takeaway": "Headline only (paywalled): contrasts Trump's words about Putin with Putin's own.", "read_full": false },
+        { "ref": "f89b1721bb", "takeaway": "Reports Putin's refusal to negotiate a limited ceasefire.", "read_full": false },
+        { "ref": "world-w1", "takeaway": "Pre-summit report on the Trump-Putin handshake in Shenzhen.", "read_full": false },
+        { "ref": "world-w2", "takeaway": "Pre-summit AP report on the White House announcing the joint meeting.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "kyiv-bridges-strikes",
+      "headline": "Russian missiles damage Kyiv bridges after Ukraine's strikes on the Crimea bridge; missiles fall in Poland",
+      "region": "Europe",
+      "importance": 5,
+      "summary": "Russia fired missiles and drones at Kyiv overnight into Friday, damaging bridges over the Dnipro River, cutting power and killing several people. The attack followed three Ukrainian strikes in four days on the Kerch Bridge linking Russia to occupied Crimea, after which Vladimir Putin promised retaliation. Poland said Russian missiles and a drone came down on its territory during the attack.",
+      "why_it_matters": "The exchange hit transport links that civilians rely on in a capital city, and weapons landed inside a NATO member. Putin also said he would not negotiate a limited ceasefire now, which lowers the chances of an early pause in the fighting.",
+      "background": "Russia and Ukraine are at war, and Russia holds the Crimean peninsula, which it annexed from Ukraine. The Kerch Bridge links Russia to Crimea, carries rail traffic that Reuters says matters to Russian logistics, and is described by outlets as a symbol of Putin's rule there. This week's Ukrainian strikes halted rail traffic on the bridge. At the same time, U.S. envoys, Ukraine's President Volodymyr Zelenskyy and European leaders met in Berlin to discuss terms for ending the war, and Putin met the U.S. and Chinese presidents in Shenzhen.",
+      "facts": [
+        { "text": "A third Ukrainian strike in four days halted rail traffic on the Kerch Bridge, the AP reported.", "refs": ["d56ad89b2e", "377c24d2c8"] },
+        { "text": "Putin said Russia's response would be \"far more painful\" than the damage to the bridge and that Russia would not negotiate a limited ceasefire now.", "refs": ["2ca4c811dd", "f89b1721bb"] },
+        { "text": "Russian ballistic missiles damaged three bridges across the Dnipro in Kyiv overnight, according to Bloomberg and the BBC.", "refs": ["4a5c5b000d", "f451b9b779"] },
+        { "text": "The AP reported that the attacks on Kyiv killed three people, injured nine and cut power.", "refs": ["80605099f5", "eb7611afb1"] },
+        { "text": "A daytime Russian drone attack on Kyiv on Thursday killed one person and damaged St. Volodymyr's Cathedral and the Dutch and Austrian embassies.", "refs": ["3b83b74c98", "94cd065966", "f88a3502ca"] },
+        { "text": "Poland's defense minister said two Russian missiles and a jet-powered drone crashed in eastern Poland on Friday, Bloomberg reported; France 24 reported Polish officials said no one was hurt.", "refs": ["56f038dd0c", "54fe0fe1ea"] },
+        { "text": "Troops from 11 European countries are holding an exercise in southeastern Poland to prepare for a possible mission in Ukraine after the war, the AP reported.", "refs": ["c06f290ca0", "5ab4db7f8a"] },
+        { "text": "Russia has said it will quickly restore the Kerch Bridge; engineering specialists told The New York Times the work could take years.", "refs": ["29ec5d0ab5"] },
+        { "text": "German Chancellor Friedrich Merz said new talks on Ukraine that include European leaders could be held soon on neutral ground, and Putin said Russia had invited European representatives to Moscow.", "refs": ["e285835b48", "fae0235769"] },
+        { "text": "The Wall Street Journal reported that U.S. envoys have discussed NATO membership for Ukraine in exchange for territory in the Donbas; Russia's Sergei Ryabkov said Russia rejects any deal letting Ukraine join NATO, Bloomberg reported.", "refs": ["c06c197e86", "208a397f49"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Death toll from the overnight attack",
+          "positions": [
+            { "claim": "Three killed in Kyiv, per the AP and Deutsche Welle (\"at least 3\").", "refs": ["80605099f5", "66fd75d190"] },
+            { "claim": "Five killed, per the BBC.", "refs": ["f451b9b779"] },
+            { "claim": "Eight killed across Ukraine, per Reuters and the Kyiv Independent (\"at least 8\").", "refs": ["057b371987", "e68e9b6981"] }
+          ]
+        },
+        {
+          "topic": "How many Kyiv bridges were damaged",
+          "positions": [
+            { "claim": "Two, according to Kyiv's mayor as quoted by The Hindu and France 24.", "refs": ["e15866f222", "968b517121"] },
+            { "claim": "Three, according to Bloomberg, the BBC and the Kyiv Independent.", "refs": ["4a5c5b000d", "f451b9b779", "e68e9b6981"] }
+          ]
+        },
+        {
+          "topic": "What fell in Poland",
+          "positions": [
+            { "claim": "Two Russian Kh-101 missiles and a drone, per the Polish defense minister and the Kyiv Independent.", "refs": ["56f038dd0c", "d4cde5ec0f"] },
+            { "claim": "One Russian missile, with earlier reports of at least two unknown objects, per France 24.", "refs": ["54fe0fe1ea"] },
+            { "claim": "An unidentified object that the Polish military was still investigating, per ABC News.", "refs": ["3c8c58662f"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "2ca4c811dd", "note": "Leads with Putin's threat and calls the bridge \"prized\"." },
+        { "ref": "80605099f5", "note": "Leads with the deaths in Kyiv and the loss of bridges and power." },
+        { "ref": "528e0d442d", "note": "Stresses the military effect of Ukraine's strikes on Russian supply lines." },
+        { "ref": "3b83b74c98", "note": "Uses a Ukrainian quote saying Russia holds nothing sacred, stressing the cathedral damage." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "80605099f5", "takeaway": "Headline only: three dead in Kyiv, bridges and power hit.", "read_full": false },
+        { "ref": "eb7611afb1", "takeaway": "AP story via ABC: three killed, nine injured.", "read_full": false },
+        { "ref": "f451b9b779", "takeaway": "Says three bridges were hit and five people killed.", "read_full": false },
+        { "ref": "4a5c5b000d", "takeaway": "Headline and summary only (paywalled): ballistic missiles hit three Dnipro bridges after Putin's vow.", "read_full": false },
+        { "ref": "e68e9b6981", "takeaway": "Ukrainian outlet: three bridges struck, at least eight dead nationwide.", "read_full": false },
+        { "ref": "057b371987", "takeaway": "Headline only: eight killed as Russia hits back.", "read_full": false },
+        { "ref": "2ca4c811dd", "takeaway": "Focuses on Putin's retaliation statement.", "read_full": false },
+        { "ref": "f89b1721bb", "takeaway": "Reports Putin ruling out limited-ceasefire talks.", "read_full": false },
+        { "ref": "d56ad89b2e", "takeaway": "AP account of the third bridge strike and the Berlin talks.", "read_full": false },
+        { "ref": "56f038dd0c", "takeaway": "Headline and summary only (paywalled): Polish minister on two missiles and a drone.", "read_full": false },
+        { "ref": "54fe0fe1ea", "takeaway": "Poland says a Russian missile hit its territory, no injuries.", "read_full": false },
+        { "ref": "3b83b74c98", "takeaway": "Details of Thursday's drone raid on central Kyiv.", "read_full": false },
+        { "ref": "c06f290ca0", "takeaway": "Headline only: 11-nation drill in Poland for a postwar mission.", "read_full": false },
+        { "ref": "c06c197e86", "takeaway": "Headline and summary only (paywalled): own reporting on a U.S. NATO-for-territory idea.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "icj-myanmar-genocide",
+      "headline": "Myanmar rejects UN court's genocide ruling as Rohingya refugees ask when they can go home",
+      "region": "Asia-Pacific",
+      "importance": 4,
+      "summary": "A day after the International Court of Justice ruled that Myanmar committed genocide against the Rohingya, Myanmar called the decision unfair. Rohingya refugees in Bangladesh welcomed the ruling and said they want to return home, and rights groups called for sanctions. Malaysia said it plans to resettle 10,000 Rohingya in Turkey.",
+      "why_it_matters": "More than a million people remain in refugee camps with no date for return, and the court has no force of its own to change that. Only left-leaning and center outlets in the digest covered the ruling; no right-leaning outlet did.",
+      "background": "The Rohingya are a Muslim minority from Myanmar. A military campaign in 2017 drove hundreds of thousands of them out of the country, most into neighboring Bangladesh. Gambia brought a case against Myanmar at the International Court of Justice, the United Nations' top court, under the 1948 Genocide Convention; the court ordered protective measures in 2020 and allowed the case to proceed in 2022. Myanmar has denied genocide and has described its actions as counter-terrorism. The court ruled on Thursday, Nov. 19.",
+      "facts": [
+        { "text": "The International Court of Justice ruled on Nov. 19 that Myanmar committed genocide against the Rohingya in 2017.", "refs": ["978f89b957", "fc0327505f"] },
+        { "text": "Reuters, as carried by The Hindu, reported it was the first time the court has held a state responsible for genocide.", "refs": ["18c9f9eb2c"] },
+        { "text": "Myanmar dismissed the ruling as \"unfair\".", "refs": ["47e6a5b060", "18c9f9eb2c"] },
+        { "text": "Rohingya in Bangladesh welcomed the verdict and said they want to return to Myanmar, the AP reported.", "refs": ["dfdac2f96f", "f030512a35"] },
+        { "text": "More than 1.3 million Rohingya are displaced across South and Southeast Asia, including 1.2 million in camps in Bangladesh, according to The Japan Times.", "refs": ["8b96152bcb"] },
+        { "text": "Rights groups urged sanctions on Myanmar after the ruling, the AP reported.", "refs": ["1e5141520c"] },
+        { "text": "Malaysia's Deputy Prime Minister Ahmad Zahid Hamidi said on Friday that Malaysia is seeking to resettle 10,000 Rohingya in Turkey.", "refs": ["af7d30e815", "4c63013daa", "fc0327505f"] },
+        { "text": "In South Africa, a rights group called for a criminal investigation into the country's arms sales to Myanmar between 2017 and 2021, the Daily Maverick reported.", "refs": ["0c9b8a1a5b"] },
+        { "text": "Human Rights Watch said before the ruling that the judgment is final and cannot be appealed.", "refs": ["world-w3"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the ruling is justified",
+          "positions": [
+            { "claim": "The court found Myanmar responsible for genocide against the Rohingya.", "refs": ["978f89b957", "18c9f9eb2c"] },
+            { "claim": "Myanmar called the ruling unfair.", "refs": ["47e6a5b060"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "c20b206f87", "note": "Calls the ruling a landmark win but stresses that return home is still far off." },
+        { "ref": "47e6a5b060", "note": "Leads with Myanmar's rejection of the ruling." },
+        { "ref": "8b96152bcb", "note": "Stresses that the refugee crisis is unresolved despite the ruling." },
+        { "ref": "978f89b957", "note": "Turns to Malaysia, describing Rohingya there as unwanted." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "47e6a5b060", "takeaway": "Headline only: Myanmar's reaction.", "read_full": false },
+        { "ref": "dfdac2f96f", "takeaway": "Headline only: refugees in Bangladesh welcome the verdict and want to go home.", "read_full": false },
+        { "ref": "18c9f9eb2c", "takeaway": "Wire copy on Myanmar's response and the ruling's legal first.", "read_full": false },
+        { "ref": "c20b206f87", "takeaway": "Headline only: win for the Rohingya, return remains distant.", "read_full": false },
+        { "ref": "8b96152bcb", "takeaway": "Gives displacement figures and the limits of the ruling.", "read_full": false },
+        { "ref": "af7d30e815", "takeaway": "Headline only: Malaysia's plan to resettle 10,000 in Turkey.", "read_full": false },
+        { "ref": "4c63013daa", "takeaway": "Summary only (paywalled): names the Malaysian official and the timing.", "read_full": false },
+        { "ref": "978f89b957", "takeaway": "Feature on Rohingya in Malaysia and growing hostility there.", "read_full": false },
+        { "ref": "0c9b8a1a5b", "takeaway": "South African angle: scrutiny of past arms sales to Myanmar.", "read_full": false },
+        { "ref": "1e5141520c", "takeaway": "Headline only (paywalled): rights groups call for sanctions.", "read_full": false },
+        { "ref": "world-w3", "takeaway": "Pre-ruling explainer on the case and what a judgment means.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "houthi-riyadh-tower",
+      "headline": "Houthi attack damages Riyadh's tallest tower, home of Saudi Arabia's sovereign wealth fund",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "Saudi Arabia said a Houthi attack on Thursday damaged several floors of the tallest building in Riyadh, which houses the Public Investment Fund, and that no one was hurt. Outlets report the Houthis have stepped up attacks on the kingdom in recent weeks. Oil prices rose after the attack, Reuters reported.",
+      "why_it_matters": "Attacks on Saudi Arabia can push up fuel prices far from the region: oil rose on supply concerns after this one.",
+      "background": "The Houthis are an armed movement in Yemen backed by Iran, and outlets describe Saudi Arabia as at war with them. A United Nations-brokered truce had largely reduced hostilities since 2022 before it collapsed. Attacks on Saudi territory have resumed this year, including one on Nov. 8 that damaged an Aramco building in Riyadh's financial district. The Public Investment Fund is the state fund that manages much of Saudi Arabia's wealth and investments abroad.",
+      "facts": [
+        { "text": "Saudi Arabia confirmed that a Houthi attack damaged Riyadh's tallest building and reported no casualties.", "refs": ["aaf6085748", "432c7799e5"] },
+        { "text": "Saudi civil defense said the attack caused material damage to several floors of a tower in Riyadh's financial center, NBC News reported.", "refs": ["be85a5600b"] },
+        { "text": "The 80-story building houses the kingdom's sovereign wealth fund, the Public Investment Fund.", "refs": ["c8c8834c16", "432c7799e5"] },
+        { "text": "Fox News, citing reports, said windows were destroyed across up to eight floors.", "refs": ["df5d7ba076"] },
+        { "text": "The Houthis have increased attacks on Saudi Arabia in recent weeks, hitting airports, energy infrastructure, military sites and Riyadh's financial district, according to The Hindu.", "refs": ["e0426bd93e"] },
+        { "text": "Oil prices rose as the attacks raised concerns about supply, Reuters reported.", "refs": ["b27182e461"] },
+        { "text": "On Nov. 8, an attack claimed by the Houthis damaged an Aramco tower in the same financial district, Al-Monitor reported.", "refs": ["world-w4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "df5d7ba076", "note": "Uses the phrase \"terrorist attack\" in quotation marks and stresses Iran's backing of the Houthis." },
+        { "ref": "432c7799e5", "note": "Describes the attackers as a Yemeni militia and stresses the sovereign wealth fund." },
+        { "ref": "b27182e461", "note": "Treats the attack as a market story about oil supply." },
+        { "ref": "aaf6085748", "note": "Leads with Saudi confirmation and the absence of casualties." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "aaf6085748", "takeaway": "Headline only: Saudi confirmation, no casualties.", "read_full": false },
+        { "ref": "e0426bd93e", "takeaway": "Places the strike in a recent series of Houthi attacks.", "read_full": false },
+        { "ref": "df5d7ba076", "takeaway": "Says a suspected missile hit the tower and damaged up to eight floors.", "read_full": false },
+        { "ref": "432c7799e5", "takeaway": "Headline and summary only (paywalled): several floors affected, no injuries.", "read_full": false },
+        { "ref": "c8c8834c16", "takeaway": "Headline and summary only (paywalled): describes the 80-story building.", "read_full": false },
+        { "ref": "be85a5600b", "takeaway": "Cites Saudi civil defense on the damage.", "read_full": false },
+        { "ref": "b27182e461", "takeaway": "Headline only: oil gains on supply concerns.", "read_full": false },
+        { "ref": "world-w4", "takeaway": "Earlier report on the Nov. 8 attack on the Aramco tower.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "cop31-fossil-fuels-draft",
+      "headline": "New draft deal at UN climate talks removes all mention of fossil fuels on the final day",
+      "region": "Global",
+      "importance": 3,
+      "summary": "A new draft agreement at the COP31 climate summit in Antalya, Turkey, no longer mentions fossil fuels. Australia, which is leading the negotiations, released the text on Thursday, and nearly 200 countries were due to finish on Friday. Campaign groups objected, and outlets differ on how close a deal is.",
+      "why_it_matters": "These agreements shape how fast governments move away from coal, oil and gas, which affects energy bills, jobs and the pace of warming. Only center outlets and wire services in the digest covered the draft.",
+      "background": "COP is the annual United Nations climate conference where nearly 200 countries negotiate joint commitments. This year's meeting, COP31, is hosted by Turkey in Antalya, with Australia running the negotiations. The future of coal, oil and gas has been the most contested question. An earlier draft released on Nov. 16 called for faster action to phase out fossil fuels, and oil-producing countries have long resisted such wording.",
+      "facts": [
+        { "text": "The draft that Australia released on Thursday drops any mention of fossil fuels.", "refs": ["6a8f26ac2e", "36ab0a1f38"] },
+        { "text": "The draft also removes dates for reaching net zero and an earlier demand to phase out unilateral trade measures such as the European Union's carbon border tax by 2027, The Hindu reported.", "refs": ["39cef57561"] },
+        { "text": "Campaign groups reacted with anger to the new text, France 24 reported.", "refs": ["6a8f26ac2e"] },
+        { "text": "Nearly 200 countries had until Friday to reach a deal.", "refs": ["6a8f26ac2e", "b5a0b41cd5"] },
+        { "text": "The Financial Times reported that the talks have turned toward carbon capture and that critics say the final sessions focus on energy security.", "refs": ["38ff8cacb9"] },
+        { "text": "The earlier draft, published Nov. 16, called for \"accelerated action to phase out fossil fuels\", according to Daily Sabah.", "refs": ["world-w5"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How close the talks are to a deal",
+          "positions": [
+            { "claim": "Compromises have raised the prospects for a broad, weaker agreement, per The Japan Times.", "refs": ["7ddcd30869"] },
+            { "claim": "The summit entered its final phase with no deal in sight and countries still divided, per Deutsche Welle.", "refs": ["e6474fb29d"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "6a8f26ac2e", "note": "Leads with the outcry and says fossil fuels were \"scrubbed\"." },
+        { "ref": "7ddcd30869", "note": "Presents the removal as a compromise that brings a deal closer." },
+        { "ref": "b2035d74e3", "note": "Stresses countries that are still pushing for deeper cuts." },
+        { "ref": "39cef57561", "note": "Highlights what developing countries lost in the text, including the trade-measures demand." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "6a8f26ac2e", "takeaway": "Reports the new draft, Australia's role and campaigners' anger.", "read_full": false },
+        { "ref": "36ab0a1f38", "takeaway": "Says all mention of fossil fuels has been removed.", "read_full": false },
+        { "ref": "e6474fb29d", "takeaway": "Says countries remain divided with no deal in sight.", "read_full": false },
+        { "ref": "39cef57561", "takeaway": "Details other items dropped from the text.", "read_full": false },
+        { "ref": "7ddcd30869", "takeaway": "Sees a watered-down deal as more likely.", "read_full": false },
+        { "ref": "38ff8cacb9", "takeaway": "Headline and summary only (paywalled): shift to carbon capture and energy security.", "read_full": false },
+        { "ref": "b2035d74e3", "takeaway": "Headline only: nations seek deeper cuts on the last day.", "read_full": false },
+        { "ref": "world-w5", "takeaway": "Report on the earlier Nov. 16 draft and its phase-out wording.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "uk-eu-reset-summit",
+      "headline": "UK and EU meet in Brussels to agree food trade, carbon and youth mobility deals",
+      "region": "Europe",
+      "importance": 3,
+      "summary": "British Prime Minister Andy Burnham met European Union leaders Ursula von der Leyen and Antonio Costa in Brussels on Friday for a summit meant to rebuild ties after Brexit. The two sides were expected to announce deals on food trade, carbon emissions and a scheme letting young people live and work across each other's borders.",
+      "why_it_matters": "The deals would cut checks on food crossing between Britain and the EU and let some people aged 18 to 32 work on the other side, which affects prices, businesses and travel. No right-leaning outlet in the digest covered the summit.",
+      "background": "Britain voted to leave the European Union a decade ago, and its departure added checks on trade and limits on living and working across the border. A first UK-EU summit in 2025 began a process both sides call a reset. Andy Burnham, now prime minister, has said he hopes to see Britain rejoin the EU in his lifetime and argues closer ties will help the economy. The EU side is led by Commission President Ursula von der Leyen and European Council President Antonio Costa.",
+      "facts": [
+        { "text": "Burnham met von der Leyen and Costa in Brussels on Friday.", "refs": ["3ba11184ba", "2119d58ed4"] },
+        { "text": "The two sides were set to agree deals on food trade, energy or carbon emissions, and youth mobility.", "refs": ["ab3e8f8bde", "527a894e73", "e3a5c10bd4"] },
+        { "text": "The youth scheme is expected to cover 100,000 people aged 18 to 32, The Hindu reported.", "refs": ["f006bd7198"] },
+        { "text": "Burnham has said he hopes to see Britain rejoin the EU in his lifetime, France 24 reported.", "refs": ["ab3e8f8bde"] },
+        { "text": "The British government has said the package could add about £10 billion a year to the economy by 2040, ITV News reported in October.", "refs": ["world-w6"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How settled the youth mobility scheme was going into the summit",
+          "positions": [
+            { "claim": "The scheme was expected to be approved at Friday's summit, per the BBC.", "refs": ["e3a5c10bd4"] },
+            { "claim": "A leaked draft showed it was still contentious two days earlier, per Euronews.", "refs": ["world-w7"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "74607359c0", "note": "Speaks of mending \"Brexit damage\" and calls the summit rare." },
+        { "ref": "527a894e73", "note": "Describes a relaunch built on practical food and youth deals." },
+        { "ref": "2692dbb174", "note": "Describes Britain as easing back from Brexit." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ab3e8f8bde", "takeaway": "Previews the three deals and Burnham's stated hope of rejoining.", "read_full": false },
+        { "ref": "3ba11184ba", "takeaway": "Names the EU leaders and the aim of resetting ties.", "read_full": false },
+        { "ref": "527a894e73", "takeaway": "Headline only: reset launched with food and youth deals.", "read_full": false },
+        { "ref": "e3a5c10bd4", "takeaway": "Own reporting that the youth scheme would be approved.", "read_full": false },
+        { "ref": "f006bd7198", "takeaway": "Gives the 100,000 figure and age range.", "read_full": false },
+        { "ref": "2119d58ed4", "takeaway": "Short report that the meeting took place.", "read_full": false },
+        { "ref": "6edc9b97fe", "takeaway": "Places the summit a decade after the Brexit vote.", "read_full": false },
+        { "ref": "world-w6", "takeaway": "October preview with the government's economic estimate.", "read_full": false },
+        { "ref": "world-w7", "takeaway": "Report on a leaked summit draft and its limits.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "somalia-expels-uae-ambassador",
+      "headline": "Somalia orders the UAE ambassador to leave within 72 hours",
+      "region": "Africa",
+      "importance": 3,
+      "summary": "Somalia's cabinet ordered the United Arab Emirates ambassador to leave the country within 72 hours and recalled its own ambassador from Abu Dhabi. Reuters reported that Somalia cited an \"invasion\". The breakaway region of Somaliland said on Thursday that Somalia has no authority over its foreign relations.",
+      "why_it_matters": "A break in relations between the two governments affects port, defence and security arrangements in the Horn of Africa. No right-leaning outlet in the digest covered it.",
+      "background": "Somalia's federal government in Mogadishu claims authority over Somaliland, a region that conducts its own diplomatic and economic dealings and rejects that claim. Relations between Mogadishu and the United Arab Emirates were already strained before this week, according to Addis Standard. In April 2024 Somalia gave Ethiopia's ambassador 72 hours to leave in an earlier dispute over an agreement between Ethiopia and Somaliland.",
+      "facts": [
+        { "text": "Somalia's Council of Ministers ordered the UAE ambassador to leave within 72 hours and recalled Somalia's ambassador to the UAE for consultations, Addis Standard reported.", "refs": ["81ca2e9cd5"] },
+        { "text": "The AP and Reuters also reported the expulsion order; Reuters said Somalia cited an \"invasion\".", "refs": ["66cec642d1", "b800a8af72"] },
+        { "text": "Somaliland said on Thursday that its diplomatic, economic and strategic arrangements need no approval from Somalia, Horn Diplomat reported.", "refs": ["fe7cf6d547"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Who has authority over Somaliland's foreign relations",
+          "positions": [
+            { "claim": "Somalia claims jurisdiction over Somaliland's affairs.", "refs": ["fe7cf6d547"] },
+            { "claim": "Somaliland says Mogadishu is trying to speak on its behalf and has no such authority.", "refs": ["fe7cf6d547"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "b800a8af72", "note": "Puts Somalia's word \"invasion\" in the headline." },
+        { "ref": "66cec642d1", "note": "Describes an escalating diplomatic dispute." },
+        { "ref": "fe7cf6d547", "note": "Tells the story from Somaliland's side." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "66cec642d1", "takeaway": "Headline only: expulsion as an escalation of a dispute.", "read_full": false },
+        { "ref": "b800a8af72", "takeaway": "Headline only: Somalia cites an \"invasion\".", "read_full": false },
+        { "ref": "81ca2e9cd5", "takeaway": "Gives the 72-hour deadline and the recall of Somalia's envoy.", "read_full": false },
+        { "ref": "fe7cf6d547", "takeaway": "Reports Somaliland's rejection of Mogadishu's authority.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "bukele-third-term-haiti",
+      "headline": "El Salvador's Bukele seeks a third term while his troops fight gangs in Haiti",
+      "region": "Americas",
+      "importance": 3,
+      "summary": "El Salvador's President Nayib Bukele is seeking a third term, which Reuters called unprecedented. The move comes as Salvadoran troops operate against gangs in Haiti, where crowds have rallied to thank him and where rights monitors have raised concerns.",
+      "why_it_matters": "Bukele's approach to gangs is being tried in a second country, and its results will affect safety in Haiti and migration across the region. His bid for another term also tests limits on presidential power in El Salvador.",
+      "background": "Nayib Bukele is the president of El Salvador and has said his government finished off the gangs there. El Salvador changed its constitution to remove presidential term limits, and its legislature moved the next election from 2029 to 2027, according to the AP. Haiti has been overrun by armed gangs since 2021, the year its president, Jovenel Moise, was assassinated. Bukele sent more than 2,000 troops to Haiti after four Salvadoran aviation technicians went missing in a gang attack in October.",
+      "facts": [
+        { "text": "Bukele is seeking a third term as president, Reuters and the AP reported.", "refs": ["2fc2721820", "7c739d718c"] },
+        { "text": "Bukele said his troops attacked the home of a gang leader in Haiti, NBC News reported.", "refs": ["b649a6ebee"] },
+        { "text": "Thousands of people marched in Haiti to thank Bukele, Fox News reported; NBC News also reported celebrations.", "refs": ["9726d16929", "b649a6ebee"] },
+        { "text": "Groups that monitor human rights have raised concerns about the operation, NBC News reported.", "refs": ["b649a6ebee"] },
+        { "text": "El Salvador removed presidential term limits from its constitution and moved its next election from 2029 to 2027, the AP reported earlier this month.", "refs": ["world-w8"] },
+        { "text": "Bukele sent more than 2,000 troops to Haiti after four Salvadoran aviation technicians went missing in a gang attack in mid-October, the AP reported.", "refs": ["world-w8"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "9726d16929", "note": "Stresses a \"hero's welcome\" and Bukele's emotional response." },
+        { "ref": "7c739d718c", "note": "Ties the third-term bid to the fighting in Haiti." },
+        { "ref": "2fc2721820", "note": "Stresses that a third term has no precedent." },
+        { "ref": "b649a6ebee", "note": "Leads with celebrations and adds rights monitors' concerns." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2fc2721820", "takeaway": "Headline only: Bukele seeks an unprecedented third term.", "read_full": false },
+        { "ref": "7c739d718c", "takeaway": "Headline only: links the candidacy and the Haiti operation.", "read_full": false },
+        { "ref": "b649a6ebee", "takeaway": "Reports celebrations in Haiti and concerns from rights monitors.", "read_full": false },
+        { "ref": "9726d16929", "takeaway": "Reports marches of thanks in Haiti.", "read_full": false },
+        { "ref": "world-w8", "takeaway": "Earlier AP analysis of the Haiti offensive as a political gamble before an election.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w1", "url": "https://www.arabnews.pk/world/putin-and-trump-meet-in-shenzhen-their-first-talks-since-alaska-summit-3007361", "title": "Putin and Trump shake hands in Shenzhen in their first meeting since 2025", "outlet": "Arab News" },
+    { "id": "world-w2", "url": "https://www.azfamily.com/2026/11/14/trump-xi-putin-plan-an-unprecedented-joint-meeting-white-house-says/", "title": "Trump, Xi and Putin plan an unprecedented joint meeting, White House says", "outlet": "Associated Press" },
+    { "id": "world-w3", "url": "https://www.hrw.org/news/2026/11/03/questions-and-answers-international-court-of-justice-judgment-in-myanmar-genocide", "title": "Questions and Answers: International Court of Justice Judgment in Myanmar Genocide Case", "outlet": "Human Rights Watch" },
+    { "id": "world-w4", "url": "https://www.al-monitor.com/originals/2026/11/houthis-claim-attack-riyadh-financial-district-aramco-tower-damaged", "title": "Houthis claim attack on Riyadh financial district, Aramco tower damaged", "outlet": "Al-Monitor" },
+    { "id": "world-w5", "url": "https://www.dailysabah.com/business/energy/cop31-draft-calls-for-accelerated-action-to-phase-out-fossil-fuels", "title": "COP31 draft calls for 'accelerated action' to phase out fossil fuels", "outlet": "Daily Sabah" },
+    { "id": "world-w6", "url": "https://www.itv.com/news/2026-10-12/burnham-to-use-key-uk-eu-summit-next-month-to-seek-new-post-brexit-deals", "title": "Burnham to use key UK-EU summit next month to seek new post-Brexit deals", "outlet": "ITV News" },
+    { "id": "world-w7", "url": "https://www.euronews.com/2026/11/18/eu-uk-summit-leaked-draft-reveals-ambition-and-limits-of-brexit-reset", "title": "EU-UK summit: leaked draft reveals ambition and limits of Brexit reset", "outlet": "Euronews" },
+    { "id": "world-w8", "url": "https://www.wlrn.org/americas/2026-11-12/el-salvadors-bukele-makes-a-political-gamble-with-a-haiti-gang-offensive-ahead-of-an-election", "title": "El Salvador's Bukele makes a political gamble with a Haiti gang offensive ahead of an election", "outlet": "Associated Press" }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "stories": [
+    {
+      "id": "ai-selloff-losing-streak",
+      "headline": "Stocks extend their losing streak worldwide as the AI sell-off deepens",
+      "region": "Markets",
+      "importance": 5,
+      "summary": "U.S. stocks fell sharply again on Thursday, with the Dow down about 1,100 points and the Nasdaq off 2.3%, as investors kept selling companies tied to artificial intelligence. The selling spread to Asia and Europe on Friday, and U.S. futures pointed lower before the open. Anthropic's record stock-market debut on Thursday did not reverse the trend.",
+      "why_it_matters": "Most retirement accounts and index funds hold large positions in the technology companies being sold, so a long slide in AI shares shows up directly in 401(k) and savings balances. Next week's Black Friday sales figures will be watched as a check on whether consumer spending is holding up.",
+      "background": "Much of the stock market's gain in recent years has come from companies building or supplying artificial intelligence, such as chipmakers and big technology firms that are spending heavily on data centers. Investors have recently grown more doubtful that this spending will pay off, and the sector was shaken further when Nvidia chief executive Jensen Huang left the company amid a scandal. Anthropic, maker of the Claude chatbot, went public on Thursday in the largest initial public offering on record, and some investors had hoped strong demand for its shares would restore confidence in the sector. Instead the wider market kept falling, and the losses spread overseas.",
+      "facts": [
+        { "text": "All three major U.S. stock indexes ended Thursday sharply lower, and the S&P 500 logged its fifth straight losing session.", "refs": ["f38c2e36b1"] },
+        { "text": "The Associated Press reported that the Dow fell about 1,100 points and that Wall Street's losing streak was its longest since 2024.", "refs": ["445f9bf7de"] },
+        { "text": "The Nasdaq composite dropped 2.3% on Thursday, the Wall Street Journal reported.", "refs": ["52fe42e4a3"] },
+        { "text": "Asian stock markets fell on Friday and were on track for their worst week since 2020.", "refs": ["f9eb3284b6", "fd28116146"] },
+        { "text": "European technology shares also fell on Friday, and U.S. stock futures extended their losses.", "refs": ["e3d361c0b9", "14c537161a"] },
+        { "text": "Reuters reported that Wall Street's 'fear gauge', a measure of expected stock swings, touched a seven-month high.", "refs": ["1a6661455f"] },
+        { "text": "Bloomberg reported that a gauge of global stocks was heading for its longest losing run in three years and that the sell-off was also unsettling metal markets.", "refs": ["a08f8d2bf0"] },
+        { "text": "U.S. government bonds rose in price as investors moved out of stocks, according to the Wall Street Journal.", "refs": ["090efc1439"] },
+        { "text": "MarketWatch described the week as the worst stretch for the S&P 500 since the 'Liberation Day' tariffs of 2025.", "refs": ["a531f0b33b"] },
+        { "text": "A market commentary on TheStreet tied the S&P 500's fifth straight decline to a reversal in Nvidia shares.", "refs": ["business-w1"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How long the S&P 500's losing streak is",
+          "positions": [
+            { "claim": "Thursday's close was the index's fifth straight loss.", "refs": ["f38c2e36b1", "business-w1"] },
+            { "claim": "MarketWatch, writing before Friday's U.S. open, said the streak had reached six sessions.", "refs": ["a531f0b33b"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "445f9bf7de", "note": "Leads with the size of the drop: the Dow's 1,100-point fall and the longest losing streak since 2024." },
+        { "ref": "fd28116146", "note": "Frames it as a global slump and stresses that the Anthropic IPO failed to stop it." },
+        { "ref": "52fe42e4a3", "note": "Gives the IPO credit for living up to expectations, then says it did not revive the AI trade." },
+        { "ref": "a531f0b33b", "note": "Looks for reassurance, pointing to what followed earlier six-day losing streaks." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "445f9bf7de", "takeaway": "Headline only: wire market wrap with the Dow's point drop and the streak.", "read_full": false },
+        { "ref": "f38c2e36b1", "takeaway": "Summary only: all three indexes sharply lower, S&P 500 down a fifth day, tied to Anthropic's debut not lifting AI shares.", "read_full": false },
+        { "ref": "52fe42e4a3", "takeaway": "Headline and summary only (paywalled): Nasdaq's 2.3% drop and continued wariness of tech.", "read_full": false },
+        { "ref": "f9eb3284b6", "takeaway": "Headline only: the sell-off deepening in Asia, set for its worst week since 2020.", "read_full": false },
+        { "ref": "fd28116146", "takeaway": "Summary only: global slump across Asia, Europe and the U.S.", "read_full": false },
+        { "ref": "14c537161a", "takeaway": "Headline and summary only (paywalled): U.S. futures falling on Friday and Anthropic shares giving back part of their gain.", "read_full": false },
+        { "ref": "e3d361c0b9", "takeaway": "Headline and summary only (paywalled): European AI-linked shares dropping sharply.", "read_full": false },
+        { "ref": "090efc1439", "takeaway": "Headline and summary only (paywalled): Nasdaq set to fall again, Treasurys gaining.", "read_full": false },
+        { "ref": "1a6661455f", "takeaway": "Headline only: volatility gauge at a seven-month high.", "read_full": false },
+        { "ref": "a08f8d2bf0", "takeaway": "Headline and summary only (paywalled): global stocks' longest losing run in three years, with metals affected.", "read_full": false },
+        { "ref": "a531f0b33b", "takeaway": "Summary only: historical look at what followed earlier six-session losing streaks.", "read_full": false },
+        { "ref": "business-w1", "takeaway": "Search result only: commentary linking the fifth down day to Nvidia's share reversal.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "anthropic-ipo-debut",
+      "headline": "Anthropic shares slip a day after the largest IPO on record",
+      "region": "IPO",
+      "importance": 4,
+      "summary": "Anthropic, the company behind the Claude chatbot, began trading on the Nasdaq on Thursday after raising about $81 billion, the most ever raised in an initial public offering. Its shares closed around $97, 17% above the $83 offer price, after opening at $111.50. Bloomberg reported the stock was down more than 6% early Friday.",
+      "why_it_matters": "The listing lets ordinary investors buy into a major AI developer for the first time, and many did, but analysts quoted by CNBC warn the shares are likely to swing widely in the coming weeks. The stock's early moves are also being read as a signal for the wider AI sector that many index funds hold.",
+      "background": "Anthropic is an artificial intelligence company led by chief executive Dario Amodei and best known for its Claude chatbot. It is the first of the major AI labs to sell shares to the public; until now only private investors could own a stake. In an initial public offering, a company sells shares at a set price and they then trade freely on an exchange, where the price can rise or fall. The deal came during a broad sell-off in AI-linked stocks and passed the previous record set by SpaceX in June.",
+      "facts": [
+        { "text": "Anthropic raised a record $81.3 billion, more than the $75 billion SpaceX raised when it went public in June.", "refs": ["5f45813136", "4460d2fd5d"] },
+        { "text": "The shares were priced at $83, opened at $111.50 and ended the first day at around $97, a gain of 17%.", "refs": ["9c1b4a1b92", "add20e6cf1"] },
+        { "text": "At the opening price the company was briefly valued at about $2 trillion.", "refs": ["9c1b4a1b92", "47004d9752"] },
+        { "text": "Bloomberg reported that the stock dropped more than 6% in early trading on Friday, giving back part of the first-day gain.", "refs": ["14c537161a"] },
+        { "text": "The Associated Press described Anthropic as the first major artificial intelligence lab to reach an initial public offering.", "refs": ["b7c55d1945"] },
+        { "text": "The Financial Times reported that more than 100,000 retail investors in the UK applied for shares and that nearly two-thirds received their full allocation.", "refs": ["978de2b910"] },
+        { "text": "Analysts told CNBC the shares are likely to be volatile in the coming weeks.", "refs": ["f1c697e2be"] }
+      ],
+      "disputed": [
+        {
+          "topic": "What the company was worth at Thursday's close",
+          "positions": [
+            { "claim": "$1.77 trillion, according to the New York Post.", "refs": ["add20e6cf1"] },
+            { "claim": "$1.3 trillion, according to the Guardian.", "refs": ["fea67cf9c7"] },
+            { "claim": "A Fox Business headline calls it a $1.5 trillion IPO.", "refs": ["04d887e1e8"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "add20e6cf1", "note": "Stresses the size of the first-day gain and calls the valuation 'jaw-dropping'." },
+        { "ref": "47004d9752", "note": "Presents the debut as a test of whether investors still have an appetite for AI." },
+        { "ref": "bac43362df", "note": "Casts the company as having beaten the odds by listing during a market sell-off." },
+        { "ref": "781089e7ef", "note": "An opinion column that focuses on protesters at the Nasdaq opening rather than on the share sale." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "5f45813136", "takeaway": "Summary only: the amount raised and the comparison with SpaceX.", "read_full": false },
+        { "ref": "4460d2fd5d", "takeaway": "Headline and summary only (paywalled): 17% first-day gain and an upsized $81bn offering.", "read_full": false },
+        { "ref": "9c1b4a1b92", "takeaway": "Summary only: offer, opening and closing prices and the brief $2 trillion valuation.", "read_full": false },
+        { "ref": "add20e6cf1", "takeaway": "Summary only: closing price of $97.17 and a $1.77 trillion valuation.", "read_full": false },
+        { "ref": "fea67cf9c7", "takeaway": "Summary only: puts the closing valuation at $1.3 trillion.", "read_full": false },
+        { "ref": "04d887e1e8", "takeaway": "Headline only: refers to a $1.5 trillion IPO in a piece about tech wealth moving to Florida.", "read_full": false },
+        { "ref": "47004d9752", "takeaway": "Summary only: $2 trillion valuation at the open, framed as a test for AI investing.", "read_full": false },
+        { "ref": "14c537161a", "takeaway": "Headline and summary only (paywalled): shares down more than 6% early Friday.", "read_full": false },
+        { "ref": "b7c55d1945", "takeaway": "Summary only: wire explainer on the records set.", "read_full": false },
+        { "ref": "978de2b910", "takeaway": "Headline and summary only (paywalled): UK retail demand and allocations.", "read_full": false },
+        { "ref": "f1c697e2be", "takeaway": "Summary only: analysts welcome the listing but expect volatility.", "read_full": false },
+        { "ref": "bac43362df", "takeaway": "Summary only: the obstacles the listing faced, including the sell-off and trouble at Nvidia.", "read_full": false },
+        { "ref": "781089e7ef", "takeaway": "Opinion column, used for framing only.", "read_full": false }
+      ],
+      "social": "The IPO was among the day's trending topics on Bluesky, and Wikipedia pages for Anthropic and Dario Amodei each drew more than 100,000 views, according to the day's trend data."
+    },
+    {
+      "id": "walmart-outlook-fuel-costs",
+      "headline": "Walmart raises its sales outlook again but warns fuel costs are squeezing prices",
+      "region": "Earnings",
+      "importance": 3,
+      "summary": "Walmart raised its full-year outlook for the third time after what the Associated Press called a solid quarter, helped by online sales and by higher-income shoppers looking for deals. The company also said higher diesel and transportation costs are making it harder to hold prices down. The results come a week before Black Friday.",
+      "why_it_matters": "Walmart serves a large share of U.S. households, so its results are a read on how households are coping with high prices. Its warning on fuel costs suggests pressure on shelf prices may continue through the holidays.",
+      "background": "Walmart reports its sales and profit every three months and gives a forecast for the full year, which investors treat as a gauge of consumer spending. Retailers including Walmart and Target say shoppers are focused on saving money amid worries about the economy. Fuel prices have been high this year, raising the cost of trucking goods to stores. The company's report came just before the holiday shopping season, the most important sales period for retailers.",
+      "facts": [
+        { "text": "Walmart raised its full-year outlook for the third time this year after its latest quarter, with growth driven by e-commerce.", "refs": ["d70510c1b6", "f6c6512613"] },
+        { "text": "Sales growth was helped by wealthier shoppers, and Walmart reported gaining market share.", "refs": ["025c164d38", "1f16efa03f"] },
+        { "text": "Walmart warned that fuel costs are putting pressure on its business.", "refs": ["f6c6512613", "570d55d966"] },
+        { "text": "Walmart's chief executive said higher diesel and transportation costs had added about $2 billion in expenses this year, the New York Post reported.", "refs": ["570d55d966"] },
+        { "text": "Walmart said U.S. shoppers stocked up on items such as water and propane after recent technology outages.", "refs": ["92afa59f50", "bde9369b45"] },
+        { "text": "The New York Times reported that Target and other retailers also say shoppers are trying to save money, and that sales are up.", "refs": ["29882bc20c"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "025c164d38", "note": "Emphasizes wealthier shoppers as the source of growth." },
+        { "ref": "1f16efa03f", "note": "Emphasizes shoppers worn down by inflation." },
+        { "ref": "570d55d966", "note": "Leads with the threat fuel costs pose to low prices, with the raised forecast second." },
+        { "ref": "d70510c1b6", "note": "Leads with the third outlook increase and a 'solid quarter'." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d70510c1b6", "takeaway": "Headline only: third outlook raise this year, driven by e-commerce.", "read_full": false },
+        { "ref": "f6c6512613", "takeaway": "Headline only: fuel cost warning alongside higher annual targets.", "read_full": false },
+        { "ref": "570d55d966", "takeaway": "Summary only: the chief executive's $2 billion figure for added fuel and transport costs.", "read_full": false },
+        { "ref": "1f16efa03f", "takeaway": "Summary only: market share gains and more affluent customers.", "read_full": false },
+        { "ref": "025c164d38", "takeaway": "Headline only: wealthier shoppers behind the sales growth.", "read_full": false },
+        { "ref": "92afa59f50", "takeaway": "Headline only: shoppers stocked up after tech outages.", "read_full": false },
+        { "ref": "bde9369b45", "takeaway": "Headline only: water and propane among the items bought after the outages.", "read_full": false },
+        { "ref": "29882bc20c", "takeaway": "Headline and summary only (paywalled): affordability as the theme across Walmart, Target and others.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "china-chip-approvals-amd",
+      "headline": "Lawmakers say Commerce approved sales of more than 800,000 AI chips to Chinese firms",
+      "region": "Trade",
+      "importance": 3,
+      "summary": "Members of Congress released figures showing the Commerce Department approved sales of more than 800,000 advanced AI chips to Chinese companies, some of which the New York Times reported have military ties. Separately, AMD shares closed down more than 7% on Thursday after a short seller alleged links to a blacklisted Chinese company, and California's attorney general subpoenaed Nvidia. Lawmakers are pushing legislation to tighten export controls.",
+      "why_it_matters": "Chipmakers are among the largest holdings in many retirement and index funds, and new limits on what they can sell to China would affect their sales and share prices. The dispute also bears on how the U.S. controls technology with military uses.",
+      "background": "The U.S. restricts sales of the most advanced computer chips to China, and companies need Commerce Department approval for many of those sales. Nvidia, the leading maker of AI chips, has been under scrutiny since chief executive Jensen Huang left the company amid allegations involving a Chinese spy and extramarital affairs. That scandal has prompted members of Congress to look more closely at which chip sales to China the government approved. AMD is a rival chipmaker. A short seller is an investor who profits when a stock falls and sometimes publishes critical research about a company.",
+      "facts": [
+        { "text": "Rep. Mast said the Commerce Department approved sales of more than 879,000 AI chips to Chinese companies, CNBC reported.", "refs": ["0911d83ee1"] },
+        { "text": "The New York Times reported that lawmakers released confidential information showing the approvals, and that some of the Chinese companies have military ties.", "refs": ["192dc28e1e"] },
+        { "text": "Members of Congress have pushed for legislation to tighten export controls on chip sales to China.", "refs": ["0911d83ee1"] },
+        { "text": "AMD shares closed down more than 7% on Thursday after a short seller's report alleged that AMD firmware turned up at a blacklisted Chinese company. AMD said it complies with U.S. law.", "refs": ["4524fd3f0c", "fa45543a82"] },
+        { "text": "California Attorney General Rob Bonta served Nvidia with a subpoena and said the conduct of the company and its former chief executive 'raises bright red flags', the New York Post reported.", "refs": ["cf6c585181"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "192dc28e1e", "note": "Centers on Nvidia's requests and the buyers' ties to the Chinese military." },
+        { "ref": "0911d83ee1", "note": "Centers on the Commerce Department's approvals and the count given by a congressman." },
+        { "ref": "c38d047b87", "note": "Presents AMD's China ties as a risk of U.S. scrutiny, and as a question of whether AMD can gain from Nvidia's troubles." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "0911d83ee1", "takeaway": "Summary only: Rep. Mast's figure and the push in Congress for tighter controls.", "read_full": false },
+        { "ref": "192dc28e1e", "takeaway": "Headline and summary only (paywalled): lawmakers' release of confidential approval data and military links.", "read_full": false },
+        { "ref": "4524fd3f0c", "takeaway": "Summary only: AMD's 7% drop, the short seller's allegation and AMD's response.", "read_full": false },
+        { "ref": "fa45543a82", "takeaway": "Headline only: AMD shares sliding on the report about China links.", "read_full": false },
+        { "ref": "c38d047b87", "takeaway": "Summary only: the short seller's warning and what it means for AMD against Nvidia.", "read_full": false },
+        { "ref": "cf6c585181", "takeaway": "Summary only: the California subpoena and the attorney general's statement.", "read_full": false }
+      ],
+      "social": "A topic about Jensen Huang and Nvidia was among the day's trending subjects on Bluesky, with about 2,600 posts, according to the day's trend data."
+    },
+    {
+      "id": "chase-visa-mastercard-data-leak",
+      "headline": "Hackers leak data on thousands of Chase, Visa and Mastercard customers",
+      "region": "Banking",
+      "importance": 3,
+      "summary": "Hackers on Thursday released data belonging to thousands of JPMorgan Chase customers, including email addresses and some phone numbers, in an incident that also involved Visa and Mastercard. The bank said the data was held by outside vendors and that no sensitive information was taken. Payment services were not disrupted, the Wall Street Journal reported.",
+      "why_it_matters": "Leaked emails and phone numbers are often used for scam messages that pretend to come from a bank, so affected customers should be wary of unexpected calls and emails. Chase said it plans to offer free credit monitoring where appropriate.",
+      "background": "JPMorgan Chase is the largest bank in the United States, and Visa and Mastercard run major card payment networks. Large companies often share customer contact details with outside firms that handle marketing, and a breach at one of those firms can expose the data. The leak came days after Chase had a brief technology outage, which the Wall Street Journal reported was unrelated. It is one of several cyberattacks on large U.S. companies this week.",
+      "facts": [
+        { "text": "Data on thousands of JPMorgan Chase customers, including emails and some phone numbers, was leaked after a cyberattack.", "refs": ["2cc10080e2", "f7fdfe39ca"] },
+        { "text": "The incident also involved customer data from Visa and Mastercard.", "refs": ["f7fdfe39ca", "094b496384"] },
+        { "text": "Chase said hackers likely accessed marketing data held by outside vendors and that it plans to offer free credit monitoring to affected customers where appropriate.", "refs": ["2b4a8c6036"] },
+        { "text": "The Wall Street Journal reported that the incident is not disrupting payment services and is not connected to banking problems earlier in the week.", "refs": ["f7fdfe39ca"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether sensitive data was exposed",
+          "positions": [
+            { "claim": "The bank said no sensitive information was taken, the New York Times reported.", "refs": ["094b496384"] },
+            { "claim": "The New York Post described the released data as customers' 'sensitive data'.", "refs": ["7cdef13d41"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "7cdef13d41", "note": "Calls the data 'sensitive' and ties the hack to a 'string of major failures'." },
+        { "ref": "094b496384", "note": "Notes the bank's statement that nothing sensitive was taken." },
+        { "ref": "2b4a8c6036", "note": "Sticks to the bank's account: data 'may have been exposed' through vendors." },
+        { "ref": "a4b07d24bf", "note": "Uses the breach as a peg for a former NSA hacker's warning that AI is speeding up attacks." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2cc10080e2", "takeaway": "Headline only: thousands of emails and some phone numbers leaked.", "read_full": false },
+        { "ref": "f7fdfe39ca", "takeaway": "Headline and summary only (paywalled): all three companies affected, payments unaffected, no link to the earlier outage.", "read_full": false },
+        { "ref": "094b496384", "takeaway": "Headline and summary only (paywalled): the bank says no sensitive information was taken.", "read_full": false },
+        { "ref": "2b4a8c6036", "takeaway": "Summary only: vendor-held marketing data and the credit monitoring offer.", "read_full": false },
+        { "ref": "7cdef13d41", "takeaway": "Summary only: describes the leaked data as sensitive and links it to other attacks this week.", "read_full": false },
+        { "ref": "a4b07d24bf", "takeaway": "Summary only: interview on AI's role in cyberattacks, pegged to the breach.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "business-w1", "url": "https://pro.thestreet.com/market-commentary/a-concerning-nvidia-reversal-pulls-the-sp-500-to-a-fifth-down-day", "title": "A Concerning Nvidia Reversal Pulls the S&P 500 to a Fifth Down Day", "outlet": "TheStreet" }
+  ]
+}
