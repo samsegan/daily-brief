@@ -1,0 +1,307 @@
+{
+  "stories": [
+    {
+      "id": "cyber-director-replaced",
+      "headline": "White House replaces national cyber director after a run of tech outages",
+      "region": "White House",
+      "importance": 5,
+      "summary": "National Cyber Director Sean Cairncross is out of his post, and President Trump has named Pentagon chief information officer Kirsten Davies as acting cyber chief. The change follows a series of technology outages that disrupted air travel, banking and national security systems. Separately, the FBI is reported to be investigating an apparent breach of its national crime database.",
+      "why_it_matters": "The outages grounded flights and delayed bank payments for ordinary customers, and the person coordinating the federal response to such failures has just changed. Whether the outages are connected, and what caused them, has not been established.",
+      "background": "The national cyber director is the White House's top adviser on cybersecurity policy; the Senate confirmed Cairncross to the job in August 2025. Over roughly ten days in November, a string of failures hit major systems: a timeline compiled by TechRepublic lists a nationwide FAA ground stop on Nov. 13, a JPMorgan Chase payments problem on Nov. 16 and a Microsoft 365 email disruption. The FAA and JPMorgan each said they had found no sign of a cyberattack, according to that timeline. Stephen Miller recently became White House chief of staff. Democrats won control of both chambers of Congress in the midterms and take over in January, which affects how quickly a permanent successor could be confirmed.",
+      "facts": [
+        { "text": "A White House official told CBS News that National Cyber Director Sean Cairncross is leaving his position.", "refs": ["cc4d5e7c2d"] },
+        { "text": "Trump named Kirsten Davies, the Pentagon's chief information officer, to serve as acting cyber chief.", "refs": ["cb8c3ef54b", "a6d72bb2ce", "f1163ffb7b"] },
+        { "text": "Trump said on Friday that Cairncross was not \"good enough,\" the South China Morning Post reported.", "refs": ["cb8c3ef54b"] },
+        { "text": "The change came days after outages disrupted U.S. air travel, banking and national security systems.", "refs": ["53d3e398ad", "cb8c3ef54b", "bc07702924"] },
+        { "text": "The FBI is investigating an apparent breach of its National Crime Information Center, a database that federal and local law enforcement use to share information, according to two people briefed on the matter who spoke to NBC News. CNN first reported the breach.", "refs": ["ccc1cd1ce7", "08e8aacebb", "45201d2fd3"] },
+        { "text": "Lawmakers quoted by Fox News said power grids, water systems and banks are vulnerable after what the outlet called a 10-day wave of outages.", "refs": ["842a807bf7"] },
+        { "text": "The FAA said it had no indication that a cyberattack caused its Nov. 13 ground stop, and JPMorgan Chase said it found no evidence of one in its Nov. 16 payments problem, according to a TechRepublic timeline.", "refs": ["us-w2"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Cairncross was fired or chose to leave",
+          "positions": [
+            { "claim": "He was removed: the BBC, citing reports, said he was fired after losing the confidence of chief of staff Stephen Miller, and Trump said he was not \"good enough.\"", "refs": ["77ce998683", "cb8c3ef54b", "53d3e398ad"] },
+            { "claim": "He is \"leaving\" the post, in the wording of a White House official to CBS News.", "refs": ["cc4d5e7c2d"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "fd6d8ae8fb", "note": "Uses \"sacks\" and ties the removal directly to the outages." },
+        { "ref": "cc4d5e7c2d", "note": "Says only that he is \"leaving his post\"; no mention of a firing or the outages in the headline." },
+        { "ref": "a6d72bb2ce", "note": "Leads with the replacement, Kirsten Davies, and with the effect of the outages on the public." },
+        { "ref": "f1163ffb7b", "note": "Hedges with \"allegedly fired\" and highlights the Pentagon official stepping in." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "cc4d5e7c2d", "takeaway": "Confirms the departure through a White House official, without calling it a firing.", "read_full": false },
+        { "ref": "cb8c3ef54b", "takeaway": "Headline and summary only (paywalled): names Davies as acting chief and carries Trump's \"good enough\" remark.", "read_full": false },
+        { "ref": "77ce998683", "takeaway": "Says he was fired after losing Stephen Miller's confidence, attributing that to reports.", "read_full": false },
+        { "ref": "53d3e398ad", "takeaway": "Calls it an ouster and lists the systems the outages hit.", "read_full": false },
+        { "ref": "a6d72bb2ce", "takeaway": "Headline only: focuses on Davies being tapped.", "read_full": false },
+        { "ref": "f1163ffb7b", "takeaway": "Headline only: \"allegedly fired,\" with the Pentagon CIO stepping in.", "read_full": false },
+        { "ref": "fd6d8ae8fb", "takeaway": "Headline only (paywalled): Trump \"sacks\" the director.", "read_full": false },
+        { "ref": "bc07702924", "takeaway": "Headline and summary only (paywalled): says he was \"replaced\" after outages at companies and federal agencies.", "read_full": false },
+        { "ref": "ccc1cd1ce7", "takeaway": "Own sourcing on the FBI investigating an apparent breach of its crime database.", "read_full": false },
+        { "ref": "08e8aacebb", "takeaway": "Headline only: broke the FBI database breach and calls it a repeat hack.", "read_full": false },
+        { "ref": "45201d2fd3", "takeaway": "Explains what the FBI database is used for; treats the breach as reported, not confirmed.", "read_full": false },
+        { "ref": "842a807bf7", "takeaway": "Lawmakers warning that critical systems are soft targets.", "read_full": false }
+      ],
+      "social": "Coverage of the outages by Fox's local stations said their timing had prompted public speculation about a coordinated cyberattack, which the affected organizations have not supported."
+    },
+    {
+      "id": "senate-permitting-bill",
+      "headline": "Senate passes bipartisan bill to speed energy and infrastructure permits",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "The Senate voted 62-33 on Thursday night to pass a bill that overhauls federal permitting rules for power plants, transmission lines and other energy and infrastructure projects. The bill, which President Trump backs, also requires data centers to pay for energy costs. It now goes to the House.",
+      "why_it_matters": "Supporters say faster approvals will add power supply and bring down electricity bills that have been rising with demand from AI data centers; opponents say it weakens environmental review of projects built near people's homes.",
+      "background": "Building a power plant, pipeline or transmission line in the U.S. usually requires federal environmental reviews that can take years. Lawmakers from both parties have tried for several years to shorten that process. Senators reached a bipartisan deal on this bill in the fall, and it cleared a 73-25 procedural vote on Nov. 9, according to Axios. Electricity demand from data centers has grown quickly and became an issue in this month's midterm elections, in which Democrats won control of Congress starting in January.",
+      "facts": [
+        { "text": "The Senate passed the permitting bill 62-33 on Thursday night, sending it to the House.", "refs": ["3729fd609f", "9340b1ea7f"] },
+        { "text": "The bill aims to speed permitting reviews for power plants, transmission lines and other energy infrastructure.", "refs": ["44acc31ed8", "b453628dc5"] },
+        { "text": "It includes provisions meant to make data centers pay for the energy they use.", "refs": ["44acc31ed8", "a7eb794822"] },
+        { "text": "The bill is backed by President Trump.", "refs": ["9340b1ea7f", "us-w5"] },
+        { "text": "The vote split Democrats over environmental concerns, The Wall Street Journal reported; The Hindu's report says environmental groups oppose the bill.", "refs": ["8a7e84c767", "a7eb794822", "f4d3589aa2"] },
+        { "text": "The bill cleared a 73-25 procedural vote in the Senate on Nov. 9.", "refs": ["us-w5"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "9340b1ea7f", "note": "Labels the bill \"Trump-backed\" in the headline." },
+        { "ref": "a7eb794822", "note": "Puts opposition from Democrats and environmental groups in the headline, where most others say \"bipartisan.\"" },
+        { "ref": "8a7e84c767", "note": "Emphasizes the stated goal of lowering consumer costs." },
+        { "ref": "6a3fc1a063", "note": "Shifts the focus to Trump's own projects becoming part of the debate." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3729fd609f", "takeaway": "Vote story with the 62-33 tally and the next step in the House.", "read_full": false },
+        { "ref": "9340b1ea7f", "takeaway": "Frames the bill around its importance to the energy industry and Trump's support.", "read_full": false },
+        { "ref": "44acc31ed8", "takeaway": "AP wire: stresses the data-center cost provision and rising power demand.", "read_full": false },
+        { "ref": "b453628dc5", "takeaway": "Presents the bill as a long-sought bipartisan breakthrough aimed at cutting costs.", "read_full": false },
+        { "ref": "8a7e84c767", "takeaway": "Headline and summary only (paywalled): notes the Democratic split.", "read_full": false },
+        { "ref": "a7eb794822", "takeaway": "Highlights opposition from Democrats and environmental groups.", "read_full": false },
+        { "ref": "f4d3589aa2", "takeaway": "Pairs passage with environmental concerns and AI-driven demand.", "read_full": false },
+        { "ref": "6a3fc1a063", "takeaway": "Headline and summary only (paywalled): Trump's projects as a factor in the debate.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-data-centers-abroad",
+      "headline": "Trump threatens tax or ban on U.S. companies building data centers overseas",
+      "region": "White House",
+      "importance": 4,
+      "summary": "At a White House news conference on Friday, President Trump said he would block U.S. companies from building data centers abroad or impose a \"tremendous tax\" on those that do. He gave few details, and said members of his own team were hearing the idea for the first time. No formal policy has been announced.",
+      "why_it_matters": "If it became policy, it would push more data-center construction into U.S. communities, where the facilities' effect on electricity bills and local land use was a live issue in this month's elections. For now it is a statement, not a rule.",
+      "background": "Data centers are the large computing facilities that run artificial intelligence and cloud services, and they use large amounts of electricity. Trump has described building them in the U.S. as central to competing with China on AI, and defended them in August by pointing to jobs and tax revenue, the AP reported. Axios reported that data-center expansion became a midterm-election flashpoint. Trump made Friday's remarks after returning from a summit in China with Chinese President Xi Jinping and Russian President Vladimir Putin.",
+      "facts": [
+        { "text": "Trump said Friday he would block U.S. companies from building data centers overseas or impose a \"tremendous tax\" on them.", "refs": ["1de069dddb", "3505a492be", "b8d718a6cd"] },
+        { "text": "He provided little detail on how the policy would work and said others on his team were hearing about it for the first time.", "refs": ["36fb31620a", "8e3ceec613"] },
+        { "text": "Trump said he does not want the centers built outside the U.S. \"because China will take all of them,\" and said companies that build elsewhere would face \"tremendous penalties.\"", "refs": ["b63e863225", "8e3ceec613"] },
+        { "text": "The remarks came at a White House news conference after his summit in China with Xi Jinping and Vladimir Putin.", "refs": ["3505a492be", "ec2d5f7d55"] },
+        { "text": "Trump defended data centers in August by citing jobs and taxes paid, the AP reported.", "refs": ["us-w6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "1de069dddb", "note": "\"Floats\" presents it as a trial idea and leads with the tax." },
+        { "ref": "36fb31620a", "note": "Leads with a \"ban\" and, in the summary, the lack of detail." },
+        { "ref": "b7c49f9a36", "note": "Sets the threat against the domestic backlash data centers already face." },
+        { "ref": "b63e863225", "note": "Uses Trump's own quote about taking advantage of data centers rather than shutting them off." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "1de069dddb", "takeaway": "Connects the remark to data centers as a midterm issue.", "read_full": false },
+        { "ref": "3505a492be", "takeaway": "Reports the vow to stop overseas builds and the tax threat, with the summit as backdrop.", "read_full": false },
+        { "ref": "36fb31620a", "takeaway": "Stresses how little detail was offered and that aides were hearing it for the first time.", "read_full": false },
+        { "ref": "b63e863225", "takeaway": "Video with Trump's China rationale in his own words.", "read_full": false },
+        { "ref": "8e3ceec613", "takeaway": "Places the threat inside a wide-ranging news conference; notes no details.", "read_full": false },
+        { "ref": "b7c49f9a36", "takeaway": "Headline only: the threat alongside public backlash to data centers.", "read_full": false },
+        { "ref": "b8d718a6cd", "takeaway": "Headline and summary only (paywalled): contrasts Trump's support for expansion with public skepticism.", "read_full": false },
+        { "ref": "ec2d5f7d55", "takeaway": "Headline and summary only (paywalled): video of the full news conference.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-post-summit-presser",
+      "headline": "Trump defends calling Putin a friend at lengthy post-summit news conference",
+      "region": "White House",
+      "importance": 4,
+      "summary": "Back from a three-way summit in China with Xi Jinping and Vladimir Putin, President Trump held a long White House news conference on Friday. He defended calling Putin his friend but said he \"can't speak\" to whether Putin is a friend to the United States, and said Iran would not make an \"acceptable\" deal to end the war. Vice President JD Vance and Secretary of State Marco Rubio joined him, and Trump asked chief of staff Stephen Miller whether he wants to run for president.",
+      "why_it_matters": "The summit and news conference bear on two wars, in Ukraine and Iran, that affect U.S. troops, spending and energy prices, and reports say neither produced a breakthrough. The joint appearance also gave an early look at who may seek the Republican nomination in 2028.",
+      "background": "Trump met Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen, China, this week in the first three-way meeting of the leaders. Before a separate meeting with Putin that lasted about 40 minutes, Trump called him \"my friend,\" according to Meduza. Russia has been at war in Ukraine since 2022, and the U.S. is engaged in a war with Iran that Democrats in Congress want to end. Ukrainian President Volodymyr Zelensky responded to the remark by calling Putin a \"killer.\" Trump cannot run again in 2028, and Vance and Rubio are widely discussed as possible successors.",
+      "facts": [
+        { "text": "Trump defended calling Putin a friend and said he \"can't speak\" to whether Putin is a friend to the U.S.", "refs": ["d17aa3c4b8", "ad432e60f3", "e30c894b88"] },
+        { "text": "Zelensky responded that for Ukrainians Putin is a \"killer.\"", "refs": ["6c197f759c", "633d3b37de"] },
+        { "text": "The summit produced no breakthroughs on nuclear arms control, the war in Ukraine or AI, according to The New York Times; Fox News reported it yielded a pledge on nuclear risk but no Ukraine breakthrough.", "refs": ["894961ec2a", "82c33bb9f7"] },
+        { "text": "Trump said Iran would not make an \"acceptable\" deal, the AP reported; CBS News reported he told an Israeli outlet he may not decide his next move in the Iran war until 2027.", "refs": ["d9d0deea4a", "51037c3d1d"] },
+        { "text": "Vance declined to say whether he would have ordered the strikes on Iran, Reuters reported, and Trump denied any rift with him over the war.", "refs": ["c174fd96bc", "52360d5a00", "f7f798fc61"] },
+        { "text": "With Vance and Rubio beside him, Trump asked Stephen Miller whether he wants to run for president, Fox News reported.", "refs": ["1c12ba10b1", "59613f0fad"] },
+        { "text": "Trump said he would work with Democrats in Congress on key issues, according to The New York Times.", "refs": ["e700433486"] },
+        { "text": "The AP and The New York Times each published fact-checks saying Trump made false or misleading claims during the news conference.", "refs": ["7cbd68f4d7", "dcfdb17c15"] }
+      ],
+      "disputed": [
+        {
+          "topic": "What the summit achieved",
+          "positions": [
+            { "claim": "Trump called the trilateral meeting an \"amazing event\" and promoted it as historic.", "refs": ["e700433486", "82cf80145a"] },
+            { "claim": "The New York Times reported he has little to show for it, with no breakthroughs on nuclear control, Ukraine or AI.", "refs": ["894961ec2a"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "894961ec2a", "note": "\"Flaunts camaraderie\" and \"little to show\" foreground the absence of results." },
+        { "ref": "82c33bb9f7", "note": "Calls the talks \"historic\" while noting open questions about the wars." },
+        { "ref": "a57ccd5eb2", "note": "\"Bobs and weaves\" stresses evasiveness more than content." },
+        { "ref": "1c12ba10b1", "note": "Makes the succession moment, and Miller's name, the story." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d17aa3c4b8", "takeaway": "Headline only: the Putin \"friend\" defense and the \"can't speak\" line.", "read_full": false },
+        { "ref": "894961ec2a", "takeaway": "Headline and summary only (paywalled): says the summit produced no breakthroughs.", "read_full": false },
+        { "ref": "82c33bb9f7", "takeaway": "Pre-briefing piece: nuclear risk pledge, no Ukraine breakthrough.", "read_full": false },
+        { "ref": "633d3b37de", "takeaway": "Leads with Zelensky's response to the \"friend\" remark.", "read_full": false },
+        { "ref": "6c197f759c", "takeaway": "Headline only: Zelensky's \"killer\" quote.", "read_full": false },
+        { "ref": "a57ccd5eb2", "takeaway": "Headline only: characterizes the briefing as freewheeling.", "read_full": false },
+        { "ref": "7cbd68f4d7", "takeaway": "Headline only: fact-check of claims made at the briefing.", "read_full": false },
+        { "ref": "dcfdb17c15", "takeaway": "Headline and summary only (paywalled): fact-check citing falsehoods and exaggerations.", "read_full": false },
+        { "ref": "e700433486", "takeaway": "Headline and summary only (paywalled): takeaways, including the offer to work with Democrats.", "read_full": false },
+        { "ref": "1c12ba10b1", "takeaway": "Focuses on Trump asking Miller about a presidential run.", "read_full": false },
+        { "ref": "59613f0fad", "takeaway": "Headline only: frames the briefing as an audition for successors.", "read_full": false },
+        { "ref": "c174fd96bc", "takeaway": "Headline only: Vance declining to say he would have ordered the Iran strikes.", "read_full": false },
+        { "ref": "52360d5a00", "takeaway": "Headline only: Trump denying a rift with Vance.", "read_full": false },
+        { "ref": "d9d0deea4a", "takeaway": "Headline only: Trump on Iran not making an acceptable deal.", "read_full": false },
+        { "ref": "51037c3d1d", "takeaway": "Live updates: Trump saying he is not rushing an Iran decision.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iran-war-funding-shutdown",
+      "headline": "Democrats weigh tying Iran war funding to a December spending deal",
+      "region": "Congress",
+      "importance": 3,
+      "summary": "With government funding due to run out in about three weeks, a group of Democrats is drafting a proposal to cut off money for the war in Iran as part of a spending deal, Politico reported. House Democrats are largely avoiding threats to force a shutdown over the issue, according to Axios, and Republican Sen. Ron Johnson rejected linking the two.",
+      "why_it_matters": "A lapse in funding would interrupt federal services and paychecks shortly before the holidays, and the dispute is also the first test of how far Congress will go to end the war. The stories in today's digest on this come from left-leaning and center outlets only.",
+      "background": "Congress has to pass a spending bill by mid-December to keep the government open. The U.S. is fighting a war with Iran that began with strikes ordered by President Trump. Democrats won majorities in the House and Senate in this month's midterm elections but do not take control until January, so Republicans still run both chambers for the funding fight. A group of Senate Democrats said earlier this month that they would not accept a funding deal that fails to ban spending on hostilities in Iran, States Newsroom reported. Parts of the government were shut down earlier this year in a separate funding dispute.",
+      "facts": [
+        { "text": "A group of Democrats is close to finishing a proposal to cut off Iran war funding as part of a spending deal that would avert a shutdown in three weeks, Politico reported.", "refs": ["bd1bb07a19"] },
+        { "text": "House Democrats are largely steering clear of threatening a December shutdown over Iran war funding, though some on the party's left want that fight, Axios reported.", "refs": ["71ae0620b8"] },
+        { "text": "Sen. Ron Johnson, a Republican, rejected tying government funding to an end to the war, saying \"We're not going to shut down the war.\"", "refs": ["74a7d26ec2"] },
+        { "text": "Democrats are set to take House and Senate majorities, and some members want to use them to press the administration to end the war; CBS News reported the exact plan is not clear.", "refs": ["d409ed1430"] },
+        { "text": "A group of Senate Democrats said they would not accept a government funding deal that does not ban spending on military hostilities in Iran.", "refs": ["us-w10"] },
+        { "text": "Trump said Friday that Iran would not make an \"acceptable\" deal to end the war.", "refs": ["d9d0deea4a"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "71ae0620b8", "note": "\"Recoil\" stresses Democratic reluctance to risk a shutdown." },
+        { "ref": "bd1bb07a19", "note": "Stresses the opposite motion: Democrats actively drafting a funding curb." },
+        { "ref": "74a7d26ec2", "note": "Leads with the Republican refusal." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "71ae0620b8", "takeaway": "House Democrats mostly unwilling to threaten a shutdown; the left flank disagrees.", "read_full": false },
+        { "ref": "bd1bb07a19", "takeaway": "Reports a Democratic proposal to curb war funding inside a spending deal.", "read_full": false },
+        { "ref": "74a7d26ec2", "takeaway": "Republican pushback, with Johnson's quote, as the two parties struggle toward a deal.", "read_full": false },
+        { "ref": "d409ed1430", "takeaway": "Asks what Democrats can do about the war once in the majority; says the plan is unclear.", "read_full": false },
+        { "ref": "d9d0deea4a", "takeaway": "Headline only: Trump's position on an Iran deal.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "palisades-fire-verdict",
+      "headline": "Federal jury convicts man of starting the fire that became the Palisades Fire",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "A federal jury in Los Angeles on Friday found Jonathan Rinderknecht, 30, guilty of two arson charges for starting the blaze that became the January 2025 Palisades Fire. It was his second trial; the first ended with a hung jury. The fire killed 12 people and destroyed more than 6,800 buildings.",
+      "why_it_matters": "For the thousands of people who lost homes or relatives, the verdict is a criminal finding of who started the fire, reached only on the second attempt after the first jury could not agree.",
+      "background": "The Palisades Fire burned through Pacific Palisades and Malibu in January 2025 and became the most destructive wildfire in the history of the city of Los Angeles. Federal prosecutors charged Rinderknecht, a former Uber driver, with starting an earlier fire that they said later grew into the Palisades Fire. His first trial ended in a mistrial in June 2026 when jurors deadlocked. The retrial began in early November.",
+      "facts": [
+        { "text": "A federal jury found Jonathan Rinderknecht guilty of two arson charges on Friday.", "refs": ["973aadc167", "5f4d49ec84", "30e1f1561e"] },
+        { "text": "The verdict came after his first trial ended with a hung jury.", "refs": ["973aadc167", "1f858df138", "us-w8"] },
+        { "text": "The Palisades Fire killed 12 people and destroyed more than 6,800 buildings.", "refs": ["b4af86b6cf", "5c37b2ccef"] },
+        { "text": "The fire displaced thousands of people and was the most destructive wildfire in Los Angeles city history.", "refs": ["f82e6fc343"] },
+        { "text": "Rinderknecht is 30 and formerly worked as an Uber driver.", "refs": ["973aadc167", "b4af86b6cf"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "5f4d49ec84", "note": "The summary presents the verdict as accountability for a painful period for the city." },
+        { "ref": "973aadc167", "note": "\"Accused of sparking\" and the reference to the earlier hung jury keep the focus on the contested case." },
+        { "ref": "72c016720f", "note": "Plain statement of the conviction, with no reference to deaths or the retrial." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "973aadc167", "takeaway": "Notes the first trial's hung jury and the defendant's background.", "read_full": false },
+        { "ref": "5f4d49ec84", "takeaway": "Headline and summary only (paywalled): guilty on two counts.", "read_full": false },
+        { "ref": "30e1f1561e", "takeaway": "Headline and summary only (paywalled): two federal arson charges.", "read_full": false },
+        { "ref": "b4af86b6cf", "takeaway": "Gives the death toll and number of buildings destroyed.", "read_full": false },
+        { "ref": "5c37b2ccef", "takeaway": "Stresses the 12 deaths and the neighborhoods burned.", "read_full": false },
+        { "ref": "f82e6fc343", "takeaway": "Video report: scale of displacement and destruction.", "read_full": false },
+        { "ref": "1f858df138", "takeaway": "Notes the case was retried.", "read_full": false },
+        { "ref": "72c016720f", "takeaway": "Headline only: the conviction.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iowa-army-detonation-stay",
+      "headline": "Court halts Army plan to detonate five tons of unstable explosives in Iowa",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "A federal appeals court on Friday put on hold the Army's plan to detonate about five tons of unstable material containing lead azide at a munitions plant in Iowa. The Army had already moved the detonation from Friday to Monday after public concern about lead dust. An Army colonel said a controlled detonation remains the safest option.",
+      "why_it_matters": "People living near the plant, on the Iowa-Illinois border, face two risks that officials and opponents weigh differently: lead dust spreading from a planned blast, or unstable explosives left in storage.",
+      "background": "The Iowa Army Ammunition Plant in Middletown makes munitions for the military. A safety review found a stock of lead azide, a chemical used to set off explosives, had become unstable. The Environmental Protection Agency granted the Army an emergency permit to detonate it in place, and some Middletown residents were told to leave the area for the blast. The Iowa Environmental Council and the Sierra Club asked a federal appeals court to block the permit, arguing that safer alternatives were not considered. Iowa political leaders also asked the Army to delay.",
+      "facts": [
+        { "text": "A federal court on Friday put the Army's plan to detonate five tons of unstable explosives containing lead azide on indefinite hold.", "refs": ["d7865445a8", "dea48df494", "1c92ed537a"] },
+        { "text": "The detonation was first planned for Friday, and the Army pushed it to Monday after an outpouring of public concern about health and environmental effects.", "refs": ["e301ea5e4b"] },
+        { "text": "An Army colonel said a controlled detonation is the \"safest\" course, and the Army still intends to carry it out, NewsNation reported.", "refs": ["47ae3a8292"] },
+        { "text": "The Iowa Environmental Council and the Sierra Club challenged the EPA emergency permit that allowed the detonation and asked the appeals court for an emergency stay.", "refs": ["us-w11"] },
+        { "text": "Some residents of Middletown were told to evacuate for the detonation.", "refs": ["us-w12"] },
+        { "text": "Iowa political leaders asked the Army to delay the detonation.", "refs": ["us-w13"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether detonating the material in place is the safest option",
+          "positions": [
+            { "claim": "The Army says a controlled detonation is the safest way to deal with the unstable material.", "refs": ["47ae3a8292"] },
+            { "claim": "The environmental groups that sued say the EPA did not require the Army to consider safer alternatives that would avoid spreading lead.", "refs": ["us-w11"] }
+          ]
+        },
+        {
+          "topic": "How long the delay will last",
+          "positions": [
+            { "claim": "The court's order puts the detonation on hold indefinitely.", "refs": ["d7865445a8", "dea48df494"] },
+            { "claim": "The Army still intends to detonate on Monday, though courts could step in again, NewsNation reported.", "refs": ["47ae3a8292"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "8e6bb899f1", "note": "Pairs the ruling with residents' worry about lead exposure." },
+        { "ref": "47ae3a8292", "note": "Leads with the Army's safety argument and treats the ruling as a delay." },
+        { "ref": "60285eb556", "note": "Stresses location, near the Iowa-Illinois border, and does not mention lead." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d7865445a8", "takeaway": "Says the plan is on indefinite hold amid environmental and health concerns.", "read_full": false },
+        { "ref": "dea48df494", "takeaway": "Video report: an appeals court delayed the blast after public concern over lead dust.", "read_full": false },
+        { "ref": "e301ea5e4b", "takeaway": "Explains the earlier shift from Friday to Monday.", "read_full": false },
+        { "ref": "47ae3a8292", "takeaway": "Gives the Army's case and says it still plans to proceed.", "read_full": false },
+        { "ref": "1c92ed537a", "takeaway": "Headline only: a court stay prevents the detonation.", "read_full": false },
+        { "ref": "8e6bb899f1", "takeaway": "Headline only: the halt and residents' lead worries.", "read_full": false },
+        { "ref": "60285eb556", "takeaway": "Headline only: the court block, placed geographically.", "read_full": false }
+      ],
+      "social": "An online petition on Change.org calls for the detonation to be stopped; that is a sign of local opposition, not a measure of overall opinion."
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w2", "url": "https://www.techrepublic.com/article/news-november-2026-tech-outages-timeline/", "title": "November 2026 Tech Outages Timeline: What Went Wrong at Microsoft, AWS, and More", "outlet": "TechRepublic" },
+    { "id": "us-w3", "url": "https://www.ktvu.com/news/airline-bank-outage-reason-tech-glitch-cyber-attack", "title": "Outages everywhere: What's behind banks, airlines' technical difficulties?", "outlet": "KTVU Fox 2" },
+    { "id": "us-w4", "url": "https://www.whitehouse.gov/briefings-statements/2025/08/u-s-senate-confirms-sean-cairncross-as-the-national-cyber-director", "title": "U.S. Senate Confirms Sean Cairncross as the National Cyber Director", "outlet": "White House" },
+    { "id": "us-w5", "url": "https://www.axios.com/2026/11/09/senate-advances-bipartisan-permitting-bill-key-test-vote", "title": "Senate advances bipartisan permitting bill in key test vote", "outlet": "Axios" },
+    { "id": "us-w6", "url": "https://www.fortune.com/2026/08/20/donald-trump-data-center-midterm-races/", "title": "Trump and data centers in the midterm races (AP)", "outlet": "Fortune / Associated Press" },
+    { "id": "us-w7", "url": "https://meduza.io/en/news/2026/11/19/who-s-that-he-s-my-friend-trump-greets-putin-at-summit-in-china-as-the-two-hold-40-minute-meeting", "title": "'Who's that? He's my friend': Trump greets Putin at summit in China as the two hold 40-minute meeting", "outlet": "Meduza" },
+    { "id": "us-w8", "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/06/26/mistrial-declared-after-jury-deadlocks-in-arson-trial-over-deadly-2025-palisades-fire-in-los-angeles", "title": "Mistrial declared after jury deadlocks in arson trial over deadly 2025 Palisades Fire in Los Angeles", "outlet": "Associated Press via NY1" },
+    { "id": "us-w9", "url": "https://courthousenews.com/palisades-fire-arson-suspect-goes-on-trial-for-second-time/", "title": "Palisades Fire arson suspect goes on trial for second time", "outlet": "Courthouse News Service" },
+    { "id": "us-w10", "url": "https://sourcenm.com/2026/11/12/repub/us-senators-demand-end-to-iran-war-funding-in-bill-averting-shutdown/", "title": "US senators demand end to Iran war funding in bill averting shutdown", "outlet": "States Newsroom (Source NM)" },
+    { "id": "us-w11", "url": "https://earthjustice.org/?p=58175", "title": "Groups Sue to Halt Planned Detonation at Ammunition Plant in Iowa", "outlet": "Earthjustice" },
+    { "id": "us-w12", "url": "https://www.kttc.com/2026/11/17/army-prepares-detonate-lead-azide-some-middletown-residents-must-evacuate/", "title": "Army prepares to detonate lead azide; some Middletown residents must evacuate", "outlet": "KTTC" },
+    { "id": "us-w13", "url": "https://axios.com/local/des-moines/2026/11/19/iowa-middletown-lead-azide-rob-sand-josh-turek", "title": "Iowa leaders ask Army to delay planned lead detonation", "outlet": "Axios Des Moines" },
+    { "id": "us-w14", "url": "https://www.change.org/p/stop-the-planned-lead-azide-detonation-in-iowa", "title": "Stop the planned lead azide detonation in Iowa", "outlet": "Change.org" }
+  ]
+}

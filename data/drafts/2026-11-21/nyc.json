@@ -1,0 +1,680 @@
+{
+  "stories": [
+    {
+      "id": "rikers-closure-plan-2032",
+      "headline": "Mamdani releases detailed plan to close Rikers by 2032 with four borough jails",
+      "region": "City Hall",
+      "importance": 5,
+      "summary": "Mayor Zohran Mamdani on Friday laid out how he intends to close the Rikers Island jail complex by the end of 2032: replace it with four smaller jails around the city and sharply reduce the number of people held. He acknowledged the city will miss the 2027 closure deadline now in law. The later deadline needs City Council approval, according to local reports.",
+      "why_it_matters": "The plan decides where people awaiting trial will be held, means new jails in four boroughs, and depends on holding far fewer people than the city does today. Outlets across the spectrum covered it; right-leaning outlets focused on releases, others on the missed deadline.",
+      "background": "Rikers Island is the city's main jail complex, holding more than 6,000 people, most of them awaiting trial. In 2019 the City Council voted to close it and replace it with smaller jails in the boroughs, and the law set a 2027 deadline. Construction delays and a jail population larger than the new buildings can hold put that date out of reach. Mamdani, who took office in January, had already proposed moving the deadline to the end of 2032; Friday's announcement set out the steps to get there. The Council, led by Speaker Julie Menin, must approve the new date.",
+      "facts": [
+        {
+          "text": "Mamdani announced a plan Friday to close Rikers Island by 2032.",
+          "refs": [
+            "78fbab1e13",
+            "1cf13bae49",
+            "b7fdc1f987"
+          ]
+        },
+        {
+          "text": "The plan would replace Rikers with four smaller jails across the city.",
+          "refs": [
+            "f5a8fc4a55",
+            "nyc-w16"
+          ]
+        },
+        {
+          "text": "The mayor acknowledged the city will miss the legal deadline to close Rikers by next year.",
+          "refs": [
+            "817963f4f2"
+          ]
+        },
+        {
+          "text": "The plan relies on sharply reducing the jail population and keeping it down, Gothamist reported.",
+          "refs": [
+            "1cf13bae49"
+          ]
+        },
+        {
+          "text": "Rikers holds more than 6,000 people.",
+          "refs": [
+            "9c2f7fd9f7",
+            "nyc-w17"
+          ]
+        },
+        {
+          "text": "The City Council first voted to close Rikers in 2019, and delays followed over where to hold detainees.",
+          "refs": [
+            "b7fdc1f987"
+          ]
+        },
+        {
+          "text": "The mayor's office described the document as the city's first comprehensive plan to close Rikers.",
+          "refs": [
+            "nyc-w15"
+          ]
+        },
+        {
+          "text": "Moving the deadline from 2027 to the end of 2032 requires City Council approval, ABC7 reported.",
+          "refs": [
+            "nyc-w16"
+          ]
+        },
+        {
+          "text": "Council Member Tiffany Caban, whose district includes Rikers Island, told City & State there is 'a long way to go'.",
+          "refs": [
+            "7e30a53a39"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "78fbab1e13",
+          "note": "Plain announcement framing: a plan to close the jail by 2032."
+        },
+        {
+          "ref": "817963f4f2",
+          "note": "Leads with the delay: Rikers 'will stay open until 2032' and the legal deadline will be missed."
+        },
+        {
+          "ref": "9c2f7fd9f7",
+          "note": "Stresses the number of people held and words it as a closure announcement, without the 2032 date in the headline."
+        },
+        {
+          "ref": "9a3716d035",
+          "note": "Emphasizes earlier releases and the jail commissioner's criminal record rather than the closure timeline."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "78fbab1e13",
+          "takeaway": "Headline only: wire report of the announcement.",
+          "read_full": false
+        },
+        {
+          "ref": "1cf13bae49",
+          "takeaway": "Headline and summary only: the plan depends on cutting the jail population.",
+          "read_full": false
+        },
+        {
+          "ref": "817963f4f2",
+          "takeaway": "Headline and summary only (paywalled): the missed deadline and the new commitment.",
+          "read_full": false
+        },
+        {
+          "ref": "f5a8fc4a55",
+          "takeaway": "Headline and summary only: four smaller jails to replace Rikers.",
+          "read_full": false
+        },
+        {
+          "ref": "b7fdc1f987",
+          "takeaway": "Headline and summary only: history back to the 2019 Council vote.",
+          "read_full": false
+        },
+        {
+          "ref": "9c2f7fd9f7",
+          "takeaway": "Headline and summary only: population figure and a quote from the mayor.",
+          "read_full": false
+        },
+        {
+          "ref": "7e30a53a39",
+          "takeaway": "Headline and summary only: interview with the local Council member.",
+          "read_full": false
+        },
+        {
+          "ref": "9a3716d035",
+          "takeaway": "Headline only: focuses on reducing the population through earlier releases.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w15",
+          "takeaway": "Search result only: the mayor's office announcement of the plan.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w16",
+          "takeaway": "Search result only: the deadline change and the need for Council approval.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w17",
+          "takeaway": "Search result only: national report on the plan and current population.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "bruckner-shelter-closed-ice-subpoena",
+      "headline": "City closes its last migrant shelter and tells judge ICE subpoena is moot",
+      "region": "Bronx",
+      "importance": 4,
+      "summary": "Lawyers for the Mamdani administration told a federal judge late Thursday that no residents remain at the Bruckner migrant shelter in the Bronx, the site whose resident records Immigration and Customs Enforcement had subpoenaed. The city argues the closure makes the subpoena irrelevant. Reports seen so far do not say how the judge or ICE has responded.",
+      "why_it_matters": "The case tests how far the federal government can go in getting city-held data about people living in shelters, and ICE has other subpoenas pending for other city-run shelters. The ingested coverage comes from left-leaning outlets only.",
+      "background": "During the migrant influx that began in 2022 the city opened emergency shelters; the Bruckner site in Mott Haven was the last one still open. The Mamdani administration published a plan in February to close it by the end of the year. ICE subpoenaed the city for information on residents there, and the city fought the request in court. Earlier this month U.S. District Judge Lewis Kaplan ordered the city to hand over names and dates of birth of certain male residents. The city then emptied and closed the shelter before the data changed hands, according to the court letter described in news reports.",
+      "facts": [
+        {
+          "text": "Attorneys for the administration filed a letter late Thursday telling a judge there were no more residents inside the Bronx facility.",
+          "refs": [
+            "aa93d1a7cb",
+            "nyc-w1"
+          ]
+        },
+        {
+          "text": "The shelter was the city's last remaining migrant shelter.",
+          "refs": [
+            "1cf3234490",
+            "nyc-w1"
+          ]
+        },
+        {
+          "text": "The Trump administration had sought the names of undocumented immigrants with criminal records who lived at the center, according to the New York Times.",
+          "refs": [
+            "1cf3234490"
+          ]
+        },
+        {
+          "text": "U.S. District Judge Lewis Kaplan had ordered the city to comply with the ICE subpoena for information on male residents of the Bruckner shelter; the NAACP Legal Defense Fund, which criticized the order, dated it to Nov. 6 and said it covered names and dates of birth.",
+          "refs": [
+            "nyc-w2",
+            "nyc-w3"
+          ]
+        },
+        {
+          "text": "After the ruling, a mayoral spokesperson said the city was evaluating its next steps.",
+          "refs": [
+            "nyc-w3"
+          ]
+        },
+        {
+          "text": "The closure leaves the subpoena's status unresolved, and a wider dispute over shelter data continues, according to the New York Times headline and a Latin Times report.",
+          "refs": [
+            "1cf3234490",
+            "nyc-w1"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "aa93d1a7cb",
+          "note": "Puts the mayor's action first and calls the site the center of an 'ICE fight' over residents' data."
+        },
+        {
+          "ref": "1cf3234490",
+          "note": "Stresses that this was the last migrant shelter and that the subpoena is left 'in limbo'; the summary specifies ICE sought people with criminal records."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "aa93d1a7cb",
+          "takeaway": "Headline and summary only: reports the court letter saying the shelter is empty.",
+          "read_full": false
+        },
+        {
+          "ref": "1cf3234490",
+          "takeaway": "Headline and summary only (paywalled): frames the closure as leaving the subpoena unresolved.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w1",
+          "takeaway": "Search result only: says the closure may weaken the subpoena while the broader data fight continues.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w2",
+          "takeaway": "Search result only: advocacy group's statement opposing the judge's order, with its date and scope.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w3",
+          "takeaway": "Search result only: report on the judge's order and the city's initial response.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "council-battery-fire-hearing",
+      "headline": "Council presses Fire Department on battery fires and wants trade-in program back",
+      "region": "City Hall",
+      "importance": 4,
+      "summary": "At a City Council hearing Friday, Fire Department officials defended the Mamdani administration's response to fires caused by lithium-ion batteries, which power many e-bikes. Council Speaker Julie Menin called for reviving a battery trade-in pilot that has expired, and the Council is weighing bills to restrict the sale of uncertified batteries. A relative of a family killed in a Bronx e-bike fire also called for change.",
+      "why_it_matters": "Battery fires start in apartments and can kill neighbors as well as the owner; what the Council passes will decide which batteries can be sold and whether riders get help replacing unsafe ones.",
+      "background": "Lithium-ion batteries in e-bikes and scooters can ignite and burn very fast, especially cheap ones that have not been safety-certified. Many delivery workers rely on them. The Council passed a package of battery laws in 2023, including a trade-in program that let people swap unsafe batteries for certified ones; the program ran as a pilot and has since lapsed. Fatal fires this year, including one in the Bronx that killed members of one family, prompted Friday's hearing. The key players are Speaker Julie Menin, the Fire Department and the Department of Transportation, which ran the trade-in pilot.",
+      "facts": [
+        {
+          "text": "The Council is debating a set of bills to tighten safety rules and limit the sale and distribution of uncertified lithium-ion batteries.",
+          "refs": [
+            "6da30a436b"
+          ]
+        },
+        {
+          "text": "Fire Department officials told the Council they supported the battery trade-in pilot, which has expired; Speaker Julie Menin said the city should bring it back.",
+          "refs": [
+            "8d5ec9d4f6",
+            "nyc-w4"
+          ]
+        },
+        {
+          "text": "Administration officials defended their response to the fires at the hearing.",
+          "refs": [
+            "6da30a436b",
+            "nyc-w5"
+          ]
+        },
+        {
+          "text": "A relative of a family killed in a Bronx e-bike fire called for change, the New York Post reported.",
+          "refs": [
+            "fd65977a8f"
+          ]
+        },
+        {
+          "text": "Menin said the Department of Transportation had failed to extend the trade-in program and called on the mayor to fix that, Streetsblog reported.",
+          "refs": [
+            "nyc-w4"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "6da30a436b",
+          "note": "Centers the administration, casting officials as on the defensive over 'deadly' fires."
+        },
+        {
+          "ref": "8d5ec9d4f6",
+          "note": "Centers the Council's specific ask: restoring the trade-in program."
+        },
+        {
+          "ref": "fd65977a8f",
+          "note": "Tells the story through a grieving relative's words rather than the policy debate."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "6da30a436b",
+          "takeaway": "Headline and summary only: hearing story focused on officials' defense and the pending bills.",
+          "read_full": false
+        },
+        {
+          "ref": "8d5ec9d4f6",
+          "takeaway": "Headline and summary only: focuses on the expired trade-in pilot and Menin's push to restore it.",
+          "read_full": false
+        },
+        {
+          "ref": "fd65977a8f",
+          "takeaway": "Headline and summary only: a victim's relative calling for change.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w4",
+          "takeaway": "Search result only: Menin's demand that the city restore the battery swap.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w5",
+          "takeaway": "Search result only: Council seeking answers on the rise in fatal residential battery fires.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "amazon-delivery-bill-menin",
+      "headline": "Amazon's campaign against delivery worker bill is straining ties with Council speaker",
+      "region": "City Hall",
+      "importance": 4,
+      "summary": "Gothamist reports that Council Speaker Julie Menin is growing frustrated with Amazon as the company steps up lobbying against a Council bill covering delivery workers who work for its contractors. Amazon this week began warning customers in its app that the bill could raise order costs. Other reports say lawmakers are weighing changes to the bill, with a vote possible in the coming weeks.",
+      "why_it_matters": "The bill would change how thousands of package delivery workers in the city are employed, and Amazon says it could make orders cost more, a claim the speaker rejects. Only Gothamist among ingested outlets covered this today.",
+      "background": "Many drivers who deliver Amazon packages wear its branding but are employed by smaller contractor firms. The Delivery Protection Act, a Council bill backed by the Teamsters union and Mayor Zohran Mamdani, would regulate that arrangement and the warehouses packages leave from. Amazon opposes it; earlier reporting by New York Focus said the company funded a multimillion-dollar lobbying campaign against it. Speaker Julie Menin controls whether and when the bill gets a vote and has said she is working through legal issues with it.",
+      "facts": [
+        {
+          "text": "Delivery workers who drive Amazon-branded cargo bikes and trucks often work for independent contractors.",
+          "refs": [
+            "7288f4121f"
+          ]
+        },
+        {
+          "text": "Gothamist reports that Menin is growing frustrated as Amazon increases its lobbying against the bill.",
+          "refs": [
+            "7288f4121f"
+          ]
+        },
+        {
+          "text": "Amazon launched an in-app campaign against the bill, telling New York City customers it could add up to $5 per order.",
+          "refs": [
+            "nyc-w6",
+            "nyc-w7"
+          ]
+        },
+        {
+          "text": "City lawmakers are weighing an overhaul of the bill, according to a Bloomberg report carried by Insurance Journal.",
+          "refs": [
+            "nyc-w8"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the bill would raise prices for customers",
+          "positions": [
+            {
+              "claim": "Amazon says the bill could add up to $5 per order.",
+              "refs": [
+                "nyc-w6",
+                "nyc-w7"
+              ]
+            },
+            {
+              "claim": "Menin has called Amazon's campaign deceptive and says the bill would not raise prices, according to amNY.",
+              "refs": [
+                "nyc-w7"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "7288f4121f",
+          "note": "Frames the news as a tactical misstep by Amazon, leading with a quote that the company is 'blowing this'."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "7288f4121f",
+          "takeaway": "Headline and summary only: the speaker's frustration with Amazon's lobbying.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w6",
+          "takeaway": "Search result only: Amazon's in-app push against the bill.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w7",
+          "takeaway": "Search result only: Amazon's $5-per-order claim and the speaker's rejection of it.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w8",
+          "takeaway": "Search result only: lawmakers considering changes to the bill.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "javits-frimpong-funeral",
+      "headline": "Bronx funeral held for Javits Frimpong, 15, as prosecutors describe the shooting",
+      "region": "Bronx",
+      "importance": 4,
+      "summary": "A large crowd, including Mayor Zohran Mamdani, attended the funeral Friday of Javits Frimpong, the 15-year-old shot dead on his way to school in the Bronx last month. The Rev. Al Sharpton gave the eulogy. Prosecutors said the teens who killed him took turns shooting, the Daily News reported; one 17-year-old has been charged and police have said they are looking for two others.",
+      "why_it_matters": "The killing of a student walking to school has become a focus of the city's debate over youth gun violence, and two suspects have not been arrested. Ingested coverage is from left-leaning and center outlets only.",
+      "background": "Javits Frimpong, a 10th grader who had come from Ghana, was shot on Oct. 29 while walking to school in the Bronx. Police arrested a 17-year-old in November and charged him with murder; the Bronx district attorney's office is prosecuting. The family is represented by civil rights attorney Ben Crump and has been supported by Sharpton's National Action Network. Early reports linked the shooting to bullying, but Crump has said prosecutors told the family the shooters did not attend Frimpong's school; amNY describes the killing as a case of mistaken identity.",
+      "facts": [
+        {
+          "text": "Mayor Mamdani, other public officials and activists joined the family at the funeral in the Bronx on Friday.",
+          "refs": [
+            "d60aac091a",
+            "a308840057"
+          ]
+        },
+        {
+          "text": "The Rev. Al Sharpton delivered the eulogy at New Covenant Christian Ministries.",
+          "refs": [
+            "d1f511aa0a",
+            "a308840057"
+          ]
+        },
+        {
+          "text": "Prosecutors said the teens who killed Frimpong took turns shooting him, according to the Daily News.",
+          "refs": [
+            "373fe97915"
+          ]
+        },
+        {
+          "text": "A 17-year-old has been charged with murder in the Oct. 29 shooting, and police have said they are seeking two other people.",
+          "refs": [
+            "nyc-w9",
+            "nyc-w10"
+          ]
+        },
+        {
+          "text": "amNY describes the shooting as a case of mistaken identity.",
+          "refs": [
+            "d1f511aa0a"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "d60aac091a",
+          "note": "Emphasizes the size of the crowd and the mayor's presence."
+        },
+        {
+          "ref": "373fe97915",
+          "note": "Skips the funeral for the prosecutors' account of how the shooting was carried out."
+        },
+        {
+          "ref": "d1f511aa0a",
+          "note": "Emphasizes the emotion of the service and states the mistaken-identity account in the headline."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "d60aac091a",
+          "takeaway": "Headline and summary only: who attended the funeral.",
+          "read_full": false
+        },
+        {
+          "ref": "a308840057",
+          "takeaway": "Headline only: Mamdani and Sharpton mourning with the family.",
+          "read_full": false
+        },
+        {
+          "ref": "373fe97915",
+          "takeaway": "Headline only: prosecutors' account that the attackers took turns shooting.",
+          "read_full": false
+        },
+        {
+          "ref": "d1f511aa0a",
+          "takeaway": "Headline and summary only: the service, the eulogy and the mistaken-identity description.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w9",
+          "takeaway": "Search result only: the 17-year-old's arraignment.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w10",
+          "takeaway": "Search result only: the arrest, the charge and the search for others.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "open-primaries-second-petition",
+      "headline": "Group files new petitions to open city primaries to all voters",
+      "region": "Elections",
+      "importance": 3,
+      "summary": "Unite NY, a group that wants every registered voter to be able to vote in city primaries, has submitted a second batch of petitions to put the question on the ballot, Gothamist reports. Its first batch was rejected by the city and is still in court. Mayor Zohran Mamdani has pushed back on the effort.",
+      "why_it_matters": "Voters not enrolled in a party cannot vote in the primaries that usually decide who wins city offices; a ballot question could change that for the next mayoral election. Only Gothamist among ingested outlets covered this.",
+      "background": "New York City has closed primaries: only voters registered with a party can vote in that party's primary. Because Democrats far outnumber Republicans in the city, the Democratic primary often decides the winner. Unite NY is using a petition process to try to put a charter change on the ballot instead of going through a mayor-appointed charter revision commission. It filed about 45,000 signatures in July; the city clerk found too few were valid, and the group sued. Mamdani has said he is content with the current primary system.",
+      "facts": [
+        {
+          "text": "Unite NY is trying again to put a question on the ballot opening the city's primaries to all registered voters.",
+          "refs": [
+            "cc74a9ec29"
+          ]
+        },
+        {
+          "text": "The group's first batch of petitions is still tied up in a legal fight with the city.",
+          "refs": [
+            "cc74a9ec29",
+            "nyc-w11"
+          ]
+        },
+        {
+          "text": "The city rejected the first batch, filed in July, saying it fell short of the 30,000 valid signatures required; Unite NY disputes the count and sued.",
+          "refs": [
+            "nyc-w11"
+          ]
+        },
+        {
+          "text": "Mamdani has said he is content with the city's current primary system.",
+          "refs": [
+            "nyc-w12"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the first petition had enough valid signatures",
+          "positions": [
+            {
+              "claim": "The city says the petitions did not contain the 30,000 valid signatures the law requires.",
+              "refs": [
+                "nyc-w11"
+              ]
+            },
+            {
+              "claim": "Unite NY disputes the city's count and has asked a court to order a line-by-line review.",
+              "refs": [
+                "nyc-w11"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "cc74a9ec29",
+          "note": "Presents the filing as persistence against the mayor, putting 'Mamdani's pushback' in the headline."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "cc74a9ec29",
+          "takeaway": "Headline and summary only: the new filing and the pending court fight.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w11",
+          "takeaway": "Search result only: earlier Gothamist report on the rejected petitions and the lawsuit.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w12",
+          "takeaway": "Search result only: the mayor's stated position on the primary system.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "nyc-w1",
+      "url": "https://www.latintimes.com/nycs-last-migrant-shelter-closes-ice-data-battle-reaches-decisive-turning-point-601639",
+      "title": "NYC's last emergency migrant shelter has closed, potentially weakening ICE's subpoena, but leaving a broader fight over shelter data unresolved",
+      "outlet": "Latin Times"
+    },
+    {
+      "id": "nyc-w2",
+      "url": "https://www.naacpldf.org/press-release/ldf-alarmed-by-ices-attempt-to-conduct-a-dragnet-on-nyc-shelter/",
+      "title": "LDF alarmed by ICE's attempt to conduct a dragnet on NYC shelter",
+      "outlet": "NAACP Legal Defense Fund"
+    },
+    {
+      "id": "nyc-w3",
+      "url": "https://www.scrippsnews.com/politics/immigration/judge-orders-mamdani-to-comply-with-ice-records-request-in-nyc",
+      "title": "Judge orders Mamdani to comply with ICE records request in NYC",
+      "outlet": "Scripps News"
+    },
+    {
+      "id": "nyc-w4",
+      "url": "https://nyc.streetsblog.org/2026/11/20/city-must-bring-back-successful-lithium-ion-battery-swap-menin",
+      "title": "City Must Bring Back Successful Lithium-Ion Battery-Swap: Menin",
+      "outlet": "Streetsblog NYC"
+    },
+    {
+      "id": "nyc-w5",
+      "url": "https://www.crainsnewyork.com/politics-policy/cny-menin-mamdani-fdny-litium-ion-20261120/",
+      "title": "City Council seeks answers on rise in fatal residential fires tied to lithium-ion batteries",
+      "outlet": "Crain's New York Business"
+    },
+    {
+      "id": "nyc-w6",
+      "url": "https://www.cnbc.com/2026/11/19/amazon-nyc-delivery-protection-act.html",
+      "title": "Amazon launches in-app push against New York City delivery bill",
+      "outlet": "CNBC"
+    },
+    {
+      "id": "nyc-w7",
+      "url": "https://amny.com/news/nyc-council-surcharge-delivery-amazon-says",
+      "title": "NYC Council could add up to $5 per Amazon order, retail giant says, as delivery workers rally against proposed bill",
+      "outlet": "amNY"
+    },
+    {
+      "id": "nyc-w8",
+      "url": "https://www.insurancejournal.com/news/east/2026/11/20/893274.htm",
+      "title": "NY City Lawmakers Weigh Overhaul of Amazon Delivery Worker Bill",
+      "outlet": "Insurance Journal (Bloomberg)"
+    },
+    {
+      "id": "nyc-w9",
+      "url": "https://abc7ny.com/post/17-year-old-arraigned-fatal-bronx-shooting-15-javits-frimpong/20037022/",
+      "title": "17-year-old arraigned in fatal Bronx shooting of 15-year-old Javits Frimpong",
+      "outlet": "ABC7 New York"
+    },
+    {
+      "id": "nyc-w10",
+      "url": "https://abcnews.com/US/teen-arrested-connection-death-javits-frimpong-15-year/story?id=138047522",
+      "title": "Teen charged in killing of Javits Frimpong, 15-year-old immigrant shot in the Bronx",
+      "outlet": "ABC News"
+    },
+    {
+      "id": "nyc-w11",
+      "url": "https://gothamist.com/news/group-pushing-for-open-primaries-takes-fight-to-court-after-nyc-rejects-petitions",
+      "title": "Group pushing for open primaries takes fight to court after NYC rejects petitions",
+      "outlet": "Gothamist"
+    },
+    {
+      "id": "nyc-w12",
+      "url": "https://www.amny.com/politics/mamdani-content-nyc-primary-system-open/",
+      "title": "Mamdani content with NYC primary system",
+      "outlet": "amNY"
+    },
+    {
+      "id": "nyc-w15",
+      "url": "https://www.nyc.gov/mayors-office/news",
+      "title": "Mayor Mamdani Releases City's First Comprehensive Plan to Close Rikers Island",
+      "outlet": "NYC Mayor's Office"
+    },
+    {
+      "id": "nyc-w16",
+      "url": "https://abc7ny.com/post/mayor-mamdani-proposes-delaying-rikers-island-closure-deadline-2032/20058752/",
+      "title": "Mayor Mamdani proposes delaying Rikers Island closure deadline to 2032",
+      "outlet": "ABC7 New York"
+    },
+    {
+      "id": "nyc-w17",
+      "url": "https://www.nbcnews.com/news/us-news/mamdani-sets-plan-close-nycs-notorious-rikers-island-jail-rcna610382",
+      "title": "Mamdani sets plan to close NYC's notorious Rikers Island jail",
+      "outlet": "NBC News"
+    }
+  ]
+}

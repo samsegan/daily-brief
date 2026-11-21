@@ -1,0 +1,393 @@
+{
+  "stories": [
+    {
+      "id": "icj-myanmar-rohingya-genocide",
+      "headline": "Myanmar rejects UN court's finding that it committed genocide against the Rohingya",
+      "region": "Asia-Pacific",
+      "importance": 5,
+      "summary": "The International Court of Justice ruled on Thursday that Myanmar committed genocide against the Rohingya Muslim minority, in a case brought by Gambia. Myanmar's military-backed government called the ruling \"unfair\", and rights groups urged governments to impose sanctions. The court ordered reparations, safe return for those who fled and prosecutions, but it has no way to enforce the ruling.",
+      "why_it_matters": "It is reported to be the first time the UN's top court has held a state responsible for genocide, and analysts quoted in the coverage say the way the court judged intent could shape other genocide cases, including the one against Israel. For Rohingya refugees, little changes soon, because the court cannot enforce its orders.",
+      "background": "The Rohingya are a mostly Muslim minority from Myanmar, many of whom fled to neighbouring Bangladesh to escape military violence and still live in refugee camps there. Gambia brought a case against Myanmar at the International Court of Justice in 2019 under the 1948 Genocide Convention, and the court ruled in 2022 that it had jurisdiction. The ICJ, based in The Hague, settles disputes between states; it does not try individuals. Its rulings are binding, but it has no enforcement arm, so a state that believes a ruling is being ignored can turn to the UN Security Council.",
+      "facts": [
+        { "text": "The International Court of Justice ruled on Thursday, Nov. 19, that Myanmar committed genocide against the Rohingya.", "refs": ["c3e3c7d73a", "f2443e656b", "world-w2"] },
+        { "text": "The ruling orders Myanmar to let those who fled return home safely, to pay reparations to the Rohingya and to prosecute people suspected of genocide; the court has no power to enforce it.", "refs": ["f2443e656b"] },
+        { "text": "The judges decided for Gambia by nine votes to six, and reports describe it as the first time the court has held a state responsible for genocide.", "refs": ["world-w2", "world-w3"] },
+        { "text": "The amount of compensation is to be set in later proceedings, and the judgment does not order Myanmar to grant the Rohingya citizenship.", "refs": ["world-w1", "world-w2"] },
+        { "text": "Myanmar dismissed the ruling as \"unfair\".", "refs": ["dea911f452", "68346b94a8"] },
+        { "text": "Rights groups urged governments to impose sanctions on Myanmar after the ruling.", "refs": ["c3e3c7d73a", "f2443e656b"] },
+        { "text": "Rohingya refugees in Bangladesh welcomed the verdict but told the AP they want to go home to Myanmar.", "refs": ["dfdac2f96f"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Myanmar is responsible for genocide",
+          "positions": [
+            { "claim": "The ICJ found that Myanmar violated the Genocide Convention and committed genocide against the Rohingya.", "refs": ["c3e3c7d73a", "f2443e656b", "world-w2"] },
+            { "claim": "Myanmar's government rejects the finding and calls the ruling \"unfair\".", "refs": ["dea911f452", "68346b94a8"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "dea911f452", "note": "Leads with Myanmar's rejection of the ruling rather than the finding itself." },
+        { "ref": "c3e3c7d73a", "note": "Leads with rights groups' call for sanctions, treating the finding as settled." },
+        { "ref": "ef0a739b0c", "note": "Looks past Myanmar to what the ruling could mean for the genocide case against Israel." },
+        { "ref": "6300341dc8", "note": "Tells the story through survivors' accounts of the violence, not the legal ruling." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c3e3c7d73a", "takeaway": "Headline only: wire story on the ruling and the calls for sanctions.", "read_full": false },
+        { "ref": "f2443e656b", "takeaway": "Summary spells out what the court ordered and notes it cannot enforce it.", "read_full": false },
+        { "ref": "dea911f452", "takeaway": "Headline only: carries the wire report of Myanmar calling the ruling unfair.", "read_full": false },
+        { "ref": "68346b94a8", "takeaway": "Headline only (paywalled): same wire report on Myanmar's rejection.", "read_full": false },
+        { "ref": "dfdac2f96f", "takeaway": "Headline only: refugees in Bangladesh welcome the verdict but want to return.", "read_full": false },
+        { "ref": "ef0a739b0c", "takeaway": "Headline and summary only (paywalled): focuses on how the court judged intent and the implications for Israel.", "read_full": false },
+        { "ref": "6300341dc8", "takeaway": "Summary only: survivor testimony about fleeing attacks on villages.", "read_full": false },
+        { "ref": "world-w1", "takeaway": "Search result only: rights group's account of the ruling and the Security Council route for enforcement.", "read_full": false },
+        { "ref": "world-w2", "takeaway": "Search result only: report on the ruling with the vote and reparations details.", "read_full": false },
+        { "ref": "world-w3", "takeaway": "Search result only: headline calls the ruling a historic first.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "russia-kyiv-bridges-poland-missiles",
+      "headline": "Russia hits Kyiv bridges in large attack as missiles come down in Poland",
+      "region": "Europe",
+      "importance": 5,
+      "summary": "Russia struck bridges and railway stations in Kyiv in what President Volodymyr Zelenskyy called one of the largest aerial attacks of the war. During the attack, two Russian missiles and a suspected drone came down in Poland, which the Polish prime minister said was likely a deliberate provocation; NATO called it a grave violation of Polish airspace. On Saturday a missile strike on Kryvyi Rih killed two people and wounded about 60.",
+      "why_it_matters": "Missiles landing on the territory of a NATO member raise the risk that the war spreads beyond Ukraine, while the strikes on Kyiv's bridges and power supply hit the daily lives of millions of residents.",
+      "background": "Russia launched its full-scale invasion of Ukraine in 2022, and the war is now close to five years old. Earlier this week Ukraine damaged the bridge linking Russia to Crimea, the peninsula Russia annexed in 2014, and President Vladimir Putin vowed retaliation. Poland borders Ukraine and is a member of NATO, whose members treat an attack on one as an attack on all. Thousands of European troops from 11 countries were holding an exercise in southeastern Poland this week to prepare for a possible mission in Ukraine after the war. Separately, the US has raised discussing wider European security in talks with Russia, which the AP reports has worried Ukraine and its allies.",
+      "facts": [
+        { "text": "Russian missiles hit bridges in Kyiv in an overnight attack; officials in the capital said three bridges were struck.", "refs": ["51de97d151", "e68e9b6981"] },
+        { "text": "The BBC reported that railway stations in Kyiv were also hit, and ABC News reported that power was cut.", "refs": ["3fcc04ba00", "eb7611afb1"] },
+        { "text": "Zelenskyy said it was one of the largest aerial attacks since the invasion began.", "refs": ["9bb00bb429", "90eae19185"] },
+        { "text": "The attack followed Putin's vow of retaliation after Ukraine damaged the Crimea bridge this week.", "refs": ["e15866f222", "51de97d151", "bc8154c13f"] },
+        { "text": "Poland's defence minister, Władysław Kosiniak-Kamysz, said two missiles and a drone from Russia violated Polish airspace overnight.", "refs": ["f896a26e84"] },
+        { "text": "Poland's prime minister said the crash was likely an intentional provocation timed to European military exercises in Poland, and NATO called it a \"grave violation\" of Polish airspace.", "refs": ["92f708c3a1", "6953481fcf", "b18d2ecc87"] },
+        { "text": "There were no injuries or damage from the three incidents in Poland, according to The New York Times.", "refs": ["745e2580eb"] },
+        { "text": "One missile crashed about 35 kilometres from an area linked to the exercises, France 24 reported.", "refs": ["b18d2ecc87"] },
+        { "text": "A ballistic missile strike on Kryvyi Rih, Zelenskyy's hometown, killed two people and wounded 60 on Saturday.", "refs": ["f718a78b8a"] },
+        { "text": "Russia is reviving demands it made before the war after US envoys proposed discussing broader European security at Ukraine talks, the AP reported.", "refs": ["6aa9e6ce3c", "9e42a2c01d"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many people the attack killed",
+          "positions": [
+            { "claim": "At least nine dead across Ukraine, per The Kyiv Independent.", "refs": ["e68e9b6981", "90860f28b0"] },
+            { "claim": "At least eight killed, per CBS News.", "refs": ["90eae19185"] },
+            { "claim": "Three killed and nine injured in Kyiv, per ABC News.", "refs": ["eb7611afb1"] }
+          ]
+        },
+        {
+          "topic": "How many Kyiv bridges were hit",
+          "positions": [
+            { "claim": "Three bridges were struck, according to officials cited by NBC News and The Kyiv Independent.", "refs": ["51de97d151", "e68e9b6981"] },
+            { "claim": "Two bridges were damaged, according to Kyiv's mayor as reported by The Hindu.", "refs": ["e15866f222"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "62603958dd", "note": "Says Russia fired a missile into Poland during British troop drills, wording that implies intent and highlights the UK angle." },
+        { "ref": "92f708c3a1", "note": "Attributes the provocation claim to Poland's prime minister and keeps the word \"likely\"." },
+        { "ref": "90eae19185", "note": "Stresses that missiles hit NATO soil." },
+        { "ref": "9f96134b0c", "note": "Plays down alarm, focusing on Kyiv residents who say they are not worried about the bridges." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e68e9b6981", "takeaway": "Summary only: three bridges struck, at least nine dead nationwide.", "read_full": false },
+        { "ref": "90860f28b0", "takeaway": "Summary only: daily roundup repeating the toll and the missiles that fell in Poland.", "read_full": false },
+        { "ref": "51de97d151", "takeaway": "Summary only: ties the bridge strikes to Putin's vow of revenge.", "read_full": false },
+        { "ref": "e15866f222", "takeaway": "Summary only: cites the mayor on two damaged bridges and Putin's threat.", "read_full": false },
+        { "ref": "eb7611afb1", "takeaway": "Summary only: Kyiv toll of three dead, bridges damaged and power cut.", "read_full": false },
+        { "ref": "3fcc04ba00", "takeaway": "Summary only: explainer noting bridges and railway stations were hit.", "read_full": false },
+        { "ref": "bc8154c13f", "takeaway": "Headline and summary only (paywalled): Russia stepping up attacks on Kyiv's bridges.", "read_full": false },
+        { "ref": "9bb00bb429", "takeaway": "Summary only: Zelenskyy's description of the scale and Poland's accusation.", "read_full": false },
+        { "ref": "90eae19185", "takeaway": "Summary only: at least eight killed and missiles on NATO territory.", "read_full": false },
+        { "ref": "f896a26e84", "takeaway": "Summary only: quotes Poland's defence minister on the airspace violation.", "read_full": false },
+        { "ref": "92f708c3a1", "takeaway": "Headline only: Polish prime minister calls the crash a likely provocation.", "read_full": false },
+        { "ref": "6953481fcf", "takeaway": "Summary only: NATO's response and the link to the exercises.", "read_full": false },
+        { "ref": "b18d2ecc87", "takeaway": "Summary only: where the three projectiles came down.", "read_full": false },
+        { "ref": "745e2580eb", "takeaway": "Headline and summary only (paywalled): no injuries or damage in Poland.", "read_full": false },
+        { "ref": "62603958dd", "takeaway": "Headline only (paywalled): frames the incident around British troops on exercise.", "read_full": false },
+        { "ref": "f718a78b8a", "takeaway": "Summary only: Saturday's strike on Kryvyi Rih.", "read_full": false },
+        { "ref": "6aa9e6ce3c", "takeaway": "Headline only: Russia's prewar demands resurface in talks with the US.", "read_full": false },
+        { "ref": "9e42a2c01d", "takeaway": "Summary only: reprint noting Ukraine's and allies' worries about the US proposal.", "read_full": false },
+        { "ref": "9f96134b0c", "takeaway": "Summary only: street-level piece on residents still using a damaged bridge.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "houthi-missiles-riyadh-saudi-strikes",
+      "headline": "Houthis fire missiles at Riyadh after Saudi-led strikes on Yemen",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "The Saudi-led coalition said it intercepted three ballistic missiles fired toward Riyadh early Saturday by Yemen's Houthis, who had vowed reprisals for a coalition \"special operation\" in Yemen. Reuters reported that coalition forces struck a Yemeni port and that the Houthis warned airlines away from the kingdom. Separately, President Trump said Iran wants a deal but on terms he does not accept.",
+      "why_it_matters": "Renewed fighting between Saudi Arabia and the Houthis threatens civilians in both countries and air travel in the Gulf, and it comes as talks to end the war with Iran are stalled.",
+      "background": "The Houthis are an armed movement backed by Iran that controls much of Yemen, including the capital, Sanaa. A coalition led by Saudi Arabia has fought them on behalf of Yemen's internationally recognized government. Bloomberg reports that after four years of relative calm the war flared up again, and other outlets date the renewed fighting to this summer. The exchange comes during a wider conflict involving the United States and Iran, in which negotiations are under way but have not produced an agreement.",
+      "facts": [
+        { "text": "The Saudi-led coalition said it intercepted and destroyed three ballistic missiles fired toward Riyadh early Saturday.", "refs": ["5f871722c8", "7c91a09191", "4bdf044a40"] },
+        { "text": "The Houthis said on X that they were striking targets across Saudi Arabia, including in Riyadh.", "refs": ["4bdf044a40"] },
+        { "text": "The missile fire followed Saudi-led coalition air raids on Yemen, after the Houthis vowed reprisals for what was described as a coalition \"special operation\".", "refs": ["34077692cb", "d880bf5a1d"] },
+        { "text": "Saudi-led forces struck a port in Yemen and the Houthis warned airlines to stay away from the kingdom, Reuters reported.", "refs": ["6485bce038"] },
+        { "text": "It was the second Houthi attack on the Saudi capital in recent days, France 24 reported.", "refs": ["7c91a09191"] },
+        { "text": "Reuters reported that the Houthi attacks are adding to concerns about a US-Saudi nuclear power agreement.", "refs": ["2772f14e07"] },
+        { "text": "Trump told reporters on Friday that Iran wants a deal but not one that is acceptable to him; Iran's foreign minister, Abbas Araqchi, said Tehran wants diplomacy and guarantees that Washington is serious about negotiating.", "refs": ["3c106c769e", "8a7c60857a", "9f9a871d2c"] }
+      ],
+      "disputed": [
+        {
+          "topic": "What the Houthi attack hit",
+          "positions": [
+            { "claim": "The coalition says three missiles headed for Riyadh were intercepted and destroyed.", "refs": ["5f871722c8", "7c91a09191"] },
+            { "claim": "The Houthis say they were striking targets across Saudi Arabia, including in Riyadh.", "refs": ["4bdf044a40"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "5f871722c8", "note": "Leads with the Saudi account that the missiles were intercepted." },
+        { "ref": "34077692cb", "note": "Presents the Houthi strike as a response to the coalition's operation." },
+        { "ref": "1972f58deb", "note": "Steps back to ask why Saudi Arabia has not been able to defeat the Houthis." },
+        { "ref": "d807dea230", "note": "Folds the exchange into a regional roundup led by Trump's comments on Iran." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "5f871722c8", "takeaway": "Headline only: Saudi Arabia says it intercepted three missiles aimed at Riyadh.", "read_full": false },
+        { "ref": "7c91a09191", "takeaway": "Summary only: coalition's interception claim and the second attack on Riyadh in days.", "read_full": false },
+        { "ref": "4bdf044a40", "takeaway": "Summary only: adds the Houthis' own statement on X.", "read_full": false },
+        { "ref": "34077692cb", "takeaway": "Summary only: strikes followed coalition air raids and a months-long surge in attacks.", "read_full": false },
+        { "ref": "d880bf5a1d", "takeaway": "Headline and summary only (paywalled): Houthis had vowed reprisals for the operation.", "read_full": false },
+        { "ref": "6485bce038", "takeaway": "Headline only: coalition strike on a Yemeni port and the warning to airlines.", "read_full": false },
+        { "ref": "2772f14e07", "takeaway": "Headline only: links the attacks to worries about a US-Saudi nuclear power pact.", "read_full": false },
+        { "ref": "1972f58deb", "takeaway": "Headline and summary only (paywalled): explainer on the war's return after four calmer years.", "read_full": false },
+        { "ref": "d807dea230", "takeaway": "Headline only: regional roundup pairing the exchange with Trump's Iran remarks.", "read_full": false },
+        { "ref": "3c106c769e", "takeaway": "Summary only: carries the wire roundup with Trump's comment on Iran.", "read_full": false },
+        { "ref": "8a7c60857a", "takeaway": "Headline only: Araqchi wants diplomacy, Trump calls the terms unacceptable.", "read_full": false },
+        { "ref": "9f9a871d2c", "takeaway": "Summary only: Araqchi seeks guarantees before talks go further.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "cop31-overtime-fossil-fuels",
+      "headline": "COP31 climate talks run into overtime with fossil fuels missing from draft deal",
+      "region": "Global",
+      "importance": 4,
+      "summary": "UN climate talks in Turkey ran past their Friday deadline as negotiators from nearly 200 countries remained split over fossil fuels and climate finance. A revised draft agreement makes no mention of phasing out fossil fuels, which drew criticism from activists and some leaders. Delegates put off some decisions until next year, and talks continued on Saturday.",
+      "why_it_matters": "The outcome shapes how quickly countries cut the coal, oil and gas use that drives more intense heat waves, droughts and floods, and how much money poorer countries get to cope with them.",
+      "background": "COP31 is this year's annual UN climate summit, a two-week meeting where nearly 200 countries negotiate a joint response to global warming. It is being held in Turkey, with Australia leading the negotiations. In 2023, at the summit in Dubai, countries agreed for the first time on language about moving away from fossil fuels, and how far to go beyond that has divided governments since. Decisions at these summits need consensus, so a small group of countries can block stronger wording.",
+      "facts": [
+        { "text": "The talks went past their scheduled Friday end, and delegates deferred some decisions to next year.", "refs": ["fd72ae54f8", "29ad5d5234", "e81871a89f"] },
+        { "text": "The latest draft declaration does not mention a phaseout of fossil fuels.", "refs": ["e81871a89f", "b2035d74e3", "world-w4"] },
+        { "text": "An earlier draft had included an option calling for accelerated action to phase out fossil fuels; the revised text dropped it and does not name coal, oil or gas.", "refs": ["world-w4", "world-w5"] },
+        { "text": "Negotiators from nearly 200 countries were divided over fossil fuels and climate finance.", "refs": ["29ad5d5234", "040c95d5f0"] },
+        { "text": "Activists and some leaders criticized the draft, and environmental groups put pressure on host Turkey and lead negotiator Australia.", "refs": ["b2035d74e3", "29ad5d5234"] },
+        { "text": "Talks were still under way on Saturday without an agreement.", "refs": ["ddb6a5620f", "040c95d5f0", "e81871a89f"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "0368d09b9d", "note": "Uses the phrase \"worst COP ever\", foregrounding the harshest criticism of the talks." },
+        { "ref": "8cdb0f2e34", "note": "Runs the wire headline saying the talks were \"slammed\" by activists and leaders." },
+        { "ref": "040c95d5f0", "note": "Describes a deadlock between countries rather than a failure by the hosts." },
+        { "ref": "ddb6a5620f", "note": "Emphasizes that nations are still negotiating a response to worsening warming." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "fd72ae54f8", "takeaway": "Summary only: overtime, deferred decisions and talk of failure.", "read_full": false },
+        { "ref": "29ad5d5234", "takeaway": "Headline and summary only (paywalled): divisions over fossil fuels and finance, pressure on Turkey and Australia.", "read_full": false },
+        { "ref": "e81871a89f", "takeaway": "Summary only: new draft omits the fossil fuel phaseout.", "read_full": false },
+        { "ref": "b2035d74e3", "takeaway": "Headline only: wire story on criticism of the draft.", "read_full": false },
+        { "ref": "040c95d5f0", "takeaway": "Summary only: describes a deadlock over fossil fuels.", "read_full": false },
+        { "ref": "ddb6a5620f", "takeaway": "Headline only: talks continue in overtime on Saturday.", "read_full": false },
+        { "ref": "0368d09b9d", "takeaway": "Headline only (paywalled): carries the wire story under a 'worst COP ever' headline.", "read_full": false },
+        { "ref": "8cdb0f2e34", "takeaway": "Headline only: reprint of the wire story on criticism of the draft.", "read_full": false },
+        { "ref": "world-w4", "takeaway": "Search result only: revised draft stripped out references to ending fossil fuel use.", "read_full": false },
+        { "ref": "world-w5", "takeaway": "Search result only: the first draft's two options on fossil fuel wording.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "uk-eu-reset-deals",
+      "headline": "Britain and EU agree deals on food trade, carbon markets and youth mobility",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Britain and the European Union agreed at a summit in Brussels on Friday to ease checks on food trade, cooperate on carbon emissions trading and set up a youth mobility scheme. An agreement on university tuition fees for EU students was put off. Prime Minister Andy Burnham called the package the limit of convergence during this Parliament, while a minister said rejoining the EU is \"on the table\" in the longer term, according to The Guardian.",
+      "why_it_matters": "For people in Britain and the EU, the deals could mean fewer border checks on food and new chances for young people to live and work across the Channel. They also reopen the debate over how close Britain should be to the EU.",
+      "background": "Britain voted to leave the European Union in 2016, a decade ago, and its exit added checks and paperwork to trade and ended free movement of people between the two. The two sides held a first summit in May 2025, where they agreed to work toward a deal on food and agricultural trade and a youth scheme. Andy Burnham, now prime minister, travelled to Brussels for Friday's summit, which produced a 12-page joint statement. The Wall Street Journal and others report that his government has started a debate about whether Britain should eventually rejoin.",
+      "facts": [
+        { "text": "Britain and the EU agreed deals on food trade and youth mobility, according to a joint statement issued at Friday's summit in Brussels.", "refs": ["aadd59e5f8", "7457730b49", "a19ff5a483"] },
+        { "text": "The agreements also cover emissions trading, according to The Guardian, The Hindu and France 24.", "refs": ["b05464920f", "f006bd7198", "25ab10b199"] },
+        { "text": "An agreement on university tuition fees for EU students in Britain was pushed back.", "refs": ["4e8eef4ed4", "b05464920f"] },
+        { "text": "Burnham said the package was the \"limit\" of what the two sides would converge on during the current UK Parliament, which runs until 2029.", "refs": ["f006bd7198"] },
+        { "text": "The two sides set out the agreements in a 12-page statement after months of negotiations, The Guardian reported.", "refs": ["b05464920f"] },
+        { "text": "The Guardian reported that Ed Miliband said rejoining the EU is \"on the table\".", "refs": ["d0d19939b3"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the wider deal depends on settling tuition fees",
+          "positions": [
+            { "claim": "Brussels sources had suggested the EU might not apply the wider deal until fees were lowered for EU students in Britain.", "refs": ["0c6a9c1764"] },
+            { "claim": "Ed Miliband said the deal with the EU does not depend on a tuition fees agreement.", "refs": ["0c6a9c1764"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "11cb9768a6", "note": "Adopts the leaders' own word, \"landmark\", for the deal." },
+        { "ref": "4e8eef4ed4", "note": "Balances the deals against the unresolved tuition fee question." },
+        { "ref": "a72ce874b7", "note": "Coins \"Breturn\" and treats the summit as the start of a debate on rejoining." },
+        { "ref": "d0d19939b3", "note": "Leads with a minister saying rejoining is \"on the table\"." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "aadd59e5f8", "takeaway": "Headline only: wire report on the joint statement.", "read_full": false },
+        { "ref": "7457730b49", "takeaway": "Summary only: deals on trade and youth movement and a pledge of a closer relationship.", "read_full": false },
+        { "ref": "a19ff5a483", "takeaway": "Headline only: wire story on trade and travel deals.", "read_full": false },
+        { "ref": "b05464920f", "takeaway": "Summary only: explainer on the three areas agreed and the open fees issue.", "read_full": false },
+        { "ref": "f006bd7198", "takeaway": "Summary only: Burnham's remark that this is the limit for this Parliament.", "read_full": false },
+        { "ref": "25ab10b199", "takeaway": "Summary only: lists food checks, youth mobility and carbon quotas.", "read_full": false },
+        { "ref": "4e8eef4ed4", "takeaway": "Headline and summary only (paywalled): deals sealed, tuition fees deferred.", "read_full": false },
+        { "ref": "0c6a9c1764", "takeaway": "Summary only: Miliband says the deal does not hinge on fees, contrary to earlier Brussels briefings.", "read_full": false },
+        { "ref": "d0d19939b3", "takeaway": "Headline only: reports that rejoining is 'on the table'.", "read_full": false },
+        { "ref": "11cb9768a6", "takeaway": "Summary only: leaders on both sides praise the agreement.", "read_full": false },
+        { "ref": "a72ce874b7", "takeaway": "Headline and summary only (paywalled): Burnham starting a debate on rejoining.", "read_full": false },
+        { "ref": "world-w6", "takeaway": "Search result only: official explainer of the May 2025 summit that began the reset.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "denmark-russia-rapper-plot",
+      "headline": "Denmark expels Russian defence attaché over alleged plot to kill Ukrainian-American rapper",
+      "region": "Europe",
+      "importance": 3,
+      "summary": "Denmark said on Friday that it had thwarted a plot by Russian intelligence to assassinate the rapper Kyivstoner at a concert near Copenhagen, and it ordered Russia's defence attaché to leave. The Russian embassy denied the allegation. Reuters reported that Denmark is now pressing other EU countries to tighten restrictions on Russians.",
+      "why_it_matters": "European governments say Russia is carrying out sabotage and attacks on their soil, and a plot against a performer at a public concert would put ordinary concert-goers at risk.",
+      "background": "Kyivstoner is the stage name of Albert Vasiliev, a rapper with Ukrainian and US citizenship. Danish officials say Russian intelligence services recruited members of a violent gang to kill him at a concert in Denmark scheduled for Sept. 25. Several European countries have accused Russia of sabotage and other covert operations on their territory since the invasion of Ukraine; this week Estonia said it would close its border with Russia after accusing Russian services of an attempted arson attack. Russia denies the accusations.",
+      "facts": [
+        { "text": "Denmark said it thwarted a Russian plot to assassinate the US-Ukrainian rapper known as Kyivstoner.", "refs": ["70534f718f", "1d7d994c8b", "55c3376cce"] },
+        { "text": "Denmark's foreign minister said the Russian ambassador had been summoned and that Moscow's defence attaché in Copenhagen would be expelled.", "refs": ["487c1f2248", "55c3376cce"] },
+        { "text": "Danish officials say Russian intelligence recruited members of a violent gang to carry out the killing at a concert outside Copenhagen, The New York Times reported.", "refs": ["504b0b4b2a"] },
+        { "text": "The alleged target is Albert Vasiliev, and the concert was scheduled for Sept. 25, The Kyiv Independent reported.", "refs": ["e2feb80424"] },
+        { "text": "Denmark also announced tighter restrictions, France 24 reported, and Reuters reported that a message to member states shows Denmark pushing the EU to tighten curbs on Russians.", "refs": ["00729af064", "00b2e4c569"] },
+        { "text": "European Commission President Ursula von der Leyen condemned the alleged plot and pledged solidarity with Denmark.", "refs": ["4b3d51109a"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Russia was behind the plot",
+          "positions": [
+            { "claim": "Danish officials say Russian intelligence services planned the assassination.", "refs": ["70534f718f", "504b0b4b2a"] },
+            { "claim": "The Russian embassy in Denmark denies the allegation.", "refs": ["55c3376cce"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "f0bbb9f724", "note": "States as fact that Russia plotted the killing, without attributing the claim to Denmark." },
+        { "ref": "70534f718f", "note": "Attributes the claim to Denmark and stresses that the plot was stopped." },
+        { "ref": "504b0b4b2a", "note": "Leads with the expulsion and describes the claim as an accusation." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "70534f718f", "takeaway": "Headline only: wire report that Denmark says it thwarted the plot.", "read_full": false },
+        { "ref": "1d7d994c8b", "takeaway": "Headline only: same account of Denmark's announcement.", "read_full": false },
+        { "ref": "55c3376cce", "takeaway": "Summary only: adds the Russian embassy's denial and the attaché's expulsion.", "read_full": false },
+        { "ref": "487c1f2248", "takeaway": "Headline and summary only (paywalled): the foreign minister's announcement of the expulsion.", "read_full": false },
+        { "ref": "504b0b4b2a", "takeaway": "Headline and summary only (paywalled): officials say a gang was recruited for the attack.", "read_full": false },
+        { "ref": "e2feb80424", "takeaway": "Summary only: names the rapper and the concert date.", "read_full": false },
+        { "ref": "00729af064", "takeaway": "Summary only: expulsion plus tighter restrictions.", "read_full": false },
+        { "ref": "00b2e4c569", "takeaway": "Headline only: exclusive on Denmark's push for EU-wide curbs on Russians.", "read_full": false },
+        { "ref": "4b3d51109a", "takeaway": "Summary only: the EU chief's condemnation.", "read_full": false },
+        { "ref": "f0bbb9f724", "takeaway": "Headline only (paywalled): presents the plot as established.", "read_full": false },
+        { "ref": "87c185eec6", "takeaway": "Headline only: Estonia closing its border with Russia, used for context.", "read_full": false },
+        { "ref": "8d1eff3c4f", "takeaway": "Summary only: Estonia's arson accusation against Russian services, used for context.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "haiti-el-salvador-troops-prisons",
+      "headline": "Haiti agrees prison-building deal with El Salvador as Salvadoran troops fight gangs",
+      "region": "Americas",
+      "importance": 3,
+      "summary": "Haiti announced an agreement with El Salvador to build new prisons after a visit by a Haitian minister, the AP reported. El Salvador has sent at least 2,000 troops to Haiti to fight gangs, and President Nayib Bukele has launched a bid for a third term in February's election. Many Haitians have welcomed the troops, while human rights monitors have raised concerns.",
+      "why_it_matters": "Haitians have lived under gang control for years, and the deployment could bring some security, but El Salvador's methods have drawn criticism from rights monitors. The coverage in the digest comes from left-leaning and center outlets only.",
+      "background": "Armed gangs have controlled much of Haiti's capital, Port-au-Prince, for several years. Nayib Bukele, El Salvador's president, became known for a crackdown on gangs at home that included mass arrests and a large prison called Cecot. He has now deployed Salvadoran troops to Haiti, and Haiti's government approved a cooperation agreement with El Salvador this week. Axios reported in October that President Trump backed the deployment. Bukele is running for a third term in elections in February.",
+      "facts": [
+        { "text": "Haiti announced an agreement with El Salvador for the construction of new prisons after a minister's visit.", "refs": ["fa78d784f1", "db1918fa8a"] },
+        { "text": "Haiti's justice and public security minister visited El Salvador's Cecot prison on Tuesday, and Haiti's Council of Ministers approved a cooperation agreement with El Salvador.", "refs": ["world-w7"] },
+        { "text": "Bukele said his troops attacked the home of a gang leader in Haiti, NBC News reported.", "refs": ["b649a6ebee"] },
+        { "text": "Bukele has formally launched a bid for a third term in February's elections; The Washington Post reported that it could keep him in power until 2033.", "refs": ["319dce7273", "6fa2d3246c"] },
+        { "text": "Many Haitians have welcomed the Salvadoran troops, while some fear the offensive could make a volatile situation worse, The Guardian reported.", "refs": ["b537fedc25", "b649a6ebee"] },
+        { "text": "Axios reported on Oct. 30 that Trump had approved of El Salvador's troop deployment to Haiti.", "refs": ["world-w8"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many Salvadoran troops are in Haiti",
+          "positions": [
+            { "claim": "More than 2,500, per The Wall Street Journal.", "refs": ["e420712414"] },
+            { "claim": "About 2,000, per the Financial Times.", "refs": ["159319e6f5"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "b649a6ebee", "note": "Leads with Haitians celebrating the troops' arrival." },
+        { "ref": "b537fedc25", "note": "Pairs the welcome with unease about what the offensive could bring." },
+        { "ref": "159319e6f5", "note": "Calls Bukele an 'Emperor' who 'storms into' Haiti, stressing his personal power." },
+        { "ref": "e420712414", "note": "Describes the deployment as an export of El Salvador's gang-fighting strategy." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "fa78d784f1", "takeaway": "Headline only: wire report on the prison deal after the minister's visit.", "read_full": false },
+        { "ref": "db1918fa8a", "takeaway": "Summary only: Haiti announces the agreement on prison construction.", "read_full": false },
+        { "ref": "b649a6ebee", "takeaway": "Summary only: celebrations in Haiti, with a note on rights monitors' concerns.", "read_full": false },
+        { "ref": "319dce7273", "takeaway": "Summary only: Bukele's reelection launch alongside the Haiti operation.", "read_full": false },
+        { "ref": "6fa2d3246c", "takeaway": "Headline only (paywalled): third term could run to 2033.", "read_full": false },
+        { "ref": "b537fedc25", "takeaway": "Summary only: Haitians welcome the troops but some fear escalation.", "read_full": false },
+        { "ref": "e420712414", "takeaway": "Headline and summary only (paywalled): puts the deployment at more than 2,500 troops.", "read_full": false },
+        { "ref": "159319e6f5", "takeaway": "Headline and summary only (paywalled): puts the deployment at 2,000 troops and notes Haitian support.", "read_full": false },
+        { "ref": "world-w7", "takeaway": "Search result only: Haiti formalises the security pact; minister visits Cecot; marches in support.", "read_full": false },
+        { "ref": "world-w8", "takeaway": "Search result only: report that Trump backed the troop deployment.", "read_full": false }
+      ],
+      "social": "Thousands of Haitians marched in support of the Salvadoran troops, according to Euronews and Le Temps reports found in search; The Guardian describes the public mood as excited but uneasy."
+    },
+    {
+      "id": "mlambo-ngcuka-dies",
+      "headline": "Phumzile Mlambo-Ngcuka, South Africa's first female deputy president, dies at 71",
+      "region": "Africa",
+      "importance": 2,
+      "summary": "Phumzile Mlambo-Ngcuka, South Africa's first woman deputy president and a former head of UN Women, has died at 71, the South African government announced on Friday. Acting President Paul Mashatile, the UN secretary-general and the African Union Commission chairperson issued tributes.",
+      "why_it_matters": "She was one of the most senior women in South African politics and led the UN's agency for women's rights for eight years, shaping global work on gender equality.",
+      "background": "Mlambo-Ngcuka served as South Africa's deputy president from 2005 to 2008, the first woman to hold the post. She then led UN Women, the United Nations body for gender equality, as executive director from 2013 to 2021, with the rank of under-secretary-general. At the time of her death she was chancellor of the University of Johannesburg.",
+      "facts": [
+        { "text": "Mlambo-Ngcuka has died at 71, the South African government announced on Friday.", "refs": ["ed27eead46", "89ebdb20fc", "b78e0c73f2"] },
+        { "text": "She was South Africa's first female deputy president and a former executive director of UN Women.", "refs": ["94bebd5ca5", "b78e0c73f2"] },
+        { "text": "She served as deputy president from 2005 to 2008 and led UN Women from 2013 to 2021.", "refs": ["world-w9", "world-w10"] },
+        { "text": "Acting President Paul Mashatile expressed shock and sadness in a statement from the Presidency.", "refs": ["ed27eead46"] },
+        { "text": "The UN secretary-general called her a lifelong champion of the rights of women and girls, and the African Union Commission chairperson, Mahmoud Ali Youssouf, also paid tribute.", "refs": ["d1a2b70239", "5f9d72fb89"] },
+        { "text": "The University of Johannesburg said she was its chancellor.", "refs": ["5d44f9d864"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "b78e0c73f2", "note": "Gives equal weight to her South African and UN roles." },
+        { "ref": "94bebd5ca5", "note": "Leads with her being the first woman to serve as deputy president." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "b78e0c73f2", "takeaway": "Headline only: wire obituary naming both of her main roles.", "read_full": false },
+        { "ref": "94bebd5ca5", "takeaway": "Headline only: emphasizes that she was the first female deputy president.", "read_full": false },
+        { "ref": "ed27eead46", "takeaway": "Summary only: the Presidency's statement from the acting president.", "read_full": false },
+        { "ref": "89ebdb20fc", "takeaway": "Summary only: news report of the government's announcement.", "read_full": false },
+        { "ref": "d1a2b70239", "takeaway": "Summary only: the UN secretary-general's statement.", "read_full": false },
+        { "ref": "5f9d72fb89", "takeaway": "Summary only: the African Union Commission chairperson's tribute.", "read_full": false },
+        { "ref": "5d44f9d864", "takeaway": "Summary only: the university's statement on its chancellor.", "read_full": false },
+        { "ref": "world-w9", "takeaway": "Search result only: UN Women's page on her 2013-2021 tenure.", "read_full": false },
+        { "ref": "world-w10", "takeaway": "Search result only: encyclopedia entry with her dates in office.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w1", "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-committed-rohingya-genocide", "title": "World Court Finds Myanmar Committed Rohingya Genocide", "outlet": "Human Rights Watch" },
+    { "id": "world-w2", "url": "https://www.opb.org/article/2026/11/19/top-u-n-court-rules-myanmar-committed-genocide-against-rohingya/", "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya", "outlet": "OPB" },
+    { "id": "world-w3", "url": "https://foxbaltimore.com/news/nation-world/un-court-delivers-historic-first-ruling-myanmar-committed-genocide-against-rohingya", "title": "UN court delivers historic first, ruling Myanmar committed genocide against Rohingya", "outlet": "Fox Baltimore" },
+    { "id": "world-w4", "url": "https://www.timeslive.co.za/news/world/2026-11-19-cop31-negotiators-strip-out-mention-of-fossil-fuels-in-draft-deal-text/", "title": "COP31 negotiators strip out mention of fossil fuels in draft deal text", "outlet": "TimesLIVE" },
+    { "id": "world-w5", "url": "https://www.al-monitor.com/originals/2026/11/first-draft-cop31-deal-signals-tough-negotiations-come", "title": "First draft COP31 deal signals tough negotiations to come", "outlet": "Al-Monitor" },
+    { "id": "world-w6", "url": "https://www.gov.uk/government/publications/ukeu-summit-key-documentation/uk-eu-summit-explainer-html", "title": "UK-EU Summit explainer", "outlet": "UK Government" },
+    { "id": "world-w7", "url": "https://www.euronews.com/2026/11/18/haiti-formalises-security-pact-with-el-salvador-as-thousands-march-in-support-of-bukele", "title": "Haiti formalises security pact with El Salvador as thousands march in support of Bukele", "outlet": "Euronews" },
+    { "id": "world-w8", "url": "https://www.axios.com/2026/10/30/trump-bukele-haiti-troop-surge", "title": "Scoop: Trump blesses El Salvador strongman's troop surge in Haiti", "outlet": "Axios" },
+    { "id": "world-w9", "url": "https://unwomen.org/en/about-us/directorate/former-executive-director-phumzile-mlambo-ngcuka", "title": "Former Executive Director Phumzile Mlambo-Ngcuka, 2013-2021", "outlet": "UN Women" },
+    { "id": "world-w10", "url": "https://en.wikipedia.org/wiki/Phumzile_Mlambo-Ngcuka", "title": "Phumzile Mlambo-Ngcuka", "outlet": "Wikipedia" }
+  ]
+}

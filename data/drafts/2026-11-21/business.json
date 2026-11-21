@@ -1,0 +1,239 @@
+{
+  "stories": [
+    {
+      "id": "stocks-correction-ai-selloff",
+      "headline": "S&P 500 and Dow fall into correction as the sell-off in AI stocks deepens",
+      "region": "Markets",
+      "importance": 5,
+      "summary": "The S&P 500 fell 3.7% on Friday, and both it and the Dow Jones Industrial Average closed in correction territory, meaning at least 10% below their record highs. The Nasdaq composite gave up its gain for 2026 and, according to MarketWatch, had its worst week since 2020. Chipmakers led the declines, and shares of Anthropic slid on their second day of trading after the largest IPO on record.",
+      "why_it_matters": "Most retirement accounts and index funds hold large positions in the technology companies leading this decline, so a correction shows up directly in 401(k) and savings balances. Outlets across the spectrum covered the drop.",
+      "background": "A handful of very large technology companies tied to artificial intelligence drove most of the stock market's gains this year, and because of their size they weigh heavily on the main indexes. Since early November investors have been selling those shares amid questions about whether the heavy spending on AI chips and data centers will pay off. A correction is the common term for a drop of 10% or more from a recent high. Anthropic, the company behind the Claude AI models, began trading on the Nasdaq on Thursday after a record-size IPO, and some investors had hoped a strong debut would steady AI stocks. Interest rates are also a factor: Federal Reserve officials have been signaling further rate increases to fight inflation.",
+      "facts": [
+        { "text": "The S&P 500 fell 3.7% on Friday and the Nasdaq composite turned negative for the year, the Associated Press reported.", "refs": ["e42cb66d06", "d143a578a8"] },
+        { "text": "The S&P 500 and the Dow Jones Industrial Average both closed in correction territory, down 10% from their records.", "refs": ["ef625298ac", "7abcb9e67a", "090efc1439"] },
+        { "text": "Chipmakers led Friday's decline in U.S. stocks, according to Bloomberg.", "refs": ["91964bf33a"] },
+        { "text": "The Nasdaq composite had its worst week since 2020, and all 11 S&P 500 sectors lost more than 1% for the week for the first time since April 2025, MarketWatch reported.", "refs": ["4371c6cf8e"] },
+        { "text": "Anthropic's shares slid on Friday, their second day of trading, but stayed above the IPO price; the Wall Street Journal reported they came within 5 cents of it at one point.", "refs": ["69cdd0f499", "f334935a65"] },
+        { "text": "The Wall Street Journal put the week's loss in AI-related stock value at about $4 trillion.", "refs": ["54158c195e"] },
+        { "text": "Stock markets in Asia and Europe also fell on Friday, with UK shares pulled down by banks and miners.", "refs": ["44afb8fd58", "e3d361c0b9", "974f1130dd"] },
+        { "text": "Reuters reported that U.S. investors moved money into value stocks during the technology sell-off.", "refs": ["e8f4f52cd6"] },
+        { "text": "Bitcoin fell to its lowest level in two years, Reuters reported.", "refs": ["addb69a9e3"] },
+        { "text": "On the prediction market Kalshi, the odds that the S&P 500 will cross 8,000, once above 70%, fell to very low levels, CNBC reported.", "refs": ["ca0b6701fd"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Anthropic's share slide drove the tech sell-off or was a result of it",
+          "positions": [
+            { "claim": "MarketWatch reported the view that Anthropic's failure to hold its opening price was \"bad for the rest of tech\".", "refs": ["69cdd0f499"] },
+            { "claim": "CNBC presented the IPO as a success that could not escape a market correction already under way.", "refs": ["a7d3acf250"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "e42cb66d06", "note": "Leads with the size of the index drop and the Nasdaq's lost year; Anthropic is not in the headline." },
+        { "ref": "090efc1439", "note": "Ties the rout directly to Anthropic's falling share price." },
+        { "ref": "6c86193e70", "note": "Calls the losses \"historic\" and leads with the correction; no mention of AI or Anthropic." },
+        { "ref": "e8f4f52cd6", "note": "Emphasizes where money went, into value stocks, more than what was sold." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e42cb66d06", "takeaway": "Wire market report with the day's index figures; headline only.", "read_full": false },
+        { "ref": "d143a578a8", "takeaway": "Carries the AP report; summary explains that AI stocks' large market values give them outsize influence on the indexes.", "read_full": false },
+        { "ref": "ef625298ac", "takeaway": "Summary defines the correction as 10% off records and lists several causes of the sell-off.", "read_full": false },
+        { "ref": "7abcb9e67a", "takeaway": "Summary links the tech sell-off and Anthropic's slide to the two indexes entering correction.", "read_full": false },
+        { "ref": "090efc1439", "takeaway": "Headline and summary only (paywalled): the tech selloff intensified and pushed the S&P 500 and Dow into correction.", "read_full": false },
+        { "ref": "91964bf33a", "takeaway": "Headline and summary only (paywalled): chipmakers led the plunge.", "read_full": false },
+        { "ref": "4371c6cf8e", "takeaway": "Summary gives the weekly picture: Nasdaq's worst week since 2020 and all 11 sectors lower.", "read_full": false },
+        { "ref": "69cdd0f499", "takeaway": "Summary focuses on Anthropic staying above its IPO price and on the stock's effect on other tech shares.", "read_full": false },
+        { "ref": "f334935a65", "takeaway": "Headline and summary only (paywalled): reports on who is being blamed for Anthropic's turbulent debut.", "read_full": false },
+        { "ref": "54158c195e", "takeaway": "Headline and summary only (paywalled): frames the week as a $4 trillion AI wipeout.", "read_full": false },
+        { "ref": "a7d3acf250", "takeaway": "Summary treats the IPO as a success caught in a wider correction.", "read_full": false },
+        { "ref": "44afb8fd58", "takeaway": "Headline and summary only (paywalled): Asian equities fell Friday morning.", "read_full": false },
+        { "ref": "e3d361c0b9", "takeaway": "Headline and summary only (paywalled): European AI stocks dropped sharply.", "read_full": false },
+        { "ref": "974f1130dd", "takeaway": "Headline only: UK stocks sank, weighed by banks and miners.", "read_full": false },
+        { "ref": "e8f4f52cd6", "takeaway": "Headline only: investors rotated into value stocks.", "read_full": false },
+        { "ref": "addb69a9e3", "takeaway": "Headline only: bitcoin at a two-year low.", "read_full": false },
+        { "ref": "ca0b6701fd", "takeaway": "Summary reports falling prediction-market odds for the S&P 500 reaching 8,000.", "read_full": false },
+        { "ref": "6c86193e70", "takeaway": "Headline only: describes the losses as historic.", "read_full": false }
+      ],
+      "social": "\"Stock market sell-off\" was a trending topic on Bluesky, with about 3,100 posts in the feed tracked by the ingest."
+    },
+    {
+      "id": "fed-rate-hike-debate",
+      "headline": "Fed's Cook says rate increases are needed as Trump and Bessent press for easier policy",
+      "region": "Fed",
+      "importance": 4,
+      "summary": "Federal Reserve Governor Lisa Cook said on Friday that interest rate increases are needed to bring down high inflation, Reuters reported. Treasury Secretary Scott Bessent argued for a smaller increase, citing an energy price shock, and President Trump again said the Fed should lower rates. The Hill reported that Fed officials are likely to raise borrowing costs at their next meeting.",
+      "why_it_matters": "The Fed's rate decisions feed through to mortgage, car loan and credit card rates, and the prospect of higher rates is one of the pressures on stock prices.",
+      "background": "The Federal Reserve sets a short-term interest rate that influences borrowing costs across the economy; it raises the rate to slow inflation and lowers it to support growth and jobs. Inflation has been rising, with consumer prices up 3.7% from a year earlier in the latest reading in the ingest's market table, well above the Fed's 2% goal. Oil prices rose sharply because of the war involving Iran, and the administration argues that this kind of supply shock should not be met with rate increases. The Fed is designed to set rates independently of the White House, and President Trump has repeatedly pressed it to cut. Lisa Cook is one of the Fed's governors, who vote on rates.",
+      "facts": [
+        { "text": "Fed Governor Lisa Cook said rate increases are needed to lower high inflation, Reuters reported.", "refs": ["36cc82cab2"] },
+        { "text": "Treasury Secretary Scott Bessent argued for a smaller Fed rate increase and cited the energy shock, Reuters reported.", "refs": ["924f464a9f"] },
+        { "text": "President Trump on Friday repeated his view that the Fed should lower interest rates, while officials are likely to raise them at their upcoming meeting, The Hill reported.", "refs": ["6d255dbd19"] },
+        { "text": "The Chicago Fed president said inflation is headed the \"wrong way\", according to Fox Business.", "refs": ["3d89cbe667"] },
+        { "text": "A market strategist told Fox Business that inflation data due next week could affect the Fed's rate decisions.", "refs": ["5b6611c773"] },
+        { "text": "On Nov. 13, Bessent said the Fed should not raise rates in response to an energy supply shock tied to the Iran war, Al Jazeera reported.", "refs": ["business-w4"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether inflation driven by energy prices calls for rate increases",
+          "positions": [
+            { "claim": "Cook said rate increases are needed to bring inflation down.", "refs": ["36cc82cab2"] },
+            { "claim": "Bessent said the energy shock is a reason for the Fed to raise rates by less; Reuters earlier reported that he and Chicago Fed President Austan Goolsbee were divided on the role of the energy shock in inflation.", "refs": ["924f464a9f", "business-w5"] },
+            { "claim": "Trump said rates should be lowered.", "refs": ["6d255dbd19"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "36cc82cab2", "note": "Leads with a Fed official's case for raising rates." },
+        { "ref": "6d255dbd19", "note": "Leads with the president's call for lower rates, with the expected hike as context." },
+        { "ref": "3d89cbe667", "note": "Leads with a Fed official's warning about the direction of inflation rather than the rate decision." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "36cc82cab2", "takeaway": "Headline only: Cook says hikes are needed.", "read_full": false },
+        { "ref": "924f464a9f", "takeaway": "Headline only: Bessent favors a smaller hike because of the energy shock.", "read_full": false },
+        { "ref": "6d255dbd19", "takeaway": "Newsletter summary: Trump's renewed call for cuts set against an expected hike.", "read_full": false },
+        { "ref": "3d89cbe667", "takeaway": "Headline only: Chicago Fed president on inflation's direction.", "read_full": false },
+        { "ref": "5b6611c773", "takeaway": "Headline only: a strategist's view that next week's inflation data matters for hikes.", "read_full": false },
+        { "ref": "business-w4", "takeaway": "Search result: Treasury's Nov. 13 warning against rate hikes during the energy shock.", "read_full": false },
+        { "ref": "business-w5", "takeaway": "Search result (Reuters wire): Bessent and Goolsbee disagree on the energy shock's role in inflation.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nvidia-california-subpoena",
+      "headline": "California subpoenas Nvidia over China chip sales; Trump says Huang should apologize and return",
+      "region": "Trade",
+      "importance": 4,
+      "summary": "California Attorney General Rob Bonta served an investigative subpoena on Nvidia, asking whether its advanced chips or confidential information reached China and whether the company misled investors and the public. On Friday President Trump said former chief executive Jensen Huang should apologize and go back to work at Nvidia and that he still backs Commerce Secretary Howard Lutnick, while Treasury Secretary Scott Bessent said no further restrictions on Nvidia chip exports to China are needed.",
+      "why_it_matters": "Nvidia is among the most widely held U.S. stocks, so legal and export-control risk at the company reaches ordinary investors, and the dispute bears on how strictly the U.S. limits advanced chip sales to China.",
+      "background": "Nvidia designs the chips used to train and run most advanced AI systems, and the U.S. restricts which of them may be sold to China. Jensen Huang, the company's co-founder and longtime chief executive, left the company this month amid a scandal; the Associated Press has reported allegations that he had an affair with a former executive of a chip buyer whom U.S. intelligence suspects of spying for China, which Beijing denies. The Commerce Department, led by Howard Lutnick, writes export-control rules, and Lutnick has faced questions about whether limits on Nvidia sales were delayed. An investigative subpoena is a demand for information and is not an accusation of wrongdoing.",
+      "facts": [
+        { "text": "California's attorney general served an investigative subpoena on Nvidia to examine whether the company misled investors.", "refs": ["1076b2eb90", "2c3757b089", "78f5bc648d"] },
+        { "text": "The California Department of Justice said it is asking whether Nvidia's advanced chips or confidential information may have gone to China and whether Nvidia misled investors and the public.", "refs": ["ce2ccb8ab7"] },
+        { "text": "Bonta said the scandal \"raises bright red flags\", the Guardian reported.", "refs": ["2c3757b089", "business-w7"] },
+        { "text": "Trump said Huang should apologize and return to Nvidia, and said he still backs Lutnick.", "refs": ["1308417160", "62b458b370"] },
+        { "text": "Bloomberg described Huang's return as chief executive as highly unlikely.", "refs": ["098e214f78"] },
+        { "text": "Treasury Secretary Scott Bessent said no further restrictions are needed on Nvidia chip exports to China, the Associated Press reported.", "refs": ["5cc4cf77e8"] },
+        { "text": "A week earlier, on Nov. 13, Bessent blamed the Commerce Department for not restricting Nvidia chip exports to China, the Associated Press reported.", "refs": ["business-w6"] },
+        { "text": "Lutnick is facing scrutiny over Nvidia chip exports to China, Fox Business reported.", "refs": ["b3f8a31b48"] },
+        { "text": "Nvidia's stock fell on Friday, according to Fox Business.", "refs": ["5fd7de51ac"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the former Megaspeed executive linked to Huang was spying for China",
+          "positions": [
+            { "claim": "U.S. intelligence suspects her of being a Chinese spy, according to Associated Press reporting.", "refs": ["business-w6"] },
+            { "claim": "Beijing denies the spying allegation, the same reporting says.", "refs": ["business-w6"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "2c3757b089", "note": "Centers the question of whether exported chips ended up in China." },
+        { "ref": "1076b2eb90", "note": "Centers the investor-disclosure question and calls the chip maker \"embattled\"." },
+        { "ref": "ce2ccb8ab7", "note": "Puts the former chief executive's affair in the headline alongside the chips." },
+        { "ref": "9e50297473", "note": "Presents Trump's remarks as Huang deserving a second chance." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "1076b2eb90", "takeaway": "Headline and summary only (paywalled): Bonta's probe into whether Nvidia misled investors.", "read_full": false },
+        { "ref": "ce2ccb8ab7", "takeaway": "Summary gives the California Department of Justice's description of what it is asking.", "read_full": false },
+        { "ref": "2c3757b089", "takeaway": "Summary quotes Bonta and ties the subpoena to Huang's departure.", "read_full": false },
+        { "ref": "78f5bc648d", "takeaway": "Headline only: subpoena over China chip sales.", "read_full": false },
+        { "ref": "5cc4cf77e8", "takeaway": "Headline only: Bessent says no further export restrictions are needed.", "read_full": false },
+        { "ref": "b3f8a31b48", "takeaway": "Headline only: scrutiny of Lutnick over the exports.", "read_full": false },
+        { "ref": "1308417160", "takeaway": "Headline only: Trump backs Lutnick and urges Huang to apologize.", "read_full": false },
+        { "ref": "62b458b370", "takeaway": "Headline only: Trump says Huang should apologize and return to work.", "read_full": false },
+        { "ref": "098e214f78", "takeaway": "Headline and summary only (paywalled): Trump's call for an apology, with a return called highly unlikely.", "read_full": false },
+        { "ref": "5fd7de51ac", "takeaway": "Headline only: links Trump's remarks to the falling stock.", "read_full": false },
+        { "ref": "business-w6", "takeaway": "Search result (AP): Bessent's Nov. 13 criticism of Commerce and background on the allegations.", "read_full": false },
+        { "ref": "business-w7", "takeaway": "Search result: Bonta's earlier \"red flags\" remarks before the subpoena.", "read_full": false }
+      ],
+      "social": "\"US cleared China chip sales\" was a trending topic on Bluesky, with about 870 posts in the feed tracked by the ingest."
+    },
+    {
+      "id": "anthropic-ipo-greenshoe",
+      "headline": "Anthropic's IPO total rises to $93.5 billion as its shares slide toward the offer price",
+      "region": "IPO",
+      "importance": 3,
+      "summary": "Anthropic's initial public offering grew to $93.5 billion after its underwriters exercised an option to buy additional shares, Reuters and CNBC reported. The stock fell on Friday, its second day of trading, and at one point was 5 cents above the $83 offer price, according to the Wall Street Journal. NPR reported that the debut also drew protests and questions from critics about the company's influence and its safety commitments.",
+      "why_it_matters": "It is the largest IPO on record, and brokerages such as Robinhood and Vanguard gave individual investors access to the shares, so their early swings affect ordinary buyers as well as funds.",
+      "background": "Anthropic is the AI company that makes the Claude models and is, with OpenAI, at the center of the AI industry. It priced its IPO at $83 a share and began trading on the Nasdaq on Thursday; the Wall Street Journal called it the biggest IPO in history. A greenshoe, or overallotment, is an option that lets the banks running an IPO buy extra shares from the company at the offer price, which increases the amount raised. The company has said it puts safety ahead of commercial success, and critics question whether that will hold now that it answers to public shareholders. The debut came during a broad sell-off in AI stocks.",
+      "facts": [
+        { "text": "The IPO total rose to $93.5 billion after underwriters exercised the overallotment option.", "refs": ["ae72b18401", "aafc6ce12c"] },
+        { "text": "Anthropic sold an aggregate of 1,127,000,000 shares at $83 each, CNBC reported.", "refs": ["aafc6ce12c"] },
+        { "text": "The base offering, before the option, was 980 million shares and raised about $81.3 billion.", "refs": ["business-w2", "9baa9170f4"] },
+        { "text": "The shares rose about 17% on Thursday, their first day of trading.", "refs": ["business-w3"] },
+        { "text": "On Friday the stock fell and at one point was 5 cents above its IPO price, the Wall Street Journal reported; MarketWatch reported it stayed above the IPO price.", "refs": ["f334935a65", "69cdd0f499"] },
+        { "text": "NPR reported that the first day of trading drew protests and criticism over whether the company can be a responsible steward of AI technology.", "refs": ["7f8934f2f9"] },
+        { "text": "Axios reported that shareholders will watch whether Anthropic can become a business that does not need repeated capital infusions from investors and vendors.", "refs": ["3eaddc5cb5"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "aafc6ce12c", "note": "Emphasizes the record amount raised." },
+        { "ref": "f334935a65", "note": "Emphasizes the turbulent trading and the search for blame." },
+        { "ref": "82ffb68447", "note": "Emphasizes the test of the company's safety mission rather than the share price." },
+        { "ref": "9baa9170f4", "note": "Says the stock \"dives\" and ties it to the indexes entering correction." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ae72b18401", "takeaway": "Headline only: IPO haul reaches $93.5 billion with the greenshoe.", "read_full": false },
+        { "ref": "aafc6ce12c", "takeaway": "Summary gives the total share count and price.", "read_full": false },
+        { "ref": "9baa9170f4", "takeaway": "Summary says the Thursday debut raised $81 billion and initially looked like a success.", "read_full": false },
+        { "ref": "f334935a65", "takeaway": "Headline and summary only (paywalled): the stock's second-day slide and the blame that followed.", "read_full": false },
+        { "ref": "69cdd0f499", "takeaway": "Summary notes the stock stayed above the IPO price.", "read_full": false },
+        { "ref": "7f8934f2f9", "takeaway": "Summary covers protests and critics' concerns alongside shareholder gains.", "read_full": false },
+        { "ref": "82ffb68447", "takeaway": "Summary asks whether public ownership will test the company's safety commitment.", "read_full": false },
+        { "ref": "3eaddc5cb5", "takeaway": "Summary looks ahead to the company's path to funding itself.", "read_full": false },
+        { "ref": "business-w2", "takeaway": "Search result: the base offering's size and pricing.", "read_full": false },
+        { "ref": "business-w3", "takeaway": "Search result: first-day gain of about 17%.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "gta-vi-first-day-sales",
+      "headline": "Grand Theft Auto VI takes in $3.79 billion on its first day, Rockstar says",
+      "region": "Earnings",
+      "importance": 2,
+      "summary": "Rockstar Games said Grand Theft Auto VI generated $3.79 billion in retail sales on its first day, which it called the biggest launch in entertainment history. The figure comes from the company and its parent, Take-Two Interactive, and is about five times what the previous game in the series made on its first day in 2013.",
+      "why_it_matters": "The launch is a measure of consumer spending going into the holiday season and a rare piece of good corporate news in a week of market losses.",
+      "background": "Grand Theft Auto is a video game series made by Rockstar Games, which is owned by the publicly traded Take-Two Interactive. The sixth main game arrived 13 years after Grand Theft Auto V, which made roughly $800 million on its first day. The first-day sales figure was announced by the publisher itself. Outlets on the left, center and right all covered the announcement, most of them carrying the Associated Press report.",
+      "facts": [
+        { "text": "Rockstar Games reported a record $3.79 billion in first-day retail sales for Grand Theft Auto VI.", "refs": ["a034f14b57", "7e889b1daa", "business-w9"] },
+        { "text": "That is nearly five times the roughly $800 million Grand Theft Auto V made on its first day in 2013, the New York Post reported.", "refs": ["fb581734e5"] },
+        { "text": "The game arrived after a 13-year gap in the series, and no film has made more than $3 billion at the box office, the New York Times reported.", "refs": ["a629167d70", "1d796e9f46"] },
+        { "text": "Before the announcement, the research firm Sensor Tower had estimated about $1.84 billion in sales by release day.", "refs": ["business-w10"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "1d796e9f46", "note": "Attributes the record claim to the developer with \"developer says\"." },
+        { "ref": "819d3babef", "note": "States it as the biggest entertainment launch in history without attribution in the headline." },
+        { "ref": "fb581734e5", "note": "Focuses on the parent company, Take-Two, and the money it took in." },
+        { "ref": "fe6f3b3b8e", "note": "Sets the game against Hollywood's biggest films." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a034f14b57", "takeaway": "Wire report of Rockstar's announcement; headline only.", "read_full": false },
+        { "ref": "7e889b1daa", "takeaway": "Headline only: record $3.79 billion on launch day.", "read_full": false },
+        { "ref": "fb581734e5", "takeaway": "Summary compares the figure with Grand Theft Auto V's first day.", "read_full": false },
+        { "ref": "a629167d70", "takeaway": "Headline and summary only (paywalled): the 13-year gap and the comparison with film box office.", "read_full": false },
+        { "ref": "1d796e9f46", "takeaway": "Summary attributes the figure to the publisher and compares it with the highest-grossing film.", "read_full": false },
+        { "ref": "819d3babef", "takeaway": "Summary says the figure passes every game launch and single-day film record.", "read_full": false },
+        { "ref": "business-w9", "takeaway": "Search result: Take-Two's press release filed with the SEC, the source of the figure.", "read_full": false },
+        { "ref": "business-w10", "takeaway": "Search result: a third-party pre-announcement estimate.", "read_full": false }
+      ],
+      "social": "The game's Wikipedia article was the most-viewed page in the ingest's trend data, with about 540,000 views."
+    }
+  ],
+  "web_refs": [
+    { "id": "business-w2", "url": "https://aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time", "title": "Anthropic raises $81.3bn in biggest IPO of all time", "outlet": "Al Jazeera" },
+    { "id": "business-w3", "url": "https://www.kaohooninternational.com/?p=595124", "title": "Anthropic Gains 17% on First Trading Day Despite Broad Market Losses", "outlet": "Kaohoon International" },
+    { "id": "business-w4", "url": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock", "title": "US Treasury warns against rate hikes during US-Iran war energy 'shock'", "outlet": "Al Jazeera" },
+    { "id": "business-w5", "url": "https://www.kitco.com/news/off-the-wire/2026-11-13/bessent-feds-goolsbee-divided-role-energy-shock-inflation", "title": "Bessent, Fed's Goolsbee divided on role of energy shock in inflation", "outlet": "Reuters via Kitco" },
+    { "id": "business-w6", "url": "https://www.adn.com/business-economy/2026/11/13/treasurys-bessent-blames-lutnicks-commerce-department-for-not-restricting-nvidia-chips-to-china/", "title": "Treasury's Bessent blames Lutnick's Commerce Department for not restricting Nvidia chips to China", "outlet": "Associated Press via Anchorage Daily News" },
+    { "id": "business-w7", "url": "https://gvwire.com/2026/11/17/california-ag-says-nvidia-scandal-has-raised-red-flags-could-lead-to-probe-bloomberg-news-reports/", "title": "California AG Says Nvidia Scandal Has Raised 'Red Flags', Could Lead to Probe, Bloomberg News Reports", "outlet": "GV Wire" },
+    { "id": "business-w9", "url": "https://www.sec.gov/Archives/edgar/data/0000946581/000162828026075217/exhibit9918k.htm", "title": "Take-Two Interactive Software Inc - Form 8-K exhibit (press release)", "outlet": "SEC / Take-Two Interactive" },
+    { "id": "business-w10", "url": "https://www.fox5dc.com/news/gta-vi-pulls-estimated-1-84-billion-release-day-more-than-double-gta-vs-launch-record", "title": "GTA VI pulls in estimated $1.84 billion by release day, more than double GTA V's launch record", "outlet": "FOX 5 DC" }
+  ]
+}

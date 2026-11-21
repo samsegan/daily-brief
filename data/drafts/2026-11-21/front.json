@@ -1,0 +1,77 @@
+{
+  "overview": "Wall Street's sell-off in technology shares deepened on Friday: the S&P 500 fell 3.7%, the Nasdaq erased its gains for the year, and the S&P 500 and the Dow ended in correction territory, meaning at least 10% below their recent highs. Russia struck bridges in Kyiv in a large missile attack that Ukrainian reports said killed at least nine people, and two Russian missiles came down in Poland in what its prime minister called a likely provocation; Myanmar's government rejected as \"unfair\" an International Court of Justice ruling that it committed genocide against the Rohingya. In the U.S., a federal jury convicted a man of starting the Palisades Fire in Los Angeles, and President Trump said he would block or heavily tax American companies that build data centers abroad. In New York, Mayor Zohran Mamdani laid out a plan to close the Rikers Island jails by 2032, acknowledging the city will miss next year's legal deadline.",
+  "markets": {
+    "summary": "U.S. stocks fell sharply on Friday, ending what a CNN headline called the worst week for the market in over a year. The S&P 500 sank 3.7% and the Nasdaq, which is heavy with technology companies, lost more than 1,200 points and is now down for the year, the Associated Press and CBS News reported. The S&P 500 and the Dow both closed in a correction, the term for a drop of at least 10% from a recent high. The selling was led by chipmakers and other companies tied to artificial intelligence; shares of Anthropic, the Claude maker that went public on Thursday, slid on their second day but stayed above their offering price, MarketWatch reported. Reuters reported that investors moved money into \"value\" stocks, meaning cheaper shares of established companies, and that bitcoin fell to its lowest level in two years.",
+    "movers": [
+      {
+        "symbol": "SP500",
+        "why": "The figure shown is Thursday's close; on Friday the index fell a further 3.7%, the AP reported, as investors sold AI and chip stocks, leaving it in a correction."
+      },
+      {
+        "symbol": "NIKKEI225",
+        "why": "Japan's main index fell about 5% on Friday as the sell-off in AI-related shares spread to Asia, with chip and metals stocks leading the drop, according to the Wall Street Journal."
+      },
+      {
+        "symbol": "DJIA",
+        "why": "The Dow fell about 1.9% on Friday and joined the S&P 500 in correction territory as the tech sell-off dragged down the wider market."
+      },
+      {
+        "symbol": "CBBTCUSD",
+        "why": "Bitcoin dropped about 5% to under $59,000, its lowest in two years according to Reuters, falling along with other risky assets; today's coverage doesn't name a separate trigger."
+      }
+    ],
+    "concept": {
+      "term": "Market correction",
+      "explanation": "A correction is Wall Street's word for a stock index or share price falling at least 10% from its most recent peak; a fall of 20% or more is called a bear market. Corrections happen when investors decide prices ran ahead of what companies are likely to earn, or when something makes them less willing to take risks, such as higher interest rates or doubts about a hot sector like AI. They are fairly common and often reverse within months, though some turn into deeper declines. If you own stock funds in a 401(k) or IRA, a correction shows up as a lower balance, which matters most if you need to sell soon; for people still saving, it also means new contributions buy shares at lower prices."
+    },
+    "watch": [
+      "Tue Nov 24: Dell and Best Buy report earnings",
+      "Wed Nov 25: Second estimate of third-quarter GDP and the October PCE inflation report (8:30 a.m. ET)",
+      "Thu Nov 26: U.S. stock markets closed for Thanksgiving",
+      "Fri Nov 27: Black Friday; U.S. stock markets close early at 1 p.m. ET",
+      "Tue-Wed Dec 8-9: Federal Reserve meeting, with a rate decision on Dec. 9"
+    ]
+  },
+  "trending": [
+    {
+      "title": "Grand Theft Auto VI",
+      "context": "Rockstar Games said the game took in a record $3.79 billion in retail sales on its first day, after a 13-year gap since the last entry in the series.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "Riemann hypothesis",
+      "context": "An Anthropic mathematician, Levent Alpöge, said he used the company's Claude AI to find a proof of the 160-year-old math problem; the claim has not been independently verified in today's coverage.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "COP31 draft drops fossil fuels",
+      "context": "The UN climate summit in Turkey ran past its scheduled end with a draft text that does not mention fossil fuels, which drew thousands of posts.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Fiona (hippopotamus)",
+      "context": "The Cincinnati Zoo's hippo, famous online since her premature birth, died at age 9 after swallowing a knitted hat that fell into her enclosure, France 24 reported.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "Slotkin backs Van Hollen over Schumer",
+      "context": "Michigan Sen. Elissa Slotkin said she will support Sen. Chris Van Hollen's challenge to Chuck Schumer for leadership of Senate Democrats.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "UK, EU seal reset deal",
+      "context": "Britain and the European Union announced agreements on food trade and youth mobility, described in a Deutsche Welle headline as a 'landmark deal' to rebuild ties after Brexit.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Voyager 1",
+      "context": "The space probe, launched in 1977, became the first human-made object to reach one light-day from Earth, the distance light travels in 24 hours.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "black friday sale deals",
+      "context": "Shoppers are searching for early discounts ahead of Black Friday on Nov. 27.",
+      "signal": "google"
+    }
+  ]
+}
