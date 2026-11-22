@@ -1,0 +1,173 @@
+{
+  "stories": [
+    {
+      "id": "flatbush-collapse-oversight",
+      "headline": "Families fault the city at a vigil as questions grow over oversight before the Flatbush collapse",
+      "region": "Brooklyn",
+      "importance": 5,
+      "summary": "Ten days after a building on Flatbush Avenue in Brooklyn collapsed and killed eight people, relatives of the victims criticized city officials at a Saturday vigil at the site. The New York Times reported that experts say the Buildings Department had approved a risky method of shoring up the structure, which stood next to a construction site. The city says the damaged building next door must also be torn down, and its residents and neighbors are waiting to learn what comes next.",
+      "why_it_matters": "Many New Yorkers live beside construction sites, and this case tests whether the city's reviews and inspections protect the people next door. The answers could change how excavation and demolition near occupied buildings are approved.",
+      "background": "On Nov. 11 a three-story building at 1321 Flatbush Avenue collapsed; it stood beside a lot where a new development was under construction. Eight people died, and the Fire Department has ended its recovery work. The Department of Buildings, the city agency that reviews construction plans and inspects sites, had previously cited the neighboring construction site, according to trade press reports. The department has since declared the adjoining building at 1323 Flatbush Avenue beyond repair and ordered it demolished. The cause of the collapse has not been officially determined.",
+      "facts": [
+        { "text": "The collapse on Flatbush Avenue in Brooklyn was fatal, and the building stood next to a construction site.", "refs": ["b13843ba22", "0b7b002f2e"] },
+        { "text": "Eight people were killed.", "refs": ["nyc-w3", "nyc-w2"] },
+        { "text": "The New York Times reported that, according to experts, the Buildings Department approved a risky method of shoring up the structure months before it fell.", "refs": ["b13843ba22"] },
+        { "text": "City officials say the adjoining building, damaged in the collapse, must be demolished.", "refs": ["6a224aaf06", "nyc-w1", "nyc-w2"] },
+        { "text": "Families of victims criticized city officials at a vigil at the site on Saturday; the New York Post quoted one victim's widow saying officials \"failed to do their job.\"", "refs": ["0b7b002f2e"] },
+        { "text": "The Buildings Department has described past violations at the construction site next to the collapsed building.", "refs": ["nyc-w4", "nyc-w5"] },
+        { "text": "Fire Commissioner Lillian Bonsignore discussed the collapse in a WNYC interview, along with lithium-ion battery fires and a shortage of emergency medical staff.", "refs": ["31256d8e2b"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "b13843ba22", "note": "Puts the weight on the city's approval, calling the shoring plan \"dubious\" and tying it to the deaths." },
+        { "ref": "6a224aaf06", "note": "Centers the neighbors still displaced or waiting, with the block described as \"in limbo.\"" },
+        { "ref": "0b7b002f2e", "note": "Leads with a widow's grief and anger, using \"blasts\" and \"heartbroken\" to stress emotion over the technical record." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "b13843ba22", "takeaway": "Headline and summary only (paywalled): an investigation into the Buildings Department's approval of the shoring method.", "read_full": false },
+        { "ref": "6a224aaf06", "takeaway": "Headline and summary only (paywalled): the block's residents ten days on, and the coming demolition next door.", "read_full": false },
+        { "ref": "0b7b002f2e", "takeaway": "Summary only: the Saturday vigil and the families' criticism of the city.", "read_full": false },
+        { "ref": "31256d8e2b", "takeaway": "Summary only: a radio interview with the fire commissioner that touches on the collapse among other pressures on the department.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "belgal-release-denied",
+      "headline": "Federal judge keeps man shot by ICE in the Bronx in detention",
+      "region": "Bronx",
+      "importance": 4,
+      "summary": "A federal judge on Friday denied a request to release Oscar Belgal, a Dominican man who was shot and wounded by immigration officers as they arrested him in New York in October. Belgal had filed a habeas corpus petition, a legal challenge to his detention. He remains in custody while his immigration case continues.",
+      "why_it_matters": "The case has become a local test of how federal immigration arrests are carried out on city streets and what courts will do when someone is hurt in one. The outlets covering the ruling in today's digest all lean left.",
+      "background": "Immigration and Customs Enforcement officers shot Belgal in October while arresting him; the Guardian reported he was driving his five-year-old son home from school. The shooting led to protests in the Bronx. An earlier court order barred the government from deporting him without a judge's approval, but did not free him. His lawyers have said he still had a bullet in his body after the shooting and needed surgery, and they asked the court to release him.",
+      "facts": [
+        { "text": "A federal judge on Friday denied a request to release Oscar Belgal from custody.", "refs": ["8f89bc96e3", "5f7e494dc4", "eb8c5ab630"] },
+        { "text": "Belgal, a Dominican national, was shot and wounded by immigration officers during his arrest in New York in October.", "refs": ["5f7e494dc4", "8f89bc96e3", "2bfcaf9bf4"] },
+        { "text": "He was driving his five-year-old son home from school when he was shot, the Guardian reported.", "refs": ["5f7e494dc4", "nyc-w6"] },
+        { "text": "Belgal sought release through a habeas corpus petition.", "refs": ["eb8c5ab630"] },
+        { "text": "A federal judge blocked his deportation in October shortly after the shooting.", "refs": ["nyc-w7"] },
+        { "text": "His lawyers said he still had a bullet in his body after the shooting and needed surgery.", "refs": ["nyc-w8", "nyc-w9"] },
+        { "text": "Demonstrators have protested the shooting in the Bronx.", "refs": ["eb8c5ab630"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "5f7e494dc4", "note": "Its subheading foregrounds that he was shot while driving his young son home from school." },
+        { "ref": "c039297e08", "note": "Identifies him in the headline as an \"undocumented immigrant.\"" },
+        { "ref": "eb8c5ab630", "note": "Places the shooting in the Bronx and pairs the ruling with a photo of local protesters." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2bfcaf9bf4", "takeaway": "Headline and summary only (paywalled): the ruling that he must stay in detention.", "read_full": false },
+        { "ref": "8f89bc96e3", "takeaway": "Wire story, summary only: a brief account of the denial.", "read_full": false },
+        { "ref": "5f7e494dc4", "takeaway": "Summary only: the ruling plus the circumstances of the shooting.", "read_full": false },
+        { "ref": "c039297e08", "takeaway": "Headline only: the denial, stressing his immigration status.", "read_full": false },
+        { "ref": "eb8c5ab630", "takeaway": "Summary only: the habeas petition and the Bronx protests.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "chinatown-killing-arrest",
+      "headline": "25-year-old charged with murder in killing of woman, 62, at her Chinatown home",
+      "region": "Manhattan",
+      "importance": 3,
+      "summary": "Police charged a 25-year-old homeless man with murder in the death of a 62-year-old woman at her apartment building in Chinatown. A search for the suspect briefly shut down parts of Lower Manhattan on Friday night. The New York Post, citing court records, reported that the man had been released on theft charges shortly before the killing.",
+      "why_it_matters": "The case is likely to feed the city's running argument over when people arrested on lower-level charges should be held or released. For residents of Lower Manhattan, it also raises concerns about safety inside their own buildings.",
+      "background": "The woman was found outside her apartment with bruising around her neck, according to Gothamist. Outlets place the building in Chinatown or on the Lower East Side, neighborhoods that border each other. The New York Post identified the man charged as Alexander Florentino. A murder charge is an accusation; the case will now move through the Manhattan courts.",
+      "facts": [
+        { "text": "A 25-year-old man was charged with murder in the killing of a 62-year-old woman at her home in Lower Manhattan.", "refs": ["d954c951fb", "d92d75c7c9", "2db59e9b14"] },
+        { "text": "Police described the man as homeless.", "refs": ["d92d75c7c9", "2db59e9b14"] },
+        { "text": "The woman was found with bruising around her neck outside her apartment, Gothamist reported.", "refs": ["d92d75c7c9"] },
+        { "text": "A manhunt briefly shut down parts of Lower Manhattan on Friday night.", "refs": ["d954c951fb"] },
+        { "text": "The New York Post identified the suspect as Alexander Florentino and reported he had been released on theft charges one day before the killing.", "refs": ["2a00b01e67"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "2a00b01e67", "note": "Makes the judge who released the suspect the story, labels the judge \"lefty\" and the suspect a \"maniac.\"" },
+        { "ref": "d954c951fb", "note": "A plain statement of the charge, with no mention of the suspect's prior arrests or housing status." },
+        { "ref": "2db59e9b14", "note": "Stresses that the suspect is homeless and has a \"long rap sheet,\" and places the home on the Lower East Side." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d954c951fb", "takeaway": "Headline and summary only (paywalled): the charge and the Friday night manhunt.", "read_full": false },
+        { "ref": "d92d75c7c9", "takeaway": "Summary only: the charge and how the victim was found.", "read_full": false },
+        { "ref": "2db59e9b14", "takeaway": "Headline only: the arrest, the suspect's record and the location.", "read_full": false },
+        { "ref": "2a00b01e67", "takeaway": "Summary only: names the suspect and focuses on his recent release from custody.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "national-grid-rate-freeze",
+      "headline": "State regulators approve National Grid gas rate freeze over advocates' objections",
+      "region": "Albany",
+      "importance": 3,
+      "summary": "New York's Public Service Commission voted unanimously to approve National Grid's request to freeze its gas delivery rates, Gothamist reported. Consumer and environmental advocates opposed the plan, and Gothamist reported that customers could still see higher bills soon.",
+      "why_it_matters": "National Grid supplies gas to homes in Brooklyn, Queens and Staten Island, so the decision affects heating bills for many city households. A freeze on delivery rates does not cap the whole bill. Only Gothamist covered the vote in today's digest.",
+      "background": "National Grid delivers natural gas to customers in parts of New York City and on Long Island. Utilities normally change rates through a formal rate case before the Public Service Commission, the state body that regulates them. In May, the company instead asked the commission to keep its current delivery rates in place for one more year, from April 2027 through March 2028. The environmental law group Earthjustice argued the plan amounts to keeping rates high and would let the company pass on future costs with less scrutiny.",
+      "facts": [
+        { "text": "The Public Service Commission unanimously approved a National Grid rate freeze.", "refs": ["30bbbb73b5"] },
+        { "text": "Advocates opposed the plan.", "refs": ["30bbbb73b5", "nyc-w11"] },
+        { "text": "National Grid said its proposal would keep current gas delivery rates for New York City and Long Island customers in effect from April 1, 2027, to March 31, 2028.", "refs": ["nyc-w10"] },
+        { "text": "Gothamist reported that customers could see higher bills soon despite the freeze.", "refs": ["30bbbb73b5"] },
+        { "text": "Earthjustice said the commission's decision keeps gas bills high and allows future costs to be imposed without transparency.", "refs": ["nyc-w11"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the freeze helps customers",
+          "positions": [
+            { "claim": "National Grid presents the plan as a freeze that holds gas delivery rates at current levels for an extra year.", "refs": ["nyc-w10"] },
+            { "claim": "Earthjustice says the plan keeps bills high and lets the company impose future costs without scrutiny.", "refs": ["nyc-w11"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "30bbbb73b5", "note": "Pairs the word \"freeze\" with a warning that bills could still rise." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "30bbbb73b5", "takeaway": "Summary only: the unanimous vote, the advocates' opposition and the possibility of higher bills.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "pre-thanksgiving-storms",
+      "headline": "Two storms expected to bring rain and wind to the city before Thanksgiving",
+      "region": "",
+      "importance": 2,
+      "summary": "Forecasters expect a storm to reach the Northeast on Sunday night, with a second one possible on Wednesday, the New York Times reported. Local outlets say New York City should expect heavy rain and strong winds heading into the holiday.",
+      "why_it_matters": "Wednesday is one of the busiest travel days of the year, so a storm then could slow flights, trains and roads. Wind also matters for Thursday's Thanksgiving parade, where the large balloons are grounded above set wind limits.",
+      "background": "The city has had a mostly sunny and mild fall, according to Gothamist. The Thanksgiving Day parade is on Thursday, Nov. 26. Under city rules, the parade's giant balloons cannot fly if sustained winds exceed 23 mph or gusts exceed 34 mph.",
+      "facts": [
+        { "text": "The first storm is expected to arrive on Sunday night, with a second potentially coming on Wednesday.", "refs": ["68d702eac9"] },
+        { "text": "Rain is forecast for New York City after a fall that has been mostly sunny and mild.", "refs": ["8b6f59b4c7"] },
+        { "text": "The New York Daily News reported that heavy rain and intense winds are expected in the city ahead of Thanksgiving.", "refs": ["2b37dba8bc"] },
+        { "text": "Parade balloons cannot fly if sustained winds exceed 23 mph or gusts exceed 34 mph.", "refs": ["nyc-w12"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "8b6f59b4c7", "note": "Treats the rain as an interruption to an \"idyllic\" fall and only a possible problem for Thanksgiving." },
+        { "ref": "2b37dba8bc", "note": "Uses stronger language, with heavy rain and \"intense winds\" set to \"wallop\" the city." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "68d702eac9", "takeaway": "Headline and summary only (paywalled): the timing of the two storms across the Northeast.", "read_full": false },
+        { "ref": "8b6f59b4c7", "takeaway": "Summary only: rain returning to the city after a mild fall.", "read_full": false },
+        { "ref": "2b37dba8bc", "takeaway": "Headline only: heavy rain and strong winds before the holiday.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "nyc-w1", "url": "https://www.amny.com/news/only-available-option-flatbush-building-damaged-by-collapse-will-be-demolished/", "title": "'Only available option': Flatbush building damaged by collapse will be demolished", "outlet": "amNY" },
+    { "id": "nyc-w2", "url": "https://www.6sqft.com/city-will-demolish-building-next-to-site-of-deadly-flatbush-collapse/", "title": "City will demolish building next to site of deadly Flatbush collapse", "outlet": "6sqft" },
+    { "id": "nyc-w3", "url": "https://www.hmpgloballearningnetwork.com/site/emsworld/news/fdny-ceases-recovery-operations-brooklyn-collapse-site-leaving-death-toll-8", "title": "FDNY ceases recovery operations at Brooklyn collapse site, leaving death toll at 8", "outlet": "EMS World" },
+    { "id": "nyc-w4", "url": "https://www.constructiondive.com/news/dob-details-fatal-brooklyn-jobsite-past-violations/874741/", "title": "DOB details fatal Brooklyn jobsite's past violations", "outlet": "Construction Dive" },
+    { "id": "nyc-w5", "url": "https://commercialobserver.com/?p=586081", "title": "Development Site Next to Fatal Flatbush Building Collapse Faced Safety Issues", "outlet": "Commercial Observer" },
+    { "id": "nyc-w6", "url": "https://www.nbcnewyork.com/new-york-city/ny-judge-orders-friday-hearing-for-man-shot-by-ice-with-5-year-old-in-car/6557717/", "title": "NY judge orders Friday hearing for man shot by ICE with 5-year-old in car", "outlet": "NBC New York" },
+    { "id": "nyc-w7", "url": "https://www.rawstory.com/oscar-belgal-deportation-blocked/", "title": "Judge quickly blocks deportation of man shot by ICE in New York", "outlet": "Raw Story" },
+    { "id": "nyc-w8", "url": "https://courthousenews.com/nyc-man-shot-by-ice-still-has-bullet-in-body-lawyers-say/", "title": "NYC man shot by ICE still has bullet in body, lawyers say", "outlet": "Courthouse News Service" },
+    { "id": "nyc-w9", "url": "https://www.amny.com/news/man-shot-by-ice-marble-hill-needs-surgery/", "title": "Man shot by ICE in Marble Hill needs surgery", "outlet": "amNY" },
+    { "id": "nyc-w10", "url": "https://www.nationalgrid.com/news/national-grid-seeks-freeze-gas-delivery-rates-customers-new-york-city-and-long-island", "title": "National Grid seeks to freeze gas delivery rates for customers in New York City and on Long Island", "outlet": "National Grid" },
+    { "id": "nyc-w11", "url": "https://earthjustice.org/press/2026/nys-public-service-commission-allows-national-grid-to-keep-gas-bills-high-and-impose-future-costs-without-transparency-or-scrutiny", "title": "NYS Public Service Commission Allows National Grid to Keep Gas Bills High and Impose Future Costs Without Transparency or Scrutiny", "outlet": "Earthjustice" },
+    { "id": "nyc-w12", "url": "https://fox5ny.com/weather/nyc-forecast-macys-thanksgiving-day-parade-2026", "title": "Will rain or wind impact the 2026 Macy's Thanksgiving Day Parade in NYC?", "outlet": "FOX 5 New York" }
+  ]
+}

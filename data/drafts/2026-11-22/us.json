@@ -1,0 +1,263 @@
+{
+  "stories": [
+    {
+      "id": "fbi-ncic-database-hack",
+      "headline": "FBI investigates apparent hack of its national crime database",
+      "region": "Justice Dept.",
+      "importance": 5,
+      "summary": "The FBI is investigating an apparent hack of the National Crime Information Center, the database police across the country use to check for fugitives, missing persons, criminal histories and stolen property, according to an Associated Press report citing a single source. President Trump said Saturday the breach was \"not good\" but could let the government learn things it otherwise would not have. What was taken, and by whom, has not been made public in the coverage available.",
+      "why_it_matters": "This is the system an officer queries during a traffic stop or a missing-person search, and it holds sensitive records about millions of people. A breach could expose personal data or undermine confidence in records that police rely on every day.",
+      "background": "The National Crime Information Center, or NCIC, is a computerized index run by the FBI and shared with local, state and federal law enforcement. It began operating in 1967 and covers wanted persons, missing persons, criminal history data and stolen property. The FBI has disclosed other security incidents this year: in September it said it was investigating a hacking group's claim to have stolen employee data through its jobs website. CNBC described the NCIC incident as the second recent intrusion into FBI systems.",
+      "facts": [
+        { "text": "The FBI is investigating an apparent hack of its National Crime Information Center database, the Associated Press reported, citing a source.", "refs": ["f0800905be", "3a1b2dba02", "8d643400db"] },
+        { "text": "The NCIC is available to local, state and federal law enforcement agencies and includes records on fugitives, missing persons, criminal histories and stolen property.", "refs": ["8d643400db", "0967ccdd2d", "45201d2fd3"] },
+        { "text": "Trump said Saturday in a phone interview that the potential breach was \"not good\" but might be a chance to \"learn things that we would have never learned otherwise.\"", "refs": ["f7a595b407", "c75aad6964"] },
+        { "text": "CNBC reported this would be the second recent intrusion into FBI systems.", "refs": ["c75aad6964"] },
+        { "text": "In September the FBI said it was investigating a criminal hacking group's claim to have stolen sensitive data on agents and job applicants through its jobs website.", "refs": ["us-w1"] },
+        { "text": "The NCIC began operating in January 1967, according to the FBI.", "refs": ["us-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "3a1b2dba02", "note": "Wire headline is cautious: an \"apparent\" hack, attributed to a single AP source." },
+        { "ref": "0967ccdd2d", "note": "States the hack as a settled fact in the headline, without \"apparent\" or \"reportedly\"." },
+        { "ref": "6f9af2adf1", "note": "Hedges twice, with \"reportedly\" and \"potential cyberattack\", and leads with the FBI's response." },
+        { "ref": "1a84565c40", "note": "Makes Trump's reaction the story, saying he \"attempts\" to put a positive spin on it." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f0800905be", "takeaway": "Headline only: the original AP report, sourced to one person.", "read_full": false },
+        { "ref": "3a1b2dba02", "takeaway": "Headline and summary only: carries the AP wire story.", "read_full": false },
+        { "ref": "8d643400db", "takeaway": "Headline and summary only: AP story, with a description of what the NCIC holds.", "read_full": false },
+        { "ref": "0967ccdd2d", "takeaway": "Headline and summary only: calls it a reported major cyberattack and lists the record types.", "read_full": false },
+        { "ref": "45201d2fd3", "takeaway": "Headline and summary only: says the FBI is \"reportedly\" investigating.", "read_full": false },
+        { "ref": "f7a595b407", "takeaway": "Headline and summary only: focuses on Trump's comments, with direct quotes.", "read_full": false },
+        { "ref": "c75aad6964", "takeaway": "Headline and summary only: Trump's reaction, and a note that this is the second recent intrusion.", "read_full": false },
+        { "ref": "6f9af2adf1", "takeaway": "Headline only: frames it as a reported hack prompting an FBI investigation.", "read_full": false },
+        { "ref": "1a84565c40", "takeaway": "Headline only: centers on Trump's \"positive spin\" remark.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-contractors-congress-order",
+      "headline": "Trump orders federal contractors to consult White House before answering Congress",
+      "region": "White House",
+      "importance": 4,
+      "summary": "President Trump signed an executive order Saturday directing federal contractors and subcontractors to consult his administration about inquiries they receive from Congress and to withhold communications the White House considers privileged. The White House warned that companies that do not comply could lose their contracts and be suspended from future federal work. The order comes weeks before Democrats take control of Congress in January.",
+      "why_it_matters": "Private companies do a large share of the government's work, and Congress often learns how taxpayer money is spent by asking them directly. The order could limit what lawmakers, and through them the public, find out. In today's ingest the story was carried almost entirely by left-leaning and center outlets.",
+      "background": "Democrats won control of Congress in this month's midterm elections and are expected to open wide-ranging investigations of the administration when they take over in January. Congressional committees can request or subpoena documents from companies that hold federal contracts. Presidents can claim executive privilege to keep some internal communications from Congress, and disputes over its reach are usually settled by negotiation or in court. Several outlets describe the order as the administration's latest step to resist that expected oversight.",
+      "facts": [
+        { "text": "Trump directed federal contractors and subcontractors to consult his administration about inquiries they receive from Congress and to withhold communications the White House considers privileged.", "refs": ["ec112f9759", "460719117a", "7ac6d14389"] },
+        { "text": "The White House warned that contractors who fail to comply could have their contracts terminated and their future federal work suspended, CBS News reported.", "refs": ["2fb7975d79"] },
+        { "text": "Bloomberg reported the order requires contractors to notify the White House of any congressional requests for their communications.", "refs": ["efc8d920ad"] },
+        { "text": "Democrats are due to take over Congress in January and are expected to pursue broad oversight of the administration.", "refs": ["a7430b200f", "efc8d920ad"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "a7430b200f", "note": "Neutral wire wording: contractors must \"check with\" the White House before responding." },
+        { "ref": "e3281306dc", "note": "Casts the order as a move to \"restrict congressional oversight\"." },
+        { "ref": "2fb7975d79", "note": "Headline refers to \"federal workers' responses\" rather than contractors, and does not mention oversight." },
+        { "ref": "efc8d920ad", "note": "Emphasizes that contractors need White House \"signoff\"." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ec112f9759", "takeaway": "Headline and summary only: AP wire story with the core terms of the order.", "read_full": false },
+        { "ref": "a7430b200f", "takeaway": "Headline and summary only: AP story, placing the order in the context of expected Democratic oversight.", "read_full": false },
+        { "ref": "460719117a", "takeaway": "Headline and summary only: AP story on the consult-and-withhold instruction.", "read_full": false },
+        { "ref": "7ac6d14389", "takeaway": "Headline and summary only: describes the order as an attempt to stymie oversight.", "read_full": false },
+        { "ref": "2fb7975d79", "takeaway": "Headline and summary only: reports the penalties the White House warned of.", "read_full": false },
+        { "ref": "efc8d920ad", "takeaway": "Headline and summary only (paywalled): says contractors must notify the White House of congressional requests.", "read_full": false },
+        { "ref": "e3281306dc", "takeaway": "Headline and summary only (paywalled): calls it the latest effort to blunt Democratic investigations.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-credit-card-rate-cap",
+      "headline": "Trump says he would work with Democrats to cap credit card rates at 10%",
+      "region": "White House",
+      "importance": 4,
+      "summary": "President Trump said Saturday he would work with the incoming Democratic Congress to cap credit card interest rates at 10%, repeating a call he first made in January. He said in a phone interview that card companies make too much money and that he \"would do it.\" No bill or timetable was reported.",
+      "why_it_matters": "The typical card rate is around 22%, so a 10% cap would sharply cut interest costs for people who carry a balance. Banks have argued a cap would lead them to offer less credit, especially to riskier borrowers.",
+      "background": "Trump called in January for a one-year, 10% cap on credit card interest and later asked Congress to pass it, but no cap took effect. Sens. Bernie Sanders and Josh Hawley had earlier introduced a bipartisan bill for a 10% cap. Banking groups opposed the idea, saying it would reduce access to credit. Democrats won control of Congress in this month's midterms and take over in January.",
+      "facts": [
+        { "text": "Trump said Saturday he would work with Democrats in the incoming Congress to cap credit card interest rates at 10%.", "refs": ["973a727921", "0d1039ca8f", "dfe381e48c"] },
+        { "text": "Axios reported Trump said he would also cap card fees and argued card companies make too much money.", "refs": ["8e31919b70"] },
+        { "text": "\"They've been trying to get that for years. I would do it,\" Trump said of Democrats in a phone interview, according to The Hill.", "refs": ["0d1039ca8f"] },
+        { "text": "The median credit card interest rate is roughly 22.2%, according to an August survey by the New York Federal Reserve.", "refs": ["f7f9724f89"] },
+        { "text": "Trump first called for a one-year 10% cap in January.", "refs": ["us-w3"] },
+        { "text": "Sens. Bernie Sanders and Josh Hawley previously introduced bipartisan legislation to cap card rates at 10%.", "refs": ["us-w4"] }
+      ],
+      "disputed": [
+        {
+          "topic": "What a 10% cap would do for consumers",
+          "positions": [
+            { "claim": "Supporters argue a cap would save consumers billions of dollars a year.", "refs": ["8e31919b70"] },
+            { "claim": "Banking groups have said a cap would reduce the availability of credit and hurt consumers.", "refs": ["us-w4"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "973a727921", "note": "Wire wording: Trump \"vows\" to work with Democrats, with the 10% figure in the headline." },
+        { "ref": "f29ef130e0", "note": "Presents it as an opening for a \"bipartisan deal\" and ties it to record consumer debt." },
+        { "ref": "0d1039ca8f", "note": "Says Trump \"wants\" to work with Democrats; the summary notes he was repeating an earlier call." },
+        { "ref": "8e31919b70", "note": "Adds fees to the proposal and stresses the fight with the banking industry." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "973a727921", "takeaway": "Headline and summary only: AP wire story on the pledge.", "read_full": false },
+        { "ref": "f7f9724f89", "takeaway": "Headline and summary only: AP story, with the New York Fed's median rate figure.", "read_full": false },
+        { "ref": "dfe381e48c", "takeaway": "Headline and summary only: short account of the pledge.", "read_full": false },
+        { "ref": "0d1039ca8f", "takeaway": "Headline and summary only: quotes Trump from the phone interview.", "read_full": false },
+        { "ref": "8e31919b70", "takeaway": "Headline and summary only: covers fees as well as rates, and the industry's opposition.", "read_full": false },
+        { "ref": "f29ef130e0", "takeaway": "Headline only: frames it as a possible bipartisan deal amid record debt.", "read_full": false },
+        { "ref": "47e90498c2", "takeaway": "Headline only: carries the AP story.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "seattle-airport-ice-arrests",
+      "headline": "Immigration officers arrest two passengers on Seattle airport jet bridge",
+      "region": "Immigration",
+      "importance": 3,
+      "summary": "Masked immigration officers arrested two people on a crowded jet bridge at Seattle's airport Saturday as passengers boarded an Alaska Airlines flight to Los Angeles, delaying the flight. Alaska Airlines and the Port of Seattle both called the scene distressing, and the port said local authorities would ask federal officials what happened. Washington's governor also criticized the arrests, The New York Times reported.",
+      "why_it_matters": "Arrests in the boarding area of a commercial flight put ordinary travelers in the middle of an enforcement action and raise questions about where immigration arrests take place. The airport's operator says it has no control over federal immigration officers on its property.",
+      "background": "The Trump administration has stepped up immigration enforcement nationwide, and attorneys said earlier this year that arrests at airports were becoming more frequent. Seattle-Tacoma International Airport is run by the Port of Seattle, a local public agency that says it has no jurisdiction over Immigration and Customs Enforcement operations there.",
+      "facts": [
+        { "text": "Masked immigration officers arrested two people on a crowded jet bridge in Seattle on Saturday while passengers were boarding.", "refs": ["6a991f74db", "060caffb03", "ca50d9615d"] },
+        { "text": "The arrests delayed the Los Angeles-bound Alaska Airlines flight.", "refs": ["4c4cb8426e", "92218ef865", "060caffb03"] },
+        { "text": "Alaska Airlines called the scene \"distressing\" for passengers and employees.", "refs": ["060caffb03"] },
+        { "text": "The Port of Seattle said the arrest was distressing for the affected family and other passengers, and that local authorities would \"engage federal officials to understand more about what occurred.\"", "refs": ["2bd8b9e0b7"] },
+        { "text": "Washington's governor and airport officials criticized the arrests, The New York Times reported.", "refs": ["ca50d9615d"] },
+        { "text": "The Port of Seattle says it has no jurisdiction over ICE operations at the airport.", "refs": ["us-w5"] },
+        { "text": "Immigration attorneys said in July that ICE arrests at U.S. airports were happening more often, CNN reported.", "refs": ["us-w12"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "4c4cb8426e", "note": "Wire headline puts the word \"distressing\" up front, alongside the flight delay." },
+        { "ref": "92218ef865", "note": "Headline is procedural, about arrests during boarding and the delay; the web address uses stronger wording about agents dragging passengers." },
+        { "ref": "060caffb03", "note": "Leads with \"horrific\" and says the arrests \"fuel outrage\"." },
+        { "ref": "6a991f74db", "note": "Plain statement that ICE officers arrested two passengers, with no characterization." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "4c4cb8426e", "takeaway": "Headline only: the AP report on the arrests and delay.", "read_full": false },
+        { "ref": "6a991f74db", "takeaway": "Headline and summary only: notes the officers were masked and the jet bridge crowded.", "read_full": false },
+        { "ref": "2bd8b9e0b7", "takeaway": "Headline and summary only: AP story with the Port of Seattle's statement.", "read_full": false },
+        { "ref": "060caffb03", "takeaway": "Headline and summary only (paywalled): includes the airline's reaction and mentions video of the incident.", "read_full": false },
+        { "ref": "92218ef865", "takeaway": "Headline and summary only: focuses on the delay to the Los Angeles flight.", "read_full": false },
+        { "ref": "ca50d9615d", "takeaway": "Headline and summary only (paywalled): reports criticism from the governor and airport officials.", "read_full": false }
+      ],
+      "social": "The South China Morning Post reported that video of the arrests exists and that the incident drew outrage; no specific posts were available to review."
+    },
+    {
+      "id": "fifth-circuit-proxy-voting-ruling",
+      "headline": "Appeals court says law protecting pregnant workers was passed unconstitutionally",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "The Fifth Circuit Court of Appeals ruled that a law protecting pregnant workers was passed unconstitutionally because House members voted by proxy during the Covid pandemic, The New York Times reported. The ruling halts the law, and the case is expected to be appealed to the Supreme Court. CNN and The Washington Post described the decision as striking at the wider spending law that contained the protections.",
+      "why_it_matters": "The law requires employers to make reasonable accommodations for pregnant workers, and those protections are now in question. The reasoning could also be used to challenge other laws passed while the House allowed proxy voting. Only left-leaning outlets in today's ingest covered the ruling.",
+      "background": "The Pregnant Workers Fairness Act was passed at the end of 2022 as part of a large government spending bill, at a time when House rules let absent members cast votes through colleagues. Texas sued, arguing that the Constitution requires a majority of members to be physically present to pass legislation. A federal judge in Texas agreed in 2024 and blocked the law's enforcement against the state as an employer. A three-judge Fifth Circuit panel reversed that decision in August 2025, and the court then took up the case again.",
+      "facts": [
+        { "text": "The Fifth Circuit said the law was unconstitutional because it was passed with proxy voting during the Covid pandemic, The New York Times reported.", "refs": ["3b13442d92"] },
+        { "text": "The decision is expected to be appealed to the Supreme Court, according to The New York Times.", "refs": ["3b13442d92"] },
+        { "text": "A Fifth Circuit panel had ruled in August 2025 that the House's use of proxy voting did not violate the Constitution's quorum requirement.", "refs": ["us-w6", "us-w7"] },
+        { "text": "A federal judge in Texas had earlier blocked enforcement of the law against the state of Texas as an employer.", "refs": ["us-w7"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "3b13442d92", "note": "Names the pregnant workers' protections as what was halted." },
+        { "ref": "b927f91bcf", "note": "Calls it a \"Biden-era spending law\", pointing to the whole bill rather than the pregnancy provisions." },
+        { "ref": "cfe0681fe3", "note": "Emphasizes the legal reasoning: a \"pandemic-era law\" undone by proxy voting." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3b13442d92", "takeaway": "Headline and summary only (paywalled): the ruling, its reasoning and the expected Supreme Court appeal.", "read_full": false },
+        { "ref": "cfe0681fe3", "takeaway": "Headline only (paywalled): centers on proxy voting as the reason.", "read_full": false },
+        { "ref": "b927f91bcf", "takeaway": "Headline only: describes the law as a Biden-era spending measure.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "thanksgiving-storms-both-coasts",
+      "headline": "Storms on both coasts threaten Thanksgiving travel as San Francisco braces for record tides",
+      "region": "Weather",
+      "importance": 3,
+      "summary": "San Francisco's mayor asked residents not to travel unless \"absolutely essential\" as Northern California prepares for heavy rain arriving with unusually high tides. In central Florida, more rain is falling on areas already hit by flooding that the Associated Press described as historic, and a storm moving up the East Coast could also delay holiday travel.",
+      "why_it_matters": "Thanksgiving week is one of the busiest travel periods of the year, and storms on both coasts could mean flight delays, closed roads and flooded neighborhoods for millions of people.",
+      "background": "This is an El Niño winter, a pattern that tends to bring wetter weather to California. San Francisco Mayor Daniel Lurie declared a local emergency in October to prepare for it. King tides, the highest tides of the year, were forecast to peak in the Bay Area around Thanksgiving, and local reporting had warned they could coincide with a storm. Florida has separately been dealing with flooding from a major storm system.",
+      "facts": [
+        { "text": "San Francisco's mayor asked people in the city not to travel unless \"absolutely essential.\"", "refs": ["6c3af45b13", "1dca202b30"] },
+        { "text": "Northern California is preparing for heavy rain accompanied by high tides ahead of Thanksgiving, while scattered rain is worsening flooding across central Florida.", "refs": ["1dca202b30"] },
+        { "text": "A storm moving up the Eastern seaboard could also cause travel delays before the holiday, NPR reported.", "refs": ["6c3af45b13"] },
+        { "text": "Entire neighborhoods in parts of Florida are underwater after a major storm system brought heavy rain, NBC News reported.", "refs": ["22e96d0ad2"] },
+        { "text": "The mayor described the expected king tides as \"never-before-seen,\" according to CNN.", "refs": ["9cb5644a90"] },
+        { "text": "Mayor Daniel Lurie declared a local emergency in October to prepare San Francisco for El Niño hazards.", "refs": ["us-w8"] },
+        { "text": "KQED reported earlier this month that extreme king tides were expected in the Bay Area around Thanksgiving.", "refs": ["us-w9"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "6c3af45b13", "note": "National frame: storms on both coasts and the threat to holiday travel." },
+        { "ref": "adba5d0645", "note": "Wire headline focused on San Francisco and \"massive tides\"." },
+        { "ref": "9cb5644a90", "note": "Leads with the mayor's \"never-before-seen\" warning." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "6c3af45b13", "takeaway": "Headline and summary only: ties the West Coast and East Coast storms to Thanksgiving travel.", "read_full": false },
+        { "ref": "1dca202b30", "takeaway": "Headline and summary only: AP story covering both San Francisco's tides and Florida's flooding.", "read_full": false },
+        { "ref": "a518a3e1a1", "takeaway": "Headline only: the AP report on San Francisco's preparations.", "read_full": false },
+        { "ref": "adba5d0645", "takeaway": "Headline only: carries the AP story.", "read_full": false },
+        { "ref": "9cb5644a90", "takeaway": "Headline only: the mayor's warning about king tides.", "read_full": false },
+        { "ref": "22e96d0ad2", "takeaway": "Headline and summary only: video report from flooded Florida neighborhoods.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "palisades-fire-arson-conviction",
+      "headline": "Jury convicts man of starting the deadly 2025 Palisades Fire",
+      "region": "Courts",
+      "importance": 2,
+      "summary": "A federal jury in Los Angeles on Friday found Jonathan Rinderknecht, 30, guilty of arson charges for starting the January 2025 Palisades Fire, which killed 12 people. It was his second trial; the first ended in a mistrial earlier this year. France 24 reported he faces between five and 40 years in prison.",
+      "why_it_matters": "The fire was one of the most destructive in Los Angeles history, and the verdict is a formal finding of who was responsible for a disaster that destroyed thousands of homes.",
+      "background": "The Palisades Fire broke out in January 2025 and destroyed more than 6,800 buildings in and around the Pacific Palisades neighborhood of Los Angeles. Federal prosecutors charged Rinderknecht, a former rideshare driver, with arson. His first trial ended in June when the jury deadlocked, with 10 of 12 jurors favoring acquittal according to the Associated Press, and the judge set a retrial at prosecutors' request.",
+      "facts": [
+        { "text": "A federal jury found Jonathan Rinderknecht guilty of arson charges Friday for starting the 2025 Palisades Fire.", "refs": ["de0d3f2c23", "486792e31c", "f328baf8aa"] },
+        { "text": "His first trial earlier this year ended in a mistrial.", "refs": ["de0d3f2c23", "3f7ae9b42e", "1f858df138"] },
+        { "text": "The fire killed 12 people and destroyed more than 6,800 buildings.", "refs": ["b4af86b6cf", "f328baf8aa"] },
+        { "text": "Prosecutors argued Rinderknecht had been \"mad at everything\" in the days before the fire, NPR reported.", "refs": ["f328baf8aa"] },
+        { "text": "He faces a prison sentence of between five and 40 years, France 24 reported.", "refs": ["91010edea4"] },
+        { "text": "The jury in the first trial deadlocked in June, with 10 jurors favoring acquittal, and the judge scheduled a retrial for October.", "refs": ["us-w10", "us-w11"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "486792e31c", "note": "Wire headline states the conviction and calls the fire \"deadly\"." },
+        { "ref": "3f7ae9b42e", "note": "Puts the retrial and the earlier mistrial in the headline." },
+        { "ref": "30e1f1561e", "note": "Brief and procedural, noting the two federal arson charges." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "de0d3f2c23", "takeaway": "Headline and summary only: AP story on the verdict and the earlier mistrial.", "read_full": false },
+        { "ref": "486792e31c", "takeaway": "Headline and summary only: carries the AP story.", "read_full": false },
+        { "ref": "f328baf8aa", "takeaway": "Headline and summary only: includes the prosecution's description of the defendant's state of mind.", "read_full": false },
+        { "ref": "3f7ae9b42e", "takeaway": "Headline and summary only: emphasizes that this was a retrial.", "read_full": false },
+        { "ref": "b4af86b6cf", "takeaway": "Headline and summary only: gives the death toll and number of buildings destroyed.", "read_full": false },
+        { "ref": "1f858df138", "takeaway": "Headline and summary only: notes the case was retried.", "read_full": false },
+        { "ref": "91010edea4", "takeaway": "Headline and summary only: gives the possible sentence range.", "read_full": false },
+        { "ref": "30e1f1561e", "takeaway": "Headline and summary only (paywalled): says he faced two federal arson charges.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://www.pbs.org/newshour/nation/fbi-investigates-hackers-claim-to-have-stolen-employee-data-compromised-jobs-website", "title": "FBI investigates hackers' claim to have stolen employee data, compromised jobs website", "outlet": "PBS NewsHour" },
+    { "id": "us-w2", "url": "https://www.fbi.gov/news/stories/ncic-turns-50", "title": "NCIC Turns 50", "outlet": "FBI" },
+    { "id": "us-w3", "url": "https://www.npr.org/2026/01/12/nx-s1-5675151/trump-credit-card-interest-rate-cap", "title": "Trump calls for a 10% cap on credit card interest rates", "outlet": "NPR" },
+    { "id": "us-w4", "url": "https://fortune.com/2026/01/10/credit-card-interest-rate-cap-10-percent-trump-sanders-hawley-bill-consumer-harm/", "title": "Credit card interest rate cap: Trump, the Sanders-Hawley bill and warnings of consumer harm", "outlet": "Fortune" },
+    { "id": "us-w5", "url": "https://www.portseattle.org/page/federal-immigration-enforcement-sea-airport", "title": "Federal Immigration Enforcement at SEA Airport", "outlet": "Port of Seattle" },
+    { "id": "us-w6", "url": "https://natlawreview.com/article/fifth-circuit-upholds-enactment-pregnant-workers-fairness-act", "title": "Fifth Circuit Upholds Enactment of Pregnant Workers Fairness Act", "outlet": "National Law Review" },
+    { "id": "us-w7", "url": "https://www.hrdive.com/news/pregnant-workers-fairness-act-must-be-enforced-in-texas-5th-circuit/757986/", "title": "Pregnant Workers Fairness Act must be enforced in Texas, 5th Circuit says", "outlet": "HR Dive" },
+    { "id": "us-w8", "url": "https://www.sf.gov/news-mayor-lurie-declares-local-emergency-to-strengthen-san-franciscos-el-nino-preparedness", "title": "Mayor Lurie Declares Local Emergency to Strengthen San Francisco's El Niño Preparedness", "outlet": "City and County of San Francisco" },
+    { "id": "us-w9", "url": "https://www.kqed.org/news/12109654/bay-area-floods-foreshadow-extreme-king-tides-around-thanksgiving", "title": "Bay Area floods foreshadow extreme king tides around Thanksgiving", "outlet": "KQED" },
+    { "id": "us-w10", "url": "https://www.pbs.org/newshour/nation/mistrial-declared-after-jury-deadlocks-in-arson-trial-over-deadly-2025-palisades-fire-in-los-angeles", "title": "Mistrial declared after jury deadlocks in arson trial over deadly 2025 Palisades Fire in Los Angeles", "outlet": "PBS NewsHour" },
+    { "id": "us-w11", "url": "https://www.local10.com/news/national/2026/06/26/10-jurors-said-palisades-fire-suspect-isnt-guilty-now-he-faces-an-october-retrial/", "title": "10 jurors said Palisades Fire suspect isn't guilty. Now he faces an October retrial", "outlet": "Associated Press via WPLG Local 10" },
+    { "id": "us-w12", "url": "https://krdo.com/news/2026/07/28/ice-arrests-at-us-airports-are-happening-more-frequently-attorneys-say-heres-what-we-know/", "title": "ICE arrests at US airports are happening more frequently, attorneys say. Here's what we know", "outlet": "CNN via KRDO" }
+  ]
+}

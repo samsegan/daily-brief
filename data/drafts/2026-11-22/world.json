@@ -1,0 +1,345 @@
+{
+  "stories": [
+    {
+      "id": "mexico-chapo-isidro-captured",
+      "headline": "Mexico captures cartel boss 'El Chapo Isidro' in a raid that left at least 11 dead",
+      "region": "Americas",
+      "importance": 5,
+      "summary": "Mexican authorities said they captured Fausto Isidro Meza Flores, a cartel leader known as 'El Chapo Isidro', in Sinaloa state on Saturday. The operation set off gun battles that left at least 11 people dead. He was on the FBI's list of 10 most wanted fugitives. The reports available did not say whether or when he might be sent to the United States.",
+      "why_it_matters": "His organization is accused of sending large amounts of heroin, methamphetamine, cocaine and marijuana into the United States for two decades. The arrest also shows how closely Mexican and U.S. agencies are now working together against cartels, and how violent those operations can be for people living nearby.",
+      "background": "Fausto Isidro Meza Flores is a drug trafficker from Sinaloa, the Pacific coast state that is home to several of Mexico's biggest criminal groups. His nickname echoes Joaquin 'El Chapo' Guzman, the former Sinaloa Cartel leader now in a U.S. prison, but the two are different men. He is accused of drug trafficking and torture, and the FBI placed him on its Ten Most Wanted list, with a U.S. reward of up to $5 million. His capture follows a string of arrests of senior drug traffickers in Mexico.",
+      "facts": [
+        { "text": "Mexican authorities captured Fausto Isidro Meza Flores, known as 'El Chapo Isidro', in Sinaloa state on Saturday in an operation that left at least 11 people dead, the Associated Press reported from Guasave.", "refs": ["13cbe598dd", "c1c7eab109"] },
+        { "text": "Meza Flores was one of the FBI's 10 most wanted fugitives.", "refs": ["13cbe598dd", "48f549e40a", "e30fab1dde"] },
+        { "text": "The AP described heavy gunfire, helicopters and burning trucks in Sinaloa on Saturday.", "refs": ["13cbe598dd"] },
+        { "text": "He is accused of drug trafficking and torture, the BBC reported.", "refs": ["48f549e40a"] },
+        { "text": "U.S. and Mexican authorities shared intelligence for weeks to track him, and a U.S. official called him the most dangerous man in Mexico, the New York Times reported.", "refs": ["22dd625d41"] },
+        { "text": "The arrest is the latest in a string of arrests of drug traffickers in Mexico, the Japan Times reported.", "refs": ["7f7471987e"] },
+        { "text": "The FBI's wanted notice lists a U.S. reward of up to $5 million for information leading to his arrest or conviction.", "refs": ["world-w1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "c1c7eab109", "note": "Puts the death toll and the violence of the firefight in the headline." },
+        { "ref": "e30fab1dde", "note": "Stresses his place on the FBI's most wanted list rather than the deaths." },
+        { "ref": "22dd625d41", "note": "Frames it as an intelligence success, focusing on how U.S. and Mexican agencies tracked him." },
+        { "ref": "7f7471987e", "note": "Presents the capture as one more in a run of arrests." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c1c7eab109", "takeaway": "Headline only: wire story on the capture and the 11 deaths.", "read_full": false },
+        { "ref": "13cbe598dd", "takeaway": "Carries the AP report; summary gives the Guasave scene, the toll and the FBI listing.", "read_full": false },
+        { "ref": "48f549e40a", "takeaway": "Summary only: arrest after a shoot-out, with the accusations against him.", "read_full": false },
+        { "ref": "22dd625d41", "takeaway": "Headline and summary only (paywalled): how weeks of shared intelligence led to the capture.", "read_full": false },
+        { "ref": "e30fab1dde", "takeaway": "Headline only (paywalled): the seizure of an FBI most-wanted fugitive.", "read_full": false },
+        { "ref": "7f7471987e", "takeaway": "Summary only: places the arrest in a series and recaps the trafficking allegations.", "read_full": false },
+        { "ref": "36f7648433", "takeaway": "Video summary only: violence erupted in Sinaloa after the capture.", "read_full": false },
+        { "ref": "world-w1", "takeaway": "FBI wanted notice with the reward offer.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "cop31-overtime-fossil-fuels",
+      "headline": "UN climate talks run two days over as final draft leaves out fossil fuels",
+      "region": "Global",
+      "importance": 4,
+      "summary": "The COP31 climate summit in Turkey went into a second day of overtime on Sunday. Turkey's final draft deal does not mention fossil fuels, and the European Union and a group of other countries have refused to endorse it. Summit president Murat Kurum gave delegates about three hours to object before putting the text to the full conference; the outcome was not known in the reports available.",
+      "why_it_matters": "The yearly UN summit sets the direction for how quickly countries cut the pollution that drives heat waves, floods and higher insurance and food costs. A deal that does not name oil, gas and coal, or no deal at all, would signal that governments remain split on the main cause of warming.",
+      "background": "COP31 is this year's UN climate conference, where nearly 200 countries negotiate by consensus. It is being held in Turkey, with Australia leading the negotiations under a shared hosting arrangement. In 2023 countries agreed for the first time to 'transition away' from fossil fuels, and the fight since has been over whether to say how and when. An early draft this week referred to fossil fuels, but a revised text published Thursday removed the reference while keeping a goal to raise electricity's share of energy use. The EU and about a dozen other countries want clear fossil fuel language; the Financial Times describes the EU as in a direct clash with Saudi Arabia over the text.",
+      "facts": [
+        { "text": "Negotiators at the UN climate talks went into a second day of overtime, at odds over fossil fuels, the Associated Press reported.", "refs": ["ddb6a5620f", "297fabe534"] },
+        { "text": "Turkey's final draft does not contain the words 'fossil fuels'.", "refs": ["49c6d6a254", "7529d5cc3a", "297fabe534"] },
+        { "text": "The latest text from co-hosts Turkey and Australia keeps global electrification goals, the Japan Times reported.", "refs": ["4fdceb7b81"] },
+        { "text": "COP31 President Murat Kurum gave negotiators about three hours to object or ask for changes before the text goes to the conference plenary.", "refs": ["7529d5cc3a"] },
+        { "text": "The EU warned that the proposal risked turning the meeting into a 'fossil fuel summit', and about a dozen countries joined it in criticizing the draft, France 24 reported.", "refs": ["c3012d485e", "b7be9e2e4a"] },
+        { "text": "The Financial Times reported that the EU rejected the proposed deal and that a group of countries refused to endorse it, in a direct clash with Saudi Arabia.", "refs": ["8140eb015d"] },
+        { "text": "Divisions also remain over climate finance and global warming targets, France 24 reported.", "refs": ["b7be9e2e4a"] },
+        { "text": "A draft published on Nov. 19 had already dropped the mention of fossil fuels while keeping a target for electricity to supply 35% of energy use by 2035.", "refs": ["world-w2", "world-w3"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "49c6d6a254", "note": "Headline ties the missing words directly to the cause of global warming." },
+        { "ref": "8140eb015d", "note": "Frames the talks as close to collapse and as an EU-Saudi confrontation." },
+        { "ref": "4fdceb7b81", "note": "More procedural: notes what the draft keeps as well as what it lacks." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ddb6a5620f", "takeaway": "Headline only: second day of overtime and the fossil fuel split.", "read_full": false },
+        { "ref": "49c6d6a254", "takeaway": "Headline only: the final draft omits fossil fuels.", "read_full": false },
+        { "ref": "7529d5cc3a", "takeaway": "Summary only: adds the three-hour window Kurum gave delegates.", "read_full": false },
+        { "ref": "297fabe534", "takeaway": "Live-blog summary: overtime continues and the new text still lacks fossil fuel language.", "read_full": false },
+        { "ref": "4fdceb7b81", "takeaway": "Summary only: electrification goals stay in, fossil fuel tension unresolved.", "read_full": false },
+        { "ref": "c3012d485e", "takeaway": "Summary only: the EU's 'fossil fuel summit' warning.", "read_full": false },
+        { "ref": "b7be9e2e4a", "takeaway": "Summary only: splits over energy, finance and warming targets.", "read_full": false },
+        { "ref": "8140eb015d", "takeaway": "Headline and summary only (paywalled): EU rejection and the clash with Saudi Arabia.", "read_full": false },
+        { "ref": "world-w2", "takeaway": "Earlier report that negotiators stripped fossil fuels from the draft on Nov. 19.", "read_full": false },
+        { "ref": "world-w3", "takeaway": "Earlier report on the draft's '35 by 35' electrification target.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "baltic-russian-cargo-ship-drones",
+      "headline": "Russian cargo ship burns off Finland after drone strike; Finland says the war is 'spilling over'",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "A Russian cargo ship bound for Kaliningrad was hit by drones in the Baltic Sea on Saturday, caught fire and drifted into Finnish waters, where it was still burning on Sunday. The crew was evacuated. Finland's defence forces said Ukraine was probably behind the attack, and Finland restricted air and sea traffic in the eastern Gulf of Finland and said it suspects a Russian helicopter then violated its airspace.",
+      "why_it_matters": "The strike happened next to a NATO member's coast, far from the front line, and Finland's government is openly warning that the Ukraine war is reaching its territory. That raises the risk of an incident between Russia and NATO and of disruption to Baltic shipping.",
+      "background": "The Gulf of Finland is the narrow arm of the Baltic Sea between Finland, Estonia and Russia, and it is Russia's sea route from St Petersburg to its Kaliningrad exclave. Finland joined NATO in 2023 after Russia's full-scale invasion of Ukraine. Ukraine has used long-range drones against Russian ports and ships in the Baltic, and Finland said on Nov. 13 that it had detected a strike on a Russian warship in the same area. The ship hit on Saturday is under U.S. sanctions and is linked to a Russian military logistics company, according to DW and France 24. Ukraine usually neither confirms nor denies such attacks.",
+      "facts": [
+        { "text": "A Russian cargo ship caught fire after being hit by drones in the Baltic Sea on Saturday and drifted into Finnish waters.", "refs": ["4505aab8d5", "104a6a2ef8"] },
+        { "text": "The crew evacuated the ship, Reuters reported.", "refs": ["104a6a2ef8"] },
+        { "text": "The ship was still on fire on Sunday.", "refs": ["86c4e81769", "c1488bb9b3"] },
+        { "text": "Finland's defence forces said Ukraine was likely behind the attack, the BBC reported.", "refs": ["86c4e81769"] },
+        { "text": "The vessel was bound for Russia's Kaliningrad exclave and is on a U.S. sanctions list.", "refs": ["c04debbda1", "2b0921e248"] },
+        { "text": "Finland's Defence Ministry said the military had brought back temporary aviation and maritime restrictions in the eastern Gulf of Finland as a precaution.", "refs": ["c04debbda1"] },
+        { "text": "Finland suspects a Russian helicopter violated its airspace, and its Defence Ministry thinks the incursion is linked to the strike on the ship, DW reported.", "refs": ["2b0921e248"] },
+        { "text": "Finland said the war in Ukraine was 'spilling over'.", "refs": ["09f19ff088", "133f726ebd"] },
+        { "text": "A Finnish official warned the ship could sink, the Kyiv Independent reported.", "refs": ["498955e9ea"] },
+        { "text": "Vladyslav Vlasiuk, the Ukrainian president's sanctions adviser, told the Kyiv Independent it was 'quite a coincidence', referring to vessels Ukraine has sanctioned for supporting Russia's military industry.", "refs": ["498955e9ea"] },
+        { "text": "Finland's military said on Nov. 13 that it had detected a strike on a Russian warship in the Gulf of Finland area.", "refs": ["world-w4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "09f19ff088", "note": "Leads with Finland's warning that the war is spreading." },
+        { "ref": "498955e9ea", "note": "Stresses the ship's military links and the chance it sinks." },
+        { "ref": "10af2363f9", "note": "Plain event headline that places the strike 'near Finland'." },
+        { "ref": "2b0921e248", "note": "Leads with the suspected Russian airspace violation, not the ship." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "104a6a2ef8", "takeaway": "Headline only: ship ablaze, crew evacuated.", "read_full": false },
+        { "ref": "c1488bb9b3", "takeaway": "Headline only: still burning on Sunday.", "read_full": false },
+        { "ref": "86c4e81769", "takeaway": "Summary only: Finnish forces point to Ukraine as the likely attacker.", "read_full": false },
+        { "ref": "c04debbda1", "takeaway": "Summary only: Kaliningrad destination and Finland's precautionary restrictions.", "read_full": false },
+        { "ref": "2b0921e248", "takeaway": "Summary only: suspected helicopter incursion and the ship's sanctions status.", "read_full": false },
+        { "ref": "4505aab8d5", "takeaway": "Summary only: ship drifted into Finnish waters; notes its military logistics ties.", "read_full": false },
+        { "ref": "09f19ff088", "takeaway": "Headline only: Finland's 'spilling over' warning.", "read_full": false },
+        { "ref": "133f726ebd", "takeaway": "Live-blog summary pairing Finland's warning with the latest strikes in Ukraine.", "read_full": false },
+        { "ref": "498955e9ea", "takeaway": "Summary only: sinking risk and a Ukrainian adviser's comment.", "read_full": false },
+        { "ref": "10af2363f9", "takeaway": "Headline only (paywalled).", "read_full": false },
+        { "ref": "world-w4", "takeaway": "Earlier report on a Nov. 13 strike on a Russian warship in the same waters.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "bahrain-iran-strike-hormuz-tankers",
+      "headline": "Bahrain says Iranian strike hit a civilian industrial site as two tankers are hit in the Strait of Hormuz",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "Bahrain said an Iranian attack on Saturday evening struck a civilian industrial facility and started a fire, while its air defences intercepted other incoming fire. Iran's Revolutionary Guards said they had aimed at U.S. positions. Two tankers were also hit in the Strait of Hormuz, and Iran's foreign minister said talk of reopening the strait is pointless until Tehran's demands are met, even as a Qatari delegation visited Tehran to mediate.",
+      "why_it_matters": "The Strait of Hormuz is the main route for Gulf oil and gas, so attacks there feed into fuel prices worldwide. Only center-rated outlets in today's ingest covered this; there was no coverage from left- or right-leaning outlets to compare.",
+      "background": "The current conflict began with U.S. and Israeli strikes on Iran in late February. Iran has since attacked shipping in the Strait of Hormuz, which remains largely blocked, and has fired at Gulf states that host U.S. forces. Bahrain is home to the U.S. Navy's 5th Fleet. A lull in the fighting ended last week when Iran launched several rounds of strikes on Bahrain, and Kuwait and Bahrain reported further attacks after a U.S. strike on Iran's Qeshm Island. Qatar and other states have been trying to broker an end to the war.",
+      "facts": [
+        { "text": "Bahrain said an Iranian strike on Saturday evening hit a civilian industrial facility and sparked a fire, and that its air defences intercepted attacks.", "refs": ["c7f2c0279d", "90b47399f4", "199c72515b"] },
+        { "text": "Two tankers were hit in the Strait of Hormuz.", "refs": ["199c72515b", "ed3bf2853f", "dce78f6926"] },
+        { "text": "Tehran said it shot down a U.S. drone, France 24 reported.", "refs": ["199c72515b"] },
+        { "text": "Iranian Foreign Minister Abbas Araghchi said that until Iran's demands are met, discussing the reopening of the Strait of Hormuz is 'pointless'.", "refs": ["c1d7b79323"] },
+        { "text": "A Qatari delegation visited Tehran for talks, an Iranian official said.", "refs": ["06058cd923", "7ec9a96f29"] },
+        { "text": "Bahrain suffered several attacks last week, ending a lull in a conflict that began with U.S.-Israeli strikes on Iran in late February, the Japan Times reported.", "refs": ["ed3bf2853f"] },
+        { "text": "Iran launched a third round of strikes on Bahrain, which hosts the U.S. Navy's 5th Fleet, on Nov. 17.", "refs": ["world-w5"] },
+        { "text": "Kuwait and Bahrain reported new Iranian attacks on Nov. 18 after a U.S. strike on Qeshm Island.", "refs": ["world-w6"] }
+      ],
+      "disputed": [
+        {
+          "topic": "What the Iranian attack on Bahrain was aimed at",
+          "positions": [
+            { "claim": "Bahrain says the strike hit a civilian industrial facility.", "refs": ["c7f2c0279d", "90b47399f4"] },
+            { "claim": "Iran's Revolutionary Guards say they targeted U.S. bases.", "refs": ["90b47399f4", "8402a2cd3d"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "c7f2c0279d", "note": "Leads with Bahrain's account and its air defences working." },
+        { "ref": "8402a2cd3d", "note": "Gives Bahrain's and the Revolutionary Guards' versions equal weight in the headline." },
+        { "ref": "dce78f6926", "note": "Sets the tanker attacks against the Qatari mediation visit." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c7f2c0279d", "takeaway": "Headline only: Bahrain's statement on the strike and interceptions.", "read_full": false },
+        { "ref": "90b47399f4", "takeaway": "Headline only: civilian site hit and fire, with the Guards' claim about U.S. bases.", "read_full": false },
+        { "ref": "8402a2cd3d", "takeaway": "Headline only: both sides' accounts.", "read_full": false },
+        { "ref": "199c72515b", "takeaway": "Summary only: adds the two tankers and Iran's claim of downing a U.S. drone.", "read_full": false },
+        { "ref": "c1d7b79323", "takeaway": "Summary only: carries Araghchi's remark on the strait.", "read_full": false },
+        { "ref": "ed3bf2853f", "takeaway": "Summary only: context on last week's attacks and the war's start.", "read_full": false },
+        { "ref": "06058cd923", "takeaway": "Headline only: Qatari delegation in Tehran.", "read_full": false },
+        { "ref": "7ec9a96f29", "takeaway": "Headline only: timing of the Qatari visit.", "read_full": false },
+        { "ref": "dce78f6926", "takeaway": "Headline only: links the tanker attacks to the mediation effort.", "read_full": false },
+        { "ref": "world-w5", "takeaway": "Earlier report on Iran's third round of strikes on Bahrain.", "read_full": false },
+        { "ref": "world-w6", "takeaway": "Earlier report on attacks after the U.S. strike on Qeshm Island.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ukraine-kryvyi-rih-dymer-strikes",
+      "headline": "Russian missile kills two in Zelenskyy's hometown; 14 missing after drone hits apartments near Kyiv",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "A Russian ballistic missile hit Kryvyi Rih in central Ukraine on Saturday, killing two people, one of them a 7-year-old boy according to President Volodymyr Zelenskyy, and wounding about 60. Overnight, a Russian drone struck a five-story apartment building in Dymer, near Kyiv, and Zelenskyy said at least 14 people were missing. Rescue work was continuing on Sunday.",
+      "why_it_matters": "The attacks came days after Ukraine struck the bridge linking Russia to occupied Crimea and Russia's president promised a 'painful' response, and they add doubt about U.S.-brokered talks to end the war. Missiles also reportedly came down in NATO member Poland.",
+      "background": "Russia launched its full-scale invasion of Ukraine in February 2022 and regularly fires missiles and drones at Ukrainian cities. Kryvyi Rih, an industrial city in the center of the country, is where Zelenskyy grew up and has been hit many times. This week Ukraine attacked the Kerch Bridge, also called the Crimean Bridge, which Russia uses to supply Crimea; Ukraine says a section collapsed. Washington has been brokering talks between the two sides. Ukraine is also pressing the United States to release Patriot air-defence missiles that its allies have paid for.",
+      "facts": [
+        { "text": "A Russian ballistic missile strike on Kryvyi Rih on Saturday killed two people and wounded dozens.", "refs": ["c4bc1d2292", "74cde59029", "aedff471d1"] },
+        { "text": "Zelenskyy said one of the dead was a 7-year-old boy named Tykhon and that the strike hit a civilian area, Fox News reported.", "refs": ["324a624d3c"] },
+        { "text": "The attack followed Russian President Vladimir Putin's vow of a 'painful' response to Ukraine's attacks this week on the Kerch Bridge, DW reported.", "refs": ["74cde59029"] },
+        { "text": "The strike came hours after two Russian missiles and a suspected drone came down in Poland, and added to uncertainty about U.S.-brokered talks, according to the AP report carried by The Hindu.", "refs": ["a34b70c8c3"] },
+        { "text": "Zelenskyy said at least 14 people were missing after a Russian drone hit a five-story residential building in Dymer, in the Kyiv region, injuring two others.", "refs": ["c689898bab", "133f726ebd", "8b70c636f9"] },
+        { "text": "Ukraine's Air Force said Russia launched 186 attack drones overnight and that 161 were shot down.", "refs": ["1ea73feb1d"] },
+        { "text": "Zelenskyy said Ukraine's strikes on the Crimean Bridge were a 'fair response' after 109 Russian aerial attacks on bridges in Ukraine, the BBC reported.", "refs": ["88af422b08"] },
+        { "text": "Zelenskyy said U.S. delays in approving Patriot missile transfers were 'difficult to understand' and that Russia had fired 165 missiles in a week, the Kyiv Independent reported.", "refs": ["4133f87a38"] },
+        { "text": "Hours after the Kryvyi Rih strike, Zelenskyy restated Ukraine's aim of joining NATO, France 24 reported.", "refs": ["b0b72e86c2"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many people were wounded in Kryvyi Rih",
+          "positions": [
+            { "claim": "60 wounded, according to the AP report.", "refs": ["f718a78b8a"] },
+            { "claim": "58 wounded, according to Zelenskyy as reported by Fox News.", "refs": ["324a624d3c"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "7df68769e0", "note": "Calls it a 'triple tap' strike, stressing repeated hits on the same place." },
+        { "ref": "324a624d3c", "note": "Pairs the strike with Zelenskyy's criticism of a Putin-Trump meeting." },
+        { "ref": "74cde59029", "note": "Short and factual; the summary ties the strike to Putin's promised retaliation." },
+        { "ref": "b0b72e86c2", "note": "Links the attack to Ukraine's renewed push for NATO membership." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c4bc1d2292", "takeaway": "Headline only: wire story on the missile attack and casualties.", "read_full": false },
+        { "ref": "f718a78b8a", "takeaway": "Carries the AP report; summary gives two dead and 60 wounded.", "read_full": false },
+        { "ref": "a34b70c8c3", "takeaway": "Summary of the AP report: adds the Poland incident and the effect on talks.", "read_full": false },
+        { "ref": "74cde59029", "takeaway": "Summary only: connects the strike to the Kerch Bridge attacks.", "read_full": false },
+        { "ref": "324a624d3c", "takeaway": "Summary only: Zelenskyy's account, including the child killed.", "read_full": false },
+        { "ref": "7df68769e0", "takeaway": "Headline only: describes a 'triple tap' strike.", "read_full": false },
+        { "ref": "aedff471d1", "takeaway": "Summary only: casualties and Zelenskyy's NATO remarks.", "read_full": false },
+        { "ref": "b0b72e86c2", "takeaway": "Summary only: NATO membership and security guarantees.", "read_full": false },
+        { "ref": "c689898bab", "takeaway": "Headline only: 14 missing in the Kyiv region.", "read_full": false },
+        { "ref": "133f726ebd", "takeaway": "Live-blog summary: details of the Dymer building strike.", "read_full": false },
+        { "ref": "8b70c636f9", "takeaway": "Summary only: people feared trapped under rubble.", "read_full": false },
+        { "ref": "1ea73feb1d", "takeaway": "Summary only: Air Force drone figures for the night.", "read_full": false },
+        { "ref": "88af422b08", "takeaway": "Summary only: Zelenskyy defends the bridge strikes.", "read_full": false },
+        { "ref": "4133f87a38", "takeaway": "Summary only: Zelenskyy's appeal for Patriot missiles.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "indonesia-candy-factory-fire",
+      "headline": "Dozens of workers missing after fire destroys Indonesian candy factory",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "A fire tore through a confectionery factory in Indonesia's Banten province, west of Jakarta. A rescue official said three people were killed and 36 workers were unaccounted for; Reuters later reported that police had recovered seven body bags and that about 50 people were missing. Firefighters were still putting out hotspots more than a day after the blaze began, and no cause has been reported.",
+      "why_it_matters": "With dozens of workers still unaccounted for, the death toll could rise well beyond the confirmed figure. It raises questions about fire safety in the factories that make everyday goods.",
+      "background": "The fire broke out at the PT Fonusa Agung Mulia factory in Serang district, in Banten province on the western end of Java island. Drone footage showed large parts of the plant destroyed. Relatives of missing workers gathered at the factory entrance waiting for news. Counts of the dead and missing have differed between officials and over time as searchers work through the site.",
+      "facts": [
+        { "text": "A fire swept through a candy factory in Indonesia's Banten province, and a rescue official said three people were dead and 36 workers unaccounted for.", "refs": ["4aca8d2eb9", "87321b68fd", "3684e9678a"] },
+        { "text": "The blaze broke out at the PT Fonusa Agung Mulia factory in Serang district, The Hindu reported.", "refs": ["fe345e8f7d"] },
+        { "text": "Large parts of the facility were destroyed.", "refs": ["f7c615c459", "3684e9678a"] },
+        { "text": "Relatives of the missing gathered at the factory entrance seeking information, the Guardian reported.", "refs": ["3684e9678a"] },
+        { "text": "Police recovered seven body bags and rescuers were searching for about 50 missing workers on Sunday, with firefighters still tackling hotspots more than a day after the fire started, according to Reuters.", "refs": ["b0ffab6108", "d497335790"] },
+        { "text": "One body bag might hold remains of more than one person, according to the Reuters report carried by the South China Morning Post.", "refs": ["d497335790"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many people are dead and missing",
+          "positions": [
+            { "claim": "Three dead and 36 missing, according to an Indonesian rescue official.", "refs": ["4aca8d2eb9", "87321b68fd", "3684e9678a"] },
+            { "claim": "Seven body bags recovered and about 50 missing, according to Reuters citing police.", "refs": ["b0ffab6108", "d497335790"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "f2197902a9", "note": "Leads with the lower confirmed toll and 'dozens' unaccounted for." },
+        { "ref": "b0ffab6108", "note": "Uses the higher figures and counts 'body bags' rather than confirmed deaths." },
+        { "ref": "3684e9678a", "note": "Similar toll to the AP; the summary dwells on waiting relatives." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f2197902a9", "takeaway": "Headline only: three dead, dozens unaccounted for.", "read_full": false },
+        { "ref": "4aca8d2eb9", "takeaway": "Carries the AP report; summary gives the figure of 36 missing.", "read_full": false },
+        { "ref": "fe345e8f7d", "takeaway": "Summary only: names the factory and district.", "read_full": false },
+        { "ref": "f7c615c459", "takeaway": "Summary only: at least three dead and much of the plant destroyed.", "read_full": false },
+        { "ref": "87321b68fd", "takeaway": "Summary only: three killed, 36 missing.", "read_full": false },
+        { "ref": "3684e9678a", "takeaway": "Summary only: families at the gate and drone footage of the damage.", "read_full": false },
+        { "ref": "b0ffab6108", "takeaway": "Headline only: seven body bags, 50 missing.", "read_full": false },
+        { "ref": "d497335790", "takeaway": "Summary only (paywalled): Reuters details on the search and body bags.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "south-korea-education-minister-resigns",
+      "headline": "South Korea's education minister resigns over AI cheating scandal and exam-day checks",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "South Korea's education minister, Choi Kyo-jin, resigned on Sunday, saying he had failed to prepare adequately for this week's national college entrance exam. Anti-cheating measures announced at the last minute, including a phone ban, eyeglass inspections and checks for hidden cameras, caused confusion and public anger. The scare began a week earlier when the top scorer on a national tax accountant exam admitted cheating with a miniature camera, a smartphone and AI.",
+      "why_it_matters": "It shows how quickly cheap AI tools can undermine trust in high-stakes tests, and how hard it is for officials to respond without disrupting honest test-takers. Schools and licensing bodies elsewhere face the same problem.",
+      "background": "South Korea's college entrance exam, known as the CSAT or Suneung, is a one-day test taken each November that largely decides university admission. On Nov. 15 the top scorer in a national tax accountant exam confessed to using a hidden miniature camera and a smartphone to get AI help for a near-perfect score. That set off fears that students could do the same days later. The government refused to postpone the exam and instead rushed in new security checks, which drew a public backlash.",
+      "facts": [
+        { "text": "Education Minister Choi Kyo-jin resigned on Sunday.", "refs": ["f908da6e29", "3d97e0803e", "c7fc734c25"] },
+        { "text": "Choi said he had 'failed to prepare adequately' for the entrance exams, the Guardian reported.", "refs": ["f908da6e29"] },
+        { "text": "Choi acknowledged that last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos, the BBC reported.", "refs": ["3d97e0803e"] },
+        { "text": "The top scorer in a national tax accountant exam confessed on Nov. 15 to using a miniature camera and smartphone to achieve a near-perfect score.", "refs": ["bed0fac00d", "2b6d139f92", "c7fc734c25"] },
+        { "text": "This year's exam had phones banned and checks for cameras hidden in clothing, the Guardian reported.", "refs": ["f908da6e29"] },
+        { "text": "New measures including loud phone alerts and eyeglass inspections were announced two days before the exam, and public backlash followed quickly, the New York Times reported.", "refs": ["1d8202408f"] },
+        { "text": "The government had ruled out postponing the exam.", "refs": ["world-w7"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f908da6e29", "note": "Puts the AI cheating scandal at the center." },
+        { "ref": "1d8202408f", "note": "Says he resigned over the anti-cheating rules themselves, not the cheating." },
+        { "ref": "34761e9a11", "note": "Stresses public backlash against the exam checks." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f908da6e29", "takeaway": "Summary only: Choi's quoted admission and the exam security steps.", "read_full": false },
+        { "ref": "3d97e0803e", "takeaway": "Summary only: Choi concedes the measures caused chaos.", "read_full": false },
+        { "ref": "c7fc734c25", "takeaway": "Summary only: the tax exam confession days before the entrance exam.", "read_full": false },
+        { "ref": "bed0fac00d", "takeaway": "Summary only: how the tax exam cheating was done.", "read_full": false },
+        { "ref": "2b6d139f92", "takeaway": "Summary only: describes 'exam security chaos'.", "read_full": false },
+        { "ref": "1d8202408f", "takeaway": "Headline and summary only (paywalled): the late rule changes and backlash.", "read_full": false },
+        { "ref": "34761e9a11", "takeaway": "Headline and summary only (paywalled): backlash over the checks.", "read_full": false },
+        { "ref": "world-w7", "takeaway": "Earlier Korean report that the government would not delay the exam.", "read_full": false },
+        { "ref": "world-w8", "takeaway": "Earlier Korean report on a well-known instructor's call to postpone the exam.", "read_full": false }
+      ],
+      "social": "Before the exam, a well-known South Korean exam-prep instructor publicly urged that it be postponed over AI cheating fears, Korean media reported."
+    },
+    {
+      "id": "nigeria-funeral-boat-capsize",
+      "headline": "At least 24 dead after boat carrying mourners to a funeral capsizes in Nigeria",
+      "region": "Africa",
+      "importance": 2,
+      "summary": "A boat taking people to a funeral overturned in southern Nigeria, killing at least 24. Authorities have not said how many passengers were on board, so the number of missing is unknown.",
+      "why_it_matters": "Deadly boat accidents happen repeatedly in Nigeria, where many communities depend on river transport. Each one renews questions about how safely passengers are being carried.",
+      "background": "Many Nigerians in riverside areas travel by wooden boats because roads are poor or absent. Deadly capsizings are frequent, and DW called this the latest in a series of such accidents in the country. No cause has been reported for this one. The digest's reports do not name the state or river.",
+      "facts": [
+        { "text": "At least 24 people died when a boat carrying people to a funeral capsized in Nigeria.", "refs": ["90cf2d084a", "e8f515b97b", "ed913bf109"] },
+        { "text": "The boat overturned in southern Nigeria, DW reported.", "refs": ["ed913bf109"] },
+        { "text": "Authorities have not said how many passengers were believed to be on board, according to the AP report.", "refs": ["8dbb5efc4b"] },
+        { "text": "It was the latest in a series of deadly boat accidents in the country, DW reported.", "refs": ["ed913bf109"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "90cf2d084a", "note": "Leads with the toll and the funeral trip." },
+        { "ref": "e8f515b97b", "note": "Presents 24 as a rising death toll." },
+        { "ref": "e5558c9a08", "note": "Does not name Nigeria in the headline." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "90cf2d084a", "takeaway": "Headline only: wire story with the toll.", "read_full": false },
+        { "ref": "8dbb5efc4b", "takeaway": "Carries the AP report; summary notes the passenger count is unknown.", "read_full": false },
+        { "ref": "ed913bf109", "takeaway": "Summary only: location in the south and the pattern of accidents.", "read_full": false },
+        { "ref": "e8f515b97b", "takeaway": "Headline only: toll rises to 24.", "read_full": false },
+        { "ref": "e5558c9a08", "takeaway": "Headline only (paywalled).", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w1", "url": "https://www.fbi.gov/wanted/cei/fausto-isidro-meza-flores", "title": "Fausto Isidro Meza-Flores", "outlet": "FBI" },
+    { "id": "world-w2", "url": "https://www.timeslive.co.za/news/world/2026-11-19-cop31-negotiators-strip-out-mention-of-fossil-fuels-in-draft-deal-text/", "title": "COP31 negotiators strip out mention of fossil fuels in draft deal text", "outlet": "TimesLIVE" },
+    { "id": "world-w3", "url": "https://www.downtoearth.org.in/climate-change/cop31-cover-decision-draft-drops-fossil-fuel-phaseout-language-retains-35-by-35-electrification-target", "title": "COP31: Cover decision draft drops fossil fuel phaseout language, retains '35 by 35' electrification target", "outlet": "Down To Earth" },
+    { "id": "world-w4", "url": "https://www.ctvnews.ca/world/russia-ukraine-war/article/finland-says-it-detects-strike-on-russian-warship-in-baltic-sea/", "title": "Finland says it detects strike on Russian warship in Baltic Sea", "outlet": "CTV News" },
+    { "id": "world-w5", "url": "https://www.kuow.org/npr-news/2026-11-17/iran-launches-a-third-round-of-strikes-on-bahrain-host-of-u-s-navys-5th-fleet", "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet", "outlet": "NPR (via KUOW)" },
+    { "id": "world-w6", "url": "https://www.aljazeera.com/amp/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island", "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island", "outlet": "Al Jazeera" },
+    { "id": "world-w7", "url": "https://www.koreajoongangdaily.com/korea/govt-rules-out-postponing-college-entrance-exam-amid-cheating-fears/12977091", "title": "Gov't rules out postponing college entrance exam amid cheating fears", "outlet": "Korea JoongAng Daily" },
+    { "id": "world-w8", "url": "https://sports.khan.co.kr/en/article/202611170923007", "title": "\"The CSAT We Knew Is Over\"... Star instructor Hyun Woo-jin urges 'Postponing the CSAT' amid AI cheating concerns", "outlet": "Kyunghyang Shinmun" }
+  ]
+}

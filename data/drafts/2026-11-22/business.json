@@ -1,0 +1,187 @@
+{
+  "stories": [
+    {
+      "id": "ai-selloff-worst-tech-week",
+      "headline": "Tech stocks close their worst week since 2020 as doubts about AI spending spread",
+      "region": "Markets",
+      "importance": 5,
+      "summary": "US stocks fell sharply again last week, with technology shares posting what CNBC called their worst week on Wall Street since 2020. Investors sold AI-linked companies even after Nvidia reported earnings and Anthropic completed a record stock offering. This week is shortened by Thanksgiving, with reports on economic growth and inflation due Wednesday.",
+      "why_it_matters": "Big technology companies make up a large share of the index funds in most retirement accounts, so a prolonged drop in those shares shows up directly in 401(k) balances.",
+      "background": "For about three years, stock gains have been led by companies building or supplying artificial intelligence, especially the chipmaker Nvidia. This month investors began questioning whether the hundreds of billions being spent on data centers will pay off, and the Nasdaq fell more than 10 percent from its October high, a drop traders call a correction. The selling deepened after Nvidia's chief executive, Jensen Huang, resigned on Nov. 12. Last week brought two events that some investors hoped would steady things, Nvidia's quarterly results and Anthropic's stock market debut, but shares kept falling.",
+      "facts": [
+        { "text": "CNBC reported that last week was the worst for technology stocks on Wall Street since 2020, and that Nvidia closed out its longest run of weekly losses since 2008.", "refs": ["0382cab26d"] },
+        { "text": "The S&P 500 and the Nasdaq each closed down more than 2 percent on Thursday, Nov. 19, the day Anthropic began trading.", "refs": ["business-w1", "business-w2"] },
+        { "text": "US stocks extended their losses after Nvidia's earnings report on Nov. 18 did not ease investors' concerns about AI.", "refs": ["business-w3", "business-w4"] },
+        { "text": "The Nasdaq had already closed more than 10 percent below its Oct. 6 closing high earlier in the sell-off, according to Reuters figures cited by Wealth Professional.", "refs": ["business-w5"] },
+        { "text": "The New York Times attributed the market drop to worries about spending on artificial intelligence.", "refs": ["6d38a5f3e8"] },
+        { "text": "Jonathan Golub, chief equity strategist at Seaport Research Partners, told Bloomberg the sell-off looks overdone, saying demand for computing power remains strong and chipmakers' earnings forecasts are still rising.", "refs": ["1db8d42f6e"] },
+        { "text": "The Bureau of Economic Analysis is scheduled to publish its second estimate of third-quarter economic growth and October's personal income and spending report, which includes the Fed's preferred inflation measure, on Wednesday, Nov. 25.", "refs": ["business-w6", "793ef9faf8"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "730625e1b8", "note": "Asks whether the bubble has already burst and likens the sell-off to the dot-com collapse." },
+        { "ref": "1db8d42f6e", "note": "Gives the floor to a strategist who argues the selling has gone too far." },
+        { "ref": "0382cab26d", "note": "Sets the record IPO against the scale of the week's losses." },
+        { "ref": "c6a05d5204", "note": "Calls it a sudden reversal and turns to what comes next." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "0382cab26d", "takeaway": "Headline and summary only: supplies the worst-week-since-2020 and Nvidia losing-streak comparisons.", "read_full": false },
+        { "ref": "6d38a5f3e8", "takeaway": "Headline and summary only (paywalled): ties the market drop to worries about AI spending.", "read_full": false },
+        { "ref": "730625e1b8", "takeaway": "Headline and summary only (paywalled): compares the sell-off to the dot-com bust.", "read_full": false },
+        { "ref": "1db8d42f6e", "takeaway": "Summary only (paywalled video): a strategist's case that the sell-off is overdone.", "read_full": false },
+        { "ref": "c6a05d5204", "takeaway": "Headline only (paywalled): the market's reversal and what may follow.", "read_full": false },
+        { "ref": "793ef9faf8", "takeaway": "Headline only (paywalled): inflation, growth and consumer mood are this week's data focus.", "read_full": false },
+        { "ref": "business-w1", "takeaway": "Search result only: stocks closed down more than 2 percent on the day of Anthropic's debut.", "read_full": false },
+        { "ref": "business-w2", "takeaway": "Search result only: Reuters market report saying the debut did not revive enthusiasm for AI shares.", "read_full": false },
+        { "ref": "business-w3", "takeaway": "Search result only: stocks kept falling after Nvidia's earnings.", "read_full": false },
+        { "ref": "business-w4", "takeaway": "Search result only: the tech sell-off deepened after Nvidia's results.", "read_full": false },
+        { "ref": "business-w5", "takeaway": "Search result only: the Nasdaq's slide into a correction.", "read_full": false },
+        { "ref": "business-w6", "takeaway": "Search result only: official schedule listing the Nov. 25 growth and income reports.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nvidia-sec-probe",
+      "headline": "Nvidia reported to face SEC investigation over its accounting and disclosures",
+      "region": "Regulation",
+      "importance": 4,
+      "summary": "The Securities and Exchange Commission is investigating Nvidia, according to reports by The New York Times and other outlets that cite unnamed sources. The reports say the inquiry concerns the company's accounting and whether its disclosures misled investors, after questions about chip sales in Asia. California's attorney general is also reported to be considering action.",
+      "why_it_matters": "Nvidia is one of the largest holdings in most stock index funds, so an inquiry into whether its reported sales can be trusted affects nearly anyone with a retirement account.",
+      "background": "Nvidia makes most of the chips used to train and run artificial intelligence systems, which made it one of the most valuable companies in the world. US rules restrict sales of its most advanced chips to China. The Wall Street Journal has reported that scrutiny centers on sales to data-center companies in Southeast Asia, including a Singapore-based firm suspected of passing chips on to China. Jensen Huang, the company's co-founder and chief executive, resigned on Nov. 12, and chief financial officer Colette Kress is running the company on an interim basis. In 2022 Nvidia paid $5.5 million to settle SEC charges that it had not told investors how much of its gaming revenue came from cryptocurrency mining.",
+      "facts": [
+        { "text": "The New York Times reported that Nvidia is said to face an SEC probe into its accounting practices, and that questions about its accounting surfaced amid revelations about its chip sales in Asia.", "refs": ["daedb577d0"] },
+        { "text": "Other outlets reported that the SEC is investigating whether Nvidia misled investors.", "refs": ["business-w7", "business-w8"] },
+        { "text": "California's attorney general is considering action against the company, InvestmentNews reported.", "refs": ["business-w7"] },
+        { "text": "The inquiry was reported after Jensen Huang's departure as chief executive.", "refs": ["business-w9", "business-w7"] },
+        { "text": "Nvidia shares have now fallen for more consecutive weeks than at any time since 2008, CNBC reported.", "refs": ["0382cab26d"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "daedb577d0", "note": "Says the company is 'said to' face a probe, signaling unnamed sources, and calls its Asian chip sales questionable." },
+        { "ref": "0382cab26d", "note": "Treats Nvidia mainly as a stock in decline, measured by its losing streak." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "daedb577d0", "takeaway": "Headline and summary only (paywalled): the report of an SEC accounting probe.", "read_full": false },
+        { "ref": "0382cab26d", "takeaway": "Headline and summary only: Nvidia's weekly losing streak.", "read_full": false },
+        { "ref": "business-w7", "takeaway": "Search result only: the SEC probe and the California attorney general's interest.", "read_full": false },
+        { "ref": "business-w8", "takeaway": "Search result only: the SEC is examining whether investors were misled.", "read_full": false },
+        { "ref": "business-w9", "takeaway": "Search result only: places the inquiry after Huang's exit.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "anthropic-record-ipo",
+      "headline": "Anthropic's record stock market debut loses much of its first-day gain",
+      "region": "IPO",
+      "importance": 4,
+      "summary": "Anthropic, the company behind the Claude AI system, began trading on the Nasdaq on Thursday in the largest initial public offering on record. Its shares opened about a third above the offering price, gave back roughly half of that gain by the close, and then had what The New York Times called a rocky first full day as the wider market fell.",
+      "why_it_matters": "The listing lets ordinary investors buy into a major AI developer for the first time, and it will soon show up in index funds, at a moment when investors are split on what AI companies are worth.",
+      "background": "Anthropic is one of the leading developers of artificial intelligence systems and had been privately held until now. An initial public offering is the first sale of a company's shares to the general public. Its debut passed the previous record set by SpaceX's listing in June. The offering came during a month-long sell-off in AI-related stocks, so it was widely watched as a test of investor appetite for the sector.",
+      "facts": [
+        { "text": "Anthropic priced its shares at $83 and they opened at $111.50 on the Nasdaq on Nov. 19, about 34 percent higher.", "refs": ["business-w10", "business-w1"] },
+        { "text": "The shares closed their first day at $97.17, 17 percent above the offering price, according to Decrypt.", "refs": ["business-w11"] },
+        { "text": "The company's market value reached as much as $2.1 trillion during its debut, exceeding SpaceX's June listing.", "refs": ["business-w12"] },
+        { "text": "The offering broke records for an initial public offering, The New York Times and CNBC reported.", "refs": ["6d38a5f3e8", "0382cab26d"] },
+        { "text": "The first full day of trading was rocky as markets fell on worries about AI spending, The New York Times reported.", "refs": ["6d38a5f3e8"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "6d38a5f3e8", "note": "Presents the debut as a sign of a gap between Silicon Valley's confidence and Wall Street's doubts." },
+        { "ref": "0382cab26d", "note": "Stresses the timing: a record offering in the middle of a steep tech sell-off." },
+        { "ref": "3e28974477", "note": "Carries an executive's upbeat view that the offering marks the start of a 'gold rush' for small businesses." },
+        { "ref": "699965c167", "note": "Judges the offering by whether it calmed nervous investors, and says it did not." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "6d38a5f3e8", "takeaway": "Headline and summary only (paywalled): record offering, then a rocky first full day.", "read_full": false },
+        { "ref": "0382cab26d", "takeaway": "Headline and summary only: the debut alongside the week's tech losses.", "read_full": false },
+        { "ref": "3e28974477", "takeaway": "Headline only: an executive's optimistic reading of the offering.", "read_full": false },
+        { "ref": "699965c167", "takeaway": "Summary only (paywalled video): the offering did not settle AI worries.", "read_full": false },
+        { "ref": "business-w1", "takeaway": "Search result only: the start of trading and the falling market that day.", "read_full": false },
+        { "ref": "business-w10", "takeaway": "Search result only: the offering price and opening price.", "read_full": false },
+        { "ref": "business-w11", "takeaway": "Search result only: the first-day closing price, alongside falling chip stocks.", "read_full": false },
+        { "ref": "business-w12", "takeaway": "Search result only: peak valuation and the comparison with SpaceX.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "asia-market-stabilization",
+      "headline": "South Korea and China act to steady their stock markets after AI-driven losses",
+      "region": "Asia",
+      "importance": 3,
+      "summary": "South Korea's top financial officials held an emergency meeting on Sunday and announced step-by-step measures to calm markets, including having a stock stabilization fund ready, Bloomberg reported. China separately lowered the margin requirement for borrowing to buy stocks to 80 percent. Bloomberg also reported that Chinese AI stocks have lost $1.7 trillion in value.",
+      "why_it_matters": "The moves show the AI sell-off is global, which matters for anyone holding international stock funds. All of today's reporting on these steps comes from one outlet, Bloomberg.",
+      "background": "The stock markets of South Korea, Japan, Taiwan and China lean heavily on chipmakers and other technology companies that supply the AI industry, so they tend to follow US tech shares. Shares in Tokyo and Seoul fell steeply on Nov. 6 after a US tech sell-off. A stabilization fund is a pool of money, usually put up by financial institutions at the government's request, that buys shares when prices are falling fast. A margin requirement is the amount of an investor's own money needed to borrow for stock purchases; lowering it makes borrowing easier.",
+      "facts": [
+        { "text": "South Korea announced phased measures to calm markets, including making sure a stock stabilization fund is ready to step in, top financial officials said after an emergency meeting on Sunday, according to Bloomberg.", "refs": ["95fdff1faa"] },
+        { "text": "China lowered its margin requirement for stock financing to 80 percent to support liquidity as leveraged trading declined, Bloomberg reported.", "refs": ["e4c9ff8bbf"] },
+        { "text": "Bloomberg put the loss in value of Chinese AI stocks at $1.7 trillion.", "refs": ["216430f083"] },
+        { "text": "Stock markets in Tokyo and Seoul fell sharply on Nov. 6 following a US technology sell-off.", "refs": ["business-w13", "business-w14"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "95fdff1faa", "note": "Emphasizes the government's response and calls the markets volatile." },
+        { "ref": "216430f083", "note": "Emphasizes investors' losses, describing a once-popular trade that turned into a losing bet." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "95fdff1faa", "takeaway": "Headline and summary only (paywalled): South Korea's emergency meeting and measures.", "read_full": false },
+        { "ref": "e4c9ff8bbf", "takeaway": "Headline and summary only (paywalled): China's margin rule change.", "read_full": false },
+        { "ref": "216430f083", "takeaway": "Headline and summary only (paywalled): the size of China's AI stock losses.", "read_full": false },
+        { "ref": "business-w13", "takeaway": "Search result only: the Nov. 6 Asian tech sell-off.", "read_full": false },
+        { "ref": "business-w14", "takeaway": "Search result only: the Nov. 6 falls in Tokyo and Seoul.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "home-sales-16-year-low",
+      "headline": "Home sales fall to slowest pace since 2010 as mortgage rates top 7 percent",
+      "region": "Housing",
+      "importance": 3,
+      "summary": "Sales of previously owned US homes fell 5.5 percent in October to the slowest pace in 16 years, the National Association of Realtors reported. With mortgage rates above 7 percent and prices high, real-estate agents told MarketWatch that the few remaining buyers now have the upper hand in negotiations.",
+      "why_it_matters": "A 7 percent mortgage puts monthly payments out of reach for many would-be buyers, while people who do buy may find sellers more willing to cut prices or pay for repairs.",
+      "background": "Existing-home sales, which count completed purchases of previously owned houses and apartments, are the main gauge of the US housing market. Mortgage rates track long-term government borrowing costs, which have risen this year along with inflation. Higher rates raise monthly payments for buyers and discourage owners with older, cheaper mortgages from selling. Pending sales, which count signed contracts and point to future closings, also fell in October.",
+      "facts": [
+        { "text": "Existing-home sales fell 5.5 percent in October from September, the National Association of Realtors said, to the slowest pace in 16 years.", "refs": ["business-w15", "business-w16"] },
+        { "text": "Pending home sales fell 4.7 percent in October, the association said.", "refs": ["business-w17"] },
+        { "text": "Real-estate agents told MarketWatch that buyers still in the market, facing record-high prices and 7 percent mortgage rates, are starting to set the terms of deals.", "refs": ["70723a2bba"] },
+        { "text": "Some homeowners are renting out their houses instead of selling and using the rent to cover their mortgage payments, The New York Times reported.", "refs": ["4a3fc25ec6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "70723a2bba", "note": "Leads with buyers' new bargaining power, quoting an agent who says they are 'out for blood'." },
+        { "ref": "4a3fc25ec6", "note": "Looks at owners who avoid selling by becoming landlords, and the difficulties that come with it." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "70723a2bba", "takeaway": "Headline and summary only: describes sales as at a record low and says buyers are gaining leverage.", "read_full": false },
+        { "ref": "4a3fc25ec6", "takeaway": "Headline and summary only (paywalled): owners renting out homes rather than selling.", "read_full": false },
+        { "ref": "business-w15", "takeaway": "Search result only: the Realtors' October sales release.", "read_full": false },
+        { "ref": "business-w16", "takeaway": "Search result only: the 16-year-low comparison.", "read_full": false },
+        { "ref": "business-w17", "takeaway": "Search result only: the Realtors' October pending-sales release.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "business-w1", "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo", "title": "Anthropic starts trading in the US after blockbuster IPO", "outlet": "Al Jazeera" },
+    { "id": "business-w2", "url": "https://www.thestandard.com.hk/finance/article/349077/Wall-Street-ends-sharply-lower-as-Anthropics-debut-fails-to-revive-AI-fervor", "title": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor", "outlet": "The Standard (Reuters)" },
+    { "id": "business-w3", "url": "https://www.businesstoday.com.my/2026/11/18/us-stocks-extend-losses-as-nvidia-earnings-fail-to-ease-ai-concerns/", "title": "US stocks extend losses as Nvidia earnings fail to ease AI concerns", "outlet": "Business Today" },
+    { "id": "business-w4", "url": "https://seekingalpha.com/news/4557921-nasdaq-drops-nearly-2-percent-as-the-tech-selloff-deepens-post-nvidias-earnings", "title": "Nasdaq drops nearly 2% as the tech selloff deepens post Nvidia's earnings", "outlet": "Seeking Alpha" },
+    { "id": "business-w5", "url": "https://www.wealthprofessional.ca/investments/equity-markets/nasdaq-slides-into-correction-as-ai-selloff-hits-third-day/394028", "title": "Nasdaq slides into correction as AI selloff hits third day", "outlet": "Wealth Professional" },
+    { "id": "business-w6", "url": "https://www.bea.gov/news/schedule/", "title": "Release Schedule", "outlet": "Bureau of Economic Analysis" },
+    { "id": "business-w7", "url": "https://www.investmentnews.com/equities/embattled-nvidia-faces-sec-probe-as-california-attorney-general-mulls-action/269054", "title": "Embattled Nvidia faces SEC probe as California attorney general mulls action", "outlet": "InvestmentNews" },
+    { "id": "business-w8", "url": "https://pymnts.com/legal/2026/sec-investigating-whether-nvidia-misled-investors", "title": "SEC Investigating Whether Nvidia Misled Investors", "outlet": "PYMNTS" },
+    { "id": "business-w9", "url": "https://www.crowdfundinsider.com/?p=323680", "title": "SEC Opens Inquiry into Nvidia's Disclosures Following Jensen Huang's Exit", "outlet": "Crowdfund Insider" },
+    { "id": "business-w10", "url": "https://www.techrepublic.com/article/news-anthropic-ipo-nasdaq-trading-debut/", "title": "Anthropic IPO: Claude Maker Opens at $111.50 in Record Nasdaq Debut", "outlet": "TechRepublic" },
+    { "id": "business-w11", "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price", "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price", "outlet": "Decrypt" },
+    { "id": "business-w12", "url": "https://www.businessday.co.za/world/international-companies/2026-11-19-anthropic-hits-21-trillion-valuation-in-nasdaq-debut-tops-spacexs-june-listing/", "title": "Anthropic hits $2.1-trillion valuation in Nasdaq debut, tops SpaceX's June listing", "outlet": "Business Day" },
+    { "id": "business-w13", "url": "https://aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading", "title": "Tech stock rout, driven by US AI fears, continues in Asian trading", "outlet": "Al Jazeera" },
+    { "id": "business-w14", "url": "https://kuwaittimes.com/article/53134/business/shares-plunge-in-tokyo-and-seoul-after-us-tech-rout/", "title": "Shares plunge in Tokyo and Seoul after US tech rout", "outlet": "Kuwait Times" },
+    { "id": "business-w15", "url": "https://www.nar.realtor/newsroom/existing-home-sales-decreased-5-5-percent-october-nar-report", "title": "Existing-Home Sales Decreased 5.5 Percent in October", "outlet": "National Association of Realtors" },
+    { "id": "business-w16", "url": "https://stockanalysis.com/news/existing-home-sales-16-year-low-october-2026/", "title": "Existing home sales fall 5.5% in October to their slowest pace in 16 years", "outlet": "Stock Analysis" },
+    { "id": "business-w17", "url": "https://www.nar.realtor/newsroom/pending-home-sales-decreased-4-7-percent-october-2026", "title": "Pending Home Sales Decreased 4.7 Percent in October 2026", "outlet": "National Association of Realtors" }
+  ]
+}

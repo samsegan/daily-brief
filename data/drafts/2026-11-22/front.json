@@ -1,0 +1,33 @@
+{
+  "overview": "The FBI is investigating an apparent hack of the National Crime Information Center, the database police across the country use to check fugitives, missing persons and criminal histories, the Associated Press reported, citing a source. President Trump signed an executive order telling federal contractors to consult the White House before answering requests from Congress, weeks before Democrats take control in January, and said he would work with Democrats to cap credit card interest rates at 10%. Abroad, Mexican forces captured the cartel leader known as \"El Chapo Isidro,\" one of the FBI's 10 most wanted fugitives, in a Sinaloa operation that left at least 11 people dead; Bahrain said an Iranian strike hit an industrial site; and U.N. climate talks in Turkey ran into a second day of overtime with fossil fuels still absent from the draft deal. In New York, a federal judge declined to release Oscar Belgal, the man shot by immigration agents in the Bronx last month, and families of the victims of a fatal Brooklyn building collapse criticized the city at a vigil.",
+  "markets": {
+    "summary": "U.S. markets were closed for the weekend after what CNBC called technology's worst week on Wall Street since 2020. The S&P 500 and the Dow ended Friday in a correction, meaning at least 10% below their recent highs, as investors sold companies tied to artificial intelligence; Nvidia finished its longest run of weekly losses since 2008, CNBC reported, days after Anthropic's record initial public offering. The selling spread to Asia, where Japan's Nikkei 225 fell about 5% on Friday. Over the weekend governments stepped in: South Korea's financial officials held an emergency meeting on Sunday and said a stock stabilization fund, a pool of money that can buy shares to steady prices, would be kept ready, and China loosened the rules on borrowing to buy stocks, Bloomberg reported. U.S. trading resumes Monday in a week shortened by Thanksgiving.",
+    "movers": [
+      { "symbol": "NIKKEI225", "why": "Japan's main index dropped sharply on Friday as the sell-off in AI and chip shares that began in the U.S. hit Asian technology companies." },
+      { "symbol": "DJIA", "why": "Fell again on Friday and closed in a correction, a sign the selling reached beyond technology shares to the wider market." },
+      { "symbol": "CBBTCUSD", "why": "Edged up on Saturday but is still down about a quarter over the past month, having fallen alongside other risky investments; the reason for Saturday's bounce is unclear." },
+      { "symbol": "MORTGAGE30US", "why": "The average 30-year mortgage rate rose in the latest weekly reading even as Treasury yields slipped; the cause of the jump is unclear." }
+    ],
+    "concept": {
+      "term": "Buying on margin",
+      "explanation": "Buying on margin means borrowing money from a broker to buy stocks, putting up only part of the price yourself. The margin requirement is the share you must cover with your own cash; regulators and brokers raise it to cool speculation and lower it, as China did this weekend, to encourage buying. Borrowing magnifies gains when prices rise, but when they fall the broker can demand more cash or sell your shares, a \"margin call,\" and those forced sales can push a falling market down faster. Even if you never borrow to invest, that chain reaction can deepen the swings in a retirement account that holds stock funds."
+    },
+    "watch": [
+      "Tue Nov 24: Dell and Best Buy report earnings",
+      "Wed Nov 25: Second estimate of third-quarter GDP and the October PCE inflation report (8:30 a.m. ET)",
+      "Thu Nov 26: U.S. stock markets closed for Thanksgiving",
+      "Fri Nov 27: Black Friday; U.S. stock markets close early at 1 p.m. ET",
+      "Tue-Wed Dec 8-9: Federal Reserve meeting, with a rate decision on Dec. 9"
+    ]
+  },
+  "trending": [
+    { "title": "Grand Theft Auto VI", "context": "Rockstar Games said the game took in a record $3.79 billion in retail sales on its first day, which Wikipedia's news summary calls the most for any entertainment product.", "signal": "wikipedia_news" },
+    { "title": "Riemann hypothesis", "context": "The page drew about 388,000 views after mathematician Levent Alpöge announced on Nov. 20 that he had proved the 167-year-old problem about prime numbers working with the AI model Claude, according to an essay in The Guardian by mathematician Ken Ono.", "signal": "wikipedia" },
+    { "title": "Jensen Huang", "context": "Wikipedia's news summary notes the Nvidia chief executive's resignation amid allegations that he was targeted by a Chinese spy and had extramarital affairs.", "signal": "wikipedia_news" },
+    { "title": "Voyager 1", "context": "The probe, launched in 1977, became the first human-made object to reach one light-day from Earth, the distance light travels in 24 hours.", "signal": "wikipedia_news" },
+    { "title": "COP31 draft drops fossil fuels", "context": "Bluesky users are reacting to the latest draft deal at the U.N. climate summit in Turkey, which does not mention fossil fuels as talks run past their deadline.", "signal": "bluesky" },
+    { "title": "JFK assassination", "context": "Searches rose on the anniversary of President John F. Kennedy's killing in Dallas on Nov. 22, 1963.", "signal": "google" },
+    { "title": "Philly Marathon 2026", "context": "People are looking up the Philadelphia Marathon, which is held the weekend before Thanksgiving.", "signal": "google" },
+    { "title": "AI sell-off overshadows Anthropic IPO", "context": "Posts on Bluesky are discussing how the week's slide in technology shares coincided with the AI company's record stock market debut.", "signal": "bluesky" }
+  ]
+}
