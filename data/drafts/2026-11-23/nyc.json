@@ -1,0 +1,179 @@
+{
+  "stories": [
+    {
+      "id": "citi-bike-ebike-price-cap",
+      "headline": "Citi Bike e-bike rides for members to be capped at $3.65 under new Lyft deal",
+      "region": "Transit",
+      "importance": 4,
+      "summary": "Mayor Zohran Mamdani was set to announce a deal with Lyft, which runs Citi Bike, capping a member's 45-minute e-bike ride at $3.65 starting in January, according to The New York Times and Gothamist. The Times reports such a ride can now cost more than $12. Gothamist reports the agreement also freezes membership prices through May 2029.",
+      "why_it_matters": "For the many New Yorkers who use Citi Bike e-bikes to commute or reach the subway, a longer ride would cost about what a subway fare does instead of several times that. The story so far comes from two left-leaning outlets, one of them paywalled.",
+      "background": "Citi Bike is New York's bike-share system, operated by Lyft under a contract with the city's Department of Transportation. Members pay an annual fee plus per-minute charges on electric bikes, and those charges have risen in recent years. Advocates such as Transportation Alternatives campaigned this year for a cap of about $3 on a 45-minute member ride. City officials had said they could not impose a cap until the contract came up for renewal in 2029, and Streetsblog described Lyft as holding considerable leverage in any talks.",
+      "facts": [
+        { "text": "Members' 45-minute e-bike rides will cost $3.65 starting in January, according to the Times and Gothamist.", "refs": ["ea2a73d707", "2116a3f17d"] },
+        { "text": "The Times reports the same ride can currently cost more than $12.", "refs": ["ea2a73d707"] },
+        { "text": "Gothamist reports the agreement with Lyft also freezes membership prices through May 2029.", "refs": ["2116a3f17d"] },
+        { "text": "Earlier this year, riders and advocates pushed for a cap of about $3 on 45-minute electric rides, NY1 reported.", "refs": ["nyc-w1"] },
+        { "text": "Streetsblog reported in October that the city faced a difficult negotiation with Lyft over cheaper rides.", "refs": ["nyc-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "ea2a73d707", "note": "Frames it as cheaper rides next year and credits the mayor's announcement." },
+        { "ref": "2116a3f17d", "note": "Frames it as a price cap won through a deal with Lyft, highlighting the membership freeze." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ea2a73d707", "takeaway": "Headline and summary only (paywalled): the new $3.65 price versus more than $12 today.", "read_full": false },
+        { "ref": "2116a3f17d", "takeaway": "Summary only: the cap and the membership price freeze through May 2029.", "read_full": false },
+        { "ref": "nyc-w1", "takeaway": "August NY1 report on the rider campaign for a roughly $3 cap.", "read_full": false },
+        { "ref": "nyc-w2", "takeaway": "October Streetsblog analysis of the city's weak leverage over Lyft.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mamdani-911-records-release",
+      "headline": "Mamdani releases 84,000 more 9/11 records as city portal tops 11 million visits",
+      "region": "City Hall",
+      "importance": 4,
+      "summary": "Mayor Zohran Mamdani and the city Law Department released another 84,000 records on Sunday about the Sept. 11 attacks and their aftermath, according to amNY and The Hill. amNY reports the release brings the total available to the public to more than 440,000 pages. The online portal for the records has drawn 11 million visits in two months, the Daily News and amNY report.",
+      "why_it_matters": "Tens of thousands of New Yorkers who lived, worked or volunteered near Ground Zero can now read what city officials knew about the air there. The records may matter to people pursuing 9/11 health claims.",
+      "background": "In September, on the attacks' 25th anniversary, the Mamdani administration opened a public portal with about 170,000 pages of city records on air quality and health after 9/11. The release followed a settlement with the advocacy group 9/11 Health Watch, and coverage at the time said the documents suggested officials knew the air was unsafe while telling the public otherwise. A second batch of 40,000 records followed in October. The city has said the Law Department will keep reviewing and posting records over the next year.",
+      "facts": [
+        { "text": "The city released about 84,000 more 9/11-related records on Sunday.", "refs": ["4a840862e7", "6738e42a37"] },
+        { "text": "amNY reports more than 440,000 pages are now available to the public.", "refs": ["4a840862e7"] },
+        { "text": "The records portal has received about 11 million visits in two months.", "refs": ["8bdf4aa1fc", "4a840862e7"] },
+        { "text": "The Hill notes an earlier release showed city leaders misled the public about air quality.", "refs": ["6738e42a37"] },
+        { "text": "The portal launched in September with roughly 170,000 pages, and the city added 40,000 more records in October.", "refs": ["nyc-w3", "nyc-w4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "8bdf4aa1fc", "note": "Leads with public interest in the 'toxin portal' and casts the mayor as ordering more out." },
+        { "ref": "4a840862e7", "note": "Leads with the size of the new release, with traffic as a secondary point." },
+        { "ref": "6738e42a37", "note": "Plain release headline; the summary ties it to the earlier finding that officials lied about the air." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "8bdf4aa1fc", "takeaway": "Headline only: emphasizes 11 million portal visits.", "read_full": false },
+        { "ref": "4a840862e7", "takeaway": "Summary only: details on the release and the 440,000-page total.", "read_full": false },
+        { "ref": "6738e42a37", "takeaway": "Summary only: national framing that recalls officials' misstatements on air quality.", "read_full": false },
+        { "ref": "nyc-w3", "takeaway": "City press release on the September launch of the records portal.", "read_full": false },
+        { "ref": "nyc-w4", "takeaway": "City press release on the October release of 40,000 records.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "chinatown-woman-killed-arrest",
+      "headline": "Homeless man, 25, charged with murder in killing of woman, 62, in Chinatown",
+      "region": "Manhattan",
+      "importance": 3,
+      "summary": "Police have charged a 25-year-old homeless man with murder in the death of a 62-year-old woman at her apartment on the edge of Chinatown, according to The New York Times and Gothamist. Police said he entered the apartment and strangled her, the Times reports. The Daily News reports he also sexually abused her and used a cord.",
+      "why_it_matters": "The case is likely to add to debate over street homelessness, mental health care and public safety in Lower Manhattan, where a similar 2022 killing drew wide attention.",
+      "background": "The woman was found with bruising around her neck outside her apartment, Gothamist reported. The suspect, who police say is homeless, now faces a murder charge in Manhattan. In February 2022, a 35-year-old woman, Christina Yuna Lee, was followed into her Chinatown apartment and killed. A 25-year-old homeless man was charged with murder in that case too.",
+      "facts": [
+        { "text": "A 25-year-old man has been charged with murder in the killing of a 62-year-old woman.", "refs": ["d954c951fb", "d92d75c7c9"] },
+        { "text": "Police said the man, who is homeless, entered her apartment and strangled her.", "refs": ["d954c951fb"] },
+        { "text": "The woman was found with bruising around her neck outside her apartment, Gothamist reported.", "refs": ["d92d75c7c9"] },
+        { "text": "The Daily News reports that the man sexually abused the woman and strangled her with a cord.", "refs": ["a337632f92"] },
+        { "text": "In a 2022 case, a homeless man was charged with killing Christina Yuna Lee in her Chinatown apartment.", "refs": ["nyc-w5"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "d954c951fb", "note": "Leads with the charge and the ages; mentions homelessness only in the summary." },
+        { "ref": "d92d75c7c9", "note": "Puts the NYPD and the suspect's homelessness in the headline." },
+        { "ref": "a337632f92", "note": "Leads with the alleged sexual abuse and the cord." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d954c951fb", "takeaway": "Headline and summary only (paywalled): charge and police account of the strangling.", "read_full": false },
+        { "ref": "d92d75c7c9", "takeaway": "Summary only: where the woman was found and her injuries.", "read_full": false },
+        { "ref": "a337632f92", "takeaway": "Headline only: adds the alleged sexual abuse and use of a cord.", "read_full": false },
+        { "ref": "nyc-w5", "takeaway": "2022 report on the Christina Yuna Lee case, used for background.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "samuelsen-mta-board-residency",
+      "headline": "Hochul's office questions whether union leader Samuelsen lives in New York, putting his MTA board seat at risk",
+      "region": "Transit",
+      "importance": 3,
+      "summary": "Gov. Kathy Hochul's office has told transit union leader John Samuelsen to prove he is a New York resident, City & State reports. Without that proof, his seat on the MTA board could be in jeopardy. The report comes from one outlet so far.",
+      "why_it_matters": "Samuelsen speaks for the workers who run the subways and buses on the board that sets fares and service. Losing his seat would remove a frequent critic of the governor from the board.",
+      "background": "John Samuelsen is international president of the Transport Workers Union of America and formerly led TWU Local 100, which represents most New York City subway and bus workers. He sits on the MTA board in a non-voting seat recommended by the union and traditionally held by organized labor. He has often clashed with Hochul, including over congestion pricing and transit contracts. State law sets residency requirements for MTA board members, and those rules have been contested for past nominees.",
+      "facts": [
+        { "text": "City & State reports Hochul's office has asked Samuelsen to prove he is a New Yorker.", "refs": ["77cd71c4c7"] },
+        { "text": "City & State reports his MTA board seat could be in jeopardy.", "refs": ["77cd71c4c7"] },
+        { "text": "Samuelsen holds a non-voting MTA board seat recommended by the Transport Workers Union, according to the MTA.", "refs": ["nyc-w6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "77cd71c4c7", "note": "Casts it as an ultimatum from the governor's office ('or else')." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "77cd71c4c7", "takeaway": "Headline and summary only: the governor's office's demand and the risk to his seat.", "read_full": false },
+        { "ref": "nyc-w6", "takeaway": "MTA's board profile of Samuelsen, used for his role on the board.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "open-primaries-petitions",
+      "headline": "Open-primary group files 75,000 petitions despite opposition from Mamdani",
+      "region": "City Hall",
+      "importance": 3,
+      "summary": "The group Unite NY filed 75,000 petitions seeking to bring open primaries to New York City elections, the New York Post reports. The Post says Mayor Zohran Mamdani and City Hall oppose the effort. The measure would let voters not enrolled in a party take part in primaries.",
+      "why_it_matters": "New Yorkers not enrolled in a party cannot vote in the primaries that usually decide city races, and this measure aims to change that. So far only the right-leaning Post has reported the new filing.",
+      "background": "New York has closed primaries: only voters registered with a party can vote in its primary. In a city where Democrats dominate, that means many unaffiliated voters have no real say in who wins. In July, Unite NY delivered more than 45,000 signatures to the city clerk, enough to send the proposal to the City Council, and said it could gather more to reach the ballot if the Council did not act.",
+      "facts": [
+        { "text": "Unite NY filed 75,000 petitions seeking open primaries in New York City, the Post reports.", "refs": ["87a6871c31"] },
+        { "text": "The Post reports the group is pressing ahead despite opposition from Mamdani and City Hall.", "refs": ["87a6871c31"] },
+        { "text": "In July, the group delivered more than 45,000 signatures to the city clerk, enough to put the measure before the City Council.", "refs": ["nyc-w7"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "87a6871c31", "note": "Frames it as reformers pushing back against a mayor who 'isn't having it', stressing the city is deeply blue." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "87a6871c31", "takeaway": "Summary only: the petition count and the mayor's opposition.", "read_full": false },
+        { "ref": "nyc-w7", "takeaway": "July report on the group's first signature delivery and next steps.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "stolen-snap-benefits-albany",
+      "headline": "Antipoverty groups urge Albany to replace stolen SNAP benefits before Thanksgiving",
+      "region": "Albany",
+      "importance": 3,
+      "summary": "Antipoverty groups are calling on the state to replace food stamp benefits stolen from New Yorkers' cards, THE CITY reports. The story features a Bensonhurst family whose monthly benefits were stolen last holiday season. Advocates are making the push as Thanksgiving approaches.",
+      "why_it_matters": "Thieves have drained food aid from low-income families' cards, in some cases taking a whole month's benefits. Since federal reimbursement ended, those families generally have not been repaid.",
+      "background": "SNAP benefits sit on electronic cards that thieves have copied with skimming devices at store checkout machines. The federal government stopped paying to replace skimmed benefits at the end of 2024, leaving it to states to decide whether to use their own money. Gov. Kathy Hochul has announced chip-enabled benefit cards, which are harder to copy, starting in early 2027. Advocates say families hit in the meantime still need to be repaid.",
+      "facts": [
+        { "text": "Antipoverty groups are asking state leaders to replace stolen SNAP benefits, THE CITY reports.", "refs": ["9d179d6c04"] },
+        { "text": "THE CITY profiles a Bensonhurst family whose food assistance for a month was stolen last holiday season.", "refs": ["9d179d6c04"] },
+        { "text": "The state plans to begin issuing chip-based SNAP cards in early 2027 to curb theft, the governor's office said.", "refs": ["nyc-w8"] },
+        { "text": "New Yorkers stopped being reimbursed for stolen food benefits after the federal replacement program ended, Gothamist reported.", "refs": ["nyc-w9"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "9d179d6c04", "note": "Opens with one family's lost holiday groceries before turning to the policy ask." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "9d179d6c04", "takeaway": "Summary only: the advocates' demand, told through a Brooklyn family.", "read_full": false },
+        { "ref": "nyc-w8", "takeaway": "Governor's announcement of chip-based benefit cards in 2027.", "read_full": false },
+        { "ref": "nyc-w9", "takeaway": "Earlier Gothamist report on the end of reimbursements.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "nyc-w1", "url": "https://ny1.com/nyc/all-boroughs/news/2026/08/17/riders-push-for-citi-bike-fee-cap-as-revenue-and-prices-rise", "title": "What if a 45-minute electric Citi Bike ride were capped at $3?", "outlet": "NY1" },
+    { "id": "nyc-w2", "url": "https://nyc.streetsblog.org/2026/10/08/the-big-lyft-mamdani-faces-tough-fight-for-cheaper-citi-bikes", "title": "The Big Lyft: Mamdani faces tough fight for cheaper Citi Bikes", "outlet": "Streetsblog NYC" },
+    { "id": "nyc-w3", "url": "https://www.nyc.gov/mayors-office/news/2026/09/25-years-later--mamdani-administration-opens-city-s-9-11-records", "title": "25 Years Later, Mamdani Administration Opens City's 9/11 Records", "outlet": "NYC Mayor's Office" },
+    { "id": "nyc-w4", "url": "https://www.nyc.gov/mayors-office/news/2026/10/mamdani-administration-releases-40-000-more-9-11-records-to-publ", "title": "Mamdani Administration Releases 40,000 More 9/11 Records to Public", "outlet": "NYC Mayor's Office" },
+    { "id": "nyc-w5", "url": "https://abc7ny.com/murder-in-chinatown-christina-yuna-lee-assamad-nash-lower-east-side/11562983", "title": "Man accused of murdering woman inside Chinatown apartment arraigned, charged", "outlet": "ABC7 New York" },
+    { "id": "nyc-w6", "url": "https://www.mta.info/transparency/leadership/board-members/john-samuelsen", "title": "John Samuelsen", "outlet": "MTA" },
+    { "id": "nyc-w7", "url": "https://ivn.us/petition-drive-to-let-independents-vote-delivers-45-000-signatures-to-nyc-clerk/", "title": "Petition drive to let independents vote delivers 45,000 signatures to NYC clerk", "outlet": "IVN" },
+    { "id": "nyc-w8", "url": "https://www.governor.ny.gov/news/governor-hochul-announces-new-chip-based-benefit-cards-snap-recipients-be-issued-early-2027", "title": "Governor Hochul announces new chip-based benefit cards for SNAP recipients to be issued in early 2027", "outlet": "Office of the Governor" },
+    { "id": "nyc-w9", "url": "https://api-prod.gothamist.com/news/new-yorkers-no-longer-getting-reimbursed-for-stolen-food-assistance-benefits", "title": "New Yorkers no longer getting reimbursed for stolen food assistance benefits", "outlet": "Gothamist" }
+  ]
+}

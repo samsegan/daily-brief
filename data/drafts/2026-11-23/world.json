@@ -1,0 +1,265 @@
+{
+  "stories": [
+    {
+      "id": "cop31-climate-talks-collapse",
+      "headline": "UN climate talks in Turkey end without a deal after a fight over fossil fuels",
+      "region": "Global",
+      "importance": 5,
+      "summary": "The COP31 climate summit in Antalya, Turkey, collapsed on Sunday without a final agreement. About 130 parties, led by the EU, rejected the summit presidency's compromise text because it did not commit to moving away from fossil fuels. Countries now go home with no new collective plan. The next round of talks is a year away.",
+      "why_it_matters": "These yearly talks are the main place where governments agree to cut emissions and pay to cope with heat, floods and rising seas. With no deal, each country's existing promises stand, and those promises are not enough to meet the Paris targets.",
+      "background": "COP is the yearly conference of the nearly 200 countries in the UN climate treaty, which produced the 2015 Paris Agreement to limit warming. At COP28 in Dubai in 2023, countries agreed to transition away from fossil fuels, but last year's COP30 in Brazil ended without a roadmap for doing so. Turkey hosted COP31 under a compromise in which Australia chaired the negotiations. A draft published on Nov. 19 dropped references to ending fossil fuel use, and producer countries resisted firm new targets.",
+      "facts": [
+        { "text": "The COP31 talks in Antalya ended on Sunday without a final agreement, after running two days past their scheduled close.", "refs": ["817ae3b7d4", "b5b81b0987"] },
+        { "text": "The BBC described the summit as the longest-running climate talks in UN history.", "refs": ["ea869718bb", "fff36e6039"] },
+        { "text": "The EU, Panama and others, about 130 parties in all, refused to accept the COP president's consensus cover text, alleging it \"greenwashes\" fossil fuels, according to The Hindu. India, China and Saudi Arabia were on the other side of the divide.", "refs": ["98f5ea0605"] },
+        { "text": "Bloomberg reported that dozens of countries rejected a deal they saw as pandering to the fossil fuel industry.", "refs": ["18c0c8dc03"] },
+        { "text": "Divisions over climate funding as well as fossil fuels kept almost 200 countries from reaching a deal, Daily Maverick reported.", "refs": ["fff36e6039"] },
+        { "text": "It was the first time since the 2009 Copenhagen meeting that a COP failed to reach a final agreement, Reuters reported.", "refs": ["922f05071e"] },
+        { "text": "Pacific island nations said they were disappointed by the outcome, and in Australia there were calls for the minister who led the negotiations to resign.", "refs": ["b815aee999", "e99912d2f7"] },
+        { "text": "A draft released on Nov. 19 had removed any reference to ending the use of fossil fuels.", "refs": ["world-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "b2fedd61b3", "note": "Leads with a campaigner's 'worst COP ever' verdict and blames the missing fossil fuel language." },
+        { "ref": "98f5ea0605", "note": "Puts the EU-led bloc that refused the deal first and names the countries on the other side." },
+        { "ref": "8f8e622414", "note": "Presents the collapse as another setback for multilateralism, with fossil fuels as the cause." },
+        { "ref": "8086b43b96", "note": "Stresses the stakes, calling the failure a blow to the planet's climate future." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ea869718bb", "takeaway": "Summary only: five takeaways, noting the record length of the talks.", "read_full": false },
+        { "ref": "98f5ea0605", "takeaway": "Summary only: the clearest account of who refused the deal and who backed it.", "read_full": false },
+        { "ref": "18c0c8dc03", "takeaway": "Headline and summary only (paywalled): dozens of countries rejected a deal they saw as too friendly to fossil fuels.", "read_full": false },
+        { "ref": "b2fedd61b3", "takeaway": "Summary only: governments and campaigners rejected the cover decision.", "read_full": false },
+        { "ref": "817ae3b7d4", "takeaway": "Video summary: a chaotic finale after two days of overtime.", "read_full": false },
+        { "ref": "fff36e6039", "takeaway": "Summary only: says funding as well as fossil fuels split the talks.", "read_full": false },
+        { "ref": "8086b43b96", "takeaway": "Newsletter summary framing the failure as a blow to the climate.", "read_full": false },
+        { "ref": "922f05071e", "takeaway": "Reuters copy on blame in Australia and despair in the Pacific.", "read_full": false },
+        { "ref": "b815aee999", "takeaway": "Summary only: Pacific island nations say they were let down.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ukraine-sinks-russian-warship-libya",
+      "headline": "Zelenskyy says Ukrainian sea drones sank a Russian warship in Libya",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "President Zelenskyy said seven Ukrainian-made sea drones sank the Russian corvette Merkury at a naval base in Benghazi, Libya, on Sunday and also hit a Russian cargo ship. A day earlier, drones struck a Russian cargo ship in the Baltic Sea, which Moscow called Ukrainian terrorism.",
+      "why_it_matters": "The war in Ukraine is reaching shipping lanes far from the front line, in the Mediterranean and the Baltic. That raises risks for sea trade, insurance costs and countries such as Finland that border the routes.",
+      "background": "Since 2022 Ukraine has used remote-controlled sea drones to strike Russia's Black Sea Fleet and push it away from Ukrainian waters. This year the attacks have spread: in March, Russia blamed Ukrainian sea drones for sinking one of its tankers in the Mediterranean off Libya, and on Nov. 11 Ukraine said it hit a Russian missile ship in the Gulf of Finland. Russia has a military foothold in eastern Libya, which is controlled by commander Khalifa Haftar. Kyiv says the ships it targets carry weapons or help Russia get around sanctions.",
+      "facts": [
+        { "text": "Zelenskyy said Ukrainian sea drones sank the Russian warship Merkury at a port in Libya on Sunday.", "refs": ["a133c870a3", "41316edfd4"] },
+        { "text": "The ship was moored at a naval base in Benghazi, in eastern Libya.", "refs": ["92a0bd30b5", "98463d5b67"] },
+        { "text": "Zelenskyy said seven domestically made sea drones were used, and that Ukraine also hit the cargo ship MV Angara, which he said Russia used to carry weapons.", "refs": ["778ee59df9", "e7836a1030"] },
+        { "text": "Zelenskyy called it an \"exemplary\" sea drone operation.", "refs": ["98463d5b67", "f89a933dc5"] },
+        { "text": "On Saturday, drones struck the Russian-owned cargo ship Sparta II in the Baltic Sea. Its 16 crew escaped in lifeboats, and the burning ship drifted into Finnish waters.", "refs": ["f1ee2bc7ce", "c0d5276a1d"] },
+        { "text": "Finland's military said the Baltic strike was probably carried out by Ukraine, and Finland's coast guard said a Russian vessel had started towing the ship out of Finnish waters.", "refs": ["3918c5ce5b", "86c4e81769"] },
+        { "text": "The Kremlin accused Ukraine of \"terrorist activity\" in the Baltic after the cargo ship strike.", "refs": ["424079759d"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "9d667988e0", "note": "Leads with Kyiv's 'no safe routes' message and praise for the operation." },
+        { "ref": "e178120b9c", "note": "Presents the sinking as the latest widening of the war." },
+        { "ref": "87ed95f6d9", "note": "Emphasizes the conflict spreading beyond Europe." },
+        { "ref": "92a0bd30b5", "note": "Written before Kyiv's claim: calls it a 'suspected' drone attack and names no attacker." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a133c870a3", "takeaway": "AP summary: Zelenskyy's claim of a surprise assault on a moored warship.", "read_full": false },
+        { "ref": "41316edfd4", "takeaway": "Video summary naming the Merkury and showing Zelenskyy's footage.", "read_full": false },
+        { "ref": "778ee59df9", "takeaway": "Summary with the seven-drone detail and the strike on the MV Angara.", "read_full": false },
+        { "ref": "98463d5b67", "takeaway": "Headline and summary only (paywalled): places the attack at Benghazi's naval base.", "read_full": false },
+        { "ref": "9d667988e0", "takeaway": "Summary only: casts the strike as an expansion beyond the Black Sea.", "read_full": false },
+        { "ref": "f1ee2bc7ce", "takeaway": "Summary only on the Baltic cargo ship fire and crew rescue.", "read_full": false },
+        { "ref": "3918c5ce5b", "takeaway": "Reuters copy (paywalled outlet): Finland on towing and the likely Ukrainian strike.", "read_full": false },
+        { "ref": "424079759d", "takeaway": "Headline only: the Kremlin's response.", "read_full": false },
+        { "ref": "e7836a1030", "takeaway": "Summary only: the cargo ship was under sanctions.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "indonesia-candy-factory-fire",
+      "headline": "At least 24 dead and dozens missing after an Indonesian candy factory fire",
+      "region": "Asia-Pacific",
+      "importance": 4,
+      "summary": "A fire that broke out Saturday at a confectionery factory in Cikande, west of Jakarta, has killed at least 24 people, Indonesian authorities said. Rescuers are searching the unstable wreckage for about 30 more workers, and DNA testing will be needed to identify victims.",
+      "why_it_matters": "It is one of Indonesia's deadliest industrial fires in years, and it raises questions about safety at the factories that make goods sold around the world.",
+      "background": "Banten province, next to Jakarta, is a major manufacturing area. Indonesia has a history of deadly factory fires: in 2017 a blast and fire at a fireworks factory in Tangerang, also in Banten, killed more than 40 workers. Investigations into such fires often point to locked exits, flammable materials and weak enforcement of safety rules. Authorities have not yet said what caused this fire.",
+      "facts": [
+        { "text": "The fire broke out on Saturday evening in one building of the PT Fonusa Agung Mulia confectionery factory in Cikande, Banten province, about an hour's drive from Jakarta.", "refs": ["7c2904e5e8"] },
+        { "text": "Indonesia confirmed 24 deaths.", "refs": ["5015a7cff3", "3684e9678a"] },
+        { "text": "Rescue teams recovered remains in 24 body bags, according to the AP.", "refs": ["4aca8d2eb9"] },
+        { "text": "Officials say DNA testing will be needed to identify victims.", "refs": ["3684e9678a"] },
+        { "text": "Hundreds of people were at the compound when the fire started, and it burned for hours, The New York Times reported.", "refs": ["15b8c4deaa"] },
+        { "text": "Authorities are still investigating the cause.", "refs": ["7c2904e5e8"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many workers are still missing",
+          "positions": [
+            { "claim": "34 workers, according to the AP.", "refs": ["bb0eb04f02", "f2197902a9"] },
+            { "claim": "About 30 people, according to Reuters and The Guardian.", "refs": ["3684e9678a", "5015a7cff3"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "bb0eb04f02", "note": "Leads with the search for the missing, not the death toll." },
+        { "ref": "5015a7cff3", "note": "Leads with the official death toll." },
+        { "ref": "15b8c4deaa", "note": "Stresses how many people are unaccounted for and how long the fire burned." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "bb0eb04f02", "takeaway": "Headline only: AP wire on the search for 34 missing workers.", "read_full": false },
+        { "ref": "5015a7cff3", "takeaway": "Headline only: Reuters on the confirmed toll of 24.", "read_full": false },
+        { "ref": "3684e9678a", "takeaway": "Summary only: rescuers working in unstable wreckage, DNA needed.", "read_full": false },
+        { "ref": "7c2904e5e8", "takeaway": "Reuters copy with the factory name, location and timing.", "read_full": false },
+        { "ref": "15b8c4deaa", "takeaway": "Headline and summary only (paywalled): hundreds were at the site.", "read_full": false },
+        { "ref": "4aca8d2eb9", "takeaway": "AP summary: remains recovered in 24 body bags.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "west-bank-settler-arson",
+      "headline": "Settler arson in West Bank villages draws 'Jewish terrorism' charge from Netanyahu rival",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "Israeli settlers burned vehicles and homes in Palestinian villages in the occupied West Bank on Saturday night. Opposition leader Gadi Eisenkot called it \"Jewish terrorism,\" and police opened an investigation. Eisenkot is trying to form a government after last month's inconclusive election.",
+      "why_it_matters": "Settler violence affects Palestinians' safety and Israel's ties with allies, and it has become an issue in the fight over who will lead Israel next. The coverage in this digest came from left-leaning and center outlets; no right-leaning outlet in the feed covered it.",
+      "background": "About 500,000 Israeli settlers live in the West Bank, which Israel has occupied since 1967 and which Palestinians want for a future state. Attacks by extremist settlers on Palestinian villages have risen since the Gaza war began in October 2023, while Israeli reporting has found that police investigations of such attacks have fallen. Israel's election about a month ago left Prime Minister Benjamin Netanyahu without a clear majority. Eisenkot, a former army chief, has until Dec. 6 to form a government.",
+      "facts": [
+        { "text": "Dozens of settlers raided Palestinian communities on Saturday night, setting fire to vehicles and several homes, The Guardian reported.", "refs": ["d4bb76db92"] },
+        { "text": "Opposition leader Gadi Eisenkot condemned the arson attacks as \"Jewish terrorism.\"", "refs": ["6175f44fa1", "bebabc5462", "4bb37d2a20"] },
+        { "text": "Eisenkot said the extremist groups were putting lives at risk and harming Israel's security and foreign relations.", "refs": ["1faccce186"] },
+        { "text": "Israeli police said they had opened an investigation.", "refs": ["6175f44fa1", "4bb37d2a20"] },
+        { "text": "A settler leader condemned the arson but criticized those calling it 'Jewish terrorism', The Times of Israel reported.", "refs": ["8bef1483dc"] },
+        { "text": "Netanyahu's Likud and Eisenkot's party ended a round of coalition talks without a deal. Likud's conditions included no Arab parties and rejecting a Palestinian state.", "refs": ["4ecbe7a68a", "fcd13ed678"] },
+        { "text": "Eisenkot has until Dec. 6 to form a government.", "refs": ["fcd13ed678"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "5d511b58b3", "note": "Pairs the attacks with the political response, naming Eisenkot as Netanyahu's rival." },
+        { "ref": "8bef1483dc", "note": "Leads with a settler leader who condemns the arson but rejects the terrorism label." },
+        { "ref": "ba6829006d", "note": "Treats the attacks mainly as fuel for Israel's political debate." },
+        { "ref": "7993e8c0c2", "note": "Says political leaders in general, not one rival, denounced the attacks." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d4bb76db92", "takeaway": "Summary only: details of the raids and the political row.", "read_full": false },
+        { "ref": "6175f44fa1", "takeaway": "Summary only: Eisenkot's condemnation and the police investigation.", "read_full": false },
+        { "ref": "4bb37d2a20", "takeaway": "Summary only: ties the attacks to the post-election power struggle.", "read_full": false },
+        { "ref": "1faccce186", "takeaway": "Reuters copy with Eisenkot's fuller statement.", "read_full": false },
+        { "ref": "8bef1483dc", "takeaway": "Headline only: the settler leadership's response.", "read_full": false },
+        { "ref": "7993e8c0c2", "takeaway": "Headline and summary only (paywalled): opponents want a forceful response.", "read_full": false },
+        { "ref": "fcd13ed678", "takeaway": "Summary only on the coalition talks and the Dec. 6 deadline.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "sudan-khartoum-drone-strikes",
+      "headline": "Drones hit homes and a UN building in Sudan's capital; army blames Ethiopia",
+      "region": "Africa",
+      "importance": 3,
+      "summary": "Drone strikes early Sunday damaged homes and a United Nations building in Khartoum, Sudan's capital. Sudan's army said the drones were launched from neighboring Ethiopia. A UN agency said it was unacceptable that aid workers were put in danger.",
+      "why_it_matters": "Sudan has one of the world's largest humanitarian crises, and attacks that reach UN buildings make it harder to get food and medicine to people. The coverage in this digest came only from center-rated outlets.",
+      "background": "Sudan's army and the paramilitary Rapid Support Forces have been at war since April 2023. Millions of people have fled their homes, and the army retook Khartoum in 2025. Drones have become a main weapon. Sudan's government has accused Ethiopia and the United Arab Emirates of backing drone attacks, filed complaints with the UN this month, and recalled its ambassador to Ethiopia in May. Ethiopia denies the accusations.",
+      "facts": [
+        { "text": "Drone strikes early Sunday damaged homes and a UN building in Khartoum.", "refs": ["85c87ef674", "05cde07a86", "251faf7c6f"] },
+        { "text": "Explosions were heard around Khartoum airport and other parts of the city from about 2 a.m. to 4:30 a.m.", "refs": ["251faf7c6f"] },
+        { "text": "A Sudanese army source said the drones were launched from Ethiopia.", "refs": ["865a774187", "85c87ef674"] },
+        { "text": "A UN agency said it was unacceptable that humanitarian workers had been exposed to such danger.", "refs": ["05cde07a86"] },
+        { "text": "The head of the UN Human Rights Office team for Sudan said armed drones have become the main cause of civilian deaths in Sudan in 2026.", "refs": ["2736582407"] },
+        { "text": "Earlier this month Sudan filed complaints with the UN accusing Ethiopia over drone attacks, and Ethiopia denied the charges.", "refs": ["world-w4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "85c87ef674", "note": "Puts the army's accusation against Ethiopia near the top and notes the escalating drone war." },
+        { "ref": "05cde07a86", "note": "Leads with damage to the UN building and the UN's objection; does not name Ethiopia in the summary." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "85c87ef674", "takeaway": "Summary only: homes and a UN building hit, army blames Ethiopia.", "read_full": false },
+        { "ref": "05cde07a86", "takeaway": "Summary only: focuses on the UN's response.", "read_full": false },
+        { "ref": "865a774187", "takeaway": "Reuters copy: a witness says one house was destroyed.", "read_full": false },
+        { "ref": "251faf7c6f", "takeaway": "Reuters copy giving when and where the explosions were heard.", "read_full": false },
+        { "ref": "2736582407", "takeaway": "UN human rights official on drones as the main killer of civilians this year.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mexico-chapo-isidro-capture",
+      "headline": "Mexico captures 'El Chapo Isidro,' one of the FBI's 10 most wanted",
+      "region": "Americas",
+      "importance": 3,
+      "summary": "Mexican forces captured alleged cartel boss Fausto Isidro Meza Flores, known as \"El Chapo Isidro,\" in a gunfight in Sinaloa on Nov. 20. Burned-out vehicles were left on highways after the arrest, and there are fears of a violent fight over who takes over his group.",
+      "why_it_matters": "Much of the fentanyl and other drugs reaching the US moves through networks like his. Arrests like this are central to US pressure on Mexico, but they can bring more violence to the areas left behind. The coverage in this digest came from left-leaning and center outlets.",
+      "background": "Meza Flores is described as a leader of a faction linked to the Beltrán Leyva cartel, based in Sinaloa state. The US accuses him of drug trafficking. The FBI added him to its Ten Most Wanted list in February 2025 and offered up to $5 million for information leading to his arrest. Sinaloa has been hit by cartel violence since rival factions of the Sinaloa cartel began fighting in 2024. Mexico has stepped up arrests of top traffickers under pressure from Washington.",
+      "facts": [
+        { "text": "Fausto Isidro Meza Flores, one of the FBI's 10 most wanted fugitives, was arrested after a gunfight with Mexican authorities.", "refs": ["48f549e40a", "f7671820ae"] },
+        { "text": "He is accused of drug trafficking and torture, the BBC reported.", "refs": ["48f549e40a"] },
+        { "text": "He was captured in a raid on Nov. 20 along with his alleged second-in-command, and video showed burned-out cars and trucks on roads in Sinaloa afterward.", "refs": ["42d41667f7"] },
+        { "text": "The Wall Street Journal reported that people in the region fear a violent fight over who will lead the cartel next.", "refs": ["e725af271a"] },
+        { "text": "Several powerful traffickers have recently been taken down by Mexican forces, The New York Times reported.", "refs": ["a5b831f268"] },
+        { "text": "The FBI put him on its Ten Most Wanted list in February 2025 with a reward of up to $5 million.", "refs": ["world-w5"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "48f549e40a", "note": "Stresses his FBI most-wanted status and the shoot-out." },
+        { "ref": "e725af271a", "note": "Looks ahead to the risk of a violent succession fight." },
+        { "ref": "a5b831f268", "note": "Asks whether Mexico is getting tougher on drugs." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "48f549e40a", "takeaway": "Summary only: the arrest, the charges and the shoot-out.", "read_full": false },
+        { "ref": "f7671820ae", "takeaway": "Headline and summary only (paywalled): profile of who he is.", "read_full": false },
+        { "ref": "42d41667f7", "takeaway": "Video summary of the burned vehicles and others arrested.", "read_full": false },
+        { "ref": "e725af271a", "takeaway": "Headline and summary only (paywalled): the region fears a succession battle.", "read_full": false },
+        { "ref": "a5b831f268", "takeaway": "Headline and summary only (paywalled): the wider trend of arrests.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "south-korea-education-minister-resigns",
+      "headline": "South Korea's education minister quits over AI cheating chaos at entrance exam",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "South Korean Education Minister Choi Kyo-jin resigned on Sunday. He admitted that the last-minute rules he brought in to stop AI-assisted cheating on the national college entrance exam caused chaos. Worries about cheating with hidden cameras and AI tools are still unresolved.",
+      "why_it_matters": "Exams around the world face the same problem: cheap AI tools and tiny cameras make cheating easier and harder to catch. How South Korea handles it is an early test of the rules other countries may adopt.",
+      "background": "South Korea's college entrance exam, the CSAT, largely decides which universities students attend, so it is taken very seriously. Fears of AI cheating grew after the top scorer on a national tax accountant exam admitted using a tiny camera and a smartphone. On Nov. 16, Choi, 72, told lawmakers he did not think he could catch AI cheating, citing his age, and the remark drew anger. The ministry refused to postpone the exam and instead announced stricter checks at test sites.",
+      "facts": [
+        { "text": "Education Minister Choi Kyo-jin resigned on Sunday.", "refs": ["3d97e0803e", "c8f8d7baa8", "f908da6e29"] },
+        { "text": "Choi admitted that the last-minute measures against AI-assisted cheating during the exam caused chaos, and said he had \"failed to prepare adequately.\"", "refs": ["3d97e0803e", "f908da6e29"] },
+        { "text": "The new measures, announced two days before the exam, included loud phone alerts and eyeglass inspections, and drew a quick public backlash, The New York Times reported.", "refs": ["1d8202408f"] },
+        { "text": "The scandal began on Nov. 15, when the top scorer on a national tax accountant exam confessed to using a miniature camera and a smartphone.", "refs": ["bed0fac00d"] },
+        { "text": "Choi told a parliamentary committee on Nov. 16 that, perhaps because of his age, he did not think he could detect AI-assisted cheating.", "refs": ["world-w6", "58b56f8a05"] },
+        { "text": "The government had ruled out postponing the exam and pledged stricter screening at test sites.", "refs": ["world-w7"] },
+        { "text": "Analysts quoted by the South China Morning Post see the resignation as an attempt to limit damage to the president's already low approval ratings.", "refs": ["a161371ae8"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "1d8202408f", "note": "Puts the blame on the anti-cheating rules themselves, not the cheating." },
+        { "ref": "58b56f8a05", "note": "Leads with the minister's comment that he was too old for the job." },
+        { "ref": "a161371ae8", "note": "Stresses that the problem continues after the resignation." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3d97e0803e", "takeaway": "Summary only: Choi admits the measures caused chaos.", "read_full": false },
+        { "ref": "f908da6e29", "takeaway": "Summary only, with Choi's statement that he failed to prepare.", "read_full": false },
+        { "ref": "bed0fac00d", "takeaway": "Summary only: traces the scandal to the tax accountant exam.", "read_full": false },
+        { "ref": "1d8202408f", "takeaway": "Headline and summary only (paywalled): the rules and the backlash.", "read_full": false },
+        { "ref": "58b56f8a05", "takeaway": "Headline and summary only (paywalled): the age remark.", "read_full": false },
+        { "ref": "a161371ae8", "takeaway": "Headline and summary only (paywalled): the political fallout for the president.", "read_full": false },
+        { "ref": "c8f8d7baa8", "takeaway": "Headline only: Reuters on the resignation.", "read_full": false }
+      ],
+      "social": "Before he resigned, Choi's remark about his age caused public anger, and actor Han Jung-su criticized it publicly, according to Korean press reports."
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w1", "url": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31", "title": "Tensions rise over draft climate deal at COP31", "outlet": "Al Jazeera" },
+    { "id": "world-w2", "url": "https://www.devdiscourse.com/article/international/4009614-cop31-draft-drops-fossil-fuel-language-as-talks-near-deadline", "title": "COP31 draft drops fossil fuel language as talks near deadline", "outlet": "Devdiscourse" },
+    { "id": "world-w3", "url": "https://www.aljazeera.com/news/2026/11/13/why-is-ukraine-attacking-russian-warships-in-the-baltic-sea-amid-talks", "title": "Why is Ukraine attacking Russian warships in the Baltic Sea amid talks?", "outlet": "Al Jazeera" },
+    { "id": "world-w4", "url": "https://www.aljazeera.com/news/2026/11/2/sudan-files-complaints-against-ethiopia-with-un-over-deadly-drone-spree", "title": "Sudan files complaints against Ethiopia with UN over deadly drone spree", "outlet": "Al Jazeera" },
+    { "id": "world-w5", "url": "https://www.yahoo.com/news/alleged-leader-mexico-based-drug-232853178.html", "title": "Alleged leader of Mexico-based drug organization added to FBI wanted list", "outlet": "Yahoo News" },
+    { "id": "world-w6", "url": "https://biz.heraldcorp.com/article/10939861", "title": "PPP lawmaker pressed minister on whether he could catch 100% of cheating suspects", "outlet": "The Korea Herald" },
+    { "id": "world-w7", "url": "https://www.koreajoongangdaily.com/korea/govt-rules-out-postponing-college-entrance-exam-amid-cheating-fears/12977091", "title": "Gov't rules out postponing college entrance exam amid cheating fears", "outlet": "Korea JoongAng Daily" }
+  ]
+}

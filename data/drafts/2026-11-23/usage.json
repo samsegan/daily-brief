@@ -1,0 +1,26 @@
+{
+ "parts": [
+  {
+   "label": "session",
+   "since": "2026-11-23T11:38:06.275Z",
+   "until": "2026-11-23T11:52:08.280Z",
+   "total_tokens": 5801512,
+   "cost_usd": 5.68,
+   "models": [
+    {
+     "model": "claude-opus-5-5",
+     "requests": 78,
+     "tokens": {
+      "input": 176,
+      "cache_write_5m": 419454,
+      "cache_write_1h": 67967,
+      "cache_read": 5236051,
+      "output": 77864,
+      "web_searches": 43
+     },
+     "cost_usd": 5.6762
+    }
+   ]
+  }
+ ]
+}

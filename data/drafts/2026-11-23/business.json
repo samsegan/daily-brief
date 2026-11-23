@@ -1,0 +1,147 @@
+{
+  "stories": [
+    {
+      "id": "stocks-rebound-after-ai-selloff",
+      "headline": "Stock futures bounce after the worst week for tech shares since 2020",
+      "region": "Markets",
+      "importance": 5,
+      "summary": "US stock futures pointed to a strong rebound on Monday morning after last week's sell-off in artificial-intelligence stocks pushed the S&P 500 and the Dow into a correction. Nvidia and Anthropic shares rose before the opening bell, and European AI-linked stocks also recovered in early trading. Analysts quoted by The New York Times warned that more swings are likely.",
+      "why_it_matters": "Most retirement and index funds hold large amounts of the big tech companies at the center of this sell-off, so these moves show up directly in 401(k) balances. Coverage of the rebound in the digest came from center and left-leaning financial outlets; the one right-leaning item was a New York Post column questioning the bubble talk.",
+      "background": "For about three years, stock market gains have been led by companies that build or supply artificial intelligence, especially the chipmaker Nvidia. This month investors began to doubt that the hundreds of billions of dollars being spent on AI data centers will pay off, and they sold those shares heavily. A correction is a drop of at least 10 percent from a recent high. The selling deepened after Nvidia's chief executive, Jensen Huang, resigned on Nov. 12, and continued even after Nvidia's quarterly results and Anthropic's record stock market debut last week. This week is shortened by the Thanksgiving holiday.",
+      "facts": [
+        { "text": "US stock futures rose early Monday, pointing to a rebound after last week's AI-led sell-off.", "refs": ["50037045d4", "030e3238f1", "786b8cad32", "dbda121af2"] },
+        { "text": "The Nasdaq fell 10 percent last week, its worst week since the early days of the Covid pandemic in 2020, CNBC reported.", "refs": ["c54cbd7309"] },
+        { "text": "The S&P 500 and the Dow Jones Industrial Average both ended last week in correction territory, according to Bloomberg.", "refs": ["9d4219c81f", "dbda121af2"] },
+        { "text": "Bloomberg estimated that last week's decline erased more than $5 trillion in S&P 500 market value.", "refs": ["0ca44557fd"] },
+        { "text": "Shares of Nvidia and Anthropic rose in premarket trading.", "refs": ["c54cbd7309", "9edcdf98db", "88a9fba1a8"] },
+        { "text": "AI-linked stocks in Europe rebounded sharply in early trading, The Wall Street Journal reported.", "refs": ["7346750569"] },
+        { "text": "Morgan Stanley strategists led by Mike Wilson said the drop has created a buying opportunity, pointing to low Nasdaq valuations and a collapse in investor sentiment.", "refs": ["8eefd73bc1", "9d4219c81f"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "50037045d4", "note": "Puts the battered AI stocks themselves at the center of the rebound." },
+        { "ref": "ac9b29d220", "note": "Frames it as a bounce after a tough week, with the summary stressing that analysts expect more volatility." },
+        { "ref": "786b8cad32", "note": "Describes investors as only cautiously buying the dip once the dust settles." },
+        { "ref": "537c1be04b", "note": "A column that puts 'AI bubble' in quotation marks and calls the threat 'supposed', playing down the fear behind the sell-off." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "50037045d4", "takeaway": "Headline only: futures rebound led by the AI stocks that fell hardest.", "read_full": false },
+        { "ref": "9edcdf98db", "takeaway": "Headline and summary only (paywalled): notes sharp premarket gains for Nvidia and Anthropic.", "read_full": false },
+        { "ref": "ac9b29d220", "takeaway": "Headline and summary only (paywalled): some stability expected, but more volatility ahead.", "read_full": false },
+        { "ref": "030e3238f1", "takeaway": "Headline only: stocks set to rebound after a bruising sell-off.", "read_full": false },
+        { "ref": "c54cbd7309", "takeaway": "Summary only: premarket gains for Anthropic and Nvidia; gives the Nasdaq's 10 percent weekly loss.", "read_full": false },
+        { "ref": "786b8cad32", "takeaway": "Headline and summary only (paywalled): futures climb as investors cautiously buy the dip.", "read_full": false },
+        { "ref": "7346750569", "takeaway": "Headline and summary only (paywalled): European AI stocks rebound in early trade.", "read_full": false },
+        { "ref": "88a9fba1a8", "takeaway": "Live coverage headline only (paywalled): futures point to recovery; Anthropic up premarket.", "read_full": false },
+        { "ref": "dbda121af2", "takeaway": "Headline and summary only (paywalled): futures rebound as demand for safe havens fades.", "read_full": false },
+        { "ref": "9d4219c81f", "takeaway": "Headline and summary only (paywalled): Morgan Stanley sees a buying opportunity after S&P and Dow corrections.", "read_full": false },
+        { "ref": "0ca44557fd", "takeaway": "Headline and summary only (paywalled): charts showing how much of the market rests on its biggest AI stocks.", "read_full": false },
+        { "ref": "8eefd73bc1", "takeaway": "Summary only: Morgan Stanley's bullish case based on valuations and investor positioning.", "read_full": false },
+        { "ref": "537c1be04b", "takeaway": "Opinion column skeptical of the widespread bubble fears; used for framing only.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "treasury-yields-fed-hike-bets",
+      "headline": "Bond yields climb back as investors weigh another Fed rate increase",
+      "region": "Fed",
+      "importance": 4,
+      "summary": "US Treasury yields rose on Monday, undoing part of last week's sharp drop, as investors moved money out of safe bonds and back toward stocks. Traders were waiting for a speech by New York Fed President John Williams, and the bank ING said upcoming economic data could support bets on another Federal Reserve rate increase. Investor Bill Ackman warned that a further hike could push the economy into recession.",
+      "why_it_matters": "Treasury yields set the baseline for mortgage, car-loan and credit-card rates, and CNBC reports that a spike in mortgage rates this fall has already frozen much of the housing market. Whether the Fed raises rates again in December will shape borrowing costs into next year.",
+      "background": "The Federal Reserve raises its benchmark interest rate to slow inflation, which has climbed back above 3.5 percent this year. It last raised rates in September, to a range of 3.75 to 4 percent, and markets have been betting on another increase at its December meeting. A Treasury yield is the interest the government pays to borrow; yields fall when investors rush into bonds for safety, as they did during last week's stock sell-off, and rise when that demand fades. John Williams, who leads the New York Fed, is one of the officials who votes on rates. Reports on economic growth and inflation are due later this week.",
+      "facts": [
+        { "text": "Treasury yields rose on Monday, partly reversing last week's declines, as stock futures pointed higher.", "refs": ["aab668bd13", "59b6db76cc"] },
+        { "text": "Bloomberg reported that fading demand for safe havens was putting pressure on Treasuries and the Japanese yen.", "refs": ["dbda121af2"] },
+        { "text": "Investors were awaiting a speech by New York Fed President John Williams, CNBC reported.", "refs": ["aab668bd13"] },
+        { "text": "The dollar was flat against other major currencies, and ING said it was likely to stay firm if upcoming data back expectations of a Fed rate hike, according to The Wall Street Journal.", "refs": ["59ed46ef36"] },
+        { "text": "Pershing Square chief executive Bill Ackman wrote on X that the US may enter a recession if the Fed raises rates, saying financial conditions have already tightened considerably.", "refs": ["a07664eb5a"] },
+        { "text": "In an interview with Axios last week, Williams said the AI investment boom could lead to more rate increases in 2027 and played down the need for a half-point increase in December.", "refs": ["business-w1"] },
+        { "text": "CNBC reported that a sharp rise in mortgage rates in September has pushed the housing market into what it called a deep freeze.", "refs": ["c8eae1b244"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "aab668bd13", "note": "Ties the jump in yields to the stock rebound and looks ahead to Williams's speech." },
+        { "ref": "59b6db76cc", "note": "Frames the rise as a correction of last week's sharp falls, in both the US and Europe." },
+        { "ref": "a07664eb5a", "note": "Leads with the risk of recession, through a prominent investor's warning against another hike." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "aab668bd13", "takeaway": "Summary only: yields up as futures rebound, with Williams's speech ahead.", "read_full": false },
+        { "ref": "59b6db76cc", "takeaway": "Headline and summary only (paywalled): US and European yields recover part of last week's drop.", "read_full": false },
+        { "ref": "59ed46ef36", "takeaway": "Headline and summary only (paywalled): ING expects a firm dollar if data support rate-hike bets.", "read_full": false },
+        { "ref": "a07664eb5a", "takeaway": "Summary only: Ackman's warning that another hike could cause a recession.", "read_full": false },
+        { "ref": "dbda121af2", "takeaway": "Headline and summary only (paywalled): waning demand for havens weighs on Treasuries.", "read_full": false },
+        { "ref": "c8eae1b244", "takeaway": "Summary only: how high mortgage rates have stalled buyers, sellers and the wider economy.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-nvidia-huang-rehire",
+      "headline": "Trump urges Nvidia's board to bring back Jensen Huang as shares rise",
+      "region": "Tech",
+      "importance": 4,
+      "summary": "President Trump wrote on Truth Social on Sunday night that he hopes Nvidia's board rehires Jensen Huang, the co-founder who resigned as chief executive this month. Nvidia shares rose on Monday morning after the weekend's developments, MarketWatch reported. The board has not announced any change, and its own inquiry into Huang continues.",
+      "why_it_matters": "Nvidia is one of the largest companies in the stock market, so its leadership turmoil weighs on index funds and retirement accounts. The president's call was covered by right-leaning outlets and MarketWatch; no left-leaning outlet in the digest covered it.",
+      "background": "Nvidia makes most of the chips used to build and run artificial intelligence systems, which made it one of the world's most valuable companies. Earlier this fall its board opened an inquiry into reports that Huang had been targeted by a foreign intelligence effort; Huang acknowledged an intimate relationship with an executive at a Singapore data-center firm that bought billions of dollars of Nvidia chips, and The New York Times reported that US intelligence believed she was gathering information for Beijing. Huang resigned on Nov. 12, and chief financial officer Colette Kress is running the company on an interim basis. Trump first suggested Apple's Tim Cook as a replacement, then said on Nov. 16 that he would not mind Huang returning.",
+      "facts": [
+        { "text": "Trump wrote on Truth Social that he hopes Nvidia's board rehires Huang, calling it 'the best thing for the Company, and also, for the U.S.A.'", "refs": ["c6538ab5b3", "bce3b8c700"] },
+        { "text": "Nvidia shares rose on Monday after a weekend in which the Trump administration pushed for Huang's reinstatement, MarketWatch reported.", "refs": ["559598839a"] },
+        { "text": "On Nov. 16, Trump told reporters he 'would not mind' Huang returning as chief executive.", "refs": ["business-w4"] },
+        { "text": "CNBC reported on Nov. 16, citing a person familiar with the matter, that Nvidia's board was not considering bringing Huang back and was focused on its investigation.", "refs": ["business-w2"] },
+        { "text": "Nvidia's board said its inquiry would examine whether Huang was targeted by foreign intelligence, and that it had no reason to believe national security or company secrets were compromised.", "refs": ["business-w3"] },
+        { "text": "Huang and his wife, Lori, control more than 870 million Nvidia shares, including through trusts and other entities, according to The Wall Street Journal.", "refs": ["d6255fd51a"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "c6538ab5b3", "note": "Leads with Trump's quote that a return would be best for the country." },
+        { "ref": "bce3b8c700", "note": "Says Trump 'doubles down' and names the alleged Chinese spy scandal in the headline." },
+        { "ref": "559598839a", "note": "Leads with the stock bounce, treating the White House push as a market catalyst." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c6538ab5b3", "takeaway": "Summary only: quotes Trump's Truth Social post in full.", "read_full": false },
+        { "ref": "bce3b8c700", "takeaway": "Headline only: Trump repeats his call amid the espionage allegations.", "read_full": false },
+        { "ref": "559598839a", "takeaway": "Summary only: Nvidia shares rise on the administration's push to reinstate Huang.", "read_full": false },
+        { "ref": "d6255fd51a", "takeaway": "Headline and summary only (paywalled): a breakdown of the Huang family's Nvidia holdings.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "asia-regulators-calm-markets",
+      "headline": "China, South Korea and Taiwan add emergency steps to steady stock markets",
+      "region": "Asia",
+      "importance": 3,
+      "summary": "Regulators and stock exchange operators in China, South Korea and Taiwan rolled out new emergency measures to stop the slide in their markets caused by the global sell-off in AI stocks, The Wall Street Journal and CNBC reported. In Taiwan, margin calls on investors who borrowed to buy shares rose about 200-fold last week, according to Bloomberg.",
+      "why_it_matters": "Asian chipmakers supply the parts in most phones, computers and AI servers, so stress in these markets can spread to US stocks and to prices of electronics. Coverage came from center and left-leaning financial outlets.",
+      "background": "The stock markets of Taiwan, South Korea and China lean heavily on chipmakers and other suppliers to the AI industry, so they fell sharply when US tech shares dropped this month. Governments there have tools to slow a crash, such as stabilization funds that buy shares when prices fall fast and limits on short selling, which is betting that a share price will fall. A margin call is a demand from a broker that an investor who bought shares with borrowed money put up more cash or sell; many margin calls at once can force more selling. Taiwan's regulator first tightened short-selling rules on Nov. 6 and has since added more.",
+      "facts": [
+        { "text": "Regulators and market operators in China, South Korea and Taiwan introduced new emergency measures to support their stock markets.", "refs": ["85110d039b", "8deb736225"] },
+        { "text": "Margin calls in Taiwan increased about 200-fold last week as traders abandoned AI bets, Bloomberg reported.", "refs": ["89d00a8355"] },
+        { "text": "On Nov. 6, Taiwan's Financial Supervisory Commission cut the daily cap on short sales of borrowed shares and raised the margin required for short sales, Focus Taiwan reported.", "refs": ["business-w6"] },
+        { "text": "Taiwan later barred short selling of any stock on the day after it closes down 3.5 percent or more, according to the Taipei Times.", "refs": ["business-w5"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "85110d039b", "note": "Frames regulators as stepping up a campaign to calm 'turmoil'." },
+        { "ref": "8deb736225", "note": "Says governments are trying to 'prop up' markets, stressing how deep the AI downturn runs." },
+        { "ref": "89d00a8355", "note": "Tells the story through a Taiwanese stockbroker making margin calls to individual traders." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "85110d039b", "takeaway": "Headline and summary only (paywalled): emergency measures across three markets.", "read_full": false },
+        { "ref": "8deb736225", "takeaway": "Summary only: rundown of new support steps in South Korea, China and Taiwan.", "read_full": false },
+        { "ref": "89d00a8355", "takeaway": "Headline and summary only (paywalled): the human side of forced selling by indebted Taiwanese traders.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "business-w1", "url": "https://axios.com/2026/11/17/john-williams-new-york-fed-axios-bfd", "title": "Top Fed official: AI boom could fuel more rate hikes in 2027", "outlet": "Axios" },
+    { "id": "business-w2", "url": "https://thenextweb.com/news/nvidia-board-jensen-huang-return-trump-cnbc", "title": "Nvidia's board is not considering Jensen Huang's return, CNBC reports", "outlet": "The Next Web" },
+    { "id": "business-w3", "url": "https://www.ktvu.com/news/nvidia-investigating-ceo-jensen-huang-over-reported-links-accused-chinese-spy", "title": "Nvidia investigating CEO Jensen Huang over reported links to accused Chinese spy", "outlet": "KTVU" },
+    { "id": "business-w4", "url": "https://www.ibtimes.co.uk/trump-jensen-huang-nvidia-ceo-comeback-1832892", "title": "Trump's 'Would Not Mind' Remark on Jensen Huang Return Contrasts With NVIDIA Board's Reported Position", "outlet": "International Business Times" },
+    { "id": "business-w5", "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/20/2003868040", "title": "Taipei Times business report on new short-selling limits (Nov. 20, 2026)", "outlet": "Taipei Times" },
+    { "id": "business-w6", "url": "https://focustaiwan.tw/business/202611060020", "title": "Focus Taiwan business report on short-selling curbs (Nov. 6, 2026)", "outlet": "Focus Taiwan" }
+  ]
+}

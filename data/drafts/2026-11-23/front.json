@@ -1,0 +1,65 @@
+{
+  "overview": "Democrats locked in at least 258 House seats after a North Carolina race was called, their largest House majority from a general election since 1992, according to Decision Desk HQ and Reuters. UN climate talks at COP31 in Turkey ended without an agreement after dozens of countries rejected a draft they said favored fossil fuel producers. Ukraine said its naval drones sank a Russian warship at a Libyan naval base, extending its sea-drone campaign well beyond the Black Sea. In Washington, Treasury Secretary Scott Bessent said the government wants answers from Nvidia about chip sales to China, while President Trump said he hopes the company rehires former chief executive Jensen Huang.",
+  "markets": {
+    "summary": "U.S. stocks had a rough week: the Nasdaq fell about 10%, its worst week since early 2020, and the S&P 500 and Dow both ended in a correction, meaning a drop of 10% or more from a recent high, as investors sold artificial-intelligence shares. Much of the pressure centered on Nvidia, which has been without its longtime chief executive since Jensen Huang resigned this month amid a scandal over his relationship with a suspected Chinese intelligence contact. Stock futures pointed to a rebound on Monday morning, led by battered AI names, after President Trump urged Nvidia's board to bring Huang back, and regulators in China, South Korea and Taiwan added emergency steps to steady their markets. Treasury yields, the interest rates the government pays to borrow, rose Monday as money moved out of safe bonds, and investors are listening to New York Fed President John Williams for hints of another Fed rate increase. With the 10-year yield just above 5%, the average 30-year mortgage rate sits near 7.3%.",
+    "movers": [
+      {
+        "symbol": "NASDAQCOM",
+        "why": "The tech-heavy Nasdaq fell 2.25% on Thursday and is down almost 10% in a month, the deepest drop of the major U.S. indexes, as AI stocks sold off."
+      },
+      {
+        "symbol": "NIKKEI225",
+        "why": "Japan's main index fell about 5% on Friday; Japanese chip and tech shares tied to the AI trade moved with the U.S. sell-off, though no single cause was reported."
+      },
+      {
+        "symbol": "MORTGAGE30US",
+        "why": "The average 30-year mortgage rate jumped 0.17 percentage point in the latest weekly survey to 7.28%, tracking 10-year Treasury yields that sit above 5%."
+      },
+      {
+        "symbol": "CBBTCUSD",
+        "why": "Bitcoin edged up on the weekend but is still down about a quarter over the past month, moving with the broader retreat from risky assets."
+      }
+    ],
+    "concept": {
+      "term": "Stock market bubble",
+      "explanation": "A bubble is when prices of an asset climb far above what the underlying businesses are likely to earn, driven mostly by investors expecting prices to keep rising. Bubbles deflate when that expectation breaks: a disappointing earnings report, higher interest rates or a scandal can make buyers step back, and falling prices then push others to sell. Whether AI stocks were in one is debated, which is why last week's sharp drop and Monday's bounce draw so much attention. For ordinary people the effect shows up in retirement accounts and index funds, which hold large stakes in big tech companies, and in hiring plans when those companies' shares fall."
+    },
+    "watch": [
+      "Mon Nov 23: New York Fed President John Williams speaks",
+      "Thu Nov 26: U.S. stock and bond markets closed for Thanksgiving",
+      "Fri Nov 27: Black Friday; U.S. stock markets close early at 1 p.m. ET"
+    ]
+  },
+  "trending": [
+    {
+      "title": "Grand Theft Auto VI",
+      "context": "The long-awaited video game launched and Wikipedia's news section says it sold $3.79 billion on its first day, more than any entertainment product before it.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "Iran war and the Strait of Hormuz",
+      "context": "Searches rose after British endurance swimmer Lewis Pugh swam the Strait of Hormuz to draw attention to the ongoing Iran war's toll on wildlife, CBS News reported.",
+      "signal": "google"
+    },
+    {
+      "title": "Jensen Huang",
+      "context": "The former Nvidia chief executive resigned amid allegations involving a suspected Chinese intelligence contact, and President Trump has now urged Nvidia's board to rehire him.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "Voyager 1 reaches one light-day",
+      "context": "NASA's Voyager 1 probe became the first human-made object to be one light-day from Earth, meaning its signals take a full day to arrive.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "Army plan to detonate chemicals in Iowa",
+      "context": "Bluesky users are discussing the Army's plan to use emergency provisions to blow up stored bomb-making chemicals in Iowa despite local health concerns.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Riemann hypothesis",
+      "context": "The famous unsolved math problem drew more than 200,000 Wikipedia views in a day; the trend data does not say what prompted the spike.",
+      "signal": "wikipedia"
+    }
+  ]
+}
