@@ -1,0 +1,343 @@
+{
+  "stories": [
+    {
+      "id": "ukraine-russian-warship-libya",
+      "headline": "Ukraine says it sank a Russian warship in Libya as the war spreads beyond the front",
+      "region": "Africa",
+      "importance": 5,
+      "summary": "President Volodymyr Zelenskyy said Ukraine was behind naval drone attacks that sank a Russian warship and damaged a sanctioned cargo vessel in Libya, thousands of miles from the front line. Ukraine called the strikes lawful self-defense. Zelenskyy has also confirmed a drone strike on a Russian cargo ship in the Gulf of Finland, while Poland reported a Russian drone in its airspace days after Russian missiles landed on its territory.",
+      "why_it_matters": "The fighting between Russia and Ukraine is now reaching the Mediterranean, the Baltic and NATO territory, which raises the chance of other countries being drawn in and of disruption to shipping routes.",
+      "background": "Russia launched its full-scale invasion of Ukraine in February 2022, and the war is now in its fifth year. Ukraine has used explosive-laden sea drones to hit Russian ships in the Black Sea, and reporting earlier this year said Ukrainian forces were operating in Libya and had attacked a Russian tanker in the Mediterranean. Libya is split between rival administrations in Tripoli in the west and in the east, where Russia has a military presence and where Benghazi is located. Russia continues nightly air attacks on Ukrainian cities.",
+      "facts": [
+        { "text": "Zelenskyy said Ukraine carried out attacks that sank a Russian warship and damaged a sanctioned cargo vessel in Libya.", "refs": ["e7836a1030", "5a83380524"] },
+        { "text": "Zelenskyy posted military video said to show the naval drone attacks.", "refs": ["0810934989"] },
+        { "text": "Fox News identified the ship as the corvette Mercury and the location as Benghazi.", "refs": ["e775bcd647"] },
+        { "text": "Ukraine said the strikes were lawful self-defense; the Kyiv Independent quoted an official, Tykhyi, as saying Russian warships and arms carriers arriving in Libya were what created a threat to the country.", "refs": ["66a777c16a"] },
+        { "text": "The Wall Street Journal reported that Ukrainian special forces tracked Russian ship movements for months before the attack.", "refs": ["c78e70feef"] },
+        { "text": "Zelenskyy confirmed Ukraine was responsible for a drone strike on a Russian cargo ship in the Gulf of Finland, Bloomberg reported.", "refs": ["0acbec90e6", "86afad3ac3"] },
+        { "text": "Poland said a Russian drone entered its airspace during an overnight attack on western Ukraine, days after three Russian missiles came down in Poland; an air-attack alert was issued for parts of the Lublin region for about an hour.", "refs": ["dc15bd4d6f", "214f600129"] },
+        { "text": "The Kremlin has not commented on the missiles that landed in Poland, NPR reported.", "refs": ["a7dfb64f15"] },
+        { "text": "A Russian attack on the Ukrainian city of Zaporizhzhia overnight killed two people, regional governor Mykhailo Semikin said.", "refs": ["1ca7352184", "9d636a2e41", "c1e970ee76"] },
+        { "text": "The Financial Times, citing people familiar with the matter, reported that U.S. Defense Secretary Pete Hegseth has not yet approved the transfer of about 60 Patriot interceptors already allocated to Ukraine.", "refs": ["78345d4ecf", "2a65d0359c"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Where the warship was when it was hit",
+          "positions": [
+            { "claim": "The ship was docked in port in Libya.", "refs": ["c78e70feef", "a7dfb64f15"] },
+            { "claim": "The ship was sunk off Libya's coast.", "refs": ["e7836a1030", "5a83380524"] }
+          ]
+        },
+        {
+          "topic": "Whether Poland's airspace was violated on purpose",
+          "positions": [
+            { "claim": "The Polish defense ministry said the drone incursion was deliberate.", "refs": ["214f600129"] },
+            { "claim": "Bloomberg's account of the Polish military statement describes the drone as having briefly strayed into Polish airspace.", "refs": ["dc15bd4d6f"] }
+          ]
+        },
+        {
+          "topic": "How many people were wounded in Zaporizhzhia",
+          "positions": [
+            { "claim": "22 wounded, per the official cited by The Hindu.", "refs": ["9d636a2e41"] },
+            { "claim": "About 40 wounded, four of them children, per the governor as cited by France 24.", "refs": ["c1e970ee76"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "e775bcd647", "note": "Leads with a former U.S. official's warning that the strike risks escalation." },
+        { "ref": "66a777c16a", "note": "Leads with Ukraine's legal justification for the strike." },
+        { "ref": "c042948370", "note": "Presents the sinking as another loss in a run of Russian naval setbacks across three seas." },
+        { "ref": "a7dfb64f15", "note": "Pairs the Libya strike with Russian missiles in Poland to stress the war's widening geography." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e7836a1030", "takeaway": "Summary only: Zelenskyy's claim of responsibility for one warship sunk and one cargo vessel damaged.", "read_full": false },
+        { "ref": "0810934989", "takeaway": "Video report built around the footage Zelenskyy posted.", "read_full": false },
+        { "ref": "e775bcd647", "takeaway": "Summary only: centers on a former official's escalation warning and names the ship and port.", "read_full": false },
+        { "ref": "c78e70feef", "takeaway": "Headline and summary only (paywalled): a reconstruction of how the operation was planned.", "read_full": false },
+        { "ref": "5a83380524", "takeaway": "Headline only (paywalled): stresses the distance from the front line.", "read_full": false },
+        { "ref": "66a777c16a", "takeaway": "Summary only: Ukraine defending the strike as self-defense.", "read_full": false },
+        { "ref": "8689706299", "takeaway": "Interview with a Crisis Group analyst who doubts Tripoli would have approved a Ukrainian attack.", "read_full": false },
+        { "ref": "a7dfb64f15", "takeaway": "Summary only: ties the Libya strike to missiles landing in Poland.", "read_full": false },
+        { "ref": "0acbec90e6", "takeaway": "Headline and summary only (paywalled): Zelenskyy confirming the Gulf of Finland strike.", "read_full": false },
+        { "ref": "c042948370", "takeaway": "Headline and summary only (paywalled): overview of Russian naval losses.", "read_full": false },
+        { "ref": "214f600129", "takeaway": "Summary only: Polish defense ministry calling the drone incursion deliberate.", "read_full": false },
+        { "ref": "dc15bd4d6f", "takeaway": "Headline and summary only (paywalled): Polish military account of the drone.", "read_full": false },
+        { "ref": "86afad3ac3", "takeaway": "Live blog summary covering the Polish investigation and the Gulf of Finland confirmation.", "read_full": false },
+        { "ref": "1ca7352184", "takeaway": "Headline only: the governor's death toll in Zaporizhzhia.", "read_full": false },
+        { "ref": "9d636a2e41", "takeaway": "Summary only: damage to homes and transport in Zaporizhzhia.", "read_full": false },
+        { "ref": "c1e970ee76", "takeaway": "Live blog summary with a higher count of wounded.", "read_full": false },
+        { "ref": "78345d4ecf", "takeaway": "Headline and summary only (paywalled): original report on the delayed Patriot interceptors.", "read_full": false },
+        { "ref": "2a65d0359c", "takeaway": "Headline only: Reuters relaying the FT report.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "cop31-talks-collapse",
+      "headline": "COP31 climate summit ends without a deal after split over fossil fuels",
+      "region": "Global",
+      "importance": 5,
+      "summary": "The United Nations climate summit in Antalya, Turkey, ended without an agreement after the European Union and other parties refused to accept a final text that lacked language on phasing out fossil fuels. The EU now plans to seek changes to how the UN talks are run, the Financial Times reported.",
+      "why_it_matters": "These yearly talks are where governments set shared goals for cutting emissions and paying for climate damage; a failed summit means no new global commitments this year, and experts quoted by the AP say poorer countries could be hit hardest.",
+      "background": "COP is the annual UN conference where nearly every country negotiates climate action, and decisions require consensus. This year's meeting, COP31, was held in Antalya, Turkey. An early draft called for faster action to phase out fossil fuels, but a later, shorter draft removed that language as the deadline approached. Countries were also divided over climate finance, the money richer nations provide to help poorer ones cut emissions and cope with climate impacts.",
+      "facts": [
+        { "text": "COP31 ended without an agreement, with divisions over fossil fuels and climate finance.", "refs": ["f8f6c4f53a", "98f5ea0605"] },
+        { "text": "About 130 parties, including the EU and Panama, refused to accept the COP president's consensus text, saying it \"greenwashes\" fossil fuels; India, China and Saudi Arabia were on the other side, The Hindu reported.", "refs": ["98f5ea0605"] },
+        { "text": "A slimmed-down draft published before the Friday deadline had removed any reference to ending the use of fossil fuels.", "refs": ["world-w2"] },
+        { "text": "The EU will seek changes to the UN climate talks process after the failure, the Financial Times reported.", "refs": ["6625f72d1e"] },
+        { "text": "Experts told the AP that the failed talks could worsen climate inequality, though not all progress has stalled.", "refs": ["a081cbb2df"] },
+        { "text": "France 24 reported disappointment among African countries with the outcome.", "refs": ["f8f6c4f53a"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "98f5ea0605", "note": "Attributes the failure to the EU and others rejecting a deal without phase-out language." },
+        { "ref": "f8f6c4f53a", "note": "Leads with Africa's disappointment at the outcome." },
+        { "ref": "fb729ad8db", "note": "Looks ahead to what comes next, mixing reform and hope with a warning of more heat." },
+        { "ref": "6625f72d1e", "note": "Focuses on the EU's push to change the negotiating process." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "98f5ea0605", "takeaway": "Summary only: the most detailed account in the digest of who blocked the final text.", "read_full": false },
+        { "ref": "f8f6c4f53a", "takeaway": "Broadcast summary: the failure seen from Africa.", "read_full": false },
+        { "ref": "fb729ad8db", "takeaway": "Headline only: AP explainer on what follows the collapse.", "read_full": false },
+        { "ref": "a081cbb2df", "takeaway": "Headline only: AP on the inequality effects of the failure.", "read_full": false },
+        { "ref": "6625f72d1e", "takeaway": "Headline and summary only (paywalled): EU reform push and blame-trading.", "read_full": false },
+        { "ref": "b2300d51a9", "takeaway": "Headline only (paywalled): calls for a new approach to climate talks.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "hasina-return-date",
+      "headline": "Ousted Bangladeshi leader Sheikh Hasina sets Dec. 16 return; government vows arrest",
+      "region": "Asia-Pacific",
+      "importance": 4,
+      "summary": "Former Prime Minister Sheikh Hasina plans to return to Bangladesh from exile in India on Dec. 16, her spokesperson said. Bangladeshi officials said she would be arrested if she comes back and that they expect India to honor the two countries' extradition treaty.",
+      "why_it_matters": "Hasina was sentenced to death in absentia, and her planned return is already fueling political tension and street violence in Bangladesh, according to The Hindu.",
+      "background": "Sheikh Hasina ruled Bangladesh for 15 years until a student-led uprising forced her out on Aug. 5, 2024, when she went to India. She was sentenced to death in absentia last year over a crackdown on protesters that left hundreds dead. She has said several times that she wants to go back, but had not named a date before. Dec. 16 is the anniversary of the end of Bangladesh's 1971 liberation war with Pakistan.",
+      "facts": [
+        { "text": "Hasina's spokesperson said she plans to return to Bangladesh from India on Dec. 16.", "refs": ["cf20c7e83a", "fadbd48acb", "d446c5f807"] },
+        { "text": "It is the first time she has set a date for her return, the BBC reported.", "refs": ["d446c5f807"] },
+        { "text": "The spokesperson told Reuters she seeks to travel on the state carrier.", "refs": ["fadbd48acb"] },
+        { "text": "State Minister for Foreign Affairs Shama Obaed Islam said Hasina would be arrested on return and that Dhaka expects India to honor the extradition treaty.", "refs": ["0d14d464db"] },
+        { "text": "Another official, Humaiun Kobir, said she could only be brought back \"in handcuffs or under strict surveillance.\"", "refs": ["981505503b"] },
+        { "text": "Bangladesh's law minister said earlier that she would be arrested on arrival, before she could surrender to a court.", "refs": ["world-w3"] },
+        { "text": "Hasina was sentenced to death in absentia last year over a crackdown that left hundreds dead.", "refs": ["217cad4b84"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "d446c5f807", "note": "Leads with Hasina's plan and notes it is her first firm date." },
+        { "ref": "0d14d464db", "note": "Leads with the government's vow to arrest her." },
+        { "ref": "217cad4b84", "note": "Calls her an exiled leader and puts the death sentence up front." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "cf20c7e83a", "takeaway": "Headline only: AP wire on the announced date.", "read_full": false },
+        { "ref": "d446c5f807", "takeaway": "Summary only: stresses this is the first time a date has been set.", "read_full": false },
+        { "ref": "fadbd48acb", "takeaway": "Reuters wire summary: adds the state-carrier detail and the anniversary.", "read_full": false },
+        { "ref": "0d14d464db", "takeaway": "Summary only: the government's response and the extradition demand on India.", "read_full": false },
+        { "ref": "981505503b", "takeaway": "Summary only: an official's 'handcuffs' remark.", "read_full": false },
+        { "ref": "217cad4b84", "takeaway": "Summary only: background on the exile and the sentence.", "read_full": false },
+        { "ref": "8e13da3ca5", "takeaway": "Summary only: timeline of her 2024 ouster.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "myanmar-genocide-ruling-aftermath",
+      "headline": "UK sanctions Myanmar generals after genocide ruling; Malaysia to keep sending people back",
+      "region": "Asia-Pacific",
+      "importance": 4,
+      "summary": "Fourteen countries formally acknowledged the International Court of Justice's finding that Myanmar committed genocide against the Rohingya, and the United Kingdom sanctioned top Myanmar military leaders. Malaysia's prime minister said his country will repatriate another 6,803 Myanmar nationals next month despite the ruling.",
+      "why_it_matters": "It is the first time the UN's top court has found a state responsible for genocide, and how governments respond will shape what such rulings mean in practice, including for Rohingya refugees.",
+      "background": "The Rohingya are a mostly Muslim minority from Myanmar; military operations in 2016-2017 drove large numbers of them into Bangladesh. Gambia brought a case against Myanmar at the International Court of Justice in 2019 under the Genocide Convention. On Nov. 19 the court ruled 9-6 that Myanmar committed genocide and said Gambia could seek reparations for victims, with amounts to be set later. Myanmar has been run by a military junta since a 2021 coup and is fighting a civil war.",
+      "facts": [
+        { "text": "Fourteen countries from Europe, Africa and Oceania acknowledged the ICJ ruling and called on Myanmar to comply with its obligations under international law.", "refs": ["5853e53460", "91caada7b4"] },
+        { "text": "The UK imposed sanctions on top Myanmar military leaders after the ruling.", "refs": ["91caada7b4"] },
+        { "text": "Malaysian Prime Minister Anwar Ibrahim said Malaysia plans to repatriate another 6,803 Myanmar nationals next month.", "refs": ["034750cc4a", "21d99b6d79"] },
+        { "text": "Anwar said Malaysia would continue working with Myanmar on repatriation and acknowledged \"atrocities\" by the junta.", "refs": ["b56da17036", "21d99b6d79"] },
+        { "text": "The ICJ ruled by nine votes to six that Myanmar committed genocide, the first time the court has found a state responsible for genocide, according to Human Rights Watch.", "refs": ["world-w4"] },
+        { "text": "A report released Tuesday by the International Campaign to Ban Landmines said land mine casualties hit a five-year high in 2025, with Myanmar's civil war a main driver.", "refs": ["7d1eb19f9d", "6fcf13befa"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "b56da17036", "note": "Describes Malaysia's plan as continued cooperation on refugee repatriation." },
+        { "ref": "21d99b6d79", "note": "Stresses that thousands will be sent back even as the prime minister acknowledges atrocities." },
+        { "ref": "034750cc4a", "note": "Uses the exact figure and the word 'despite' to set the plan against the ruling." },
+        { "ref": "91caada7b4", "note": "Leads with the UK's sanctions response." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "91caada7b4", "takeaway": "Summary only: UK sanctions and other nations recognizing the ruling.", "read_full": false },
+        { "ref": "5853e53460", "takeaway": "Summary only: the 14-country statement.", "read_full": false },
+        { "ref": "b56da17036", "takeaway": "Headline only: Reuters on Malaysia's repatriation stance.", "read_full": false },
+        { "ref": "21d99b6d79", "takeaway": "Summary only: contrasts the returns with Anwar's acknowledgement of atrocities.", "read_full": false },
+        { "ref": "034750cc4a", "takeaway": "AP wire summary: gives the 6,803 figure and timing.", "read_full": false },
+        { "ref": "66bd3e3ef2", "takeaway": "Headline and summary only (paywalled): the ruling as precedent, including for a case over Gaza.", "read_full": false },
+        { "ref": "7d1eb19f9d", "takeaway": "AP wire summary: land mine casualty report.", "read_full": false },
+        { "ref": "6fcf13befa", "takeaway": "Headline and summary only (paywalled): names the report's publisher and the total.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mexico-chapo-isidro-capture",
+      "headline": "Mexico says captured drug lord 'El Chapo Isidro' will be tried at home; U.S. drone aided raid",
+      "region": "Americas",
+      "importance": 4,
+      "summary": "Mexican officials said the United States flew a surveillance drone over Mexican territory to help locate Fausto Isidro Meza Flores, known as 'El Chapo Isidro', who was captured in a special forces raid in Sinaloa. A Mexican official said he will be tried in Mexico despite a U.S. extradition request.",
+      "why_it_matters": "The case shows how far U.S. involvement in Mexico's fight against cartels now extends and tests whether arresting leaders reduces the flow of drugs and violence, something analysts cited by Reuters say has a mixed record.",
+      "background": "Meza Flores is an alleged trafficker based in Sinaloa state who was on the FBI's most-wanted list and had avoided capture for years. The United States has pressed Mexico to act against cartels and has sought the extradition of their leaders. Mexico has recently detained several senior cartel figures. U.S. military or intelligence activity on Mexican soil is politically sensitive in Mexico.",
+      "facts": [
+        { "text": "Mexican officials said the U.S. flew a surveillance drone over Mexican territory to help locate and capture Meza Flores.", "refs": ["802f4af903", "c3ea51bf3c"] },
+        { "text": "He was captured in Sinaloa in a special forces raid coordinated with U.S. intelligence, and the capture led to further arrests.", "refs": ["fb2eded397"] },
+        { "text": "A Mexican official said he will be tried in Mexico despite a U.S. extradition request.", "refs": ["8cc432bb9f", "652b6125db"] },
+        { "text": "Authorities released body-camera footage of troops detaining him at a home.", "refs": ["82b58e9664"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "a3ddffc1d3", "note": "Carries the AP headline, which leads with the U.S. drone flight over Mexican territory." },
+        { "ref": "8cc432bb9f", "note": "Leads with Mexico keeping the trial at home despite the U.S. request." },
+        { "ref": "695ee5b816", "note": "Sets the arrest against the mixed history of targeting cartel leaders." },
+        { "ref": "a5b831f268", "note": "Asks whether the arrests mark a new phase in Mexico's approach." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c3ea51bf3c", "takeaway": "Headline only: AP wire on the U.S. drone's role.", "read_full": false },
+        { "ref": "802f4af903", "takeaway": "Summary only: Mexican officials' account of the drone flight.", "read_full": false },
+        { "ref": "a3ddffc1d3", "takeaway": "Headline only: reprint of the AP story.", "read_full": false },
+        { "ref": "fb2eded397", "takeaway": "Summary only: the raid and follow-on arrests.", "read_full": false },
+        { "ref": "8cc432bb9f", "takeaway": "Headline only: Reuters on the decision to try him in Mexico.", "read_full": false },
+        { "ref": "695ee5b816", "takeaway": "Headline only: Reuters analysis of the 'kingpin strategy'.", "read_full": false },
+        { "ref": "82b58e9664", "takeaway": "Video summary: body-camera footage of the arrest.", "read_full": false },
+        { "ref": "2ca57e9c05", "takeaway": "Headline and summary only (paywalled): doubts that the arrest will dismantle the group.", "read_full": false },
+        { "ref": "a5b831f268", "takeaway": "Headline and summary only (paywalled): the arrest as part of a run of takedowns.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "russia-nuclear-satellite-reports",
+      "headline": "NATO pledges space defense after reports Russia may launch a nuclear-armed satellite",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "German media, citing unnamed German military and intelligence sources, reported that Russia may be preparing to launch a satellite carrying a nuclear weapon. Asked about the reports, NATO Secretary General Mark Rutte said the alliance would defend against threats in space. The reports have not been confirmed on the record.",
+      "why_it_matters": "A nuclear blast in orbit could disable satellites that phones, navigation, banking and weather forecasting depend on, but the claim rests on unnamed sources.",
+      "background": "Western officials have said since at least 2025 that Russia may be developing a nuclear device meant to destroy satellites. Rutte said in 2025 that such a weapon would breach the 1967 Outer Space Treaty, which bars nuclear weapons in orbit. The new reports come from German outlets citing the military and the BND, Germany's foreign intelligence service. Tension between Russia and NATO is already high over the war in Ukraine.",
+      "facts": [
+        { "text": "German media, citing unnamed German military and BND sources, reported that Russia may be preparing to launch a nuclear-armed satellite in the coming weeks.", "refs": ["792e41a0a3", "9e8a6a2e3d"] },
+        { "text": "Rutte said Monday that NATO would defend against threats in space.", "refs": ["792e41a0a3", "9e8a6a2e3d"] },
+        { "text": "The reports said such a weapon would give Russia the ability to destroy other satellites.", "refs": ["564b4f2c3c"] },
+        { "text": "Rutte said in April 2025 that putting nuclear weapons in space would violate the 1967 Outer Space Treaty.", "refs": ["world-w7"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How soon a launch could happen",
+          "positions": [
+            { "claim": "In the coming weeks, per the German media reports.", "refs": ["9e8a6a2e3d", "564b4f2c3c"] },
+            { "claim": "Within 60 days, per Fox News' account of the Western intelligence warning.", "refs": ["803f68652b"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "b4a0777c30", "note": "States as fact that Russia is readying the weapon, attributing it to German media." },
+        { "ref": "564b4f2c3c", "note": "Poses the report as an open question." },
+        { "ref": "9e8a6a2e3d", "note": "Leads with NATO's response and labels the claim as reports." },
+        { "ref": "e0ccbd0f44", "note": "Focuses on a retired commander's warning about the threat to U.S. satellites." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "792e41a0a3", "takeaway": "Summary only: Rutte's response and the sourcing of the German reports.", "read_full": false },
+        { "ref": "9e8a6a2e3d", "takeaway": "Summary only: NATO's pledge and the reported timing.", "read_full": false },
+        { "ref": "564b4f2c3c", "takeaway": "Summary only: explainer on what is claimed.", "read_full": false },
+        { "ref": "803f68652b", "takeaway": "Summary only: gives a 60-day window and the threat to U.S. and allied satellites.", "read_full": false },
+        { "ref": "b4a0777c30", "takeaway": "Headline only: relays the German reports.", "read_full": false },
+        { "ref": "e0ccbd0f44", "takeaway": "Summary only: interview with a retired commander.", "read_full": false },
+        { "ref": "738140adef", "takeaway": "Summary only: science explainer on a nuclear blast in space.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "israel-eisenkot-netanyahu-iran",
+      "headline": "Israel's likely next leader says Iran is no immediate threat, clashing with Netanyahu",
+      "region": "Middle East",
+      "importance": 4,
+      "summary": "Gadi Eisenkot, who has the mandate to form Israel's next government, said he sees no immediate threat from Iran that requires military action. Caretaker Prime Minister Benjamin Netanyahu warned against playing down what he called grave threats. Separately, the U.S. ambassador to Israel said he was not certain American military aid would end this year, as President Donald Trump had promised.",
+      "why_it_matters": "Whether Israel strikes Iran again affects the risk of a wider Middle East war and oil prices, and the dispute over U.S. aid involves $3.8 billion a year in American taxpayer money.",
+      "background": "Israel held an election on Oct. 27, and President Isaac Herzog then asked Eisenkot, a former army chief, to form a government instead of Netanyahu, who stays on as caretaker prime minister during coalition talks. Netanyahu has pushed for renewed strikes on Iran, and Fox News reports that Trump is weighing them. The United States gives Israel $3.8 billion a year in military aid. Trump said on the day of this month's U.S. midterm elections that the aid would end by the end of this year.",
+      "facts": [
+        { "text": "Eisenkot said he sees no immediate threat from Iran requiring military action.", "refs": ["b72dddf693", "ef614842ee", "bb5b496b5a"] },
+        { "text": "Netanyahu warned against playing down \"grave threats.\"", "refs": ["bb5b496b5a", "83a541a9a3"] },
+        { "text": "Herzog tasked Eisenkot with forming a government after 67 lawmakers endorsed him; Netanyahu remains prime minister in a caretaker capacity.", "refs": ["world-w6"] },
+        { "text": "U.S. Ambassador Mike Huckabee said he was \"not certain\" the $3.8 billion in annual U.S. military aid to Israel would end this year, as Trump promised.", "refs": ["c92b76efa0", "81575f419d"] },
+        { "text": "Israeli political leaders, among them a rival of Netanyahu, condemned what they called \"Jewish terrorism\" after settler attacks on Palestinian villages in the West Bank over the weekend.", "refs": ["7993e8c0c2", "23a1174f2b"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Iran poses an immediate threat that justifies strikes now",
+          "positions": [
+            { "claim": "Eisenkot says there is no immediate threat requiring military action.", "refs": ["b72dddf693", "ef614842ee"] },
+            { "claim": "Netanyahu says the threats are grave and should not be played down.", "refs": ["bb5b496b5a"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "ef614842ee", "note": "Calls Eisenkot the leading contender for prime minister and adds that Trump is weighing strikes." },
+        { "ref": "28fb1e929b", "note": "Asks whether Netanyahu's push serves Israel or himself." },
+        { "ref": "83a541a9a3", "note": "Presents the exchange as a two-sided argument over the word 'immediate'." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "b72dddf693", "takeaway": "Headline only: Eisenkot's assessment.", "read_full": false },
+        { "ref": "83a541a9a3", "takeaway": "Headline only: the back-and-forth between the two men.", "read_full": false },
+        { "ref": "ef614842ee", "takeaway": "Summary only: the clash with Trump's deliberations as context.", "read_full": false },
+        { "ref": "bb5b496b5a", "takeaway": "Headline and summary only (paywalled): both men's remarks ahead of their meeting.", "read_full": false },
+        { "ref": "28fb1e929b", "takeaway": "Headline and summary only (paywalled): analysts and opponents questioning Netanyahu's motives.", "read_full": false },
+        { "ref": "c92b76efa0", "takeaway": "Headline only: Reuters on Huckabee's remarks.", "read_full": false },
+        { "ref": "81575f419d", "takeaway": "Reuters wire summary: the aid figure and Trump's promise.", "read_full": false },
+        { "ref": "7993e8c0c2", "takeaway": "Headline and summary only (paywalled): reaction to the West Bank attacks.", "read_full": false },
+        { "ref": "23a1174f2b", "takeaway": "Headline only (paywalled): a Netanyahu rival's condemnation.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iran-singer-flogged",
+      "headline": "Iran flogs singer and four colleagues over concert performed without hijab, lawyers say",
+      "region": "Middle East",
+      "importance": 3,
+      "summary": "Iranian singer Parastoo Ahmadi and four members of her team each received 74 lashes in the city of Qom, according to their lawyers and an Iranian news website. They were also banned from artistic work and travel for two years.",
+      "why_it_matters": "The case shows that Iran is carrying out corporal punishment against women and artists who defy its dress and performance rules, which Western governments and rights groups call torture.",
+      "background": "Iranian law requires women to cover their hair in public and restricts women from singing solo in public. Ahmadi posted an online concert in December 2024 in which she performed without a headscarf. A court in Qom sentenced her and members of her team in June to 74 lashes each, plus two-year bans on travel and artistic activity. Flogging is a legal punishment in Iran.",
+      "facts": [
+        { "text": "Ahmadi and four others, described as three musicians and a producer, each received 74 lashes in Qom, according to their lawyers.", "refs": ["66d64f433a", "85fce92dda"] },
+        { "text": "Reuters attributed the report to the Iranian website Emtedad, which quoted lawyer Mostafa Nili.", "refs": ["d2d473d72f", "0c762b5863"] },
+        { "text": "The five were also given two-year bans on artistic and musical activity and travel.", "refs": ["0c762b5863"] },
+        { "text": "The sentence was for offending public decency through the content they produced and published, the Guardian reported.", "refs": ["85fce92dda"] },
+        { "text": "Western governments and rights groups have criticized flogging as torture and a violation of international law.", "refs": ["85fce92dda"] },
+        { "text": "The sentence was reported in June 2026 and stems from an online concert filmed in December 2024.", "refs": ["world-w5"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "d2d473d72f", "note": "Attributes the flogging to an Iranian website instead of stating it directly." },
+        { "ref": "5c3318a658", "note": "States that Iran flogged the singer and stresses that she is a woman." },
+        { "ref": "66d64f433a", "note": "Attributes the account to lawyers." },
+        { "ref": "9782000656", "note": "Stresses that the concert was online." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "66d64f433a", "takeaway": "Summary only: who was flogged and where, citing lawyers.", "read_full": false },
+        { "ref": "85fce92dda", "takeaway": "Summary only: the charge and international criticism.", "read_full": false },
+        { "ref": "d2d473d72f", "takeaway": "Headline only: Reuters, sourced to an Iranian website.", "read_full": false },
+        { "ref": "0c762b5863", "takeaway": "Reuters wire summary: adds the two-year bans and names the lawyer.", "read_full": false },
+        { "ref": "5c3318a658", "takeaway": "Headline only: states the flogging directly.", "read_full": false },
+        { "ref": "9782000656", "takeaway": "Headline only: notes the concert was online.", "read_full": false },
+        { "ref": "c181e55343", "takeaway": "Headline only (paywalled): the number of lashes.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w2", "url": "https://www.devdiscourse.com/article/international/4009614-cop31-draft-drops-fossil-fuel-language-as-talks-near-deadline", "title": "COP31 draft drops fossil fuel language as talks near deadline", "outlet": "Devdiscourse" },
+    { "id": "world-w3", "url": "https://www.tribuneindia.com/news/world/hasina-to-be-arrested-on-return-before-she-can-surrender-bangladesh-law-minister/", "title": "Hasina to be arrested on return, before she can surrender: Bangladesh law minister", "outlet": "The Tribune (India)" },
+    { "id": "world-w4", "url": "https://www.hrw.org/news/2026/11/19/world-court-finds-myanmar-committed-rohingya-genocide", "title": "World Court Finds Myanmar Committed Rohingya Genocide", "outlet": "Human Rights Watch" },
+    { "id": "world-w5", "url": "https://www.euronews.com/culture/2026/06/19/iranian-artist-parastoo-ahmadi-reportedly-sentenced-to-74-lashes-for-singing-without-hijab", "title": "Iranian artist Parastoo Ahmadi reportedly sentenced to 74 lashes for singing without hijab", "outlet": "Euronews" },
+    { "id": "world-w6", "url": "https://aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government", "title": "Eisenkot open to Netanyahu joining Israel's next government", "outlet": "Al Jazeera" },
+    { "id": "world-w7", "url": "https://www.euronews.com/2025/04/12/nato-chief-warns-of-possible-russian-nuclear-weapons-in-space", "title": "NATO chief warns of possible Russian nuclear weapons in space", "outlet": "Euronews" }
+  ]
+}

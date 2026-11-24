@@ -1,0 +1,900 @@
+{
+  "stories": [
+    {
+      "id": "iowa-army-detonation-court",
+      "headline": "Appeals court lets Army detonate degraded explosives in Iowa on Wednesday",
+      "region": "Courts",
+      "importance": 5,
+      "summary": "A federal appeals court on Monday declined to block the Army from detonating several tons of degraded lead azide at a munitions plant in Iowa. The Army said it will carry out the detonation on Wednesday, after a day in which President Trump said the plan depended on the court and on Iowa's incoming Democratic governor.",
+      "why_it_matters": "Lead azide contains lead, and residents and environmental groups have raised concerns about contamination and health risks from the blast; the Army says the material is unstable and has to be removed.",
+      "background": "The Iowa Army Ammunition Plant in Middletown holds about five tons of lead azide, a chemical used in bomb-making that has degraded in storage. The Army planned to destroy it in controlled detonations last week under an emergency permit from the Environmental Protection Agency. Environmental groups sued in the 8th U.S. Circuit Court of Appeals to stop it, and the plan was paused. Iowa is between governors: Republican Kim Reynolds is leaving office and Democrat Rob Sand was elected this month to succeed her.",
+      "facts": [
+        {
+          "text": "A federal appeals court on Monday declined to block the Army from detonating explosives containing lead azide at a munitions plant in Iowa.",
+          "refs": [
+            "b0e5a1f3ba",
+            "5cf4131f85",
+            "11b430ff93"
+          ]
+        },
+        {
+          "text": "The Army plans to carry out the detonation on Wednesday.",
+          "refs": [
+            "baf325d80a",
+            "1c3a8d9d24",
+            "c3d639a229"
+          ]
+        },
+        {
+          "text": "Acting Army Secretary Adam Telle said Monday the Army would move forward after the 8th U.S. Circuit Court of Appeals ruling, the Washington Examiner reported.",
+          "refs": [
+            "1c3a8d9d24"
+          ]
+        },
+        {
+          "text": "The amount to be detonated is about five tons; the Wall Street Journal put it at 9,500 pounds.",
+          "refs": [
+            "c3d639a229",
+            "02ea6ee301"
+          ]
+        },
+        {
+          "text": "Trump said the Army would proceed only with the agreement of the court and of Gov.-elect Rob Sand; Sand said the decision belonged to the administration, NewsNation reported.",
+          "refs": [
+            "280a4a400a"
+          ]
+        },
+        {
+          "text": "In a social media post, Trump sought to place responsibility for 'any and all death or destruction' on the Democratic governor-elect, the Guardian reported.",
+          "refs": [
+            "5cf4131f85"
+          ]
+        },
+        {
+          "text": "Environmental groups had asked the 8th Circuit to halt the detonation, challenging the EPA's emergency permit, according to Earthjustice.",
+          "refs": [
+            "us-w1"
+          ]
+        },
+        {
+          "text": "The Army originally planned to detonate the material on Friday, Nov. 20, at the Iowa Army Ammunition Plant in Middletown, local television reported last week.",
+          "refs": [
+            "us-w2"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Gov.-elect Rob Sand approved the detonation",
+          "positions": [
+            {
+              "claim": "The Washington Examiner reported that Gov. Kim Reynolds and Gov.-elect Rob Sand both gave the green light.",
+              "refs": [
+                "1c3a8d9d24"
+              ]
+            },
+            {
+              "claim": "NewsNation reported that Sand said the administration should decide, after Trump said the Army would go ahead only with Sand's agreement.",
+              "refs": [
+                "280a4a400a"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "5cf4131f85",
+          "note": "Describes the material as 'bomb-making chemicals' and, in its summary, highlights Trump shifting responsibility to the Democratic governor-elect."
+        },
+        {
+          "ref": "1c3a8d9d24",
+          "note": "Leads with the Army's schedule and says the court and both the governor and governor-elect signed off."
+        },
+        {
+          "ref": "c3d639a229",
+          "note": "Calls the explosives 'toxic' and notes that Trump had paused the plan."
+        },
+        {
+          "ref": "77794af2c0",
+          "note": "Emphasizes that the pause was over potential environmental impacts."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "b0e5a1f3ba",
+          "takeaway": "Short court story: appeals court declined to block the detonation.",
+          "read_full": false
+        },
+        {
+          "ref": "5cf4131f85",
+          "takeaway": "Court ruling plus Trump's social media post about the governor-elect.",
+          "read_full": false
+        },
+        {
+          "ref": "1c3a8d9d24",
+          "takeaway": "Focuses on the Army's Wednesday plan and state officials' sign-off.",
+          "read_full": false
+        },
+        {
+          "ref": "baf325d80a",
+          "takeaway": "Says the Army is going ahead after Trump added uncertainty on Monday.",
+          "read_full": false
+        },
+        {
+          "ref": "280a4a400a",
+          "takeaway": "Reports the back-and-forth between Trump and Sand over who decides.",
+          "read_full": false
+        },
+        {
+          "ref": "c3d639a229",
+          "takeaway": "Gives the five-tonne figure and the Wednesday date.",
+          "read_full": false
+        },
+        {
+          "ref": "02ea6ee301",
+          "takeaway": "Headline and summary only (paywalled): gives the 9,500-pound figure.",
+          "read_full": false
+        },
+        {
+          "ref": "11b430ff93",
+          "takeaway": "Notes public concern over contamination and health risks.",
+          "read_full": false
+        },
+        {
+          "ref": "77794af2c0",
+          "takeaway": "Headline only: the court lifted a pause tied to environmental concerns.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nvidia-huang-trump-congress-backlash",
+      "headline": "Lawmakers in both parties object to Trump's role in Nvidia CEO's reinstatement",
+      "region": "White House",
+      "importance": 5,
+      "summary": "Nvidia's board reinstated Jensen Huang as chief executive on Monday, 11 days after he resigned over an affair with a woman alleged to be a Chinese spy, and President Trump said he had 'convinced' the company to do it. Republicans and Democrats in Congress criticized the intervention and plan to question Huang. The same day, the Commerce Department put Megaspeed, the company at the center of the scandal, on a trade blacklist.",
+      "why_it_matters": "Nvidia is one of the most valuable companies in the stock market, so its swings show up in many retirement accounts, and the episode raises questions about how far a president should go in pressing a private company's board and about the security of advanced AI chips.",
+      "background": "Jensen Huang founded Nvidia, whose chips power most artificial intelligence systems. He resigned earlier this month after an extramarital affair with Alice Huang, a former executive of the Singapore-based AI firm Megaspeed who is suspected of spying for China, became public; Megaspeed has been accused of funneling AI chips to China. Last week Nvidia's board chair told investors the board did not intend to bring him back. Trump publicly pressed for his return, and on Monday the board reversed itself.",
+      "facts": [
+        {
+          "text": "Nvidia's board reinstated Jensen Huang as CEO on Monday; the Guardian reported the vote was unanimous.",
+          "refs": [
+            "a358f127da",
+            "7363f8071b"
+          ]
+        },
+        {
+          "text": "Huang returned 11 days after resigning over an extramarital affair with an alleged Chinese spy, France 24 reported.",
+          "refs": [
+            "ec9df83fef"
+          ]
+        },
+        {
+          "text": "Trump said he 'convinced' Nvidia to reinstate Huang, and the company had come under pressure from him to do so, the BBC reported.",
+          "refs": [
+            "8183f4f297"
+          ]
+        },
+        {
+          "text": "Republican and Democratic members of Congress criticized Trump's role in the reinstatement.",
+          "refs": [
+            "e74c810c7c",
+            "43b484dc42",
+            "8183f4f297"
+          ]
+        },
+        {
+          "text": "Congress plans to question Huang about his ties to China and Trump's intervention, the Guardian reported.",
+          "refs": [
+            "43b484dc42"
+          ]
+        },
+        {
+          "text": "Nvidia shares closed 31 percent higher on Monday, adding about $1 trillion to the company's market value, then fell in premarket trading Tuesday.",
+          "refs": [
+            "ec9df83fef",
+            "8183f4f297",
+            "43b484dc42"
+          ]
+        },
+        {
+          "text": "The Commerce Department on Monday added Megaspeed to its entity list, a trade blacklist that restricts the company from buying advanced U.S. chips.",
+          "refs": [
+            "1960633189",
+            "af8301566e",
+            "4d22043cae"
+          ]
+        },
+        {
+          "text": "CNBC reported that Megaspeed and six other companies were added over concerns about diversion of advanced computing products.",
+          "refs": [
+            "10f7634741"
+          ]
+        },
+        {
+          "text": "Nvidia's board chair said on Nov. 17 that the board did not intend to reinstate Huang, NPR reported at the time.",
+          "refs": [
+            "us-w3",
+            "a358f127da"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "7363f8071b",
+          "note": "Describes the administration's part as 'input', a milder word than other outlets use."
+        },
+        {
+          "ref": "8183f4f297",
+          "note": "Puts Trump's own word 'convinced' and the backlash at the center."
+        },
+        {
+          "ref": "e74c810c7c",
+          "note": "Stresses that anger over the intervention is bipartisan."
+        },
+        {
+          "ref": "43a3af0872",
+          "note": "Treats it as a corporate governance story: a founder 'too big to fire'."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "8183f4f297",
+          "takeaway": "Trump's claim that he convinced Nvidia, and the backlash that followed.",
+          "read_full": false
+        },
+        {
+          "ref": "e74c810c7c",
+          "takeaway": "Bipartisan criticism in Congress and national security questions.",
+          "read_full": false
+        },
+        {
+          "ref": "43b484dc42",
+          "takeaway": "Live blog: premarket share drop, Republican senators' criticism, plans to question Huang.",
+          "read_full": false
+        },
+        {
+          "ref": "a358f127da",
+          "takeaway": "Podcast summary: the board's reversal and unanimous vote.",
+          "read_full": false
+        },
+        {
+          "ref": "ec9df83fef",
+          "takeaway": "Market reaction: 31 percent rise and global tech rebound.",
+          "read_full": false
+        },
+        {
+          "ref": "7363f8071b",
+          "takeaway": "Headline only: reinstatement followed input from the Trump administration.",
+          "read_full": false
+        },
+        {
+          "ref": "43a3af0872",
+          "takeaway": "Analysts on Nvidia's dependence on its founder and board oversight.",
+          "read_full": false
+        },
+        {
+          "ref": "1960633189",
+          "takeaway": "Megaspeed blacklisting and its link to the scandal.",
+          "read_full": false
+        },
+        {
+          "ref": "af8301566e",
+          "takeaway": "Details of the Commerce notice covering Megaspeed and its subsidiaries.",
+          "read_full": false
+        },
+        {
+          "ref": "10f7634741",
+          "takeaway": "Says seven companies in all were added to the blacklist.",
+          "read_full": false
+        },
+        {
+          "ref": "4d22043cae",
+          "takeaway": "Describes the Commerce filing adding the firm to the entity list.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "gomez-resigns-ethics-report",
+      "headline": "Rep. Jimmy Gomez to resign after House Ethics panel report on sexual misconduct",
+      "region": "Congress",
+      "importance": 4,
+      "summary": "Rep. Jimmy Gomez, a California Democrat, said Monday he will resign from the House effective Dec. 1 after the Ethics Committee reported finding evidence that he made unwanted sexual advances toward, and had sexual contact with, a House staffer. Gomez disputes the findings.",
+      "why_it_matters": "The case tests how Congress polices the treatment of its own staff; Gomez's constituents in California will be without a House member for the final weeks of the term.",
+      "background": "The House Ethics Committee, which has equal numbers of Republicans and Democrats, announced on Aug. 17 that it was reviewing allegations of sexual misconduct against Gomez. Gomez said then that his conduct was consensual and did not break House rules, while acknowledging personal mistakes outside his marriage. He lost his election this month and was due to leave Congress at the end of the year. The committee released its findings on Monday.",
+      "facts": [
+        {
+          "text": "Gomez said he will resign effective Dec. 1 and that he disputes the committee's allegations, the New York Times reported.",
+          "refs": [
+            "3374def2bd",
+            "c4c3f0c6ed"
+          ]
+        },
+        {
+          "text": "The bipartisan Ethics Committee said Gomez made unwanted sexual advances and sexual contact with a House staffer, CBS News reported.",
+          "refs": [
+            "851c213c23"
+          ]
+        },
+        {
+          "text": "Several outlets, citing the panel, described the finding as evidence, or 'substantial evidence', of sexual misconduct.",
+          "refs": [
+            "e204eee3cc",
+            "be7e8a793e",
+            "592afea71d"
+          ]
+        },
+        {
+          "text": "Gomez lost his election this month and had been set to serve until the end of the year, the BBC reported.",
+          "refs": [
+            "592afea71d"
+          ]
+        },
+        {
+          "text": "The Ethics Committee announced its review of the allegations on Aug. 17.",
+          "refs": [
+            "us-w4",
+            "us-w5"
+          ]
+        },
+        {
+          "text": "In August, Gomez said his conduct was consensual and did not violate House ethics rules, NPR reported.",
+          "refs": [
+            "us-w5"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the contact was unwanted",
+          "positions": [
+            {
+              "claim": "The Ethics Committee said Gomez made unwanted sexual advances and sexual contact with a staffer.",
+              "refs": [
+                "851c213c23",
+                "3374def2bd"
+              ]
+            },
+            {
+              "claim": "Gomez disputes the committee's allegations; in August he said his conduct was consensual.",
+              "refs": [
+                "3374def2bd",
+                "us-w5"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "52663ea826",
+          "note": "Headline names his party first and says the panel found evidence of misconduct."
+        },
+        {
+          "ref": "3374def2bd",
+          "note": "Says the panel 'alleges' unwanted contact and gives Gomez's denial in the summary."
+        },
+        {
+          "ref": "1fa191c7ed",
+          "note": "Calls the ethics report 'damning'."
+        },
+        {
+          "ref": "592afea71d",
+          "note": "Notes that he had already lost his seat and had only weeks left."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "3374def2bd",
+          "takeaway": "Headline and summary only (paywalled): resignation date and Gomez's denial.",
+          "read_full": false
+        },
+        {
+          "ref": "851c213c23",
+          "takeaway": "Summarizes what the bipartisan committee said he did.",
+          "read_full": false
+        },
+        {
+          "ref": "592afea71d",
+          "takeaway": "Adds that Gomez lost his election this month.",
+          "read_full": false
+        },
+        {
+          "ref": "e204eee3cc",
+          "takeaway": "Wire headline: resignation after the panel found evidence of misconduct.",
+          "read_full": false
+        },
+        {
+          "ref": "c4c3f0c6ed",
+          "takeaway": "Video report: Gomez disagrees with the report but will resign next week.",
+          "read_full": false
+        },
+        {
+          "ref": "be7e8a793e",
+          "takeaway": "Headline uses the panel's 'substantial evidence' wording.",
+          "read_full": false
+        },
+        {
+          "ref": "52663ea826",
+          "takeaway": "Headline only: resignation follows the Ethics panel finding.",
+          "read_full": false
+        },
+        {
+          "ref": "1fa191c7ed",
+          "takeaway": "Headline only: characterizes the report as damning.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "omar-search-records-unsealed",
+      "headline": "Court unseals redacted records from federal search of Rep. Ilhan Omar's home",
+      "region": "Courts",
+      "importance": 4,
+      "summary": "A federal court on Monday released heavily redacted records about the Oct. 12 search of Rep. Ilhan Omar's Washington home, after prosecutors made a late attempt to stop the release. The filings show the investigation reaches back decades and that the government and a magistrate judge argued over the constitutional protections owed to a sitting member of Congress.",
+      "why_it_matters": "Searches of a sitting lawmaker's home are rare, and the records give the public its first look at how a court weighed a criminal investigation against the Constitution's protections for members of Congress.",
+      "background": "Omar is a Democratic congresswoman from Minnesota and a frequent target of criticism from President Trump. Homeland Security Investigations agents searched her Washington home on Oct. 12 and took her phone, computers and passport. The warrant and related filings were sealed until news organizations and others asked for them to be made public. Last week Chief Judge James Boasberg said most of the 67-page warrant affidavit should stay sealed for now but that the legal arguments over lawmakers' protections should be released. Omar has denied wrongdoing.",
+      "facts": [
+        {
+          "text": "A federal court on Monday evening released records related to last month's search of Omar's Washington home.",
+          "refs": [
+            "202546ddb3",
+            "4d4f55836e",
+            "2a4781d71a"
+          ]
+        },
+        {
+          "text": "The documents are heavily redacted, and federal prosecutors made a last-minute attempt to block their release, The Hill reported.",
+          "refs": [
+            "4d4f55836e",
+            "ab92a250cb"
+          ]
+        },
+        {
+          "text": "Agents seized Omar's phone, computers and passport in the Oct. 12 search.",
+          "refs": [
+            "ab92a250cb",
+            "67fab98c1b"
+          ]
+        },
+        {
+          "text": "Some of the filings show the administration believes violations of law took place as far back as 1980, NBC News reported.",
+          "refs": [
+            "2a4781d71a"
+          ]
+        },
+        {
+          "text": "The magistrate judge who authorized the search ruled that Omar was entitled to assert the protections given to sitting members of Congress at the outset of the search, the Associated Press reported.",
+          "refs": [
+            "2fc6cdf115",
+            "21c4089c5e"
+          ]
+        },
+        {
+          "text": "At a hearing last week, Boasberg said most of the 67-page warrant affidavit should remain sealed for now, MPR News reported.",
+          "refs": [
+            "us-w6"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "67fab98c1b",
+          "note": "Calls the search a 'raid' and emphasizes the decades-long scope of the investigation."
+        },
+        {
+          "ref": "21c4089c5e",
+          "note": "Leads with the constitutional debate between the government and the judge."
+        },
+        {
+          "ref": "4d4f55836e",
+          "note": "Emphasizes how much of the record is still blacked out."
+        },
+        {
+          "ref": "4460d36dd6",
+          "note": "Leads with the government's phrase 'crimes over decades'."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "4d4f55836e",
+          "takeaway": "Release of heavily redacted records after prosecutors' late bid to block it.",
+          "read_full": false
+        },
+        {
+          "ref": "2a4781d71a",
+          "takeaway": "Says the filings point to alleged violations as far back as 1980.",
+          "read_full": false
+        },
+        {
+          "ref": "2fc6cdf115",
+          "takeaway": "AP story on the magistrate judge's ruling about lawmakers' protections.",
+          "read_full": false
+        },
+        {
+          "ref": "21c4089c5e",
+          "takeaway": "Wire headline on the constitutional debate.",
+          "read_full": false
+        },
+        {
+          "ref": "67fab98c1b",
+          "takeaway": "Focuses on the scope of the investigation and the items seized.",
+          "read_full": false
+        },
+        {
+          "ref": "ab92a250cb",
+          "takeaway": "Earlier story on the judge's order and what agents took.",
+          "read_full": false
+        },
+        {
+          "ref": "202546ddb3",
+          "takeaway": "Brief report that the court released the documents.",
+          "read_full": false
+        },
+        {
+          "ref": "4460d36dd6",
+          "takeaway": "Headline only: government describes 'crimes over decades'.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-doj-speech-newsom-death-penalty",
+      "headline": "Trump, in Justice Department speech, criticizes Newsom's death row commutations and vows faster federal executions",
+      "region": "White House",
+      "importance": 4,
+      "summary": "President Trump used a speech at Justice Department headquarters on Monday to condemn California Gov. Gavin Newsom's decision to commute the death sentences of 548 prisoners, and said he would sign an order to speed up capital punishment at the federal level. Newsom the same day called for limits on the presidential pardon power.",
+      "why_it_matters": "The exchange puts the death penalty and clemency powers at the center of national politics, and an order to expedite federal executions would directly affect people on federal death row and victims' families waiting on those cases.",
+      "background": "Newsom, a Democrat seen as a possible 2028 presidential candidate, announced earlier this month that he would convert the sentences of everyone on California's death row to life in prison without parole. California has not carried out executions under a moratorium Newsom imposed in 2019. Trump has pushed to expand use of the federal death penalty since returning to office. Presidents rarely give speeches at the Justice Department, which is meant to operate at some distance from the White House.",
+      "facts": [
+        {
+          "text": "Trump condemned Newsom's commutation of death sentences in a speech Monday at Justice Department headquarters.",
+          "refs": [
+            "f4166c229c",
+            "711d571357",
+            "fc460feb54"
+          ]
+        },
+        {
+          "text": "Trump said he would sign an order to expedite capital punishment at the federal level, the Wall Street Journal reported; the Guardian reported he urged the department to speed up federal executions.",
+          "refs": [
+            "fc460feb54",
+            "1da81273e6"
+          ]
+        },
+        {
+          "text": "Newsom's action covers 548 prisoners.",
+          "refs": [
+            "1da81273e6",
+            "us-w7"
+          ]
+        },
+        {
+          "text": "Family members of crime victims were invited to speak onstage, NBC News reported.",
+          "refs": [
+            "711d571357"
+          ]
+        },
+        {
+          "text": "Newsom on Monday called for reforms to the presidential pardon power and accused Trump of putting executive power up for sale, the Washington Examiner reported.",
+          "refs": [
+            "f8563f988f"
+          ]
+        },
+        {
+          "text": "The father of a murder victim whose killer's sentence was commuted told NewsNation that Newsom did not call him beforehand.",
+          "refs": [
+            "a62ccda384"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "f4166c229c",
+          "note": "Frames the speech as being about violent crime, with Newsom and Democrats as targets."
+        },
+        {
+          "ref": "1da81273e6",
+          "note": "Leads with the push to speed up executions and calls the speech partisan."
+        },
+        {
+          "ref": "f8563f988f",
+          "note": "Leads instead with Newsom's counterattack on Trump's use of pardons."
+        },
+        {
+          "ref": "9fcbc462f9",
+          "note": "Presents Newsom as a 'longtime foil' and potential 2028 candidate."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "f4166c229c",
+          "takeaway": "Wire headline: Trump targets Newsom and Democrats in a crime-focused speech.",
+          "read_full": false
+        },
+        {
+          "ref": "fc460feb54",
+          "takeaway": "Headline and summary only (paywalled): the planned order on federal capital punishment.",
+          "read_full": false
+        },
+        {
+          "ref": "1da81273e6",
+          "takeaway": "Gives the 548 figure and the call to speed up federal executions.",
+          "read_full": false
+        },
+        {
+          "ref": "711d571357",
+          "takeaway": "Notes the unusual venue and victims' relatives onstage.",
+          "read_full": false
+        },
+        {
+          "ref": "f8563f988f",
+          "takeaway": "Covers Newsom's call for pardon-power reforms.",
+          "read_full": false
+        },
+        {
+          "ref": "9fcbc462f9",
+          "takeaway": "Headline only: places the speech in the context of 2028.",
+          "read_full": false
+        },
+        {
+          "ref": "a62ccda384",
+          "takeaway": "Interview with a victim's father critical of the commutations.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-hush-money-appeals-court",
+      "headline": "Appeals court reopens Trump's bid to move hush money case to federal court",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "The 2nd U.S. Circuit Court of Appeals ruled Monday that a federal judge erred when he found President Trump had waited too long to raise an immunity defense in his New York hush money case. The ruling gives Trump another chance to move the case to federal court, where he could argue the conviction should be thrown out on presidential immunity grounds.",
+      "why_it_matters": "The case is the only criminal conviction of a U.S. president, and the ruling keeps open a route to erasing it; it also bears on how far presidential immunity reaches.",
+      "background": "A Manhattan jury convicted Trump in 2024 of falsifying business records to conceal a payment made to an adult film actor before the 2016 election. Trump has tried several times to transfer the state case to federal court, arguing that some trial evidence involved official acts protected by presidential immunity. A federal district judge rejected the request again in August. Trump is separately appealing the conviction in New York's state courts.",
+      "facts": [
+        {
+          "text": "The 2nd U.S. Circuit Court of Appeals found a federal judge 'erred' in ruling that Trump had waited too long to raise his immunity defense, NBC News reported.",
+          "refs": [
+            "c6d37efc2f"
+          ]
+        },
+        {
+          "text": "The panel ordered the lower court to promptly decide whether the case should be in federal court, where Trump could argue the verdict should be discarded because of presidential immunity, according to the Associated Press report carried by The Hindu.",
+          "refs": [
+            "e465dc346b",
+            "092a0d268a"
+          ]
+        },
+        {
+          "text": "A federal judge rejected Trump's bid to move the case to federal court in August, the AP reported at the time.",
+          "refs": [
+            "us-w8"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "092a0d268a",
+          "note": "Wire headline stresses a 'path to erasing' the conviction."
+        },
+        {
+          "ref": "c6d37efc2f",
+          "note": "More procedural: 'another chance' to move the case to a federal venue."
+        },
+        {
+          "ref": "9ef3109e2c",
+          "note": "Casts it as one more attempt in a long 'quest' to overturn the verdict."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "092a0d268a",
+          "takeaway": "AP headline, reprinted by several outlets.",
+          "read_full": false
+        },
+        {
+          "ref": "e465dc346b",
+          "takeaway": "AP summary: lower court must decide promptly on federal jurisdiction.",
+          "read_full": false
+        },
+        {
+          "ref": "c6d37efc2f",
+          "takeaway": "Names the court and its finding that the judge erred on timing.",
+          "read_full": false
+        },
+        {
+          "ref": "7442134898",
+          "takeaway": "Summary says the case moves to federal court.",
+          "read_full": false
+        },
+        {
+          "ref": "9ef3109e2c",
+          "takeaway": "Headline only: another shot at overturning the conviction.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "seattle-airport-ice-arrest",
+      "headline": "ICE arrest of father and daughter on Seattle airport jet bridge draws criticism from state officials",
+      "region": "Immigration",
+      "importance": 3,
+      "summary": "Immigration and Customs Enforcement officers arrested a father and his adult daughter on a jet bridge at Seattle-Tacoma International Airport on Saturday as passengers boarded a flight. ICE said the two are Mexican nationals who overstayed their visas; the airport's operator and Washington's governor criticized how the arrest was carried out.",
+      "why_it_matters": "The arrest took place in front of boarding passengers during the busy Thanksgiving travel period and has renewed questions about where and how immigration officers make arrests. In this digest it was covered by left-leaning and center outlets but not by right-leaning ones.",
+      "background": "ICE is the federal agency that arrests and deports people who are in the country without legal status. Its tactics, including the use of masked officers in public places, have drawn protests during the Trump administration's expanded enforcement push. Seattle-Tacoma International Airport is run by the Port of Seattle, a local public agency with no authority over federal immigration officers. Saturday's arrest was caught on camera.",
+      "facts": [
+        {
+          "text": "ICE officers arrested two passengers, a father and his adult daughter, on a jet bridge at Seattle-Tacoma International Airport on Saturday as people were boarding.",
+          "refs": [
+            "6a991f74db",
+            "09dca6843b",
+            "1fe892eddc"
+          ]
+        },
+        {
+          "text": "ICE said the two are Mexican nationals arrested for allegedly overstaying their visas, the BBC reported.",
+          "refs": [
+            "f1a5d4d0f2"
+          ]
+        },
+        {
+          "text": "The officers were masked and the flight was operated by Alaska Airlines, CBS News reported; some crew members asked to be replaced afterward.",
+          "refs": [
+            "6a991f74db",
+            "b25b01a38a"
+          ]
+        },
+        {
+          "text": "The airport's operator said it was 'outraged' by the arrest, the BBC reported.",
+          "refs": [
+            "f1a5d4d0f2"
+          ]
+        },
+        {
+          "text": "Washington Gov. Bob Ferguson called ICE's tactics 'deeply un-American', NewsNation reported.",
+          "refs": [
+            "1fe892eddc"
+          ]
+        },
+        {
+          "text": "Jose Castillo, the husband of the woman arrested, told CBS News the arrests were 'unjust'.",
+          "refs": [
+            "7b284d391d"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "b25b01a38a",
+          "note": "Calls the arrest 'violent' and notes the agents were unmarked."
+        },
+        {
+          "ref": "f1a5d4d0f2",
+          "note": "Leads with the airport operator's reaction and includes ICE's stated reason."
+        },
+        {
+          "ref": "5b5b3ab019",
+          "note": "Builds the headline on a passenger's comparison to a kidnapping."
+        },
+        {
+          "ref": "1fe892eddc",
+          "note": "Leads with the governor's criticism."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "6a991f74db",
+          "takeaway": "Basic account: masked officers, crowded jet bridge, Saturday boarding.",
+          "read_full": false
+        },
+        {
+          "ref": "b25b01a38a",
+          "takeaway": "Video report; says crew members asked to be replaced.",
+          "read_full": false
+        },
+        {
+          "ref": "f1a5d4d0f2",
+          "takeaway": "ICE's explanation and the airport operator's response.",
+          "read_full": false
+        },
+        {
+          "ref": "09dca6843b",
+          "takeaway": "Follow-up on public reaction.",
+          "read_full": false
+        },
+        {
+          "ref": "1fe892eddc",
+          "takeaway": "Governor Ferguson's criticism of ICE tactics.",
+          "read_full": false
+        },
+        {
+          "ref": "7b284d391d",
+          "takeaway": "Interview with the arrested woman's husband.",
+          "read_full": false
+        },
+        {
+          "ref": "6d3d025156",
+          "takeaway": "Ties the arrests to renewed protests and questions about ICE training.",
+          "read_full": false
+        },
+        {
+          "ref": "5b5b3ab019",
+          "takeaway": "Headline only: a passenger's eyewitness account.",
+          "read_full": false
+        }
+      ],
+      "social": "A passenger quoted by CNN likened the scene to a kidnapping, and PBS NewsHour reported that the arrests renewed protests over ICE enforcement tactics."
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "us-w1",
+      "url": "https://earthjustice.org/?p=58175",
+      "title": "Groups Sue to Halt Planned Detonation at Ammunition Plant in Iowa",
+      "outlet": "Earthjustice"
+    },
+    {
+      "id": "us-w2",
+      "url": "https://www.kttc.com/2026/11/19/iowans-brace-lead-dust-cloud-army-plans-detonate-5-tons-bomb-making-chemicals/",
+      "title": "Iowans brace for a lead dust cloud as Army plans to detonate 5 tons of bomb-making chemicals",
+      "outlet": "KTTC"
+    },
+    {
+      "id": "us-w3",
+      "url": "https://www.wusf.org/2026-11-17/nvidia-board-says-it-does-not-intend-to-reinstate-jensen-huang-as-ceo",
+      "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
+      "outlet": "NPR (via WUSF)"
+    },
+    {
+      "id": "us-w4",
+      "url": "https://ethics.house.gov/wp-content/uploads/2026/08/Press-Release-Rep.-Gomez-8.17.26.pdf",
+      "title": "Press Release Rep. Gomez 8.17.26",
+      "outlet": "House Committee on Ethics"
+    },
+    {
+      "id": "us-w5",
+      "url": "https://www.npr.org/2026/08/17/nx-s1-5935513/jimmy-gomez-house-ethics-investigation",
+      "title": "Democratic Rep. Jimmy Gomez being investigated over sexual misconduct allegations",
+      "outlet": "NPR"
+    },
+    {
+      "id": "us-w6",
+      "url": "https://www.mprnews.org/story/2026/11/17/judge-to-unseal-some-court-records-behind-federal-search-of-ilhan-omars-home",
+      "title": "Judge to unseal some court records behind federal search of Ilhan Omar's home",
+      "outlet": "MPR News"
+    },
+    {
+      "id": "us-w7",
+      "url": "https://calmatters.org/justice/2026/11/gavin-newsom-death-penalty-commutation/",
+      "title": "Gavin Newsom death penalty commutation",
+      "outlet": "CalMatters"
+    },
+    {
+      "id": "us-w8",
+      "url": "https://pbs.org/newshour/politics/trump-loses-again-in-bid-to-erase-his-hush-money-conviction",
+      "title": "Trump loses again in bid to erase his hush money conviction",
+      "outlet": "PBS NewsHour (AP)"
+    }
+  ]
+}

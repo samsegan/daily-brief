@@ -1,0 +1,533 @@
+{
+  "stories": [
+    {
+      "id": "nvidia-huang-return-market-whiplash",
+      "headline": "Tech stocks set to fall back after Monday's rally on Huang's return to Nvidia",
+      "region": "Markets",
+      "importance": 5,
+      "summary": "Wall Street posted its biggest one-day rally since April 2025 on Monday after Jensen Huang was reinstated as Nvidia's chief executive, reversing part of last week's sell-off in artificial intelligence stocks. By Tuesday morning the move was fading: Nasdaq futures pointed to a drop of about 2%, with Nvidia and Anthropic lower in premarket trading.",
+      "why_it_matters": "Nvidia and other AI companies make up a large share of the stock indexes that most retirement accounts and index funds track, so swings this large show up directly in people's savings. Analysts quoted in today's coverage disagree on whether the turbulence is over.",
+      "background": "Nvidia makes the chips that power most artificial intelligence systems and is one of the most valuable companies in the world. Jensen Huang, its co-founder, resigned as chief executive on Nov. 12 and the board named finance chief Colette Kress interim CEO; the company's announcement gave no reason, and news reports tied the departure to an affair and a related spying investigation. On Nov. 17 the board's chairman said it did not intend to bring him back. Stocks tied to AI then sold off sharply late last week. News of Huang's reinstatement followed, and markets rebounded on Monday.",
+      "facts": [
+        {
+          "text": "Jensen Huang has been reinstated as Nvidia's chief executive, and Asian markets rose as investors reacted to the news, the Financial Times reported.",
+          "refs": [
+            "519716230c",
+            "3ba185d996"
+          ]
+        },
+        {
+          "text": "Monday's advance on Wall Street was the biggest since April 2025, Bloomberg reported; a Nomura analysis cited by Bloomberg said mechanical, or forced, buying added momentum to the move.",
+          "refs": [
+            "5072561092"
+          ]
+        },
+        {
+          "text": "On Tuesday morning Nasdaq futures pointed to a decline of about 2%, and Nvidia and Anthropic shares fell in premarket trading, according to The Wall Street Journal.",
+          "refs": [
+            "683efb5c7d"
+          ]
+        },
+        {
+          "text": "Reuters reported that U.S. stock futures and European shares slipped as chip stocks cooled after the Nvidia-led rally.",
+          "refs": [
+            "781024e1bc",
+            "c196efadbd"
+          ]
+        },
+        {
+          "text": "Nvidia announced on Nov. 12 that Huang had resigned as CEO and left the board, with Colette Kress named interim chief executive.",
+          "refs": [
+            "business-w1",
+            "business-w2"
+          ]
+        },
+        {
+          "text": "On Nov. 17, Nvidia's board chairman said the board did not intend to reinstate Huang, according to reports at the time.",
+          "refs": [
+            "business-w3"
+          ]
+        },
+        {
+          "text": "The DXY dollar index fell after hitting a 20-month high; currency firm Ebury said the dollar's moves are now closely tied to investor appetite for AI stocks, the Journal reported.",
+          "refs": [
+            "fffa7c249f"
+          ]
+        },
+        {
+          "text": "RBC Capital Markets derivatives strategist Amy Wu Silverman told Bloomberg the VIX volatility index was \"still pretty inflated\" after the surge in Nvidia shares.",
+          "refs": [
+            "651ed19519"
+          ]
+        },
+        {
+          "text": "Swiss bank Julius Baer said the recent AI sell-off was a realignment of expectations and valuations, not a sign that the investment cycle is broken, the Journal reported.",
+          "refs": [
+            "70198f2ea6"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "683efb5c7d",
+          "note": "\"Dive again\" and \"epic rally\" stress how violent the swings have been in both directions."
+        },
+        {
+          "ref": "c196efadbd",
+          "note": "Uses milder wording: futures \"dip\" and chip stocks \"cool\"."
+        },
+        {
+          "ref": "2797d5a81b",
+          "note": "Treats the rally as an opening for investors, pairing it with stock picks."
+        },
+        {
+          "ref": "26de3501b9",
+          "note": "Shifts from the day's prices to the risk of the AI boom depending on one company and one executive."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "519716230c",
+          "takeaway": "Headline and summary only (paywalled): U.S. tech set to slip after the rally; Asian markets up on Huang's reinstatement.",
+          "read_full": false
+        },
+        {
+          "ref": "683efb5c7d",
+          "takeaway": "Headline and summary only (paywalled): live markets coverage with Nasdaq futures down about 2%.",
+          "read_full": false
+        },
+        {
+          "ref": "781024e1bc",
+          "takeaway": "Headline only: U.S. futures and European stocks slip as the Nvidia rally cools.",
+          "read_full": false
+        },
+        {
+          "ref": "c196efadbd",
+          "takeaway": "Headline only: Wall Street futures dip as chip stocks cool.",
+          "read_full": false
+        },
+        {
+          "ref": "5072561092",
+          "takeaway": "Headline and summary only (paywalled): Nomura analysis that forced buying amplified Monday's rally.",
+          "read_full": false
+        },
+        {
+          "ref": "3ba185d996",
+          "takeaway": "Headline and summary only (paywalled): newsletter on Huang's return resetting AI bets.",
+          "read_full": false
+        },
+        {
+          "ref": "651ed19519",
+          "takeaway": "Headline and summary only (paywalled): video interview on continued volatility.",
+          "read_full": false
+        },
+        {
+          "ref": "fffa7c249f",
+          "takeaway": "Headline and summary only (paywalled): the dollar is moving with the AI trade.",
+          "read_full": false
+        },
+        {
+          "ref": "70198f2ea6",
+          "takeaway": "Headline and summary only (paywalled): Julius Baer's view that the sell-off is a reset of expectations.",
+          "read_full": false
+        },
+        {
+          "ref": "2797d5a81b",
+          "takeaway": "Headline only: video segment on the futures rally and stock picks.",
+          "read_full": false
+        },
+        {
+          "ref": "26de3501b9",
+          "takeaway": "Headline and summary only (paywalled): analysis of the AI boom's dependence on Nvidia.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "fed-williams-rate-hikes",
+      "headline": "New York Fed's Williams says inflation is still too high and more rate increases are possible",
+      "region": "Fed",
+      "importance": 4,
+      "summary": "John Williams, president of the Federal Reserve Bank of New York, said Monday that inflation remains too high and indicated that interest rates are likely to rise further over time. He also said he expects inflation to move closer to the Fed's 2% target in 2027. The Fed's next policy meeting is Dec. 8-9.",
+      "why_it_matters": "When the Fed raises its benchmark rate, borrowing costs for mortgages, car loans and credit cards tend to rise with it. Williams's comments suggest those costs are not about to come down.",
+      "background": "The Federal Reserve sets a benchmark interest rate to keep inflation near 2% a year; raising the rate makes borrowing more expensive and slows spending. The Fed, now chaired by Kevin Warsh, has been raising rates this year, and its target range stands at 3.75%-4.00%. Williams leads the New York Fed and is one of the most closely watched voices on the rate-setting committee. In recent weeks he has said heavy spending on artificial intelligence is one of the forces he is watching as a source of price pressure.",
+      "facts": [
+        {
+          "text": "Williams said inflation is still too high and signaled that more interest rate increases are possible, Reuters reported.",
+          "refs": [
+            "bff7ec6b54"
+          ]
+        },
+        {
+          "text": "CNBC reported that Williams indicated higher rates are likely \"over time\" and expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
+          "refs": [
+            "5b5a2db041"
+          ]
+        },
+        {
+          "text": "Reuters reported Tuesday that the AI boom is weighing on Fed policy under Chair Kevin Warsh as inflation worries grow.",
+          "refs": [
+            "fa16535798"
+          ]
+        },
+        {
+          "text": "The Fed's target range for its policy rate is 3.75%-4.00% after an increase in September, and its next meeting is scheduled for Dec. 8-9.",
+          "refs": [
+            "business-w4",
+            "business-w5"
+          ]
+        },
+        {
+          "text": "In remarks on Nov. 17, Williams pushed back on the idea of a half-point increase in December, according to a report on that appearance.",
+          "refs": [
+            "business-w6"
+          ]
+        },
+        {
+          "text": "Bank of America strategist Michael Hartnett advised staying cautious on risky assets until global rate increases taper off next spring, MarketWatch reported.",
+          "refs": [
+            "bf8f26fc1c"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "bff7ec6b54",
+          "note": "Leads with the warning: inflation \"still too high\" and more hikes possible."
+        },
+        {
+          "ref": "5b5a2db041",
+          "note": "Stresses the gradual pace, quoting \"over time\", and pairs it with his confidence that inflation will ease in 2027."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "bff7ec6b54",
+          "takeaway": "Headline only: Williams says inflation is too high and signals more hikes are possible.",
+          "read_full": false
+        },
+        {
+          "ref": "5b5a2db041",
+          "takeaway": "Headline and summary only: higher rates likely over time; confidence about 2027 inflation.",
+          "read_full": false
+        },
+        {
+          "ref": "fa16535798",
+          "takeaway": "Headline only: analysis of how the AI boom complicates policy for Warsh's Fed.",
+          "read_full": false
+        },
+        {
+          "ref": "bf8f26fc1c",
+          "takeaway": "Headline and summary only: Bank of America's outlook built around when rate hikes end.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "anthropic-below-ipo-price",
+      "headline": "Anthropic shares fall below their $83 IPO price in premarket trading",
+      "region": "Markets",
+      "importance": 3,
+      "summary": "Shares of AI developer Anthropic traded below their $83 initial public offering price before the market opened Tuesday, Bloomberg and Reuters reported. The drop erases the gains of investors who bought in the company's record-setting debut last week.",
+      "why_it_matters": "The offering was the largest test yet of public investors' appetite for AI companies, and a fall below the offer price means people who bought at or after the debut are sitting on losses. In the digest only center and left-leaning business outlets covered the move.",
+      "background": "Anthropic is the company behind the Claude AI models and one of the largest developers of artificial intelligence systems. It sold shares to the public for the first time last week at $83 each, above the price range it had first proposed, and began trading on Thursday, Nov. 19, under the ticker ANT. The stock opened far above the offer price and gave back part of that gain by the end of its first day. Its debut came during a broad sell-off in AI-related stocks.",
+      "facts": [
+        {
+          "text": "Anthropic shares traded below the $83 IPO price in premarket trading on Tuesday.",
+          "refs": [
+            "bc9058b8ab",
+            "9c84f8a2b1"
+          ]
+        },
+        {
+          "text": "Bloomberg described the debut as record-setting and said the decline wiped out gains for investors who bought into it.",
+          "refs": [
+            "bc9058b8ab"
+          ]
+        },
+        {
+          "text": "The Wall Street Journal's markets coverage listed Anthropic alongside Nvidia among stocks falling before the open.",
+          "refs": [
+            "683efb5c7d"
+          ]
+        },
+        {
+          "text": "On its first trading day, Nov. 19, the stock opened at $111.50 and closed at $97.17, about 17% above the offer price, according to reports that day.",
+          "refs": [
+            "business-w7",
+            "business-w8"
+          ]
+        },
+        {
+          "text": "U.S. stocks fell sharply the day of the debut, with reports saying the listing failed to revive enthusiasm for AI shares.",
+          "refs": [
+            "business-w9"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "9c84f8a2b1",
+          "note": "Says the debut rally \"unravels\", presenting the drop as the end of the post-IPO run."
+        },
+        {
+          "ref": "bc9058b8ab",
+          "note": "Sticks to the price threshold in the headline; the summary stresses investors' lost gains."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "bc9058b8ab",
+          "takeaway": "Headline and summary only (paywalled): shares below $83 premarket, gains wiped out.",
+          "read_full": false
+        },
+        {
+          "ref": "9c84f8a2b1",
+          "takeaway": "Headline only: Anthropic breaks below its IPO price as the debut rally unravels.",
+          "read_full": false
+        },
+        {
+          "ref": "683efb5c7d",
+          "takeaway": "Headline and summary only (paywalled): notes Anthropic's premarket slump within broader tech declines.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "crowdstrike-zscaler-deal",
+      "headline": "CrowdStrike agrees to buy Zscaler in a $44 billion all-stock deal",
+      "region": "Deals",
+      "importance": 3,
+      "summary": "Cybersecurity company CrowdStrike agreed on Monday to acquire rival Zscaler in a deal valued at about $44 billion, combining two of the industry's largest firms. CrowdStrike chief executive George Kurtz defended the purchase in a CNBC interview. The companies said the deal needs regulatory approval.",
+      "why_it_matters": "Many employers, banks, hospitals and government agencies rely on these two companies to protect their networks, so the merger concentrates a large part of that work in one vendor. For shareholders, it is one of the year's largest technology deals.",
+      "background": "CrowdStrike sells software that protects computers and servers from hacking; Zscaler secures the connections between workers and the applications they use, an approach known as zero trust. Both are based in the United States and sell mainly to large organizations. The New York Times reported that the deal comes as companies and governments worry about hacks made easier by advances in artificial intelligence. CrowdStrike reported quarterly results on the same day it announced the deal.",
+      "facts": [
+        {
+          "text": "CrowdStrike agreed to acquire Zscaler in a deal valued at about $44 billion that would create a cybersecurity giant, the Associated Press reported.",
+          "refs": [
+            "e66f8f6ff1",
+            "4b26fbf04e"
+          ]
+        },
+        {
+          "text": "The deal is all stock: Zscaler shareholders would receive 1.135 CrowdStrike shares for each Zscaler share, about a 34% premium to Zscaler's Nov. 20 closing price, according to the companies' announcement filed with the SEC.",
+          "refs": [
+            "business-w10"
+          ]
+        },
+        {
+          "text": "The companies said existing CrowdStrike shareholders would own about 84.1% of the combined company, and that closing is subject to regulatory approvals.",
+          "refs": [
+            "business-w10"
+          ]
+        },
+        {
+          "text": "CrowdStrike CEO George Kurtz defended the acquisition on CNBC, calling it a \"winning combination\".",
+          "refs": [
+            "6a2bfbe0c6"
+          ]
+        },
+        {
+          "text": "The New York Times reported the deal comes amid worries among companies and governments about AI-enabled hacking.",
+          "refs": [
+            "4b26fbf04e"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "e66f8f6ff1",
+          "note": "Emphasizes scale: a deal that would \"create a cybersecurity giant\"."
+        },
+        {
+          "ref": "4b26fbf04e",
+          "note": "Calls it two major firms that will \"combine\", and its summary ties the deal to AI-driven hacking fears."
+        },
+        {
+          "ref": "6a2bfbe0c6",
+          "note": "The CEO \"defends\" the deal, implying investor doubts."
+        },
+        {
+          "ref": "5aa184d2b8",
+          "note": "Runs the AP wording unchanged."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "e66f8f6ff1",
+          "takeaway": "Headline only: wire story on the deal and its size; reprinted by several outlets.",
+          "read_full": false
+        },
+        {
+          "ref": "4b26fbf04e",
+          "takeaway": "Headline and summary only (paywalled): links the deal to AI-fueled hacking concerns.",
+          "read_full": false
+        },
+        {
+          "ref": "6a2bfbe0c6",
+          "takeaway": "Headline and summary only: interview in which Kurtz defends the acquisition.",
+          "read_full": false
+        },
+        {
+          "ref": "2e2e174c94",
+          "takeaway": "Headline and summary only: investing commentary arguing the deal comes from a position of strength; not used for facts.",
+          "read_full": false
+        },
+        {
+          "ref": "5aa184d2b8",
+          "takeaway": "Headline only: carries the AP story.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "sanofi-insmed-deal",
+      "headline": "Sanofi agrees to buy U.S. biotech Insmed for $41 billion",
+      "region": "Deals",
+      "importance": 3,
+      "summary": "French drugmaker Sanofi agreed on Tuesday to buy U.S. biotechnology company Insmed for $41 billion, the largest deal in the drug industry in about three years. Insmed shares rose 14% on the news, CNBC reported.",
+      "why_it_matters": "Large drugmakers buy smaller ones to replace income from medicines that are about to face cheaper generic competition, which shapes which new drugs get funded and sold. In the digest, the deal was covered by center and left-leaning business outlets only.",
+      "background": "Sanofi is one of the world's largest pharmaceutical companies, and its top-selling drugs are due to lose patent protection toward the end of the decade, which would let generic makers compete and cut its revenue. Insmed is a U.S. biotech whose main product is the lung drug Brinsupri. Bloomberg reported on Nov. 19 that Sanofi was weighing a takeover, and Insmed's shares jumped on that report. The agreement announced Tuesday confirms the deal.",
+      "facts": [
+        {
+          "text": "Sanofi agreed on Tuesday to pay $41 billion for Insmed.",
+          "refs": [
+            "712562f8fa",
+            "460ecfec9c"
+          ]
+        },
+        {
+          "text": "Insmed shares rose 14% after the announcement, CNBC reported.",
+          "refs": [
+            "460ecfec9c"
+          ]
+        },
+        {
+          "text": "MarketWatch called it the biggest biotech deal in nearly three years; CNBC called it the pharmaceutical industry's biggest in three years.",
+          "refs": [
+            "712562f8fa",
+            "460ecfec9c"
+          ]
+        },
+        {
+          "text": "Both outlets said the purchase is meant to help offset revenue Sanofi stands to lose as key drugs lose exclusivity later this decade.",
+          "refs": [
+            "712562f8fa",
+            "460ecfec9c"
+          ]
+        },
+        {
+          "text": "Bloomberg first reported on Nov. 19 that Sanofi was considering a bid, with Insmed's lung drug Brinsupri as the main attraction, according to trade publication Fierce Pharma.",
+          "refs": [
+            "business-w11"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "712562f8fa",
+          "note": "Focuses on cost, calling the price tag \"hefty\"."
+        },
+        {
+          "ref": "460ecfec9c",
+          "note": "Leads with the gain for Insmed shareholders."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "712562f8fa",
+          "takeaway": "Headline and summary only: stresses the size of the price and Sanofi's patent expiration.",
+          "read_full": false
+        },
+        {
+          "ref": "460ecfec9c",
+          "takeaway": "Headline and summary only: leads with Insmed's 14% share jump and Sanofi's coming revenue drop.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "business-w1",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm",
+      "title": "NVIDIA Announces CEO Transition (Form 8-K exhibit)",
+      "outlet": "SEC / Nvidia"
+    },
+    {
+      "id": "business-w2",
+      "url": "https://sfstandard.com/2026/11/12/nvidia-ceo-jensen-huang-resigns/",
+      "title": "Nvidia CEO Jensen Huang resigns",
+      "outlet": "The San Francisco Standard"
+    },
+    {
+      "id": "business-w3",
+      "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings",
+      "title": "Nvidia dismisses calls to reinstate Jensen Huang amid blockbuster earnings",
+      "outlet": "Al Jazeera"
+    },
+    {
+      "id": "business-w4",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-09-24/feds-williams-says-it-reasonable-see-another-us-rate-hike-year",
+      "title": "Fed's Williams says it is reasonable to see another US rate hike this year",
+      "outlet": "Kitco (Reuters)"
+    },
+    {
+      "id": "business-w5",
+      "url": "https://stockanalysis.com/news/fed-williams-more-rate-hikes-likely/",
+      "title": "Fed's Williams says more rate hikes are likely as inflation stays persistent",
+      "outlet": "Stock Analysis"
+    },
+    {
+      "id": "business-w6",
+      "url": "https://stocktwits.com/news-articles/markets/equity/new-york-fed-s-john-williams-hints-towards-more-rate-hikes-amid-ai-boom/cNbOBFMR9hX",
+      "title": "New York Fed's John Williams Hints Towards More Rate Hikes Amid AI Boom",
+      "outlet": "Stocktwits"
+    },
+    {
+      "id": "business-w7",
+      "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
+      "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
+      "outlet": "Decrypt"
+    },
+    {
+      "id": "business-w8",
+      "url": "https://www.constellationr.com/insights/news/anthropic-prices-shares-83-opens-11150",
+      "title": "Anthropic prices shares at $83, opens at $111.50",
+      "outlet": "Constellation Research"
+    },
+    {
+      "id": "business-w9",
+      "url": "https://www.thestandard.com.hk/finance/article/349077/Wall-Street-ends-sharply-lower-as-Anthropics-debut-fails-to-revive-AI-fervor",
+      "title": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor",
+      "outlet": "The Standard (Reuters)"
+    },
+    {
+      "id": "business-w10",
+      "url": "https://www.sec.gov/Archives/edgar/data/0001713683/000110465926130801/tm2630454d2_ex99-1.htm",
+      "title": "CrowdStrike to acquire Zscaler (joint press release, Form 425)",
+      "outlet": "SEC / Zscaler"
+    },
+    {
+      "id": "business-w11",
+      "url": "https://www.fiercepharma.com/pharma/facing-down-dupixent-cliff-sanofi-mulls-buyout-insmed-and-its-blockbuster-be-brinsupri",
+      "title": "Facing down Dupixent cliff, Sanofi mulls buyout of Insmed and its blockbuster-to-be Brinsupri: Bloomberg",
+      "outlet": "Fierce Pharma"
+    }
+  ]
+}

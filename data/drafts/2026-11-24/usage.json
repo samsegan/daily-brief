@@ -1,0 +1,26 @@
+{
+ "parts": [
+  {
+   "label": "session",
+   "since": "2026-11-24T11:37:56.489Z",
+   "until": "2026-11-24T11:53:18.008Z",
+   "total_tokens": 5510036,
+   "cost_usd": 11.04,
+   "models": [
+    {
+     "model": "claude-fable-5-2",
+     "requests": 72,
+     "tokens": {
+      "input": 156,
+      "cache_write_5m": 383709,
+      "cache_write_1h": 138380,
+      "cache_read": 4899027,
+      "output": 88764,
+      "web_searches": 46
+     },
+     "cost_usd": 11.0428
+    }
+   ]
+  }
+ ]
+}

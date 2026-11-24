@@ -1,0 +1,30 @@
+{
+  "overview": "Nvidia's board reinstated Jensen Huang as chief executive 11 days after he resigned over an affair with a woman alleged to be a Chinese spy, and President Trump said he had \"convinced\" the company to do it, drawing objections from lawmakers in both parties. A federal appeals court cleared the Army to detonate several tons of degraded explosive chemicals at an ammunition plant in Iowa, and Rep. Jimmy Gomez of California said he would resign after the House Ethics Committee reported evidence of sexual misconduct with a staff member, which he disputes. Abroad, Ukraine said it sank a Russian warship docked in Libya, far from the front line, and the COP31 climate summit in Turkey ended without an agreement.",
+  "markets": {
+    "summary": "Monday's trading was dominated by one company: Nvidia shares closed about 31 percent higher after the chipmaker brought Jensen Huang back as chief executive, and the Dow Jones Industrial Average rose about 3 percent. That followed a sharp sell-off in artificial-intelligence stocks last week; the S&P 500 is still down about 11 percent over the past month. Tech shares in Asia and Europe rose on Tuesday, but US stock futures (bets on where indexes will open) pointed lower, with Nvidia slipping in premarket trading as lawmakers criticized the White House's role in Huang's return. Anthropic, the AI lab that went public recently, fell below its $83 offering price before the open. Separately, New York Fed President John Williams said inflation is still too high and that interest rates may need to go higher over time.",
+    "movers": [
+      { "symbol": "DJIA", "why": "Rose about 3 percent on Monday as Nvidia's surge on Jensen Huang's reinstatement lifted the wider market." },
+      { "symbol": "SP500", "why": "The latest figure here is from Friday, Nov. 20, when the index fell 3.7 percent during a sell-off in AI stocks; it does not yet show Monday's rebound." },
+      { "symbol": "NIKKEI225", "why": "Fell about 5 percent on Friday in the same global tech sell-off; reports on Tuesday said Asian tech shares rebounded after Huang's return." },
+      { "symbol": "CBBTCUSD", "why": "Little changed on the day but down about 24 percent in a month; the digest does not point to a single cause." }
+    ],
+    "concept": {
+      "term": "Premarket trading",
+      "explanation": "US stock exchanges open at 9:30 a.m. Eastern, but shares can change hands electronically for several hours before that, in what is called premarket trading. Fewer people trade then, so prices can swing more on news such as earnings, a political fight or a change of chief executive, and the moves give an early hint of how a stock may open. It reaches your wallet through retirement and index funds: they are priced during regular hours, but a large premarket drop in a big company like Nvidia often carries into the opening price of the funds that hold it."
+    },
+    "watch": [
+      "Wed Nov 25: third-quarter GDP, weekly jobless claims and the personal income and spending report, which includes the Fed's preferred inflation gauge",
+      "Thu Nov 26: Thanksgiving, US stock and bond markets closed",
+      "Fri Nov 27: Black Friday; US stock markets close early at 1 p.m. Eastern"
+    ]
+  },
+  "trending": [
+    { "title": "Dow Jones futures", "context": "The top Google search of the morning as investors check whether Monday's Nvidia-led rally will hold when markets open.", "signal": "google" },
+    { "title": "Jensen Huang", "context": "The Nvidia co-founder was reinstated as chief executive on Monday, 11 days after resigning, and his Wikipedia page drew more than 230,000 views.", "signal": "wikipedia" },
+    { "title": "Grand Theft Auto VI", "context": "The long-awaited video game took in a reported $3.79 billion on its launch day, the most for any entertainment product.", "signal": "wikipedia_news" },
+    { "title": "Iowa Army detonation court case", "context": "A federal appeals court on Monday declined to block the Army from detonating degraded explosives at an Iowa ammunition plant, the most-discussed news topic on Bluesky.", "signal": "bluesky" },
+    { "title": "Russian corvette Merkury", "context": "Ukraine says its naval drones sank the Russian warship in port in Libya, thousands of miles from the front line.", "signal": "wikipedia" },
+    { "title": "BepiColombo", "context": "The joint European and Japanese spacecraft has entered orbit around Mercury.", "signal": "wikipedia_news" },
+    { "title": "November full supermoon", "context": "People are sharing photos and viewing times for this month's full moon, which appears slightly larger than usual because the moon is near its closest point to Earth.", "signal": "bluesky" }
+  ]
+}

@@ -1,0 +1,562 @@
+{
+  "stories": [
+    {
+      "id": "hud-mixed-status-lawsuit",
+      "headline": "New York City and state sue to block federal rule on housing aid for mixed-status families",
+      "region": "Housing",
+      "importance": 5,
+      "summary": "New York City and New York State joined a multistate lawsuit filed Monday against the U.S. Department of Housing and Urban Development over a rule on families in which some members lack eligible immigration status. The plaintiffs want a court to stop the rule before it takes effect next month.",
+      "why_it_matters": "Families in public housing or using federal rental vouchers that include a member without eligible immigration status could have to choose between living together and keeping their aid. Outlets on the left, center and right all reported the suit, the national ones through the same wire story.",
+      "background": "Federal law limits housing assistance to citizens and certain non-citizens, and until now a household with a mix of eligible and ineligible members could receive reduced, prorated aid covering only the eligible ones. HUD finalized a rule this month that changes how citizenship and immigration status are verified for everyone in federally assisted housing, according to Bloomberg Government. A coalition of state attorneys general, co-led by New York's Letitia James and California's Rob Bonta, formally opposed the proposal in a comment letter in April. Mayor Zohran Mamdani announced the city's participation in the lawsuit on Monday.",
+      "facts": [
+        {
+          "text": "A coalition of nearly two dozen plaintiffs, including New York City, sued the Trump administration on Monday to stop the rule from taking effect next month, THE CITY reported.",
+          "refs": [
+            "98451f5045"
+          ]
+        },
+        {
+          "text": "New York State is also a plaintiff, and state Attorney General Letitia James is among those suing HUD.",
+          "refs": [
+            "f2b55d20e1",
+            "75781dbc6f"
+          ]
+        },
+        {
+          "text": "The rule would bar families with undocumented members from living in public housing or receiving certain rental vouchers, according to THE CITY; Gothamist describes it as stripping eligible citizens of assistance if any household member does not qualify because of immigration status.",
+          "refs": [
+            "98451f5045",
+            "f2b55d20e1"
+          ]
+        },
+        {
+          "text": "Mayor Zohran Mamdani announced Monday that the city had joined the federal lawsuit.",
+          "refs": [
+            "d1b3a7fbf8",
+            "98451f5045"
+          ]
+        },
+        {
+          "text": "A separate lawsuit by Los Angeles nonprofit groups cites HUD figures putting about 79,300 people in mixed-status households that receive HUD assistance, including roughly 36,000 eligible children, Bloomberg Government reported.",
+          "refs": [
+            "nyc-w1"
+          ]
+        },
+        {
+          "text": "In April, 22 attorneys general co-led by California's Rob Bonta and New York's Letitia James filed a comment letter opposing the proposed rule, arguing it would violate the Administrative Procedure Act.",
+          "refs": [
+            "nyc-w2"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "d1b3a7fbf8",
+          "note": "Centers the mayor and says the rule 'could force NYC families apart'."
+        },
+        {
+          "ref": "c5e66e4210",
+          "note": "Describes the rule as 'barring aid over immigration status' and the dispute as states against 'feds', without mentioning families."
+        },
+        {
+          "ref": "75781dbc6f",
+          "note": "Wire headline names the agency and describes the rule by its possible effect, cutting off aid to mixed-status families."
+        },
+        {
+          "ref": "98451f5045",
+          "note": "Uses the term 'undocumented members' and ties the rule to Trump by name."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "98451f5045",
+          "takeaway": "Headline and summary only: counts nearly two dozen plaintiffs and says the rule takes effect next month.",
+          "read_full": false
+        },
+        {
+          "ref": "f2b55d20e1",
+          "takeaway": "Headline and summary only: leads with the city and state suing and explains the rule's effect on eligible citizens.",
+          "read_full": false
+        },
+        {
+          "ref": "d1b3a7fbf8",
+          "takeaway": "Headline and summary only: built around Mamdani's announcement and the choice families would face.",
+          "read_full": false
+        },
+        {
+          "ref": "75781dbc6f",
+          "takeaway": "Headline only: the national wire story, also carried by The Washington Times and The Washington Post.",
+          "read_full": false
+        },
+        {
+          "ref": "c5e66e4210",
+          "takeaway": "Headline only: frames it as states suing the federal government over an immigration-status bar.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w1",
+          "takeaway": "Search result summary: reports HUD's final rule and a separate suit by Los Angeles groups, with HUD's household figures.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w2",
+          "takeaway": "Search result summary: California attorney general's release on the April comment letter opposing the proposal.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "section-8-court-of-appeals",
+      "headline": "New York's top court upholds ban on turning away Section 8 renters",
+      "region": "Courts",
+      "importance": 4,
+      "summary": "The New York State Court of Appeals on Monday upheld the state law that bars landlords from discriminating against tenants who pay rent with federal housing vouchers. The court reversed lower-court rulings that had struck the protection down and dismissed a landlord's challenge.",
+      "why_it_matters": "New Yorkers who rely on Section 8 vouchers keep the legal right not to be rejected by a landlord because of how they pay rent. Coverage in the digest came from two left-leaning outlets and one right-leaning one.",
+      "background": "Section 8 is a federal program that pays part of the rent for low-income tenants in privately owned apartments. New York added 'source of income' protections to state law in 2019, making it illegal for landlords to refuse tenants because they use a voucher. In one earlier challenge, the state attorney general sued an Ithaca landlord, Jason Fane, in 2022, accusing him of refusing vouchers, and a mid-level appeals court, the Appellate Division's Third Department, later ruled the protections unconstitutional, reasoning that forcing landlords into the program exposed them to inspections of property and records they had not consented to. The Court of Appeals is the state's highest court. The summaries available for this brief do not name the case decided Monday.",
+      "facts": [
+        {
+          "text": "The Court of Appeals reversed lower-court rulings that had struck down state protections against Section 8 discrimination.",
+          "refs": [
+            "0d75df4b38"
+          ]
+        },
+        {
+          "text": "The court dismissed a landlord's challenge to the law prohibiting discrimination against renters who rely on federal housing vouchers, The New York Times reported.",
+          "refs": [
+            "1e1e0ce04f"
+          ]
+        },
+        {
+          "text": "In an earlier case that began with a 2022 suit by the attorney general against Ithaca landlord Jason Fane, the Appellate Division's Third Department held that the 2019 source-of-income protections violated landlords' Fourth Amendment rights.",
+          "refs": [
+            "nyc-w3",
+            "nyc-w4"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "0d75df4b38",
+          "note": "Calls the law a 'key protection for low-income renters', emphasizing tenants."
+        },
+        {
+          "ref": "ad520dc48c",
+          "note": "Calls it a 'housing discrimination law' and does not mention Section 8 or renters."
+        },
+        {
+          "ref": "1e1e0ce04f",
+          "note": "Leads with the protection being upheld; the summary notes the challenge came from a landlord."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "0d75df4b38",
+          "takeaway": "Headline and summary only: says the top court reversed lower courts that had struck the protection down.",
+          "read_full": false
+        },
+        {
+          "ref": "1e1e0ce04f",
+          "takeaway": "Headline and summary only (paywalled): the court dismissed a landlord's challenge.",
+          "read_full": false
+        },
+        {
+          "ref": "ad520dc48c",
+          "takeaway": "Headline only: reports the law was upheld.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w3",
+          "takeaway": "Search result summary: earlier report on the Third Department overturning the voucher protection.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w4",
+          "takeaway": "Search result summary: law firm note on the Third Department's reasoning and the Fane case.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "citi-bike-ebike-cap",
+      "headline": "City and Lyft agree to cap Citi Bike e-bike rides at $3.65 for members",
+      "region": "Transit",
+      "importance": 4,
+      "summary": "Mayor Zohran Mamdani announced Monday a deal with Lyft, which operates Citi Bike, to cap the price of an electric bike ride of up to 45 minutes at $3.65 for members. The cap starts in January, and membership prices are frozen through May 2029.",
+      "why_it_matters": "Annual members who take long e-bike trips would pay far less per ride; the change does not apply to riders without a membership.",
+      "background": "Citi Bike is New York's bike-share system, run by the ride-hailing company Lyft under a contract with the city. Members pay an annual fee and then a per-minute charge for electric bikes, and those charges have risen several times in recent years. The advocacy group Transportation Alternatives campaigned this year for a $3 cap on member e-bike rides under 45 minutes. Streetsblog reported in October that city transportation officials had said changes would have to wait until the contract comes up for renewal in 2029.",
+      "facts": [
+        {
+          "text": "The city reached an agreement with Lyft to cap a 45-minute electric Citi Bike ride at $3.65 for members, Mayor Zohran Mamdani announced Monday.",
+          "refs": [
+            "2116a3f17d",
+            "c53a72afcc",
+            "34bce4e3bc",
+            "ea2a73d707"
+          ]
+        },
+        {
+          "text": "The cap begins in January and could save members as much as $8.50 per trip, Brooklyn Paper reported; The New York Times put the current high for such a ride at more than $12.",
+          "refs": [
+            "c53a72afcc",
+            "ea2a73d707"
+          ]
+        },
+        {
+          "text": "The agreement also freezes membership prices through May 2029.",
+          "refs": [
+            "2116a3f17d"
+          ]
+        },
+        {
+          "text": "The savings apply only to riders who already pay for an annual membership, which the New York Post put at $249.",
+          "refs": [
+            "ad7bbfc054"
+          ]
+        },
+        {
+          "text": "Transportation Alternatives had called for a $3 cap on e-bike rides under 45 minutes for annual members.",
+          "refs": [
+            "nyc-w5",
+            "nyc-w6"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "ad7bbfc054",
+          "note": "Calls it a 'fare freeze for members' and stresses in the summary that only people already paying for a membership benefit."
+        },
+        {
+          "ref": "34bce4e3bc",
+          "note": "Uses the mayor's wording that the cap will 'significantly' cut costs and his affordability pitch."
+        },
+        {
+          "ref": "44afa9636d",
+          "note": "Says rides are 'slashed' to $3.65, emphasizing the size of the cut."
+        },
+        {
+          "ref": "2116a3f17d",
+          "note": "Leads with the dollar cap for members and credits Mamdani with signing the deal."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "2116a3f17d",
+          "takeaway": "Headline and summary only: the cap plus a membership price freeze through May 2029.",
+          "read_full": false
+        },
+        {
+          "ref": "c53a72afcc",
+          "takeaway": "Headline and summary only: January start and savings of up to $8.50 per trip.",
+          "read_full": false
+        },
+        {
+          "ref": "34bce4e3bc",
+          "takeaway": "Headline and summary only: presents the deal through the mayor's affordability message.",
+          "read_full": false
+        },
+        {
+          "ref": "ea2a73d707",
+          "takeaway": "Headline and summary only (paywalled): compares $3.65 with a current high above $12.",
+          "read_full": false
+        },
+        {
+          "ref": "44afa9636d",
+          "takeaway": "Headline only: the price cut for 45-minute e-bike rides.",
+          "read_full": false
+        },
+        {
+          "ref": "ad7bbfc054",
+          "takeaway": "Headline and summary only: stresses the benefit is limited to paying annual members.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w5",
+          "takeaway": "Search result summary: October report on the city's limited leverage before the 2029 contract renewal.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w6",
+          "takeaway": "Search result summary: August report on riders and advocates pushing for a $3 cap.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "gwb-shooting-detective-jailed",
+      "headline": "Retired NYPD detective ordered jailed on murder charge in George Washington Bridge shooting",
+      "region": "Manhattan",
+      "importance": 3,
+      "summary": "Victor Romero, a retired NYPD detective, was ordered held in jail Monday after being charged with second-degree murder in the killing of Koran Irvine on the George Washington Bridge last month. Romero has pleaded not guilty.",
+      "why_it_matters": "The case tests how prosecutors and courts treat a former police officer accused of killing another driver, and it has drawn organized public attention. Only left-leaning outlets in the digest covered Monday's hearing.",
+      "background": "Koran Irvine was shot and killed on the George Washington Bridge in October in what police described as a road-rage encounter. Police said surveillance video showed Irvine's car swerving into another lane and nearly colliding with a Range Rover driven by Romero. Romero, 62, left the NYPD about 25 years ago. He was first arraigned on a manslaughter charge and a judge set bail at $1 million, which Irvine's family objected to. A Manhattan grand jury later indicted him on second-degree murder.",
+      "facts": [
+        {
+          "text": "Romero was ordered held in jail; The New York Times reported he was charged with second-degree murder and held without bail.",
+          "refs": [
+            "d3abe45ad9",
+            "9087458ea2"
+          ]
+        },
+        {
+          "text": "Romero has pleaded not guilty in the killing of Koran Irvine.",
+          "refs": [
+            "d3abe45ad9"
+          ]
+        },
+        {
+          "text": "Prosecutors said Romero scrubbed his car after the shooting, according to The New York Times.",
+          "refs": [
+            "9087458ea2"
+          ]
+        },
+        {
+          "text": "Dozens of people, including activist Hawk Newsome, came to court in support of Irvine, Gothamist reported.",
+          "refs": [
+            "d3abe45ad9"
+          ]
+        },
+        {
+          "text": "A Manhattan grand jury indicted Romero on second-degree murder, an upgrade from the manslaughter charge at his first arraignment, when bail was set at $1 million.",
+          "refs": [
+            "nyc-w7",
+            "nyc-w8"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "d3abe45ad9",
+          "note": "Leads with the jail order and, in its summary, the supporters who came to court for the man who was killed."
+        },
+        {
+          "ref": "9087458ea2",
+          "note": "Leads with prosecutors' allegation that he cleaned his car afterward, and labels the shooting 'road-rage'."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "d3abe45ad9",
+          "takeaway": "Headline and summary only: the jail order, the not-guilty plea and the turnout for Irvine.",
+          "read_full": false
+        },
+        {
+          "ref": "9087458ea2",
+          "takeaway": "Headline and summary only (paywalled): the murder charge, no bail, and the allegation about the car.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w7",
+          "takeaway": "Search result summary: the grand jury's second-degree murder indictment.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w8",
+          "takeaway": "Search result summary: October arraignment on a manslaughter charge with $1 million bail.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w9",
+          "takeaway": "Search result summary: police account of the encounter on the bridge and Romero's background.",
+          "read_full": false
+        }
+      ],
+      "social": "Gothamist reported that dozens of people came to the courthouse to support Irvine. In October, a lawyer for Irvine's family publicly objected to the original $1 million bail and called for Romero to be jailed, according to earlier coverage."
+    },
+    {
+      "id": "mamdani-achilles-surgery",
+      "headline": "Mamdani to have Achilles surgery Friday; two deputy mayors will fill in",
+      "region": "City Hall",
+      "importance": 2,
+      "summary": "Mayor Zohran Mamdani said Monday he will have surgery Friday to repair an Achilles tendon he tore last week playing soccer against City Hall reporters. He said two deputy mayors will fill in temporarily during and right after the operation.",
+      "why_it_matters": "The mayor will be briefly out of action, and he has said who will handle his duties in the meantime. No right-leaning outlet in the digest covered it.",
+      "background": "Mamdani took office in January and has made soccer a visible part of his public profile. He was injured last week in a game against the reporters who cover City Hall. He disclosed the surgery date at a briefing on another subject Monday.",
+      "facts": [
+        {
+          "text": "Mamdani said he will undergo surgery Friday to repair the Achilles tendon he tore in a soccer game against City Hall reporters last week.",
+          "refs": [
+            "96f3bf50ae",
+            "9a0ff4b2e2"
+          ]
+        },
+        {
+          "text": "He said two deputy mayors would fill in temporarily during and immediately after the operation, The New York Times reported.",
+          "refs": [
+            "9a0ff4b2e2"
+          ]
+        },
+        {
+          "text": "Mamdani told reporters it will be the first operation of his life and said he expects to be 'laid out for a couple of days', according to Brooklyn Paper.",
+          "refs": [
+            "96f3bf50ae"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "96f3bf50ae",
+          "note": "Uses the mayor's own phrase about being 'laid out' and, in its summary, his nerves about the operation."
+        },
+        {
+          "ref": "9a0ff4b2e2",
+          "note": "Plain headline; the summary emphasizes who runs the city while he is under."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "96f3bf50ae",
+          "takeaway": "Headline and summary only: the Friday date and the mayor's remarks about his first surgery.",
+          "read_full": false
+        },
+        {
+          "ref": "9a0ff4b2e2",
+          "takeaway": "Headline and summary only (paywalled): two deputy mayors will cover temporarily.",
+          "read_full": false
+        },
+        {
+          "ref": "1b7bf8fd5d",
+          "takeaway": "Headline only: surgery this week on an Achilles torn playing soccer.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "yellow-cab-fare-report",
+      "headline": "City report says yellow cab fare increases could keep drivers out of poverty",
+      "region": "Transit",
+      "importance": 2,
+      "summary": "A city report found that raising yellow taxi fares could keep drivers out of poverty, Gothamist reported Tuesday. The Taxi and Limousine Commission has approved one fare increase for yellow cabs in the past 14 years.",
+      "why_it_matters": "If the city acts on the finding, cab rides would cost passengers more while drivers would earn more per trip. Gothamist is the only outlet in the digest reporting on it.",
+      "background": "The Taxi and Limousine Commission, a city agency, sets the metered fares that yellow cabs may charge. Its last increase came in 2022, when commissioners approved a rise of about 23 percent on average and lifted the base fare from $2.50 to $3. Unlike drivers for Uber and Lyft, yellow cab drivers have no minimum pay standard, a point their union raised at the time.",
+      "facts": [
+        {
+          "text": "A city report found that fare increases for yellow taxis could keep drivers out of poverty, according to Gothamist.",
+          "refs": [
+            "98189accd3"
+          ]
+        },
+        {
+          "text": "The Taxi and Limousine Commission has approved one yellow cab fare increase in the last 14 years.",
+          "refs": [
+            "98189accd3"
+          ]
+        },
+        {
+          "text": "That increase, in 2022, averaged about 23 percent and raised the base fare from $2.50 to $3.",
+          "refs": [
+            "nyc-w10",
+            "nyc-w11"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "98189accd3",
+          "note": "Presents a fare increase through its benefit to drivers rather than its cost to riders."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "98189accd3",
+          "takeaway": "Headline and summary only: the report's finding and the commission's record of one increase in 14 years.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w10",
+          "takeaway": "Search result summary: 2022 report on the commission's approval of the fare increase.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w11",
+          "takeaway": "Search result summary: 2022 report on the size of the increase and the new base fare.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "nyc-w1",
+      "url": "https://news.bgov.com/immigration/los-angeles-groups-sue-hud-over-immigrant-housing-restrictions",
+      "title": "Los Angeles Groups Sue HUD Over Immigrant Housing Restrictions",
+      "outlet": "Bloomberg Government"
+    },
+    {
+      "id": "nyc-w2",
+      "url": "https://oag.ca.gov/node/622045",
+      "title": "Attorney General Bonta Opposes Federal Effort to Strip Housing Support for Mixed-Status Immigrant Households",
+      "outlet": "California Attorney General"
+    },
+    {
+      "id": "nyc-w3",
+      "url": "https://www.brickunderground.com/rent/upstate-appeals-court-overturns-state-law-ban-discrimination-section-8-housing-voucher",
+      "title": "Upstate appeals court overturns state law banning discrimination against Section 8 housing voucher holders",
+      "outlet": "Brick Underground"
+    },
+    {
+      "id": "nyc-w4",
+      "url": "https://www.phillipsnizer.com/new-york-appellate-court-invalidates-section-8-source-of-income-requirement",
+      "title": "New York Appellate Court Invalidates Section 8 Source of Income Requirement",
+      "outlet": "Phillips Nizer"
+    },
+    {
+      "id": "nyc-w5",
+      "url": "https://nyc.streetsblog.org/2026/10/08/the-big-lyft-mamdani-faces-tough-fight-for-cheaper-citi-bikes",
+      "title": "The Big Lyft: Mamdani Faces Tough Fight for Cheaper Citi Bikes",
+      "outlet": "Streetsblog NYC"
+    },
+    {
+      "id": "nyc-w6",
+      "url": "https://ny1.com/nyc/all-boroughs/news/2026/08/17/riders-push-for-citi-bike-fee-cap-as-revenue-and-prices-rise",
+      "title": "What if a 45-minute electric Citi Bike ride were capped at $3?",
+      "outlet": "NY1"
+    },
+    {
+      "id": "nyc-w7",
+      "url": "https://www.goodmorningamerica.com/news/story/grand-jury-indicts-retired-nypd-detective-murder-charge-137612210",
+      "title": "Grand jury indicts retired NYPD detective on murder charge",
+      "outlet": "ABC News"
+    },
+    {
+      "id": "nyc-w8",
+      "url": "https://ny1.com/nyc/all-boroughs/public-safety/2026/10/22/retired-nypd-detective-arraigned-following-fatal-george-washington-bridge-shooting",
+      "title": "Retired NYPD detective arraigned following fatal George Washington Bridge shooting",
+      "outlet": "NY1"
+    },
+    {
+      "id": "nyc-w9",
+      "url": "https://www.cleveland19.com/2026/10/22/retired-nypd-detective-arrested-road-rage-killing-george-washington-bridge/",
+      "title": "Retired NYPD detective arrested in road rage killing on George Washington Bridge",
+      "outlet": "Cleveland 19 News"
+    },
+    {
+      "id": "nyc-w10",
+      "url": "https://www.amny.com/nyc-transit/city-approves-increase-in-cab-fares-first-raise-for-taxi-drivers-in-a-decade/",
+      "title": "City approves increase in cab fares, first raise for taxi drivers in a decade",
+      "outlet": "amNY"
+    },
+    {
+      "id": "nyc-w11",
+      "url": "https://www.cbsnews.com/amp/newyork/news/new-york-city-taxis-set-to-increase-metered-fares-by-double-digits",
+      "title": "New York City taxis set to increase metered fares by double digits",
+      "outlet": "CBS New York"
+    }
+  ]
+}
