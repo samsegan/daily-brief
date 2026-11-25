@@ -1,0 +1,269 @@
+{
+  "stories": [
+    {
+      "id": "huang-nvidia-trump",
+      "headline": "Huang apologizes to Nvidia staff as Trump's role in his return draws scrutiny",
+      "region": "White House",
+      "importance": 5,
+      "summary": "Jensen Huang told Nvidia employees at an all-hands meeting on Tuesday that he is in therapy and apologized for his past conduct, a day after the board reinstated him as CEO. President Trump, who pressed for Huang's return, said a pardon for him is \"always an option\" but probably won't be needed. Huang is due to testify before Congress next week, and lawmakers in both parties are pushing new limits on chip sales to China.",
+      "why_it_matters": "Nvidia is one of the largest stocks in most retirement and index funds, so its leadership turmoil reaches ordinary 401(k)s. The case also tests how far a president can go in steering a private company in which he holds shares.",
+      "background": "Huang co-founded Nvidia, whose chips power much of the AI industry, and ran it for more than three decades. Earlier this month he resigned as CEO after reports of extramarital affairs, one reportedly with a woman suspected of spying for China, and the board opened an independent investigation and named CFO Colette Kress interim CEO. Trump, who has a close relationship with Huang, publicly pushed for his return, and the board reinstated him this week. Financial disclosures show Trump owns tens of millions of dollars in Nvidia stock.",
+      "facts": [
+        { "text": "Huang told Nvidia staff on Tuesday that he is in therapy, apologized for his conduct and said it was not acceptable that he had broken a code of conduct he helped write.", "refs": ["bbb010d120", "fc2061a84e", "374476a8c0"] },
+        { "text": "Huang dismissed suggestions that he returned because Trump pressured Nvidia's board, according to Reuters' account of the meeting.", "refs": ["bbb010d120"] },
+        { "text": "The Wall Street Journal reported that Huang thanked the Trump administration while addressing staff.", "refs": ["374476a8c0"] },
+        { "text": "Nvidia's board reinstated Huang after pressure from Trump, CNBC and the Washington Examiner reported.", "refs": ["63d3b91ac7", "e9d34cdbf2"] },
+        { "text": "Trump holds tens of millions of dollars in Nvidia shares, according to financial disclosure documents reviewed by CBS News.", "refs": ["88b5dca185"] },
+        { "text": "Trump said a pardon for Huang is \"always an option\" but likely won't be necessary, and that Huang should not need to invoke the Fifth Amendment before Congress.", "refs": ["fd273a6e6d", "52eb591253", "1981c9a703", "2ffc129339"] },
+        { "text": "Huang is scheduled to testify on Capitol Hill next week, and Trump's statement that Huang is not a national security threat drew criticism from members of both parties.", "refs": ["52eb591253"] },
+        { "text": "Lawmakers in both chambers are pushing to add new restrictions on AI chip sales to China to the year-end defense bill, The Hill reported.", "refs": ["665a529c52"] },
+        { "text": "Nvidia's board is facing criticism over how it handled the crisis.", "refs": ["89bf952b38"] },
+        { "text": "Huang resigned as CEO in mid-November after reports of extramarital affairs, and the board named CFO Colette Kress interim CEO and opened an independent investigation.", "refs": ["us-w1", "us-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "86c8f05195", "note": "Packages the story as a scandal with \"sex, money and Trump\", putting the personal angle first." },
+        { "ref": "e9d34cdbf2", "note": "Treats it as a lasting political liability for the White House heading into the next Congress." },
+        { "ref": "88b5dca185", "note": "Leads with Trump's personal financial stake in Nvidia." },
+        { "ref": "bbb010d120", "note": "Leads with Huang's apology and therapy, and notes the stock's comeback rally is fading." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "bbb010d120", "takeaway": "Reuters account of the staff meeting, including Huang's denial that Trump pressured the board.", "read_full": false },
+        { "ref": "fc2061a84e", "takeaway": "Describes the all-hands as a triumphant return with an apology and vow to do better.", "read_full": false },
+        { "ref": "374476a8c0", "takeaway": "Headline and summary only (paywalled): notes Huang thanked the Trump administration.", "read_full": false },
+        { "ref": "63d3b91ac7", "takeaway": "Frames the reinstatement as fuel for bipartisan worry about tech's political power.", "read_full": false },
+        { "ref": "e9d34cdbf2", "takeaway": "Right-leaning outlet focused on the headaches Trump's intervention creates for the administration in Congress.", "read_full": false },
+        { "ref": "88b5dca185", "takeaway": "Disclosure-based reporting on Trump's Nvidia holdings.", "read_full": false },
+        { "ref": "52eb591253", "takeaway": "Trump's pardon remark plus the bipartisan pushback ahead of Huang's testimony.", "read_full": false },
+        { "ref": "1981c9a703", "takeaway": "Right-leaning outlet highlights Trump's quote that he is in the business of chips, not sex.", "read_full": false },
+        { "ref": "665a529c52", "takeaway": "Policy angle: the comeback is boosting a push for China chip limits in the defense bill.", "read_full": false },
+        { "ref": "89bf952b38", "takeaway": "Focuses on governance criticism of Nvidia's board.", "read_full": false },
+        { "ref": "c2192ff27e", "takeaway": "Headline and summary only (paywalled, commentary): center-right outlet critical of Trump's role.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "abrego-garcia-leaves-us",
+      "headline": "Kilmar Abrego Garcia leaves the U.S. for Spain",
+      "region": "Immigration",
+      "importance": 4,
+      "summary": "Kilmar Abrego Garcia, the Salvadoran man the Trump administration wrongly deported to El Salvador last year, left the United States for Spain on Tuesday, the Department of Homeland Security said. Sen. Chris Van Hollen confirmed the departure and said he will be safe. The move ends a legal fight of about 20 months.",
+      "why_it_matters": "His case became the best-known test of whether courts can make the government undo a deportation it admits was a mistake, and it shaped the wider debate over due process in the administration's deportation push.",
+      "background": "Abrego Garcia, who lived in Maryland, was deported in March 2025 to a prison in El Salvador despite a 2019 court order barring his removal there, which the government later called an administrative error. After the Supreme Court said the government must help bring him back, he was returned in June 2025 to face federal human-smuggling charges in Tennessee, which he denied. A federal judge in Maryland ordered him released from immigration detention in December 2025. More recently, The New York Times reported, he faced the prospect of being deported to Liberia.",
+      "facts": [
+        { "text": "Abrego Garcia left the U.S. for Spain on Tuesday, the Department of Homeland Security confirmed.", "refs": ["10a3fcdd61", "6ec8d722a6", "098131b2d5"] },
+        { "text": "Sen. Chris Van Hollen (D-Md.) confirmed the departure and said Abrego Garcia \"will be safe.\"", "refs": ["7d939784fb"] },
+        { "text": "ABC News reported he boarded a flight from a Washington-area airport.", "refs": ["7d939784fb"] },
+        { "text": "He faced the possibility that the administration would deport him to Liberia.", "refs": ["0054f4a68c"] },
+        { "text": "He was wrongly deported last year to a prison in El Salvador.", "refs": ["1612b042ee", "3d49b100bd", "098131b2d5"] },
+        { "text": "He was returned to the U.S. in June 2025 to face criminal charges, and a federal judge ordered him freed from immigration detention in December 2025.", "refs": ["us-w4", "us-w3"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "d4a2466aed", "note": "Calls it a self-deportation and casts him as the face of Trump's deportation campaign." },
+        { "ref": "098131b2d5", "note": "Stresses that he fought a mistaken deportation and left voluntarily." },
+        { "ref": "7d939784fb", "note": "Leads with Van Hollen's assurance that he will be safe." },
+        { "ref": "b00f7d27c3", "note": "Presents it as the end of a legal battle with the administration." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "098131b2d5", "takeaway": "AP wire story on the voluntary departure.", "read_full": false },
+        { "ref": "10a3fcdd61", "takeaway": "Notes DHS confirmation of the departure.", "read_full": false },
+        { "ref": "7d939784fb", "takeaway": "Built around Van Hollen's confirmation and ABC's flight report.", "read_full": false },
+        { "ref": "0054f4a68c", "takeaway": "Headline and summary only (paywalled): adds the threat of deportation to Liberia.", "read_full": false },
+        { "ref": "d4a2466aed", "takeaway": "Right-leaning outlet frames it as a self-deportation.", "read_full": false },
+        { "ref": "b00f7d27c3", "takeaway": "Right-leaning straight account of the end of the case.", "read_full": false },
+        { "ref": "6ec8d722a6", "takeaway": "Headline and summary only (paywalled): Reuters-based, cites DHS.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iowa-lead-azide-detonation",
+      "headline": "Army sets Wednesday detonation of lead explosives in Iowa after court declines to block it",
+      "region": "Military",
+      "importance": 4,
+      "summary": "The Army planned to detonate about 5 tons of degraded lead azide, the nation's entire stockpile, at the Iowa Army Ammunition Plant in Middletown on Wednesday morning, after a federal appeals court on Monday declined to stop it. Army officials say the material could explode on its own and that precautions will limit lead dust. Residents of Iowa, Illinois and Missouri have raised health concerns about the plume.",
+      "why_it_matters": "Lead is harmful even in small amounts, especially for children, so people downwind are being asked to follow shelter guidance on a holiday travel day. The case also shows how the government handles aging hazardous munitions near towns.",
+      "background": "Lead azide is a sensitive explosive used in military detonators. The Army stored 68 drums of it underground at the Middletown plant near Burlington, Iowa, and a safety review this year found it had become unstable as crystals formed. The EPA issued an emergency permit on Nov. 13 allowing the blast, and environmental groups asked a federal appeals court to halt it. State and local leaders asked for delays, and the date shifted several times before the Army settled on Wednesday.",
+      "facts": [
+        { "text": "The Army planned to detonate 68 drums, about 5 tons, of lead azide at the Iowa Army Ammunition Plant in Middletown on Wednesday morning.", "refs": ["3780f9f243", "d5539a8279", "1d889763c4"] },
+        { "text": "The material is the entire U.S. stockpile of lead azide.", "refs": ["8191a79169", "da2820e5ff"] },
+        { "text": "A federal appeals court on Monday declined to block the detonation.", "refs": ["b0e5a1f3ba"] },
+        { "text": "Federal officials said they scheduled the blast for Wednesday, ahead of evening snow, because cold temperatures could create more unstable crystals; the acting Army secretary called the plan better than a \"worst-case scenario.\"", "refs": ["230644b6e5"] },
+        { "text": "The Army said it has taken precautions and there is no reason to panic.", "refs": ["84b540bb50", "a356232ab8"] },
+        { "text": "Forecast maps showed the lead dust plume area stretching from near Burlington, Iowa, toward Macon, Missouri, by noon Wednesday, subject to weather changes.", "refs": ["1b542176ba"] },
+        { "text": "Middletown residents were told to shelter in place, and some residents said shifting guidance left them confused about where the dust would go.", "refs": ["8191a79169", "e18ace10af"] },
+        { "text": "The EPA issued an emergency permit for the detonation on Nov. 13, and environmental groups asked the 8th Circuit to halt it.", "refs": ["us-w5", "us-w6"] },
+        { "text": "A safety review in March found the stored lead azide had become unstable.", "refs": ["us-w7"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "2e68a99f6b", "note": "Leads with the toxic plume crossing Iowa." },
+        { "ref": "84b540bb50", "note": "Leads with the Army's reassurance that there is no reason to panic." },
+        { "ref": "230644b6e5", "note": "Centers the acting Army secretary's case that this beats the worst-case alternative." },
+        { "ref": "d35e1972c1", "note": "Centers residents' complaint about short notice." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d5539a8279", "takeaway": "AP explainer on the 5-ton stockpile and precautions.", "read_full": false },
+        { "ref": "b0e5a1f3ba", "takeaway": "Reports the appeals court's refusal to block the blast.", "read_full": false },
+        { "ref": "1b542176ba", "takeaway": "Maps of where the lead dust could travel.", "read_full": false },
+        { "ref": "230644b6e5", "takeaway": "Right-leaning outlet relays the Army's timing rationale.", "read_full": false },
+        { "ref": "84b540bb50", "takeaway": "Emphasizes the Army's safety assurances.", "read_full": false },
+        { "ref": "8191a79169", "takeaway": "Focuses on the shelter-in-place and public concern.", "read_full": false },
+        { "ref": "e18ace10af", "takeaway": "Notes residents' confusion over changing guidance.", "read_full": false },
+        { "ref": "2e68a99f6b", "takeaway": "Leads with the expected toxic plume.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "house-democrats-259-seats",
+      "headline": "Democrats reach at least 259 House seats as Broderick unseats DesJarlais",
+      "region": "Elections",
+      "importance": 4,
+      "summary": "Democrat Victoria Broderick defeated eight-term Republican Rep. Scott DesJarlais in Tennessee's 4th District, the AP reported Tuesday. The result gives Democrats at least 259 House seats, their largest majority since 1990.",
+      "why_it_matters": "A majority that large gives Democrats firm control of the House agenda, including spending bills and investigations of the administration, when the new Congress starts in January.",
+      "background": "Democrats won the House in the Nov. 3 midterm elections, and the size of their majority has grown as close races were settled. Tennessee's 4th District was redrawn by Republicans to take in part of Nashville, and DesJarlais, in office since 2011, had beaten Broderick by a wide margin in 2024. Local outlets reported the final margin was about 280 votes and that DesJarlais conceded on Nov. 16 after provisional ballots were counted.",
+      "facts": [
+        { "text": "Democrat Victoria Broderick won Tennessee's 4th Congressional District, narrowly defeating Republican Rep. Scott DesJarlais.", "refs": ["bad5cfb793", "3e5d3e555b"] },
+        { "text": "The win gave Democrats at least 259 House seats, the largest majority since 1990.", "refs": ["8d9d872e35", "504529c212"] },
+        { "text": "Broderick, a tech support worker, won without airing a single TV ad, The New York Times reported.", "refs": ["1f9edf498a"] },
+        { "text": "The margin was about 280 votes, and DesJarlais conceded on Nov. 16 after provisional ballots were counted.", "refs": ["us-w8"] },
+        { "text": "Republican redistricting moved part of Nashville into the district, where Broderick ran up a large lead.", "refs": ["us-w8", "us-w9"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "dcc1c5a6af", "note": "Calls it a major upset and focuses on the flipped seat." },
+        { "ref": "1f9edf498a", "note": "Ties the race to the size of the national Democratic majority." },
+        { "ref": "e7dc1b8d90", "note": "Stresses the eight-term incumbent being unseated." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "bad5cfb793", "takeaway": "AP race call.", "read_full": false },
+        { "ref": "8d9d872e35", "takeaway": "AP tally of the Democratic majority.", "read_full": false },
+        { "ref": "1f9edf498a", "takeaway": "Headline and summary only (paywalled): profile of the low-budget campaign.", "read_full": false },
+        { "ref": "dcc1c5a6af", "takeaway": "Right-leaning outlet's short upset story.", "read_full": false },
+        { "ref": "e7dc1b8d90", "takeaway": "Calls it one of the cycle's biggest House upsets.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "omar-search-records",
+      "headline": "Unsealed records show judge first resisted search of Rep. Ilhan Omar's home",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "A federal court released heavily redacted records about last month's FBI search of Rep. Ilhan Omar's Washington home. They show a magistrate judge first raised constitutional concerns about searching a sitting member of Congress, and that the warrant sought evidence going back to 1980. The New York Post reported that a grand jury has been empaneled in the case.",
+      "why_it_matters": "A search of a sitting lawmaker's home is rare and raises questions about the limits on executive power over Congress. No charges have been filed, and the case could lead to an indictment of a member of Congress.",
+      "background": "Federal agents searched Omar's D.C. home on Oct. 12 as part of an investigation that reports describe as focused on possible immigration-related fraud. Omar, a Minnesota Democrat, has not been charged and denies wrongdoing. News organizations and the group Judicial Watch asked the court to unseal the warrant, and Chief Judge James Boasberg ordered a partial, redacted release while keeping most of the affidavit sealed.",
+      "facts": [
+        { "text": "A federal court on Monday released heavily redacted documents about the October search of Omar's D.C. home.", "refs": ["202546ddb3", "70f6a52cfc"] },
+        { "text": "Magistrate Judge Matthew Sharbaugh warned the Justice Department that its warrant could violate the Constitution's Speech or Debate Clause, and initially blocked the search.", "refs": ["1096584a89", "97b0fa7c00"] },
+        { "text": "The magistrate judge ruled that Omar was entitled to assert privacy protections that apply to sitting members of Congress at the outset of the search.", "refs": ["2fc6cdf115"] },
+        { "text": "The warrant application covers a period starting in 1980, and no criminal charges are listed in the records.", "refs": ["f9321296c6", "0034acf339"] },
+        { "text": "Prosecutors say they are pursuing evidence of crimes allegedly committed over decades and unrelated to her work in Congress.", "refs": ["70f6a52cfc"] },
+        { "text": "Justice Department lawyers argued that Judge James Boasberg's decision to unseal the records contradicts his own ruling in a Trump case.", "refs": ["90d0d2dd7f"] },
+        { "text": "The New York Post reported that a federal grand jury has been empaneled in the case; it is unclear what charges are being sought.", "refs": ["3ab75070d9"] },
+        { "text": "Omar has not been charged and denies wrongdoing.", "refs": ["us-w10"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "0034acf339", "note": "Highlights that the warrant seeks evidence from before Omar was born." },
+        { "ref": "90d0d2dd7f", "note": "Focuses on the Justice Department's attack on the judge, whom it identifies by the president who appointed him." },
+        { "ref": "97b0fa7c00", "note": "Leads with the judge initially blocking the search." },
+        { "ref": "3ab75070d9", "note": "Calls it an immigration fraud case and stresses the grand jury." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2fc6cdf115", "takeaway": "AP account of the judge's constitutional debate with prosecutors.", "read_full": false },
+        { "ref": "1096584a89", "takeaway": "Right-leaning outlet details the judge's Speech or Debate warning.", "read_full": false },
+        { "ref": "f9321296c6", "takeaway": "Focuses on the 46-year span of the warrant and the absence of charges.", "read_full": false },
+        { "ref": "70f6a52cfc", "takeaway": "Notes prosecutors' claim that the alleged crimes are unrelated to her congressional work.", "read_full": false },
+        { "ref": "90d0d2dd7f", "takeaway": "Relays DOJ criticism of Boasberg.", "read_full": false },
+        { "ref": "3ab75070d9", "takeaway": "Single-outlet report of an empaneled grand jury.", "read_full": false },
+        { "ref": "97b0fa7c00", "takeaway": "Leads with the initial refusal to allow the search.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "cia-odni-breach",
+      "headline": "Hackers breach unclassified CIA and ODNI systems",
+      "region": "National security",
+      "importance": 3,
+      "summary": "An unclassified CIA system used to analyze open-source intelligence was breached in a cyberattack, according to people familiar with the incident who spoke to several outlets. Reporting also says the Office of the Director of National Intelligence was affected. An official said there was no disruption to critical capabilities.",
+      "why_it_matters": "It is the latest in a run of attacks on federal agencies and companies, raising questions about how well government networks that hold data on Americans are protected.",
+      "background": "The CIA and ODNI run both classified networks and separate unclassified systems used for routine work and public-source research. Breaches of unclassified government systems are more common, but they can still expose sensitive details about how agencies work. The incident follows several weeks of cyberattacks and tech outages affecting U.S. government departments and major companies. Officials have not publicly named who was behind it.",
+      "facts": [
+        { "text": "An unclassified CIA system was breached in a cyberattack; the breach did not involve classified information and the issue has been resolved, a person familiar with it told the AP.", "refs": ["a8981e6347", "665161dbef"] },
+        { "text": "The CIA and the Office of the Director of National Intelligence suffered a breach of some unclassified information, according to The New York Times and a Reuters source.", "refs": ["dbfa08156d", "7bddd59f3b"] },
+        { "text": "Information at other government agencies was also believed to have been exposed, and it was not clear exactly what material was compromised.", "refs": ["dec6947f86"] },
+        { "text": "Fox News sources said the affected network is used to analyze open-source intelligence and that the FBI is involved.", "refs": ["af19a9bc8f"] },
+        { "text": "An official said the breach caused no disruption to critical capabilities.", "refs": ["d200d144b4"] },
+        { "text": "The breach follows a series of cyberattacks on U.S. government departments and major companies in recent weeks.", "refs": ["353be2ca0b", "d200d144b4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "af19a9bc8f", "note": "Specifies an intelligence analysis network was exposed, citing sources." },
+        { "ref": "7bddd59f3b", "note": "Frames it as a breach of U.S. spy agencies broadly, not just the CIA." },
+        { "ref": "d200d144b4", "note": "Leads with the official's assurance that critical capabilities were not disrupted." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "a8981e6347", "takeaway": "AP single-source report that classified data was not involved.", "read_full": false },
+        { "ref": "dbfa08156d", "takeaway": "Reuters adds ODNI to the affected agencies.", "read_full": false },
+        { "ref": "7bddd59f3b", "takeaway": "Headline and summary only (paywalled): original report on both agencies.", "read_full": false },
+        { "ref": "af19a9bc8f", "takeaway": "Right-leaning outlet with sourcing on the open-source analysis network.", "read_full": false },
+        { "ref": "d200d144b4", "takeaway": "Video report tying the breach to a wider wave of tech problems.", "read_full": false },
+        { "ref": "dec6947f86", "takeaway": "Reuters-based summary noting other agencies may be affected.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "giuliani-medal-of-freedom",
+      "headline": "Trump awards Rudy Giuliani the Presidential Medal of Freedom",
+      "region": "White House",
+      "importance": 3,
+      "summary": "President Trump gave Rudy Giuliani the Presidential Medal of Freedom, the nation's highest civilian honor, in the Oval Office on Tuesday. Giuliani led New York City through the 9/11 attacks and later, as Trump's personal lawyer, was central to efforts to overturn the 2020 election.",
+      "why_it_matters": "The award shows how the president is using the country's top civilian honor, and it revives debate over the 2020 election fight in which Giuliani played a leading role.",
+      "background": "Giuliani was New York's mayor from 1994 to 2001 and was widely praised for his leadership after the Sept. 11 attacks, earning the nickname \"America's mayor.\" He ran for the Republican presidential nomination in 2008 and later became Trump's personal lawyer. After he pushed false claims of fraud in the 2020 election, he was disbarred, and a jury ordered him to pay large damages to two Georgia election workers he defamed.",
+      "facts": [
+        { "text": "Trump awarded Giuliani the Presidential Medal of Freedom on Tuesday.", "refs": ["fe0fbfa16d", "068afbd5d3", "e236fe549a"] },
+        { "text": "Giuliani said he would be honored in the Oval Office.", "refs": ["068afbd5d3"] },
+        { "text": "As Trump's personal lawyer, Giuliani was a central figure in efforts to overturn Trump's 2020 election loss to Joe Biden.", "refs": ["e236fe549a", "74dadc2e8e"] },
+        { "text": "After 9/11, Giuliani became one of the most popular figures in U.S. politics and later launched a Republican presidential bid.", "refs": ["42da767bdd"] },
+        { "text": "Giuliani was disbarred after the 2020 election fight.", "refs": ["560359ff25"] },
+        { "text": "Former New York Mayor Bill de Blasio called the award \"troubling.\"", "refs": ["f4f0d71464"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "560359ff25", "note": "Tells the arc from \"America's mayor\" to disbarred election denier to medal winner." },
+        { "ref": "e236fe549a", "note": "AP headline pairs his role as a fierce Trump ally with his 9/11 leadership." },
+        { "ref": "1b33a75875", "note": "Straight announcement of the award, without the 2020 history in the headline." },
+        { "ref": "74dadc2e8e", "note": "Summary stresses that his reputation was tarnished by the 2020 effort." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e236fe549a", "takeaway": "AP story balancing his 9/11 role and 2020 election efforts.", "read_full": false },
+        { "ref": "fe0fbfa16d", "takeaway": "Reuters straight report of the award.", "read_full": false },
+        { "ref": "068afbd5d3", "takeaway": "Notes the Oval Office ceremony.", "read_full": false },
+        { "ref": "560359ff25", "takeaway": "Retrospective on his fall and return to favor.", "read_full": false },
+        { "ref": "f4f0d71464", "takeaway": "De Blasio interview criticizing the award.", "read_full": false },
+        { "ref": "1b33a75875", "takeaway": "Right-leaning outlet's short announcement.", "read_full": false },
+        { "ref": "74dadc2e8e", "takeaway": "Headline and summary only (paywalled).", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://sfstandard.com/2026/11/12/nvidia-ceo-jensen-huang-resigns/", "title": "Nvidia CEO Jensen Huang resigns", "outlet": "San Francisco Standard" },
+    { "id": "us-w2", "url": "https://www.thewrap.com/industry-news/tech/nvidia-ceo-jensen-huang-resigns/", "title": "Nvidia CEO Jensen Huang Resigns Amid Affair Scandal", "outlet": "TheWrap" },
+    { "id": "us-w3", "url": "https://www.aljazeera.com/amp/news/2025/12/12/kilmar-abrego-garcia-freed-from-us-immigration-detention-returns-home", "title": "Kilmar Abrego Garcia freed from US immigration detention, returns home", "outlet": "Al Jazeera" },
+    { "id": "us-w4", "url": "https://www.csmonitor.com/USA/Justice/2025/0606/kilmar-abrego-garcia-el-salvador", "title": "Kilmar Abrego Garcia is returning to the US to face criminal charges", "outlet": "Christian Science Monitor" },
+    { "id": "us-w5", "url": "https://www.epa.gov/ia/iowa-army-ammunition-plant-middletown-iowa-1", "title": "Iowa Army Ammunition Plant, Middletown, Iowa", "outlet": "EPA" },
+    { "id": "us-w6", "url": "https://earthjustice.org/document/emergency-motion-to-halt-planned-detonation-at-ammunition-plant-in-iowa", "title": "Emergency motion to halt planned detonation at ammunition plant in Iowa", "outlet": "Earthjustice" },
+    { "id": "us-w7", "url": "https://taskandpurpose.com/news/army-iowa-munitions-lead-detonation/", "title": "Army to detonate lead azide at Iowa munitions plant", "outlet": "Task & Purpose" },
+    { "id": "us-w8", "url": "https://tennesseelookout.com/2026/11/16/desjarlais-concedes-tennessee-4th-congressional-district-to-democrat-victoria-broderick/", "title": "DesJarlais concedes Tennessee 4th Congressional District to Democrat Victoria Broderick", "outlet": "Tennessee Lookout" },
+    { "id": "us-w9", "url": "https://newschannel9.com/news/local/redistricting-reshaped-tennessees-d4-adding-counties-where-broderick-won-by-22000-votes", "title": "Redistricting reshaped Tennessee's D4, adding counties where Broderick won by 22,000 votes", "outlet": "NewsChannel 9" },
+    { "id": "us-w10", "url": "https://thegrio.com/2026/11/18/ilhan-omar-search-warrant-records-boasberg/", "title": "Judge orders partial release of records tied to FBI search of Ilhan Omar's home", "outlet": "TheGrio" }
+  ]
+}

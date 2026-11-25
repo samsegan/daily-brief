@@ -1,0 +1,157 @@
+{
+  "stories": [
+    {
+      "id": "amazon-delivery-protection-act",
+      "headline": "Amazon warns customers a Council delivery bill could add up to $5 per order",
+      "region": "City Council",
+      "importance": 5,
+      "summary": "Amazon is showing New York City customers pop-up warnings that a City Council bill, the Delivery Protection Act, 'could add up to $5 per order,' and urging them to contact their Council members. The bill, backed by Mayor Zohran Mamdani, would license last-mile delivery hubs and require companies to employ drivers directly rather than through contractors. Separately, THE CITY reported that the state Labor Department is investigating Amazon's JFK8 warehouse on Staten Island.",
+      "why_it_matters": "New Yorkers who shop online are being asked to weigh in on a bill that could change how packages reach their doors and how delivery drivers are employed; the $5 figure is Amazon's own estimate, not a charge in the bill. Coverage in the digest comes from center and lean-left outlets only.",
+      "background": "Amazon delivers most packages in the city through independent 'delivery service partners' whose drivers are not Amazon employees. Intro 518, sponsored by Council Member Tiffany Cabán, would require owners of certain last-mile delivery facilities to get a city license and directly employ the workers, which supporters say would improve pay and safety and make it easier to unionize. A version of the bill stalled in 2025; Mayor Mamdani has since backed it. Amazon and a coalition of logistics firms say it would raise costs and threaten jobs.",
+      "facts": [
+        { "text": "Amazon is showing NYC customers a notice saying the Council 'could add up to $5 per order' and urging them to contact Council members.", "refs": ["63bd37bc2d", "59043a9c5d", "nyc-w1"] },
+        { "text": "The bill would require owners of certain last-mile delivery facilities to be licensed by the city's Department of Consumer and Worker Protection and to employ delivery workers directly.", "refs": ["nyc-w2", "63bd37bc2d"] },
+        { "text": "The bill itself does not impose a per-order surcharge; Amazon says its requirements would raise delivery costs, and the New York Times reported the $5 claim is 'more complicated.'", "refs": ["59043a9c5d", "nyc-w2"] },
+        { "text": "Mayor Zohran Mamdani supports the bill.", "refs": ["63bd37bc2d", "nyc-w2"] },
+        { "text": "THE CITY reported that the state Labor Department is investigating Amazon's JFK8 warehouse on Staten Island over allegations it ignored rules on transparent productivity quotas and ergonomic training.", "refs": ["3ae11fa6de"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the bill would raise prices by up to $5 per order",
+          "positions": [
+            { "claim": "Amazon says the bill's requirements could add up to $5 per order.", "refs": ["nyc-w1"] },
+            { "claim": "Sponsor Tiffany Cabán has said a delivery surcharge should not be necessary, and the Times reported the claim is more complicated than Amazon's notice suggests.", "refs": ["nyc-w2", "59043a9c5d"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "63bd37bc2d", "note": "Frames the bill as a contest over workers, posing 'exploitation or opportunity' and centering the drivers." },
+        { "ref": "59043a9c5d", "note": "Frames the story as a fact-check of Amazon's $5 price claim." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "63bd37bc2d", "takeaway": "Summary only: details Amazon's customer pop-up and the multimillion-dollar lobbying fight over the bill.", "read_full": false },
+        { "ref": "59043a9c5d", "takeaway": "Headline and summary only (paywalled): questions whether the $5 figure holds up.", "read_full": false },
+        { "ref": "3ae11fa6de", "takeaway": "Summary only: scoop on a state Labor Department probe of the JFK8 warehouse.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "court-of-appeals-voucher-ruling",
+      "headline": "State's top court rules landlords cannot turn away tenants who use housing vouchers",
+      "region": "Housing",
+      "importance": 4,
+      "summary": "New York's Court of Appeals ruled 4-3 on Monday that landlords cannot refuse to rent to people paying with government housing assistance, amNY reported. The decision overturns a lower appellate ruling that had struck down the state's source-of-income protections, rejecting upstate landlords' argument that required inspections made the law unconstitutional.",
+      "why_it_matters": "Tens of thousands of New Yorkers rent with Section 8 or city vouchers; the ruling restores the state law that bars landlords from rejecting them for how they pay. This was reported by amNY alone in the digest.",
+      "background": "A 2019 state law made it illegal to discriminate against renters based on lawful source of income, including housing vouchers; New York City has had its own similar law since 2008. Upstate landlords challenged the state law, arguing that voucher programs require inspections of their units, which they said violated their Fourth Amendment rights. In March 2026 the Appellate Division's Third Department agreed and found the law unconstitutional, and the state attorney general appealed. Monday's decision from the Court of Appeals, the state's highest court, reverses that ruling.",
+      "facts": [
+        { "text": "The Court of Appeals ruled 4-3 on Monday that landlords cannot refuse to rent to people using government housing assistance.", "refs": ["369a816275"] },
+        { "text": "The decision overturned a lower appellate court ruling, rejecting upstate landlords' argument centered on voucher inspection requirements.", "refs": ["369a816275"] },
+        { "text": "In March 2026 the Appellate Division, Third Department, had found the state's source-of-income protections unconstitutional, leaving voucher holders' protections in limbo.", "refs": ["nyc-w3"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "369a816275", "takeaway": "Summary only: straight court story stressing the 4-3 split and the reversal.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "omny-cubic-payments",
+      "headline": "MTA withholds payments from OMNY contractor Cubic over troubled rollout",
+      "region": "Transit",
+      "importance": 3,
+      "summary": "The MTA is holding back 'millions and millions' of dollars from Cubic Transportation Systems, the company building the OMNY tap-to-pay fare system, THE CITY reported. The transit agency is seeking money over delays and problems in the rollout of the MetroCard's replacement.",
+      "why_it_matters": "OMNY is how most subway and bus riders now pay, and the dispute is over public money spent on a system that has run years late. Only THE CITY reported this in the digest.",
+      "background": "The MTA awarded Cubic a $573 million contract in 2017 to replace the MetroCard with OMNY, which lets riders tap a phone, bank card or OMNY card. The contract's cost later grew to about $772 million, and the rollout has been marked by delays, software problems that caused mistaken charges, and the MTA moving some work away from Cubic in 2024. The MetroCard is being phased out.",
+      "facts": [
+        { "text": "THE CITY reported that the MTA is holding back 'millions and millions' of dollars from Cubic over the OMNY rollout.", "refs": ["137c019020"] },
+        { "text": "The MTA awarded Cubic a $573 million contract to develop OMNY nearly a decade ago.", "refs": ["137c019020"] },
+        { "text": "The contract's value had grown to about $772 million by 2024, and the MTA removed part of the rollout from Cubic's scope.", "refs": ["nyc-w4"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "137c019020", "takeaway": "Summary only: accountability story on the MTA pressing Cubic for money over the rollout.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "tlc-taxi-fare-report",
+      "headline": "City report says more frequent cab fare increases could help drivers stay out of poverty",
+      "region": "Transit",
+      "importance": 3,
+      "summary": "A new Taxi and Limousine Commission report found that the cost of owning and operating a taxi or for-hire vehicle has risen about 16% on average since the city last raised cab fares in 2022. The report says more frequent fare increases could help keep drivers out of poverty.",
+      "why_it_matters": "The report could set up higher yellow-cab fares for riders, while drivers say rising costs are squeezing their incomes.",
+      "background": "The TLC sets yellow-cab fares and minimum pay for app-based drivers. It has approved only one fare increase for yellow cabs in the past 14 years, in late 2022, which raised fares by roughly 23% on average. Drivers, many still dealing with the fallout of the medallion debt crisis, have pushed for regular adjustments as insurance, fuel and vehicle costs rise.",
+      "facts": [
+        { "text": "The TLC report found operating costs for taxis and for-hire vehicles rose an average of 16% since the last cab fare increase in 2022.", "refs": ["7de1b3f89e"] },
+        { "text": "The TLC has approved one fare increase for yellow cabs in the last 14 years.", "refs": ["98189accd3"] },
+        { "text": "The report says more frequent fare increases could keep drivers out of poverty.", "refs": ["98189accd3", "7de1b3f89e"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "98189accd3", "note": "Leads with fare hikes as a remedy that could lift drivers out of poverty." },
+        { "ref": "7de1b3f89e", "note": "Leads with drivers 'stuck' in financial trouble from rising costs, with fare hikes secondary." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "98189accd3", "takeaway": "Summary only: focuses on how rarely fares have been raised.", "read_full": false },
+        { "ref": "7de1b3f89e", "takeaway": "Summary only: leads with the 16% cost increase and covers both cabs and for-hire vehicles.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-congestion-pricing",
+      "headline": "Trump calls congestion pricing 'a killer' and vows to keep it out of other cities",
+      "region": "Transit",
+      "importance": 3,
+      "summary": "President Trump said Manhattan's congestion pricing toll is 'a killer' for New York and said he would not allow it in any other metropolitan area, the New York Post reported. He did not announce a new step against the New York toll in the report.",
+      "why_it_matters": "Drivers entering lower Manhattan pay the toll, and it funds MTA upgrades, so continued federal hostility keeps its future in question. Only the right-leaning New York Post covered this in the digest.",
+      "background": "New York began charging most vehicles to enter Manhattan below 60th Street in January 2025, with the money going to MTA capital projects. The Trump administration moved to revoke federal approval of the program in February 2025, and New York sued; a federal judge blocked the administration from cutting off funding while the case continues. Gov. Kathy Hochul and the MTA have kept the tolls running.",
+      "facts": [
+        { "text": "Trump said congestion pricing is 'a killer' for New York and vowed not to allow it in any other metropolitan area.", "refs": ["b560daf0f7"] },
+        { "text": "The administration ordered a halt to the program in February 2025, and a federal judge later blocked it from withholding federal funds over the toll.", "refs": ["nyc-w5"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "b560daf0f7", "takeaway": "Summary only: built around Trump's quote and his vow to stop the idea spreading.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "queens-casino-design-vote",
+      "headline": "Design panel to vote Monday on $8 billion casino near Citi Field",
+      "region": "Queens",
+      "importance": 2,
+      "summary": "The city's Public Design Commission is set to vote Monday on the design of the $8 billion Hard Rock Hotel and Casino at Metropolitan Park next to Citi Field, Gothamist reported. Commissioners delayed a vote last month over questions about how the complex would manage stormwater.",
+      "why_it_matters": "The casino, backed by Mets owner Steve Cohen, would reshape a stretch of Flushing Meadows that floods, and Monday's vote is one of its remaining city approvals. Only Gothamist covered it in the digest.",
+      "background": "Metropolitan Park is a casino, hotel and entertainment complex planned on parking lots beside Citi Field by Mets owner Steve Cohen and Hard Rock. The state Gaming Commission approved it as one of three downstate casino licenses in December 2025. The Public Design Commission reviews the parts of the project facing public parkland, and last month it postponed a vote, asking for more detail on stormwater management, gates and glass. Opponents have raised flooding concerns.",
+      "facts": [
+        { "text": "The Public Design Commission is set to vote Monday on the casino complex's design.", "refs": ["f762648bf4"] },
+        { "text": "Commissioners raised concerns last month about how the complex would manage stormwater.", "refs": ["f762648bf4", "nyc-w6"] },
+        { "text": "The state Gaming Commission approved Metropolitan Park as one of three New York City-area casino licenses.", "refs": ["nyc-w7"] }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f762648bf4", "takeaway": "Summary only: previews the vote, emphasizing the stormwater questions.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "nyc-w1", "url": "https://www.aboutamazon.com/news/policy-news-views/amazon-new-york-city-delivery-protection-act-costs", "title": "A message from Amazon to customers about New York City delivery costs", "outlet": "Amazon" },
+    { "id": "nyc-w2", "url": "https://www.amny.com/news/nyc-council-surcharge-delivery-amazon-says/", "title": "NYC Council bill could add delivery surcharge, Amazon says", "outlet": "amNY" },
+    { "id": "nyc-w3", "url": "https://therealdeal.com/new-york/2026/03/12/voucher-protections-struck-down-nyc-in-limbo", "title": "Voucher protections struck down, NYC in limbo", "outlet": "The Real Deal" },
+    { "id": "nyc-w4", "url": "https://nyc.streetsblog.org/2024/05/20/mtas-demotes-omny-contractor-cubic-in-hopes-of-speeding-up-commuter-rail-fare-integration", "title": "MTA demotes OMNY contractor Cubic", "outlet": "Streetsblog NYC" },
+    { "id": "nyc-w5", "url": "https://www.cbsnews.com/newyork/news/nyc-congestion-pricing-timeline", "title": "NYC congestion pricing timeline", "outlet": "CBS New York" },
+    { "id": "nyc-w6", "url": "https://www.playusa.com/news/design-panel-delays-vote-on-metropolitan-park-casino-amid-flooding-concerns/", "title": "Design panel delays vote on Metropolitan Park casino amid flooding concerns", "outlet": "PlayUSA" },
+    { "id": "nyc-w7", "url": "https://www.cbsnews.com/newyork/news/nyc-casino-licenses-metropolitan-park-ballys-resorts-world", "title": "3 NYC casinos approved by N.Y. State Gaming Commission in final vote", "outlet": "CBS New York" }
+  ]
+}

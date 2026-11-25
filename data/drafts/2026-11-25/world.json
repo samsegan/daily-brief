@@ -1,0 +1,311 @@
+{
+  "stories": [
+    {
+      "id": "houthi-strikes-riyadh-ras-tanura",
+      "headline": "Houthis strike Riyadh financial tower again and claim attack on Saudi refinery",
+      "region": "Middle East",
+      "importance": 5,
+      "summary": "Yemen's Houthis said they attacked the tower housing Saudi Arabia's sovereign wealth fund in Riyadh and the Ras Tanura oil refinery, calling it retaliation for strikes on their territory. Eleven people were reported injured at the tower, the second attack on it in under a week. The group also threatened Saudi Red Sea ports, including Jeddah, while its fighters press toward the Yemeni government's seat in Aden.",
+      "why_it_matters": "Attacks on Saudi oil sites and its financial hub add risk to global oil supplies, which can show up in fuel prices, and the fighting around Aden threatens a wider humanitarian crisis in Yemen.",
+      "background": "The Houthis are an Iran-backed armed movement that has controlled Yemen's capital and much of the north for about a decade, fighting a Saudi-backed Yemeni government. Their attacks on Saudi Arabia resumed this autumn alongside a wider regional war involving Iran and the United States. Strikes have hit Riyadh's King Abdullah Financial District several times this month, including an earlier hit on the same tower on Nov. 19 that damaged several floors without injuries. On the ground in Yemen, the Houthis have taken much of the western coastline and are advancing on Aden, the government's temporary capital.",
+      "facts": [
+        { "text": "The Houthis claimed attacks on Riyadh's financial district and the Ras Tanura refinery in eastern Saudi Arabia, describing them as retaliation for strikes on Houthi-held territory.", "refs": ["e3c518c7cc", "ddd6650792", "3c53ad1ac9"] },
+        { "text": "Eleven people were injured in the attack on the Public Investment Fund tower, the second strike on the building in six days; the earlier one caused no casualties.", "refs": ["32626707c8", "2cc5ee5db6", "9e9399b0c1"] },
+        { "text": "Saudi Arabia's Civil Defence described the strike on the tower as a \"terrorist attack\"; at least two Indian nationals were among the injured and India's government condemned it.", "refs": ["447d0d9189"] },
+        { "text": "A fire was reported at the Ras Tanura refinery, according to Deutsche Welle.", "refs": ["ddd6650792"] },
+        { "text": "The Houthis said Jeddah and all other Saudi Red Sea ports would be targeted if Saudi Arabia attacks the Yemeni port of Hodeidah.", "refs": ["9d32896d7d"] },
+        { "text": "Houthi forces have advanced close to Aden, where Yemeni government troops are holding a fortified line; government forces said the Houthis will not take the city.", "refs": ["3f5f81d4fc", "0f0da314fa", "5d02780250"] },
+        { "text": "The Nov. 19 strike on the same tower damaged several floors and caused no injuries, and Saudi Arabia's foreign ministry said it reserved the right to take all necessary measures in response.", "refs": ["world-w1"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "50ecc0d389", "note": "Frames the strikes as a tit-for-tat cycle and stresses the cost to Riyadh's push to become a global business center." },
+        { "ref": "447d0d9189", "note": "Leads with the Indian nationals among the injured and New Delhi's condemnation." },
+        { "ref": "b21bcdbe4f", "note": "Keeps the attacks attributed to the Houthis' own claim rather than stating them as confirmed." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "32626707c8", "takeaway": "Headline and summary only: gives the 11 injured and notes the earlier attack caused no casualties.", "read_full": false },
+        { "ref": "3c53ad1ac9", "takeaway": "Headline only: wire report attributing the refinery attack to the Houthis' claim.", "read_full": false },
+        { "ref": "ddd6650792", "takeaway": "Summary only: reports the refinery fire and the second hit on the financial district in a week.", "read_full": false },
+        { "ref": "e3c518c7cc", "takeaway": "Summary only: quotes the Houthi military spokesman framing the attacks as retaliation.", "read_full": false },
+        { "ref": "447d0d9189", "takeaway": "Summary only: Indian angle, with the Saudi Civil Defence description of the attack.", "read_full": false },
+        { "ref": "50ecc0d389", "takeaway": "Paywalled, summary only: business and economic angle on Riyadh's finance district.", "read_full": false },
+        { "ref": "5d02780250", "takeaway": "Paywalled, summary only: links the Saudi strikes to Houthi gains on Yemen's coast and the push on Aden.", "read_full": false },
+        { "ref": "9e9399b0c1", "takeaway": "Paywalled, summary only: notes this is the second assault on the tower.", "read_full": false },
+        { "ref": "2cc5ee5db6", "takeaway": "Paywalled, headline only: leads with the 11 injured.", "read_full": false },
+        { "ref": "9d32896d7d", "takeaway": "Headline only: the Houthi threat against Jeddah and other Red Sea ports.", "read_full": false },
+        { "ref": "3f5f81d4fc", "takeaway": "Headline only: Houthi advance on Aden and the government's defensive line.", "read_full": false },
+        { "ref": "0f0da314fa", "takeaway": "Headline only: Yemeni government forces' assertion that Aden will not fall.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "solomon-islands-australia-treaty",
+      "headline": "Solomon Islands signs security treaty with Australia, barring foreign bases",
+      "region": "Asia-Pacific",
+      "importance": 4,
+      "summary": "The Solomon Islands signed a treaty naming Australia its primary security partner and stating that no foreign military or security base will be allowed on its territory. Several outlets reported that it sets aside the country's 2022 security pact with China, which had raised concern about a possible Chinese naval presence in the South Pacific.",
+      "why_it_matters": "The deal shifts a contest between China and the U.S. and its allies over Pacific islands that sit along key shipping and military routes. Right-leaning outlets in the ingest covered it mainly through the Telegraph's paywalled piece on China's setback.",
+      "background": "The Solomon Islands is a nation of about 700,000 people roughly 2,000 kilometers northeast of Australia. In 2022 its then government signed a secretive security agreement with China, alarming Australia and the U.S., which feared it could open the way for a Chinese military base. Prime Minister Matthew Wale, who took office this year, said in June he would review the China pact and agreed with Australian Prime Minister Anthony Albanese to negotiate a broad treaty covering security and the economy. This week's signing is the result.",
+      "facts": [
+        { "text": "The treaty names Australia the Solomon Islands' \"primary security partner.\"", "refs": ["10e0f2c9fb", "a131d7bddc", "206affb872"] },
+        { "text": "The treaty states there will be no foreign military or security base in the Solomon Islands.", "refs": ["10e0f2c9fb", "2aa70bdc75", "600c302a00"] },
+        { "text": "The Solomon Islands is setting aside its 2022 security agreement with China, according to the BBC and the AP.", "refs": ["6bb1a9bf25", "a4afcc9076"] },
+        { "text": "Prime Minister Matthew Wale said his country would no longer be a point of regional uncertainty, the BBC reported.", "refs": ["6bb1a9bf25"] },
+        { "text": "Under the pact, the Solomon Islands will reject any foreign power trying to interfere with its sensitive infrastructure, Deutsche Welle reported.", "refs": ["25e6e602f1"] },
+        { "text": "In June, Wale announced a review of the China pact and agreed with Albanese to negotiate a comprehensive treaty with Australia.", "refs": ["world-w2"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "388bc7a8a7", "note": "Frames the pact first as a loss for China." },
+        { "ref": "a131d7bddc", "note": "Casts Australia as actively pushing China out of a Pacific foothold." },
+        { "ref": "25e6e602f1", "note": "Hedges, calling the pact \"seen as\" countering China rather than stating it as fact." },
+        { "ref": "600c302a00", "note": "Centers China's military ambitions rather than the Solomon Islands' own decision." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "388bc7a8a7", "takeaway": "Headline only: wire story framing the deal as a blow to China.", "read_full": false },
+        { "ref": "6bb1a9bf25", "takeaway": "Summary only: leads with the end of the China pact and Wale's remarks.", "read_full": false },
+        { "ref": "10e0f2c9fb", "takeaway": "Summary only: gives the treaty's key wording on partnership and foreign bases.", "read_full": false },
+        { "ref": "a4afcc9076", "takeaway": "AP wire summary: stresses the rejection of the four-year-old China deal.", "read_full": false },
+        { "ref": "2aa70bdc75", "takeaway": "Paywalled, summary only: explains the 2022 China deal and the new bar on bases.", "read_full": false },
+        { "ref": "25e6e602f1", "takeaway": "Summary only: adds the clause on foreign interference in sensitive infrastructure.", "read_full": false },
+        { "ref": "a131d7bddc", "takeaway": "Summary only: short framing of Australia gaining ground on China.", "read_full": false },
+        { "ref": "600c302a00", "takeaway": "Paywalled, summary only: setback for China's Pacific military ambitions.", "read_full": false },
+        { "ref": "d7d0aa5428", "takeaway": "Paywalled, headline only: right-leaning British coverage framing it as a setback for China's military.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "china-chen-jining-investigation",
+      "headline": "China opens investigation into Shanghai party chief Chen Jining",
+      "region": "Asia-Pacific",
+      "importance": 4,
+      "summary": "China's Communist Party placed Chen Jining, Shanghai's party secretary and a member of the 24-member Politburo, under investigation for suspected serious violations of party discipline and law, state media said. He is the fourth Politburo member to be investigated since 2025.",
+      "why_it_matters": "Chen runs China's financial capital and was widely seen as a candidate for top leadership, so his fall signals how far Xi Jinping's anti-corruption drive reaches ahead of a 2027 leadership reshuffle. No right-leaning outlet in the ingest covered the story.",
+      "background": "Since taking power in 2012, Xi Jinping has run an anti-corruption campaign that has removed officials from local cadres to generals and members of the top leadership. Investigations announced as \"violations of party discipline\" usually precede expulsion and prosecution. Chen Jining, a former environmental engineer and president of Tsinghua University, became Shanghai's party chief in 2022 after serving as Beijing's mayor. The party is due to pick a new leadership lineup at its congress in 2027.",
+      "facts": [
+        { "text": "State broadcaster CCTV reported that Chen is under investigation for violating party discipline.", "refs": ["5983598868", "7474334e00"] },
+        { "text": "The investigation is on suspicion of serious violations of party discipline and state laws, the Wall Street Journal reported.", "refs": ["5625be6920"] },
+        { "text": "Chen is the fourth Politburo member to be investigated since 2025.", "refs": ["9e81c9e8f7", "b7d8384637"] },
+        { "text": "Chen had been expected to take a top leadership role in 2027.", "refs": ["04152cf179", "f0d66ad844"] },
+        { "text": "The case is the latest in Xi Jinping's long-running anti-corruption campaign, NPR reported.", "refs": ["4e85b765ac"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "f0d66ad844", "note": "Ties the case to an expanding pattern of purges under Xi." },
+        { "ref": "04152cf179", "note": "Calls it a \"shock\" corruption probe, stressing the surprise." },
+        { "ref": "7474334e00", "note": "Neutral wire headline that states the investigation without characterizing it." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "7474334e00", "takeaway": "Headline only: AP wire report citing state media.", "read_full": false },
+        { "ref": "5983598868", "takeaway": "AP wire summary: cites CCTV and the discipline charge.", "read_full": false },
+        { "ref": "9e81c9e8f7", "takeaway": "Headline only: counts him as the fourth Politburo member to fall since 2025.", "read_full": false },
+        { "ref": "b7d8384637", "takeaway": "Summary only: describes Chen as a contender for higher office and cites Xinhua.", "read_full": false },
+        { "ref": "04152cf179", "takeaway": "Summary only: notes his expected 2027 promotion.", "read_full": false },
+        { "ref": "f0d66ad844", "takeaway": "Paywalled, summary only: profiles him as a technocrat once seen as a future national leader.", "read_full": false },
+        { "ref": "5625be6920", "takeaway": "Paywalled, summary only: gives the formal wording of the allegations.", "read_full": false },
+        { "ref": "4e85b765ac", "takeaway": "Summary only: places the case in the anti-corruption campaign.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "ukraine-libya-ship-attack-fallout",
+      "headline": "Two Libyan officers die after Ukrainian drone attack on Russian ships; Italy objects",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Two Libyan naval personnel died of wounds from a Ukrainian naval-drone attack on Russian vessels at Benghazi, eastern Libyan authorities said, and the Libyan army vowed retaliation. Ukraine said the strike was self-defense, while Italy voiced concern to Kyiv. In Ukraine, Russian strikes killed civilians in Zaporizhzhia and the Odesa region.",
+      "why_it_matters": "The war in Ukraine is spreading into the Mediterranean, near European shipping lanes and Italy's coast, drawing in Libyan forces and straining Kyiv's relations with European partners.",
+      "background": "Russia has built ties with eastern Libya's military leader Khalifa Haftar, whose Libyan National Army controls Benghazi, and uses Libyan ports for its ships. Ukraine has hit Russian vessels far from the Black Sea with naval drones; an analysis by the Center for European Policy Analysis counted three Russian ships disabled by drones in the Mediterranean over 12 months. In April, a Russian tanker was attacked off Libya by what officials described as Ukrainian forces operating there. Russia's full-scale invasion of Ukraine is nearing its fifth year.",
+      "facts": [
+        { "text": "Ukraine confirmed it used naval drones in strikes on Russian vessels off Libya.", "refs": ["86afad3ac3"] },
+        { "text": "Ukraine said the attack on the Russian ships was self-defense, and its foreign minister described it as countering Russian aggression.", "refs": ["2fdb79467f", "0084792df7"] },
+        { "text": "Two Libyan army personnel died of wounds from the attack at Benghazi port, the Libyan National Army and the head of eastern Libya's administration said.", "refs": ["423acb86d8", "4ca9b01440", "0084792df7"] },
+        { "text": "The Libyan army vowed retaliation after the deaths.", "refs": ["86702b1900"] },
+        { "text": "Italy expressed concern to Ukraine over the attacks.", "refs": ["18e1a0cac6", "86afad3ac3"] },
+        { "text": "A Russian overnight attack on Zaporizhzhia killed two civilians and wounded 48, including four children.", "refs": ["fe70c409a1", "9d636a2e41"] },
+        { "text": "A Russian attack in the Odesa region killed two people, including a teenager, local officials said.", "refs": ["582bd2bf7c", "a57356fac2"] },
+        { "text": "Three Russian ships have been hit and disabled by drones in the Mediterranean in the past 12 months, according to a CEPA analysis.", "refs": ["world-w3"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "fe70c409a1", "note": "Leads with Russian strikes on Ukrainian civilians and presents Libya as Kyiv explaining itself." },
+        { "ref": "18e1a0cac6", "note": "Centers Italy's rebuke of Ukraine." },
+        { "ref": "86702b1900", "note": "Leads with the Libyan army's threat of retaliation." },
+        { "ref": "2fdb79467f", "note": "Leads with Ukraine's self-defense justification." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "fe70c409a1", "takeaway": "Headline only: AP combines the Zaporizhzhia strike with Kyiv's Libya explanation.", "read_full": false },
+        { "ref": "9d636a2e41", "takeaway": "AP wire summary: casualty figures from Zaporizhzhia.", "read_full": false },
+        { "ref": "2fdb79467f", "takeaway": "Headline only: Ukraine's self-defense argument.", "read_full": false },
+        { "ref": "18e1a0cac6", "takeaway": "Headline only: Italy's rebuke.", "read_full": false },
+        { "ref": "86afad3ac3", "takeaway": "Live-blog summary: Ukraine's confirmation and Italy's concern.", "read_full": false },
+        { "ref": "423acb86d8", "takeaway": "Headline only: the Libyan National Army's report of two deaths.", "read_full": false },
+        { "ref": "4ca9b01440", "takeaway": "Summary only: deaths confirmed by eastern Libya's administration.", "read_full": false },
+        { "ref": "0084792df7", "takeaway": "Summary only: deaths plus Ukraine's foreign minister defending the attack.", "read_full": false },
+        { "ref": "86702b1900", "takeaway": "Headline only: Libyan vow of retaliation.", "read_full": false },
+        { "ref": "582bd2bf7c", "takeaway": "Summary only: Ukrainian outlet's report on deaths in Odesa region and injuries in Kyiv.", "read_full": false },
+        { "ref": "a57356fac2", "takeaway": "Headline only: governor's account of the Odesa strike.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "huawei-guilty-verdict",
+      "headline": "U.S. jury convicts Huawei of trade-secret theft conspiracy and bank fraud",
+      "region": "Global",
+      "importance": 4,
+      "summary": "A federal jury in New York found Chinese telecom company Huawei guilty on 10 of 12 counts, including conspiracy to steal trade secrets and bank fraud, after a three-month trial. Jurors acquitted it of racketeering conspiracy and obstruction of justice. Huawei said it plans to appeal.",
+      "why_it_matters": "The verdict strengthens the U.S. government's case for keeping Huawei out of American networks and could feed into U.S.-China tensions over technology and trade.",
+      "background": "Huawei is one of the world's largest makers of telecom equipment and smartphones. U.S. prosecutors in Brooklyn charged the company in 2019 and later added racketeering counts, accusing it of a long-running scheme to take technology from U.S. firms and of hiding business in Iran from banks. The case led to the 2018 arrest in Canada of Huawei's finance chief, Meng Wanzhou, who returned to China in 2021 under a deal with prosecutors. Huawei has denied wrongdoing throughout.",
+      "facts": [
+        { "text": "The jury found Huawei guilty of conspiracy to steal trade secrets and bank fraud.", "refs": ["d7f8065020", "6de9a75d82", "5beae1a468"] },
+        { "text": "Huawei was convicted on 10 of the 12 counts.", "refs": ["a61b5be8bc", "e2157e2112"] },
+        { "text": "The jury acquitted Huawei of racketeering conspiracy and obstruction of justice.", "refs": ["9bb180198b", "ad056cd737"] },
+        { "text": "Prosecutors also accused Huawei of doing business in countries under U.S. sanctions, including Iran and North Korea, and of making false statements to U.S. officials and banks.", "refs": ["d8168a1c35", "d7f8065020"] },
+        { "text": "The verdict followed a three-month trial in New York.", "refs": ["9bb180198b"] },
+        { "text": "Huawei said it plans to appeal.", "refs": ["e2157e2112"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "a61b5be8bc", "note": "Stresses theft of \"US\" trade secrets and the 10-of-12 count tally." },
+        { "ref": "ad056cd737", "note": "Gives equal weight to the racketeering acquittal." },
+        { "ref": "e2157e2112", "note": "Leads with sanctions violations rather than trade secrets." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d7f8065020", "takeaway": "Summary only: AP-based report listing the convictions and sanctions allegations.", "read_full": false },
+        { "ref": "6de9a75d82", "takeaway": "Headline only: AP wire on the verdict.", "read_full": false },
+        { "ref": "d8168a1c35", "takeaway": "AP wire summary: names Iran and North Korea among the sanctioned countries.", "read_full": false },
+        { "ref": "a61b5be8bc", "takeaway": "Summary only: right-leaning outlet highlights the 10-of-12 count tally.", "read_full": false },
+        { "ref": "5beae1a468", "takeaway": "Summary only: brief report on the conspiracy and bank fraud findings.", "read_full": false },
+        { "ref": "b1feb5f2cf", "takeaway": "Paywalled, summary only: calls it a win for the Justice Department in a long-running case.", "read_full": false },
+        { "ref": "9bb180198b", "takeaway": "Summary only: notes the acquittals and the three-month trial.", "read_full": false },
+        { "ref": "e2157e2112", "takeaway": "Summary only: adds Huawei's plan to appeal.", "read_full": false },
+        { "ref": "ad056cd737", "takeaway": "Summary only: headline balances conviction and acquittal.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "colombia-cartagena-hostage-siege",
+      "headline": "Colombian forces end Cartagena supermarket hostage siege",
+      "region": "Americas",
+      "importance": 3,
+      "summary": "Colombian police and soldiers stormed a supermarket in Cartagena early Wednesday, ending a day-long siege by armed men who took shoppers and staff hostage after a failed attempt to rob an armored truck. President Abelardo de la Espriella said all hostages were rescued and one captor was killed.",
+      "why_it_matters": "Cartagena is one of Colombia's busiest tourist destinations, and the siege came a day after a car bomb in Villavicencio, adding to concerns about security in the country.",
+      "background": "Colombia has faced rising violence from armed groups and criminal gangs. President Abelardo de la Espriella, a right-wing leader, has carried out a broad crackdown on the drug trade. On Monday a car bomb outside regional government offices in the central city of Villavicencio injured 23 people. The Cartagena siege began Tuesday when an armored-truck robbery failed and the gunmen fled into a supermarket.",
+      "facts": [
+        { "text": "The gunmen took hostages in a supermarket after a failed attempt to rob an armored truck, authorities said.", "refs": ["c0e028fbf2", "4c7a0cf24a", "c8f5d5de08"] },
+        { "text": "De la Espriella described the men as \"common criminals\" and went to the scene to take charge of the operation.", "refs": ["4c7a0cf24a", "96bc434107"] },
+        { "text": "Security forces stormed the supermarket early Wednesday; the president said all hostages were rescued and one captor was killed.", "refs": ["f7ced3e6f0", "51474f06b5", "c63f2b8e26", "02819875f2"] },
+        { "text": "The ordeal lasted about 17 hours, the BBC reported.", "refs": ["c63f2b8e26"] },
+        { "text": "A car bomb in Villavicencio on Monday injured 23 people and destroyed a local governor's office.", "refs": ["c516e4efdb", "11edec9e49"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many people were held hostage",
+          "positions": [
+            { "claim": "About 30, per the Telegraph and the Guardian's count of those initially held.", "refs": ["87ca4018ca", "51474f06b5"] },
+            { "claim": "About 25, per NewsNation, or more than two dozen per CNN.", "refs": ["c0e028fbf2", "9aae6c1b24"] },
+            { "claim": "Around 20 shoppers and employees, per the BBC.", "refs": ["c63f2b8e26"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "ff123ebb6e", "note": "Stresses that Cartagena is one of Colombia's top tourist destinations." },
+        { "ref": "9bef04697d", "note": "Places the siege within worries about Colombia's worsening security." },
+        { "ref": "c63f2b8e26", "note": "Emphasizes the length of the ordeal, at 17 hours." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ff123ebb6e", "takeaway": "Headline only: AP's first report, with the tourism angle.", "read_full": false },
+        { "ref": "c0e028fbf2", "takeaway": "Summary only: explains the failed armored-truck robbery and gives 25 hostages.", "read_full": false },
+        { "ref": "9aae6c1b24", "takeaway": "Headline only: more than two dozen hostages.", "read_full": false },
+        { "ref": "c8f5d5de08", "takeaway": "Video summary: authorities' account of the botched robbery.", "read_full": false },
+        { "ref": "4c7a0cf24a", "takeaway": "Summary only: quotes the president calling the men common criminals.", "read_full": false },
+        { "ref": "96bc434107", "takeaway": "Summary only: president arrives to take control of the operation.", "read_full": false },
+        { "ref": "51474f06b5", "takeaway": "Summary only: all hostages freed, one hostage-taker killed, 30 initially held.", "read_full": false },
+        { "ref": "c63f2b8e26", "takeaway": "Summary only: around 20 freed after 17 hours.", "read_full": false },
+        { "ref": "f7ced3e6f0", "takeaway": "Paywalled, summary only: joint police and armed forces operation ends the siege.", "read_full": false },
+        { "ref": "02819875f2", "takeaway": "Reuters wire summary: police and government confirm the release.", "read_full": false },
+        { "ref": "9bef04697d", "takeaway": "Summary only: ties the siege to the security situation.", "read_full": false },
+        { "ref": "87ca4018ca", "takeaway": "Paywalled, headline only: right-leaning British paper gives 30 hostages.", "read_full": false },
+        { "ref": "c516e4efdb", "takeaway": "Headline only: the Villavicencio car bomb.", "read_full": false },
+        { "ref": "11edec9e49", "takeaway": "Summary only: car bomb destroyed a governor's office.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iran-singer-flogged",
+      "headline": "Iran flogs singer Parastoo Ahmadi for performing without a hijab; UN objects",
+      "region": "Middle East",
+      "importance": 3,
+      "summary": "Iranian singer Parastoo Ahmadi and members of her production team each received 74 lashes over an online concert in which she sang without the mandatory head covering, according to her lawyers and local media. The UN human rights office called the flogging abhorrent and urged Iran to end the practice.",
+      "why_it_matters": "The punishment shows Iran enforcing its dress code on women with corporal punishment, a test of how far authorities will go against artists and protest symbols.",
+      "background": "Iranian law requires women to cover their hair in public, and women are barred from singing solo in public. The rules became a flashpoint after the 2022 death in custody of Mahsa Amini, which set off nationwide protests. Ahmadi drew wide attention in 2024 with a YouTube concert in which she sang in a sleeveless dress with her hair uncovered. Reports earlier this year said a court had sentenced her and her team to lashes.",
+      "facts": [
+        { "text": "Lawyers said Ahmadi and members of her concert team received 74 lashes each in Qom and also face two-year bans.", "refs": ["ddab2fdd92"] },
+        { "text": "Five people received 74 lashes each on Monday, local media reported, and the UN called the flogging \"abhorrent\" and urged Tehran to abolish the practice.", "refs": ["23b5bb2810"] },
+        { "text": "The conviction was for \"outraging public decency\" after she livestreamed a concert without covering her hair.", "refs": ["c3ad438772", "96aac5d4d8"] },
+        { "text": "A court had earlier reportedly sentenced Ahmadi and members of her team to 74 lashes over the performance.", "refs": ["world-w6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "ddab2fdd92", "note": "Leads with the count of lashes and the concert's viral reach." },
+        { "ref": "c3ad438772", "note": "Centers Iranian women's support for the singer." },
+        { "ref": "23b5bb2810", "note": "Leads with the UN's condemnation." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ddab2fdd92", "takeaway": "Summary only: cites lawyers on the flogging in Qom and the two-year bans.", "read_full": false },
+        { "ref": "620d149350", "takeaway": "Headline only: straight report of the 74 lashes.", "read_full": false },
+        { "ref": "96aac5d4d8", "takeaway": "Paywalled, summary only: background on the 2024 virtual concert.", "read_full": false },
+        { "ref": "c3ad438772", "takeaway": "Summary only: the public-decency charge and reaction from Iranian women.", "read_full": false },
+        { "ref": "23b5bb2810", "takeaway": "Summary only: UN condemnation and the five people flogged.", "read_full": false }
+      ],
+      "social": "CBS News reported that Iranian women praised Ahmadi after the flogging; the search turned up no wider online reaction to verify."
+    },
+    {
+      "id": "ramaphosa-phala-phala-ruling",
+      "headline": "South African court sets aside Phala Phala report against Ramaphosa",
+      "region": "Africa",
+      "importance": 3,
+      "summary": "South Africa's Western Cape High Court set aside in full the independent panel report that found President Cyril Ramaphosa had a case to answer over the 2020 theft of U.S. dollars from his Phala Phala farm. The ruling removes the basis for a parliamentary impeachment inquiry for now, though appeals are expected.",
+      "why_it_matters": "The ruling lifts, at least for now, an impeachment threat against South Africa's president and shapes the stability of the country's coalition government. Only centrist outlets in the ingest covered it.",
+      "background": "In 2020 thieves allegedly stole a large sum of U.S. dollars hidden in a sofa at Ramaphosa's Phala Phala game farm, raising questions about where the cash came from and how the theft was handled. A parliamentary panel set up under Section 89 of the constitution found in 2022 that he may have a case to answer, but Parliament voted not to proceed. In May 2026 the Constitutional Court ruled that vote unconstitutional, and Ramaphosa went to the Western Cape High Court to have the panel report set aside, winning an interim halt to the impeachment inquiry in July.",
+      "facts": [
+        { "text": "The Western Cape High Court set aside the Section 89 panel report in its entirety.", "refs": ["4df2d77e47", "6e09ff48b2", "dca406a171"] },
+        { "text": "The panel had found Ramaphosa had a case to answer over the Phala Phala theft.", "refs": ["4df2d77e47"] },
+        { "text": "Appeals against the ruling are likely, Daily Maverick reported.", "refs": ["4df2d77e47"] },
+        { "text": "The 2020 break-in involved thieves allegedly stealing bundles of U.S. dollars hidden inside a sofa at the farm.", "refs": ["dca406a171"] },
+        { "text": "In May 2026 the Constitutional Court set aside Parliament's earlier vote against the panel's recommendations as unconstitutional.", "refs": ["world-w8"] },
+        { "text": "Ramaphosa filed papers on May 26 asking the High Court to set the report aside, and in July the court halted Parliament's impeachment inquiry pending its review.", "refs": ["world-w7", "world-w9"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "4df2d77e47", "note": "Says Ramaphosa is \"off the hook\" but stresses \"for now\", pointing to likely appeals." },
+        { "ref": "dca406a171", "note": "Frames the ruling as a win over an impeachment threat." },
+        { "ref": "6e09ff48b2", "note": "Uses the \"Farmgate\" label, presenting it as a political scandal." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "4df2d77e47", "takeaway": "Summary only: South African outlet with the most detail on the ruling and likely appeals.", "read_full": false },
+        { "ref": "6e09ff48b2", "takeaway": "Headline only: wire report of Ramaphosa's court win.", "read_full": false },
+        { "ref": "dca406a171", "takeaway": "Summary only: recaps the 2020 theft.", "read_full": false },
+        { "ref": "459bfa06be", "takeaway": "Headline only: news brief noting the ruling was due.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "world-w1", "url": "https://www.al-monitor.com/originals/2026/11/riyadhs-tallest-skyscraper-hit-houthi-strike-saudi-wealth-fund-hq", "title": "Riyadh's tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ", "outlet": "Al-Monitor" },
+    { "id": "world-w2", "url": "https://www.dailymaverick.co.za/article/2026-06-03-new-solomon-islands-leader-reviews-security-pact-with-china-seeks-treaty-with-australia/", "title": "New Solomon Islands leader reviews security pact with China, seeks treaty with Australia", "outlet": "Daily Maverick (Reuters)" },
+    { "id": "world-w3", "url": "https://cepa.org/article/the-growing-african-front-of-russias-war-in-ukraine/", "title": "The growing African front of Russia's war in Ukraine", "outlet": "CEPA" },
+    { "id": "world-w6", "url": "https://www.ibtimes.co.uk/iranian-singer-74-lashes-performance-without-hijab-1803727", "title": "Iranian Singer Parastoo Ahmadi and Other Musicians Face 74 Lashes for Singing Without Hijab", "outlet": "International Business Times UK" },
+    { "id": "world-w7", "url": "https://www.ewn.co.za/2026/05/26/ramaphosa-officially-files-papers-in-court-to-have-phala-phala-report-set-aside", "title": "Ramaphosa officially files papers in court to have Phala Phala report set aside", "outlet": "Eyewitness News" },
+    { "id": "world-w8", "url": "https://www.ewn.co.za/2026/05/08/concourt-sets-aside-phala-phala-parliamentary-vote-as-unconstitutional", "title": "ConCourt sets aside Phala Phala parliamentary vote as unconstitutional", "outlet": "Eyewitness News" },
+    { "id": "world-w9", "url": "https://www.dailymaverick.co.za/article/2026-07-24-ramaphosa-wins-high-court-bid-to-block-parliaments-impeachment-inquiry", "title": "Ramaphosa wins High Court bid to block Parliament's impeachment inquiry", "outlet": "Daily Maverick" }
+  ]
+}

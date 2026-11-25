@@ -1,0 +1,31 @@
+{
+  "overview": "The fallout from President Trump's push to return Jensen Huang as Nvidia's chief executive dominated the news: Huang apologized to staff, lawmakers in both parties renewed calls for limits on chip sales to China, and Monday's stock rally faded on Tuesday. Kilmar Abrego Garcia, the Salvadoran man whose mistaken deportation became a test case for the administration's immigration crackdown, left the U.S. voluntarily for Spain, the Department of Homeland Security said. The Army planned to detonate about five tons of deteriorating lead azide at its Iowa ammunition plant on Wednesday morning, despite objections from nearby residents. Abroad, Yemen's Houthis struck a financial tower in Riyadh again and claimed an attack on a Saudi refinery.",
+  "markets": {
+    "summary": "Stocks swung hard this week around Nvidia. On Monday the Nasdaq jumped 6.5% after Jensen Huang was reinstated as Nvidia's CEO, erasing Friday's sell-off. On Tuesday the rally faded: Nvidia, the newly listed Anthropic and other AI stocks fell, the Nasdaq dropped about 1.5%, and the Dow, which holds fewer tech companies, rose. Early Wednesday Nasdaq futures, which trade before the market opens and hint at where it will start, were down more than 2%, with reports of new Trump tariffs adding to the worries. Investors are also waiting for Wednesday's October inflation figures and a revised estimate of third-quarter growth before the Thanksgiving break.",
+    "movers": [
+      { "symbol": "SP500", "why": "Rose 4.7% on Monday as Nvidia's reinstatement of Huang set off a broad relief rally after the previous week's losses." },
+      { "symbol": "NASDAQCOM", "why": "Fell about 1.5% on Tuesday as Nvidia and Anthropic gave back gains and investors refocused on the governance and political questions around Huang's return." },
+      { "symbol": "DJIA", "why": "Rose 0.85% on Tuesday and held above 50,000 while tech-heavy indexes fell, because the Dow has less exposure to AI stocks." },
+      { "symbol": "CBBTCUSD", "why": "Bitcoin slipped another 2.9% and is down about a quarter in a month; the feeds offer no single cause beyond the broader retreat from risky assets." }
+    ],
+    "concept": {
+      "term": "PCE price index",
+      "explanation": "The personal consumption expenditures (PCE) price index measures how much the prices of the things Americans buy are changing, from groceries to rent to medical care. It is the inflation gauge the Federal Reserve watches most closely, and the October reading is due this week. A hotter-than-expected number makes the Fed less likely to cut interest rates, which keeps mortgage, car-loan and credit-card rates high; a cooler one raises the odds that borrowing gets cheaper. It moves with energy prices, wages, housing costs and anything else that changes what households pay, including tariffs on imported goods."
+    },
+    "watch": [
+      "Wed Nov 25: October PCE inflation data and the second estimate of third-quarter GDP",
+      "Thu Nov 26: U.S. stock markets closed for Thanksgiving",
+      "Fri Nov 27: U.S. stock markets close early (1 p.m. ET) on Black Friday, the start of the holiday shopping season",
+      "Wed Dec 9: Federal Reserve interest-rate decision"
+    ]
+  },
+  "trending": [
+    { "title": "Jensen Huang", "context": "Nvidia's chief executive was the most-viewed page on Wikipedia after Trump pressed for his reinstatement and he told staff he had violated the company's code of conduct.", "signal": "wikipedia" },
+    { "title": "Army lead azide detonation in Iowa", "context": "Thousands of Bluesky posts followed the Army's plan to blow up deteriorating bomb-making material at its Middletown, Iowa, plant on Wednesday morning, amid local worries about lead dust.", "signal": "bluesky" },
+    { "title": "Flu season", "context": "Searches rose as CDC data show flu activity climbing earlier than usual, with several states at high levels ahead of Thanksgiving travel.", "signal": "google" },
+    { "title": "Grand Theft Auto VI", "context": "Wikipedia's news listing says the game sold $3.79 billion on its launch day, which it calls more than any other entertainment product.", "signal": "wikipedia_news" },
+    { "title": "ICJ Rohingya genocide ruling", "context": "Wikipedia's news listing says the International Court of Justice ruled that Myanmar committed genocide against the Rohingya, a case brought by Gambia in 2019.", "signal": "wikipedia_news" },
+    { "title": "Kilmar Abrego Garcia", "context": "Posts spiked after the Salvadoran man at the center of a wrongful-deportation fight left the U.S. for Spain.", "signal": "bluesky" },
+    { "title": "UK energy price cap", "context": "Britons reacted to regulator Ofgem's 26% rise in the household energy price cap from January, which pushes a typical annual bill above £2,000.", "signal": "bluesky" }
+  ]
+}

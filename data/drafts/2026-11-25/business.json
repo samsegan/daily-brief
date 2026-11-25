@@ -1,0 +1,289 @@
+{
+  "stories": [
+    {
+      "id": "ai-stocks-drag-market-futures-slide",
+      "headline": "AI stocks pull Wall Street back down as the Huang relief rally fades",
+      "region": "Markets",
+      "importance": 5,
+      "summary": "U.S. stocks gave back part of Monday's big rally on Tuesday as Nvidia, Anthropic and other artificial intelligence stocks fell, according to the Associated Press and The Wall Street Journal. Nasdaq futures dropped more than 2% early Wednesday, and investors are waiting on October inflation data and a revised estimate of third-quarter economic growth.",
+      "why_it_matters": "AI companies make up a large share of the indexes that most 401(k)s and index funds track, so these swings show up in people's retirement savings. Wednesday's inflation report could shape whether the Federal Reserve keeps borrowing costs high.",
+      "background": "Stocks tied to artificial intelligence have swung sharply this month. Nvidia, the chipmaker at the center of the AI boom, lost its chief executive, Jensen Huang, on Nov. 12 amid a personal scandal, and AI stocks sold off hard late last week. When Nvidia reinstated Huang, the Nasdaq Composite jumped 6.5% on Monday. Anthropic, the AI developer that went public on Nov. 19 in the largest IPO on record, has been falling at the same time.",
+      "facts": [
+        {
+          "text": "The Nasdaq Composite closed 6.5% higher on Monday after Huang was reinstated as Nvidia's CEO, erasing its losses from Friday, CBS News reported.",
+          "refs": ["830e0aabc3"]
+        },
+        {
+          "text": "On Tuesday, declines in Nvidia, Anthropic and other AI stocks pulled the U.S. market back down, the Associated Press reported.",
+          "refs": ["043cbc1726"]
+        },
+        {
+          "text": "U.S. stocks finished mixed on Tuesday, with the Nasdaq and S&P 500 giving back some of Monday's gains as traders weighed President Trump's push to reinstall Huang, according to The Wall Street Journal.",
+          "refs": ["2fa0aac61e"]
+        },
+        {
+          "text": "Nvidia shares fell Tuesday as investors refocused on the political and governance risks around Huang's reinstatement, France 24 reported.",
+          "refs": ["3023884089"]
+        },
+        {
+          "text": "Nasdaq futures slid more than 2% early Wednesday, according to Reuters and The Wall Street Journal.",
+          "refs": ["a04d2bb44a", "62f7b68222"]
+        },
+        {
+          "text": "Treasury and European government bond yields fell Wednesday morning as investors awaited October personal consumption expenditures (PCE) inflation data and the second estimate of third-quarter GDP, the Journal reported.",
+          "refs": ["94ae794fc1"]
+        },
+        {
+          "text": "Some strategists remain upbeat: JPMorgan said the S&P 500 is headed to 8,200, and Deutsche Bank's Binky Chadha forecast a rally to 9,000 by the end of next year. Reuters reported that signals in the options market suggest waiting before buying the dip.",
+          "refs": ["c2dc3e1432", "ffc7c2daf6", "af01a88487"]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "What drove Wednesday's drop in Nasdaq futures",
+          "positions": [
+            { "claim": "Renewed worries about AI growth after Monday's Huang-driven recovery faded, per The Wall Street Journal.", "refs": ["62f7b68222"] },
+            { "claim": "Fresh concerns about new U.S. tariffs, per Reuters.", "refs": ["a04d2bb44a"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "043cbc1726", "note": "Names Nvidia and Anthropic as the drag and presents Tuesday as a step back down for the whole market." },
+        { "ref": "2fa0aac61e", "note": "Calls the day 'mixed' and ties the fade to Trump's role in reinstalling Huang." },
+        { "ref": "a17c2c939d", "note": "Turns to a strategist's view of high capital costs rather than the day's index moves." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "043cbc1726", "takeaway": "Wire market story: AI stock declines pulled the market lower Tuesday (also run by The Washington Post).", "read_full": false },
+        { "ref": "830e0aabc3", "takeaway": "Monday wrap: Nasdaq up 6.5% after Huang's reinstatement.", "read_full": false },
+        { "ref": "2fa0aac61e", "takeaway": "Headline and summary only (paywalled): mixed close as the Huang rally faded.", "read_full": false },
+        { "ref": "62f7b68222", "takeaway": "Headline and summary only (paywalled): futures slide blamed on returning AI growth fears.", "read_full": false },
+        { "ref": "a04d2bb44a", "takeaway": "Futures story pointing to tariff concerns, with inflation data in focus.", "read_full": false },
+        { "ref": "94ae794fc1", "takeaway": "Headline and summary only (paywalled): yields fall ahead of PCE and GDP data.", "read_full": false },
+        { "ref": "3023884089", "takeaway": "TV segment framing Nvidia's slide around governance and political risk.", "read_full": false },
+        { "ref": "a17c2c939d", "takeaway": "Interview segment on high capital costs after the Anthropic drop.", "read_full": false },
+        { "ref": "c2dc3e1432", "takeaway": "Bullish JPMorgan outlook arguing downturns are part of the path higher.", "read_full": false },
+        { "ref": "ffc7c2daf6", "takeaway": "Headline and summary only (paywalled): Deutsche Bank's 9,000 S&P target.", "read_full": false },
+        { "ref": "af01a88487", "takeaway": "Options-market signals counsel caution on buying the dip.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "anthropic-below-ipo-price",
+      "headline": "Anthropic closes below its $83 IPO price, three days into a slide",
+      "region": "Markets",
+      "importance": 4,
+      "summary": "Shares of Anthropic, the developer of the Claude AI models, closed below their $83 initial public offering price on Tuesday, a third straight losing session, according to The Wall Street Journal and CNBC. Reuters said the company was on track to lose nearly $200 billion in market value, while CNBC reported that analysts remain largely positive on the stock.",
+      "why_it_matters": "Many individual investors bought into what was billed as the biggest IPO ever; those who bought at the open are now down sharply. The slide is also being read as a test of investor confidence in AI companies more broadly.",
+      "background": "Anthropic is a San Francisco artificial intelligence company that makes the Claude chatbot and models. It priced its initial public offering at $83 a share and began trading on the Nasdaq on Nov. 19, in what news outlets called the largest IPO on record. The stock opened at $111.50 and closed its first day around $97, but it has fallen since, amid a wider sell-off in AI stocks.",
+      "facts": [
+        {
+          "text": "Anthropic shares have fallen steadily since opening at $111.50 on the Nasdaq on Nov. 19, and closed below the $83 IPO price on Tuesday, CNBC reported.",
+          "refs": ["2116f73a77"]
+        },
+        {
+          "text": "Tuesday's drop extended the stock's slide to three straight sessions, according to The Wall Street Journal.",
+          "refs": ["b2f33d6089"]
+        },
+        {
+          "text": "Reuters reported that the shares were on track to lose nearly $200 billion in value.",
+          "refs": ["9c84f8a2b1"]
+        },
+        {
+          "text": "The Daily Caller calculated that an investor who bought 100 shares at the opening price was down $3,538 by Tuesday morning, while one who bought 100 at the $83 IPO price was down $688.",
+          "refs": ["69a0001701"]
+        },
+        {
+          "text": "Options activity surged, with large purchases of both put and call options pointing to a divided market, CNBC reported.",
+          "refs": ["54b19165a1"]
+        },
+        {
+          "text": "The stock's first-day close was $97.17, about 17% above the offer price.",
+          "refs": ["biz-w1"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "69a0001701", "note": "Says the stock 'tanks' and puts losses in dollar terms for individual buyers." },
+        { "ref": "2116f73a77", "note": "Pairs the drop with analysts' continued positive views." },
+        { "ref": "b2f33d6089", "note": "Emphasizes scale, calling it the biggest IPO ever whose trade is 'already unraveling'." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2116f73a77", "takeaway": "Close below IPO price, with analysts still largely positive.", "read_full": false },
+        { "ref": "54b19165a1", "takeaway": "Focuses on options trading that suggests traders expect more losses.", "read_full": false },
+        { "ref": "9c84f8a2b1", "takeaway": "Frames the drop in lost market value, nearly $200 billion.", "read_full": false },
+        { "ref": "69a0001701", "takeaway": "Dollar losses for hypothetical retail buyers.", "read_full": false },
+        { "ref": "b2f33d6089", "takeaway": "Headline and summary only (paywalled): third straight losing session.", "read_full": false },
+        { "ref": "519716230c", "takeaway": "Headline and summary only (paywalled): ties the drop to fading relief over Huang's return.", "read_full": false },
+        { "ref": "5c8440191b", "takeaway": "Headline only (paywalled): calls it a swift reversal after a record listing.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-new-tariffs-china-response",
+      "headline": "Trump weighs new tariffs on China, EU, Mexico and Japan; Beijing calls it 'political maneuvering'",
+      "region": "Trade",
+      "importance": 4,
+      "summary": "President Trump is preparing a new round of tariffs on China, the European Union, Mexico, Japan and about a dozen other trading partners, the New York Post and Fox Business reported, citing a report. China responded Wednesday that the prospect was 'political maneuvering' and said the two countries should work to keep their trade truce, according to Bloomberg.",
+      "why_it_matters": "New tariffs would raise the cost of imported goods, which tends to reach shoppers through higher prices. Reports of the U.S. plan in today's coverage come mainly from right-leaning outlets, while the Chinese response was reported by Bloomberg.",
+      "background": "Tariffs are taxes on imported goods, paid by the importing company and often passed on to customers. The Trump administration has imposed several rounds of tariffs during his second term, including duties of 10% and 12.5% on goods from 60 trading partners earlier this year. The U.S. and China have been operating under a trade truce that eased tensions between the world's two largest economies. Markets have been sensitive to any sign that the truce could break down.",
+      "facts": [
+        {
+          "text": "Trump is gearing up to hit China, the EU, Mexico, Japan and a dozen other trading partners with a fresh round of tariffs, the New York Post reported.",
+          "refs": ["29ec4861ae", "146e5e2920"]
+        },
+        {
+          "text": "China called the prospect of new U.S. tariffs on its exports 'political maneuvering' and said the two nations should work together to maintain their trade truce, Bloomberg reported.",
+          "refs": ["279b665e93"]
+        },
+        {
+          "text": "Reuters tied a slide of more than 2% in Nasdaq futures on Wednesday to fresh concerns about U.S. tariffs.",
+          "refs": ["a04d2bb44a"]
+        },
+        {
+          "text": "Strategists at ING said emerging-market currencies face pressure from the tech sell-off, shrinking interest-rate premiums and the threat of new global tariffs, according to Bloomberg.",
+          "refs": ["3c020f71d2"]
+        },
+        {
+          "text": "Copper was heading for one of its worst months in more than a decade as tariff uncertainty clouded the demand outlook, The Wall Street Journal reported.",
+          "refs": ["ae06091666"]
+        },
+        {
+          "text": "Earlier this year the administration imposed tariffs of 10% and 12.5% on goods from 60 trading partners, including the EU and China.",
+          "refs": ["biz-w2"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "29ec4861ae", "note": "Calls the plan a 'tariff blitz' and lists the targeted countries." },
+        { "ref": "146e5e2920", "note": "Plainer wording: the U.S. 'eyes' new tariffs, attributed to a report." },
+        { "ref": "279b665e93", "note": "Leads with China dismissing the move and calling for the truce to hold." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "29ec4861ae", "takeaway": "Lists the trading partners that could face new tariffs.", "read_full": false },
+        { "ref": "146e5e2920", "takeaway": "Brief item relaying a report on the plan.", "read_full": false },
+        { "ref": "279b665e93", "takeaway": "Headline and summary only (paywalled): China's response.", "read_full": false },
+        { "ref": "a04d2bb44a", "takeaway": "Links the tariff news to falling stock futures.", "read_full": false },
+        { "ref": "3c020f71d2", "takeaway": "Headline and summary only (paywalled): tariffs as one pressure on emerging-market currencies.", "read_full": false },
+        { "ref": "ae06091666", "takeaway": "Headline and summary only (paywalled): tariff uncertainty weighs on copper.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "huang-apology-megaspeed-blacklist",
+      "headline": "Huang apologizes to Nvidia staff as U.S. blacklists chip firm tied to the scandal",
+      "region": "Trade",
+      "importance": 3,
+      "summary": "Reinstated Nvidia CEO Jensen Huang apologized to employees on Tuesday and acknowledged violating the company's code of conduct, while denying that President Trump was instrumental in his return, The Guardian reported. The Commerce Department added Singapore-based Megaspeed, a company at the center of the scandal, to its trade blacklist, and Reuters reported that firms linked to Alice Huang listed $270 million in AI servers in China.",
+      "why_it_matters": "Nvidia is one of the largest companies in the stock market and the main supplier of AI chips, so questions about its leadership and about chips reaching China affect both investors and U.S. export policy.",
+      "background": "Jensen Huang co-founded Nvidia and ran it for three decades before resigning on Nov. 12 after reports of extramarital affairs, including with Alice Huang, a Chinese businesswoman. U.S. investigators have been examining whether Megaspeed, a Nvidia customer, diverted restricted chips to China, and the Justice Department is leading a criminal probe. Nvidia reinstated Huang this week after Trump publicly backed his return, a move that drew criticism from lawmakers in both parties and from U.S. allies. Officials had disagreed for weeks over whether to blacklist Megaspeed.",
+      "facts": [
+        {
+          "text": "Huang apologized to staff on Tuesday, said he had made 'terrible mistakes' and acknowledged violating the code of conduct by having extramarital affairs, The Guardian reported; Reuters, citing a source, also reported that he said he violated the code.",
+          "refs": ["2cb7a4b8fd", "326dd868cb"]
+        },
+        {
+          "text": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of disagreement among top officials, The New York Times reported.",
+          "refs": ["f1f7ae156b", "1ac5c53ec7", "a535032460"]
+        },
+        {
+          "text": "Companies linked to Alice Huang raised financing against AI computing equipment for data centers in China, listing $270 million in servers, according to records reviewed by Reuters.",
+          "refs": ["ed6a7c0035"]
+        },
+        {
+          "text": "A German government minister said he was 'shocked' by Trump's intervention on Nvidia, Reuters reported.",
+          "refs": ["bea4dbd959"]
+        },
+        {
+          "text": "Rep. Greg Steube, a Florida Republican, called Trump's intervention unprecedented in an interview with Fox Business.",
+          "refs": ["77ce46e333"]
+        },
+        {
+          "text": "The Justice Department is leading a criminal investigation into Megaspeed over possible violations of U.S. chip export controls.",
+          "refs": ["biz-w3"]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Trump's role in Huang's return",
+          "positions": [
+            { "claim": "Huang was reinstated after Trump intervened, per Fox Business and The New York Times.", "refs": ["de00c71c8c", "03553c7103"] },
+            { "claim": "Huang denied that Trump was instrumental in his return, per The Guardian.", "refs": ["2cb7a4b8fd"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "2cb7a4b8fd", "note": "Leads with Huang's apology and his own words of contrition." },
+        { "ref": "03553c7103", "note": "Frames the reinstatement around national security warnings it says Trump set aside." },
+        { "ref": "de00c71c8c", "note": "States plainly that Huang returned after Trump intervened." },
+        { "ref": "1ac5c53ec7", "note": "Presents the Megaspeed listing as coinciding with Huang's return." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "2cb7a4b8fd", "takeaway": "Huang's apology to staff and his denial of Trump's role.", "read_full": false },
+        { "ref": "326dd868cb", "takeaway": "Single-source report that Huang admitted violating the code of conduct.", "read_full": false },
+        { "ref": "f1f7ae156b", "takeaway": "Headline and summary only (paywalled): Megaspeed blacklisted after internal sparring.", "read_full": false },
+        { "ref": "1ac5c53ec7", "takeaway": "Megaspeed listing tied to the timing of Huang's reinstatement.", "read_full": false },
+        { "ref": "a535032460", "takeaway": "Brief item on the Commerce Department action.", "read_full": false },
+        { "ref": "ed6a7c0035", "takeaway": "Exclusive on server financing by Alice Huang-linked firms in China (also run by the New York Post).", "read_full": false },
+        { "ref": "03553c7103", "takeaway": "Headline and summary only (paywalled): national security concerns sidelined.", "read_full": false },
+        { "ref": "de00c71c8c", "takeaway": "Segment attributing the reinstatement to Trump's intervention.", "read_full": false },
+        { "ref": "bea4dbd959", "takeaway": "Foreign reaction from a German minister.", "read_full": false },
+        { "ref": "77ce46e333", "takeaway": "Republican lawmaker critical of the intervention.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "microsoft-code-red-outage",
+      "headline": "Microsoft declares 'Code Red' after its Nov. 12-13 outage, Reuters reports",
+      "region": "Tech",
+      "importance": 3,
+      "summary": "Microsoft has declared an internal 'Code Red' after the Nov. 12-13 outage that took down Teams, Outlook, Copilot and other services, according to internal memos seen by Reuters. Chief executive Satya Nadella blamed an undetected Windows defect introduced in July, the New York Post reported.",
+      "why_it_matters": "Many workplaces, schools and governments depend on Microsoft's email and collaboration tools, so a 24-hour failure halts ordinary work. In today's ingest the story was carried by Reuters and right-leaning outlets, with no left-leaning outlet coverage.",
+      "background": "Microsoft runs widely used cloud services, including Outlook email, Teams and its Copilot AI assistant. On Nov. 12 and 13 those services went down for about a day for many users worldwide. Microsoft later said the cause was a software defect it introduced in July that lay dormant until load surged on its network gateway servers. Nadella apologized publicly and said the problem should have been caught in testing.",
+      "facts": [
+        {
+          "text": "Microsoft declared a 'Code Red' after the outage, internal memos reviewed by Reuters show.",
+          "refs": ["23576a03ee"]
+        },
+        {
+          "text": "The outage hit governments from Australia and Japan to the United States, delayed trading firms and disrupted airline communications, Reuters reported.",
+          "refs": ["23576a03ee"]
+        },
+        {
+          "text": "Teams, Outlook, Copilot and other products went down because of an undetected Windows defect introduced in July, according to Nadella, the New York Post reported.",
+          "refs": ["0b8c18ab31"]
+        },
+        {
+          "text": "Fox News reported that the roughly 24-hour outage hit most of Microsoft's 420 million to 450 million users.",
+          "refs": ["9438be81ca"]
+        },
+        {
+          "text": "Microsoft has said the defect caused an internal Windows process to exhaust machines' processing power and memory after a surge in load.",
+          "refs": ["biz-w4"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "23576a03ee", "note": "Leads with the internal 'Code Red' and calls the outage historic, sourced to memos." },
+        { "ref": "0b8c18ab31", "note": "Stresses that it was the most disruptive outage in the company's history." },
+        { "ref": "9438be81ca", "note": "Emphasizes the number of users affected." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "23576a03ee", "takeaway": "Exclusive based on internal memos (also run by The Hindu).", "read_full": false },
+        { "ref": "0b8c18ab31", "takeaway": "Follows the Reuters report, adding Nadella's explanation of the defect.", "read_full": false },
+        { "ref": "9438be81ca", "takeaway": "Short version focused on scale and the cause.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "biz-w1", "url": "https://fourweekmba.com/ai-anthropic-closes-day-one-at-97-17-up-17-from-83-ipo/", "title": "Anthropic Closes Day One at $97.17, Up 17% From $83 IPO", "outlet": "FourWeekMBA" },
+    { "id": "biz-w2", "url": "https://theweek.com/politics/us-imposes-new-tariffs-trading-partners", "title": "US imposes new tariffs on 60 trading partners", "outlet": "The Week" },
+    { "id": "biz-w3", "url": "https://scmp.com/tech/tech-war/article/3374742/us-details-criminal-probe-nvidia-customer-megaspeed-over-potential-chip-diversion", "title": "US details criminal probe of Nvidia customer Megaspeed over potential chip diversion", "outlet": "South China Morning Post" },
+    { "id": "biz-w4", "url": "https://www.theregister.com/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026", "title": "Microsoft blames monster email outage on software defect introduced in July", "outlet": "The Register" }
+  ]
+}
