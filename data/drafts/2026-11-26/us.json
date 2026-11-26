@@ -1,0 +1,312 @@
+{
+  "stories": [
+    {
+      "id": "iowa-lead-azide-detonation",
+      "headline": "Army blows up unstable lead explosives in Iowa and reports no airborne lead",
+      "region": "Iowa",
+      "importance": 5,
+      "summary": "The Army detonated nearly five tons of degraded lead azide at its ammunition plant in Middletown, Iowa, on Wednesday after a federal court allowed the operation to go ahead. The Army and the EPA said monitors found no airborne lead afterward, and testing of air, soil and water continues. Scientists and residents told NBC News they still want to know how much contamination the blast left behind.",
+      "why_it_matters": "Lead dust is a health hazard, especially for children, and people in the area around the plant were told to evacuate or stay indoors. The test results in the coming days will show whether homes, soil and water nearby were affected.",
+      "background": "Lead azide is a highly sensitive explosive used in munitions, and it contains lead. The Army said a stockpile at the Iowa Army Ammunition Plant in Middletown had degraded and become unstable, and that destroying it where it sat was safer than moving it. The blast was first planned for Nov. 20 but was pushed back amid public health concerns and what CBS News described as days of back-and-forth between politicians and the courts. Authorities evacuated a five-mile radius, and federal officials told people within 20 miles who had not left to shelter in place.",
+      "facts": [
+        { "text": "The Army detonated a degraded stockpile of lead azide at the Iowa Army Ammunition Plant in Middletown on Wednesday.", "refs": ["f5b86b0032", "42e16bc717", "87611e99fa"] },
+        { "text": "The stockpile amounted to nearly five tons of material.", "refs": ["2d5e8cc38a", "263397e358"] },
+        { "text": "The Army and the EPA said emission monitors detected no airborne lead in the surrounding region immediately after the explosion, and the EPA said it will keep testing air, soil and water.", "refs": ["4726c6d2a5", "2d5e8cc38a", "7dbc465151"] },
+        { "text": "The detonation went ahead after a federal court allowed it; Army officials called the operation a success but did not take reporters' questions, PBS NewsHour reported.", "refs": ["49f8c3d2f0"] },
+        { "text": "Six federal agencies said in a joint statement that the shelter-in-place order for Middletown was lifted on Wednesday, according to The Hill.", "refs": ["3ff72c075f"] },
+        { "text": "Authorities evacuated a five-mile radius before the blast, and federal officials said people within 20 miles who had not evacuated should shelter in place.", "refs": ["e828711618", "42bcef5281"] },
+        { "text": "Scientists and Iowa residents told NBC News that questions remain about how much contamination the blast caused, though they were hopeful about the first results.", "refs": ["1399f72bbe"] },
+        { "text": "Three states said they are monitoring the effects.", "refs": ["49f8c3d2f0"] },
+        { "text": "Vice President JD Vance defended the detonation while visiting troops at Wright-Patterson Air Force Base in Ohio on Wednesday.", "refs": ["b071a8c91c"] },
+        { "text": "Before the blast, the Army said destroying about 10,000 pounds of degraded lead azide in place was the only responsible option because moving it risked an accidental explosion, and the EPA issued an emergency permit.", "refs": ["us-w1"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether people near the plant still need to shelter indoors",
+          "positions": [
+            { "claim": "Federal officials lifted the shelter-in-place order for Middletown on Wednesday, per a joint statement from six agencies reported by The Hill.", "refs": ["3ff72c075f"] },
+            { "claim": "The New York Post reported Thursday morning that FEMA warned residents within 20 miles to keep sheltering in place to avoid breathing lead dust.", "refs": ["101d697c74"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "7dbc465151", "note": "Leads with the Army's own verdict, quoting 'huge success'." },
+        { "ref": "1399f72bbe", "note": "Emphasizes unanswered questions about pollution over the officials' assurances." },
+        { "ref": "101d697c74", "note": "Calls the detonation 'controversial' and stresses continuing exposure risk for residents." },
+        { "ref": "f5b86b0032", "note": "Presents the Army's 'successful' label as one item in a holiday live blog." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f5b86b0032", "takeaway": "Headline and summary only: live updates on the detonation and the public health fears that delayed it.", "read_full": false },
+        { "ref": "3ff72c075f", "takeaway": "Headline and summary only: reports the Middletown shelter order was lifted, citing a six-agency statement.", "read_full": false },
+        { "ref": "49f8c3d2f0", "takeaway": "Headline and summary only: focuses on nearby communities and notes officials took no questions.", "read_full": false },
+        { "ref": "1399f72bbe", "takeaway": "Headline and summary only: scientists and residents say contamination questions remain.", "read_full": false },
+        { "ref": "2d5e8cc38a", "takeaway": "Headline and summary only: video report giving the size of the blast and the EPA's testing plans.", "read_full": false },
+        { "ref": "42e16bc717", "takeaway": "Headline and summary only: ties the blast to days of political and court wrangling.", "read_full": false },
+        { "ref": "87611e99fa", "takeaway": "Headline only: describes the material as tons of unstable bomb-making chemicals.", "read_full": false },
+        { "ref": "4726c6d2a5", "takeaway": "Headline and summary only: Army and EPA report zero airborne lead right after the blast.", "read_full": false },
+        { "ref": "7dbc465151", "takeaway": "Headline and summary only: Army calls the blast a success while testing continues.", "read_full": false },
+        { "ref": "101d697c74", "takeaway": "Headline and summary only: says FEMA still urges people within 20 miles to shelter.", "read_full": false },
+        { "ref": "42bcef5281", "takeaway": "Headline and summary only (paywalled): reports the 20-mile shelter guidance.", "read_full": false },
+        { "ref": "263397e358", "takeaway": "Headline only (paywalled): puts the stockpile at five tons.", "read_full": false },
+        { "ref": "e828711618", "takeaway": "Headline and summary only: morning newsletter noting the five-mile evacuation and earlier delays.", "read_full": false },
+        { "ref": "b071a8c91c", "takeaway": "Headline and summary only: Vance defends the detonation during a base visit.", "read_full": false },
+        { "ref": "ee467501fd", "takeaway": "Headline and summary only: fact check of false fallout maps circulating online.", "read_full": false },
+        { "ref": "us-w1", "takeaway": "Search result only: pre-blast report on the Army's plan and reasoning.", "read_full": false }
+      ],
+      "social": "Maps claiming to show the path of fallout from the blast spread on social media; an AP fact check carried by ABC News said they are false."
+    },
+    {
+      "id": "overcapacity-tariffs-14-partners",
+      "headline": "Trump proposes new tariffs of up to 20% on 14 trading partners; China warns it may retaliate",
+      "region": "White House",
+      "importance": 5,
+      "summary": "The Trump administration on Wednesday proposed new tariffs of up to 20 percent on goods from 14 trading partners, including China, Japan and the European Union, after an investigation into what it calls excess industrial capacity abroad. China, the EU and others criticized the plan on Thursday while leaving the door open to talks, and China warned it could retaliate. Democrats who will control Congress next year are preparing to challenge the tariffs, the Washington Examiner reported.",
+      "why_it_matters": "Tariffs are taxes on imports, and businesses often pass them on, so the plan could raise prices on everyday goods. Retaliation by other countries could also hurt American exporters.",
+      "background": "President Trump has used tariffs throughout his second term, arguing they protect American companies and bring factory jobs back. In March the U.S. Trade Representative opened investigations into whether other economies subsidize their manufacturers into producing more than the market needs, a step Reuters described at the time as an effort to rebuild tariff pressure. Wednesday's proposal is the result of that investigation. It comes three weeks after midterm elections in which Republicans lost ground, and while a trade truce between Washington and Beijing is in place.",
+      "facts": [
+        { "text": "The administration proposed new tariffs of up to 20 percent on 14 trading partners, including China, Japan and the European Union.", "refs": ["425e5be3c7", "822abb4475"] },
+        { "text": "The proposal follows a U.S. investigation into alleged global overcapacity and government subsidies for manufacturers.", "refs": ["822abb4475", "286fac798f"] },
+        { "text": "China, the EU and other trading partners criticized the plan on Thursday while holding out the possibility of negotiations.", "refs": ["822abb4475", "5c7f42202e", "1083f3fad0"] },
+        { "text": "China warned it could retaliate if the duties go ahead, and The Wall Street Journal reported the tariffs could undermine the U.S.-China trade truce.", "refs": ["528c6a295f"] },
+        { "text": "Bloomberg reported that the tariffs could weaken the incentive for companies to move production out of China, because other manufacturing countries are also targeted.", "refs": ["b6330985e0"] },
+        { "text": "Incoming Democratic majorities in Congress are set to challenge Trump's tariffs, according to the Washington Examiner.", "refs": ["8d9acc122e"] },
+        { "text": "The U.S. Trade Representative opened the excess-capacity investigations in March 2026, covering 16 economies.", "refs": ["us-w2"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether the overcapacity finding behind the tariffs is valid",
+          "positions": [
+            { "claim": "The Trump administration says an investigation found that trading partners' industrial capacity and subsidies are unfair to U.S. producers.", "refs": ["425e5be3c7", "286fac798f"] },
+            { "claim": "Asian governments reject the basis for the tariffs, Nikkei Asia reported, and China and the EU called the measures unacceptable.", "refs": ["b82d4c9c58", "822abb4475"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "590dc60b9e", "note": "Presents the tariffs as a strategy aimed at loosening China's hold on global trade." },
+        { "ref": "822abb4475", "note": "Leads with the objections of trading partners, quoting 'Unacceptable'." },
+        { "ref": "b6330985e0", "note": "Stresses a possible downside: less reason for companies to leave China." },
+        { "ref": "8d9acc122e", "note": "Focuses on the domestic political fight ahead with a Democratic Congress." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "590dc60b9e", "takeaway": "Headline only: frames the tariffs as aimed at China's role in world trade.", "read_full": false },
+        { "ref": "822abb4475", "takeaway": "Headline and summary only: reaction from China, the EU and others, with the 20 percent ceiling.", "read_full": false },
+        { "ref": "425e5be3c7", "takeaway": "Headline and summary only: names 14 partners and links the timing to the midterm results.", "read_full": false },
+        { "ref": "5c7f42202e", "takeaway": "Headline only: wire story on trading partners pushing back.", "read_full": false },
+        { "ref": "1083f3fad0", "takeaway": "Headline and summary only (paywalled): partners protest but hold out for talks.", "read_full": false },
+        { "ref": "b6330985e0", "takeaway": "Headline and summary only (paywalled): effect on supply chains that moved out of China.", "read_full": false },
+        { "ref": "286fac798f", "takeaway": "Headline and summary only (paywalled): China's response and the subsidy investigation.", "read_full": false },
+        { "ref": "528c6a295f", "takeaway": "Headline and summary only (paywalled): risk to the U.S.-China truce and China's retaliation warning.", "read_full": false },
+        { "ref": "b82d4c9c58", "takeaway": "Headline only (paywalled): Asian governments reject the rationale.", "read_full": false },
+        { "ref": "8d9acc122e", "takeaway": "Headline and summary only: incoming Democratic majorities plan to contest the tariffs.", "read_full": false },
+        { "ref": "us-w2", "takeaway": "Search result only: March report on the launch of the trade investigations.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "judge-blocks-fcc-abc-license-review",
+      "headline": "Judge blocks FCC's early review of ABC station licenses, citing free speech",
+      "region": "Courts",
+      "importance": 4,
+      "summary": "U.S. District Judge Loren AliKhan on Wednesday night issued a preliminary injunction barring the Federal Communications Commission from taking further action on an early review of broadcast licenses for Disney-owned ABC stations. The Washington Post reported she found the review probably violates the First Amendment. The order is temporary while the lawsuit continues.",
+      "why_it_matters": "The case tests whether a federal regulator can use broadcast licenses to pressure a network over what it airs, which affects what news and entertainment viewers get from local stations. In the day's feed the ruling was covered by left-leaning and center outlets but no right-leaning ones.",
+      "background": "The FCC licenses local TV stations and normally reviews them when they are due to expire; ABC's were not set to expire until 2028. FCC Chairman Brendan Carr ordered an early review earlier this year, a day after President Trump called on ABC to fire late-night host Jimmy Kimmel, according to Deutsche Welle. Disney and ABC sued in August, arguing the review was meant to punish speech the administration dislikes. The FCC has argued that the court lacks jurisdiction over the dispute.",
+      "facts": [
+        { "text": "Judge Loren AliKhan granted a preliminary injunction Wednesday night prohibiting the FCC from taking further action on its early renewal review of ABC's broadcast licenses.", "refs": ["ec1efea0e0", "9be8efb137", "4053943ecc"] },
+        { "text": "The review covered ABC-owned stations in eight cities, including New York, Los Angeles and Chicago, The New York Times reported.", "refs": ["b54d1d2bde"] },
+        { "text": "The judge said the review probably violates the First Amendment, according to The Washington Post.", "refs": ["728bd9cd1d"] },
+        { "text": "ABC argued the review was an attempt by the Trump administration to punish speech it does not like and had a chilling effect on the network.", "refs": ["6c2d7ac13e", "4053943ecc"] },
+        { "text": "The FCC chairman ordered the early review a day after Trump called for ABC to fire Jimmy Kimmel, and the licenses were not due to expire until 2028, Deutsche Welle reported.", "refs": ["a0ffb9caca"] },
+        { "text": "ABC sued the FCC in August.", "refs": ["9be8efb137", "us-w3"] },
+        { "text": "At an October hearing, the FCC argued the court had no jurisdiction and that an injunction should be denied.", "refs": ["us-w3"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "e972052d7b", "note": "States as a ruling that the FCC violated ABC's rights 'to please Trump'." },
+        { "ref": "ec1efea0e0", "note": "Procedural wording about an 'early renewal'; its summary notes the judge is a Biden appointee." },
+        { "ref": "6c2d7ac13e", "note": "Stresses that the block is temporary." },
+        { "ref": "9be8efb137", "note": "Puts FCC chair Brendan Carr's name in the headline." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "ec1efea0e0", "takeaway": "Headline and summary only: the injunction and the judge who issued it.", "read_full": false },
+        { "ref": "9be8efb137", "takeaway": "Headline and summary only: centers on Carr and notes ABC sued in August.", "read_full": false },
+        { "ref": "4053943ecc", "takeaway": "Headline only: wire story highlighting ABC's chilling-effect claim.", "read_full": false },
+        { "ref": "b54d1d2bde", "takeaway": "Headline and summary only (paywalled): the review covered stations in eight cities.", "read_full": false },
+        { "ref": "728bd9cd1d", "takeaway": "Headline only (paywalled): judge says the review probably violates the First Amendment.", "read_full": false },
+        { "ref": "6c2d7ac13e", "takeaway": "Headline and summary only: ABC's argument that the review punishes speech.", "read_full": false },
+        { "ref": "a0ffb9caca", "takeaway": "Headline and summary only: links the review to Trump's call to fire Jimmy Kimmel.", "read_full": false },
+        { "ref": "e972052d7b", "takeaway": "Headline and summary only: describes the ruling as a free-speech finding against the FCC.", "read_full": false },
+        { "ref": "us-w3", "takeaway": "Search result only: report on the October court hearing and the FCC's arguments.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "second-birthright-order-blocked-again",
+      "headline": "A second federal judge blocks Trump's new birthright citizenship order",
+      "region": "Courts",
+      "importance": 4,
+      "summary": "U.S. District Judge Christopher Cooper in Washington on Wednesday blocked enforcement of President Trump's second executive order limiting who gets citizenship at birth. Trump signed that order after the Supreme Court rejected his first attempt. Cooper is the second judge to rule against the new order.",
+      "why_it_matters": "The order would decide whether some babies born in the United States are citizens, which affects passports, benefits and the right to stay. In the day's feed the ruling was covered by center and right-leaning outlets but no left-leaning ones.",
+      "background": "The Fourteenth Amendment says people born in the United States and subject to its jurisdiction are citizens. Trump's first order restricting that for children of some immigrants was rejected by the Supreme Court. He then signed a narrower order, which a federal judge in Maryland blocked in early September, citing the Supreme Court's decision. Wednesday's ruling in Washington is the second against the new order.",
+      "facts": [
+        { "text": "A second U.S. judge on Wednesday blocked enforcement of Trump's executive order limiting who is eligible for birthright citizenship, Reuters reported.", "refs": ["3445fdf821", "109443fa10"] },
+        { "text": "The judge is Christopher Cooper of the federal district court in Washington, D.C.", "refs": ["fc2924d4ed"] },
+        { "text": "Cooper cited the Fourteenth Amendment and rejected the order's exclusions based on surrogacy, according to Fox News.", "refs": ["fc2924d4ed"] },
+        { "text": "Trump signed the second order after the Supreme Court rejected his initial effort to restrict birthright citizenship.", "refs": ["3445fdf821", "109443fa10"] },
+        { "text": "Trump has previously called Cooper a 'hater', Fox News reported.", "refs": ["fc2924d4ed"] },
+        { "text": "A federal judge in Maryland issued a preliminary injunction against the same order in early September, citing the Supreme Court's ruling.", "refs": ["us-w4"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "fc2924d4ed", "note": "Says the restrictions were 'struck down' and highlights Trump's past insult of the judge." },
+        { "ref": "cc7d99cc73", "note": "Short and procedural: 'another judge' blocks the order." },
+        { "ref": "109443fa10", "note": "Wire wording that describes the order as 'curtailing' citizenship and counts the judges." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "3445fdf821", "takeaway": "Headline and summary only: reprint of the Reuters report on the ruling.", "read_full": false },
+        { "ref": "109443fa10", "takeaway": "Headline and summary only: the same Reuters story, noting the Supreme Court history.", "read_full": false },
+        { "ref": "fc2924d4ed", "takeaway": "Headline and summary only: names the judge and his reasoning.", "read_full": false },
+        { "ref": "cc7d99cc73", "takeaway": "Headline only: another judge blocks the second order.", "read_full": false },
+        { "ref": "us-w4", "takeaway": "Search result only: September wire report on the first ruling against the order.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "abrego-garcia-leaves-for-spain",
+      "headline": "Kilmar Abrego Garcia leaves the U.S. for Spain, ending a 20-month deportation fight",
+      "region": "Immigration",
+      "importance": 3,
+      "summary": "Kilmar Abrego Garcia, the Salvadoran man the government mistakenly deported last year, left the United States voluntarily on Tuesday and landed in Madrid on Wednesday. A judge then closed his case, The Washington Times reported. His lawyer called the move temporary and said he hopes to return to his family in Maryland after President Trump leaves office.",
+      "why_it_matters": "His case became the best-known test of whether the government must give people a hearing before deporting them. It ends with him leaving and with no final court ruling on some of the questions it raised.",
+      "background": "Abrego Garcia, 31, lived in Maryland and was deported to El Salvador in March 2025 in what the government acknowledged was an error. He was brought back to the United States after a Supreme Court ruling, and the administration then sought to deport him again while also charging him with human smuggling. A federal judge dismissed those criminal charges in May. Homeland Security officials have continued to describe him as a gang member, and his case became a focal point in the debate over Trump's deportation policies.",
+      "facts": [
+        { "text": "Abrego Garcia left the United States on Tuesday of his own accord, and the Department of Homeland Security confirmed his departure.", "refs": ["10a3fcdd61", "ed632e0b8e", "3668f0b8c6"] },
+        { "text": "He arrived in Madrid on Wednesday.", "refs": ["d13abd5723", "0054f4a68c", "4c53caf8ac"] },
+        { "text": "His lawyer described the departure as temporary and said he hopes to return to his family's home in Maryland after Trump leaves office, the Associated Press reported.", "refs": ["8df17eb663", "f7dfa62071"] },
+        { "text": "A judge closed his case after he left, according to The Washington Times.", "refs": ["9ef48c8e9e"] },
+        { "text": "He left to avoid forced deportation, DHS said, according to Fox News.", "refs": ["3668f0b8c6"] },
+        { "text": "He was deported to El Salvador in March 2025 and returned to the United States after a Supreme Court ruling.", "refs": ["ed632e0b8e"] },
+        { "text": "Sen. Chris Van Hollen of Maryland confirmed the departure on Tuesday.", "refs": ["d13abd5723"] }
+      ],
+      "disputed": [
+        {
+          "topic": "Whether Abrego Garcia is a criminal",
+          "positions": [
+            { "claim": "Homeland Security officials say he is a human trafficker, a domestic abuser and a gang member, NewsNation reported.", "refs": ["2785e6ba75"] },
+            { "claim": "A federal judge in Tennessee dismissed the human smuggling indictment against him in May 2026.", "refs": ["us-w5"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "b2dcb6f73b", "note": "Quotes 'free man' and treats the departure as the end of a deportation battle." },
+        { "ref": "9ef48c8e9e", "note": "Calls him the country's 'most famous illegal immigrant' and says he self-deported." },
+        { "ref": "3668f0b8c6", "note": "Describes the exit as ending his battle with the Trump administration." },
+        { "ref": "7a24f698eb", "note": "Argues the administration 'got what it wanted' despite his choosing to leave." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "10a3fcdd61", "takeaway": "Headline and summary only: DHS confirms he left for Spain on Tuesday.", "read_full": false },
+        { "ref": "ed632e0b8e", "takeaway": "Headline and summary only: lawyers and DHS confirm the departure; recaps the 2025 deportation.", "read_full": false },
+        { "ref": "3668f0b8c6", "takeaway": "Headline and summary only: says he left to avoid forced deportation, citing DHS.", "read_full": false },
+        { "ref": "d13abd5723", "takeaway": "Headline and summary only: arrival in Spain and Van Hollen's confirmation.", "read_full": false },
+        { "ref": "0054f4a68c", "takeaway": "Headline and summary only (paywalled): arrival in Madrid ends a 20-month fight.", "read_full": false },
+        { "ref": "4c53caf8ac", "takeaway": "Headline only: he left voluntarily and landed in Madrid.", "read_full": false },
+        { "ref": "8df17eb663", "takeaway": "Headline and summary only: AP story on his hope to return after Trump.", "read_full": false },
+        { "ref": "f7dfa62071", "takeaway": "Headline only: the AP wire version of the same story.", "read_full": false },
+        { "ref": "9ef48c8e9e", "takeaway": "Headline only: a judge closes the case after his departure.", "read_full": false },
+        { "ref": "2785e6ba75", "takeaway": "Headline and summary only: carries DHS officials' description of him.", "read_full": false },
+        { "ref": "b2dcb6f73b", "takeaway": "Headline and summary only: frames the departure as the end of a symbolic case.", "read_full": false },
+        { "ref": "7a24f698eb", "takeaway": "Headline and summary only: analysis of what the outcome means for the administration.", "read_full": false },
+        { "ref": "us-w5", "takeaway": "Search result only: May report on the dismissal of the smuggling indictment.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "fulton-2020-ballots-order-paused",
+      "headline": "Georgia judge pauses her own order to hand Fulton County's 2020 ballot copies to state board",
+      "region": "Elections",
+      "importance": 3,
+      "summary": "Fulton County Superior Court Judge Kelly Lee Ellerbe on Tuesday ordered the county to give Georgia's State Election Board digital copies of 2020 ballots and other election records. On Wednesday she put that order on hold after county election officials objected in a court filing. The records stay with the county for now.",
+      "why_it_matters": "The 2020 results in Georgia have been counted and reviewed several times, and this fight is over who gets to examine the ballots again. The outcome could shape how much power the state board has over county election offices in future elections.",
+      "background": "Fulton County, which includes most of Atlanta, is Georgia's most populous county and has been the focus of President Trump's claims about the 2020 election. The State Election Board, which sets and enforces Georgia's election rules, has sought certain 2020 records from the county for more than two years. NBC News describes the board as controlled by allies of Trump. The FBI seized the county's 2020 ballots and related materials earlier this year, and a federal judge later ruled the Justice Department could keep them.",
+      "facts": [
+        { "text": "On Tuesday a judge ordered Fulton County to turn over a digital copy of 2020 ballots and other election records to the State Election Board.", "refs": ["6a64f422c1", "1a463741b6"] },
+        { "text": "On Wednesday the judge, Kelly Lee Ellerbe of Fulton County Superior Court, paused her own order after county election officials made a filing in the case.", "refs": ["7341fbff6e", "2c23697a94", "d6171d873a"] },
+        { "text": "The records were among materials the FBI seized from the county earlier this year.", "refs": ["6a64f422c1", "7341fbff6e"] },
+        { "text": "The State Election Board had been trying for more than two years to obtain certain 2020 records from the county.", "refs": ["6a64f422c1"] },
+        { "text": "Tuesday's order required unredacted digital copies of the election materials, NBC News reported.", "refs": ["d6171d873a"] },
+        { "text": "Members of the State Election Board are split on the records case, The Center Square reported.", "refs": ["8b91f77c34"] },
+        { "text": "A federal judge ruled earlier this year that the Justice Department does not have to return the ballots and other materials the FBI seized from Fulton County.", "refs": ["us-w6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "1a463741b6", "note": "Labels the board 'Trump-allied' in the headline." },
+        { "ref": "8b91f77c34", "note": "Emphasizes disagreement inside the board over the case." },
+        { "ref": "7341fbff6e", "note": "Says the judge 'blocks' the order where wire headlines say 'halts'; no description of the board." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "6a64f422c1", "takeaway": "Headline and summary only: Tuesday's order and the board's two-year effort.", "read_full": false },
+        { "ref": "1a463741b6", "takeaway": "Headline and summary only: describes the board as controlled by Trump-aligned activists.", "read_full": false },
+        { "ref": "7341fbff6e", "takeaway": "Headline and summary only: names the judge and says she paused her own order.", "read_full": false },
+        { "ref": "2c23697a94", "takeaway": "Headline only: wire story on the halt.", "read_full": false },
+        { "ref": "d6171d873a", "takeaway": "Headline and summary only: the halt, noting the copies were to be unredacted.", "read_full": false },
+        { "ref": "8b91f77c34", "takeaway": "Headline only: the board is divided on the case.", "read_full": false },
+        { "ref": "us-w6", "takeaway": "Search result only: earlier ruling letting the Justice Department keep the seized ballots.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "fort-hood-hasan-execution-challenge",
+      "headline": "Fort Hood shooter asks federal court to delay next week's firing-squad execution",
+      "region": "Military",
+      "importance": 3,
+      "summary": "Nidal Hasan, the former Army major who killed 13 people at Fort Hood, Texas, in 2009, moved in federal court on Tuesday to delay his execution by firing squad, which is scheduled for next week. He says he wants to challenge his conviction and death sentence. A court must now decide whether the execution goes ahead on schedule.",
+      "why_it_matters": "Military executions are rare, and this one would be carried out by firing squad at the base where the attack happened. The case matters most to the families of the 13 people killed and the more than 30 wounded, who have waited 17 years for it to end.",
+      "background": "In November 2009 Hasan, then an Army major, opened fire at Fort Hood, a large Army post in Texas, killing 13 people and wounding more than 30. He was convicted of murder and attempted murder and sentenced to death. The Pentagon scheduled his execution by firing squad for early December. An initial proposal to livestream it drew public outrage, NBC News reported.",
+      "facts": [
+        { "text": "Hasan's execution by firing squad is scheduled for next week at Fort Hood.", "refs": ["643c704a0e", "e276708595"] },
+        { "text": "Hasan said he wants to challenge his conviction and death sentence.", "refs": ["e276708595", "643c704a0e"] },
+        { "text": "His lawyers said Tuesday he plans a constitutional challenge that could halt the execution, NBC News reported.", "refs": ["b3c3fdda02"] },
+        { "text": "Hasan fatally shot 13 people at Fort Hood in 2009.", "refs": ["7d1b5203fe", "e276708595"] },
+        { "text": "More than 30 others were wounded, and he was found guilty of multiple counts of murder and attempted murder.", "refs": ["c9505695c8"] },
+        { "text": "Three survivors of the shooting lost their final appeal to witness the execution, according to The Hindu.", "refs": ["c9505695c8"] }
+      ],
+      "disputed": [
+        {
+          "topic": "What Hasan has filed so far",
+          "positions": [
+            { "claim": "Fox News reported that he filed a motion Tuesday asking a federal judge to delay the execution.", "refs": ["643c704a0e"] },
+            { "claim": "CBS News reported that he told the court Tuesday he plans to file a petition seeking a delay.", "refs": ["7d1b5203fe"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "b3c3fdda02", "note": "Refers to the 'Pentagon's firing squad execution' and recalls the livestream outcry." },
+        { "ref": "a888701ba1", "note": "Calls him a 'killer' and the filing a 'final attempt'." },
+        { "ref": "643c704a0e", "note": "Plain wording: the shooter asks a federal judge to halt the execution." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "b3c3fdda02", "takeaway": "Headline and summary only: lawyers plan a constitutional challenge; mentions the livestream proposal.", "read_full": false },
+        { "ref": "643c704a0e", "takeaway": "Headline and summary only: says a motion to delay was filed Tuesday.", "read_full": false },
+        { "ref": "7d1b5203fe", "takeaway": "Headline and summary only: says he told the court he will petition for a delay.", "read_full": false },
+        { "ref": "c9505695c8", "takeaway": "Headline and summary only: survivors lose their bid to witness the execution.", "read_full": false },
+        { "ref": "a888701ba1", "takeaway": "Headline only: describes the filing as a final attempt.", "read_full": false },
+        { "ref": "e276708595", "takeaway": "Headline and summary only (paywalled): he wants to challenge his conviction and sentence.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://abcnews.com/US/iowa-army-plant-lead-azide-detonation/story?id=138261613", "title": "Nearly 10,000 pounds of lead azide to be detonated at Army plant, causing lead dust plume", "outlet": "ABC News" },
+    { "id": "us-w2", "url": "https://finance.yahoo.com/news/us-opens-unfair-trade-probes-231414981.html", "title": "US launches unfair-trade probes to rebuild Trump's tariff pressure", "outlet": "Reuters via Yahoo Finance" },
+    { "id": "us-w3", "url": "https://www.jurist.org/news/2026/10/federal-judge-hears-arguments-on-abcs-challenge-to-fcc-license-review/", "title": "Federal judge hears arguments on ABC's challenge to FCC license review", "outlet": "JURIST" },
+    { "id": "us-w4", "url": "https://www.news4jax.com/news/national/2026/09/03/a-judge-blocks-trumps-new-bid-to-curb-birthright-citizenship-citing-supreme-court-precedent/", "title": "A judge blocks Trump's new bid to curb birthright citizenship, citing Supreme Court precedent", "outlet": "Associated Press via News4JAX" },
+    { "id": "us-w5", "url": "https://www.aljazeera.com/news/2026/5/22/us-judge-dismisses-indictment-against-kilmar-abrego-garcia", "title": "US judge dismisses indictment against Kilmar Abrego Garcia", "outlet": "Al Jazeera" },
+    { "id": "us-w6", "url": "https://www.pbs.org/newshour/politics/justice-department-can-keep-2020-ballots-seized-from-fulton-county-in-georgia-judge-rules", "title": "Justice Department can keep 2020 ballots seized from Fulton County in Georgia, judge rules", "outlet": "PBS NewsHour" }
+  ]
+}

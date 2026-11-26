@@ -1,0 +1,563 @@
+{
+  "stories": [
+    {
+      "id": "macys-parade-postponed-storm",
+      "headline": "Macy's parade pushed to Saturday as a wind and rain storm hits the city on Thanksgiving",
+      "region": "Manhattan",
+      "importance": 5,
+      "summary": "Macy's said Wednesday that it was postponing the Thanksgiving Day Parade because of the weather, the first postponement in the event's history, and the parade is now set for Saturday. The National Weather Service upgraded its high wind watch for the area to a warning, and Gov. Kathy Hochul declared a state of emergency for New York City. Crews deflated the parade balloons overnight before the storm arrived.",
+      "why_it_matters": "Anyone planning to watch the parade in person or on TV on Thursday needs to shift to Saturday, and the storm itself brings strong winds and heavy rain on one of the busiest travel days of the year.",
+      "background": "The Macy's Thanksgiving Day Parade runs through Manhattan every Thanksgiving morning and is known for its giant character balloons; The New York Times describes it as a tradition more than a century old. Wind is the parade's recurring problem. In past years, coverage of windy forecasts has described a rule that the big balloons cannot fly when sustained winds top 23 mph or gusts top 34 mph, and the usual response was to fly balloons lower or leave them out, not to move the whole event. This year forecasters warned of damaging winds and heavy rain across New York City and New Jersey on Thanksgiving Day itself.",
+      "facts": [
+        {
+          "text": "Macy's said Wednesday that the Thanksgiving Day Parade was postponed because of weather, and outlets reported it as the first postponement in the parade's history.",
+          "refs": [
+            "a1d0cb05b1",
+            "2f09f77481",
+            "41f7e3a0fb"
+          ]
+        },
+        {
+          "text": "The parade was rescheduled for Saturday.",
+          "refs": [
+            "70f30bf5a0",
+            "2ea68e6726"
+          ]
+        },
+        {
+          "text": "The National Weather Service upgraded its high wind watch for the New York City area to a high wind warning for Thanksgiving Day.",
+          "refs": [
+            "ee603b636c"
+          ]
+        },
+        {
+          "text": "Gov. Kathy Hochul declared a state of emergency for New York City, with winds of up to 60 mph and heavy rain in the forecast, the Daily News reported.",
+          "refs": [
+            "be7591c68c"
+          ]
+        },
+        {
+          "text": "Crews worked through the night to deflate the parade balloons before the storm arrived, according to The New York Times.",
+          "refs": [
+            "12d6c1d69c"
+          ]
+        },
+        {
+          "text": "Saturday matinees of the Broadway shows 'Hamilton' and 'Chicago' will go on as planned, The New York Times reported.",
+          "refs": [
+            "d163783c6f"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "555f521687",
+          "note": "Treats the move as a question about tradition: whether a Thanksgiving parade can simply be held on another day."
+        },
+        {
+          "ref": "be7591c68c",
+          "note": "Leads with the emergency declaration and the danger to travelers; the parade is secondary."
+        },
+        {
+          "ref": "3604ff6c61",
+          "note": "Uses a pun on the parade being rained on, keeping the focus on the spectacle rather than the storm's risks."
+        },
+        {
+          "ref": "41f7e3a0fb",
+          "note": "Plain statement that Macy's postponed the parade for severe weather, stressing that it has never happened before."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "a1d0cb05b1",
+          "takeaway": "Summary only: reports Macy's Wednesday announcement and that it is a first.",
+          "read_full": false
+        },
+        {
+          "ref": "2f09f77481",
+          "takeaway": "Headline only: wire story on the first-ever postponement.",
+          "read_full": false
+        },
+        {
+          "ref": "41f7e3a0fb",
+          "takeaway": "Summary only: first delay for storms, with damaging winds and heavy rain expected.",
+          "read_full": false
+        },
+        {
+          "ref": "70f30bf5a0",
+          "takeaway": "Headline and summary only (paywalled): live coverage of the postponement to Saturday.",
+          "read_full": false
+        },
+        {
+          "ref": "2ea68e6726",
+          "takeaway": "Headline only: parade moved to Saturday for the first time.",
+          "read_full": false
+        },
+        {
+          "ref": "ee603b636c",
+          "takeaway": "Summary only: local forecast story on the upgrade to a high wind warning.",
+          "read_full": false
+        },
+        {
+          "ref": "be7591c68c",
+          "takeaway": "Headline only: state of emergency and 60 mph winds for holiday travelers.",
+          "read_full": false
+        },
+        {
+          "ref": "12d6c1d69c",
+          "takeaway": "Headline and summary only (paywalled): crews deflating balloons overnight.",
+          "read_full": false
+        },
+        {
+          "ref": "d163783c6f",
+          "takeaway": "Headline only (paywalled): Broadway matinees on Saturday are unaffected.",
+          "read_full": false
+        },
+        {
+          "ref": "555f521687",
+          "takeaway": "Headline and summary only (paywalled): a lighter piece on moving a fixed tradition.",
+          "read_full": false
+        },
+        {
+          "ref": "3604ff6c61",
+          "takeaway": "Headline only (paywalled): British view of the storm threat to the parade.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "rent-freeze-lawsuit-dismissed",
+      "headline": "Judge throws out landlords' lawsuit against the rent freeze on stabilized apartments",
+      "region": "City Hall",
+      "importance": 5,
+      "summary": "A Manhattan judge on Wednesday dismissed a lawsuit by landlords challenging the rent freeze for the city's roughly 1 million rent-stabilized apartments, leaving the freeze in place. In the 20-page decision the judge also criticized Mayor Zohran Mamdani's campaign promise to freeze rents, calling it \"reckless and irresponsible,\" according to amNY.",
+      "why_it_matters": "If you live in a rent-stabilized apartment, your rent stays frozen under leases covered by this year's Rent Guidelines Board vote. Owners of stabilized buildings get no increase to cover rising costs, which was the core of their complaint.",
+      "background": "Rents for the city's roughly 1 million rent-stabilized apartments are set each year by the Rent Guidelines Board, whose members the mayor appoints. Mamdani campaigned on freezing those rents, and in June the board voted 7-1 for a freeze on one- and two-year leases, effective Oct. 1, according to Bisnow. A group of small landlords sued in July, arguing the board was not independent of the mayor and ignored owners' rising costs; they were represented by Randy Mastro, a former Adams administration official, City Limits reported. Gothamist notes that a former deputy mayor under Eric Adams led the challenge.",
+      "facts": [
+        {
+          "text": "A Manhattan judge on Wednesday dismissed a lawsuit brought by landlords challenging the rent freeze for rent-stabilized apartments.",
+          "refs": [
+            "d877784af9",
+            "dd31697803",
+            "78933d09a5"
+          ]
+        },
+        {
+          "text": "The freeze covers roughly 1 million rent-stabilized apartments and remains in place after the ruling.",
+          "refs": [
+            "d877784af9",
+            "dd31697803"
+          ]
+        },
+        {
+          "text": "The decision ran 20 pages, and the judge called Mamdani's campaign promise to freeze rents \"reckless and irresponsible,\" amNY reported.",
+          "refs": [
+            "dd31697803"
+          ]
+        },
+        {
+          "text": "A former deputy mayor under Mamdani's predecessor, Eric Adams, led the legal challenge, according to Gothamist.",
+          "refs": [
+            "5baac6d629"
+          ]
+        },
+        {
+          "text": "The Rent Guidelines Board voted 7-1 on June 25 to freeze rents on one- and two-year leases, with the freeze taking effect Oct. 1, according to Bisnow's report on the lawsuit.",
+          "refs": [
+            "nyc-w1"
+          ]
+        },
+        {
+          "text": "The landlords' suit argued that the board acted arbitrarily and was not independent of the mayor, and it asked a court to void the freeze.",
+          "refs": [
+            "nyc-w1",
+            "nyc-w2"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "dd31697803",
+          "note": "Pairs the mayor's win with the judge's criticism of his campaign promise, which most other headlines leave out."
+        },
+        {
+          "ref": "5baac6d629",
+          "note": "Presents the ruling as a win for Mamdani and for his affordability agenda as a whole."
+        },
+        {
+          "ref": "83b243e7d0",
+          "note": "Casts it as a contest between the mayor and the real-estate industry, with landlords 'foiled'."
+        },
+        {
+          "ref": "a0ece0d6cc",
+          "note": "Neutral statement that the freeze was upheld, without 'win' or 'victory' language."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "d877784af9",
+          "takeaway": "Summary only: dismissal keeps the freeze for about 1 million apartments; calls it a major win for the mayor.",
+          "read_full": false
+        },
+        {
+          "ref": "dd31697803",
+          "takeaway": "Summary only: the one digest item that reports the judge's criticism of the campaign promise and the decision's length.",
+          "read_full": false
+        },
+        {
+          "ref": "5baac6d629",
+          "takeaway": "Summary only: notes that a former Adams deputy mayor led the challenge.",
+          "read_full": false
+        },
+        {
+          "ref": "78933d09a5",
+          "takeaway": "Headline and summary only (paywalled): judge handed Mamdani a victory by dismissing the suit.",
+          "read_full": false
+        },
+        {
+          "ref": "83b243e7d0",
+          "takeaway": "Headline and summary only (paywalled): another victory for the mayor over the real-estate industry.",
+          "read_full": false
+        },
+        {
+          "ref": "a0ece0d6cc",
+          "takeaway": "Headline only: judge upholds the freeze.",
+          "read_full": false
+        },
+        {
+          "ref": "3051ddd008",
+          "takeaway": "Headline only: judge upholds the freeze.",
+          "read_full": false
+        },
+        {
+          "ref": "a65572f403",
+          "takeaway": "Headline only: wire report that a New York court upheld the freeze.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "rikers-monitor-report",
+      "headline": "Rikers monitor reports a 14-hour delay in finding an overdose victim and improper strip searches",
+      "region": "Rikers Island",
+      "importance": 3,
+      "summary": "The court-appointed monitor overseeing the city's Department of Correction said in a new report that the body of a Rikers Island detainee who overdosed was not found for about 14 hours. The report also found that detainees were routinely strip-searched in violation of policy, and it described the pace of reform as \"glacial.\"",
+      "why_it_matters": "The city runs these jails and is under court order to make them safer, and most people held there are awaiting trial. Only left-leaning and center outlets in today's feeds covered the report.",
+      "background": "Rikers Island is the city's main jail complex. Since 2015 the city has been bound by a federal court settlement over violence and use of force there, and a monitor, Steve J. Martin, reports to the court on compliance. In January 2026 Judge Laura Taylor Swain, who had found the city in contempt, named Nicholas Deml, a former Vermont corrections commissioner, as a 'remediation manager' with broad powers over the jails, the Queens Daily Eagle reported. The monitor's June report credited new leadership but said violence remained high.",
+      "facts": [
+        {
+          "text": "The monitor's report said the body of a Rikers detainee who overdosed was not found for about 14 hours.",
+          "refs": [
+            "dfab43de16"
+          ]
+        },
+        {
+          "text": "The report found that detainees were routinely strip-searched in violation of department policy, Gothamist reported.",
+          "refs": [
+            "f6357c66a0"
+          ]
+        },
+        {
+          "text": "The monitor described the pace of reform at Rikers as \"glacial.\"",
+          "refs": [
+            "dfab43de16",
+            "f6357c66a0",
+            "d8540e24ff"
+          ]
+        },
+        {
+          "text": "The report cited a \"high risk of harm\" to people held in the jail, according to the Daily News.",
+          "refs": [
+            "d8540e24ff"
+          ]
+        },
+        {
+          "text": "Judge Laura Taylor Swain appointed Nicholas Deml, a former Vermont corrections commissioner, as remediation manager for the jails in January 2026.",
+          "refs": [
+            "nyc-w3"
+          ]
+        },
+        {
+          "text": "The monitor's previous report, in June, praised new jail leadership but said violence persisted.",
+          "refs": [
+            "nyc-w4"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "dfab43de16",
+          "note": "Leads with the delay in finding the overdose victim, then the slow reforms."
+        },
+        {
+          "ref": "f6357c66a0",
+          "note": "Leads with a different finding from the same report: strip searches that broke policy."
+        },
+        {
+          "ref": "d8540e24ff",
+          "note": "Leads with the monitor's overall verdict and the risk to people in custody; uses 'slams' for the monitor's tone."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "dfab43de16",
+          "takeaway": "Summary only: the 14-hour delay and the monitor's frustration with the pace of reform.",
+          "read_full": false
+        },
+        {
+          "ref": "f6357c66a0",
+          "takeaway": "Summary only: focuses on routine strip searches in violation of policy.",
+          "read_full": false
+        },
+        {
+          "ref": "d8540e24ff",
+          "takeaway": "Headline only: the monitor's 'glacial' and 'high risk of harm' findings.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "samuelsen-resigns-mta-board",
+      "headline": "Transit union leader John Samuelsen resigns from the MTA board after questions about a move to Florida",
+      "region": "Transit",
+      "importance": 3,
+      "summary": "John Samuelsen, international president of the Transport Workers Union, resigned from the MTA board on Wednesday. Gov. Kathy Hochul's office had questioned whether he could legally keep the seat given his reported move to Florida, and The New York Times reported that Hochul had urged him to step down.",
+      "why_it_matters": "The MTA board votes on fares, service and spending for subways, buses and commuter rail, and the transit workers' main voice at that table is now gone until a replacement is named.",
+      "background": "The MTA is a state authority that runs the city's subways and buses along with the Long Island Rail Road and Metro-North. Samuelsen leads the Transport Workers Union, which represents subway and bus workers, and had sat on the board for about a decade, according to Brooklyn Paper. The New York Times describes him as a frequent critic of Hochul. Hochul's office raised his residency as a legal question; the Times notes he also has a home in Brooklyn.",
+      "facts": [
+        {
+          "text": "John Samuelsen, head of the Transport Workers Union, resigned from the MTA board on Wednesday.",
+          "refs": [
+            "354e5d7ff4",
+            "75b24a8516",
+            "7234a907bd"
+          ]
+        },
+        {
+          "text": "Hochul's office had questioned whether he could still legally hold the seat because of his reported move to Florida, Brooklyn Paper reported.",
+          "refs": [
+            "354e5d7ff4"
+          ]
+        },
+        {
+          "text": "Hochul had urged Samuelsen to resign, and he also has a home in Brooklyn, according to The New York Times.",
+          "refs": [
+            "7234a907bd"
+          ]
+        },
+        {
+          "text": "Samuelsen had held the board post for about a decade, Brooklyn Paper reported.",
+          "refs": [
+            "354e5d7ff4"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "75b24a8516",
+          "note": "Ties the resignation to turmoil inside the union rather than to the governor."
+        },
+        {
+          "ref": "91be687be7",
+          "note": "Puts the governor's pressure at the center."
+        },
+        {
+          "ref": "7234a907bd",
+          "note": "Emphasizes that he held the New York post while based in Florida."
+        },
+        {
+          "ref": "354e5d7ff4",
+          "note": "Stresses how long he held the seat; the residency question comes in the story, not the headline."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "354e5d7ff4",
+          "takeaway": "Summary only: resignation after the governor's office questioned his eligibility over a reported Florida move.",
+          "read_full": false
+        },
+        {
+          "ref": "7234a907bd",
+          "takeaway": "Headline and summary only (paywalled): Hochul urged him to quit; notes his Brooklyn home.",
+          "read_full": false
+        },
+        {
+          "ref": "75b24a8516",
+          "takeaway": "Headline only: resignation 'amid union turmoil'.",
+          "read_full": false
+        },
+        {
+          "ref": "91be687be7",
+          "takeaway": "Headline only: resigned under pressure from Hochul.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "scrie-drie-income-limit-raised",
+      "headline": "City raises income limit to $75,000 for senior and disability rent freeze program",
+      "region": "Housing",
+      "importance": 3,
+      "summary": "New York City raised the household income limit for its rent freeze program for seniors and people with disabilities from $50,000 to $75,000, the first increase in 12 years, amNY reported. Mayor Zohran Mamdani and the Department of Finance announced the change, which the outlet says could make thousands more households eligible.",
+      "why_it_matters": "If you are 62 or older or have a qualifying disability, live in a rent-regulated apartment and earn between $50,000 and $75,000, you may now be able to have your rent frozen. Only one outlet in today's feeds, amNY, covered the announcement.",
+      "background": "The programs, known as SCRIE (for seniors) and DRIE (for people with disabilities), freeze the rent of eligible tenants in rent-regulated apartments, and landlords are made whole through property tax credits. They are separate from the citywide freeze on stabilized rents that Mamdani campaigned on. To qualify, tenants generally must be 62 or older or receive disability benefits and spend more than 30 percent of their income on rent, according to City Limits. This year's state budget allowed the city to raise the income cap to $75,000 starting July 1, 2026.",
+      "facts": [
+        {
+          "text": "The city raised the annual household income limit for the program from $50,000 to $75,000, the first increase in 12 years, amNY reported.",
+          "refs": [
+            "f04ae87a53"
+          ]
+        },
+        {
+          "text": "Mayor Zohran Mamdani and the Department of Finance announced the change.",
+          "refs": [
+            "f04ae87a53"
+          ]
+        },
+        {
+          "text": "The state budget authorized New York City to raise the income limit for SCRIE and DRIE to $75,000 beginning July 1, 2026, according to a state Assembly member's office.",
+          "refs": [
+            "nyc-w6"
+          ]
+        },
+        {
+          "text": "The programs apply to tenants in rent-regulated apartments who pay more than 30 percent of their income in rent, and the frozen rent is offset by property tax credits to landlords, City Limits reported.",
+          "refs": [
+            "nyc-w5"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "f04ae87a53",
+          "takeaway": "Summary only: the sole report in the digest, giving the old and new income limits and who announced it.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "sunset-park-hit-and-run-arrest",
+      "headline": "Driver charged with manslaughter in August hit-and-run that killed a Brooklyn nurse",
+      "region": "Brooklyn",
+      "importance": 2,
+      "summary": "Justin Mercado, 22, of Staten Island, was charged with manslaughter and criminally negligent homicide in the Aug. 29 death of Jiayi Zheng, 28, a nurse who was hit while crossing Third Avenue at 55th Street in Sunset Park, according to the Brooklyn District Attorney's Office. Police sources told Brooklyn Paper he turned himself in Wednesday morning after a months-long investigation.",
+      "why_it_matters": "The case concerns a pedestrian killed at a Brooklyn crossing by a driver who was allegedly going more than twice the speed limit, and it took nearly three months to produce an arrest.",
+      "background": "Jiayi Zheng was struck on Aug. 29 while crossing Third Avenue in Sunset Park, and the driver left the scene. A memorial stands on Third Avenue near NYU Langone Hospital-Brooklyn, Gothamist reported. Police had been looking for the driver since then. The charges are accusations; Mercado has not been convicted.",
+      "facts": [
+        {
+          "text": "Justin Mercado, 22, of Staten Island, was charged with manslaughter and criminally negligent homicide in the death of Jiayi Zheng, 28, according to the Brooklyn District Attorney's Office.",
+          "refs": [
+            "03f0b37973",
+            "04b91326d6"
+          ]
+        },
+        {
+          "text": "Zheng was killed on Aug. 29 while crossing at Third Avenue and 55th Street in Sunset Park.",
+          "refs": [
+            "03f0b37973"
+          ]
+        },
+        {
+          "text": "Mercado turned himself in to police on Wednesday morning, police sources told Brooklyn Paper.",
+          "refs": [
+            "527e4224a8"
+          ]
+        },
+        {
+          "text": "Mercado was allegedly driving 55 mph, more than double the speed limit, Gothamist reported.",
+          "refs": [
+            "04b91326d6"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "527e4224a8",
+          "note": "Credits the length of the police investigation for the arrest."
+        },
+        {
+          "ref": "04b91326d6",
+          "note": "Focuses on the charge and the victim crossing the avenue; the summary highlights the alleged speed."
+        },
+        {
+          "ref": "03f0b37973",
+          "note": "Says the driver was 'busted', though another outlet reports he surrendered; stresses the three-month gap."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "527e4224a8",
+          "takeaway": "Summary only: suspect surrendered Wednesday after a long investigation, per police sources.",
+          "read_full": false
+        },
+        {
+          "ref": "04b91326d6",
+          "takeaway": "Summary only: alleged 55 mph speed and the memorial near the hospital.",
+          "read_full": false
+        },
+        {
+          "ref": "03f0b37973",
+          "takeaway": "Summary only: names the charges, the victim, the date and the intersection, citing the Brooklyn DA.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "nyc-w1",
+      "url": "https://www.bisnow.com/news/new-york/multifamily/rent-guidelines-board-rent-freeze-lawsuit-135523",
+      "title": "Landlords Sue Rental Board, Claiming 'Sham Process' Led To Rent Freeze",
+      "outlet": "Bisnow"
+    },
+    {
+      "id": "nyc-w2",
+      "url": "https://citylimits.org/landlords-sue-over-the-rent-freeze-and-what-else-happened-this-week-in-housing/",
+      "title": "Landlords Sue Over the Rent Freeze, and What Else Happened This Week in Housing",
+      "outlet": "City Limits"
+    },
+    {
+      "id": "nyc-w3",
+      "url": "https://queenseagle.com/all/2026/1/27/federal-judge-appoints-former-vermont-doc-boss-to-take-over-rikers-island",
+      "title": "Federal judge appoints former Vermont DOC boss to take over Rikers Island",
+      "outlet": "Queens Daily Eagle"
+    },
+    {
+      "id": "nyc-w4",
+      "url": "https://queenseagle.com/all/2026/6/22/new-rikers-leadership-earns-praise-but-violence-persists-report-says",
+      "title": "New Rikers leadership earns praise, but violence persists, report says",
+      "outlet": "Queens Daily Eagle"
+    },
+    {
+      "id": "nyc-w5",
+      "url": "https://citylimits.org/more-new-yorkers-are-now-eligible-for-rent-freezes-and-what-else-happened-this-week-in-housing/",
+      "title": "More New Yorkers Are Now Eligible for Rent Freezes, and What Else Happened This Week in Housing",
+      "outlet": "City Limits"
+    },
+    {
+      "id": "nyc-w6",
+      "url": "https://assembly.ny.gov/mem/Linda-B-Rosenthal/story/118539",
+      "title": "Assemblymember Rosenthal Announces Passage of Budget Bill Raising SCRIE/DRIE Income Limits",
+      "outlet": "New York State Assembly"
+    }
+  ]
+}

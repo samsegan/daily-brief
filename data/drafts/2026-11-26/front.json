@@ -1,0 +1,33 @@
+{
+  "overview": "President Trump proposed new tariffs of up to 20% on goods from 14 trading partners, including China, Japan and the European Union, after an investigation into industrial overcapacity; China and the EU criticized the plan and China said it could retaliate. The Army detonated its deteriorating stockpile of lead azide at the Iowa ammunition plant on Wednesday and called the operation a success, while scientists and residents said questions about lead contamination remain. A storm forecast to bring damaging wind and heavy rain to New York pushed the Macy's Thanksgiving Day Parade to Saturday, the first postponement in its history, and a Manhattan judge dismissed landlords' lawsuit against Mayor Zohran Mamdani's rent freeze. Abroad, a fuel tanker crash set off a fire on Cairo's ring road that killed at least 31 people, Egyptian authorities said.",
+  "markets": {
+    "summary": "U.S. stock markets are closed Thursday for Thanksgiving. On Wednesday, stocks fell sharply early as the sell-off in artificial-intelligence companies deepened, then recovered most of the losses by the close: the Nasdaq ended down 0.62% and the Dow rose 0.33%. Two reports landed the same day. The Federal Reserve's preferred inflation measure, the PCE price index, rose to 3.8% in October from 3.7%, which keeps the Fed on track for a widely expected interest-rate increase in December, and third-quarter economic growth was revised sharply higher. Investors in Asia and Europe largely shrugged off the new U.S. tariff proposals on Thursday, and futures, which trade while the market is closed and hint at where it will open, pointed to gains on Friday.",
+    "movers": [
+      { "symbol": "NASDAQCOM", "why": "Fell 0.62% on Wednesday after a much steeper early drop in Nvidia, Micron and other AI-related stocks eased before the close; it is still down almost 10% in a month." },
+      { "symbol": "DJIA", "why": "Rose 0.33% on Wednesday and stayed above 50,000; the Dow holds fewer AI companies than the Nasdaq, so the tech pullback weighed on it less." },
+      { "symbol": "NIKKEI225", "why": "Japan's main index dropped 2.78% on Wednesday, following the Wall Street tech sell-off; outlets reported Asian shares rebounding on Thursday, led by AI stocks." },
+      { "symbol": "MORTGAGE30US", "why": "The average 30-year mortgage rate slipped 7 basis points (0.07 percentage point) to 7.21% this week. The feeds give no single cause, and rates remain high with the Fed expected to raise its benchmark next month." }
+    ],
+    "concept": {
+      "term": "Tariff",
+      "explanation": "A tariff is a tax a government charges on goods brought in from another country. The importer, usually a domestic company, pays it at the border, and then decides how much of the cost to absorb and how much to pass along in higher prices. Governments use tariffs to protect local industries, to raise revenue, or to pressure other countries in trade disputes, and the countries targeted often answer with tariffs of their own. For households, tariffs can show up as higher prices on imported items such as electronics, cars and clothing, and they can feed into inflation, which in turn affects whether the Federal Reserve raises or lowers interest rates."
+    },
+    "watch": [
+      "Thu Nov 26: U.S. stock markets closed for Thanksgiving",
+      "Fri Nov 27: U.S. stock markets close early (1 p.m. ET) on Black Friday, the start of the holiday shopping season",
+      "Fri Dec 4: November jobs report (the date on the Labor Department's release schedule; one of its calendar pages shows Dec 8)",
+      "Wed Dec 9: Federal Reserve interest-rate decision",
+      "Thu Dec 10: November consumer price index (CPI) inflation report"
+    ]
+  },
+  "trending": [
+    { "title": "Lowe's and Home Depot Black Friday ads", "context": "Black Friday store deals were among the top Google searches on the eve of the shopping day, with tens of thousands of searches for Lowe's alone.", "signal": "google" },
+    { "title": "Winter weather advisory", "context": "Searches for weather advisories and storm warnings rose as a storm moved up the East Coast for Thanksgiving, the same system that postponed the Macy's parade.", "signal": "google" },
+    { "title": "Riemann hypothesis proof claimed", "context": "Wikipedia's news listing says mathematician Levent Alpöge, working with the AI model Claude, announced a formal proof of the Riemann hypothesis, a famous unsolved problem about prime numbers; thousands of Bluesky posts discussed the claim.", "signal": "wikipedia_news" },
+    { "title": "Andy Taylor", "context": "The original guitarist of Duran Duran died at 65, outlets reported, sending readers to his Wikipedia page.", "signal": "wikipedia" },
+    { "title": "Aaron Rodgers", "context": "The Pittsburgh Steelers released the quarterback on Wednesday, hours after he accused head coach Mike McCarthy of falling asleep in team meetings, according to the Guardian and NBC News.", "signal": "wikipedia" },
+    { "title": "Miss Universe 2026", "context": "The pageant page drew nearly 400,000 Wikipedia views after a contestant from Puerto Rico won the title and her hometown celebrated.", "signal": "wikipedia" },
+    { "title": "BepiColombo reaches Mercury", "context": "Wikipedia's news listing says the joint European-Japanese spacecraft BepiColombo entered orbit around Mercury.", "signal": "wikipedia_news" },
+    { "title": "Lead azide", "context": "The Wikipedia page for the explosive compound drew about 120,000 views after the Army detonated its Iowa stockpile on Wednesday.", "signal": "wikipedia" }
+  ]
+}

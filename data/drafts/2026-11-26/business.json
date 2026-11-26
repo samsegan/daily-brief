@@ -1,0 +1,873 @@
+{
+  "stories": [
+    {
+      "id": "wall-street-ai-selloff-rebound",
+      "headline": "Wall Street claws back most of a steep AI-led drop before Thanksgiving",
+      "region": "Markets",
+      "importance": 5,
+      "summary": "U.S. stocks fell sharply early Wednesday as shares of Nvidia and other artificial-intelligence companies sold off, then recovered most of the loss by the close, though the major indexes still finished lower. Asian and European markets rose Thursday, and futures pointed to gains when U.S. trading resumes Friday.",
+      "why_it_matters": "A handful of AI companies now carry so much weight in the big indexes that their swings show up directly in retirement and index-fund balances. Outlets described this as the most volatile stretch for U.S. stocks in years.",
+      "background": "Technology and AI-related shares have been falling for several sessions as investors question how quickly heavy AI spending will turn into profits. Wednesday also brought a higher inflation reading, which reinforced expectations that the Federal Reserve will raise interest rates in December, and a new round of U.S. tariff announcements. Nvidia, the chipmaker at the center of the AI trade, has been especially unsettled after its chief executive, Jensen Huang, resigned in mid-November and was then reinstated. U.S. markets paused for Thanksgiving on Thursday.",
+      "facts": [
+        {
+          "text": "Wall Street recovered most of its early losses on Wednesday as a pullback in AI stocks eased, the Associated Press reported.",
+          "refs": [
+            "b15971c049",
+            "329c9c0092"
+          ]
+        },
+        {
+          "text": "U.S. stocks still closed lower after a volatile session, according to the Wall Street Journal and the Financial Times.",
+          "refs": [
+            "23344be08b",
+            "06e3e1964d"
+          ]
+        },
+        {
+          "text": "During the session the Nasdaq was down about 4% and Nvidia about 8.3%, the New York Post reported; the Wall Street Journal's live coverage also noted slumps in Nvidia and Micron.",
+          "refs": [
+            "a11cedccd3",
+            "0bc00d1946"
+          ]
+        },
+        {
+          "text": "The New York Times attributed the drop to investor worries about AI, tariffs and inflation.",
+          "refs": [
+            "9a0d628d84"
+          ]
+        },
+        {
+          "text": "Oracle, CoreWeave and other technology stocks bounced back from early losses as the selloff eased before the close, MarketWatch reported.",
+          "refs": [
+            "f98e8200ec"
+          ]
+        },
+        {
+          "text": "Shares of AI company Anthropic finished higher, the Financial Times and Wall Street Journal reported.",
+          "refs": [
+            "06e3e1964d",
+            "62f7b68222"
+          ]
+        },
+        {
+          "text": "Asian stocks rose Thursday and European indexes opened sharply higher after the late U.S. recovery.",
+          "refs": [
+            "070ff14772",
+            "9bf688ac3a",
+            "01b3f6155f",
+            "62bdeb7253"
+          ]
+        },
+        {
+          "text": "U.S. stock futures pointed higher for Friday; the Wall Street Journal said sentiment was helped by an upward revision to third-quarter GDP and a clarification that new U.S. tariffs will replace earlier ones rather than add to them.",
+          "refs": [
+            "b740b788b6",
+            "438eb04604"
+          ]
+        },
+        {
+          "text": "Deutsche Bank said the tech rout should bottom soon and forecast the S&P 500 reaching 9,000 by the end of 2027, according to MarketWatch.",
+          "refs": [
+            "1df0807b87"
+          ]
+        },
+        {
+          "text": "Reuters reported that investors see a rising risk of a SoftBank default as pressure grows on its AI bets.",
+          "refs": [
+            "70e088004f"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "b15971c049",
+          "note": "Emphasizes the recovery: most early losses were regained."
+        },
+        {
+          "ref": "9a0d628d84",
+          "note": "Emphasizes the decline and lists three worries: AI, tariffs and inflation."
+        },
+        {
+          "ref": "a11cedccd3",
+          "note": "Leads with the size of the intraday Nasdaq drop and Nvidia's role."
+        },
+        {
+          "ref": "62bdeb7253",
+          "note": "Frames the next day's global rally as bargain-hunting after the jitters."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "b15971c049",
+          "takeaway": "Headline only: stocks recovered most early losses as the AI pullback eased.",
+          "read_full": false
+        },
+        {
+          "ref": "329c9c0092",
+          "takeaway": "Headline only: carries the AP market story.",
+          "read_full": false
+        },
+        {
+          "ref": "23344be08b",
+          "takeaway": "Headline and summary only (paywalled): stocks finished lower after a wild session; tariffs and an Nvidia warning also noted.",
+          "read_full": false
+        },
+        {
+          "ref": "06e3e1964d",
+          "takeaway": "Headline and summary only (paywalled): lower close, Nvidia among losers, Anthropic higher.",
+          "read_full": false
+        },
+        {
+          "ref": "0bc00d1946",
+          "takeaway": "Headline and summary only (paywalled): live coverage of the tech selloff easing.",
+          "read_full": false
+        },
+        {
+          "ref": "62f7b68222",
+          "takeaway": "Headline and summary only (paywalled): losses pared as Anthropic shares swung higher.",
+          "read_full": false
+        },
+        {
+          "ref": "a11cedccd3",
+          "takeaway": "Headline and summary only: intraday Nasdaq and Nvidia declines, citing inflation and tariffs.",
+          "read_full": false
+        },
+        {
+          "ref": "9a0d628d84",
+          "takeaway": "Headline and summary only (paywalled): ties the slump to AI, trade and interest rates.",
+          "read_full": false
+        },
+        {
+          "ref": "f98e8200ec",
+          "takeaway": "Headline and summary only: Oracle and CoreWeave rebound late in the day.",
+          "read_full": false
+        },
+        {
+          "ref": "070ff14772",
+          "takeaway": "Headline and summary only (paywalled): Asian stocks rise as investors brush aside the tariff plan.",
+          "read_full": false
+        },
+        {
+          "ref": "9bf688ac3a",
+          "takeaway": "Headline only (paywalled): Asian shares rebound led by AI stocks.",
+          "read_full": false
+        },
+        {
+          "ref": "01b3f6155f",
+          "takeaway": "Headline and summary only (paywalled): European indexes open with strong gains.",
+          "read_full": false
+        },
+        {
+          "ref": "62bdeb7253",
+          "takeaway": "Headline and summary only: global rally as investors shrug off tariffs and AI worries.",
+          "read_full": false
+        },
+        {
+          "ref": "b740b788b6",
+          "takeaway": "Headline and summary only (paywalled): futures higher; credits GDP revision and tariff clarification.",
+          "read_full": false
+        },
+        {
+          "ref": "438eb04604",
+          "takeaway": "Headline and summary only: futures point to Friday gains after the S&P 500 rebounded off its lows.",
+          "read_full": false
+        },
+        {
+          "ref": "1df0807b87",
+          "takeaway": "Headline and summary only: Deutsche Bank's forecast of a bottom and a later rally.",
+          "read_full": false
+        },
+        {
+          "ref": "70e088004f",
+          "takeaway": "Headline only: rising perceived default risk at SoftBank tied to AI bets.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "pce-inflation-october-fed-hike",
+      "headline": "Fed's preferred inflation gauge rises to 3.8%, keeping a December rate increase in view",
+      "region": "Fed",
+      "importance": 4,
+      "summary": "The personal consumption expenditures price index rose 3.8% in October from a year earlier, up from September, according to reports on Wednesday's release. Outlets across the spectrum said the Federal Reserve is widely expected to raise interest rates at its December meeting. Separate reports showed third-quarter economic growth revised higher and new home sales at a 10-month high.",
+      "why_it_matters": "Inflation near 4% means prices are still rising about twice as fast as the Fed's 2% goal, and another rate increase would push up borrowing costs on credit cards, car loans and mortgages.",
+      "background": "The personal consumption expenditures (PCE) price index is the inflation measure the Federal Reserve watches most closely when it sets interest rates. The Fed raises rates to cool spending and slow price increases, at the cost of making loans more expensive. Inflation has been climbing in recent months, and forecasters and markets had already been anticipating a December increase. Fed officials do not agree on what is driving the rise in prices, Reuters reported. The next jobs report and the Fed's December meeting are the next scheduled markers.",
+      "facts": [
+        {
+          "text": "The PCE price index rose 3.8% in October from a year earlier, CNBC and the New York Post reported.",
+          "refs": [
+            "4fc9c7b0e2",
+            "1e61316155"
+          ]
+        },
+        {
+          "text": "The New York Post reported that the October figure was up from 3.7% in September.",
+          "refs": [
+            "1e61316155"
+          ]
+        },
+        {
+          "text": "The 3.8% reading matched the Dow Jones consensus forecast cited by CNBC.",
+          "refs": [
+            "4fc9c7b0e2"
+          ]
+        },
+        {
+          "text": "The Federal Reserve is widely expected to raise interest rates next month, according to the New York Times, Fox Business and the New York Post.",
+          "refs": [
+            "0c3830a640",
+            "b21091048e",
+            "1e61316155"
+          ]
+        },
+        {
+          "text": "Fed policymakers are at odds over the causes of high inflation, Reuters reported.",
+          "refs": [
+            "a376682f78"
+          ]
+        },
+        {
+          "text": "U.S. third-quarter GDP growth was revised sharply higher, Reuters and Fox Business reported.",
+          "refs": [
+            "167cc81a72",
+            "00688b74b8"
+          ]
+        },
+        {
+          "text": "New home sales rose 14.2% in October to a 10-month high as builders offered incentives and cut prices.",
+          "refs": [
+            "60c8d24b14",
+            "ae75c8a608",
+            "0120d2e2c9"
+          ]
+        },
+        {
+          "text": "Oxford Economics said before the release that it expected a quarter-point rate increase at the December meeting.",
+          "refs": [
+            "business-w1"
+          ]
+        },
+        {
+          "text": "The Fed's final 2026 policy meeting is listed for Dec. 8-9, according to Kiplinger's rundown of the Fed's schedule.",
+          "refs": [
+            "business-w2"
+          ]
+        },
+        {
+          "text": "The November jobs report is scheduled for release on Friday, Dec. 4, according to the Bureau of Labor Statistics calendar.",
+          "refs": [
+            "business-w3"
+          ]
+        },
+        {
+          "text": "MUFG Bank said the strong U.S. economy was keeping the dollar firm despite the stock selloff, the Wall Street Journal reported.",
+          "refs": [
+            "627b8e0ec1"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "4fc9c7b0e2",
+          "note": "Looks past December to what the reading means for the Fed in 2027."
+        },
+        {
+          "ref": "1e61316155",
+          "note": "Uses 'jumps' for a rise of a tenth of a point and stresses Wall Street bracing for a hike."
+        },
+        {
+          "ref": "0c3830a640",
+          "note": "Calls it 'another hot' reading, placing it in a run of high numbers."
+        },
+        {
+          "ref": "a376682f78",
+          "note": "Focuses on disagreement inside the Fed over why inflation is high."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "4fc9c7b0e2",
+          "takeaway": "Headline and summary only: 3.8% annual rate, in line with the consensus forecast.",
+          "read_full": false
+        },
+        {
+          "ref": "1e61316155",
+          "takeaway": "Headline and summary only: 3.8%, up from 3.7% in September, with a hike expected.",
+          "read_full": false
+        },
+        {
+          "ref": "0c3830a640",
+          "takeaway": "Headline and summary only (paywalled): the Fed is widely expected to raise rates next month.",
+          "read_full": false
+        },
+        {
+          "ref": "b21091048e",
+          "takeaway": "Headline only: gauge rose ahead of an expected rate hike next month.",
+          "read_full": false
+        },
+        {
+          "ref": "a376682f78",
+          "takeaway": "Headline only: policymakers disagree on the causes of high inflation.",
+          "read_full": false
+        },
+        {
+          "ref": "167cc81a72",
+          "takeaway": "Headline only: third-quarter GDP growth revised sharply higher.",
+          "read_full": false
+        },
+        {
+          "ref": "00688b74b8",
+          "takeaway": "Headline only: GDP growth accelerated sharply in the third quarter.",
+          "read_full": false
+        },
+        {
+          "ref": "60c8d24b14",
+          "takeaway": "Headline only: new home sales at a 10-month high in October.",
+          "read_full": false
+        },
+        {
+          "ref": "ae75c8a608",
+          "takeaway": "Headline only: new home sales up 14.2% as builders offer incentives.",
+          "read_full": false
+        },
+        {
+          "ref": "0120d2e2c9",
+          "takeaway": "Headline and summary only: sales rose despite high mortgage rates as developers cut prices.",
+          "read_full": false
+        },
+        {
+          "ref": "627b8e0ec1",
+          "takeaway": "Headline and summary only (paywalled): economic strength is keeping the dollar elevated.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w1",
+          "takeaway": "Forecaster's note expecting a quarter-point December hike.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w2",
+          "takeaway": "Reference list of Fed meeting dates.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w3",
+          "takeaway": "Official release calendar for the jobs report.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "us-tariff-plan-trading-partners",
+      "headline": "White House unveils new tariff plan for trading partners; markets look past it",
+      "region": "Trade",
+      "importance": 4,
+      "summary": "The White House on Wednesday announced a new set of tariffs aimed at more than a dozen major trading partners, while offering lower rates to countries that sign trade deals with Washington, CNBC reported. Stock markets in Asia and Europe rose afterward, and the Wall Street Journal reported a clarification that the new tariffs replace earlier ones rather than stack on top of them.",
+      "why_it_matters": "Tariffs are taxes on imports that can raise prices for U.S. shoppers and businesses, at a moment when inflation is already rising. Whether the new rates replace or add to existing ones determines how much costs change.",
+      "background": "Tariffs have been a central tool of President Trump's trade policy. The Supreme Court struck down an earlier set of his tariffs in February 2026, and in July the administration imposed replacement tariffs on about 60 trading partners. The administration has used the threat of higher rates to push other governments to sign trade agreements. Wednesday's announcement is the latest round, and several Asian governments are still in talks with Washington.",
+      "facts": [
+        {
+          "text": "The White House unveiled a fresh set of tariffs on Wednesday targeting more than a dozen major trading partners, CNBC reported.",
+          "refs": [
+            "62bdeb7253"
+          ]
+        },
+        {
+          "text": "CNBC reported the plan covers 14 trading partners and offers some countries lower rates if they secure trade deals with Washington.",
+          "refs": [
+            "02d65ac20e"
+          ]
+        },
+        {
+          "text": "New U.S. tariffs on China and dozens of other nations will replace rather than add to previous ones, according to a clarification reported by the Wall Street Journal.",
+          "refs": [
+            "b740b788b6"
+          ]
+        },
+        {
+          "text": "Stocks in Asia rose Thursday as investors set aside the tariff announcement, Reuters, the Wall Street Journal and CNBC reported.",
+          "refs": [
+            "ce874254f3",
+            "070ff14772",
+            "62bdeb7253"
+          ]
+        },
+        {
+          "text": "The New York Times listed tariffs alongside AI and inflation as reasons U.S. stocks fell on Wednesday.",
+          "refs": [
+            "9a0d628d84"
+          ]
+        },
+        {
+          "text": "In July 2026 the administration imposed replacement tariffs on about 60 trading partners after the Supreme Court struck down earlier tariffs in February.",
+          "refs": [
+            "business-w4",
+            "business-w5"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "How many trading partners the new tariffs cover",
+          "positions": [
+            {
+              "claim": "Fourteen trading partners, per CNBC.",
+              "refs": [
+                "02d65ac20e"
+              ]
+            },
+            {
+              "claim": "China and dozens of other nations, per the Wall Street Journal.",
+              "refs": [
+                "b740b788b6"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "02d65ac20e",
+          "note": "Presents the tariffs as leverage on partners to sign deals."
+        },
+        {
+          "ref": "ce874254f3",
+          "note": "Calls the announcement a 'salvo' and leads with markets ignoring it."
+        },
+        {
+          "ref": "070ff14772",
+          "note": "Describes it as a 'plan' and centers investors' calm reaction."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "62bdeb7253",
+          "takeaway": "Headline and summary only: tariffs unveiled Wednesday on more than a dozen partners; markets rallied anyway.",
+          "read_full": false
+        },
+        {
+          "ref": "02d65ac20e",
+          "takeaway": "Headline and summary only: 14 partners targeted, with lower rates offered for deals.",
+          "read_full": false
+        },
+        {
+          "ref": "b740b788b6",
+          "takeaway": "Headline and summary only (paywalled): new tariffs replace rather than add to earlier ones.",
+          "read_full": false
+        },
+        {
+          "ref": "ce874254f3",
+          "takeaway": "Headline only: stocks climb as traders shrug off the tariff announcement.",
+          "read_full": false
+        },
+        {
+          "ref": "070ff14772",
+          "takeaway": "Headline and summary only (paywalled): Asian investors brush aside the tariff proposals.",
+          "read_full": false
+        },
+        {
+          "ref": "9a0d628d84",
+          "takeaway": "Headline and summary only (paywalled): trade developments among the day's market worries.",
+          "read_full": false
+        },
+        {
+          "ref": "f4dcd46755",
+          "takeaway": "Headline only: a rundown of where Asian nations' trade talks stand.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w4",
+          "takeaway": "July report on the replacement tariffs imposed on major trading partners.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w5",
+          "takeaway": "July report putting the number of affected partners at 60.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nvidia-sp-creditwatch-huang-return",
+      "headline": "S&P warns it may cut Nvidia's credit rating as scrutiny of Huang's return grows",
+      "region": "Markets",
+      "importance": 4,
+      "summary": "S&P Global Ratings placed Nvidia's credit rating on watch for a possible one-notch downgrade, citing rising management and governance risk, days after Jensen Huang was reinstated as chief executive. Nvidia shares fell again Wednesday, and news outlets reported on congressional scrutiny of the reinstatement and on President Trump's personal holdings of Nvidia stock.",
+      "why_it_matters": "Nvidia is one of the most heavily weighted companies in U.S. stock indexes, so turmoil in its leadership moves many people's retirement and index-fund savings. Questions about the government's role in the reinstatement are also now before Congress.",
+      "background": "Nvidia makes the chips that power most artificial-intelligence systems and is among the world's most valuable companies. Jensen Huang, its co-founder and longtime chief executive, resigned in mid-November; Moody's lowered its outlook on the company afterward, citing uncertainty about strategy. Huang was then reinstated as president and CEO and returned to headquarters on Monday, Nov. 23. The Trump administration supported his return, and that support, along with allegations involving China, is under scrutiny in Congress and the press.",
+      "facts": [
+        {
+          "text": "S&P Global placed Nvidia's rating on 'CreditWatch Negative', citing rising management and governance risks, Reuters and CNBC reported.",
+          "refs": [
+            "a3d78abb98",
+            "a3e2147af7"
+          ]
+        },
+        {
+          "text": "S&P said the rating could be cut by one notch, according to CNBC.",
+          "refs": [
+            "a3e2147af7"
+          ]
+        },
+        {
+          "text": "Nvidia shares were down 8.3% during Wednesday's session as the lift from Huang's reinstatement faded, the New York Post reported.",
+          "refs": [
+            "a11cedccd3"
+          ]
+        },
+        {
+          "text": "Huang returned to Nvidia's Santa Clara headquarters on Monday, Nov. 23, apologized to employees and pledged to be a better CEO, The Hindu reported.",
+          "refs": [
+            "4820802c6f"
+          ]
+        },
+        {
+          "text": "President Trump holds tens of millions of dollars in Nvidia shares, according to financial disclosure documents cited by CBS News.",
+          "refs": [
+            "88b5dca185"
+          ]
+        },
+        {
+          "text": "The reinstatement has drawn scrutiny from Congress, CBS News reported; CNN reported that steps the Trump administration took to support Huang's return are also being examined.",
+          "refs": [
+            "8b044c3f3d",
+            "feacdcc700"
+          ]
+        },
+        {
+          "text": "U.S. officials are divided over Chinese spying allegations connected to the case, Reuters reported in an exclusive.",
+          "refs": [
+            "2ca4fa57f6",
+            "3184a70a07"
+          ]
+        },
+        {
+          "text": "Moody's lowered its outlook on Nvidia to stable from positive after Huang's resignation while keeping its Aa1 rating, according to a Nov. 19 report.",
+          "refs": [
+            "business-w6"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "a3e2147af7",
+          "note": "Treats the story as a credit and governance risk for investors."
+        },
+        {
+          "ref": "88b5dca185",
+          "note": "Centers the president's personal financial stake in the stock."
+        },
+        {
+          "ref": "9e0aaff583",
+          "note": "Casts Trump's backing of Huang as a loss for China hawks in his administration."
+        },
+        {
+          "ref": "79472cd932",
+          "note": "Covers the return through a restaurant chain's tribute and the online reaction to it."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "a3d78abb98",
+          "takeaway": "Headline only: S&P places Nvidia on CreditWatch Negative over management and governance risks.",
+          "read_full": false
+        },
+        {
+          "ref": "a3e2147af7",
+          "takeaway": "Headline and summary only: a one-notch cut is possible.",
+          "read_full": false
+        },
+        {
+          "ref": "a11cedccd3",
+          "takeaway": "Headline and summary only: Nvidia led Wednesday's AI selloff.",
+          "read_full": false
+        },
+        {
+          "ref": "4820802c6f",
+          "takeaway": "Headline and summary only: describes Huang's return to headquarters and apology to staff.",
+          "read_full": false
+        },
+        {
+          "ref": "88b5dca185",
+          "takeaway": "Headline and summary only: disclosure documents show Trump's Nvidia holdings.",
+          "read_full": false
+        },
+        {
+          "ref": "8b044c3f3d",
+          "takeaway": "Headline and summary only: overview of the investigations and congressional scrutiny.",
+          "read_full": false
+        },
+        {
+          "ref": "feacdcc700",
+          "takeaway": "Headline only: administration measures backing Huang's return draw scrutiny.",
+          "read_full": false
+        },
+        {
+          "ref": "2ca4fa57f6",
+          "takeaway": "Headline only: exclusive on divisions among U.S. officials over spying allegations.",
+          "read_full": false
+        },
+        {
+          "ref": "3184a70a07",
+          "takeaway": "Headline and summary only: runs the report on officials' divisions.",
+          "read_full": false
+        },
+        {
+          "ref": "9e0aaff583",
+          "takeaway": "Headline only (paywalled): frames the outcome as a setback for China hawks.",
+          "read_full": false
+        },
+        {
+          "ref": "79472cd932",
+          "takeaway": "Headline and summary only: a Denny's tribute to Huang and criticism of it.",
+          "read_full": false
+        },
+        {
+          "ref": "business-w6",
+          "takeaway": "Earlier report on Moody's outlook change after Huang's exit.",
+          "read_full": false
+        }
+      ],
+      "social": "The New York Post reported that Denny's drew mocking replies online for a tribute welcoming Huang back, including one telling the chain to 'just put the pancakes on.'"
+    },
+    {
+      "id": "spacex-fcc-million-satellites",
+      "headline": "FCC clears SpaceX to launch up to 1 million satellites for data centers in orbit",
+      "region": "Tech",
+      "importance": 3,
+      "summary": "The Federal Communications Commission approved SpaceX's plan to deploy up to 1 million satellites that would serve as data centers in space for artificial-intelligence computing. The same day, Elon Musk pledged SpaceX shares for American children, a gift valued at about $18 billion.",
+      "why_it_matters": "The approval would allow far more satellites than have ever been in orbit, which scientists quoted by the Associated Press view skeptically, and the share pledge could put SpaceX stock into millions of children's savings accounts.",
+      "background": "SpaceX, led by Elon Musk, is the world's largest satellite operator through its Starlink internet service. Technology companies are spending heavily on data centers to run AI systems, and those facilities need large amounts of electricity; SpaceX proposes moving some of that computing into orbit. The FCC licenses satellite systems in the United States. Amazon, which is building a competing satellite network, opposed the plan. Trump Accounts are investment accounts for children to which companies and donors, including Michael Dell, have pledged contributions.",
+      "facts": [
+        {
+          "text": "The FCC authorized SpaceX to deploy up to 1 million satellites intended to work as data centers in space.",
+          "refs": [
+            "d76243a87c",
+            "5a39a00334",
+            "94bbe217df",
+            "27217ba350"
+          ]
+        },
+        {
+          "text": "The authorization runs through 2040, France 24 reported.",
+          "refs": [
+            "3d9705e3f8"
+          ]
+        },
+        {
+          "text": "Amazon and other groups had opposed the proposal, according to CNBC.",
+          "refs": [
+            "b8e65de04b"
+          ]
+        },
+        {
+          "text": "Scientists are skeptical of the plan, the Associated Press reported.",
+          "refs": [
+            "5a39a00334",
+            "4c69afe010"
+          ]
+        },
+        {
+          "text": "Musk said on X that the satellites would be a \"great asset to America and the world,\" CBS News reported.",
+          "refs": [
+            "94bbe217df"
+          ]
+        },
+        {
+          "text": "The BBC reported that the constellation is called Starmind and is pitched as a cost- and energy-efficient way to meet demand for AI computing.",
+          "refs": [
+            "27217ba350"
+          ]
+        },
+        {
+          "text": "Musk pledged two SpaceX shares per child, one from the company and one from him personally, doubling an offer he made last month.",
+          "refs": [
+            "aae33c1cef",
+            "3cfdf6d6b7",
+            "543cf37bbb"
+          ]
+        },
+        {
+          "text": "With about 72 million U.S. children under 18, the pledge is worth roughly $18 billion, according to Reuters and Daily Maverick.",
+          "refs": [
+            "543cf37bbb",
+            "951213667f"
+          ]
+        },
+        {
+          "text": "SpaceX did not immediately respond to questions about whether the shares would be tied to Trump Accounts or carry a lockup period, The Hindu reported.",
+          "refs": [
+            "da24f40945"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Who would receive the SpaceX shares",
+          "positions": [
+            {
+              "claim": "Every child in America, as Musk wrote and Axios and Reuters reported.",
+              "refs": [
+                "aae33c1cef",
+                "543cf37bbb",
+                "3cfdf6d6b7"
+              ]
+            },
+            {
+              "claim": "Every active Trump Account, per CNBC's and Fox Business's account of SpaceX's statement.",
+              "refs": [
+                "00e68d185a",
+                "22ffc9c5db"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "4afdcab182",
+          "note": "Quotes the approval's language about extending America's lead in 'superintelligence'."
+        },
+        {
+          "ref": "5a39a00334",
+          "note": "Pairs the approval with scientists' doubts in the headline."
+        },
+        {
+          "ref": "543cf37bbb",
+          "note": "Calls the share pledge an 'AI charm offensive'."
+        },
+        {
+          "ref": "27217ba350",
+          "note": "Presents the project as Musk's personal plan."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "d76243a87c",
+          "takeaway": "Headline only: U.S. authorizes 1 million SpaceX satellites for space data centers.",
+          "read_full": false
+        },
+        {
+          "ref": "5a39a00334",
+          "takeaway": "Headline only: approval reported alongside scientists' skepticism.",
+          "read_full": false
+        },
+        {
+          "ref": "4c69afe010",
+          "takeaway": "Headline and summary only: carries the AP report.",
+          "read_full": false
+        },
+        {
+          "ref": "94bbe217df",
+          "takeaway": "Headline and summary only: includes Musk's reaction on X.",
+          "read_full": false
+        },
+        {
+          "ref": "b8e65de04b",
+          "takeaway": "Headline and summary only: notes opposition from Amazon and others.",
+          "read_full": false
+        },
+        {
+          "ref": "3d9705e3f8",
+          "takeaway": "Headline and summary only: authorization runs through 2040.",
+          "read_full": false
+        },
+        {
+          "ref": "27217ba350",
+          "takeaway": "Headline and summary only: names the Starmind constellation and its stated aim.",
+          "read_full": false
+        },
+        {
+          "ref": "4afdcab182",
+          "takeaway": "Headline only: highlights the FCC's 'superintelligence' language.",
+          "read_full": false
+        },
+        {
+          "ref": "543cf37bbb",
+          "takeaway": "Headline only: two shares per child, valued at $18 billion.",
+          "read_full": false
+        },
+        {
+          "ref": "aae33c1cef",
+          "takeaway": "Headline and summary only: pledge doubles last month's offer and exceeds Michael Dell's gift.",
+          "read_full": false
+        },
+        {
+          "ref": "3cfdf6d6b7",
+          "takeaway": "Headline and summary only: quotes Musk's wording of the pledge.",
+          "read_full": false
+        },
+        {
+          "ref": "00e68d185a",
+          "takeaway": "Headline and summary only: describes the donation as going to active Trump Accounts.",
+          "read_full": false
+        },
+        {
+          "ref": "22ffc9c5db",
+          "takeaway": "Headline only: donations to active Trump Accounts.",
+          "read_full": false
+        },
+        {
+          "ref": "951213667f",
+          "takeaway": "Headline and summary only: gives the 72 million children figure.",
+          "read_full": false
+        },
+        {
+          "ref": "da24f40945",
+          "takeaway": "Headline and summary only: notes unanswered questions about accounts and lockups.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "business-w1",
+      "url": "https://www.oxfordeconomics.com/resource/us-pce-nowcast-broadening-pressures-lock-in-december-rate-hike/",
+      "title": "US PCE nowcast: broadening pressures lock in December rate hike",
+      "outlet": "Oxford Economics"
+    },
+    {
+      "id": "business-w2",
+      "url": "https://www.kiplinger.com/investing/when-is-the-next-fed-meeting",
+      "title": "When Is the Next Fed Meeting?",
+      "outlet": "Kiplinger"
+    },
+    {
+      "id": "business-w3",
+      "url": "https://www.bls.gov/schedule/news_release/empsit.htm",
+      "title": "Schedule of Releases for the Employment Situation",
+      "outlet": "Bureau of Labor Statistics"
+    },
+    {
+      "id": "business-w4",
+      "url": "https://npr.org/2026/07/24/nx-s1-5905783/trump-tariff-trade-global-canada",
+      "title": "A defiant Trump imposes replacement tariffs on biggest U.S. trading partners",
+      "outlet": "NPR"
+    },
+    {
+      "id": "business-w5",
+      "url": "https://www.enca.com/business-news-top-stories/us-imposes-new-tariffs-60-partners-trump-rebuilds-trade-agenda",
+      "title": "US imposes new tariffs on 60 partners as Trump rebuilds trade agenda",
+      "outlet": "eNCA"
+    },
+    {
+      "id": "business-w6",
+      "url": "https://247wallst.com/investing/2026/11/19/moodys-says-jensen-huangs-exit-is-credit-negative-for-nvidia/",
+      "title": "Moody's Says Jensen Huang's Exit Is \"Credit Negative\" for Nvidia",
+      "outlet": "24/7 Wall St."
+    }
+  ]
+}

@@ -1,0 +1,1060 @@
+{
+  "stories": [
+    {
+      "id": "ukraine-war-widening-trump-rutte",
+      "region": "Europe",
+      "importance": 5,
+      "headline": "Trump and NATO chief tell Russia not to widen the Ukraine war",
+      "summary": "President Trump and NATO Secretary General Mark Rutte met at Mar-a-Lago on Wednesday and, in a joint statement released by the White House, urged Russia to avoid any actions that would expand the war in Ukraine and called for a quick peaceful settlement. The statement came as fighting reached beyond the two countries' borders: forces controlling eastern Libya threatened to retaliate against Ukraine over a drone strike on a Russian warship near Benghazi, and Poland said it plans a no-fly zone near its border with Ukraine.",
+      "why_it_matters": "The war is touching more countries, from Poland's border to the Mediterranean, which raises the risk of a wider conflict involving NATO members and of further shocks to energy prices.",
+      "background": "Russia launched its full-scale invasion of Ukraine in February 2022, and the war is now in its fifth year. NATO, the US-led military alliance headed by Mark Rutte, backs Ukraine with weapons and money but is not fighting in the war. Ukraine has increasingly struck Russian oil facilities and ships far from the front line, while Russia has been hitting Ukraine's power system as winter begins. Libya is split between rival administrations, and the eastern one, led by the Libyan National Army, has close ties to Russia. Trump has pushed for a negotiated end to the war and met Russian President Vladimir Putin last week in Asia.",
+      "facts": [
+        {
+          "text": "Trump and Rutte urged Russia to avoid actions that would widen the war in Ukraine after meeting at Mar-a-Lago, in a joint statement released by the White House.",
+          "refs": [
+            "ff46fc5cef",
+            "468f042a75",
+            "798dddff64"
+          ]
+        },
+        {
+          "text": "The joint statement described the meeting as \"outstanding\" and \"very impactful.\"",
+          "refs": [
+            "468f042a75"
+          ]
+        },
+        {
+          "text": "The two also called for a rapid peaceful resolution, as Russian attacks on Ukraine's energy infrastructure intensify, CNBC reported.",
+          "refs": [
+            "798dddff64"
+          ]
+        },
+        {
+          "text": "Trump met Putin last week in Asia and referred to him as a \"friend,\" according to the Reuters report carried by the Japan Times.",
+          "refs": [
+            "065aa6ae1e"
+          ]
+        },
+        {
+          "text": "The Libyan National Army said two of its soldiers died Tuesday in a Ukrainian drone strike on a Russian warship near Benghazi, and it vowed to retaliate.",
+          "refs": [
+            "eb6cf5bc3e",
+            "0c4b2f7bb8"
+          ]
+        },
+        {
+          "text": "Poland plans a no-fly zone near its border with Ukraine and has asked NATO to intercept Russian missiles over Ukraine, the Kyiv Independent reported.",
+          "refs": [
+            "55a82cae82"
+          ]
+        },
+        {
+          "text": "Ukraine's General Staff confirmed strikes on two Russian oil refineries in Samara Oblast, the Kyiv Independent reported.",
+          "refs": [
+            "55a82cae82"
+          ]
+        },
+        {
+          "text": "Some NATO countries have voiced growing concern about the war spreading to new regions as Ukraine attacks Russian ships in distant waters, CBS News reported.",
+          "refs": [
+            "bb8656d164"
+          ]
+        },
+        {
+          "text": "In April, two Libyan officials told the Associated Press that Ukrainian forces operating from western Libya had struck a Russian tanker in the Mediterranean.",
+          "refs": [
+            "world-w4"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "468f042a75",
+          "note": "Puts the demand on Russia up front and quotes the leaders' own praise for their meeting."
+        },
+        {
+          "ref": "798dddff64",
+          "note": "Ties the warning to Russia's stepped-up attacks on Ukraine's energy system."
+        },
+        {
+          "ref": "bb8656d164",
+          "note": "Focuses on allies' unease about Ukraine's strikes far from the front, not on Russia's conduct."
+        },
+        {
+          "ref": "eb6cf5bc3e",
+          "note": "Leads with the Libyan threat of retaliation against Ukraine and the two soldiers killed."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "ff46fc5cef",
+          "takeaway": "Headline only: wire report on the joint Trump-Rutte statement.",
+          "read_full": false
+        },
+        {
+          "ref": "468f042a75",
+          "takeaway": "Headline and summary: quotes the statement's description of the meeting.",
+          "read_full": false
+        },
+        {
+          "ref": "065aa6ae1e",
+          "takeaway": "Reuters reprint; summary adds Trump's meeting with Putin last week.",
+          "read_full": false
+        },
+        {
+          "ref": "798dddff64",
+          "takeaway": "Summary links the statement to attacks on Ukraine's energy infrastructure.",
+          "read_full": false
+        },
+        {
+          "ref": "b1c4bf5b94",
+          "takeaway": "Headline only (paywalled): frames it as a Trump warning to Russia.",
+          "read_full": false
+        },
+        {
+          "ref": "55a82cae82",
+          "takeaway": "Daily roundup: Poland's no-fly zone plan and refinery strikes in Samara.",
+          "read_full": false
+        },
+        {
+          "ref": "bb8656d164",
+          "takeaway": "Summary: NATO members' anxiety over the war's geographic spread.",
+          "read_full": false
+        },
+        {
+          "ref": "eb6cf5bc3e",
+          "takeaway": "Summary: Libyan National Army mourns two soldiers and vows retaliation.",
+          "read_full": false
+        },
+        {
+          "ref": "0c4b2f7bb8",
+          "takeaway": "Headline and summary only (paywalled): eastern Libyan forces say two naval officers were killed.",
+          "read_full": false
+        },
+        {
+          "ref": "ec07b89d1d",
+          "takeaway": "Headline only (paywalled): Libyan forces vow to retaliate.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w4",
+          "takeaway": "Earlier AP report, via search results, on Ukrainian operations from western Libya.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "cairo-ring-road-tanker-fire",
+      "region": "Africa",
+      "importance": 4,
+      "headline": "Fuel tanker fire on Cairo's ring road kills at least 31",
+      "summary": "A fuel tanker crash on the Ring Road around Cairo on Wednesday set off a fire that spread to nearby vehicles and killed at least 31 people, Egyptian authorities said. The public prosecutor's office said a suspected driver was arrested on Thursday. Health authorities said the death toll could rise.",
+      "why_it_matters": "Dozens of people died on a highway used daily by huge numbers of commuters, and the fire puts attention on road safety and on how fuel is moved through crowded cities.",
+      "background": "The Ring Road is a major highway that circles greater Cairo, a metropolitan area of more than 20 million people, and it is usually packed with cars, minibuses and motorcycles. Egypt has a long record of deadly road crashes, often blamed on speeding, poorly maintained roads and loose enforcement of traffic rules. The crash happened in Giza, on the western side of the capital. Egypt's public prosecutor is leading the investigation.",
+      "facts": [
+        {
+          "text": "At least 31 people were killed, Egyptian authorities said.",
+          "refs": [
+            "e765525584",
+            "4ea9865f2a",
+            "b0c600767a",
+            "f1f30c98b1"
+          ]
+        },
+        {
+          "text": "The fire broke out on Wednesday on the Ring Road, a main highway encircling Cairo, after a crash involving a vehicle carrying fuel.",
+          "refs": [
+            "e765525584",
+            "86ed84505b",
+            "898fadde9e"
+          ]
+        },
+        {
+          "text": "More than two dozen cars and motorcycles were burned, the public prosecutor's office said.",
+          "refs": [
+            "898fadde9e",
+            "4ea9865f2a"
+          ]
+        },
+        {
+          "text": "The crash happened in Giza, dozens of ambulances were sent, and health authorities said the death toll could rise, according to a DW report carried by AllAfrica.",
+          "refs": [
+            "c4ddd3f2da"
+          ]
+        },
+        {
+          "text": "A suspected driver was arrested on Thursday, according to the public prosecutor's office.",
+          "refs": [
+            "86ad3ca142"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "How many people were injured",
+          "positions": [
+            {
+              "claim": "15 injured.",
+              "refs": [
+                "b0c600767a"
+              ]
+            },
+            {
+              "claim": "21 injured.",
+              "refs": [
+                "067e75857e",
+                "f1f30c98b1",
+                "4ea9865f2a"
+              ]
+            },
+            {
+              "claim": "At least 25 injured, citing the public prosecutor's office.",
+              "refs": [
+                "898fadde9e"
+              ]
+            }
+          ]
+        },
+        {
+          "topic": "How the crash happened",
+          "positions": [
+            {
+              "claim": "The fuel truck overturned on the highway and caught fire.",
+              "refs": [
+                "b0c600767a",
+                "f1f30c98b1",
+                "067e75857e"
+              ]
+            },
+            {
+              "claim": "A speeding driver allegedly crashed into the tanker.",
+              "refs": [
+                "1d1783eac2"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "1d1783eac2",
+          "note": "Calls it an explosion and points to a speeding driver as the alleged cause."
+        },
+        {
+          "ref": "b0c600767a",
+          "note": "Says the truck overturned, with no mention of another driver."
+        },
+        {
+          "ref": "c4ddd3f2da",
+          "note": "Gives a rounded toll and places the crash in Giza."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "e765525584",
+          "takeaway": "Headline only: early wire report with the death toll.",
+          "read_full": false
+        },
+        {
+          "ref": "067e75857e",
+          "takeaway": "Reuters reprint: 31 dead and 21 wounded after a vehicle carrying petroleum products overturned.",
+          "read_full": false
+        },
+        {
+          "ref": "86ed84505b",
+          "takeaway": "AP wire summary: tanker crash and fire on the highway around Cairo.",
+          "read_full": false
+        },
+        {
+          "ref": "4ea9865f2a",
+          "takeaway": "Summary: toll, injuries and charred vehicles on the ring road.",
+          "read_full": false
+        },
+        {
+          "ref": "b0c600767a",
+          "takeaway": "Summary: truck overturned and fire engulfed nearby vehicles; gives 15 injured.",
+          "read_full": false
+        },
+        {
+          "ref": "86ad3ca142",
+          "takeaway": "Video summary: adds the arrest of a suspected driver on Thursday.",
+          "read_full": false
+        },
+        {
+          "ref": "f1f30c98b1",
+          "takeaway": "Summary: 31 dead, 21 injured after the tanker reportedly overturned.",
+          "read_full": false
+        },
+        {
+          "ref": "898fadde9e",
+          "takeaway": "AP reprint; summary cites the prosecutor's statement on injuries and burned vehicles.",
+          "read_full": false
+        },
+        {
+          "ref": "c4ddd3f2da",
+          "takeaway": "DW via AllAfrica: Giza location, ambulance response, toll may rise.",
+          "read_full": false
+        },
+        {
+          "ref": "1d1783eac2",
+          "takeaway": "Summary: says a speeding driver allegedly hit the tanker.",
+          "read_full": false
+        },
+        {
+          "ref": "2b6f490e33",
+          "takeaway": "Headline only (paywalled).",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "north-korea-kim-tactical-nuclear",
+      "region": "Asia-Pacific",
+      "importance": 4,
+      "headline": "Kim Jong Un tours nuclear material plants and calls for more tactical nuclear weapons",
+      "summary": "North Korean leader Kim Jong Un visited facilities that produce nuclear material and said the country should deploy tactical nuclear weapons more widely, state news agency KCNA reported Thursday. He said production capacity for nuclear material is being expanded and that North Korea's status as a nuclear state will not change. The visit follows President Trump's renewed offer of talks, which Pyongyang has not taken up.",
+      "why_it_matters": "Tactical nuclear weapons are smaller arms meant for battlefield use against nearby targets such as South Korea and Japan, where tens of thousands of US troops are based. More of them makes a nuclear crisis in the region harder to manage.",
+      "background": "North Korea has tested nuclear weapons six times since 2006 and is under United Nations sanctions over its weapons programs. Trump met Kim three times in 2018 and 2019, but the talks collapsed without a deal on giving up the weapons. Since then Kim has declared the country's nuclear status permanent and expanded its missile and warhead programs. Almost everything known about visits like this one comes from KCNA, the state news agency, and cannot be independently checked.",
+      "facts": [
+        {
+          "text": "KCNA reported that Kim said North Korea should focus on deploying tactical nuclear weapons across multiple domains.",
+          "refs": [
+            "10f85be5da",
+            "8969dc7874",
+            "83f38e081d"
+          ]
+        },
+        {
+          "text": "Kim said the country's capacity to produce nuclear material was being systematically expanded, according to KCNA.",
+          "refs": [
+            "8969dc7874"
+          ]
+        },
+        {
+          "text": "Kim visited sites that produce nuclear material and called the country's nuclear status irreversible, saying it \"will never change.\"",
+          "refs": [
+            "061608cbbc",
+            "f82391e30c"
+          ]
+        },
+        {
+          "text": "North Korea did not say where the nuclear material factories Kim visited are located.",
+          "refs": [
+            "81c19cc341"
+          ]
+        },
+        {
+          "text": "Trump repeated that he wants to restore diplomacy with Kim when he visited China last week for the APEC summit.",
+          "refs": [
+            "81c19cc341",
+            "72b5aec8d6"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "72b5aec8d6",
+          "note": "Casts the visit as a response to Trump, saying Kim ignored his overture."
+        },
+        {
+          "ref": "f3e16765c0",
+          "note": "Stresses how unusual it is for Pyongyang to show off progress in its program."
+        },
+        {
+          "ref": "f82391e30c",
+          "note": "Highlights Kim's statement that nuclear status will never change."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "10f85be5da",
+          "takeaway": "Headline only: wire report attributing Kim's remarks to KCNA.",
+          "read_full": false
+        },
+        {
+          "ref": "8969dc7874",
+          "takeaway": "Reuters reprint: tactical weapons across domains and expanding material production.",
+          "read_full": false
+        },
+        {
+          "ref": "83f38e081d",
+          "takeaway": "Headline only: inspection of weapons facilities.",
+          "read_full": false
+        },
+        {
+          "ref": "061608cbbc",
+          "takeaway": "Summary: Kim toured nuclear material sites and called the status irreversible.",
+          "read_full": false
+        },
+        {
+          "ref": "81c19cc341",
+          "takeaway": "AP reprint; summary notes the sites' locations were not given and Trump's outreach.",
+          "read_full": false
+        },
+        {
+          "ref": "72b5aec8d6",
+          "takeaway": "Headline only: Kim vows more weapons after ignoring Trump's overture.",
+          "read_full": false
+        },
+        {
+          "ref": "f82391e30c",
+          "takeaway": "Summary: Kim rejects pressure to denuclearize.",
+          "read_full": false
+        },
+        {
+          "ref": "f3e16765c0",
+          "takeaway": "Summary: a rare display of progress, set against perceived threats from the US and allies.",
+          "read_full": false
+        },
+        {
+          "ref": "cb6f0df089",
+          "takeaway": "Headline only (paywalled): AP story.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "netanyahu-trial-judges-charges",
+      "region": "Middle East",
+      "importance": 4,
+      "headline": "Israeli judges suggest dropping most charges against Netanyahu; he demands the trial end",
+      "summary": "The judges hearing Prime Minister Benjamin Netanyahu's corruption trial advised prosecutors on Wednesday to consider dropping most of the charges, including in the main bribery case. Netanyahu said the trial had \"fallen apart\" and must end immediately, and ministers in his government made the same demand. The judges' advice is not a verdict, and the decision on whether to withdraw charges rests with prosecutors.",
+      "why_it_matters": "The trial has shaped Israeli politics for years and decides whether a sitting prime minister can be convicted of corruption. How it ends will affect trust in Israel's courts and Netanyahu's political future.",
+      "background": "Netanyahu, Israel's longest-serving prime minister, was indicted in 2019 on charges of bribery, fraud and breach of trust in three separate cases, and his trial opened in 2020. The most serious case alleges he gave regulatory favors to a telecom owner in exchange for friendly news coverage. He denies all wrongdoing and calls the cases a political witch hunt. The trial has run alongside a bitter national fight over the power of the courts. The decision on whether to withdraw charges belongs to the state prosecution and the attorney general, not the judges.",
+      "facts": [
+        {
+          "text": "The judges in Netanyahu's trial advised prosecutors to drop most of the charges against him.",
+          "refs": [
+            "f90822061d",
+            "9e37ab3842",
+            "c33f90708a"
+          ]
+        },
+        {
+          "text": "Netanyahu is charged with bribery, fraud and breach of trust and denies wrongdoing.",
+          "refs": [
+            "c33f90708a"
+          ]
+        },
+        {
+          "text": "Netanyahu said the trial must end immediately and that it \"tore the people apart.\"",
+          "refs": [
+            "9e37ab3842",
+            "0f1e2a2d2e"
+          ]
+        },
+        {
+          "text": "Government ministers called for the trial to be ended after the court's advice.",
+          "refs": [
+            "f90822061d"
+          ]
+        },
+        {
+          "text": "Netanyahu said the trial \"fell apart\" after judges urged prosecutors to rethink the bribery and fraud cases, Fox News reported.",
+          "refs": [
+            "01f779c381"
+          ]
+        },
+        {
+          "text": "The judges first suggested in June 2023 that prosecutors drop the bribery charge, the Times of Israel reported at the time.",
+          "refs": [
+            "world-w3"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "01f779c381",
+          "note": "Leads with Netanyahu's own claim that the trial has fallen apart."
+        },
+        {
+          "ref": "c33f90708a",
+          "note": "Describes a suggestion by judges about one key case, without declaring the trial over."
+        },
+        {
+          "ref": "9e37ab3842",
+          "note": "Pairs Netanyahu's demand with the court's advice and quotes his language about national division."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "f90822061d",
+          "takeaway": "Headline only: ministers demand the trial end after the court's advice.",
+          "read_full": false
+        },
+        {
+          "ref": "9e37ab3842",
+          "takeaway": "Headline only: Netanyahu's demand and his quote about division.",
+          "read_full": false
+        },
+        {
+          "ref": "0f1e2a2d2e",
+          "takeaway": "Headline only: Netanyahu calls the allegations fabricated.",
+          "read_full": false
+        },
+        {
+          "ref": "c33f90708a",
+          "takeaway": "Headline and summary only (paywalled): judges suggest dropping a key case; lists the charges.",
+          "read_full": false
+        },
+        {
+          "ref": "01f779c381",
+          "takeaway": "Summary: Netanyahu's reaction and the judges' urging on bribery and fraud.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w3",
+          "takeaway": "2023 report, via search results, that the judges had already suggested dropping bribery.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "eu-summit-budget-ukraine-loan",
+      "region": "Europe",
+      "importance": 3,
+      "headline": "EU leaders split over next budget and a new €45 billion loan for Ukraine",
+      "summary": "The European Union's 27 leaders met in Brussels on Thursday to negotiate the bloc's 2028-2034 budget and a proposed €45 billion loan to keep Ukraine funded through 2027. They disagreed over who should pay for the loan, with Germany pressing all members to contribute and some seeking exemptions. Several leaders said a budget deal was far off; talks were expected to run late and continue Friday.",
+      "why_it_matters": "The EU budget sets farm subsidies, regional aid and defense spending for 450 million people for seven years, and the loan helps decide whether Ukraine can keep paying for its defense and basic services next year.",
+      "background": "The EU agrees a long-term budget every seven years, and it needs the approval of all member governments, so talks usually drag on. Countries that pay in more than they get back, such as Germany and Denmark, want it kept smaller, while others defend farm and regional funds. Separately, the EU has become Ukraine's main financial backer; leaders agreed a €90 billion loan in December 2025 to cover much of 2026 and 2027. A summit in October ended without a budget deal.",
+      "facts": [
+        {
+          "text": "EU leaders met in Brussels to seek agreement on the bloc's 2028-2034 budget and a new loan for Ukraine.",
+          "refs": [
+            "28bc24488c",
+            "d743367f77",
+            "e021d0e4ec"
+          ]
+        },
+        {
+          "text": "The proposed loan is worth €45 billion and is meant to fund Ukraine through 2027.",
+          "refs": [
+            "e021d0e4ec",
+            "9950813daa"
+          ]
+        },
+        {
+          "text": "Germany is pressing member states to contribute to the loan, while others are seeking exemptions, France 24 reported.",
+          "refs": [
+            "9950813daa"
+          ]
+        },
+        {
+          "text": "Leaders were divided over who should pay for the Ukraine loan, Bloomberg reported.",
+          "refs": [
+            "c4d81e5b29"
+          ]
+        },
+        {
+          "text": "Danish Prime Minister Mette Frederiksen said leaders remain \"very far apart\" and agreed with German Chancellor Friedrich Merz that the current budget proposal will not work, the Guardian reported.",
+          "refs": [
+            "73460e6271"
+          ]
+        },
+        {
+          "text": "Italian Prime Minister Giorgia Meloni said leaders were \"light-years away\" from a budget agreement, according to the Guardian.",
+          "refs": [
+            "73460e6271"
+          ]
+        },
+        {
+          "text": "France's main goal is to prevent cuts to Common Agricultural Policy subsidies, France 24 reported.",
+          "refs": [
+            "fda5809f80"
+          ]
+        },
+        {
+          "text": "US tariffs and the choice of the next European Central Bank president are also on the agenda.",
+          "refs": [
+            "deb23f68cd",
+            "d743367f77"
+          ]
+        },
+        {
+          "text": "Estonian Prime Minister Kristen Michal said Ukraine faces a winter \"like hell\" and must know Europe will back it financially.",
+          "refs": [
+            "43ffe0d7f1"
+          ]
+        },
+        {
+          "text": "EU leaders agreed in December 2025 on a €90 billion loan to cover much of Ukraine's financing needs for 2026 and 2027.",
+          "refs": [
+            "world-w1"
+          ]
+        },
+        {
+          "text": "An EU summit in October ended without a deal on the budget.",
+          "refs": [
+            "world-w2"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "e021d0e4ec",
+          "note": "Treats Ukraine funding as the main fight and stresses deepening division."
+        },
+        {
+          "ref": "28bc24488c",
+          "note": "Presents the summit as an effort to bridge differences on both budget and loan."
+        },
+        {
+          "ref": "73460e6271",
+          "note": "Leads with Meloni's remark on how far apart leaders are on the budget."
+        },
+        {
+          "ref": "43ffe0d7f1",
+          "note": "Views the summit through support for Ukraine ahead of winter."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "28bc24488c",
+          "takeaway": "Headline only: AP curtain-raiser on budget and loan.",
+          "read_full": false
+        },
+        {
+          "ref": "6ebfaed191",
+          "takeaway": "AP wire summary: leaders seek to resolve major differences.",
+          "read_full": false
+        },
+        {
+          "ref": "e021d0e4ec",
+          "takeaway": "Summary: €45 billion loan proposal and deep divisions.",
+          "read_full": false
+        },
+        {
+          "ref": "9950813daa",
+          "takeaway": "Live page summary: Germany pressing others to contribute, some seeking exemption.",
+          "read_full": false
+        },
+        {
+          "ref": "d743367f77",
+          "takeaway": "Summary: 2028-2034 budget, Ukraine and ECB leadership on the agenda.",
+          "read_full": false
+        },
+        {
+          "ref": "c4d81e5b29",
+          "takeaway": "Headline and summary only (paywalled): split over who pays for the loan.",
+          "read_full": false
+        },
+        {
+          "ref": "deb23f68cd",
+          "takeaway": "Video summary only (paywalled): tariffs and ECB presidency also discussed.",
+          "read_full": false
+        },
+        {
+          "ref": "73460e6271",
+          "takeaway": "Live blog summary: quotes from Frederiksen and Meloni on the budget gap.",
+          "read_full": false
+        },
+        {
+          "ref": "fda5809f80",
+          "takeaway": "Summary: France's defense of farm subsidies.",
+          "read_full": false
+        },
+        {
+          "ref": "43ffe0d7f1",
+          "takeaway": "Summary: Estonian prime minister on backing Ukraine through winter.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w1",
+          "takeaway": "Background, via search results: the December 2025 loan agreement.",
+          "read_full": false
+        },
+        {
+          "ref": "world-w2",
+          "takeaway": "Background, via search results: October summit ended with no budget deal.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "china-shanghai-chen-jining-investigation",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "headline": "China puts Shanghai party chief Chen Jining under investigation",
+      "summary": "Chen Jining, the Communist Party secretary of Shanghai and a member of the 24-person Politburo, has been placed under investigation on suspicion of serious violations of party discipline and law, Chinese state media reported. He had been seen as a possible future national leader. Beijing is now weighing who will run the country's financial capital less than a year before a major party congress.",
+      "why_it_matters": "Shanghai is China's main financial hub, and the removal of one of the country's most senior officials shows how unsettled the top of the world's second-largest economy is before next year's leadership reshuffle.",
+      "background": "President Xi Jinping has run an anti-corruption campaign since taking power in 2012 that has removed large numbers of officials, including senior generals and party leaders. The Politburo is the party's top decision-making body, and the Shanghai post has often been a stepping stone to the very top. In China, an announcement that an official is under investigation for discipline violations almost always ends in removal and prosecution. The party holds its 21st congress in 2027, when top posts are reassigned.",
+      "facts": [
+        {
+          "text": "Chen Jining, Shanghai's party secretary and a Politburo member, was placed under investigation on suspicion of serious violations of discipline and law.",
+          "refs": [
+            "5625be6920",
+            "4e85b765ac",
+            "b6ad2a167d"
+          ]
+        },
+        {
+          "text": "Chen had been seen as a potential future leader, the Wall Street Journal reported.",
+          "refs": [
+            "5625be6920"
+          ]
+        },
+        {
+          "text": "Chen is the fourth Politburo member brought down in the anti-corruption drive ahead of next year's leadership reshuffle, the South China Morning Post reported.",
+          "refs": [
+            "b6ad2a167d"
+          ]
+        },
+        {
+          "text": "China's anti-corruption agency has detained 61 senior civilian officials so far this year, including two sitting Politburo members, according to a South China Morning Post tally.",
+          "refs": [
+            "caa239a118"
+          ]
+        },
+        {
+          "text": "The move breaks decades of precedent and leaves the Shanghai post open less than a year before the party's 21st congress, the South China Morning Post reported.",
+          "refs": [
+            "5f24bd50d0"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "5625be6920",
+          "note": "Says China 'takes down' an official once seen as a potential leader."
+        },
+        {
+          "ref": "4e85b765ac",
+          "note": "Uses the neutral verb 'investigates' and places it in Xi's long-running campaign."
+        },
+        {
+          "ref": "dcbe2ee0e8",
+          "note": "Looks ahead to what the fall means for the 2027 leadership changes."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "5625be6920",
+          "takeaway": "Headline and summary only (paywalled): investigation and Chen's standing as a possible leader.",
+          "read_full": false
+        },
+        {
+          "ref": "4e85b765ac",
+          "takeaway": "Summary: latest senior official targeted in Xi's anti-corruption campaign.",
+          "read_full": false
+        },
+        {
+          "ref": "dcbe2ee0e8",
+          "takeaway": "Headline only (paywalled): effect on the 2027 leadership reset.",
+          "read_full": false
+        },
+        {
+          "ref": "b6ad2a167d",
+          "takeaway": "Summary only (paywalled): fourth Politburo member to fall; cites state broadcaster.",
+          "read_full": false
+        },
+        {
+          "ref": "caa239a118",
+          "takeaway": "Summary only (paywalled): tally of 61 senior officials this year.",
+          "read_full": false
+        },
+        {
+          "ref": "5f24bd50d0",
+          "takeaway": "Summary only (paywalled): how Beijing may choose a successor.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "colombia-cartagena-supermarket-siege",
+      "region": "Americas",
+      "importance": 3,
+      "headline": "Colombian forces end day-long supermarket hostage siege in Cartagena",
+      "summary": "Security forces stormed a supermarket in the Colombian tourist city of Cartagena on Wednesday, ending a siege that lasted about a day. President Abelardo de la Espriella said all the hostages were rescued and one captor was killed. Authorities said the gunmen had run into the store on Tuesday after failing to rob an armored truck.",
+      "why_it_matters": "Cartagena is one of Latin America's most visited cities, and the siege is an early public test of how Colombia's new president handles violent crime. In this digest it was covered mostly by left-leaning US and UK outlets, with one right-leaning outlet.",
+      "background": "Cartagena is a port city on Colombia's Caribbean coast and a major stop for cruise ships and foreign tourists. Colombia has struggled for decades with armed groups and organized crime, though this incident was described by the president as the work of ordinary criminals. De la Espriella, a lawyer who campaigned on a hard line against crime, took office this year. He travelled to the scene and took charge of the operation himself.",
+      "facts": [
+        {
+          "text": "Armed men took hostages inside a supermarket in Cartagena on Tuesday after what authorities said was a failed attempt to rob an armored truck.",
+          "refs": [
+            "c8f5d5de08",
+            "4c7a0cf24a"
+          ]
+        },
+        {
+          "text": "President Abelardo de la Espriella called the gunmen \"common criminals.\"",
+          "refs": [
+            "4c7a0cf24a"
+          ]
+        },
+        {
+          "text": "De la Espriella went to the scene to take control of the operation, the Guardian reported.",
+          "refs": [
+            "96bc434107"
+          ]
+        },
+        {
+          "text": "Security forces stormed the supermarket and all hostages were rescued, authorities said.",
+          "refs": [
+            "c9c1f8442d",
+            "f56e68b0d9",
+            "51474f06b5"
+          ]
+        },
+        {
+          "text": "The president said one captor was killed.",
+          "refs": [
+            "c9c1f8442d"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "How many people were held",
+          "positions": [
+            {
+              "claim": "At least 20 hostages.",
+              "refs": [
+                "96bc434107"
+              ]
+            },
+            {
+              "claim": "Around two dozen.",
+              "refs": [
+                "c8f5d5de08"
+              ]
+            },
+            {
+              "claim": "Dozens of customers.",
+              "refs": [
+                "e9f762aabd",
+                "6c7cafea4f"
+              ]
+            }
+          ]
+        },
+        {
+          "topic": "Who the person killed was",
+          "positions": [
+            {
+              "claim": "One of the captors, according to the president.",
+              "refs": [
+                "c9c1f8442d"
+              ]
+            },
+            {
+              "claim": "It is unclear whether the man killed was a hostage-taker or a hostage, the Guardian reported.",
+              "refs": [
+                "51474f06b5"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "51474f06b5",
+          "note": "Reports the rescue but raises doubt over the identity of the man killed."
+        },
+        {
+          "ref": "6c7cafea4f",
+          "note": "Stresses armed gunmen and the tourist setting, published after the siege had ended."
+        },
+        {
+          "ref": "f56e68b0d9",
+          "note": "Straight outcome: all hostages rescued."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "c8f5d5de08",
+          "takeaway": "Video summary: around two dozen held after a botched armored truck robbery.",
+          "read_full": false
+        },
+        {
+          "ref": "4c7a0cf24a",
+          "takeaway": "Summary: president calls the gunmen common criminals.",
+          "read_full": false
+        },
+        {
+          "ref": "96bc434107",
+          "takeaway": "Summary: president arrives to lead the operation; at least 20 hostages.",
+          "read_full": false
+        },
+        {
+          "ref": "c9c1f8442d",
+          "takeaway": "Summary: forces storm the store; president says all rescued, one captor killed.",
+          "read_full": false
+        },
+        {
+          "ref": "51474f06b5",
+          "takeaway": "Summary: siege over, but unclear whether the man killed was a captor.",
+          "read_full": false
+        },
+        {
+          "ref": "f56e68b0d9",
+          "takeaway": "Headline only: all hostages rescued.",
+          "read_full": false
+        },
+        {
+          "ref": "a67cfcb5b4",
+          "takeaway": "Headline only: hostages freed.",
+          "read_full": false
+        },
+        {
+          "ref": "6c7cafea4f",
+          "takeaway": "Headline and one-line summary: dozens taken hostage; all rescued.",
+          "read_full": false
+        },
+        {
+          "ref": "e9f762aabd",
+          "takeaway": "Video summary: dozens of customers taken hostage.",
+          "read_full": false
+        },
+        {
+          "ref": "eff67abb62",
+          "takeaway": "Headline only (paywalled): AP story.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "indonesia-illegal-gold-mine-flood",
+      "region": "Asia-Pacific",
+      "importance": 2,
+      "headline": "13 dead and 13 missing after flood in illegal Indonesian gold mine",
+      "summary": "Thirteen miners are confirmed dead and another 13 are missing after heavy rain flooded an unauthorized gold mine in Indonesia's West Java province on Monday, authorities said. Rescuers are working in high water, darkness and narrow passages, and continued rain is slowing the search.",
+      "why_it_matters": "Unlicensed mines operate across Indonesia with little safety equipment or oversight, and accidents like this are a recurring cost of an informal gold trade that many poor communities rely on.",
+      "background": "Indonesia has large mineral deposits, and small unlicensed mines are common, often dug by hand by local workers. These sites are prone to floods, landslides and tunnel collapses, especially in the rainy season, which runs from roughly November to March. In this case workers were inside a narrow shaft about 100 meters deep when it flooded. Indonesia's search and rescue agency is leading the operation.",
+      "facts": [
+        {
+          "text": "Miners have been trapped since Monday, November 23, after heavy rain flooded the mine, which is about 100 meters deep, the rescue agency said.",
+          "refs": [
+            "95b0d5ee7f",
+            "6bfa42338f"
+          ]
+        },
+        {
+          "text": "The mine is an unauthorized gold mine in West Java province.",
+          "refs": [
+            "ddfbbda499",
+            "44fd79eff3"
+          ]
+        },
+        {
+          "text": "Thirteen people are confirmed dead and 13 are missing or believed trapped.",
+          "refs": [
+            "44fd79eff3",
+            "6bfa42338f",
+            "4a82856e1c"
+          ]
+        },
+        {
+          "text": "Heavy rain is hampering the rescue, the agency said.",
+          "refs": [
+            "4a82856e1c"
+          ]
+        },
+        {
+          "text": "Rescuers face high water, darkness and slippery, narrow terrain.",
+          "refs": [
+            "989923b5dd"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "44fd79eff3",
+          "note": "Uses the deaths to point to the wider problem of illegal gold mining."
+        },
+        {
+          "ref": "989923b5dd",
+          "note": "Focuses on the conditions rescuers are working in."
+        },
+        {
+          "ref": "4a82856e1c",
+          "note": "Focuses on the weather slowing the search for those still inside."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "95b0d5ee7f",
+          "takeaway": "Reuters reprint; summary gives the mine's depth and the date miners became trapped.",
+          "read_full": false
+        },
+        {
+          "ref": "ddfbbda499",
+          "takeaway": "AP wire summary from Wednesday, with earlier, lower casualty figures.",
+          "read_full": false
+        },
+        {
+          "ref": "543433151e",
+          "takeaway": "Headline only: earlier toll of 9 dead and 17 believed trapped.",
+          "read_full": false
+        },
+        {
+          "ref": "4a82856e1c",
+          "takeaway": "Headline only: rain hampers rescue of 13 trapped.",
+          "read_full": false
+        },
+        {
+          "ref": "6bfa42338f",
+          "takeaway": "Headline and summary only (paywalled): 13 dead, 13 thought trapped after the shaft flooded.",
+          "read_full": false
+        },
+        {
+          "ref": "44fd79eff3",
+          "takeaway": "Summary: 13 dead, 13 missing; ties it to illegal gold mining.",
+          "read_full": false
+        },
+        {
+          "ref": "989923b5dd",
+          "takeaway": "AP wire summary: rescue conditions inside the mine.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "world-w1",
+      "url": "https://kyivindependent.com/eu-leaders-agree-on-105-billion-loan-to-secure-ukraines-financing-through-2027",
+      "title": "EU leaders agree on $105 billion loan to secure Ukraine's financing through 2027",
+      "outlet": "The Kyiv Independent"
+    },
+    {
+      "id": "world-w2",
+      "url": "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit",
+      "title": "Budget, Ukraine, migration: five takeaways from the EU leaders' summit",
+      "outlet": "Euronews"
+    },
+    {
+      "id": "world-w3",
+      "url": "https://www.timesofisrael.com/judges-in-netanyahu-trial-confirm-suggesting-prosecution-drop-bribery-charge/amp/",
+      "title": "Judges in Netanyahu trial confirm suggesting prosecution drop bribery charge",
+      "outlet": "The Times of Israel"
+    },
+    {
+      "id": "world-w4",
+      "url": "https://wtop.com/russia-ukraine-war-news/2026/04/ukrainian-forces-operating-in-libya-have-attacked-a-russian-tanker-officials-say/",
+      "title": "Ukrainian forces operating in Libya have attacked a Russian tanker, officials say",
+      "outlet": "Associated Press (via WTOP)"
+    }
+  ]
+}
