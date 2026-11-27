@@ -1,0 +1,77 @@
+{
+  "overview": "A powerful nor'easter hit the East Coast on Thanksgiving, knocking out power to hundreds of thousands, delaying thousands of flights and pushing Macy's centennial parade to Saturday. In Washington, President Trump called recent GDP figures \"fake\" and demanded an investigation of the Commerce Department, while a federal judge blocked the FCC's early review of ABC's station licenses. Abroad, a drone attack that officials attributed to Iran killed two Italian contractors in Kuwait, though Iran denied involvement, and New Zealand's ruling coalition fell short of a majority in final election results. Markets are still digesting Jensen Huang's return as Nvidia's chief executive, which has whipsawed tech stocks around the world.",
+  "markets": {
+    "summary": "U.S. stock markets were closed Thursday for Thanksgiving and reopen Friday for a shortened session that ends at 1 p.m. Eastern. Overseas, stocks rose and tech shares rebounded after a volatile U.S. session Wednesday, when Nvidia's swings dragged the Nasdaq around; the Nasdaq is down nearly 10% over the past month on worries about whether the AI boom can last. Oil prices have risen for several days on attacks against Gulf shipping and energy sites, but are still far below where they were a month ago. The 30-year mortgage rate dipped to 7.21%, a small relief for homebuyers, while the 10-year Treasury yield it tracks stays near 4.9%.",
+    "movers": [
+      {
+        "symbol": "NASDAQCOM",
+        "why": "The tech-heavy index fell 0.6% on Wednesday and is down almost 10% in a month, as Nvidia's leadership turmoil and doubts about AI spending hit chip stocks hardest."
+      },
+      {
+        "symbol": "DCOILBRENTEU",
+        "why": "Brent crude has climbed for several days as attacks on Gulf tankers and Saudi energy infrastructure raised supply worries, though it remains about 28% below its level a month ago."
+      },
+      {
+        "symbol": "MORTGAGE30US",
+        "why": "The average 30-year mortgage rate fell 7 basis points to 7.21% in Freddie Mac's weekly survey, following a slight drop in long-term Treasury yields."
+      },
+      {
+        "symbol": "CBBTCUSD",
+        "why": "Bitcoin held near $60,700 but is down about 25% over the past month, moving with the broader retreat from riskier tech assets; no single cause stands out."
+      }
+    ],
+    "concept": {
+      "term": "Key-person risk",
+      "explanation": "Key-person risk is the danger that a company's value depends heavily on one individual, usually a founder or chief executive, so that their departure, illness or scandal can knock down the stock. Investors price it in when a leader is seen as hard to replace, and it moves sharply on news about that person, as Nvidia's swings around Jensen Huang's exit and return showed. It reaches your wallet because giant companies like Nvidia make up a large share of index funds held in 401(k)s and IRAs, so one person's fortunes can move many people's retirement balances."
+    },
+    "watch": [
+      "Fri Nov 27: U.S. stock markets close early at 1 p.m. ET for Black Friday",
+      "Mon Nov 30: Cyber Monday, a read on holiday consumer spending",
+      "Tue Dec 1: ISM manufacturing survey for November",
+      "Fri Dec 4: November jobs report from the Bureau of Labor Statistics",
+      "Wed Dec 9: Federal Reserve interest-rate decision, where markets expect an increase"
+    ]
+  },
+  "trending": [
+    {
+      "title": "Macy's parade postponed to Saturday",
+      "context": "The storm forced organizers to delay the 100th Macy's Thanksgiving Day Parade, a rare change that drew wide discussion on Bluesky.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Jensen Huang",
+      "context": "Nvidia reinstated Huang as chief executive after a scandal over an alleged Chinese spy and extramarital affairs, a reversal that has moved global tech stocks.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "Vance blames Obama for detonation",
+      "context": "Vice President JD Vance's remarks about the Army's controlled blast of explosive chemicals in Iowa drew thousands of posts on Bluesky.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "2025 Africa Cup of Nations final",
+      "context": "The Court of Arbitration for Sport restored Senegal as the winner, overturning African football's governing body's decision to award the title to Morocco.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "Black Friday deals",
+      "context": "Shoppers searched for Black Friday sales at Walmart, TJ Maxx and Academy, with Pokémon products at Walmart drawing particular interest.",
+      "signal": "google"
+    },
+    {
+      "title": "BepiColombo",
+      "context": "The joint European and Japanese spacecraft entered orbit around Mercury after a years-long journey.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "Riemann hypothesis",
+      "context": "Mathematician Levent Alpöge announced a formal proof of the famous unsolved problem, saying he worked with the AI model Claude; the claim has not yet been independently verified.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "Grand Theft Auto VI",
+      "context": "The long-awaited video game drew heavy traffic on both Wikipedia and Bluesky.",
+      "signal": "wikipedia"
+    }
+  ]
+}

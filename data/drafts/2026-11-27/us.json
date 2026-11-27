@@ -1,0 +1,796 @@
+{
+  "stories": [
+    {
+      "id": "thanksgiving-storm-outages",
+      "headline": "Thanksgiving storm cuts power to hundreds of thousands and postpones Macy's parade",
+      "region": "",
+      "importance": 5,
+      "summary": "A powerful storm brought heavy rain, high winds and coastal flooding to the East Coast on Thanksgiving, knocking out power to hundreds of thousands of customers and disrupting holiday travel. Macy's postponed its 100th Thanksgiving Day Parade in New York to Saturday, the first weather postponement in its history. Conditions were expected to improve gradually on Friday, though Pennsylvania and nearby states were still badly affected.",
+      "why_it_matters": "Anyone traveling home after the holiday on the East Coast may still face delays and outages, and people in the hardest-hit states may be without power for some time.",
+      "background": "Late-November storms often collide with the busiest travel days of the year. This one hit the Eastern Seaboard from Virginia to New York with wind, rain and king tides, while the West Coast also saw rough weather. The Macy's parade, a New York tradition since 1924, depends on giant helium balloons that cannot fly safely in strong winds. Utilities across several states were working to restore service as the storm moved off on Friday.",
+      "facts": [
+        {
+          "text": "Heavy winds and rain left more than 730,000 customers without power on Thursday evening, and roughly 2,100 flights had been delayed, according to the Wall Street Journal.",
+          "refs": [
+            "8a6c5f9c15"
+          ]
+        },
+        {
+          "text": "By Friday morning hundreds of thousands were still without power, with Pennsylvania and neighboring states hit hardest.",
+          "refs": [
+            "d0f3f33fd3",
+            "e5ba00fba1"
+          ]
+        },
+        {
+          "text": "The storm brought torrential rain, high winds and flooding to parts of the East Coast from Virginia to New York.",
+          "refs": [
+            "1790647474",
+            "7846d48857"
+          ]
+        },
+        {
+          "text": "King tides and large waves battered both the East and West coasts over the holiday period.",
+          "refs": [
+            "7a834e81d4",
+            "e5ba00fba1"
+          ]
+        },
+        {
+          "text": "Macy's said Wednesday it was postponing the Thanksgiving Day Parade because of the weather, the first time in its history the parade has been postponed.",
+          "refs": [
+            "a1d0cb05b1",
+            "1f7ca35e31"
+          ]
+        },
+        {
+          "text": "The parade was moved to Saturday; a Hawaii all-star band and hula group said the delay would cost them about $700,000.",
+          "refs": [
+            "3a3e7a186c"
+          ]
+        },
+        {
+          "text": "The parade has been canceled outright only three times, Fox News reported.",
+          "refs": [
+            "30726e4417"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "How many customers lost power",
+          "positions": [
+            {
+              "claim": "More than 730,000, per the Wall Street Journal on Thursday evening.",
+              "refs": [
+                "8a6c5f9c15"
+              ]
+            },
+            {
+              "claim": "Nearly a million, per France 24.",
+              "refs": [
+                "ecf467b40a"
+              ]
+            },
+            {
+              "claim": "About half a million on the East Coast, per the New York Times on Friday morning.",
+              "refs": [
+                "7846d48857"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "ecf467b40a",
+          "note": "Leads with the largest outage figure, 'almost a million' Americans."
+        },
+        {
+          "ref": "8a6c5f9c15",
+          "note": "Frames the storm around scrambled Thanksgiving plans and travel."
+        },
+        {
+          "ref": "30726e4417",
+          "note": "Turns the parade postponement into a history question about past cancellations."
+        },
+        {
+          "ref": "3a3e7a186c",
+          "note": "Focuses on the financial cost of the delay to one visiting band."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "8a6c5f9c15",
+          "takeaway": "Headline and summary only (paywalled): outage and flight-delay numbers.",
+          "read_full": false
+        },
+        {
+          "ref": "e5ba00fba1",
+          "takeaway": "Summary: national view of storms on both coasts and lingering outages.",
+          "read_full": false
+        },
+        {
+          "ref": "1790647474",
+          "takeaway": "Summary: flooding and outages along the East Coast.",
+          "read_full": false
+        },
+        {
+          "ref": "ecf467b40a",
+          "takeaway": "Summary: highest outage count, ties in the parade postponement.",
+          "read_full": false
+        },
+        {
+          "ref": "d0f3f33fd3",
+          "takeaway": "Summary: Friday update stressing Pennsylvania's outages.",
+          "read_full": false
+        },
+        {
+          "ref": "7846d48857",
+          "takeaway": "Headline and summary only (paywalled): half a million out, improvement expected Friday.",
+          "read_full": false
+        },
+        {
+          "ref": "7a834e81d4",
+          "takeaway": "Summary: emphasizes king tides and coastal flooding.",
+          "read_full": false
+        },
+        {
+          "ref": "1f7ca35e31",
+          "takeaway": "Headline and summary only (paywalled): wire-style roundup including the parade.",
+          "read_full": false
+        },
+        {
+          "ref": "a1d0cb05b1",
+          "takeaway": "Summary: Macy's announcement of the first-ever weather postponement.",
+          "read_full": false
+        },
+        {
+          "ref": "3a3e7a186c",
+          "takeaway": "Summary: cost of the delay for a Hawaii band.",
+          "read_full": false
+        },
+        {
+          "ref": "30726e4417",
+          "takeaway": "Summary: history of parade cancellations.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "iowa-lead-azide-detonation",
+      "headline": "EPA says no airborne lead detected after Army blows up explosive stockpile in Iowa",
+      "region": "",
+      "importance": 4,
+      "summary": "The Army detonated the nation's entire stockpile of lead azide, a chemical used to make explosives, at the Iowa Army Ammunition Plant near Middletown on Wednesday. The EPA said its air monitors detected no airborne lead the next day, and lab results from samples at more than 130 nearby buildings could come as soon as Friday. Some residents remain worried, and the New York Times reported evidence that the Army knew of the risk much earlier.",
+      "why_it_matters": "Lead exposure is especially harmful to children, so the pending test results determine whether families near the plant need cleanup of homes, schools and farms.",
+      "background": "Lead azide is a highly sensitive compound used in detonators. The Army said its stored supply at the Iowa plant had degraded and become unstable, creating a risk of an uncontrolled explosion, so the EPA issued an emergency permit for a controlled blast that requires the Army to sample before and after, clean up contamination and report results. Before the blast, independent experts questioned the Army's modeling of how far lead dust could travel. The EPA is led by Administrator Lee Zeldin.",
+      "facts": [
+        {
+          "text": "The Army blew up the country's entire stockpile of lead azide in a controlled detonation in Iowa on Wednesday and said first checks showed it did not spread toxic dust to nearby homes and farms.",
+          "refs": [
+            "57f0a9ed9f",
+            "f1f5d0dd1d"
+          ]
+        },
+        {
+          "text": "The detonation involved about five tons of lead azide at the Iowa Army Ammunition Plant in Middletown.",
+          "refs": [
+            "55b75b512e",
+            "65937dd9ca"
+          ]
+        },
+        {
+          "text": "EPA Administrator Lee Zeldin said Thursday the agency's air monitors detected no airborne lead, while the agency awaits laboratory results from environmental samples.",
+          "refs": [
+            "abfa18c13c",
+            "55b75b512e"
+          ]
+        },
+        {
+          "text": "The EPA said it sampled more than 130 structures, including homes, schools, daycare centers and churches, and that results could arrive Friday.",
+          "refs": [
+            "6db2d3367a",
+            "79f34b1cb9"
+          ]
+        },
+        {
+          "text": "The White House called the detonation a success and said there was no health impact.",
+          "refs": [
+            "2b8ec3bee6"
+          ]
+        },
+        {
+          "text": "The New York Times reported that efforts to dispose of the unstable explosives began more than a year ago but were not completed.",
+          "refs": [
+            "d16b65efbb"
+          ]
+        },
+        {
+          "text": "The EPA's emergency permit requires the Army to notify nearby communities, sample before and after the blast, clean up contaminated areas and report findings.",
+          "refs": [
+            "us-w1"
+          ]
+        },
+        {
+          "text": "Before the blast, The Intercept reported that experts found the Army's dispersion modeling incomplete and that it showed lead particles could reach as far as Maquoketa.",
+          "refs": [
+            "us-w2"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "55b75b512e",
+          "note": "Leads with the EPA's 'zero detection' quote, emphasizing the all-clear."
+        },
+        {
+          "ref": "d16b65efbb",
+          "note": "Focuses on what the Army knew and when, framing the blast as avoidable."
+        },
+        {
+          "ref": "57f0a9ed9f",
+          "note": "Centers residents' lingering fears over the holiday."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "57f0a9ed9f",
+          "takeaway": "Summary: Army's account plus residents' worries.",
+          "read_full": false
+        },
+        {
+          "ref": "f1f5d0dd1d",
+          "takeaway": "Summary: Army calls the blast a success after fears of a toxic plume.",
+          "read_full": false
+        },
+        {
+          "ref": "abfa18c13c",
+          "takeaway": "Summary: Zeldin's no-airborne-lead finding, lab results pending.",
+          "read_full": false
+        },
+        {
+          "ref": "55b75b512e",
+          "takeaway": "Summary: highlights EPA's zero-detection finding.",
+          "read_full": false
+        },
+        {
+          "ref": "65937dd9ca",
+          "takeaway": "Summary: brief news-wrap item on the EPA finding.",
+          "read_full": false
+        },
+        {
+          "ref": "6db2d3367a",
+          "takeaway": "Summary: scope of sampling at more than 130 structures.",
+          "read_full": false
+        },
+        {
+          "ref": "79f34b1cb9",
+          "takeaway": "Headline only: AP wire on results expected soon.",
+          "read_full": false
+        },
+        {
+          "ref": "2b8ec3bee6",
+          "takeaway": "Summary: White House defends the detonation.",
+          "read_full": false
+        },
+        {
+          "ref": "d16b65efbb",
+          "takeaway": "Headline and summary only (paywalled): evidence the Army knew of the risk earlier.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-gdp-fake-probe",
+      "headline": "Trump calls pre-election GDP figures 'fake' and demands Commerce Department probe",
+      "region": "White House",
+      "importance": 4,
+      "summary": "In a Thanksgiving social media post, President Trump said economic growth figures released before this month's midterm elections were wrong and demanded an investigation of his own Commerce Department. His complaint followed an upward revision of third-quarter growth to a 4.3% annual rate. News outlets noted that he offered no evidence and that GDP revisions are routine.",
+      "why_it_matters": "Government statistics guide interest rates, wages and retirement plans; a president questioning his own agency's numbers raises concerns about whether the public will trust that data.",
+      "background": "Gross domestic product measures the total output of the economy, and the Commerce Department's Bureau of Economic Analysis publishes early estimates that it later revises as fuller data arrives. Republicans suffered heavy losses in the Nov. 3 midterm elections, which Democrats won broadly. Trump has previously attacked government statistics he disliked, including firing the head of the Bureau of Labor Statistics in 2025 after a weak jobs report.",
+      "facts": [
+        {
+          "text": "Trump on Thursday accused the Commerce Department of purposely issuing incorrect growth figures before the midterm elections and said he wants an investigation.",
+          "refs": [
+            "f91f07351b",
+            "9904824137"
+          ]
+        },
+        {
+          "text": "The complaint came after third-quarter GDP growth was revised up to 4.3%.",
+          "refs": [
+            "84d5175cbd"
+          ]
+        },
+        {
+          "text": "Trump called the revision a 'record setting error' that should be 'immediately investigated.'",
+          "refs": [
+            "0b6e4500df"
+          ]
+        },
+        {
+          "text": "Trump offered no evidence for the claim, and GDP revisions are routine and reflect more complete information.",
+          "refs": [
+            "c833a0de21",
+            "8ee8c54a6d",
+            "4e1c3f7866"
+          ]
+        },
+        {
+          "text": "The midterm elections were very bad for Republicans, with Democrats unseating many GOP incumbents.",
+          "refs": [
+            "8ee8c54a6d",
+            "ff7155d1aa"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "84d5175cbd",
+          "note": "Pairs the demand with the strong 4.3% growth number in the headline."
+        },
+        {
+          "ref": "ff7155d1aa",
+          "note": "Puts 'doesn't provide evidence' in the headline."
+        },
+        {
+          "ref": "b961344ef7",
+          "note": "Plain wire framing tied to the midterms timing."
+        },
+        {
+          "ref": "0b6e4500df",
+          "note": "Emphasizes the size of the revision, using Trump's 'record setting error' phrase."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "b961344ef7",
+          "takeaway": "Headline only: Reuters wire on the demand for a probe.",
+          "read_full": false
+        },
+        {
+          "ref": "c833a0de21",
+          "takeaway": "Summary: notes revisions are routine and the claim lacked evidence.",
+          "read_full": false
+        },
+        {
+          "ref": "f91f07351b",
+          "takeaway": "Summary: AP wire account of the accusation.",
+          "read_full": false
+        },
+        {
+          "ref": "9904824137",
+          "takeaway": "Headline only: AP original.",
+          "read_full": false
+        },
+        {
+          "ref": "84d5175cbd",
+          "takeaway": "Headline only: links the demand to the 4.3% revision.",
+          "read_full": false
+        },
+        {
+          "ref": "8ee8c54a6d",
+          "takeaway": "Summary: AP wire, stresses no evidence and GOP midterm losses.",
+          "read_full": false
+        },
+        {
+          "ref": "ff7155d1aa",
+          "takeaway": "Summary: ties the post to the Democratic midterm wave.",
+          "read_full": false
+        },
+        {
+          "ref": "0b6e4500df",
+          "takeaway": "Summary: market-focused, quotes Trump on the revision.",
+          "read_full": false
+        },
+        {
+          "ref": "4e1c3f7866",
+          "takeaway": "Summary: notes such revisions happen routinely.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "judge-blocks-fcc-abc-review",
+      "headline": "Judge blocks FCC's early review of ABC station licenses on free-speech grounds",
+      "region": "Courts",
+      "importance": 4,
+      "summary": "A federal judge on Wednesday blocked the Federal Communications Commission from moving ahead with an unusually early review of broadcast licenses held by Disney-owned ABC stations. Judge Loren AliKhan agreed with the network that the review was chilling its free-speech rights. ABC had sued in August, calling the review a Trump administration attack on speech it did not like.",
+      "why_it_matters": "The ruling limits, for now, how far federal regulators can use licensing power over TV stations in response to their programming, which affects what news and comedy viewers see.",
+      "background": "Local TV stations need FCC licenses that are normally renewed on a fixed schedule. Under Chairman Brendan Carr, the FCC ordered ABC's owned stations to seek renewal years early, which Disney argued was retaliation for content the president disliked. The FCC said it was looking at other issues, including Disney's employment practices, and argued the case belonged in an appeals court. The judge heard arguments in October before ruling this week.",
+      "facts": [
+        {
+          "text": "A federal judge on Wednesday blocked the FCC from conducting an early review of ABC's broadcast licenses, agreeing with the network that the administration was chilling its free speech rights.",
+          "refs": [
+            "b56013a1ac",
+            "6c2d7ac13e"
+          ]
+        },
+        {
+          "text": "Judge Loren L. AliKhan granted the order after ABC sued the FCC in August.",
+          "refs": [
+            "9be8efb137"
+          ]
+        },
+        {
+          "text": "NPR reported the judge found the FCC violated ABC's free-speech rights and could not punish the network for satire Trump does not like.",
+          "refs": [
+            "e972052d7b",
+            "71f585ef04"
+          ]
+        },
+        {
+          "text": "Disney called the review an attack on free speech by the Trump administration.",
+          "refs": [
+            "68b09aa4ed",
+            "0644631985"
+          ]
+        },
+        {
+          "text": "The FCC argued at an October hearing that the suit should have been filed in a federal appeals court.",
+          "refs": [
+            "us-w3"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "What kind of order the judge issued",
+          "positions": [
+            {
+              "claim": "A temporary restraining order.",
+              "refs": [
+                "68b09aa4ed"
+              ]
+            },
+            {
+              "claim": "A preliminary injunction.",
+              "refs": [
+                "9be8efb137",
+                "b54d1d2bde"
+              ]
+            }
+          ]
+        },
+        {
+          "topic": "How many markets the affected stations cover",
+          "positions": [
+            {
+              "claim": "Six of the largest U.S. markets, per NPR.",
+              "refs": [
+                "e972052d7b"
+              ]
+            },
+            {
+              "claim": "Eight cities, including New York, Los Angeles and Chicago, per the New York Times.",
+              "refs": [
+                "b54d1d2bde"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "e972052d7b",
+          "note": "Headline states the FCC acted 'to please Trump', foregrounding motive."
+        },
+        {
+          "ref": "0644631985",
+          "note": "Business framing around Disney and the renewal process, 'for now'."
+        },
+        {
+          "ref": "e27de1eeed",
+          "note": "Runs the AP wire headline, which attributes the chilling-effect claim to the network."
+        },
+        {
+          "ref": "9be8efb137",
+          "note": "Names Brendan Carr in the headline, centering the FCC chair."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "68b09aa4ed",
+          "takeaway": "Summary: describes the order as a temporary restraining order.",
+          "read_full": false
+        },
+        {
+          "ref": "9be8efb137",
+          "takeaway": "Summary: names the judge and calls it a preliminary injunction.",
+          "read_full": false
+        },
+        {
+          "ref": "6c2d7ac13e",
+          "takeaway": "Summary: straight account with ABC's free-speech argument.",
+          "read_full": false
+        },
+        {
+          "ref": "0644631985",
+          "takeaway": "Summary: business angle, quotes a 'victory for the First Amendment'.",
+          "read_full": false
+        },
+        {
+          "ref": "e972052d7b",
+          "takeaway": "Summary: emphasizes the judge's free-speech finding.",
+          "read_full": false
+        },
+        {
+          "ref": "71f585ef04",
+          "takeaway": "Summary: newsletter item on the satire angle.",
+          "read_full": false
+        },
+        {
+          "ref": "b56013a1ac",
+          "takeaway": "Summary: AP wire account of the ruling.",
+          "read_full": false
+        },
+        {
+          "ref": "e27de1eeed",
+          "takeaway": "Headline only: AP wire reprint.",
+          "read_full": false
+        },
+        {
+          "ref": "b54d1d2bde",
+          "takeaway": "Headline and summary only (paywalled): eight cities affected.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-new-tariffs-14-partners",
+      "headline": "China and other trading partners push back on Trump's new tariff plans",
+      "region": "White House",
+      "importance": 3,
+      "summary": "The Trump administration proposed new tariffs on 14 trading partners, including China and the European Union. China said it reserves the right to take 'necessary measures', Brazil said it would not yield, and Japan also protested. The plan signals renewed pressure on China and on Asian economies that trade with both powers.",
+      "why_it_matters": "New tariffs are usually passed on at least partly to shoppers and businesses, so they could raise prices on imported goods and invite retaliation against U.S. exporters.",
+      "background": "Tariffs are taxes on imported goods, paid by the importing company. Trump has used them throughout his second term to pressure trading partners, sometimes announcing rates and later delaying or negotiating them down. This latest round targets many of America's biggest partners at once. Beijing, Brussels and Brasília have all clashed with Washington over trade before.",
+      "facts": [
+        {
+          "text": "The U.S. announced plans for new tariffs that would hit many of its biggest trading partners, including China and the EU.",
+          "refs": [
+            "7940036035",
+            "27d0f525dd"
+          ]
+        },
+        {
+          "text": "The proposal covers 14 trading partners.",
+          "refs": [
+            "27d0f525dd",
+            "65937dd9ca"
+          ]
+        },
+        {
+          "text": "Beijing said the levies amount to 'political manipulation' and that it reserves the right to take 'necessary measures'; Brazil said it 'will not yield to this type of threat.'",
+          "refs": [
+            "27d0f525dd"
+          ]
+        },
+        {
+          "text": "China, Japan and other trading partners protested the planned tariff increases.",
+          "refs": [
+            "5c7f42202e",
+            "d864ff56fa"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "How many countries are targeted",
+          "positions": [
+            {
+              "claim": "14 trading partners including China and the EU.",
+              "refs": [
+                "27d0f525dd",
+                "65937dd9ca"
+              ]
+            },
+            {
+              "claim": "11 countries plus the EU and China.",
+              "refs": [
+                "2b8ec3bee6"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "a2f8f08b11",
+          "note": "Frames the tariffs as a renewed focus on pressuring China."
+        },
+        {
+          "ref": "d864ff56fa",
+          "note": "Leads with foreign governments hitting back."
+        },
+        {
+          "ref": "7940036035",
+          "note": "Neutral announcement framing centered on who is hit."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "7940036035",
+          "takeaway": "Summary: announcement of the tariffs and their targets.",
+          "read_full": false
+        },
+        {
+          "ref": "27d0f525dd",
+          "takeaway": "Summary: reactions from China and Brazil.",
+          "read_full": false
+        },
+        {
+          "ref": "5c7f42202e",
+          "takeaway": "Headline only: AP wire on partners' pushback.",
+          "read_full": false
+        },
+        {
+          "ref": "d864ff56fa",
+          "takeaway": "Summary: AP wire, notes Japan's protest.",
+          "read_full": false
+        },
+        {
+          "ref": "a2f8f08b11",
+          "takeaway": "Headline and summary only (paywalled): Asia and China angle.",
+          "read_full": false
+        },
+        {
+          "ref": "65937dd9ca",
+          "takeaway": "Summary: news wrap gives the 14-country figure.",
+          "read_full": false
+        },
+        {
+          "ref": "2b8ec3bee6",
+          "takeaway": "Summary: gives an 11-countries-plus-EU-and-China count.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "musk-spacex-trump-accounts",
+      "headline": "Musk and SpaceX pledge two SpaceX shares for every child's Trump Account",
+      "region": "",
+      "importance": 3,
+      "summary": "SpaceX said it would donate one share of its Class A stock to every active Trump Account, the government-backed savings accounts for children, and CEO Elon Musk said he would personally match it. The pledge doubles one Musk made last month and is valued at more than $18 billion. SpaceX shares rose in premarket trading Friday after Musk said he would give shares every year.",
+      "why_it_matters": "Parents who open a Trump Account for their child could receive SpaceX stock in it, though questions remain about lockup periods and how the shares will be handled.",
+      "background": "Trump Accounts are tax-advantaged investment accounts for American children created under the 2025 Republican tax law, with the government seeding accounts for newborns. Wealthy donors including Michael and Susan Dell have pledged money to them. In October, Musk pledged one of his own SpaceX shares to every child. SpaceX is now publicly traded, and Musk controls the company.",
+      "facts": [
+        {
+          "text": "SpaceX said it will donate one share of Class A stock to every active Trump Account, and Musk said he would match it.",
+          "refs": [
+            "00e68d185a",
+            "851de2eb6d"
+          ]
+        },
+        {
+          "text": "The pledge doubles an offer Musk made last month and is valued at more than $18 billion, roughly triple Michael Dell's earlier gift, according to Axios.",
+          "refs": [
+            "aae33c1cef",
+            "851de2eb6d"
+          ]
+        },
+        {
+          "text": "Musk first announced on Oct. 19 that he would give one SpaceX share to every child in America.",
+          "refs": [
+            "us-w4"
+          ]
+        },
+        {
+          "text": "SpaceX shares rose about 4% in premarket trading Friday after Musk said on X he would donate shares to children every year.",
+          "refs": [
+            "18028c0bea"
+          ]
+        },
+        {
+          "text": "Reuters reported the gift comes as Musk seeks public support for his satellite and AI businesses amid political scrutiny of the tech sector.",
+          "refs": [
+            "b12763a3ff"
+          ]
+        },
+        {
+          "text": "SpaceX did not immediately say whether the donated shares would come with a lockup period.",
+          "refs": [
+            "da24f40945"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "3cfdf6d6b7",
+          "note": "Leads with Musk's own quote promising shares to every child."
+        },
+        {
+          "ref": "d1c6c3f8dc",
+          "note": "Frames the gift around a debate over possible market manipulation."
+        },
+        {
+          "ref": "b12763a3ff",
+          "note": "Reuters calls it an 'AI charm' offensive, emphasizing Musk's business motives."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "00e68d185a",
+          "takeaway": "Summary: company and Musk each donating one share.",
+          "read_full": false
+        },
+        {
+          "ref": "3cfdf6d6b7",
+          "takeaway": "Summary: centered on Musk's X post.",
+          "read_full": false
+        },
+        {
+          "ref": "aae33c1cef",
+          "takeaway": "Summary: dollar value and comparison with Dell's gift.",
+          "read_full": false
+        },
+        {
+          "ref": "851de2eb6d",
+          "takeaway": "Summary: notes the pledge doubles last month's.",
+          "read_full": false
+        },
+        {
+          "ref": "d1c6c3f8dc",
+          "takeaway": "Headline only: market-manipulation debate.",
+          "read_full": false
+        },
+        {
+          "ref": "b12763a3ff",
+          "takeaway": "Summary: Reuters wire on Musk's motives.",
+          "read_full": false
+        },
+        {
+          "ref": "da24f40945",
+          "takeaway": "Summary: open questions on lockup periods.",
+          "read_full": false
+        },
+        {
+          "ref": "18028c0bea",
+          "takeaway": "Summary: stock moved up after the pledge to give annually.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "us-w1",
+      "url": "https://www.epa.gov/ia/iowa-army-ammunition-plant-middletown-iowa-1",
+      "title": "Iowa Army Ammunition Plant, Middletown, Iowa",
+      "outlet": "EPA"
+    },
+    {
+      "id": "us-w2",
+      "url": "https://theintercept.com/2026/11/19/iowa-lead-ammunition-detonation-army/",
+      "title": "Army's Iowa lead detonation plan",
+      "outlet": "The Intercept"
+    },
+    {
+      "id": "us-w3",
+      "url": "https://www.jurist.org/news/2026/10/federal-judge-hears-arguments-on-abcs-challenge-to-fcc-license-review/",
+      "title": "Federal judge hears arguments on ABC's challenge to FCC license review",
+      "outlet": "JURIST"
+    },
+    {
+      "id": "us-w4",
+      "url": "https://www.semafor.com/article/10/19/2026/musk-to-gift-spacex-shares-to-american-children",
+      "title": "Musk to gift SpaceX shares to American children",
+      "outlet": "Semafor"
+    }
+  ]
+}

@@ -1,0 +1,937 @@
+{
+  "stories": [
+    {
+      "id": "kuwait-drone-italians-killed",
+      "headline": "Drone attack in Kuwait kills two Italian technicians; Iran denies role",
+      "region": "Middle East",
+      "importance": 5,
+      "summary": "Two Italian technicians working for defense company Rheinmetall were killed Thursday when drones hit Kuwaiti military sites, including an air-defense station where they were working. Italy and Kuwait blamed Iran. Iran's foreign minister denied any involvement and called the incident suspicious.",
+      "why_it_matters": "Nobody had been killed in a strike on Kuwait for months. Deaths of European civilians at a Gulf base raise the risk that the US-Iran war spreads, and that keeps pressure on oil prices and Gulf shipping.",
+      "background": "The United States and Iran are at war, and talks to end it have stalled. In recent weeks, Gulf Arab states that host US military facilities, Kuwait among them, have come under repeated strikes. Italy has troops and contractors in Kuwait, and a drone hit an air base there hosting Italian and US forces in March without hurting anyone. Rheinmetall, a German arms maker, has an Italian unit that works on air-defense systems.",
+      "facts": [
+        {
+          "text": "Two Italian nationals were killed in a drone attack on a Kuwaiti military site on Thursday.",
+          "refs": [
+            "7bca7d9d63",
+            "a5a563c2a3",
+            "2797e26ead"
+          ]
+        },
+        {
+          "text": "Italy's foreign ministry said the two were technicians for Rheinmetall, working on an air-defense system.",
+          "refs": [
+            "a5a563c2a3",
+            "1352c39905"
+          ]
+        },
+        {
+          "text": "Italian Foreign Minister Antonio Tajani said several Iranian-made drones targeted Kuwaiti military installations around 2 p.m., including an air-defense detection station.",
+          "refs": [
+            "2797e26ead"
+          ]
+        },
+        {
+          "text": "Italy and Kuwait both confirmed the deaths and blamed Iran. It was the first fatal strike in Kuwait in months.",
+          "refs": [
+            "79961e2da3"
+          ]
+        },
+        {
+          "text": "Iranian Foreign Minister Abbas Araghchi denied Iran was responsible and called the incident \"suspicious\" and \"a precooked recipe for war.\"",
+          "refs": [
+            "123ab3511f",
+            "79961e2da3"
+          ]
+        },
+        {
+          "text": "The attack follows weeks of strikes on Gulf Arab states that host US military facilities, with talks to end the war stalled.",
+          "refs": [
+            "5a59a4cf47",
+            "e84e5f14b0"
+          ]
+        },
+        {
+          "text": "President Trump said the war with Iran will end \"whenever I want it\" and that he is giving Iran \"a chance to be smart.\"",
+          "refs": [
+            "123ab3511f",
+            "955d83ade1"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Who carried out the attack",
+          "positions": [
+            {
+              "claim": "Iran, according to Italian and Kuwaiti officials. Tajani said the drones were Iranian-made.",
+              "refs": [
+                "79961e2da3",
+                "2797e26ead"
+              ]
+            },
+            {
+              "claim": "Not Iran, according to Iran's foreign minister, who denied involvement.",
+              "refs": [
+                "7bca7d9d63",
+                "a5a563c2a3",
+                "123ab3511f"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "1352c39905",
+          "note": "Headline calls it an Iranian drone attack outright, with no attribution and no mention of the denial."
+        },
+        {
+          "ref": "7bca7d9d63",
+          "note": "Headline puts Iran's denial next to the deaths and doesn't name an attacker."
+        },
+        {
+          "ref": "e84e5f14b0",
+          "note": "Presents the attack as part of a wider pattern, with a 'strained' Iran stepping up strikes."
+        },
+        {
+          "ref": "9b0b01735e",
+          "note": "Says Iran is 'accused', which leaves blame as an open allegation."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "7bca7d9d63",
+          "takeaway": "Headline only: wire report that pairs the deaths with Iran's denial.",
+          "read_full": false
+        },
+        {
+          "ref": "a5a563c2a3",
+          "takeaway": "Summary only: cites Italy's foreign ministry on the victims' employer.",
+          "read_full": false
+        },
+        {
+          "ref": "2797e26ead",
+          "takeaway": "Summary only: quotes Tajani's account of the drones and their targets.",
+          "read_full": false
+        },
+        {
+          "ref": "1352c39905",
+          "takeaway": "Headline and summary only (paywalled): attributes the attack to Iran and notes the air-defense work.",
+          "read_full": false
+        },
+        {
+          "ref": "5a59a4cf47",
+          "takeaway": "Headline and summary only (paywalled): places the attack in a run of strikes on Gulf hosts of US bases.",
+          "read_full": false
+        },
+        {
+          "ref": "e84e5f14b0",
+          "takeaway": "Headline only (paywalled): treats it as Iran escalating.",
+          "read_full": false
+        },
+        {
+          "ref": "79961e2da3",
+          "takeaway": "Summary only (paywalled): first fatal strike in Kuwait for months; Tehran's denial.",
+          "read_full": false
+        },
+        {
+          "ref": "123ab3511f",
+          "takeaway": "Summary only: Araghchi's 'precooked recipe' quote alongside Trump's remarks on the war.",
+          "read_full": false
+        },
+        {
+          "ref": "9b0b01735e",
+          "takeaway": "Live-updates summary: Iran accused, Iran denies.",
+          "read_full": false
+        },
+        {
+          "ref": "955d83ade1",
+          "takeaway": "Summary only: Trump says he is giving Iran 'a chance to be smart' while threatening new strikes.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "new-zealand-election-final-count",
+      "headline": "New Zealand's ruling coalition falls one seat short; centrist newcomer holds the balance",
+      "region": "Asia-Pacific",
+      "importance": 4,
+      "summary": "Final results released Friday show Prime Minister Christopher Luxon's centre-right coalition one seat short of a majority. Luxon now needs the support of the centrist Opportunity Party, a newcomer led by Qiulae Wong, to stay in power. Without a deal, New Zealand could face another election.",
+      "why_it_matters": "A small new party now decides who governs New Zealand, so the next government's budget and policies will depend on what Opportunity asks for in return.",
+      "background": "New Zealand voted in early November, and the election-night count gave neither the right nor the left a clear win. Luxon leads the National Party, which has governed with two smaller right-leaning partners since 2023. Special votes, mostly from overseas and late voters, were still to be counted, and they decided the final seat allocation released on Friday. The Opportunity Party had never won seats in parliament before this election.",
+      "facts": [
+        {
+          "text": "Final general election results released Friday show the ruling centre-right coalition fell short of a parliamentary majority.",
+          "refs": [
+            "6930f0f694",
+            "585b336a14",
+            "76e58be0cf"
+          ]
+        },
+        {
+          "text": "The ruling bloc led by the National Party missed a majority by one seat.",
+          "refs": [
+            "585b336a14"
+          ]
+        },
+        {
+          "text": "Luxon needs support from the centrist Opportunity Party, led by newcomer Qiulae Wong, to form a majority government.",
+          "refs": [
+            "989c51adb7",
+            "da0ee2bb93",
+            "6930f0f694"
+          ]
+        },
+        {
+          "text": "If Luxon cannot strike a deal with Opportunity, the country could be headed for another election.",
+          "refs": [
+            "eb38e54258",
+            "da0ee2bb93"
+          ]
+        },
+        {
+          "text": "The election-night count on Nov. 8 showed no clear winner, and leaders prepared for weeks of talks.",
+          "refs": [
+            "world-w2"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "989c51adb7",
+          "note": "Calls the result a deadlock and casts the newcomer leader as a 'kingmaker'."
+        },
+        {
+          "ref": "b56b14823e",
+          "note": "Presents it as the prime minister's personal failure to secure a majority."
+        },
+        {
+          "ref": "585b336a14",
+          "note": "Stresses how narrow the miss was: one seat."
+        },
+        {
+          "ref": "d964edff5a",
+          "note": "Leads with the centrist newcomer as 'the decider'."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "6930f0f694",
+          "takeaway": "Reuters wire reprint: final count, coalition short, Opportunity needed.",
+          "read_full": false
+        },
+        {
+          "ref": "585b336a14",
+          "takeaway": "Summary only: one-seat shortfall for the National-led bloc.",
+          "read_full": false
+        },
+        {
+          "ref": "76e58be0cf",
+          "takeaway": "Summary only: official Friday results, just short of a majority.",
+          "read_full": false
+        },
+        {
+          "ref": "989c51adb7",
+          "takeaway": "Headline and summary only (paywalled): names Qiulae Wong as kingmaker.",
+          "read_full": false
+        },
+        {
+          "ref": "da0ee2bb93",
+          "takeaway": "Summary only: Luxon needs Opportunity or faces another election.",
+          "read_full": false
+        },
+        {
+          "ref": "eb38e54258",
+          "takeaway": "Summary only: centrists as kingmakers, possible new election.",
+          "read_full": false
+        },
+        {
+          "ref": "b56b14823e",
+          "takeaway": "Headline only (paywalled): right-leaning outlet focuses on Luxon's failure to win a majority.",
+          "read_full": false
+        },
+        {
+          "ref": "d964edff5a",
+          "takeaway": "Headline only: wire story on the deadlocked result.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "trump-putin-europe-zelensky-hitler",
+      "headline": "Trump says he asked Putin to pull back from Europe; Zelensky likens 'friend' remark to Hitler era",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "President Trump said Thursday that when he met Vladimir Putin in China last week, he asked him to pull back all military aggression against territories across Europe, and he hoped it would help produce a deal to end the war in Ukraine. Ukrainian President Volodymyr Zelensky told the BBC that Trump calling Putin a 'friend' was strange, likened it to someone saying the same about Hitler during World War II, and said the US is not pushing Russia hard enough.",
+      "why_it_matters": "What Washington says to Moscow shapes the chances of a Ukraine peace deal and the security of European countries near Russia. That affects defense spending, energy prices and the risk of a wider war.",
+      "background": "Russia invaded Ukraine in February 2022, and the war continues. Trump has pushed for a negotiated settlement and has spoken warmly of Putin, calling him a friend as recently as last week. Trump and Putin met in China last week, on the sidelines of a summit. Zelensky has repeatedly urged the US to put more pressure on Moscow.",
+      "facts": [
+        {
+          "text": "Trump said Thursday he had asked Putin to \"pull back all military aggression\" against territories throughout Europe.",
+          "refs": [
+            "e7dfe0da67",
+            "7cc65a1275",
+            "dffed83955"
+          ]
+        },
+        {
+          "text": "Trump said he made the request when the two met in China last week and that he thought it would help lead to a deal to end the war in Ukraine.",
+          "refs": [
+            "7cc65a1275",
+            "af06b0c0c7",
+            "bbd7a34377"
+          ]
+        },
+        {
+          "text": "Trump gave no further details of the conversation.",
+          "refs": [
+            "83250d3e00"
+          ]
+        },
+        {
+          "text": "In a BBC interview, Zelensky called the Trump-Putin friendship \"strange\" and said Putin should not be treated as a friend.",
+          "refs": [
+            "15078c8b6a",
+            "2ca7f9718e"
+          ]
+        },
+        {
+          "text": "Zelensky said Trump calling Putin a \"friend\" was the same as someone saying it about Hitler during World War II, while adding that what Trump says is up to him.",
+          "refs": [
+            "fe6745f5c0",
+            "c72d3bcf06",
+            "1f4cea5816"
+          ]
+        },
+        {
+          "text": "Zelensky said the US is not pushing Russia hard enough in peace talks and urged Washington to increase pressure on Moscow.",
+          "refs": [
+            "15078c8b6a",
+            "c950a2b9e8"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "b1b3d30350",
+          "note": "Emphasizes Trump pressing Putin on a peace deal, which casts him as the one applying pressure."
+        },
+        {
+          "ref": "7cc65a1275",
+          "note": "Points to a shift in tone toward a leader Trump called his friend a week earlier."
+        },
+        {
+          "ref": "118cab7574",
+          "note": "Leads with the Hitler comparison as Zelensky's main message."
+        },
+        {
+          "ref": "15078c8b6a",
+          "note": "Frames the interview around Zelensky's frustration that the US is not pushing Russia harder."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "e7dfe0da67",
+          "takeaway": "Headline only: wire report on Trump's 'pull back' remark.",
+          "read_full": false
+        },
+        {
+          "ref": "bbd7a34377",
+          "takeaway": "Reuters reprint: Trump hopes the request leads to a quick Ukraine settlement.",
+          "read_full": false
+        },
+        {
+          "ref": "7cc65a1275",
+          "takeaway": "Summary only: notes the change in tone from last week.",
+          "read_full": false
+        },
+        {
+          "ref": "83250d3e00",
+          "takeaway": "Live blog summary: Trump gave no further details.",
+          "read_full": false
+        },
+        {
+          "ref": "dffed83955",
+          "takeaway": "Summary only: says Trump 'claimed' the conversation took place and voiced belief in a deal.",
+          "read_full": false
+        },
+        {
+          "ref": "af06b0c0c7",
+          "takeaway": "Summary only: request made at the China meeting.",
+          "read_full": false
+        },
+        {
+          "ref": "b1b3d30350",
+          "takeaway": "Headline only: right-leaning outlet frames it as Trump pressing Putin.",
+          "read_full": false
+        },
+        {
+          "ref": "15078c8b6a",
+          "takeaway": "Summary only: interview source; Zelensky frustrated with the US approach.",
+          "read_full": false
+        },
+        {
+          "ref": "2ca7f9718e",
+          "takeaway": "Video summary: Putin should not be treated as a friend.",
+          "read_full": false
+        },
+        {
+          "ref": "fe6745f5c0",
+          "takeaway": "Summary only: quotes the Hitler comparison and Zelensky's 'up to the President' caveat.",
+          "read_full": false
+        },
+        {
+          "ref": "c72d3bcf06",
+          "takeaway": "Headline only: wire report on the Hitler comparison.",
+          "read_full": false
+        },
+        {
+          "ref": "1f4cea5816",
+          "takeaway": "Summary only (paywalled): repeats the comparison and the caveat.",
+          "read_full": false
+        },
+        {
+          "ref": "118cab7574",
+          "takeaway": "Headline only (paywalled): right-leaning outlet leads with the Hitler line.",
+          "read_full": false
+        },
+        {
+          "ref": "c950a2b9e8",
+          "takeaway": "Live blog summary: Zelensky urges more US pressure on Moscow.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "eu-budget-summit-no-deal",
+      "headline": "EU leaders end summit without a deal on the next seven-year budget",
+      "region": "Europe",
+      "importance": 3,
+      "summary": "European Union leaders ended a Brussels summit on Thursday without agreeing on the bloc's 2028-2034 budget, after more than 12 hours of talks. They were split over spending levels and a $49 billion loan to Ukraine. French President Emmanuel Macron set an end-of-year deadline, and leaders aim to settle it in December.",
+      "why_it_matters": "The EU budget pays for farm subsidies, regional development, defense projects and aid to Ukraine for seven years. A delay leaves those programs, and Ukraine's financing, uncertain.",
+      "background": "The EU agrees a long-term budget, called the multiannual financial framework, roughly every seven years, and all 27 governments must approve it. The European Commission proposed a budget of nearly 2 trillion euros for 2028-2034, with more for competitiveness, defense and technology. An October summit also ended without a deal and left a funding gap for Ukraine. Countries that pay more into the budget than they get back have resisted higher spending.",
+      "facts": [
+        {
+          "text": "EU leaders ended Thursday's summit without agreeing on the 2028-2034 budget.",
+          "refs": [
+            "4ea050fdfd",
+            "2f8d6944cc",
+            "4fc7e29d70"
+          ]
+        },
+        {
+          "text": "The talks ran for more than 12 hours.",
+          "refs": [
+            "2f8d6944cc"
+          ]
+        },
+        {
+          "text": "Leaders were split over budget spending and a $49 billion loan to Ukraine.",
+          "refs": [
+            "28bc24488c",
+            "4ea050fdfd"
+          ]
+        },
+        {
+          "text": "Macron set an end-of-year deadline for a deal, and leaders aim to agree on funding in December.",
+          "refs": [
+            "2f8d6944cc",
+            "a6f9d2b4ba",
+            "4fc7e29d70"
+          ]
+        },
+        {
+          "text": "An October EU summit also ended without a budget deal and left a new Ukraine funding gap.",
+          "refs": [
+            "world-w5"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "2f8d6944cc",
+          "note": "Stresses the length of the talks and quotes 'zero results'."
+        },
+        {
+          "ref": "4fc7e29d70",
+          "note": "Emphasizes that leaders cut the summit short, while pointing to a December target."
+        },
+        {
+          "ref": "28bc24488c",
+          "note": "Puts the split over the Ukraine loan alongside the spending dispute."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "4ea050fdfd",
+          "takeaway": "Summary only: talks stalled, Ukraine aid among the disputes, end-of-year goal.",
+          "read_full": false
+        },
+        {
+          "ref": "2f8d6944cc",
+          "takeaway": "Summary only (paywalled): 12-plus hours, Macron's deadline.",
+          "read_full": false
+        },
+        {
+          "ref": "4fc7e29d70",
+          "takeaway": "Summary only: summit cut short, December target.",
+          "read_full": false
+        },
+        {
+          "ref": "28bc24488c",
+          "takeaway": "Headline only: wire story on the spending and Ukraine-loan split; also reprinted by The Washington Times and France 24.",
+          "read_full": false
+        },
+        {
+          "ref": "a6f9d2b4ba",
+          "takeaway": "Video summary: Macron's end-of-year deadline.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "guinea-bissau-junta-delays-elections",
+      "headline": "Guinea-Bissau's military rulers push elections back to 2028",
+      "region": "Africa",
+      "importance": 3,
+      "summary": "Guinea-Bissau's military government has postponed presidential and legislative elections until November 2028. That stretches its promised one-year transition to civilian rule by about two more years. The junta said conditions are not yet right for a vote, and it announced the delay exactly one year after seizing power.",
+      "why_it_matters": "It is another West African country where soldiers who promised a quick handover are staying in power longer. People in Guinea-Bissau will have no elected government for at least three years after the coup.",
+      "background": "Guinea-Bissau is a small West African country with a long history of coups. The military took power on Nov. 26, 2025, and promised to return the country to civilian rule within 12 months. The regional bloc ECOWAS suspended Guinea-Bissau from its decision-making bodies after the coup. In October, the transitional government said elections planned for December 2026 would have to be delayed, but it gave no new date then.",
+      "facts": [
+        {
+          "text": "The military government postponed presidential and legislative elections until November 2028.",
+          "refs": [
+            "334dc795be",
+            "d94ad9b230"
+          ]
+        },
+        {
+          "text": "The postponement extends the promised yearlong transition to civilian rule by roughly two years.",
+          "refs": [
+            "334dc795be",
+            "5a76d107d1"
+          ]
+        },
+        {
+          "text": "The decision came exactly one year after the military took power on Nov. 26, 2025.",
+          "refs": [
+            "3058bf25b8",
+            "5a76d107d1"
+          ]
+        },
+        {
+          "text": "The junta said conditions were not sufficient to hold elections for now.",
+          "refs": [
+            "3058bf25b8"
+          ]
+        },
+        {
+          "text": "In October, the transitional authorities said the planned December vote would be delayed, without setting a new date.",
+          "refs": [
+            "world-w4"
+          ]
+        },
+        {
+          "text": "ECOWAS suspended Guinea-Bissau from its decision-making bodies after the coup.",
+          "refs": [
+            "world-w3"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "334dc795be",
+          "note": "Says the junta is 'extending its rule', which puts the military's hold on power first."
+        },
+        {
+          "ref": "d94ad9b230",
+          "note": "Uses the neutral word 'transition' and ties the delay to the coup's anniversary."
+        },
+        {
+          "ref": "5a76d107d1",
+          "note": "Points to the broken promise of civilian rule within a year."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "334dc795be",
+          "takeaway": "Headline only: wire story with the 2028 date; reprinted by ABC, The Washington Times and The Washington Post.",
+          "read_full": false
+        },
+        {
+          "ref": "d94ad9b230",
+          "takeaway": "Headline only: delay extends the military-led transition.",
+          "read_full": false
+        },
+        {
+          "ref": "3058bf25b8",
+          "takeaway": "Summary only: anniversary timing and the junta's stated reason.",
+          "read_full": false
+        },
+        {
+          "ref": "5a76d107d1",
+          "takeaway": "Summary only: contrasts the delay with the original 12-month pledge.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "cairo-tanker-fire",
+      "headline": "Egypt detains driver over Cairo tanker crash and fire that killed 31",
+      "region": "Africa",
+      "importance": 3,
+      "summary": "A crash involving a fuel tanker set off a large fire on Cairo's Ring Road on Wednesday, killing at least 31 people and leaving more than two dozen vehicles burned. Egyptian authorities detained a motorist they suspect of causing the crash. Officials said he confessed to speeding and clipping the tanker while overtaking.",
+      "why_it_matters": "The Ring Road is one of the busiest roads in a metro area of more than 20 million people, and the crash adds to public concern over road safety and the trucking of fuel through cities in Egypt.",
+      "background": "Deadly road crashes are frequent in Egypt, and speeding and heavy trucks are often blamed. The Ring Road circles greater Cairo and carries heavy truck and car traffic. Egypt's Public Prosecutor investigates major crashes and has released details of this one, including the driver's reported confession. Fuel tanker crashes have caused deadly fires in Egypt before.",
+      "facts": [
+        {
+          "text": "A crash involving a fuel tanker ignited a fire on Cairo's Ring Road on Wednesday, killing at least 31 people.",
+          "refs": [
+            "4ea9865f2a",
+            "898fadde9e",
+            "415e8bcd17"
+          ]
+        },
+        {
+          "text": "More than two dozen cars and motorcycles were charred, according to the Public Prosecutor's office.",
+          "refs": [
+            "898fadde9e",
+            "4ea9865f2a"
+          ]
+        },
+        {
+          "text": "Egyptian authorities detained a driver suspected of causing the crash.",
+          "refs": [
+            "415e8bcd17",
+            "d6375b8f32",
+            "88b8be38fc"
+          ]
+        },
+        {
+          "text": "Officials said the man confessed to traveling at speed and clipping the fuel truck while overtaking.",
+          "refs": [
+            "88b8be38fc",
+            "1d1783eac2"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Number of people injured",
+          "positions": [
+            {
+              "claim": "At least 21 injured, per Egyptian authorities as first reported.",
+              "refs": [
+                "4ea9865f2a"
+              ]
+            },
+            {
+              "claim": "At least 25 injured, per a Public Prosecutor's statement.",
+              "refs": [
+                "898fadde9e"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "4ea9865f2a",
+          "note": "Leads with the death toll and the scale of the fire."
+        },
+        {
+          "ref": "d6375b8f32",
+          "note": "Leads with the detained driver and calls the blaze an 'inferno'."
+        },
+        {
+          "ref": "88b8be38fc",
+          "note": "Focuses on the arrest and the motorist's reported confession."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "4ea9865f2a",
+          "takeaway": "Summary only: early toll of 31 dead and 21 injured.",
+          "read_full": false
+        },
+        {
+          "ref": "898fadde9e",
+          "takeaway": "Summary only: cites the Public Prosecutor, 25 injured.",
+          "read_full": false
+        },
+        {
+          "ref": "415e8bcd17",
+          "takeaway": "Headline only: wire story on the detained driver; reprinted by ABC, The Washington Times and The Washington Post.",
+          "read_full": false
+        },
+        {
+          "ref": "d6375b8f32",
+          "takeaway": "Summary only: right-leaning outlet centers the suspect in custody.",
+          "read_full": false
+        },
+        {
+          "ref": "88b8be38fc",
+          "takeaway": "Summary only: reports the confession to speeding.",
+          "read_full": false
+        },
+        {
+          "ref": "1d1783eac2",
+          "takeaway": "Summary only: says a speeding driver allegedly hit the tanker.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "taiwan-local-elections",
+      "headline": "Taiwan votes Saturday in local elections watched closely by Beijing",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "Taiwan holds local elections on Saturday, with results expected the same day and control of Taipei the main prize. China sent warplanes near the island as campaigns entered their final day, and Taiwanese officials have warned of Chinese interference. The vote is seen as a test for the ruling Democratic Progressive Party ahead of the 2028 presidential election.",
+      "why_it_matters": "The results will show how Taiwanese voters feel about the ruling party's handling of China. Tension in the Taiwan Strait affects the global supply of computer chips and the risk of a US-China conflict. Coverage in today's feeds came from left-leaning and center outlets; no right-leaning outlet in the bundle covered it.",
+      "background": "Taiwan governs itself, but China claims it and has not ruled out force to take it. The island's two main parties are the Democratic Progressive Party (DPP), which runs the national government under President Lai Ching-te and rejects Beijing's claim, and the Kuomintang (KMT), which favors closer ties with China. Taipei's KMT mayor, Chiang Wan-an, is seeking a second term against the DPP's Puma Shen, whom China has sanctioned. Beijing regularly sends military aircraft around the island.",
+      "facts": [
+        {
+          "text": "Taiwan holds local elections on Saturday, with results due the same day.",
+          "refs": [
+            "ef2a090f4f",
+            "666f43bd74"
+          ]
+        },
+        {
+          "text": "China sent warplanes as campaigns entered their final day.",
+          "refs": [
+            "f4d06575dc"
+          ]
+        },
+        {
+          "text": "Taiwanese officials have raised alarm over Chinese interference in the elections.",
+          "refs": [
+            "666f43bd74",
+            "world-w6"
+          ]
+        },
+        {
+          "text": "Control of Taipei is the main prize.",
+          "refs": [
+            "ec146dbf41"
+          ]
+        },
+        {
+          "text": "Puma Shen, a Taipei mayoral candidate sanctioned by China, has gained unexpected popularity, according to AP reporting.",
+          "refs": [
+            "293a552947",
+            "8526433dd3"
+          ]
+        },
+        {
+          "text": "Incumbent Taipei Mayor Chiang Wan-an of the KMT is running against Shen.",
+          "refs": [
+            "world-w7"
+          ]
+        },
+        {
+          "text": "Taiwan's next presidential election is in early 2028.",
+          "refs": [
+            "ef2a090f4f",
+            "d37e2ecffc"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "666f43bd74",
+          "note": "Puts the China threat at the center of the vote."
+        },
+        {
+          "ref": "ef2a090f4f",
+          "note": "Notes the China issue has not been prominent in the campaigns, which points readers to local issues instead."
+        },
+        {
+          "ref": "d37e2ecffc",
+          "note": "Treats the vote as a signal for Beijing and for the 2028 race."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "666f43bd74",
+          "takeaway": "Summary only: interference concerns; a test for the DPP.",
+          "read_full": false
+        },
+        {
+          "ref": "ef2a090f4f",
+          "takeaway": "Summary only: final day of campaigning; China not a prominent issue.",
+          "read_full": false
+        },
+        {
+          "ref": "f4d06575dc",
+          "takeaway": "Headline only: campaigns' final day and Chinese warplanes.",
+          "read_full": false
+        },
+        {
+          "ref": "ec146dbf41",
+          "takeaway": "Newsletter summary only (paywalled): Taipei is the main prize.",
+          "read_full": false
+        },
+        {
+          "ref": "d37e2ecffc",
+          "takeaway": "Summary only (paywalled): analysts on what Beijing will read into the results.",
+          "read_full": false
+        },
+        {
+          "ref": "293a552947",
+          "takeaway": "Headline only: profile of Puma Shen.",
+          "read_full": false
+        },
+        {
+          "ref": "8526433dd3",
+          "takeaway": "Summary only: AP profile reprint on Shen's rising popularity.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "israel-eisenkot-coalition-deal",
+      "headline": "Eisenkot signs coalition deal with left-wing Democrats in bid to replace Netanyahu",
+      "region": "Middle East",
+      "importance": 3,
+      "summary": "Former Israeli military chief Gadi Eisenkot reached a coalition deal Thursday with Yair Golan's left-leaning Democrats. It is the second party to sign on, after the right-wing Yisrael Beiteinu on Nov. 24. The deals bring the opposition closer to forming a government after October's election left no bloc with a majority.",
+      "why_it_matters": "If Eisenkot can put together a majority, Benjamin Netanyahu would be out of office. A change of prime minister would affect Israel's war policy, its relations with the US and the region, and the course of Netanyahu's corruption trial.",
+      "background": "Israel held a national election in October in which neither Netanyahu's bloc nor the opposition won the 61 seats needed for a majority in the 120-seat Knesset. Eisenkot, a former military chief of staff who leads the Yashar party, won the backing of other opposition leaders and was given the task of forming a government. His potential partners range from the secular right-wing Yisrael Beiteinu of Avigdor Lieberman to Golan's left-wing Democrats. Bringing such different parties together has been the main challenge.",
+      "facts": [
+        {
+          "text": "Eisenkot struck a coalition deal with Yair Golan's left-leaning Democrats on Thursday.",
+          "refs": [
+            "6a2bb63a3e",
+            "1802955aeb",
+            "2440ebe490"
+          ]
+        },
+        {
+          "text": "The Democrats are the second party to agree to a coalition deal with Eisenkot's Yashar party, after the right-wing Yisrael Beiteinu did so on Nov. 24.",
+          "refs": [
+            "2440ebe490"
+          ]
+        },
+        {
+          "text": "No single bloc won a majority in the October elections.",
+          "refs": [
+            "6a2bb63a3e"
+          ]
+        },
+        {
+          "text": "Opposition leaders backed Eisenkot earlier this month to lead an effort to oust Netanyahu.",
+          "refs": [
+            "world-w8"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "dfb314c7b2",
+          "note": "Presents the deal as part of a race to unseat Netanyahu."
+        },
+        {
+          "ref": "1802955aeb",
+          "note": "Stresses momentum, with coalition talks 'gaining steam'."
+        },
+        {
+          "ref": "3e2f879d69",
+          "note": "Shifts the focus to Trump, saying he would host Eisenkot if he becomes leader."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "6a2bb63a3e",
+          "takeaway": "Summary only: deal with Golan's Democrats; no bloc won a majority.",
+          "read_full": false
+        },
+        {
+          "ref": "1802955aeb",
+          "takeaway": "Headline only: coalition talks gaining momentum.",
+          "read_full": false
+        },
+        {
+          "ref": "2440ebe490",
+          "takeaway": "Summary only: second coalition deal after Yisrael Beiteinu.",
+          "read_full": false
+        },
+        {
+          "ref": "dfb314c7b2",
+          "takeaway": "Headline only (paywalled): framed around ousting Netanyahu.",
+          "read_full": false
+        },
+        {
+          "ref": "3e2f879d69",
+          "takeaway": "Headline only: right-leaning outlet focuses on the Trump angle.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "world-w2",
+      "url": "https://www.opb.org/article/2026/11/08/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks/",
+      "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+      "outlet": "OPB"
+    },
+    {
+      "id": "world-w3",
+      "url": "https://allafrica.com/stories/202511280084.html",
+      "title": "West Africa: Coup - Ecowas Suspends Guinea-Bissau From Decision-Making Bodies",
+      "outlet": "AllAfrica"
+    },
+    {
+      "id": "world-w4",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/08/guinea-bissau-to-delay-elections-following-last-year-s-coup",
+      "title": "Guinea-Bissau to delay elections following last year's coup",
+      "outlet": "Reuters (via Internazionale)"
+    },
+    {
+      "id": "world-w5",
+      "url": "https://www.euronews.com/2026/10/16/budget-ukraine-migration-five-takeaways-from-the-eu-leaders-summit",
+      "title": "Budget, Ukraine, migration: five takeaways from the EU leaders' summit",
+      "outlet": "Euronews"
+    },
+    {
+      "id": "world-w6",
+      "url": "https://focustaiwan.tw/politics/202610280024",
+      "title": "Lai warns of possible Chinese interference in local elections",
+      "outlet": "Focus Taiwan"
+    },
+    {
+      "id": "world-w7",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/09/2003867412",
+      "title": "On campaign trail, Chiang talks sports, Shen disadvantaged groups",
+      "outlet": "Taipei Times"
+    },
+    {
+      "id": "world-w8",
+      "url": "https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu",
+      "title": "Israel's opposition leaders back Eisenkot to oust Netanyahu",
+      "outlet": "Al Jazeera"
+    }
+  ]
+}

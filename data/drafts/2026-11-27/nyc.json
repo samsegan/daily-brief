@@ -1,0 +1,154 @@
+{
+  "stories": [
+    {
+      "id": "thanksgiving-storm-parade-postponed",
+      "headline": "Thanksgiving storm floods coastal NYC and pushes Macy's parade to Saturday",
+      "region": "",
+      "importance": 5,
+      "summary": "A wind and rain storm hit New York City on Thanksgiving Day, flooding coastal areas, snarling holiday travel and leading organizers to postpone the Macy's Thanksgiving Day Parade for the first time. CBS News and CNN reported the parade was rescheduled for Saturday, Nov. 28. Gov. Kathy Hochul had declared a state of emergency for southern New York ahead of the storm.",
+      "why_it_matters": "New Yorkers who planned to attend or work the parade need to plan for Saturday instead, and residents of low-lying neighborhoods faced flooding and outages during one of the year's busiest travel days.",
+      "background": "The Macy's parade has run along Manhattan's West Side on Thanksgiving morning for about a century, and its giant balloons are vulnerable to strong gusts funneled between skyscrapers; balloons have been grounded in the past, but the whole parade had never been moved. This year a large storm system brought heavy rain, high winds and high tides to much of the country, including the East Coast. State officials declared an emergency the day before, and city emergency managers issued travel guidance. Mayor Zohran Mamdani's administration handled the city response.",
+      "facts": [
+        { "text": "The Macy's Thanksgiving Day Parade was postponed for the first time in its history.", "refs": ["050b0f2a22", "nyc-w1"] },
+        { "text": "CBS News and CNN reported the parade was rescheduled for Saturday, Nov. 28, with Macy's citing the risk of wind damaging the balloons.", "refs": ["nyc-w1", "nyc-w2"] },
+        { "text": "Nearly a million customers lost power along the East Coast, according to the AP report carried by The Guardian.", "refs": ["b2bf1b4486", "050b0f2a22", "nyc-w3"] },
+        { "text": "More than 2,000 flights were delayed or canceled as the storm moved up the East Coast.", "refs": ["68bd3bb600"] },
+        { "text": "High tides flooded coastal areas including parts of Staten Island, and the city's emergency management office reported 1.5 to 2 inches of rain, according to CBS News.", "refs": ["nyc-w1", "f2c2d3717c"] },
+        { "text": "Mayor Mamdani said two people were rescued from cars caught in flooding, CBS News reported.", "refs": ["nyc-w1"] },
+        { "text": "Gov. Kathy Hochul declared a state of emergency for southern New York on Nov. 25.", "refs": ["nyc-w4"] },
+        { "text": "Gothamist reported the worst of the storm was expected from 4 p.m. to 10 p.m. Thursday, as city and state officials urged caution for holiday travel.", "refs": ["956dad6f36"] }
+      ],
+      "disputed": [
+        {
+          "topic": "How many people lost power",
+          "positions": [
+            { "claim": "Nearly a million customers on the East Coast, per the AP report.", "refs": ["050b0f2a22", "nyc-w3"] },
+            { "claim": "Hundreds of thousands, per NBC News's live coverage.", "refs": ["nyc-w5"] }
+          ]
+        }
+      ],
+      "framing": [
+        { "ref": "f2c2d3717c", "note": "Uses holiday wordplay and leads with the forecast of coastal flooding and wind." },
+        { "ref": "68bd3bb600", "note": "Centers the story on disrupted air travel rather than local damage." },
+        { "ref": "050b0f2a22", "note": "Puts the national flooding first and highlights the first-ever parade postponement." },
+        { "ref": "d2cbbd677e", "note": "Frames it as a national holiday weather story, with no New York focus in the headline." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f2c2d3717c", "takeaway": "Headline and summary only: local forecast of coastal flooding and high winds for Thanksgiving.", "read_full": false },
+        { "ref": "956dad6f36", "takeaway": "Headline and summary only: travel outlook with the peak storm window and official guidance.", "read_full": false },
+        { "ref": "b1ce298468", "takeaway": "Headline only: the storm battering the city with rain and wind.", "read_full": false },
+        { "ref": "68bd3bb600", "takeaway": "Headline and summary only (paywalled): more than 2,000 flights delayed or canceled.", "read_full": false },
+        { "ref": "7418c0ba50", "takeaway": "Live-blog entry only (paywalled): running storm updates.", "read_full": false },
+        { "ref": "b2bf1b4486", "takeaway": "Headline only: AP wire on rain, wind and flooding across the country.", "read_full": false },
+        { "ref": "050b0f2a22", "takeaway": "Headline and summary only: AP report noting nearly a million without power and the parade postponement.", "read_full": false },
+        { "ref": "d2cbbd677e", "takeaway": "Headline only: national framing of the holiday storm.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "srg-sent-to-brooklyn-protest",
+      "headline": "Post reports NYPD's disbanded protest unit was deployed to a Brooklyn protest",
+      "region": "Brooklyn",
+      "importance": 3,
+      "summary": "The New York Post reported that NYPD Strategic Response Group officers were sent to handle an anti-Israel protest in Brooklyn, about 10 days after Mayor Zohran Mamdani announced the unit was being disbanded. The Post quoted an unnamed Brooklyn officer saying the unit was the only way to deal with violent protests. The city's account of the deployment was not available in the material reviewed.",
+      "why_it_matters": "How the city polices protests while it dismantles the SRG affects demonstrators' rights and public safety; only a right-leaning outlet covered this deployment in the material ingested today.",
+      "background": "The Strategic Response Group was created in 2015 to handle both counterterrorism deployments and large protests, and civil liberties groups criticized its tactics during the 2020 protests. Mayor Mamdani campaigned on disbanding it and announced on Nov. 16, with Police Commissioner Jessica Tisch, that counterterrorism duties would move to the Intelligence and Counterterrorism Bureau and protest response to a new civilian-led structure, with kettling banned. Tisch said the NYPD's response to large crowds or civil disorder would not change. Police unions and some Council members opposed the move.",
+      "facts": [
+        { "text": "The New York Post reported that SRG officers were sent to an anti-Israel protest in Brooklyn about 10 days after the unit's disbanding was announced.", "refs": ["d469738713"] },
+        { "text": "Mamdani and Commissioner Tisch announced on Nov. 16 that the SRG would be disbanded, with counterterrorism moving to the Intelligence and Counterterrorism Bureau and protest response to a new civilian-led structure.", "refs": ["nyc-w6", "nyc-w7"] },
+        { "text": "Tisch said at the announcement that the NYPD's response to large crowds or civil disorder would not change, according to Fox 5.", "refs": ["nyc-w6"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "d469738713", "note": "Puts 'disbanding' in quotation marks, suggesting the unit has not really gone away, and calls the protest 'anti-Israel'." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "d469738713", "takeaway": "Headline and summary only: single-outlet report built on an unnamed officer's account.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "d-train-assault-brooklyn",
+      "headline": "Rider critically hurt after attack on Brooklyn D train",
+      "region": "Brooklyn",
+      "importance": 3,
+      "summary": "A 42-year-old man was beaten into critical condition on a Manhattan-bound D train in Brooklyn on Wednesday night after he asked a group of teenagers to be quiet, according to police and sources cited by the New York Post. The Daily News reported two young men attacked him. No arrests were reported in the material reviewed.",
+      "why_it_matters": "Violent attacks on trains shape how safe riders feel on the subway, which millions of New Yorkers use daily.",
+      "background": "Subway crime has been a central issue in city politics for several years, with successive mayors and the MTA adding police and other measures in the system. High-profile assaults on riders often draw attention even when overall crime figures shift. The D line runs from Coney Island through southwest Brooklyn to Manhattan and the Bronx. The NYPD Transit Bureau investigates assaults on trains.",
+      "facts": [
+        { "text": "The victim, 42, was on a Manhattan-bound D train approaching Fort Hamilton Parkway around 9:30 p.m. when he asked a group of teen boys to be quiet, according to police and law enforcement sources cited by the Post.", "refs": ["cc09f05281"] },
+        { "text": "The man was left in critical condition after being beaten by two young men, the Daily News reported.", "refs": ["6ec717fb58", "cc09f05281"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "cc09f05281", "note": "Calls the attackers 'subway goons' and stresses that the victim had only asked for quiet." },
+        { "ref": "6ec717fb58", "note": "Plain description of the victim's condition and the two attackers." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "cc09f05281", "takeaway": "Headline and summary only: details on the train, time and the request for quiet, from police sources.", "read_full": false },
+        { "ref": "6ec717fb58", "takeaway": "Headline only: man in critical condition after attack by two young men.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "albany-freshman-democrats",
+      "headline": "Large Democratic freshman class could decide long-stalled bills in Albany",
+      "region": "Albany",
+      "importance": 3,
+      "summary": "Gothamist reported that 27 new Democrats will join the state Legislature in January, with Democrats controlling at least 158 of its 213 seats. The Assembly in particular is preparing for a large freshman class, which could affect the fate of bills that have stalled in past sessions.",
+      "why_it_matters": "Who sits in Albany shapes rent rules, transit funding and school policy for the city, so a large turnover can change which long-debated bills reach a vote.",
+      "background": "New York's Legislature has an Assembly of 150 members and a Senate of 63, both controlled by Democrats. Many bills pass one chamber and stall in the other, often because leaders such as Assembly Speaker Carl Heastie do not bring them to the floor. The November elections produced a wave of new members, many from the city. The new session begins in January alongside budget talks with Gov. Kathy Hochul.",
+      "facts": [
+        { "text": "Democrats will control at least 158 of the 213 seats in the state Legislature, Gothamist reported.", "refs": ["6dfe656f2f"] },
+        { "text": "Gothamist counted 27 new Democratic legislators, with the Assembly preparing for a large freshman class.", "refs": ["6dfe656f2f"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "6dfe656f2f", "note": "Frames the newcomers as the swing factor for bills that have long been stuck." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "6dfe656f2f", "takeaway": "Headline and summary only: single-outlet look at the incoming class and its potential effect on stalled bills.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "flatbush-collapse-vacate-lifted",
+      "headline": "City lifts vacate orders on two buildings beside deadly Flatbush collapse",
+      "region": "Brooklyn",
+      "importance": 2,
+      "summary": "The Daily News reported that vacate orders were lifted on two properties next to the Brooklyn building that collapsed this month and killed eight people. The collapsed building at 1321 Flatbush Avenue remains slated for demolition, and a criminal investigation into work at a neighboring site continues.",
+      "why_it_matters": "Some displaced neighbors may be able to return home, while the city's handling of the collapse bears on building safety rules across the five boroughs.",
+      "background": "A three-story building at 1321 Flatbush Avenue collapsed on Nov. 11, killing eight people and injuring at least 18. City records showed contractors at a neighboring construction site had violated a stop-work order, and a criminal investigation followed. Engineers found the remaining structure too dangerous to save, and nearby buildings were ordered vacated. The city has been housing displaced residents in hotels through the end of November, and Mayor Mamdani ordered a broader review of construction sites.",
+      "facts": [
+        { "text": "Vacate orders were lifted on two properties next to the collapsed building, the Daily News reported.", "refs": ["c756c20031"] },
+        { "text": "The Nov. 11 collapse at 1321 Flatbush Avenue killed eight people, and city records showed contractors at a neighboring site had violated a stop-work order.", "refs": ["nyc-w8", "nyc-w9"] },
+        { "text": "Officials said the damaged building would be demolished because it was too dangerous to save, amNY reported.", "refs": ["nyc-w10"] }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "c756c20031", "note": "Ties the update to the fatal collapse, emphasizing the neighbors' recovery." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "c756c20031", "takeaway": "Headline only: update that two adjacent properties are cleared for occupancy.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "nyc-w1", "url": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/", "title": "Powerful Thanksgiving Day storm brings flooding, power outages to Northeast, Midwest", "outlet": "CBS News" },
+    { "id": "nyc-w2", "url": "https://www.cnn.com/2026/11/24/us/live-news/thanksgiving-travel", "title": "Thanksgiving live updates: Conditions improving after storm knocks out power, hampers travel", "outlet": "CNN" },
+    { "id": "nyc-w3", "url": "https://www.france24.com/en/americas/20261127-almost-a-million-americans-left-without-power-on-thanksgiving-as-storm-sweeps-east-coast", "title": "Almost a million Americans left without power on Thanksgiving as storm sweeps East Coast", "outlet": "France 24" },
+    { "id": "nyc-w4", "url": "https://www.ibtimes.co.uk/new-york-emergency-thanksgiving-storm-macys-parade-postponed-1835046", "title": "New York Declares Emergency as Thanksgiving Storm Threatens Coast", "outlet": "IBTimes UK" },
+    { "id": "nyc-w5", "url": "https://www.nbcnews.com/weather/winter-weather/live-blog/live-updates-thanksgiving-travel-weather-storms-forecast-rcna611376", "title": "Thanksgiving storms disrupt travel and leave hundreds of thousands without power", "outlet": "NBC News" },
+    { "id": "nyc-w6", "url": "https://fox5ny.com/news/nypd-strategic-response-group-disbanded-mamdani-tisch", "title": "NYPD's Strategic Response Group disbanded as Mamdani outlines major police overhaul", "outlet": "Fox 5 New York" },
+    { "id": "nyc-w7", "url": "https://www.nbcnewyork.com/news/local/mamdani-nypd-stategic-response-group-srg-nyc/6451490/", "title": "Mamdani disbands NYPD Strategic Response Group", "outlet": "NBC New York" },
+    { "id": "nyc-w8", "url": "https://www.nbcnewyork.com/brooklyn/nyc-apartment-collapse-1321-flatbush-avenue-brooklyn/6571498/", "title": "Brooklyn apartment collapse at 1321 Flatbush Avenue", "outlet": "NBC New York" },
+    { "id": "nyc-w9", "url": "https://www.insurancejournal.com/news/east/2026/11/17/892668.htm", "title": "Brooklyn building collapse investigation", "outlet": "Insurance Journal" },
+    { "id": "nyc-w10", "url": "https://www.amny.com/news/only-available-option-flatbush-building-damaged-by-collapse-will-be-demolished/", "title": "'Only available option': Flatbush building damaged by collapse will be demolished", "outlet": "amNY" }
+  ]
+}

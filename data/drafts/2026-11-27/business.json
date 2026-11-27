@@ -1,0 +1,697 @@
+{
+  "stories": [
+    {
+      "id": "stocks-rebound-ai-trade-black-friday",
+      "headline": "Stocks set to rally in a shortened Black Friday session as the AI trade rebounds",
+      "region": "Markets",
+      "importance": 5,
+      "summary": "Global stocks rose after Thanksgiving as technology shares recovered from a bruising month of worries about artificial intelligence, and U.S. futures pointed to gains for Friday's half-day session. Investors moved out of safe havens: Treasuries slipped and yields rose, while copper and precious metals rallied. Next week's November jobs report and the Fed's Dec. 8-9 meeting are the next big tests.",
+      "why_it_matters": "A month of AI-driven swings has hit 401(k)s and index funds hard, and rising Treasury yields keep mortgage and loan rates high. A December Fed rate increase, which markets have been expecting, would push borrowing costs higher still.",
+      "background": "Shares of artificial-intelligence companies, led by chipmaker Nvidia, have fallen through November as investors question whether huge AI spending will pay off, and because a few of those companies make up a large share of the main indexes, the broader market has fallen with them. Turmoil at Nvidia, whose chief executive Jensen Huang resigned in mid-November and was then reinstated, has added to the swings. Inflation has also been rising, and a strong October jobs report led traders to expect the Federal Reserve to raise interest rates in December rather than cut them. U.S. markets were closed Thursday for Thanksgiving and close early on Friday.",
+      "facts": [
+        {
+          "text": "Global stocks rose Thursday and tech shares rebounded while U.S. markets were closed for Thanksgiving, the Associated Press reported.",
+          "refs": [
+            "ed9f188858",
+            "c95932322e"
+          ]
+        },
+        {
+          "text": "Reuters said global stocks rallied on an AI rebound after a bruising month, while Treasuries dipped as demand for safe-haven assets waned.",
+          "refs": [
+            "93415fdd8d",
+            "e5b8fdbcb8"
+          ]
+        },
+        {
+          "text": "U.S. stock futures pointed to strong gains for Friday's reopening, and tech and defense stocks lifted European indexes.",
+          "refs": [
+            "389374dfad",
+            "429cb937d8",
+            "2d9a12e543"
+          ]
+        },
+        {
+          "text": "U.S. markets reopen Friday for a shortened session, and all three major indexes stand to extend gains for the week, according to the Wall Street Journal.",
+          "refs": [
+            "5cb3c226a2",
+            "0554dcf410"
+          ]
+        },
+        {
+          "text": "Treasury yields climbed on Friday as bond markets reopened after the holiday.",
+          "refs": [
+            "e5fd710936",
+            "e5b8fdbcb8"
+          ]
+        },
+        {
+          "text": "Copper posted its biggest gain since January, rebounding from an 11-month low, and gold and other precious metals rose as risk appetite returned.",
+          "refs": [
+            "c34a5cda6d",
+            "5a638f87d0",
+            "8e2af7bb27"
+          ]
+        },
+        {
+          "text": "U.S. equity funds had their biggest outflows in 11 weeks as the tech rout weighed on investors, Reuters reported.",
+          "refs": [
+            "27f49e49b5"
+          ]
+        },
+        {
+          "text": "President Trump said Wednesday's market drop had made him briefly 'concerned' before stocks recovered.",
+          "refs": [
+            "45872f34ee"
+          ]
+        },
+        {
+          "text": "Goldman Sachs traders warned that trend-following funds could sell about $100 billion of stocks, MarketWatch reported, while JPMorgan's European quant team said the AI stock crash had mostly run its course but a worse phase could come in 2027.",
+          "refs": [
+            "9790982cf4",
+            "bb6c79034c"
+          ]
+        },
+        {
+          "text": "Payrolls rose by 165,000 in October and the unemployment rate fell to 4.1%, a report that raised expectations of a December rate increase.",
+          "refs": [
+            "business-w1",
+            "business-w2"
+          ]
+        },
+        {
+          "text": "The November jobs report is due Friday, Dec. 4, and the Fed's rate-setting committee meets Dec. 8-9; Reuters said jobs data and the rate outlook are the market's next tests.",
+          "refs": [
+            "business-w1",
+            "a0d06d29f3"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "2d9a12e543",
+          "note": "FT stresses that wild swings have eclipsed the AI trade itself, with markets struggling to price future earnings."
+        },
+        {
+          "ref": "5cb3c226a2",
+          "note": "WSJ frames the day as a break from AI jitters and a strong end to the week."
+        },
+        {
+          "ref": "27f49e49b5",
+          "note": "Reuters leads with investors pulling money out of U.S. stock funds, playing down the rebound."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "ed9f188858",
+          "takeaway": "AP: straight wrap of global gains on Thanksgiving.",
+          "read_full": false
+        },
+        {
+          "ref": "93415fdd8d",
+          "takeaway": "Reuters: global rally paired with a dip in Treasuries.",
+          "read_full": false
+        },
+        {
+          "ref": "c95932322e",
+          "takeaway": "Headline and summary only (paywalled): stocks climb after volatile U.S. trading over AI risks.",
+          "read_full": false
+        },
+        {
+          "ref": "2d9a12e543",
+          "takeaway": "Headline and summary only (paywalled): focus on volatility and earnings uncertainty.",
+          "read_full": false
+        },
+        {
+          "ref": "5cb3c226a2",
+          "takeaway": "Headline and summary only (paywalled): shortened session, weekly gains in reach.",
+          "read_full": false
+        },
+        {
+          "ref": "e5fd710936",
+          "takeaway": "Headline and summary only (paywalled): Treasury yields rise in post-holiday trade.",
+          "read_full": false
+        },
+        {
+          "ref": "389374dfad",
+          "takeaway": "Headline and summary only (paywalled): futures rally, havens lose demand.",
+          "read_full": false
+        },
+        {
+          "ref": "c34a5cda6d",
+          "takeaway": "Headline and summary only (paywalled): copper's biggest jump in 10 months.",
+          "read_full": false
+        },
+        {
+          "ref": "5a638f87d0",
+          "takeaway": "Headline and summary only (paywalled): precious metals rise with risk appetite.",
+          "read_full": false
+        },
+        {
+          "ref": "27f49e49b5",
+          "takeaway": "Reuters: fund-flow data showing heavy outflows.",
+          "read_full": false
+        },
+        {
+          "ref": "9790982cf4",
+          "takeaway": "MarketWatch: Goldman warning of automated selling.",
+          "read_full": false
+        },
+        {
+          "ref": "bb6c79034c",
+          "takeaway": "MarketWatch: JPMorgan view that the AI crash is mostly over for now.",
+          "read_full": false
+        },
+        {
+          "ref": "45872f34ee",
+          "takeaway": "Reuters: Trump's comments on Wednesday's market swing.",
+          "read_full": false
+        },
+        {
+          "ref": "a0d06d29f3",
+          "takeaway": "Reuters: week-ahead preview centered on jobs data and rates.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nvidia-huang-return-scrutiny",
+      "headline": "Trump defends Nvidia's Huang as questions grow over his return and governance",
+      "region": "Tech",
+      "importance": 4,
+      "summary": "President Trump again said reinstated Nvidia chief executive Jensen Huang is not a national security threat, as an investigation continues into Huang's relationship with a woman alleged to be a Chinese spy. Outlets reported that employees, analysts and legal experts are asking whether Nvidia's leadership and governance will change, and Asian markets with heavy AI exposure have swung with the stock.",
+      "why_it_matters": "Nvidia is one of the largest companies in the major stock indexes, so its swings move many Americans' retirement and index-fund balances. The case also bears on U.S. policy over selling advanced AI chips to China.",
+      "background": "Jensen Huang co-founded Nvidia, whose chips power most AI systems, and led it for more than 30 years. He resigned on Nov. 12 after admitting an extramarital affair with a woman later alleged to be a spy for Beijing, and finance chief Colette Kress became interim CEO. On Nov. 17 the board said it did not intend to bring him back, but it later reversed course and reinstated him; he returned to headquarters on Nov. 23 and apologized to employees. The Trump administration supported his return, and Democrats in Congress have called for investigations into whether national security was compromised.",
+      "facts": [
+        {
+          "text": "Trump insisted Huang is not a security threat; Huang's resignation sent Nvidia's stock down before the board's decision to reinstate him brought a partial rebound, The Hindu reported.",
+          "refs": [
+            "b9ca1cb881"
+          ]
+        },
+        {
+          "text": "Fox Business reported that Trump reaffirmed his support for Huang amid an ongoing investigation and national security concerns.",
+          "refs": [
+            "977e4bf1fe",
+            "d26764b432"
+          ]
+        },
+        {
+          "text": "Huang returned to Nvidia's headquarters on Monday, Nov. 23, apologized to employees and pledged to be a better CEO.",
+          "refs": [
+            "4820802c6f"
+          ]
+        },
+        {
+          "text": "Employees, analysts and legal experts are questioning whether Nvidia's management structure and governance will be reformed, the Financial Times reported.",
+          "refs": [
+            "643cbf2021"
+          ]
+        },
+        {
+          "text": "The Wall Street Journal wrote that the president had tried to stop the stock market's slide by engineering Huang's return.",
+          "refs": [
+            "099ce47a82"
+          ]
+        },
+        {
+          "text": "Nvidia's board had said on Nov. 17 that it did not intend to reinstate Huang as CEO.",
+          "refs": [
+            "business-w3"
+          ]
+        },
+        {
+          "text": "Trump has said the FBI was looking into Huang's relationship with the woman and that Huang told him he did not know she was a spy.",
+          "refs": [
+            "business-w4"
+          ]
+        },
+        {
+          "text": "The Wall Street Journal reported that Nvidia's sales chief, Jay Puri, dated and later married a Super Micro executive whose former company has been linked to chip smuggling.",
+          "refs": [
+            "92c4f1edf9"
+          ]
+        },
+        {
+          "text": "Asian stocks have swung sharply since Huang's return, the BBC reported, describing the region's large bet on Nvidia.",
+          "refs": [
+            "68d12cc1e2"
+          ]
+        },
+        {
+          "text": "Denny's restored a plaque honoring Huang at the San Jose booth where Nvidia was conceived.",
+          "refs": [
+            "6d461eaccb",
+            "26fa32347d"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "b9ca1cb881",
+          "note": "Leads with Trump's defense of Huang on security grounds."
+        },
+        {
+          "ref": "130017787c",
+          "note": "Places the affair in the context of U.S.-China AI competition."
+        },
+        {
+          "ref": "643cbf2021",
+          "note": "Emphasizes open questions about governance and whether Huang has changed."
+        },
+        {
+          "ref": "6d461eaccb",
+          "note": "Takes a lighter angle, the return of Huang's plaque at Denny's."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "b9ca1cb881",
+          "takeaway": "The Hindu: Trump's comments plus the stock's fall and partial rebound.",
+          "read_full": false
+        },
+        {
+          "ref": "4820802c6f",
+          "takeaway": "The Hindu: analysis of what Huang must change in his second stint.",
+          "read_full": false
+        },
+        {
+          "ref": "977e4bf1fe",
+          "takeaway": "Fox Business: Trump doubling down on support amid security concerns.",
+          "read_full": false
+        },
+        {
+          "ref": "d26764b432",
+          "takeaway": "Fox Business: Trump's support amid the ongoing investigation.",
+          "read_full": false
+        },
+        {
+          "ref": "643cbf2021",
+          "takeaway": "Headline and summary only (paywalled): governance questions.",
+          "read_full": false
+        },
+        {
+          "ref": "099ce47a82",
+          "takeaway": "Headline and summary only (paywalled): market analysis of Trump's role in the reinstatement.",
+          "read_full": false
+        },
+        {
+          "ref": "92c4f1edf9",
+          "takeaway": "Headline and summary only (paywalled): a second executive relationship with China links.",
+          "read_full": false
+        },
+        {
+          "ref": "68d12cc1e2",
+          "takeaway": "BBC: impact on Asian markets heavily tied to Nvidia.",
+          "read_full": false
+        },
+        {
+          "ref": "130017787c",
+          "takeaway": "Washington Examiner: U.S.-China AI race angle.",
+          "read_full": false
+        },
+        {
+          "ref": "6d461eaccb",
+          "takeaway": "Headline and summary only (paywalled): Denny's plaque restored.",
+          "read_full": false
+        },
+        {
+          "ref": "26fa32347d",
+          "takeaway": "Fox Business: backlash against Denny's tribute.",
+          "read_full": false
+        }
+      ],
+      "social": "Fox Business reported a backlash online against Denny's tribute to Huang; earlier in the month, the chain had put the plaque back after users criticized its removal."
+    },
+    {
+      "id": "oil-weekly-gain-mideast-attacks",
+      "headline": "Oil heads for first weekly gain this month as Middle East attacks escalate",
+      "region": "Energy",
+      "importance": 4,
+      "summary": "Oil rose for a fourth day and was on track for its first weekly gain in November, as attacks on tankers and energy infrastructure in the Middle East raised fears of supply disruption. Brent crude traded above $97 a barrel on Friday, the Wall Street Journal reported. OPEC+ is expected to keep its production targets unchanged for the first quarter, according to sources cited by Reuters.",
+      "why_it_matters": "Higher crude prices feed into gasoline, heating and airfares, and add to the inflation the Fed is trying to bring down. Airlines are already feeling fuel costs.",
+      "background": "Since a war involving Iran began in late February, attacks on Gulf shipping and on Saudi oil facilities, many claimed by Yemen's Houthis, have repeatedly pushed oil prices up, with Brent topping $100 at times this fall. Prices fell sharply earlier in November before this week's rebound. OPEC+, the group of oil producers led by Saudi Arabia and Russia, sets output targets and is weighing its plans for 2027. Ukrainian strikes on Russian refineries are also affecting fuel markets.",
+      "facts": [
+        {
+          "text": "Oil rose for a fourth day and headed for its first weekly gain of the month as escalating attacks on energy infrastructure and tankers in the Middle East raised supply concerns, Bloomberg reported.",
+          "refs": [
+            "f194139ecb",
+            "b9eccb5d6d"
+          ]
+        },
+        {
+          "text": "Brent crude rose above $97 a barrel as attacks on Gulf shipping and Saudi energy infrastructure kept the geopolitical risk premium high, the Wall Street Journal reported.",
+          "refs": [
+            "0ae160be2c"
+          ]
+        },
+        {
+          "text": "A drone attack on Kuwait killed two Italian civilians and injured two others on Thursday, Bloomberg reported.",
+          "refs": [
+            "b9eccb5d6d"
+          ]
+        },
+        {
+          "text": "OPEC+ is likely to keep its oil output targets steady in the first quarter as disputes over production capacity persist, Reuters reported, citing sources.",
+          "refs": [
+            "44802474de",
+            "7fedb5c21d"
+          ]
+        },
+        {
+          "text": "The group faces difficult talks on 2027 output and capacity targets, with attacks on energy infrastructure between Ukraine and Russia clouding the outlook, The Japan Times reported.",
+          "refs": [
+            "711c34854b"
+          ]
+        },
+        {
+          "text": "Russia extended a ban on most jet fuel exports through March to keep its domestic market supplied amid Ukrainian attacks on refineries, Bloomberg reported.",
+          "refs": [
+            "cbbfc2be54"
+          ]
+        },
+        {
+          "text": "Norse Atlantic Airways suspended all flights and its board warned it could file for bankruptcy without urgent funding; Fox News linked the crisis to rising fuel costs.",
+          "refs": [
+            "ae5d9df3e1",
+            "a6cb16310a",
+            "3e7df3c3db"
+          ]
+        },
+        {
+          "text": "Goldman Sachs has warned that Brent could reach or exceed $120 if Gulf production and exports remain significantly constrained.",
+          "refs": [
+            "business-w5"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "0ae160be2c",
+          "note": "Ties the price rise directly to attacks on shipping and Saudi infrastructure."
+        },
+        {
+          "ref": "7fedb5c21d",
+          "note": "Focuses on supply policy, with OPEC+ holding output steady."
+        },
+        {
+          "ref": "3e7df3c3db",
+          "note": "Puts the human cost first: an airline on the brink and stranded passengers."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "f194139ecb",
+          "takeaway": "Headline and summary only (paywalled): fourth daily gain, supply worries.",
+          "read_full": false
+        },
+        {
+          "ref": "b9eccb5d6d",
+          "takeaway": "Headline and summary only (paywalled): weekly gain and the Kuwait drone attack.",
+          "read_full": false
+        },
+        {
+          "ref": "0ae160be2c",
+          "takeaway": "Headline and summary only (paywalled): Brent above $97.",
+          "read_full": false
+        },
+        {
+          "ref": "44802474de",
+          "takeaway": "Reuters: sources on OPEC+ rolling over targets.",
+          "read_full": false
+        },
+        {
+          "ref": "711c34854b",
+          "takeaway": "The Japan Times: harder talks ahead on 2027 targets.",
+          "read_full": false
+        },
+        {
+          "ref": "cbbfc2be54",
+          "takeaway": "Headline and summary only (paywalled): Russian jet fuel export ban.",
+          "read_full": false
+        },
+        {
+          "ref": "ae5d9df3e1",
+          "takeaway": "Reuters: Norse Atlantic flags bankruptcy risk.",
+          "read_full": false
+        },
+        {
+          "ref": "a6cb16310a",
+          "takeaway": "BBC: airline seeks a financial lifeline.",
+          "read_full": false
+        },
+        {
+          "ref": "3e7df3c3db",
+          "takeaway": "Fox News: links the suspension to fuel costs and stranded passengers.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "black-friday-value-shoppers-ai",
+      "headline": "Black Friday tests retailers as price-conscious shoppers turn to AI and spread out spending",
+      "region": "Retail",
+      "importance": 3,
+      "summary": "Retailers head into Black Friday expecting solid holiday spending even as higher prices push shoppers to hunt for value and make trade-offs. Many shoppers plan to use AI tools to find deals, and consumer reporters warned that scam sites can fool those tools. The day itself has become calmer as discounts spread across all of November.",
+      "why_it_matters": "Prices are rising faster than earlier this year, so holiday budgets stretch less far; shoppers using AI assistants are advised to check that a store is real before paying.",
+      "background": "Black Friday, the day after Thanksgiving, has long marked the start of the holiday shopping season, though retailers now run sales through much of November and online. Consumer spending drives most of the U.S. economy, so the season is watched as a gauge of how households are coping with inflation. The National Retail Federation forecast in October that November-December sales would grow 4.2% to about $1.01 trillion, noting that inflation adds to the total. This year AI shopping assistants are a new factor.",
+      "facts": [
+        {
+          "text": "Retailers expect robust holiday spending through Black Friday and beyond even as consumers face economic headwinds and look for value, CNBC reported.",
+          "refs": [
+            "ffc7af8ca8",
+            "71a053ce74"
+          ]
+        },
+        {
+          "text": "Within strong consumer spending, many families are making trade-offs to afford the meals, trips and activities they value most, the New York Times reported.",
+          "refs": [
+            "4a333fcbe8"
+          ]
+        },
+        {
+          "text": "Six in 10 shoppers plan to use AI for Black Friday shopping, according to a New York Post report that also flagged risks of bad recommendations.",
+          "refs": [
+            "8c1bb74cc0"
+          ]
+        },
+        {
+          "text": "CBS News reported that AI shopping bots are steering some shoppers to fake online stores created by scammers.",
+          "refs": [
+            "f95e62b215"
+          ]
+        },
+        {
+          "text": "Retailers' strategy of spreading deals across the month, which gained momentum in the pandemic, has made Black Friday itself calmer, Axios reported.",
+          "refs": [
+            "34c5fd30ec"
+          ]
+        },
+        {
+          "text": "Bath & Body Works' CEO pledged to keep prices affordable as shoppers hunt for deals, Fox Business reported.",
+          "refs": [
+            "3b7c96a544",
+            "c42811685a"
+          ]
+        },
+        {
+          "text": "The National Retail Federation forecast that November-December sales would rise 4.2% from 2025 to about $1.013 trillion.",
+          "refs": [
+            "business-w6"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "ffc7af8ca8",
+          "note": "Optimistic: inflation-driven value hunting is good news for Black Friday."
+        },
+        {
+          "ref": "f95e62b215",
+          "note": "Warns of scam stores that fool AI shopping agents."
+        },
+        {
+          "ref": "34c5fd30ec",
+          "note": "Treats the shift to a month-long 'Black November' as the main story."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "ffc7af8ca8",
+          "takeaway": "CNBC: retailers upbeat despite headwinds.",
+          "read_full": false
+        },
+        {
+          "ref": "71a053ce74",
+          "takeaway": "Reuters: explainer on tight budgets and AI-savvy shoppers.",
+          "read_full": false
+        },
+        {
+          "ref": "4a333fcbe8",
+          "takeaway": "Headline and summary only (paywalled): trade-offs inside strong spending.",
+          "read_full": false
+        },
+        {
+          "ref": "8c1bb74cc0",
+          "takeaway": "New York Post: AI shopping adoption and its risks.",
+          "read_full": false
+        },
+        {
+          "ref": "f95e62b215",
+          "takeaway": "CBS News: consumer warning on fake stores.",
+          "read_full": false
+        },
+        {
+          "ref": "34c5fd30ec",
+          "takeaway": "Axios: the calmer, spread-out shopping season.",
+          "read_full": false
+        },
+        {
+          "ref": "3b7c96a544",
+          "takeaway": "Fox Business: retailer CEO on affordability.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "altria-imperial-brands-possible-offer",
+      "headline": "Marlboro maker Altria weighs a possible bid for Britain's Imperial Brands",
+      "region": "Deals",
+      "importance": 3,
+      "summary": "Imperial Brands, the British tobacco company, confirmed that Altria is considering a possible offer for it, and Imperial's shares jumped in London. Nikkei Asia reported that a deal could involve Japan Tobacco, and Bloomberg said it could also affect Altria's stake in brewer AB InBev. No offer has been made.",
+      "why_it_matters": "A deal would reshape one of the world's largest consumer industries as smoking declines; for most people the effect is through retirement funds and index funds that hold tobacco shares. Coverage came mainly from business and center-rated outlets.",
+      "background": "Altria sells Marlboro cigarettes in the United States, and Imperial Brands is a British company that makes brands such as Winston and Davidoff. Tobacco companies face long-term declines in smoking and are trying to build revenue from alternatives such as vapes and nicotine pouches, which has fueled interest in mergers. Under British takeover rules, a company that says it is weighing a bid usually has a fixed period to make a firm offer or walk away.",
+      "facts": [
+        {
+          "text": "Imperial Brands said Altria is weighing a possible offer for the company.",
+          "refs": [
+            "35226e34c4",
+            "3db3870d16"
+          ]
+        },
+        {
+          "text": "Imperial Brands shares soared on the bid interest as UK stocks gained, Reuters reported.",
+          "refs": [
+            "818fd40cf0"
+          ]
+        },
+        {
+          "text": "Nikkei Asia reported that Altria is exploring a bid possibly together with Japan Tobacco.",
+          "refs": [
+            "d381dc9b63"
+          ]
+        },
+        {
+          "text": "Bloomberg reported that a possible three-way deal could also affect Altria's stake in AB InBev, the brewer.",
+          "refs": [
+            "3bda35c89f"
+          ]
+        },
+        {
+          "text": "The potential deal comes as the industry grapples with long-term declines in smoking and difficulty building revenue from alternatives like vapes, the New York Post reported.",
+          "refs": [
+            "3db3870d16"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "3db3870d16",
+          "note": "Calls it a Big Tobacco 'mega deal' and stresses the industry's decline."
+        },
+        {
+          "ref": "d381dc9b63",
+          "note": "Highlights a possible role for Japan Tobacco."
+        },
+        {
+          "ref": "3bda35c89f",
+          "note": "Focuses on spillover to Altria's beer holding."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "35226e34c4",
+          "takeaway": "Reuters: Imperial's confirmation of Altria's interest.",
+          "read_full": false
+        },
+        {
+          "ref": "8e2103ecbb",
+          "takeaway": "Reuters: explainer on the tobacco giants circling Imperial.",
+          "read_full": false
+        },
+        {
+          "ref": "818fd40cf0",
+          "takeaway": "Reuters: market reaction in London.",
+          "read_full": false
+        },
+        {
+          "ref": "3db3870d16",
+          "takeaway": "New York Post: deal framed against the industry's decline.",
+          "read_full": false
+        },
+        {
+          "ref": "d381dc9b63",
+          "takeaway": "Headline only (paywalled): possible Japan Tobacco involvement.",
+          "read_full": false
+        },
+        {
+          "ref": "3bda35c89f",
+          "takeaway": "Headline and summary only (paywalled): AB InBev stake angle.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "business-w1",
+      "url": "https://247wallst.com/investing/2026/11/09/more-rate-hikes-are-coming-as-job-growth-accelerated-unemployment-fell/",
+      "title": "More Rate Hikes Are Coming as Job Growth Accelerated, Unemployment Fell",
+      "outlet": "24/7 Wall St."
+    },
+    {
+      "id": "business-w2",
+      "url": "https://www.morningstar.com/economy/hot-october-jobs-report-raises-odds-december-rate-hike",
+      "title": "Hot October Jobs Report Raises Odds of December Rate Hike",
+      "outlet": "Morningstar"
+    },
+    {
+      "id": "business-w3",
+      "url": "https://www.kuow.org/npr-news/2026-11-17/nvidia-board-says-it-does-not-intend-to-reinstate-jensen-huang-as-ceo",
+      "title": "Nvidia board says it does not intend to reinstate Jensen Huang as CEO",
+      "outlet": "NPR (via KUOW)"
+    },
+    {
+      "id": "business-w4",
+      "url": "https://www.thestandard.com.hk/world/article/348018/Trumps-close-ties-to-Nvidias-Huang-scrutinized-after-foreign-intelligence-concerns",
+      "title": "Trump's close ties to Nvidia's Huang scrutinized after foreign intelligence concerns",
+      "outlet": "The Standard"
+    },
+    {
+      "id": "business-w5",
+      "url": "https://www.ibtimes.com/middle-east-clashes-again-push-oil-toward-100-goldman-sachs-raises-forecasts-path-120-3807243",
+      "title": "Middle East clashes again push oil toward $100; Goldman Sachs raises forecasts",
+      "outlet": "International Business Times"
+    },
+    {
+      "id": "business-w6",
+      "url": "https://nrf.com/media-center/press-releases/nrf-forecasts-2026-holiday-sales-growth-as-consumers-remain-resilient",
+      "title": "NRF forecasts 2026 holiday sales growth as consumers remain resilient",
+      "outlet": "National Retail Federation"
+    }
+  ]
+}
