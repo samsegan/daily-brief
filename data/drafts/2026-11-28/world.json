@@ -1,0 +1,927 @@
+{
+  "stories": [
+    {
+      "id": "iran-blockade-ship-disabled",
+      "headline": "U.S. disables another ship trying to run its blockade of Iran",
+      "region": "Middle East",
+      "importance": 5,
+      "summary": "A U.S. military aircraft fired on the Palau-flagged M/V Pacific Archer in the Gulf of Oman on Thursday and disabled its propulsion after it tried to breach the U.S. naval blockade of Iranian ports, U.S. Central Command said. An adviser to Iran's supreme leader said Tehran would neither reopen the Strait of Hormuz nor allow the blockade to stand. Separately, Kuwait summoned Iran's ambassador after a drone strike killed two Italian technicians.",
+      "why_it_matters": "The standoff around the Strait of Hormuz, a key route for the world's oil, keeps pressure on fuel and shipping costs, and each confrontation raises the chance of a wider fight that could draw in more countries.",
+      "background": "The United States has been in an armed conflict with Iran in 2026 and has enforced a naval blockade of Iranian ports, first from April to June and again since July, after a short-lived deal broke down. U.S. forces have repeatedly fired on commercial ships that ignored orders to turn back. Iran, in turn, has kept the Strait of Hormuz closed to much traffic. President Trump has used the blockade to squeeze Iran's economy while diplomatic talks have stalled.",
+      "facts": [
+        {
+          "text": "U.S. Central Command said an aircraft fired precision munitions at the stern of the Palau-flagged M/V Pacific Archer on Thursday, disabling its propulsion, and that the civilian crew was unharmed.",
+          "refs": [
+            "565627e432",
+            "18fe4bea17"
+          ]
+        },
+        {
+          "text": "CENTCOM said the ship was struck after multiple warnings and that the U.S. continues to strictly enforce the blockade.",
+          "refs": [
+            "955d83ade1",
+            "3110cf5cd5"
+          ]
+        },
+        {
+          "text": "The ship was disabled in the Gulf of Oman.",
+          "refs": [
+            "3110cf5cd5",
+            "572124c309"
+          ]
+        },
+        {
+          "text": "Mohammad Mokhber, an adviser to Supreme Leader Ayatollah Mojtaba Khamenei, said Iran would neither reopen the Strait of Hormuz nor let the blockade remain, according to Iranian state media.",
+          "refs": [
+            "263e7c916a"
+          ]
+        },
+        {
+          "text": "Kuwait summoned Iran's ambassador over a drone strike on a Kuwaiti military site that killed two Italian technicians working for Rheinmetall.",
+          "refs": [
+            "3110cf5cd5",
+            "2797e26ead"
+          ]
+        },
+        {
+          "text": "The blockade first ran from April 13 to June 18 and was reimposed in July, according to CENTCOM.",
+          "refs": [
+            "world-w1"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Who was behind the drone strike that killed two Italians in Kuwait",
+          "positions": [
+            {
+              "claim": "Italy's foreign minister Antonio Tajani said Iranian-made drones targeted Kuwaiti military installations.",
+              "refs": [
+                "2797e26ead"
+              ]
+            },
+            {
+              "claim": "Iran denied carrying out the attack; foreign minister Abbas Araghchi called the incident suspicious.",
+              "refs": [
+                "9b0b01735e",
+                "123ab3511f"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "1c0a8c8bae",
+          "note": "Calls it a strike on a vessel and ties it to Trump's economic pressure as talks stall."
+        },
+        {
+          "ref": "263e7c916a",
+          "note": "Pairs the U.S. action with Tehran's vow to confront the blockade."
+        },
+        {
+          "ref": "572124c309",
+          "note": "Describes the ship as a tanker trying to slip through and highlights that it happened on Thanksgiving."
+        },
+        {
+          "ref": "955d83ade1",
+          "note": "Uses 'allegedly' for the breach attempt, keeping the U.S. account attributed."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "565627e432",
+          "takeaway": "Summary only: relays CENTCOM's account of the strike and unharmed crew.",
+          "read_full": false
+        },
+        {
+          "ref": "263e7c916a",
+          "takeaway": "Headline only: wire story framing the U.S. strike alongside Iran's defiance.",
+          "read_full": false
+        },
+        {
+          "ref": "3110cf5cd5",
+          "takeaway": "Summary only: adds Kuwait summoning Iran's envoy over the Italians' deaths.",
+          "read_full": false
+        },
+        {
+          "ref": "18fe4bea17",
+          "takeaway": "Summary only: short item on the munitions fired into the ship's stern.",
+          "read_full": false
+        },
+        {
+          "ref": "572124c309",
+          "takeaway": "Summary only: emphasizes the Thanksgiving timing and the tanker's attempt to slip through.",
+          "read_full": false
+        },
+        {
+          "ref": "955d83ade1",
+          "takeaway": "Summary only: live updates noting warnings were given before the strike.",
+          "read_full": false
+        },
+        {
+          "ref": "1c0a8c8bae",
+          "takeaway": "Headline and summary only (paywalled): links the strike to stalled diplomacy.",
+          "read_full": false
+        },
+        {
+          "ref": "2797e26ead",
+          "takeaway": "Summary only: quotes Italy's foreign minister on the Kuwait drone attack.",
+          "read_full": false
+        },
+        {
+          "ref": "9b0b01735e",
+          "takeaway": "Summary only: reports Iran's denial of the Kuwait attack.",
+          "read_full": false
+        },
+        {
+          "ref": "123ab3511f",
+          "takeaway": "Summary only: quotes Araghchi calling the Kuwait incident suspicious.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "canada-court-quebec-bill-21",
+      "headline": "Canada's Supreme Court largely upholds Quebec's religious-symbols ban",
+      "region": "Americas",
+      "importance": 4,
+      "summary": "Canada's Supreme Court on Friday upheld most of Quebec's Bill 21, which bars teachers, police officers and other public employees in positions of authority from wearing religious symbols at work. The court affirmed Quebec's use of the constitution's override clause to shield the law, while leaving room for future legal scrutiny, according to The New York Times. Muslim and civil-rights groups called the ruling a setback.",
+      "why_it_matters": "Public workers in Quebec who wear a hijab, turban, kippah or cross can still be barred from many government jobs, and the ruling shapes how far Canadian provinces can override constitutional rights.",
+      "background": "Quebec passed Bill 21 in 2019, saying it protects the province's secular character; it was the first law of its kind in North America. To shield it from court challenges, the province invoked Section 33 of Canada's Charter of Rights, the so-called notwithstanding clause, which lets legislatures override some rights for five years at a time. A lower court struck down parts of the law in 2021, but Quebec's appeal court restored it in 2024. The Supreme Court heard the combined appeals in a four-day hearing earlier in 2026, with the federal government asking it to set limits on the override power.",
+      "facts": [
+        {
+          "text": "The Supreme Court upheld most of the Quebec law banning public employees in positions of authority, including teachers and police officers, from wearing religious symbols at work.",
+          "refs": [
+            "2ead764ea8",
+            "0c6650b3f4"
+          ]
+        },
+        {
+          "text": "The court affirmed Quebec's use of a constitutional power to override certain rights.",
+          "refs": [
+            "2ead764ea8",
+            "4a8534c435"
+          ]
+        },
+        {
+          "text": "The 2019 law covers symbols including Muslim headscarves, Sikh turbans, Jewish skullcaps and Christian crosses.",
+          "refs": [
+            "0c6650b3f4",
+            "8d94645176"
+          ]
+        },
+        {
+          "text": "The National Council of Canadian Muslims called the ruling a 'significant setback' for rights.",
+          "refs": [
+            "698e4c4fcb"
+          ]
+        },
+        {
+          "text": "Rights groups warned the ruling unfairly targets Muslim women; the South China Morning Post called it a political win for Quebec's sovereigntist government.",
+          "refs": [
+            "24b7c7fd8d"
+          ]
+        },
+        {
+          "text": "The federal government had argued before the court that the override clause does not fully shield laws from judicial review.",
+          "refs": [
+            "world-w2"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "4a8534c435",
+          "note": "Frames it as Quebec keeping its ban and stresses the door left open to later legal review."
+        },
+        {
+          "ref": "698e4c4fcb",
+          "note": "Describes it as a law barring public workers and leads its summary with Muslim groups' objection."
+        },
+        {
+          "ref": "c52bbb7bfb",
+          "note": "Calls it a 'secularism bill', using Quebec's own framing in the headline."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "2ead764ea8",
+          "takeaway": "Summary only: AP wire stressing the court's affirmation of the override power.",
+          "read_full": false
+        },
+        {
+          "ref": "0c6650b3f4",
+          "takeaway": "Summary only: AP version listing the symbols covered by the law.",
+          "read_full": false
+        },
+        {
+          "ref": "8d94645176",
+          "takeaway": "Headline and summary only (paywalled): notes it is the first such law in North America.",
+          "read_full": false
+        },
+        {
+          "ref": "698e4c4fcb",
+          "takeaway": "Headline and summary only (paywalled): leads with Muslim groups' reaction.",
+          "read_full": false
+        },
+        {
+          "ref": "4a8534c435",
+          "takeaway": "Headline and summary only (paywalled): calls it a landmark decision with room for future scrutiny.",
+          "read_full": false
+        },
+        {
+          "ref": "24b7c7fd8d",
+          "takeaway": "Headline and summary only (paywalled): highlights rights groups' warnings and the political win for Quebec.",
+          "read_full": false
+        },
+        {
+          "ref": "c52bbb7bfb",
+          "takeaway": "Summary only: sets out Quebec's rationale and critics' concerns.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "afghanistan-kunar-school-blast",
+      "headline": "Explosion near a school in eastern Afghanistan kills at least 7 students",
+      "region": "Asia-Pacific",
+      "importance": 4,
+      "summary": "An explosion struck a middle school in Afghanistan's Kunar province on Saturday morning, killing at least seven people and wounding more than 90, according to officials. Taliban officials said the blast appears to have started at a nearby depot of explosives used for mining. An investigation is under way.",
+      "why_it_matters": "Most of the victims were schoolchildren, and officials blame poorly stored mining explosives, pointing to weak safety rules in a country where mining is a growing source of income.",
+      "background": "Afghanistan has been ruled by the Taliban since 2021, and its interior ministry is the main source of official information about incidents like this. Kunar is a mountainous province on the border with Pakistan, and its capital is Asadabad. The country has large mineral deposits, and mining using explosives has expanded in recent years. Blasts from old ordnance and mining explosives are a recurring hazard for civilians there.",
+      "facts": [
+        {
+          "text": "The explosion happened around 10 a.m. Saturday at a school in the Andar Ser area on the outskirts of Asadabad, the capital of Kunar province.",
+          "refs": [
+            "2803a08811",
+            "c7ccc30475"
+          ]
+        },
+        {
+          "text": "Officials said preliminary findings point to a nearby depot storing explosives for mining.",
+          "refs": [
+            "3842ecb851",
+            "c25909c07f",
+            "f8768ba049"
+          ]
+        },
+        {
+          "text": "A Taliban interior ministry spokesman blamed carelessness at the explosives depot, according to the BBC.",
+          "refs": [
+            "a7161e8354"
+          ]
+        },
+        {
+          "text": "Officials said an investigation is ongoing.",
+          "refs": [
+            "f8768ba049"
+          ]
+        }
+      ],
+      "disputed": [
+        {
+          "topic": "Death and injury toll",
+          "positions": [
+            {
+              "claim": "Seven killed and more than 90 wounded (up to 99, per the interior ministry spokesperson cited by Reuters).",
+              "refs": [
+                "97ad4b39e3",
+                "25ace31b13",
+                "2803a08811"
+              ]
+            },
+            {
+              "claim": "Ten students killed and more than 100 injured, per an official cited by the BBC.",
+              "refs": [
+                "a7161e8354"
+              ]
+            }
+          ]
+        }
+      ],
+      "framing": [
+        {
+          "ref": "97ad4b39e3",
+          "note": "Calls it an explosion at a school, centering the site."
+        },
+        {
+          "ref": "f8768ba049",
+          "note": "Says the blast was near a school and leads with the mining-explosives explanation."
+        },
+        {
+          "ref": "a7161e8354",
+          "note": "Uses a higher toll and attributes it to an official."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "97ad4b39e3",
+          "takeaway": "Headline only: AP wire with a toll of 7 dead, 90-plus wounded.",
+          "read_full": false
+        },
+        {
+          "ref": "25ace31b13",
+          "takeaway": "Headline only: Reuters wire putting injuries at up to 99.",
+          "read_full": false
+        },
+        {
+          "ref": "2803a08811",
+          "takeaway": "Summary only: gives the time and exact location of the blast.",
+          "read_full": false
+        },
+        {
+          "ref": "a7161e8354",
+          "takeaway": "Summary only: reports a higher toll and the ministry's carelessness explanation.",
+          "read_full": false
+        },
+        {
+          "ref": "f8768ba049",
+          "takeaway": "Summary only: focuses on the improperly stored mining explosives.",
+          "read_full": false
+        },
+        {
+          "ref": "3842ecb851",
+          "takeaway": "Summary only: AP version citing local officials on the depot.",
+          "read_full": false
+        },
+        {
+          "ref": "c25909c07f",
+          "takeaway": "Headline and summary only (paywalled): cites the Taliban interior ministry.",
+          "read_full": false
+        },
+        {
+          "ref": "c7ccc30475",
+          "takeaway": "Summary only: AP version placing the blast in Kunar.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "taiwan-local-elections",
+      "headline": "Taiwan counts votes in local elections watched closely by China",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "Taiwanese voters chose mayors and other local leaders across 22 cities and counties on Saturday. Taiwanese media reported that Taipei Mayor Chiang Wan-an of the opposition Kuomintang was leading his ruling-party challenger Puma Shen as counting went on. Taiwanese officials accused China of trying to interfere, which Beijing denies.",
+      "why_it_matters": "The results are a test of the governing party ahead of the 2028 presidential race and a signal of how Taiwan's voters feel about relations with China, which affects stability in a region central to the world's chip supply.",
+      "background": "Taiwan is a self-governing democracy that China claims as its territory. The Democratic Progressive Party (DPP), which holds the presidency, stresses Taiwan's separate identity, while the opposition Kuomintang (KMT) favors friendlier ties with Beijing. Local elections every four years decide mayors and county leaders and are watched as a gauge for the next presidential vote. The DPP fared poorly in the last local elections in 2022.",
+      "facts": [
+        {
+          "text": "Voters elected local leaders in 22 cities and counties on Saturday.",
+          "refs": [
+            "316bd06ce9",
+            "362c8d7024"
+          ]
+        },
+        {
+          "text": "Taiwanese media reported Taipei Mayor Chiang Wan-an leading challenger Puma Shen in the vote count.",
+          "refs": [
+            "4a9e1c3c5a"
+          ]
+        },
+        {
+          "text": "Taiwanese authorities accused China of trying to interfere and sow distrust in the electoral system; Chinese authorities rejected the allegations.",
+          "refs": [
+            "316bd06ce9",
+            "666f43bd74"
+          ]
+        },
+        {
+          "text": "Campaigns largely focused on local issues such as transport and childcare, while Beijing put pressure on the DPP candidate for Taipei mayor, Deutsche Welle reported.",
+          "refs": [
+            "89b3b6f940"
+          ]
+        },
+        {
+          "text": "Pre-election polls in the Taipei race varied widely, with some showing Shen ahead and others Chiang.",
+          "refs": [
+            "world-w3"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "f9c924c3bb",
+          "note": "Predicts gains for the ruling party, emphasizing a DPP upside."
+        },
+        {
+          "ref": "8abbe5fe2f",
+          "note": "Calls the races tight and stresses what they mean for the KMT's 2028 hopes."
+        },
+        {
+          "ref": "666f43bd74",
+          "note": "Leads with the threat of Chinese interference."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "4a9e1c3c5a",
+          "takeaway": "Summary only: reports Chiang leading in Taipei's count.",
+          "read_full": false
+        },
+        {
+          "ref": "316bd06ce9",
+          "takeaway": "Summary only: covers interference accusations and China's denial.",
+          "read_full": false
+        },
+        {
+          "ref": "666f43bd74",
+          "takeaway": "Summary only: preview centered on Chinese interference warnings.",
+          "read_full": false
+        },
+        {
+          "ref": "89b3b6f940",
+          "takeaway": "Summary only: notes campaigns avoided China and focused on local issues.",
+          "read_full": false
+        },
+        {
+          "ref": "f9c924c3bb",
+          "takeaway": "Headline only: Reuters preview expecting ruling-party gains.",
+          "read_full": false
+        },
+        {
+          "ref": "8abbe5fe2f",
+          "takeaway": "Summary only: frames stakes for the KMT ahead of 2028.",
+          "read_full": false
+        },
+        {
+          "ref": "362c8d7024",
+          "takeaway": "Summary only: AP item on counting across 22 cities and counties.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "zelenskyy-trump-putin-friend-eu-loan",
+      "headline": "Zelenskyy questions Trump calling Putin a 'friend' as an EU loan for Ukraine stalls",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "In a BBC interview in Kyiv, Ukrainian President Volodymyr Zelenskyy called President Trump's description of Vladimir Putin as 'my friend' strange and likened it to calling Adolf Hitler a friend during World War II. He urged the U.S. to put more pressure on Russia. Separately, EU leaders failed to agree on the bloc's 2028-2034 budget, leaving a planned loan to Ukraine in limbo; they will try again in three weeks.",
+      "why_it_matters": "Ukraine depends on U.S. and European support to keep fighting and to shape any peace deal, so signs of friction with Washington and delays in EU money affect how long the war lasts and what it costs Western taxpayers.",
+      "background": "Russia launched its full-scale invasion of Ukraine in February 2022. President Trump has pushed for a negotiated end to the war and has spoken warmly of Putin at times, while Zelenskyy has pressed Washington to toughen its stance on Moscow. The European Union has become Ukraine's main financial backer and has been negotiating a large loan to Kyiv. That loan is now tied up in talks over the EU's next long-term budget, which all member states must approve.",
+      "facts": [
+        {
+          "text": "Zelenskyy told the BBC in Kyiv that Putin 'can't be a friend,' likening it to calling Hitler a friend during World War II.",
+          "refs": [
+            "74829c53aa",
+            "caaaa28692"
+          ]
+        },
+        {
+          "text": "Zelenskyy described Trump calling Putin 'my friend' as 'strange' because, he said, Putin is 'an aggressor and a killer.'",
+          "refs": [
+            "caaaa28692",
+            "937a42c021"
+          ]
+        },
+        {
+          "text": "Zelenskyy urged the U.S. to apply more pressure on Russia to end the invasion.",
+          "refs": [
+            "a7df677691",
+            "32574b9125"
+          ]
+        },
+        {
+          "text": "European Council President António Costa said EU leaders failed to agree on the 2028-2034 budget, leaving a loan for Ukraine in limbo, with leaders set to try again in three weeks.",
+          "refs": [
+            "4320b8f932",
+            "b176ea1cd4"
+          ]
+        },
+        {
+          "text": "The Washington Post reported the loan to Ukraine at $49 billion.",
+          "refs": [
+            "6a8009231f"
+          ]
+        },
+        {
+          "text": "The EU budget equals about 1% to 1.2% of the bloc's gross national income, the AP reported.",
+          "refs": [
+            "5831dc383b"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "a5513b0ab5",
+          "note": "Puts the Hitler comparison up front, casting it as Zelenskyy likening Trump's remark to camaraderie with Hitler."
+        },
+        {
+          "ref": "74829c53aa",
+          "note": "Leads with Zelenskyy's call for U.S. pressure on Putin and calls the remark 'strange', saving the Hitler line for the summary."
+        },
+        {
+          "ref": "d16259dd17",
+          "note": "Frames it as Zelenskyy taking a shot at Trump, emphasizing personal conflict."
+        },
+        {
+          "ref": "937a42c021",
+          "note": "Ties the remark to deepening Kyiv-Washington tension and Europe's uncertain funding."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "a5513b0ab5",
+          "takeaway": "Headline only: leads with the Hitler comparison.",
+          "read_full": false
+        },
+        {
+          "ref": "74829c53aa",
+          "takeaway": "Summary only: AP wire on Zelenskyy's BBC interview and call for pressure on Putin.",
+          "read_full": false
+        },
+        {
+          "ref": "caaaa28692",
+          "takeaway": "Summary only: quotes Zelenskyy calling Putin an aggressor and a killer.",
+          "read_full": false
+        },
+        {
+          "ref": "a7df677691",
+          "takeaway": "Headline only: AP wire framing the call to pressure Putin.",
+          "read_full": false
+        },
+        {
+          "ref": "d16259dd17",
+          "takeaway": "Headline only: casts it as a shot at Trump.",
+          "read_full": false
+        },
+        {
+          "ref": "32574b9125",
+          "takeaway": "Summary only: stresses Zelenskyy's appeal for more U.S. pressure on Russia.",
+          "read_full": false
+        },
+        {
+          "ref": "937a42c021",
+          "takeaway": "Summary only: links it to Kyiv-Washington tension and questions about European funding.",
+          "read_full": false
+        },
+        {
+          "ref": "4320b8f932",
+          "takeaway": "Headline only: AP wire on the stalled EU budget and Ukraine loan.",
+          "read_full": false
+        },
+        {
+          "ref": "b176ea1cd4",
+          "takeaway": "Summary only: cites Costa on the failure to agree the 2028-2034 budget.",
+          "read_full": false
+        },
+        {
+          "ref": "5831dc383b",
+          "takeaway": "Summary only: puts the budget's size in context.",
+          "read_full": false
+        },
+        {
+          "ref": "6a8009231f",
+          "takeaway": "Headline only (paywalled): reports leaders split over spending and a $49 billion loan.",
+          "read_full": false
+        },
+        {
+          "ref": "b011dd0a66",
+          "takeaway": "Headline only: carries the AP wire on the loan.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "spain-snap-election-eve",
+      "headline": "Spain votes Sunday in a snap election that could bring the far right into government",
+      "region": "Europe",
+      "importance": 4,
+      "summary": "Spaniards vote Sunday in a snap general election that polls suggest could end Socialist Prime Minister Pedro Sánchez's eight years in power. Polls point to a majority for the conservative Popular Party together with the far-right Vox, which would be the first far-right party in a Spanish government since the Franco era. Sánchez closed his campaign urging a big turnout so Spain does not go 'backwards.'",
+      "why_it_matters": "A change in Madrid could shift how one of the EU's largest economies handles migration, defense, housing and relations with the Trump administration.",
+      "background": "Sánchez, a Socialist, has led Spain since 2018 and is a prominent critic of President Trump abroad. He called the early election in October after parliament rejected his emergency housing measures, as housing costs have become a top concern for voters. The Popular Party, led by Alberto Núñez Feijóo, has led most polls but would likely need Vox, led by Santiago Abascal, to govern. Spain's far right last held power under dictator Francisco Franco, who died in 1975.",
+      "facts": [
+        {
+          "text": "Spain holds a snap general election on Sunday, Nov. 29.",
+          "refs": [
+            "1cd49b99b2",
+            "0cb7c48917"
+          ]
+        },
+        {
+          "text": "Polls suggest an end to Sánchez's eight-year leftist government.",
+          "refs": [
+            "8c454b219a",
+            "7524c7a9ac"
+          ]
+        },
+        {
+          "text": "Sánchez urged a large turnout so the country does not go 'backwards,' as campaigning ended Friday.",
+          "refs": [
+            "8c454b219a",
+            "7524c7a9ac"
+          ]
+        },
+        {
+          "text": "If polls are right, Vox could become the first far-right party to join a Spanish government since Franco.",
+          "refs": [
+            "7ce82aaf32",
+            "1cd49b99b2"
+          ]
+        },
+        {
+          "text": "Private polls published during the campaign gave the PP and Vox a combined majority, while the state-run CIS poll suggested Sánchez could hold on with a left-wing coalition.",
+          "refs": [
+            "world-w4"
+          ]
+        },
+        {
+          "text": "Sánchez called the election after Congress struck down his emergency housing decrees in early October.",
+          "refs": [
+            "world-w5"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "9aa2892332",
+          "note": "Centers Vox leader Abascal as the likely kingmaker."
+        },
+        {
+          "ref": "b9521c3d85",
+          "note": "Frames the vote around a possible shift toward Trump's Washington."
+        },
+        {
+          "ref": "17b9975fe6",
+          "note": "Focuses on Sánchez's insistence that he can defy the polls."
+        },
+        {
+          "ref": "21f049d74b",
+          "note": "Looks at the stakes for Europe on migration, defense and Gaza."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "1cd49b99b2",
+          "takeaway": "Summary only: eve-of-vote preview stressing the far-right possibility.",
+          "read_full": false
+        },
+        {
+          "ref": "8c454b219a",
+          "takeaway": "Summary only: Sánchez's final appeal and polls pointing to his defeat.",
+          "read_full": false
+        },
+        {
+          "ref": "7524c7a9ac",
+          "takeaway": "Headline and summary only (paywalled): expects a win for conservatives and the far right.",
+          "read_full": false
+        },
+        {
+          "ref": "7ce82aaf32",
+          "takeaway": "Headline and summary only (paywalled): profile of Abascal and Vox.",
+          "read_full": false
+        },
+        {
+          "ref": "9aa2892332",
+          "takeaway": "Headline only: Reuters on Abascal nearing power as kingmaker.",
+          "read_full": false
+        },
+        {
+          "ref": "0cb7c48917",
+          "takeaway": "Summary only: AP explainer on the main election issues.",
+          "read_full": false
+        },
+        {
+          "ref": "b9521c3d85",
+          "takeaway": "Summary only: ties the vote to Spain's relationship with Trump.",
+          "read_full": false
+        },
+        {
+          "ref": "17b9975fe6",
+          "takeaway": "Headline only: Sánchez says he will defy the polls.",
+          "read_full": false
+        },
+        {
+          "ref": "21f049d74b",
+          "takeaway": "Summary only: what a rightward shift could mean for EU policy.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "kenya-cult-leader-manslaughter",
+      "headline": "Kenyan cult leader convicted of manslaughter in 123 more starvation deaths",
+      "region": "Africa",
+      "importance": 3,
+      "summary": "A Kenyan court found preacher Paul Mackenzie guilty of manslaughter in the deaths of 123 followers who were told to starve themselves to 'meet Jesus.' Twenty-nine followers, including his wife, were convicted with him. Mackenzie was already sentenced this month to 200 years in prison for murder in the deaths of 191 people.",
+      "why_it_matters": "The case is one of the deadliest cult tragedies in recent history and has pushed Kenya to debate how to regulate religious groups without curbing freedom of worship.",
+      "background": "In 2023, Kenyan authorities began exhuming hundreds of bodies from Shakahola Forest near the coastal town of Malindi, where Mackenzie's Good News International Church had gathered followers. Prosecutors said he told them to fast to death to reach heaven before the end of the world, and many victims were children. Mackenzie and co-accused were convicted of murder in October 2026 over 191 deaths and he was sentenced to 200 years in November. Further cases on manslaughter and other charges have been moving through Kenyan courts.",
+      "facts": [
+        {
+          "text": "Mackenzie was found guilty of manslaughter in the deaths of 123 followers.",
+          "refs": [
+            "913176fcd4",
+            "5ffdbf1d63",
+            "3cf4bb720a"
+          ]
+        },
+        {
+          "text": "He was convicted along with 29 followers, including his wife.",
+          "refs": [
+            "2f04ead3c9"
+          ]
+        },
+        {
+          "text": "Mackenzie was sentenced this month to 200 years in prison for the murder of 191 people.",
+          "refs": [
+            "2f04ead3c9",
+            "world-w6"
+          ]
+        },
+        {
+          "text": "The earlier murder conviction came in October, when the High Court in Mombasa ruled Mackenzie and his co-accused jointly enforced the fasting that killed children and adults at Shakahola.",
+          "refs": [
+            "world-w7"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "5ffdbf1d63",
+          "note": "Calls him a 'doomsday cult leader' and stresses this is a further conviction."
+        },
+        {
+          "ref": "3cf4bb720a",
+          "note": "Leads with the religious instruction to starve 'to meet Jesus.'"
+        },
+        {
+          "ref": "913176fcd4",
+          "note": "Frames it as the latest in a series of convictions."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "5ffdbf1d63",
+          "takeaway": "Summary only: notes it comes weeks after his murder sentence.",
+          "read_full": false
+        },
+        {
+          "ref": "913176fcd4",
+          "takeaway": "Headline only: Reuters on the 123 manslaughter verdict.",
+          "read_full": false
+        },
+        {
+          "ref": "3cf4bb720a",
+          "takeaway": "Headline only: AP wire on the verdict.",
+          "read_full": false
+        },
+        {
+          "ref": "2f04ead3c9",
+          "takeaway": "Summary only: adds the 29 co-accused, his wife, and the prior 200-year sentence.",
+          "read_full": false
+        },
+        {
+          "ref": "73828cdb52",
+          "takeaway": "Headline only: carries the AP wire.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "new-zealand-election-deadlock",
+      "headline": "New Zealand election final count leaves a centrist newcomer as kingmaker",
+      "region": "Asia-Pacific",
+      "importance": 3,
+      "summary": "Final results of New Zealand's general election released Friday show Prime Minister Christopher Luxon's center-right coalition fell short of a majority. Luxon now needs the support of the centrist Opportunity Party, led by newcomer Qiulae Wong, to stay in power. Without a deal, the country could face another election.",
+      "why_it_matters": "Who governs New Zealand, and on what terms, now depends on negotiations with a small new party, which could change policy on the economy and cost of living.",
+      "background": "New Zealand uses a proportional voting system in which parties usually need coalition partners to govern. Luxon, leader of the National Party, has led a coalition with ACT and New Zealand First since 2023. The final count, which includes special votes, cost the coalition its majority. The Opportunity Party, a centrist party, is a newcomer to this level of influence.",
+      "facts": [
+        {
+          "text": "Final results released Friday showed the ruling center-right coalition short of a parliamentary majority.",
+          "refs": [
+            "6930f0f694",
+            "da0ee2bb93"
+          ]
+        },
+        {
+          "text": "Luxon needs the support of the centrist Opportunity Party to remain in power.",
+          "refs": [
+            "6930f0f694",
+            "da0ee2bb93",
+            "eb38e54258"
+          ]
+        },
+        {
+          "text": "The Opportunity Party is led by Qiulae Wong.",
+          "refs": [
+            "989c51adb7"
+          ]
+        },
+        {
+          "text": "If Luxon cannot reach a deal, the country could be headed for another election.",
+          "refs": [
+            "eb38e54258",
+            "da0ee2bb93"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "989c51adb7",
+          "note": "Calls the outcome a deadlock and casts Wong as an outsider turned kingmaker."
+        },
+        {
+          "ref": "da0ee2bb93",
+          "note": "Leads with Luxon losing his majority and the coalition's need for a minor party."
+        },
+        {
+          "ref": "e7e9e13837",
+          "note": "AP wire framing the newcomer as 'the decider.'"
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "6930f0f694",
+          "takeaway": "Summary only: Reuters wire on the coalition falling short.",
+          "read_full": false
+        },
+        {
+          "ref": "da0ee2bb93",
+          "takeaway": "Summary only: stresses the risk of another election.",
+          "read_full": false
+        },
+        {
+          "ref": "989c51adb7",
+          "takeaway": "Headline and summary only (paywalled): names Wong as kingmaker.",
+          "read_full": false
+        },
+        {
+          "ref": "eb38e54258",
+          "takeaway": "Summary only: centrists as kingmakers and a possible new vote.",
+          "read_full": false
+        },
+        {
+          "ref": "e7e9e13837",
+          "takeaway": "Headline only: carries the AP wire.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "world-w1",
+      "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4542098/us-forces-to-resume-naval-blockade-against-iran/",
+      "title": "U.S. forces to resume naval blockade against Iran",
+      "outlet": "U.S. Central Command"
+    },
+    {
+      "id": "world-w2",
+      "url": "https://www.ctvnews.ca/politics/article/ottawa-says-laws-that-override-charter-rights-arent-shielded-from-legal-scrutiny/",
+      "title": "Ottawa says laws that override Charter rights aren't shielded from legal scrutiny",
+      "outlet": "CTV News"
+    },
+    {
+      "id": "world-w3",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/11/03/2003867062",
+      "title": "Taipei mayoral race poll",
+      "outlet": "Taipei Times"
+    },
+    {
+      "id": "world-w4",
+      "url": "https://www.thestar.com.my/news/world/2026/11/16/spain039s-right-retains-firm-poll-lead-despite-socialist-gains",
+      "title": "Spain's right retains firm poll lead despite Socialist gains",
+      "outlet": "The Star (Reuters)"
+    },
+    {
+      "id": "world-w5",
+      "url": "https://aljazeera.com/news/2026/10/5/spanish-prime-minister-pedro-sanchez-announces-snap-election",
+      "title": "Spain's Pedro Sanchez announces snap election amid housing crisis",
+      "outlet": "Al Jazeera"
+    },
+    {
+      "id": "world-w6",
+      "url": "https://citizen.digital/article/controversial-preacher-paul-mackenzie-sentenced-to-200-years-in-prison-n393446",
+      "title": "Paul Mackenzie jailed for 200 years over Shakahola massacre",
+      "outlet": "Citizen Digital"
+    },
+    {
+      "id": "world-w7",
+      "url": "https://nation.africa/kenya/news/shakahola-mackenzie-30-co-accused-guilty-191-counts-murder--5638226",
+      "title": "Shakahola: Mackenzie, co-accused guilty on 191 counts of murder",
+      "outlet": "Nation"
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "stories": [
+    {
+      "id": "stewart-cousins-dies",
+      "headline": "State Senate Majority Leader Andrea Stewart-Cousins dies at 76",
+      "region": "Albany",
+      "importance": 5,
+      "summary": "Andrea Stewart-Cousins, the Democratic leader of the New York State Senate since 2019, died on Friday at 76, her office's communications director, Mike Murphy, announced. She was found dead at her Yonkers home, and no cause had been announced. Her deputy, Sen. José Serrano, is now the chamber's highest-ranking Democrat, but Senate Democrats must vote to choose a new majority leader.",
+      "why_it_matters": "The Senate majority leader is one of the three people, with the governor and the Assembly speaker, who negotiate the state budget each spring, which sets funding for city schools, the MTA, housing and the city's own taxing powers. Who replaces her will shape how Albany handles New York City's requests in the session that starts in January.",
+      "background": "Stewart-Cousins, a Democrat from Yonkers, served in the State Senate for about 20 years. She became leader of the Senate Democrats in 2012 and majority leader in 2019, after Democrats won control of the chamber, making her the first woman to lead either house of the Legislature and the first Black woman to lead a legislative conference in Albany. Under her leadership the Senate passed major changes to rent laws, voting rules and criminal justice. Earlier this month Senate Democrats had voted to keep her as their leader.",
+      "facts": [
+        {
+          "text": "Stewart-Cousins died on Friday, Nov. 27, at 76; Senate Majority Communications Director Mike Murphy announced her death.",
+          "refs": [
+            "fb2c982f41",
+            "457bc24ca0"
+          ]
+        },
+        {
+          "text": "She was found dead at her home in Yonkers.",
+          "refs": [
+            "f7a68b173c",
+            "37109caf82"
+          ]
+        },
+        {
+          "text": "No cause of death had been made public, New York Public News Network reported.",
+          "refs": [
+            "nyc-w14"
+          ]
+        },
+        {
+          "text": "She was the first woman to serve as Senate majority leader and the first Black woman to lead a legislative conference in Albany.",
+          "refs": [
+            "f896a92bf6",
+            "1bff4a0c0d",
+            "374d8c4afe"
+          ]
+        },
+        {
+          "text": "Deputy Majority Leader José Serrano now holds the highest post in the Senate, the New York Post reported.",
+          "refs": [
+            "ece98883b3"
+          ]
+        },
+        {
+          "text": "A Senate Democratic source told the Post a new majority leader won't be chosen until after her funeral.",
+          "refs": [
+            "ece98883b3"
+          ]
+        },
+        {
+          "text": "Senate Democrats had voted on Nov. 16 to keep Stewart-Cousins as their leader, New York Public News Network reported.",
+          "refs": [
+            "nyc-w14"
+          ]
+        },
+        {
+          "text": "Her Senate seat will be filled by a special election, with the timing set by the governor.",
+          "refs": [
+            "nyc-w15"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "f7a68b173c",
+          "note": "Calls her a 'powerful NY Democrat' and attributes the death to reports, stressing her political clout."
+        },
+        {
+          "ref": "a6d96d62a7",
+          "note": "Leads with her historic role as the first woman in the job."
+        },
+        {
+          "ref": "ece98883b3",
+          "note": "Moves straight to succession, putting Serrano in the headline."
+        },
+        {
+          "ref": "374d8c4afe",
+          "note": "Pairs the milestone of her career with the leadership void her death leaves."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "fb2c982f41",
+          "takeaway": "Summary only: straight report citing the Senate communications director's announcement.",
+          "read_full": false
+        },
+        {
+          "ref": "f7a68b173c",
+          "takeaway": "Summary only: notes she was found dead at her Yonkers home and calls her a trailblazer.",
+          "read_full": false
+        },
+        {
+          "ref": "f896a92bf6",
+          "takeaway": "AP wire story on ABC News, leading with her being the first woman in the role.",
+          "read_full": false
+        },
+        {
+          "ref": "1bff4a0c0d",
+          "takeaway": "Summary only: emphasizes her place as the first Black woman to lead a conference in Albany.",
+          "read_full": false
+        },
+        {
+          "ref": "ece98883b3",
+          "takeaway": "Summary only: focused on Serrano and the timing of a leadership vote.",
+          "read_full": false
+        },
+        {
+          "ref": "374d8c4afe",
+          "takeaway": "Paywalled; headline and summary stress her 20 years in the Senate and the void at the top.",
+          "read_full": false
+        },
+        {
+          "ref": "37109caf82",
+          "takeaway": "Summary only: collects shocked and saddened reactions from city officials.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w14",
+          "takeaway": "Public radio network report on the circumstances and the recent leadership vote.",
+          "read_full": false
+        }
+      ],
+      "social": "Elected officials across the city described themselves as 'shocked,' 'saddened' and 'heartbroken,' amNY reported."
+    },
+    {
+      "id": "rikers-closure-plan",
+      "headline": "Mamdani's Rikers closure plan pushes the deadline to 2032 and raises questions about where detainees will go",
+      "region": "City Hall",
+      "importance": 4,
+      "summary": "Mayor Zohran Mamdani's administration has released a plan to empty Rikers Island by the end of 2032 and move people held there to four borough-based jails and hospital units. The plan would push back the 2027 closure deadline set by the City Council, and coverage this week has focused on how a jail population of about 6,600 would fit into a smaller system.",
+      "why_it_matters": "The timeline and capacity of its replacement affect taxpayers, detainees and the neighborhoods getting new jails. In today's ingest only a right-leaning outlet covered the plan; the details here come from other outlets found through search.",
+      "background": "In 2019 the City Council voted to close the Rikers Island jail complex by 2027 and replace it with smaller jails in Brooklyn, the Bronx, Queens and Manhattan. Construction delays and a jail population that grew after the pandemic put that deadline out of reach under the previous administration. Mamdani said during his campaign that he would follow the Council's closure plan, and since taking office he has opened a jail unit at Bellevue Hospital and named Dana Kaplan as the city's Close Rikers official. The new plan sets out the timeline and the population cuts the city says are needed to make the borough jails work.",
+      "facts": [
+        {
+          "text": "The plan calls for emptying Rikers Island by the end of 2032 and moving detainees to four borough-based jails and hospital-based units.",
+          "refs": [
+            "nyc-w1",
+            "nyc-w2"
+          ]
+        },
+        {
+          "text": "The mayor proposed moving the legal closure deadline from 2027 to 2032.",
+          "refs": [
+            "nyc-w2",
+            "nyc-w1"
+          ]
+        },
+        {
+          "text": "About 6,600 people are currently held in city jails, according to the New York Sun's account of the plan.",
+          "refs": [
+            "02b999b920"
+          ]
+        },
+        {
+          "text": "ABC7 reported the city aims to reduce the jail population to roughly 4,000 people to fit the new system.",
+          "refs": [
+            "nyc-w2"
+          ]
+        },
+        {
+          "text": "The Daily News reported the Brooklyn jail is expected to open first, in 2029, followed by the Bronx and Queens in 2031 and Manhattan in 2032.",
+          "refs": [
+            "nyc-w3"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "02b999b920",
+          "note": "Frames the plan around a practical question, where thousands of detainees will be held, putting capacity ahead of the closure goal."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "02b999b920",
+          "takeaway": "Headline only: an explainer centered on where the island's roughly 6,600 detainees would go.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w1",
+          "takeaway": "Gothamist laid out the 2032 timeline and noted the years of delays behind it.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w2",
+          "takeaway": "ABC7 led with the proposal to delay the legal deadline and the population target.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w3",
+          "takeaway": "Daily News account (via Yahoo) gave the jail-by-jail opening schedule.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mamdani-achilles-surgery",
+      "headline": "Mamdani has surgery for torn Achilles tendon after soccer injury",
+      "region": "City Hall",
+      "importance": 3,
+      "summary": "Mayor Zohran Mamdani had surgery on Friday to repair his right Achilles tendon, which he tore in a soccer match against local journalists. His press secretary said the surgery was successful and that he is recovering at Gracie Mansion and expected to make a full recovery.",
+      "why_it_matters": "City Hall says the mayor plans to be back at work Monday, so city business should continue largely as normal, but he will miss weekend public events, including the rescheduled parade.",
+      "background": "Mamdani, a Democrat, took office as mayor in January 2026. He was hurt earlier this month in a recreational soccer game between City Hall and members of the press, and appeared on Thanksgiving Day at an event in Harlem visibly hobbled. A torn Achilles tendon usually requires surgery and a recovery of several months.",
+      "facts": [
+        {
+          "text": "Mamdani had surgery on Friday to repair a torn right Achilles tendon.",
+          "refs": [
+            "0b325811d1",
+            "9785d49344"
+          ]
+        },
+        {
+          "text": "He was injured in a soccer match against local journalists.",
+          "refs": [
+            "9785d49344",
+            "fe6ec3d565"
+          ]
+        },
+        {
+          "text": "Press Secretary Joe Calvello said the surgery was successful and the mayor is expected to make a full recovery.",
+          "refs": [
+            "584738531d",
+            "bbacf6c27e",
+            "8085dd5cbd"
+          ]
+        },
+        {
+          "text": "The mayor returned to Gracie Mansion to recover after the operation.",
+          "refs": [
+            "584738531d",
+            "6929619ed8"
+          ]
+        },
+        {
+          "text": "City Hall said he would skip events over the weekend and planned to return to work on Monday.",
+          "refs": [
+            "nyc-w16",
+            "nyc-w17"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "584738531d",
+          "note": "Leads with the staff's assurance of a full recovery."
+        },
+        {
+          "ref": "fe6ec3d565",
+          "note": "Highlights the image of a 'hobbled' mayor at a Thanksgiving event."
+        },
+        {
+          "ref": "9785d49344",
+          "note": "Plain account that stresses he was hurt playing against journalists."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "0b325811d1",
+          "takeaway": "AP wire, headline only: surgery for a soccer injury.",
+          "read_full": false
+        },
+        {
+          "ref": "584738531d",
+          "takeaway": "Summary only: press secretary's statement on the surgery and recovery.",
+          "read_full": false
+        },
+        {
+          "ref": "fe6ec3d565",
+          "takeaway": "Summary only: notes his limp at a Harlem event and how he was hurt.",
+          "read_full": false
+        },
+        {
+          "ref": "9785d49344",
+          "takeaway": "Summary only: details the right Achilles tear and the match with journalists.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w16",
+          "takeaway": "NBC New York reported his return to Gracie Mansion and his schedule.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w17",
+          "takeaway": "CNN covered the surgery and City Hall's plans for the weekend.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "macys-parade-postponed",
+      "headline": "Macy's Thanksgiving Day Parade, postponed by the storm, steps off on Saturday",
+      "region": "Manhattan",
+      "importance": 3,
+      "summary": "Macy's postponed its 100th Thanksgiving Day Parade from Thursday to Saturday morning because of forecast high winds and heavy rain, the first weather postponement in the event's history. The rescheduled parade is set for 8:30 a.m. today, and the delay forced tourists, bands and performers to rework their travel plans.",
+      "why_it_matters": "Expect Saturday morning street closures along the Upper West Side and Midtown parade route, crowds around Herald Square, and transit crowding near the route.",
+      "background": "The Macy's parade has run in Manhattan since 1924 and this year marks its 100th edition. City rules adopted after a 1997 balloon accident injured a spectator limit balloon flights in strong winds. Before this year the parade had been called off only during World War II, from 1942 to 1944, because of helium and rubber shortages. A nor'easter forecast for Thanksgiving Day brought gusts that Macy's said made the balloons unsafe.",
+      "facts": [
+        {
+          "text": "Macy's announced on Wednesday, Nov. 25, that the parade would move to Saturday at 8:30 a.m.",
+          "refs": [
+            "nyc-w4",
+            "nyc-w5"
+          ]
+        },
+        {
+          "text": "The Thanksgiving morning forecast called for sustained winds around 20 to 22 mph, gusts up to 40 mph and heavy rain.",
+          "refs": [
+            "nyc-w4"
+          ]
+        },
+        {
+          "text": "It is the first time the parade has been postponed because of weather.",
+          "refs": [
+            "nyc-w5",
+            "nyc-w6"
+          ]
+        },
+        {
+          "text": "A second public balloon-inflation viewing on Friday was canceled, the parade's producer said.",
+          "refs": [
+            "nyc-w4"
+          ]
+        },
+        {
+          "text": "Some out-of-town marching bands had to extend their stays or change plans to take part in the rescheduled parade.",
+          "refs": [
+            "nyc-w7",
+            "7f948e0e2f"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "7f948e0e2f",
+          "note": "Calls the postponement historic and leads with the disruption to tourists and performers."
+        },
+        {
+          "ref": "32070d4cdf",
+          "note": "A live page on the day itself, focused on the parade as it happens rather than the delay."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "7f948e0e2f",
+          "takeaway": "Headline only: focused on how the delay complicated plans for visitors and performers.",
+          "read_full": false
+        },
+        {
+          "ref": "32070d4cdf",
+          "takeaway": "Paywalled live coverage of Saturday's parade; headline only.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w4",
+          "takeaway": "ABC7 detailed the wind forecast and the canceled Friday inflation event.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w5",
+          "takeaway": "CBS New York stressed the first postponement in the parade's 100-year history.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w7",
+          "takeaway": "CNN followed marching bands trying to stay in town for the new date.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "thanksgiving-noreaster-aftermath",
+      "headline": "Body recovered from Jeep swept into water off Staten Island as nor'easter outages linger",
+      "region": "Staten Island",
+      "importance": 3,
+      "summary": "A body was recovered from a Jeep that went into the water off Staten Island during the Thanksgiving Day storm, the Daily News reported. The nor'easter flooded low-lying streets in several boroughs, and more than 500,000 homes along the East Coast were still without power Friday morning.",
+      "why_it_matters": "Coastal and low-lying neighborhoods on Staten Island, in southern Brooklyn and in Queens took the worst flooding, and the death is a reminder of the danger of driving through flooded roads.",
+      "background": "A strong coastal storm, or nor'easter, moved up the East Coast on Thanksgiving Day, Nov. 26, bringing heavy rain and high winds. In New York City it caused street flooding, closed some coastal roads and led Macy's to postpone its parade. Power outages stretched from North Carolina to Connecticut, with Pennsylvania, New Jersey and Maryland among the hardest hit on Friday.",
+      "facts": [
+        {
+          "text": "A body was recovered from a Jeep that was pulled into the waters off Staten Island during the Thanksgiving storm.",
+          "refs": [
+            "ba51225070"
+          ]
+        },
+        {
+          "text": "More than 500,000 homes from North Carolina to Connecticut were without power on Friday morning.",
+          "refs": [
+            "225b3f0cd7"
+          ]
+        },
+        {
+          "text": "The storm brought flooding to low-lying parts of Brooklyn, Queens and Staten Island, and some drivers had to be rescued from stranded cars.",
+          "refs": [
+            "nyc-w8"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "ba51225070",
+          "note": "Local angle centered on the Staten Island death."
+        },
+        {
+          "ref": "225b3f0cd7",
+          "note": "Regional angle centered on Black Friday outages, using the word 'slams' for the storm."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "ba51225070",
+          "takeaway": "Headline only: reports the recovery of a body from the submerged Jeep.",
+          "read_full": false
+        },
+        {
+          "ref": "225b3f0cd7",
+          "takeaway": "Summary only: outage totals across the East Coast on Friday.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w8",
+          "takeaway": "CBS News described flooding and outages across the Northeast and Midwest.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    },
+    {
+      "id": "mamdani-amazon-delivery-bill",
+      "headline": "Mamdani and Amazon spar on Black Friday over City Council delivery-worker bill",
+      "region": "City Hall",
+      "importance": 2,
+      "summary": "Mayor Mamdani used Black Friday to urge the City Council to pass the Delivery Protection Act, a bill that would require companies such as Amazon to directly employ the drivers at their local delivery hubs instead of using subcontractors. Amazon pushed back, warning that the bill could raise customers' fees, and Fox Business reported that 150,000 customers had contacted the Council in opposition.",
+      "why_it_matters": "The bill could change how packages are delivered in the city and what workers and customers get out of it, and a Council vote could come by the end of the year. In today's ingest only right-leaning outlets, Fox Business and the New York Post, covered the Black Friday exchange.",
+      "background": "Council Member Tiffany Cabán introduced the bill, Intro 518, earlier this year, and it had a committee hearing in April. Amazon delivers most packages in the city through 'delivery service partners,' small firms that employ the drivers; the bill would make large last-mile operators employ those drivers directly and get a city license for their facilities. Mamdani announced his support in August. Amazon has argued the change would mean slower and costlier deliveries, while unions and supporters say subcontracting lets the company avoid responsibility for drivers' working conditions.",
+      "facts": [
+        {
+          "text": "The bill would require operators of certain last-mile delivery facilities to directly employ their delivery workers rather than rely on subcontracted delivery partners, and to be licensed by the city.",
+          "refs": [
+            "nyc-w18",
+            "nyc-w19"
+          ]
+        },
+        {
+          "text": "Mamdani announced his support for the bill in August.",
+          "refs": [
+            "nyc-w18"
+          ]
+        },
+        {
+          "text": "On Black Friday, Mamdani called on the Council to pass the bill.",
+          "refs": [
+            "27e8c6a469",
+            "a6802f20dc"
+          ]
+        },
+        {
+          "text": "Amazon has warned that the bill could raise fees on New Yorkers' orders.",
+          "refs": [
+            "a6802f20dc",
+            "nyc-w20"
+          ]
+        },
+        {
+          "text": "Fox Business reported that 150,000 Amazon customers had pushed back against the bill.",
+          "refs": [
+            "8d82c39594"
+          ]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        {
+          "ref": "27e8c6a469",
+          "note": "Casts the mayor as the aggressor, saying he 'targets Amazon' and demands new regulations."
+        },
+        {
+          "ref": "8d82c39594",
+          "note": "Calls the bill a 'delivery crackdown' and foregrounds customer opposition."
+        },
+        {
+          "ref": "a6802f20dc",
+          "note": "Frames it as a two-sided exchange of barbs over a contested bill."
+        }
+      ],
+      "left_out": [],
+      "coverage": [
+        {
+          "ref": "27e8c6a469",
+          "takeaway": "Headline only: the mayor's Black Friday push against Amazon.",
+          "read_full": false
+        },
+        {
+          "ref": "8d82c39594",
+          "takeaway": "Headline only: leads with the 150,000 customers opposing the bill.",
+          "read_full": false
+        },
+        {
+          "ref": "a6802f20dc",
+          "takeaway": "Summary only: both sides' claims about fees and worker protections.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w18",
+          "takeaway": "City Hall's August announcement backing the bill, an official description of what it does.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w19",
+          "takeaway": "NY1 explained how the bill would force direct hiring of contracted drivers.",
+          "read_full": false
+        },
+        {
+          "ref": "nyc-w20",
+          "takeaway": "amNY reported Amazon's warning that the bill would lead to delivery surcharges.",
+          "read_full": false
+        }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    {
+      "id": "nyc-w1",
+      "url": "https://gothamist.com/news/mamdani-lays-out-plan-to-close-rikers-by-2032-after-years-of-delays",
+      "title": "Mamdani lays out plan to close Rikers by 2032, after years of delays",
+      "outlet": "Gothamist"
+    },
+    {
+      "id": "nyc-w2",
+      "url": "https://abc7ny.com/post/mayor-mamdani-proposes-delaying-rikers-island-closure-deadline-2032/20058752/",
+      "title": "Mayor Mamdani proposes delaying Rikers Island closure deadline to 2032",
+      "outlet": "ABC7 New York"
+    },
+    {
+      "id": "nyc-w3",
+      "url": "https://www.yahoo.com/news/politics/articles/mamdani-releases-long-awaited-plan-100000836.html",
+      "title": "Mamdani releases long-awaited plan to close Rikers Island",
+      "outlet": "New York Daily News (via Yahoo)"
+    },
+    {
+      "id": "nyc-w4",
+      "url": "https://abc7ny.com/post/macys-parade-2026-balloon-inflation-how-attend-what-stormy-weather-could-mean/20074929/",
+      "title": "Macy's parade postponed: Balloon inflation will not get second celebration Friday",
+      "outlet": "ABC7 New York"
+    },
+    {
+      "id": "nyc-w5",
+      "url": "https://www.cbsnews.com/newyork/news/macys-thanksgiving-day-parade-postponed/",
+      "title": "Macy's Thanksgiving Day Parade postponed until Saturday due to weather for first time in its 100-year history",
+      "outlet": "CBS New York"
+    },
+    {
+      "id": "nyc-w6",
+      "url": "https://abcnews.com/US/macys-thanksgiving-day-parade-postponed-sources/story?id=138452401",
+      "title": "Macy's Thanksgiving Day parade postponed due to weather for 1st time in 100-year history",
+      "outlet": "ABC News"
+    },
+    {
+      "id": "nyc-w7",
+      "url": "https://www.cnn.com/2026/11/27/us/macys-thanksgiving-parade-marching-bands",
+      "title": "How marching bands tried to stay for the rescheduled Macy's Thanksgiving Day Parade",
+      "outlet": "CNN"
+    },
+    {
+      "id": "nyc-w8",
+      "url": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/",
+      "title": "Powerful Thanksgiving storm brings flooding, power outages to Northeast, Midwest",
+      "outlet": "CBS News"
+    },
+    {
+      "id": "nyc-w14",
+      "url": "https://www.wxxinews.org/text/new-york-public-news-network/2026-11-27/state-senate-majority-leader-andrea-stewart-cousins-has-died",
+      "title": "State Senate Majority Leader Andrea Stewart-Cousins has died",
+      "outlet": "New York Public News Network (WXXI)"
+    },
+    {
+      "id": "nyc-w15",
+      "url": "https://www.wfla.com/news/national/state-senate-succession-westchester-special-election-after-andrea-stewart-cousins-death/",
+      "title": "What happens in the New York State Senate after the death of ASC?",
+      "outlet": "Nexstar (WFLA)"
+    },
+    {
+      "id": "nyc-w16",
+      "url": "https://www.nbcnewyork.com/news/local/mamdani-to-undergo-surgery-today-after-tearing-achilles-in-soccer-match/6576773/",
+      "title": "Mamdani back at Gracie Mansion after 'successful' surgery to repair torn Achilles",
+      "outlet": "NBC New York"
+    },
+    {
+      "id": "nyc-w17",
+      "url": "https://www.cnn.com/2026/11/27/us/mamdani-surgery-achilles-tendon",
+      "title": "Mamdani undergoes surgery to repair his Achilles tendon after soccer injury",
+      "outlet": "CNN"
+    },
+    {
+      "id": "nyc-w18",
+      "url": "https://www.nyc.gov/mayors-office/news/2026/08/mayor-mamdani-backs--delivery-protection-act--to-rein-in-amazon-.html",
+      "title": "Mayor Mamdani backs \"Delivery Protection Act\" to rein in Amazon's power over New York City streets",
+      "outlet": "NYC Mayor's Office"
+    },
+    {
+      "id": "nyc-w19",
+      "url": "https://ny1.com/nyc/all-boroughs/politics/2026/04/10/city-council-bill-could-force-amazon-to-hire-contracted-delivery-workers",
+      "title": "City Council bill could force Amazon to hire contracted delivery workers",
+      "outlet": "NY1"
+    },
+    {
+      "id": "nyc-w20",
+      "url": "https://www.amny.com/news/nyc-council-surcharge-delivery-amazon-says/",
+      "title": "NYC Council bill would bring delivery surcharge, Amazon says",
+      "outlet": "amNY"
+    }
+  ]
+}

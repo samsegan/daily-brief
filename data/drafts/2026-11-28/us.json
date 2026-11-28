@@ -1,0 +1,306 @@
+{
+  "stories": [
+    {
+      "id": "us-thanksgiving-storm-outages",
+      "headline": "Hundreds of thousands still without power after Thanksgiving storm on the East Coast",
+      "region": "",
+      "importance": 4,
+      "summary": "A storm brought heavy rain and high winds to the East Coast from Virginia to New York on Thanksgiving, downing trees and power lines, flooding roads and rail lines and prompting water rescues. Skies cleared Friday and utilities were restoring service, but roughly 400,000 to 490,000 customers were still without power on Friday, according to outlet tallies.",
+      "why_it_matters": "If you live in the affected states, power may still be out and travel may be slow through the holiday weekend; some families postponed Thanksgiving dinners.",
+      "background": "The storm hit on Thanksgiving Day, one of the busiest travel periods of the year. Severe weather also hit the West Coast and parts of the Midwest over the holiday. Outages were heaviest in the Northeast, with New Jersey and Pennsylvania among the hardest-hit states. In New York City, wind forced Macy's to postpone its Thanksgiving Day Parade to Saturday.",
+      "facts": [
+        {
+          "text": "Heavy rain and wind downed trees and power lines and led to water rescues from New York to Virginia, according to the Associated Press.",
+          "refs": ["15f8ba7517", "4542d18e47", "050b0f2a22"]
+        },
+        {
+          "text": "About 490,000 customers were without power as of Friday afternoon, including nearly 201,000 in New Jersey, according to the tracking site poweroutage.us as cited by The Hill.",
+          "refs": ["a735b7f240"]
+        },
+        {
+          "text": "NewsNation reported that outages peaked at about 940,000 customers on Thanksgiving.",
+          "refs": ["c3f0b5d005"]
+        },
+        {
+          "text": "Bloomberg and The New York Times put the number still without power on the East Coast at more than 400,000.",
+          "refs": ["44e4968e42", "7846d48857"]
+        },
+        {
+          "text": "The storm uprooted trees in Queens and Manhattan and flooded commuter rail lines in New Jersey, according to Bloomberg.",
+          "refs": ["44e4968e42"]
+        },
+        {
+          "text": "Pennsylvania and neighboring states were still badly affected on Friday, the BBC reported.",
+          "refs": ["d0f3f33fd3"]
+        },
+        {
+          "text": "Some Americans canceled or moved Thanksgiving dinners to later days because of outages, The New York Times reported.",
+          "refs": ["3c02915390"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "15f8ba7517", "note": "Leads with cleanup and restoration, framing the story as recovery." },
+        { "ref": "44e4968e42", "note": "Stresses risks that linger, with outages and flood danger still in place." },
+        { "ref": "3c02915390", "note": "Focuses on the human impact: holiday dinners called off or postponed." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "15f8ba7517", "takeaway": "Wire story on cleanup and restoration; reprinted by PBS and The Washington Times.", "read_full": false },
+        { "ref": "4542d18e47", "takeaway": "Runs the AP account: travel snarled, trees down, water rescues.", "read_full": false },
+        { "ref": "a735b7f240", "takeaway": "Gives the most specific numbers, with state-by-state outage counts from poweroutage.us.", "read_full": false },
+        { "ref": "c3f0b5d005", "takeaway": "Adds the Thanksgiving peak of about 940,000 customers out.", "read_full": false },
+        { "ref": "44e4968e42", "takeaway": "Headline and summary only (paywalled): more than 400,000 out, damage in Queens, Manhattan and New Jersey rail.", "read_full": false },
+        { "ref": "7846d48857", "takeaway": "Headline and summary only (paywalled): conditions improving but outages and travel problems persist.", "read_full": false },
+        { "ref": "3c02915390", "takeaway": "Headline and summary only (paywalled): families rescheduling dinners.", "read_full": false },
+        { "ref": "d0f3f33fd3", "takeaway": "Notes both coasts were hit and Pennsylvania was among the worst affected.", "read_full": false },
+        { "ref": "050b0f2a22", "takeaway": "Follows the AP framing on travel disruption and restoration.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "us-iowa-lead-detonation-tests",
+      "headline": "EPA says early tests show little lead contamination after Army detonation in Iowa",
+      "region": "",
+      "importance": 4,
+      "summary": "The EPA said its first soil and water samples, taken after the Army's controlled detonation of degraded lead azide in Iowa on Wednesday, showed negligible contamination, and that no airborne lead had been detected. The Army called the operation a success, while residents and some elected officials criticized how much notice the Army gave.",
+      "why_it_matters": "People living near the site can take the early results as a first sign that their water and homes were not contaminated, though officials have so far released only preliminary sampling.",
+      "background": "Lead azide is an explosive used in detonators. The Army said a stockpile at the Iowa Army Ammunition Plant near Burlington had degraded to the point where it could explode on its own, and the EPA issued an emergency permit for a controlled detonation. Before the blast, critics said the Army's modeling of where lead dust might travel was incomplete. The permit required sampling before and after the detonation.",
+      "facts": [
+        {
+          "text": "The EPA said its first soil and water tests after the detonation showed negligible contamination.",
+          "refs": ["8e49609437", "c972e6b024"]
+        },
+        {
+          "text": "The EPA said the detonation did not increase lead levels in water, and that it had sampled more than 130 structures, including homes, schools, daycare centers and churches.",
+          "refs": ["6db2d3367a"]
+        },
+        {
+          "text": "The EPA said there has been zero airborne lead detected in the region since Wednesday's detonation.",
+          "refs": ["525d585dac", "7aa3d3fee1"]
+        },
+        {
+          "text": "The Army called the detonation a success, while residents and some elected officials criticized it for not giving more notice when it first announced the plan, according to the Associated Press.",
+          "refs": ["f41cc829d1", "525d585dac"]
+        },
+        {
+          "text": "Before the detonation, experts cited by The Intercept said the Army's modeling of the blast's effects was incomplete.",
+          "refs": ["us-w1"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "c972e6b024", "note": "Leads with the reassuring result: no lead found in nearby water." },
+        { "ref": "f41cc829d1", "note": "Pairs the Army's claim of success with lingering criticism over notification." },
+        { "ref": "7aa3d3fee1", "note": "Emphasizes open questions about the Army's planning." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "8e49609437", "takeaway": "Reports first soil and water results as showing negligible contamination.", "read_full": false },
+        { "ref": "c972e6b024", "takeaway": "Headline-led: preliminary tests found no lead in water bodies.", "read_full": false },
+        { "ref": "6db2d3367a", "takeaway": "Adds the scale of sampling, more than 130 structures.", "read_full": false },
+        { "ref": "429e4f7ea6", "takeaway": "Earlier wire item saying EPA expected results Friday.", "read_full": false },
+        { "ref": "f41cc829d1", "takeaway": "Wire story balancing the Army's assessment against local criticism over notice.", "read_full": false },
+        { "ref": "525d585dac", "takeaway": "Runs the AP story, quoting EPA's zero airborne lead finding.", "read_full": false },
+        { "ref": "7aa3d3fee1", "takeaway": "Version of the AP story headlined on planning questions.", "read_full": false },
+        { "ref": "us-w1", "takeaway": "Pre-detonation investigation questioning the Army's modeling.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "us-gop-tariff-rethink",
+      "headline": "Some Republicans signal openness to rethinking Trump's tariffs after election losses",
+      "region": "Congress",
+      "importance": 3,
+      "summary": "After election losses that centered on rising costs, many Republicans said they are open to reconsidering some of President Trump's tariffs, the Associated Press reported, creating an opening for Democrats to challenge his trade agenda. Repealing tariffs would still likely require enough Republican votes to overcome a presidential veto.",
+      "why_it_matters": "Tariffs raise the cost of many imported goods, so any change in Congress could affect prices people pay; for now, the tariffs remain in place.",
+      "background": "Tariffs are taxes on imported goods, and they have been a central part of Trump's trade policy in his second term. Polls before the November midterms showed many voters, including some Republicans, blamed tariffs for higher prices. Democrats won the midterms and are set to control Congress. Earlier this year, six Republicans joined Democrats in a vote to repeal tariffs on Canada.",
+      "facts": [
+        {
+          "text": "Many Republicans said they are open to reconsidering some of Trump's tariffs after election losses centered on rising costs, according to the Associated Press.",
+          "refs": ["85c982206a"]
+        },
+        {
+          "text": "Repealing the tariffs would likely require Republican votes in Congress to override a veto, and it is unclear enough Republicans would defy Trump, the AP reported earlier this month.",
+          "refs": ["us-w2"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "85c982206a", "note": "Frames GOP doubts as a political opening for Democrats." },
+        { "ref": "76a4d8ad70", "note": "Same AP headline; its summary leads with the election losses and voter concern about costs." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "85c982206a", "takeaway": "Original wire analysis; also reprinted by The Washington Times and The Washington Post.", "read_full": false },
+        { "ref": "76a4d8ad70", "takeaway": "Runs the AP story; summary centers on cost-of-living losses.", "read_full": false },
+        { "ref": "26800df347", "takeaway": "Reprints the AP story unchanged.", "read_full": false },
+        { "ref": "b28cd384a4", "takeaway": "Headline only (paywalled); AP reprint.", "read_full": false },
+        { "ref": "us-w2", "takeaway": "Earlier AP analysis on why repeal will be hard despite the Democratic win.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "us-aclu-ice-critics-unmask",
+      "headline": "ACLU asks court to block administration effort to unmask online ICE critics",
+      "region": "Courts",
+      "importance": 3,
+      "summary": "The ACLU asked a court to block the Trump administration from using the grand jury process to identify social media users who anonymously criticized immigration enforcement, the Associated Press reported. The civil rights lawyers said the administration is abusing the grand jury process.",
+      "why_it_matters": "The case tests whether the government can find out who is behind anonymous posts criticizing it, which affects how freely people can speak online. Only left-leaning outlets in today's ingest covered this filing.",
+      "background": "Since early this year, the Department of Homeland Security and the Justice Department have sought the identities of anonymous accounts on Reddit and X that criticized ICE. After a DHS summons was challenged and withdrawn, the government turned to a federal grand jury subpoena, and a court denied one user's bid to quash it. The ACLU has also sued ICE for records about these unmasking subpoenas.",
+      "facts": [
+        {
+          "text": "Civil rights attorneys with the ACLU asked a court to block the administration's efforts, saying it is abusing the grand jury process to identify anonymous critics of its immigration enforcement tactics, according to the Associated Press.",
+          "refs": ["cc7bc8bcc9"]
+        },
+        {
+          "text": "Federal prosecutors earlier issued grand jury subpoenas to Reddit and X seeking information about anonymous accounts critical of ICE, Bloomberg Law reported.",
+          "refs": ["us-w3"]
+        },
+        {
+          "text": "The ACLU previously sued ICE under the Freedom of Information Act for records on its efforts to unmask online critics, The Philadelphia Inquirer reported in April.",
+          "refs": ["us-w4"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "48dde8dadb", "note": "Same AP headline; the summary leads with the ACLU's claim that the grand jury process is being abused." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "cc7bc8bcc9", "takeaway": "Original wire report on the filing.", "read_full": false },
+        { "ref": "48dde8dadb", "takeaway": "Runs the AP story; summary states the ACLU's argument.", "read_full": false },
+        { "ref": "d98189c9b8", "takeaway": "Headline only (paywalled); AP reprint.", "read_full": false },
+        { "ref": "us-w3", "takeaway": "Background on the grand jury subpoenas sent to Reddit and X.", "read_full": false },
+        { "ref": "us-w4", "takeaway": "Background on the ACLU's records lawsuit against ICE.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "us-fischer-husband-death",
+      "headline": "Sen. Deb Fischer's office says her husband died by suicide",
+      "region": "Congress",
+      "importance": 3,
+      "summary": "The office of Sen. Deb Fischer, a Nebraska Republican, said Friday that her husband, Bruce Fischer, died by suicide, revising its earlier statement that he had died peacefully at home. The family asked for understanding.",
+      "why_it_matters": "The news drew attention from outlets across the political spectrum. Anyone in the U.S. struggling with thoughts of suicide can call or text 988 to reach the Suicide and Crisis Lifeline.",
+      "background": "Deb Fischer has represented Nebraska in the U.S. Senate since 2013. Her office announced her husband's death earlier in the week. Bruce Fischer, a rancher, drew national attention in 2025 when he declined to shake hands with Kamala Harris at a swearing-in ceremony.",
+      "facts": [
+        {
+          "text": "A spokesperson for Fischer said Friday that Bruce Fischer died by suicide; his death had been announced earlier in the week.",
+          "refs": ["f571ace307", "a05a70afb1", "4567f2bc73"]
+        },
+        {
+          "text": "The update revised the earlier belief that he had died peacefully at home, and the family asked for understanding, Fox News reported.",
+          "refs": ["e1bae6dd9f"]
+        },
+        {
+          "text": "Fischer described her husband as a loving husband, father, grandfather, a man of faith and a rancher.",
+          "refs": ["ef9ffa8fbf", "a05a70afb1"]
+        },
+        {
+          "text": "Bruce Fischer made headlines in 2025 for refusing to shake Kamala Harris's hand, NBC News noted.",
+          "refs": ["4567f2bc73"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "e1bae6dd9f", "note": "Uses a softer 'tragic update' headline without naming the cause of death." },
+        { "ref": "4567f2bc73", "note": "States the cause plainly and attributes it to a spokesperson; summary recalls the 2025 Harris handshake episode." },
+        { "ref": "870c5397fa", "note": "Bare, direct headline stating the cause." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "f571ace307", "takeaway": "Straight report quoting the unnamed spokesperson's statement.", "read_full": false },
+        { "ref": "a05a70afb1", "takeaway": "Leads with the senator's tribute to her husband.", "read_full": false },
+        { "ref": "4567f2bc73", "takeaway": "Adds context about the 2025 Harris handshake.", "read_full": false },
+        { "ref": "e1bae6dd9f", "takeaway": "Notes the revision of the earlier account and the family's request.", "read_full": false },
+        { "ref": "ef9ffa8fbf", "takeaway": "Quotes Fischer's description of her husband.", "read_full": false },
+        { "ref": "870c5397fa", "takeaway": "Brief, headline-only item.", "read_full": false },
+        { "ref": "8934feabde", "takeaway": "Short report with the same core fact.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "us-reagan-airport-wing-clip",
+      "headline": "Two American Airlines jets clip wings while taxiing at Reagan National",
+      "region": "",
+      "importance": 3,
+      "summary": "The wingtips of two American Airlines Boeing 737s touched while taxiing at Ronald Reagan Washington National Airport on Friday evening, during the busy holiday travel weekend. No injuries were reported, both planes returned to their gates, and the FAA said it would investigate.",
+      "why_it_matters": "No one was hurt, but the incident adds to scrutiny of safety at one of the country's most crowded airports during peak holiday travel.",
+      "background": "Reagan National, just outside Washington, D.C., has crowded airspace and runways and has faced scrutiny over safety, including after a deadly midair collision near the airport in January 2025. Ground incidents in which planes' wings touch while taxiing are investigated by the Federal Aviation Administration. American Airlines is the largest carrier at the airport.",
+      "facts": [
+        {
+          "text": "The wingtips of two American Airlines jets made contact Friday evening on the tarmac at Reagan National, and no injuries were reported.",
+          "refs": ["44156a5df0", "88636b0622", "09630ca027"]
+        },
+        {
+          "text": "Both planes were Boeing 737s and were sent back to their gates, according to Fox News.",
+          "refs": ["6cd9700bd7", "09630ca027"]
+        },
+        {
+          "text": "The FAA plans to investigate the incident.",
+          "refs": ["88636b0622", "6cd9700bd7"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "766b280502", "note": "Casts one jet as the actor that clipped another plane's wing." },
+        { "ref": "6cd9700bd7", "note": "Emphasizes the busy holiday travel weekend." },
+        { "ref": "88636b0622", "note": "Highlights a 'tense' moment before takeoff." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "44156a5df0", "takeaway": "Straight account stressing there were no injuries.", "read_full": false },
+        { "ref": "88636b0622", "takeaway": "Notes the FAA investigation and that it happened during taxiing.", "read_full": false },
+        { "ref": "6cd9700bd7", "takeaway": "Adds aircraft type and that both returned to gates.", "read_full": false },
+        { "ref": "09630ca027", "takeaway": "Headline and summary only (paywalled): two 737s, no injuries.", "read_full": false },
+        { "ref": "766b280502", "takeaway": "Headline-only item.", "read_full": false },
+        { "ref": "9a758510e7", "takeaway": "Short item: one jet clipped another while taxiing.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "us-biden-memoir-sales",
+      "headline": "Biden's memoir sells about 21,000 copies in first week",
+      "region": "",
+      "importance": 2,
+      "summary": "Former President Joe Biden's memoir, \"Promise Me, America,\" sold about 21,000 print copies in its first week, according to the sales tracker Circana, well below the debut sales of memoirs by Barack Obama and Bill Clinton.",
+      "why_it_matters": "It is a measure of public interest in Biden after he left office; outlets on the left and right both reported the numbers.",
+      "background": "Former presidents usually publish memoirs after leaving office, and those by Obama and Clinton were major bestsellers. Biden left office in January 2025 after withdrawing from the 2024 race. Circana tracks print book sales in the U.S. and does not capture all formats, such as e-books and audiobooks.",
+      "facts": [
+        {
+          "text": "Biden's memoir sold about 21,000 copies in its first week on sale, according to Circana, the Associated Press reported.",
+          "refs": ["bb823cd414", "16874e322d"]
+        },
+        {
+          "text": "Its first-week sales fell far short of the memoirs by Barack Obama and Bill Clinton.",
+          "refs": ["bb823cd414", "16874e322d"]
+        },
+        {
+          "text": "The Guardian, running the AP story, said the book had received lukewarm reviews from critics.",
+          "refs": ["c2180b6d61"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "bb823cd414", "note": "Frames the number by comparison with Obama and Clinton." },
+        { "ref": "9841405e80", "note": "Calls the sales 'disappointing' in the headline." },
+        { "ref": "16874e322d", "note": "Says sales lag 'way behind' the other presidents' books." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "bb823cd414", "takeaway": "Wire story citing Circana figures; reprinted by ABC, The Guardian and The Washington Post.", "read_full": false },
+        { "ref": "16874e322d", "takeaway": "Independent write-up with the same Circana number.", "read_full": false },
+        { "ref": "9841405e80", "takeaway": "Headline-only item stressing disappointment.", "read_full": false },
+        { "ref": "c2180b6d61", "takeaway": "Adds note on critical reception.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "us-w1", "url": "https://theintercept.com/2026/11/19/iowa-lead-ammunition-detonation-army/", "title": "Iowa lead ammunition detonation (Army)", "outlet": "The Intercept" },
+    { "id": "us-w2", "url": "https://www.bostonglobe.com/2026/11/16/nation/trump-tariffs-democrats-congress/", "title": "Trump's tariffs are unpopular, but they'll be tough to repeal despite Democrats' landslide win", "outlet": "Associated Press (via Boston Globe)" },
+    { "id": "us-w3", "url": "https://news.bloomberglaw.com/immigration/doj-wants-to-know-who-on-reddit-x-is-criticizing-ices-tactics", "title": "DOJ Wants to Know Who on Reddit, X Criticizes ICE's Tactics", "outlet": "Bloomberg Law" },
+    { "id": "us-w4", "url": "https://www.inquirer.com/news/pennsylvania/ice-foia-lawsuit-aclu-subpoenas-social-media-dhs-20260420.html", "title": "ACLU sues ICE for information on efforts to 'unmask' anonymous online critics", "outlet": "The Philadelphia Inquirer" }
+  ]
+}

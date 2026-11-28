@@ -1,0 +1,208 @@
+{
+  "stories": [
+    {
+      "id": "wall-street-best-week",
+      "headline": "Wall Street ends its best week in more than a year as tech stocks rebound",
+      "region": "Markets",
+      "importance": 5,
+      "summary": "US stocks rose again Friday in a holiday-shortened session, closing out what the Associated Press called Wall Street's best week in more than a year. The Nasdaq had its best week since April as investors bought back into technology and AI shares after a November selloff. The rebound spread to Europe, emerging markets and precious metals.",
+      "why_it_matters": "Most retirement accounts and index funds track these markets, so the week recovered part of November's losses for ordinary savers. Tech stocks are still on course for one of their worst months in years, so the turbulence may not be over.",
+      "background": "US stocks fell sharply in November as investors questioned whether the huge spending on artificial intelligence would pay off. The slide sped up after Nvidia, the chipmaker at the center of the AI boom, announced on Nov. 12 that chief executive Jensen Huang had resigned, and the major indexes had fallen into correction territory by Nov. 20. Nvidia's board reinstated Huang on Nov. 23, which set off a rally. The week was shortened by the Thanksgiving holiday, and markets closed early on Friday.",
+      "facts": [
+        {
+          "text": "US stocks rose Friday to end a week of large swings that was Wall Street's best week in more than a year, the Associated Press reported.",
+          "refs": ["e1c4556d9a"]
+        },
+        {
+          "text": "The Nasdaq composite had its best week since April, and the Dow and S&P 500 also finished the week higher.",
+          "refs": ["5cb3c226a2", "f8f0a791ba"]
+        },
+        {
+          "text": "Tech stocks were still on track for one of their worst months in four years, the New York Post reported.",
+          "refs": ["f8f0a791ba"]
+        },
+        {
+          "text": "Technology and defense shares lifted European stock indexes at the end of the week.",
+          "refs": ["429cb937d8"]
+        },
+        {
+          "text": "Emerging-market stocks had their biggest weekly gain since June as investors returned to technology shares, according to Bloomberg.",
+          "refs": ["372af929d8"]
+        },
+        {
+          "text": "Gold and other precious metals rose as risk appetite returned, after a rout that had pushed bullion to a 15-month low.",
+          "refs": ["8e2af7bb27", "5a638f87d0"]
+        },
+        {
+          "text": "The S&P 500 fell more than 9% after Huang's departure from Nvidia was first announced on Nov. 12, CNBC reported.",
+          "refs": ["business-w1"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "e1c4556d9a", "note": "Says the week was 'erratic' along with calling it the best in more than a year, so the volatility gets equal weight with the gains." },
+        { "ref": "9d703d5b64", "note": "Calls it a 'major comeback' and stresses the recovery." },
+        { "ref": "5cb3c226a2", "note": "Says investors took 'a break' from AI jitters, which suggests the worries are paused rather than settled." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "e1c4556d9a", "takeaway": "Headline only in the bundle: the AP wire wrap calling it the best week in more than a year. The Washington Post reprinted the same wire story.", "read_full": false },
+        { "ref": "38ff68cff6", "takeaway": "Headline only: the AP's daily index scorecard for Friday.", "read_full": false },
+        { "ref": "9d703d5b64", "takeaway": "Headline only: presents the holiday week as a comeback.", "read_full": false },
+        { "ref": "f8f0a791ba", "takeaway": "Summary only: Nasdaq's best week in seven months, with a reminder that November is still on track to be a bad month.", "read_full": false },
+        { "ref": "5cb3c226a2", "takeaway": "Headline and summary only (paywalled): Nasdaq's best week since April, with the Dow and S&P also up.", "read_full": false },
+        { "ref": "429cb937d8", "takeaway": "Headline and summary only (paywalled): tech and defense shares lift European indexes.", "read_full": false },
+        { "ref": "372af929d8", "takeaway": "Headline and summary only (paywalled): emerging markets have their best week since June.", "read_full": false },
+        { "ref": "8e2af7bb27", "takeaway": "Headline and summary only (paywalled): gold recovers from a 15-month low.", "read_full": false },
+        { "ref": "5a638f87d0", "takeaway": "Headline and summary only (paywalled): links the metals rally to the return of the AI trade and an end to forced selling.", "read_full": false },
+        { "ref": "business-w1", "takeaway": "CNBC's Nov. 23 report on Huang's reinstatement, used for the size of the earlier selloff.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "nvidia-huang-return",
+      "headline": "Nvidia shares recover part of November's losses after Huang's reinstatement",
+      "region": "Earnings",
+      "importance": 4,
+      "summary": "Nvidia shares rose strongly this week after the board reinstated Jensen Huang as chief executive on Nov. 23, following public pressure from President Trump. The stock was still down nearly 28% for November and 21% for the year, MarketWatch reported. Huang is due to testify before Congress next week.",
+      "why_it_matters": "Nvidia is one of the largest companies in the S&P 500, so its swings move the index funds that hold many Americans' retirement savings. The coming congressional hearings could move the stock again.",
+      "background": "Jensen Huang co-founded Nvidia and led it as its chips became the main hardware behind the AI boom. On Nov. 12 the board announced he had resigned, after an internal investigation into his relationship with a Chinese businesswoman whom reports described as an alleged spy. The FBI, the securities regulator and Congress also opened inquiries. Chief financial officer Colette Kress served as interim CEO until the board voted unanimously on Nov. 23 to bring Huang back, after President Trump had repeatedly urged it to.",
+      "facts": [
+        {
+          "text": "Nvidia's board reinstated Huang as president and chief executive on Nov. 23, and the shares rose about 31% that day.",
+          "refs": ["business-w1", "business-w2"]
+        },
+        {
+          "text": "Huang had resigned on Nov. 12 amid an investigation into his relationship with a woman reports described as an alleged Chinese spy, and CFO Colette Kress was named interim CEO.",
+          "refs": ["business-w3", "business-w4"]
+        },
+        {
+          "text": "Nvidia's stock gained strongly this week but was still down nearly 28% for November and 21% for 2026, MarketWatch reported.",
+          "refs": ["c26728ea18"]
+        },
+        {
+          "text": "The Wall Street Journal reported that the president tried to halt the market's decline by engineering Huang's return.",
+          "refs": ["099ce47a82"]
+        },
+        {
+          "text": "CNBC said the rally after Huang's return faded, as investors kept questioning whether the AI boom can last.",
+          "refs": ["6c48b6b88e", "cac552ba2d"]
+        },
+        {
+          "text": "Huang is scheduled to testify on Dec. 1 and Nvidia general counsel Tim Teter on Dec. 2, and House committees said the board's internal review does not settle national security questions.",
+          "refs": ["business-w5"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "ce0ce63189", "note": "Puts Trump's backing of Huang at the center of the stock's rise." },
+        { "ref": "6c48b6b88e", "note": "Stresses that the rally was short-lived and the AI worries remain." },
+        { "ref": "099ce47a82", "note": "Argues that political intervention cannot set a floor for the market." },
+        { "ref": "6f698ca056", "note": "Frames the return as a question of whether founders are 'too big to fail'." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "099ce47a82", "takeaway": "Headline and summary only (paywalled): says Trump engineered the return and that something more fundamental is needed for a market bottom.", "read_full": false },
+        { "ref": "cac552ba2d", "takeaway": "Summary only: asks whether Huang's return can steady an AI market shaken by doubts about the boom.", "read_full": false },
+        { "ref": "6c48b6b88e", "takeaway": "Summary only: investing-club piece saying the rally was fleeting and the dip was used to buy.", "read_full": false },
+        { "ref": "ce0ce63189", "takeaway": "Headline only: ties the rally to Trump's support for Huang.", "read_full": false },
+        { "ref": "6f698ca056", "takeaway": "Headline only: the debate over whether founder-CEOs are too big to fail.", "read_full": false },
+        { "ref": "e599a8f5d4", "takeaway": "Headline only: experts say AI stocks still face risk with the hearings coming.", "read_full": false },
+        { "ref": "c26728ea18", "takeaway": "Summary only: the week's top gainers, with Nvidia's monthly and yearly losses for context.", "read_full": false },
+        { "ref": "business-w1", "takeaway": "CNBC's report on the reinstatement and the 31% one-day gain.", "read_full": false },
+        { "ref": "business-w2", "takeaway": "Axios on the board's unanimous vote to reinstate Huang.", "read_full": false },
+        { "ref": "business-w3", "takeaway": "Fox Business on the Nov. 12 resignation and the alleged spy investigation.", "read_full": false },
+        { "ref": "business-w4", "takeaway": "San Francisco Standard on the resignation and the interim leadership.", "read_full": false },
+        { "ref": "business-w5", "takeaway": "Yahoo Finance on the rally and the congressional hearings scheduled for early December.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "china-market-support",
+      "headline": "Chinese stocks jump after Beijing pledges to support markets",
+      "region": "China",
+      "importance": 3,
+      "summary": "Chinese shares had their largest one-day gain in two years on Friday after top policymakers promised liquidity and stabilization measures for capital markets. Chinese chip stocks had their biggest one-day gains on record. The pledge came during a volatile stretch for global markets.",
+      "why_it_matters": "China is the world's second-largest economy, and Beijing's support for its markets affects global demand and the international funds held in many US retirement plans. In this bundle, only center and left-leaning outlets covered the story.",
+      "background": "Chinese stocks had been weak for months, and November's global selloff in AI and tech shares made things worse. Beijing has a history of stepping in with public pledges and state buying when its markets slide. This time, state media released an unusual midday summary in which senior policymakers promised to keep markets supplied with cash. The CSI 300, which tracks the largest companies listed in Shanghai and Shenzhen, is the main benchmark.",
+      "facts": [
+        {
+          "text": "The CSI 300 index had its largest one-day rise in two years, following months of weakness.",
+          "refs": ["408cd74b10"]
+        },
+        {
+          "text": "Chinese chip stocks had their biggest one-day gains on record after a rare midday state media summary in which top policymakers pledged liquidity support for markets.",
+          "refs": ["4b82024545"]
+        },
+        {
+          "text": "Authorities restated their support for capital markets and promised stabilization policies.",
+          "refs": ["1f724945d5", "4b82024545"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "4b82024545", "note": "Leads with the record gains in chip stocks rather than the broad market." },
+        { "ref": "1f724945d5", "note": "Uses the milder word 'lifted' and ties the move to global volatility." },
+        { "ref": "408cd74b10", "note": "Says shares 'soar' and puts the rise in the context of months of weakness." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "408cd74b10", "takeaway": "Headline and summary only (paywalled): biggest CSI 300 gain in two years.", "read_full": false },
+        { "ref": "1f724945d5", "takeaway": "Headline and summary only (paywalled): Beijing repeats its pledge of stabilization policies.", "read_full": false },
+        { "ref": "4b82024545", "takeaway": "Summary only: focuses on record chip-stock gains and the state media summary.", "read_full": false }
+      ],
+      "social": ""
+    },
+    {
+      "id": "musk-spacex-trump-accounts",
+      "headline": "Musk expands pledge of SpaceX shares for children's Trump Accounts",
+      "region": "",
+      "importance": 3,
+      "summary": "Elon Musk said he plans to give two SpaceX shares to every child in the United States, a gift Reuters valued at about $18 billion, and said on X that he would donate shares to American children every year. SpaceX shares rose more than 4% on Friday. Fox Business reported that contributions to the government-backed Trump Accounts have reached $1 billion.",
+      "why_it_matters": "Families with children could see stock appear in their kids' Trump Accounts, but how and when the shares would be delivered has not been explained. Reuters described the pledge as part of an effort by Musk to win public support while the tech industry faces heavy political scrutiny.",
+      "background": "Trump Accounts are government-backed investment accounts for children under 18 who have a Social Security number. On Oct. 19, Musk wrote on X that he would give one of his SpaceX shares to every American child next year, which outlets valued at roughly $10 billion. President Trump thanked him and said the shares would go through Trump Accounts. Other donors include SpaceX president Gwynne Shotwell and Michael and Susan Dell, who pledged $6.25 billion.",
+      "facts": [
+        {
+          "text": "Musk plans to give every US child two SpaceX shares, a pledge Reuters valued at about $18 billion.",
+          "refs": ["b12763a3ff"]
+        },
+        {
+          "text": "SpaceX shares rose more than 4% on Friday after Musk said on X that he would donate shares to American children every year.",
+          "refs": ["18028c0bea"]
+        },
+        {
+          "text": "Contributions to Trump Accounts have reached $1 billion, Fox Business reported.",
+          "refs": ["76064d734c"]
+        },
+        {
+          "text": "Musk first pledged one SpaceX share per child on Oct. 19 but has not said how the shares would reach families.",
+          "refs": ["business-w6", "business-w7"]
+        }
+      ],
+      "disputed": [],
+      "framing": [
+        { "ref": "b12763a3ff", "note": "Calls the pledge an 'AI charm' offensive, which emphasizes Musk's motive." },
+        { "ref": "18028c0bea", "note": "Leads with the move in SpaceX's stock price." },
+        { "ref": "76064d734c", "note": "Ties the pledge to the Trump Accounts program and its fundraising total." }
+      ],
+      "left_out": [],
+      "coverage": [
+        { "ref": "b12763a3ff", "takeaway": "Reuters wire story (via Daily Maverick) summary: two shares per child, framed as an effort to win support for Musk's satellite and AI businesses.", "read_full": false },
+        { "ref": "18028c0bea", "takeaway": "Summary only: the SpaceX share move and Musk's plan to give every year.", "read_full": false },
+        { "ref": "76064d734c", "takeaway": "Headline only: the pledge plus $1 billion in total Trump Account contributions.", "read_full": false },
+        { "ref": "business-w6", "takeaway": "Semafor on the original Oct. 19 one-share pledge.", "read_full": false },
+        { "ref": "business-w7", "takeaway": "Al Jazeera on the October pledge's value and open questions about how it works.", "read_full": false }
+      ],
+      "social": ""
+    }
+  ],
+  "web_refs": [
+    { "id": "business-w1", "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html", "title": "Jensen Huang reinstated as Nvidia CEO. Stock skyrockets 31%", "outlet": "CNBC" },
+    { "id": "business-w2", "url": "https://www.axios.com/2026/11/23/nvidia-board-jensen-huang-as-ceo", "title": "Nvidia board reinstates Jensen Huang as CEO", "outlet": "Axios" },
+    { "id": "business-w3", "url": "https://www.foxbusiness.com/business-leaders/nvidia-ceo-jensen-huang-resigns-amid-investigation-relationship-alleged-chinese-spy", "title": "Nvidia CEO Jensen Huang resigns amid investigation into relationship with alleged Chinese spy", "outlet": "Fox Business" },
+    { "id": "business-w4", "url": "https://sfstandard.com/2026/11/12/nvidia-ceo-jensen-huang-resigns/", "title": "Nvidia CEO Jensen Huang resigns", "outlet": "San Francisco Standard" },
+    { "id": "business-w5", "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-return-nvidia-ceo-023541664.html", "title": "Jensen Huang's Return As Nvidia CEO Sparks AI Stock Rally, But Congressional Probes Loom", "outlet": "Yahoo Finance" },
+    { "id": "business-w6", "url": "https://www.semafor.com/article/10/19/2026/musk-to-gift-spacex-shares-to-american-children", "title": "Musk to gift SpaceX shares to American children", "outlet": "Semafor" },
+    { "id": "business-w7", "url": "https://aljazeera.com/news/2026/10/21/musk-pledges-10bn-in-spacex-shares-for-us-children-who-really-gains", "title": "Musk pledges $10bn in SpaceX shares for US children: Who really gains?", "outlet": "Al Jazeera" }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "overview": "The U.S. military said it struck a vessel trying to run the blockade near Iran, the most widely covered story across outlets of every lean. In New York, State Senate Majority Leader Andrea Stewart-Cousins died at 76, according to multiple reports, and Mayor Zohran Mamdani had surgery for a torn Achilles tendon. Abroad, Canada's Supreme Court largely upheld Quebec's ban on religious symbols for public servants, a school blast in Afghanistan killed at least seven students, and Ukrainian President Volodymyr Zelensky questioned President Trump's description of Vladimir Putin as a friend. On Wall Street, stocks closed out their best week in more than a year after Jensen Huang's return to Nvidia lifted tech shares.",
+  "markets": {
+    "summary": "U.S. stocks rose in Friday's shortened post-Thanksgiving session, capping what the Associated Press called Wall Street's best week in more than a year. Tech shares led: the Nasdaq gained 2.3% Friday as investors bought back into AI stocks after Jensen Huang's reinstatement as Nvidia's chief executive, though the index is still down about 9% over the past month. Overseas, Chinese shares jumped after Beijing pledged to support its markets, and Japan's Nikkei also rose about 2%. Gold and other precious metals rebounded as appetite for risk returned, while bitcoin slipped and remains down about a quarter over the month. Treasury yields edged lower, and the 30-year mortgage rate sits at 7.21%.",
+    "movers": [
+      {
+        "symbol": "NASDAQCOM",
+        "why": "The tech-heavy index jumped 2.3% Friday to finish its best week in months, as investors returned to AI and chip stocks after Jensen Huang's return to Nvidia, though it remains about 9% below its level a month ago."
+      },
+      {
+        "symbol": "DJIA",
+        "why": "The Dow rose 1.2% in the holiday-shortened session as the rebound spread beyond tech, putting it above 50,700."
+      },
+      {
+        "symbol": "NIKKEI225",
+        "why": "Japan's main index rose 2.1% as Asian markets followed the tech rebound and Chinese shares rallied on Beijing's promise of market support."
+      },
+      {
+        "symbol": "CBBTCUSD",
+        "why": "Bitcoin fell 1.2% to about $59,900 and did not join the stock rally; it is down about 26% over the past month, and no single cause stands out."
+      }
+    ],
+    "concept": {
+      "term": "Relief rally",
+      "explanation": "A relief rally is a sharp rise in prices after a selloff, driven less by new good news than by the easing of a specific fear. This week's jump in tech stocks after Nvidia brought back Jensen Huang is an example: investors who had sold on worries about the company's leadership bought back in once that worry faded. Relief rallies can be short-lived if the deeper concerns, such as doubts about AI spending, remain, so analysts watch whether gains hold over the following weeks. They matter to your wallet because index funds in 401(k)s and IRAs rise and fall with these swings, and a quick bounce does not always mean a downturn is over."
+    },
+    "watch": [
+      "Mon Nov 30: Cyber Monday, an early read on holiday online spending",
+      "Tue Dec 1: ISM manufacturing survey for November",
+      "Fri Dec 4: November jobs report from the Bureau of Labor Statistics",
+      "Wed Dec 9: Federal Reserve interest-rate decision and new economic projections"
+    ]
+  },
+  "trending": [
+    {
+      "title": "Taiwan election results",
+      "context": "Taiwan held local elections that outlets framed as a test of the governing party under pressure from China, and people were searching for the results.",
+      "signal": "google"
+    },
+    {
+      "title": "Victoria votes in state election",
+      "context": "Voters in the Australian state of Victoria went to the polls Saturday to elect a new state parliament, drawing a wave of posts on Bluesky.",
+      "signal": "bluesky"
+    },
+    {
+      "title": "Jensen Huang reinstated at Nvidia",
+      "context": "Nvidia brought back its co-founder as chief executive after a scandal, a move that lifted chip stocks and set off debate about whether companies depend too heavily on one leader.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "Grand Theft Auto VI",
+      "context": "The upcoming video game drew heavy traffic on Wikipedia and Bluesky, and people searched for claims of a graphics downgrade.",
+      "signal": "wikipedia"
+    },
+    {
+      "title": "Senegal restored as Africa Cup of Nations winner",
+      "context": "The Court of Arbitration for Sport overturned the African football confederation's decision to name Morocco the winner of the 2025 final.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "BepiColombo reaches Mercury",
+      "context": "The joint European and Japanese spacecraft entered orbit around Mercury after a years-long journey.",
+      "signal": "wikipedia_news"
+    },
+    {
+      "title": "Winter storm warning",
+      "context": "People searched for storm warnings as winter weather followed a Thanksgiving storm that left thousands of East Coast households without power.",
+      "signal": "google"
+    },
+    {
+      "title": "World tops 2C for six straight days",
+      "context": "Bluesky users shared reports that global temperatures had stayed more than 2 degrees Celsius above pre-industrial levels for six days running.",
+      "signal": "bluesky"
+    }
+  ]
+}
